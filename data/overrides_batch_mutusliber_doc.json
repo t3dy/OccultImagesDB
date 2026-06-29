@@ -1,0 +1,393 @@
+{
+ "entries": [
+  {
+   "id": "mutus_liber__mutus-liber-1677-1-7f8e00ba",
+   "title": "*Mutus Liber* — title plate (\"Mutus Liber, in quo tamen...\")",
+   "work": "Mutus Liber (The Silent Book)",
+   "creator": "'Altus' (attrib. Isaac Baulot)",
+   "date": "1677",
+   "place": "La Rochelle, France",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "wordless book",
+    "alchemical emblem",
+    "jacob's ladder",
+    "sleeping figure",
+    "angels",
+    "the great work",
+    "title plate",
+    "hieroglyphic"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the alchemist",
+    "angels"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Internet Archive.",
+   "provenance_url": "https://archive.org/details/mutusliber",
+   "summary": "The opening plate of the *Mutus Liber* — the celebrated \"wordless book\" of alchemy, printed at La Rochelle in 1677 under the pseudonym 'Altus' (generally identified with Isaac Baulot). This sheet carries the work's only substantial text: its Latin title-device.\n\n## Iconography\nThe famous first emblem: a man sleeps at the foot of a great ladder set against a rocky landscape while two trumpet-bearing angels ascend and descend its rungs — a clear borrowing from Jacob's dream at Bethel (Genesis 28). A banderole bears the punning Latin legend that the book is mute \"and yet [*in quo tamen*] all of Hermetic philosophy is set forth in hieroglyphic figures.\" Roses and emblematic devices flank the scene.\n\n## Significance\nThe sleeping dreamer and the ladder announce the book's whole method: the Work is to be received as a revelation, read in pictures rather than spelled out. The [[motif:jacob's ladder|ladder]] figures the graded ascent of matter and soul through the stages of the *opus*; the angels are the celestial influences (the dew) that descend to the laboratory. Frequently reprinted in Manget's *Bibliotheca Chemica Curiosa* (1702), the *Mutus Liber* became a touchstone of the idea that alchemy is an essentially visionary, visual science.\n\n## For artists & game designers\nA ready-made \"vision\" frame: a sleeper, a celestial ladder, ascending and descending messengers — drop-in iconography for a dream-sequence or a quest-giving revelation.",
+   "citations": [
+    {
+     "text": "'Altus' (attrib. Isaac Baulot), *Mutus Liber* (La Rochelle, 1677)."
+    },
+    {
+     "text": "Adam McLean, *A Commentary on the Mutus Liber* (Magnum Opus Hermetic Sourceworks)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/mutusliber"
+    }
+   ],
+   "key_concepts": [
+    "mutus liber",
+    "wordless emblem",
+    "jacob's ladder",
+    "alchemical dew"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mutus_liber__mutus-liber-e978dc26",
+   "title": "*Mutus Liber* — the dew-gathering on the field",
+   "work": "Mutus Liber (The Silent Book)",
+   "creator": "'Altus' (attrib. Isaac Baulot)",
+   "date": "1677",
+   "place": "La Rochelle, France",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "dew collection",
+    "praying couple",
+    "celestial dew",
+    "sun and moon",
+    "cloths on the field",
+    "the great work",
+    "sol and luna",
+    "labour"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the alchemist",
+    "the alchemist's wife",
+    "Sol",
+    "Luna"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Internet Archive.",
+   "provenance_url": "https://archive.org/details/mutusliber",
+   "summary": "A working plate from the *Mutus Liber*, the wordless 1677 picture-book of the alchemical Work, showing the celebrated dew-harvest by the praying couple.\n\n## Iconography\nUnder a sky governed by a personified Sun and Moon, a man and a woman spread linen cloths over a meadow and wring the gathered moisture into vessels. Sheep graze nearby; the labour proceeds in the open air. The two operators kneel and pray at the margins of the scene, a recurring device throughout the book.\n\n## Significance\nThe sheets soaked at dawn collect the *ros caeli*, the heavenly dew — for Altus the prime philosophical matter, condensed from the influences of [[motif:sol and luna|Sol and Luna]]. The shared labour of husband and wife embodies the alchemical coniunctio of male and female principles, while their prayer insists that the Work is a *donum Dei*, granted only to the pious. The dew-collection is the single most reproduced image of the *Mutus Liber* and a favourite of later esoteric writers who read it as both chemistry and devotion.\n\n## For artists & game designers\nA gentle, eerie gathering ritual: figures wringing starlit dew from cloths at dawn — perfect for a reagent-collection mechanic that feels sacred rather than industrial.",
+   "citations": [
+    {
+     "text": "'Altus' (attrib. Isaac Baulot), *Mutus Liber* (La Rochelle, 1677)."
+    },
+    {
+     "text": "Adam McLean, *A Commentary on the Mutus Liber* (Magnum Opus Hermetic Sourceworks)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/mutusliber"
+    }
+   ],
+   "key_concepts": [
+    "celestial dew",
+    "prime matter",
+    "coniunctio",
+    "donum dei"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mutus_liber__mutus-liber-in-quo-tamen-lccn92517553-a3b3a53a",
+   "title": "*Mutus Liber* — furnace and vessel operations",
+   "work": "Mutus Liber (The Silent Book)",
+   "creator": "'Altus' (attrib. Isaac Baulot)",
+   "date": "1677",
+   "place": "La Rochelle, France",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "furnace",
+    "alchemical vessel",
+    "distillation",
+    "praying couple",
+    "laboratory operations",
+    "the great work",
+    "athanor",
+    "sun and moon"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the alchemist",
+    "the alchemist's wife"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (Library of Congress / Internet Archive scan)]",
+   "shelfmark": "LCCN 92517553",
+   "iconclass": [],
+   "rights": "Public domain. Via Internet Archive.",
+   "provenance_url": "https://archive.org/details/mutusliber",
+   "summary": "A laboratory plate from the *Mutus Liber* (1677), the wordless emblem-book that sets out the entire Hermetic Work in pictures alone.\n\n## Iconography\nThe operators tend the indoor phase of the *opus*: a furnace or athanor heats a flask, and sealed glass vessels containing the maturing matter are arranged across registers of the plate. The man and woman repeat their kneeling, hands-clasped postures; small numbered or lettered devices mark the sequence of steps. Solar and lunar emblems hover over the operations to keep the celestial-laboratory correspondence in view.\n\n## Significance\nWhere the outdoor plates harvest the dew, this sheet carries the matter indoors for *digestion*, *distillation* and *circulation* in the heat of the [[motif:athanor|athanor]]. The flasks register the colour-changes of the Work — the *nigredo*, *albedo* and *rubedo* by which alchemists read the progress of the stone. The persistence of the praying couple binds furnace-craft to devotion: the fire is tended, but the outcome is prayed for.\n\n## For artists & game designers\nA clean visual grammar for a crafting-station screen: numbered vessels, a glowing furnace, two attendants — an emblem of process you can map directly onto a brewing or transmutation UI.",
+   "citations": [
+    {
+     "text": "'Altus' (attrib. Isaac Baulot), *Mutus Liber* (La Rochelle, 1677)."
+    },
+    {
+     "text": "Adam McLean, *A Commentary on the Mutus Liber* (Magnum Opus Hermetic Sourceworks)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/mutusliber"
+    }
+   ],
+   "key_concepts": [
+    "athanor",
+    "distillation",
+    "colour stages",
+    "laboratory operations"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mutus_liber__alchemical-scene-showing-two-putti-holding-philosopher-s-stone-containing-image-c7105e74",
+   "title": "*Mutus Liber* — two putti holding the philosophers' stone",
+   "work": "Mutus Liber (The Silent Book)",
+   "creator": "'Altus' (attrib. Isaac Baulot)",
+   "date": "1677",
+   "place": "La Rochelle, France",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "putti",
+    "philosophers' stone",
+    "emblem within emblem",
+    "the great work",
+    "winged genii",
+    "globe",
+    "fruit of the work",
+    "allegory"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "putti"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Internet Archive.",
+   "provenance_url": "https://archive.org/details/mutusliber",
+   "summary": "An emblematic plate from the *Mutus Liber* (1677) in which two winged putti present the fruit of the Work — the philosophers' stone shown as a globe or medallion enclosing a further image.\n\n## Iconography\nTwo small winged genii flank and uphold a central round object — a sphere or jewel that itself contains a scene, an emblem nested within the emblem. The composition is heraldic and presentational: the putti act as supporters, displaying the perfected stone as one would display a crest or a relic.\n\n## Significance\nThe nested image is a visual pun on the stone's nature: the *lapis* is said to contain the whole cosmos in little, a microcosm. By giving it to childlike, airy spirits to hold aloft, Altus frames the completed Work as a gift received rather than seized — innocence and grace presenting the [[motif:philosophers' stone|philosophers' stone]]. Putti as bearers of arcane fruit are a stock device of Baroque emblematics that the *Mutus Liber* turns to alchemical ends.\n\n## For artists & game designers\nA trophy-reveal composition: cherubic supporters lifting a glowing relic that holds a tiny world inside it — ideal art for an end-of-quest reward or an artifact-inspection screen.",
+   "citations": [
+    {
+     "text": "'Altus' (attrib. Isaac Baulot), *Mutus Liber* (La Rochelle, 1677)."
+    },
+    {
+     "text": "Adam McLean, *A Commentary on the Mutus Liber* (Magnum Opus Hermetic Sourceworks)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/mutusliber"
+    }
+   ],
+   "key_concepts": [
+    "philosophers' stone",
+    "microcosm",
+    "putti supporters",
+    "fruit of the work"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mutus_liber__cosmological-scene-showing-concentric-circles-depicting-creation-lccn96504159-76f217ab",
+   "title": "*Mutus Liber* — cosmological diagram of concentric circles",
+   "work": "Mutus Liber (The Silent Book)",
+   "creator": "'Altus' (attrib. Isaac Baulot)",
+   "date": "1677",
+   "place": "La Rochelle, France",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "concentric circles",
+    "creation",
+    "cosmological diagram",
+    "macrocosm",
+    "spheres",
+    "the great work",
+    "celestial influences",
+    "as above so below"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (Library of Congress / Internet Archive scan)]",
+   "shelfmark": "LCCN 96504159",
+   "iconclass": [],
+   "rights": "Public domain. Via Internet Archive.",
+   "provenance_url": "https://archive.org/details/mutusliber",
+   "summary": "A cosmological plate associated with the *Mutus Liber* corpus, rendering creation as a nest of concentric circles — the macrocosm against which the alchemical labour is set.\n\n## Iconography\nRings within rings describe the ordered cosmos: an outermost heaven encloses the planetary spheres, the elements and a central earth or sun, in the manner of a creation-diagram. Rays, emblematic devices or labels mark the descent of influence from the circumference toward the centre. The image is essentially diagrammatic rather than narrative.\n\n## Significance\nThe ringed cosmos states the doctrine on which the whole *Mutus Liber* depends: *as above, so below*. The dew gathered in the field plates and the matter cooked in the flasks are condensations of the same celestial powers mapped here. Concentric creation-schemes of this kind descend from Fludd and the wider Hermetic tradition; placed beside the laboratory scenes they assert that the operator's furnace is a small replica of the heavens.\n\n## For artists & game designers\nA self-contained cosmic dial: nested spheres radiating influence inward — usable as a map screen, a magic-system diagram, or a loading-screen mandala.",
+   "citations": [
+    {
+     "text": "'Altus' (attrib. Isaac Baulot), *Mutus Liber* (La Rochelle, 1677)."
+    },
+    {
+     "text": "Robert Fludd, *Utriusque Cosmi ... Historia* (1617–21), for the concentric-cosmos tradition."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/mutusliber"
+    }
+   ],
+   "key_concepts": [
+    "macrocosm",
+    "concentric spheres",
+    "as above so below",
+    "creation diagram"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mutus_liber__mutus-liber-cover-42a7a546",
+   "title": "*Mutus Liber* — cover / title page of a printed edition",
+   "work": "Mutus Liber (The Silent Book)",
+   "creator": "'Altus' (attrib. Isaac Baulot)",
+   "date": "1677 (and later editions)",
+   "place": "La Rochelle, France",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "title page",
+    "printed book",
+    "wordless book",
+    "letterpress",
+    "edition",
+    "bibliography"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Internet Archive.",
+   "provenance_url": "https://archive.org/details/mutusliber",
+   "summary": "The cover or title page of a printed edition of the *Mutus Liber* — a bibliographic, largely textual leaf rather than one of the book's emblematic plates.\n\n## Iconography\nA letterpress title page bearing the work's name and imprint, with little or no figurative imagery. It serves to identify the edition and frame the silent plates that follow.\n\n## Significance\nThough not itself an emblem, the title leaf is part of the book's deliberate paradox: a \"silent book\" still required a spoken title to enter the bibliographic world, and the wording (\"*Mutus Liber, in quo tamen tota Philosophia Hermetica ... figuris hieroglyphicis depingitur*\") advertises the wordless method on the one page that uses words. Included here for completeness of the edition rather than for its iconography.\n\n## For artists & game designers\nUseful as a reference frontispiece or as set-dressing — a period title page to establish a found-grimoire before the player turns to the picture plates.",
+   "citations": [
+    {
+     "text": "'Altus' (attrib. Isaac Baulot), *Mutus Liber* (La Rochelle, 1677)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/mutusliber"
+    }
+   ],
+   "key_concepts": [
+    "title page",
+    "edition",
+    "wordless book"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mutus_liber__mutus-liber-1702-1-71c4650c",
+   "title": "*Mutus Liber* — plate from the 1702 *Bibliotheca Chemica* reprint",
+   "work": "Mutus Liber (The Silent Book)",
+   "creator": "'Altus' (attrib. Isaac Baulot); engraved for J.-J. Manget",
+   "date": "1702 (reprint of the 1677 work)",
+   "place": "Geneva",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "dew collection",
+    "praying couple",
+    "the great work",
+    "celestial influences",
+    "emblem plate",
+    "sun and moon",
+    "reprint",
+    "labour"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the alchemist",
+    "the alchemist's wife"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Internet Archive.",
+   "provenance_url": "https://archive.org/details/mutusliber",
+   "summary": "A plate of the *Mutus Liber* as re-engraved for Jean-Jacques Manget's *Bibliotheca Chemica Curiosa* (Geneva, 1702), the printing through which the silent book reached its widest early audience.\n\n## Iconography\nThe scene reproduces the book's signature programme: the labouring couple at the celestial work — gathering dew, tending vessels and praying — beneath emblems of Sun and Moon. The re-engraving is slightly recut from the 1677 La Rochelle plates but keeps the figures and their devout postures.\n\n## Significance\nManget's monumental anthology gave the *Mutus Liber* canonical status and is the version cited by most later esotericists. The continuity of the imagery across editions — outdoor harvest, indoor furnace, ascent of the soul — let the [[motif:dew collection|dew-gathering]] become shorthand for the whole Hermetic Work in eighteenth- and nineteenth-century occult literature.\n\n## For artists & game designers\nA second 'take' on the dew-harvest, handy when you need a slightly different period engraving of the same ritual for variety across a set of cards or pages.",
+   "citations": [
+    {
+     "text": "'Altus' (attrib. Isaac Baulot), *Mutus Liber*, in J.-J. Manget, *Bibliotheca Chemica Curiosa* (Geneva, 1702)."
+    },
+    {
+     "text": "Adam McLean, *A Commentary on the Mutus Liber* (Magnum Opus Hermetic Sourceworks)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/mutusliber"
+    }
+   ],
+   "key_concepts": [
+    "bibliotheca chemica curiosa",
+    "dew harvest",
+    "reprint tradition",
+    "the great work"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mutus_liber__mutus-liber-tavola-12-e6a60065",
+   "title": "*Mutus Liber* — plate 12 (the harvest and the reaper)",
+   "work": "Mutus Liber (The Silent Book)",
+   "creator": "'Altus' (attrib. Isaac Baulot)",
+   "date": "1677",
+   "place": "La Rochelle, France",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "harvest",
+    "reaper",
+    "scythe",
+    "praying couple",
+    "the great work",
+    "fruit of the work",
+    "fixation",
+    "emblem plate"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the alchemist",
+    "the alchemist's wife"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (Internet Archive scan)]",
+   "shelfmark": "tavola 12",
+   "iconclass": [],
+   "rights": "Public domain. Via Internet Archive.",
+   "provenance_url": "https://archive.org/details/mutusliber",
+   "summary": "Plate 12 of the *Mutus Liber* (1677), a late emblem in the sequence where the long labour begins to bear its harvest.\n\n## Iconography\nThe operators are shown reaping or gathering the matured fruit of the Work — a harvest scene with sheaves, sickle or scythe — and again kneeling in prayer at the picture's edges. The composition turns the earlier sowing-and-watering imagery (the dew plates) toward its conclusion: what was gathered as dew and cooked in the flasks is now cut and brought in.\n\n## Significance\nThe agricultural metaphor governs the whole book — the alchemist as husbandman who plants, waters and finally reaps. The harvest plate marks *fixation* and the gathering of the perfected stone, the *messis* (harvest) that crowns the patient cultivation of the matter. The recurring prayer keeps the outcome framed as grace: the reaper gathers only what heaven has ripened.\n\n## For artists & game designers\nA satisfying \"payoff\" panel for a long crafting arc: the same two figures who gathered dew now reap a glowing harvest — a natural closing image for a multi-stage quest.",
+   "citations": [
+    {
+     "text": "'Altus' (attrib. Isaac Baulot), *Mutus Liber* (La Rochelle, 1677)."
+    },
+    {
+     "text": "Adam McLean, *A Commentary on the Mutus Liber* (Magnum Opus Hermetic Sourceworks)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/mutusliber"
+    }
+   ],
+   "key_concepts": [
+    "harvest of the work",
+    "fixation",
+    "agricultural allegory",
+    "fruit of the work"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

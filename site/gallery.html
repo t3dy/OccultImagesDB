@@ -75,11 +75,19 @@
   <section class="results">
     <div class="results-head">
       <span id="count" class="count"></span>
-      <select id="sort">
-        <option value="chrono">Sort: chronological</option>
-        <option value="work">Sort: by source work</option>
-        <option value="title">Sort: A–Z</option>
-      </select>
+      <div class="results-controls">
+        <div class="viewtoggle" role="group" aria-label="View level">
+          <select id="groupBy">
+            <option value="emblem">View: individual emblems</option>
+            <option value="book">View: emblem books</option>
+          </select>
+        </div>
+        <select id="sort">
+          <option value="chrono">Sort: chronological</option>
+          <option value="work">Sort: by source work</option>
+          <option value="title">Sort: A–Z</option>
+        </select>
+      </div>
     </div>
     <div id="grid" class="grid"></div>
     <div id="empty" class="empty" hidden>No images match these filters. <button id="resetEmpty">Reset</button></div>

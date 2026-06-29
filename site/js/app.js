@@ -2,7 +2,7 @@
 const state = {
   items: [], works: [], filtered: [],
   facets: { era: new Set(), tradition: new Set(), medium: new Set(), work: new Set(), figures: new Set(), motif: new Set() },
-  q: "", sort: "chrono", showScans: false, rendered: 0, PAGE: 60,
+  q: "", sort: "chrono", showScans: false, groupBy: "emblem", renderList: [], rendered: 0, PAGE: 60,
 };
 const ERA_LABEL = { antiquity: "Antiquity", medieval: "Medieval", renaissance: "Renaissance", early_modern: "Early modern", modern: "Modern" };
 const ERA_ORDER = { antiquity: 0, medieval: 1, renaissance: 2, early_modern: 3, modern: 4 };
@@ -28,6 +28,7 @@ async function boot() {
   if (p.get("figure")) state.facets.figures.add(p.get("figure"));
   if (p.get("q")) { state.q = p.get("q").toLowerCase(); }
   if (p.get("scan")) state.showScans = true;
+  if (p.get("view")) state.groupBy = (p.get("view") === "books" || p.get("view") === "book") ? "book" : "emblem";
   buildFacets();
   wire();
   apply();
@@ -79,6 +80,8 @@ function wire() {
   q.value = state.q; document.getElementById("showScans").checked = state.showScans;
   q.oninput = () => { state.q = q.value.toLowerCase().trim(); apply(); };
   document.getElementById("sort").onchange = e => { state.sort = e.target.value; apply(); };
+  const gb = document.getElementById("groupBy");
+  if (gb) { gb.value = state.groupBy; gb.onchange = e => { state.groupBy = e.target.value; apply(); }; }
   document.getElementById("showScans").onchange = e => { state.showScans = e.target.checked; buildFacets(); apply(); };
   document.getElementById("clearFilters").onclick = clearAll;
   document.getElementById("resetEmpty").onclick = clearAll;
@@ -112,20 +115,54 @@ function apply() {
   else if (state.sort === "work") r.sort((a, b) => a._work.localeCompare(b._work) || (a.seq || 0) - (b.seq || 0));
   else r.sort((a, b) => (ERA_ORDER[a.era] ?? 9) - (ERA_ORDER[b.era] ?? 9) || a._work.localeCompare(b._work) || (a.seq || 0) - (b.seq || 0));
   state.filtered = r;
-  document.getElementById("count").innerHTML = `<b>${r.length.toLocaleString()}</b> image${r.length === 1 ? "" : "s"}`;
+  // two-level view: "book" groups the matching images by source work (one card per emblem-book);
+  // "emblem" shows individual images (default).
+  if (state.groupBy === "book") {
+    state.renderList = bookGroups(r);
+    const nb = state.renderList.length;
+    document.getElementById("count").innerHTML =
+      `<b>${nb.toLocaleString()}</b> emblem book${nb === 1 ? "" : "s"} <span class="count-sub">· ${r.length.toLocaleString()} image${r.length === 1 ? "" : "s"}</span>`;
+  } else {
+    state.renderList = r;
+    document.getElementById("count").innerHTML = `<b>${r.length.toLocaleString()}</b> image${r.length === 1 ? "" : "s"}`;
+  }
   const grid = document.getElementById("grid");
   grid.innerHTML = ""; state.rendered = 0;
   document.getElementById("empty").hidden = r.length > 0;
   renderMore();
 }
 
+// group filtered images by work -> one "book" unit each, sorted chronologically then by size
+function bookGroups(imgs) {
+  const m = new Map();
+  for (const it of imgs) { if (!m.has(it.work_key)) m.set(it.work_key, []); m.get(it.work_key).push(it); }
+  return [...m.entries()].map(([wk, list]) => {
+    const w = state.works.find(x => x.key === wk) || {};
+    const cover = list.find(i => i.summary_status !== "placeholder") || list[0];
+    return { __book: true, work_key: wk, title: w.title || list[0]._work || wk, cover,
+      count: list.length, era: list[0].era, creator: w.creator || list[0].creator, date: w.date || list[0].date };
+  }).sort((a, b) => (ERA_ORDER[a.era] ?? 9) - (ERA_ORDER[b.era] ?? 9) || b.count - a.count);
+}
+
 function renderMore() {
   const grid = document.getElementById("grid");
-  const next = state.filtered.slice(state.rendered, state.rendered + state.PAGE);
+  const next = state.renderList.slice(state.rendered, state.rendered + state.PAGE);
   const frag = document.createDocumentFragment();
-  for (const it of next) frag.appendChild(cardEl(it));
+  for (const it of next) frag.appendChild(it.__book ? bookCardEl(it) : cardEl(it));
   grid.appendChild(frag);
   state.rendered += next.length;
+}
+
+function bookCardEl(b) {
+  const a = document.createElement("a");
+  a.className = "card book-card";
+  a.href = `entity.html?type=work&key=${encodeURIComponent(b.work_key)}`;
+  a.innerHTML = `<span class="badge">${b.count} image${b.count === 1 ? "" : "s"}</span>
+    <span class="book-spine">📖</span>
+    <img decoding="async" src="${b.cover.thumb}" alt="${(b.title || "").replace(/"/g, "&quot;")}">
+    <div class="meta"><p class="t">${b.title}</p>
+    <p class="sub">${b.creator || ""}${b.date ? " · " + b.date : ""}</p></div>`;
+  return a;
 }
 
 function cardEl(it) {
