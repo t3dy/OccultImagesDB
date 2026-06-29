@@ -1,0 +1,1661 @@
+{
+ "_work": {
+  "key": "symbolist_occult",
+  "short_id": "SYMB",
+  "title": "Symbolist & Romantic Art with Occult Content",
+  "creator": "various",
+  "date": "1865–1910",
+  "century": 19,
+  "place": "Paris, Brussels, Munich, Milan, The Hague",
+  "region": "Europe",
+  "language": "French",
+  "era": "modern",
+  "tradition": "reception",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "symbolist_occult",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Symbolist_paintings",
+  "rights": "Public domain / CC0 (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "sphinx",
+   "femme fatale",
+   "severed head",
+   "lucifer",
+   "death personified",
+   "occult eroticism"
+  ],
+  "blurb": "Symbolist and Romantic painters and printmakers of the fin-de-siècle who dressed esoteric, theosophical and occult themes in dream-imagery — sphinxes, chimeras, idols, and the personified Dead. Several (Delville, Schwabe, Point) were active in the Rosicrucian Salon de la Rose+Croix."
+ },
+ "entries": [
+  {
+   "id": "symbolist_occult__moreau-chimera",
+   "title": "The Chimera (La Chimère)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Gustave Moreau",
+   "date": "1867",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "chimera",
+    "winged steed",
+    "abduction",
+    "femme fatale",
+    "dream-flight",
+    "monster",
+    "desire",
+    "myth"
+   ],
+   "medium": "painting",
+   "figures": [
+    "the Chimera"
+   ],
+   "repository": "Fogg Museum, Harvard Art Museums, Cambridge, Massachusetts",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Gustave_Moreau_-_La_chim%C3%A8re.jpg",
+   "summary": "Moreau's small panel shows a winged, horned chimera-steed bearing off a swooning woman over a moonlit chasm.\n\n## Iconography\nA dark, bat-winged hybrid creature rears on a crag; a pale nude woman clings to its neck, half-abducted, half-willing. Below them a phantasmal landscape of towers and abysses dissolves into golden gloom. Moreau worked the surface like enamel, encrusting it with jewelled detail.\n\n## Significance\nFor Moreau the chimera embodied the soul's dangerous longing — what he called \"the pursuit of the infinite.\" The image belongs to the late-Romantic fascination with the [[motif:femme fatale|femme fatale]] and with desire as a devouring, half-bestial force. Joris-Karl Huysmans, who made Moreau the patron-painter of his decadent novel *À rebours* (1884), saw in such works a deliberately hermetic, anti-naturalist art.\n\n## For artists & game designers\nNote the abduction-flight composition: predator and prey fused into one silhouette against an abyss reads instantly as both seduction and doom.",
+   "citations": [
+    {
+     "text": "Pierre-Louis Mathieu, *Gustave Moreau* (1976)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Gustave_Moreau_-_La_chim%C3%A8re.jpg"
+    }
+   ],
+   "key_concepts": [
+    "chimera",
+    "decadence",
+    "femme fatale",
+    "symbolist painting"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__moreau-orpheus",
+   "title": "Orpheus (Orphée)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Gustave Moreau",
+   "date": "1865",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "orpheus",
+    "severed head",
+    "lyre",
+    "thracian maiden",
+    "death of the poet",
+    "mystery",
+    "mourning",
+    "antiquity"
+   ],
+   "medium": "painting",
+   "figures": [
+    "Orpheus"
+   ],
+   "repository": "Musée d'Orsay, Paris",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Gustave_Moreau_-_Orpheus_-_Google_Art_Project.jpg",
+   "summary": "A Thracian girl gazes down at the severed head of Orpheus, which still rests upon his lyre after the poet's dismemberment.\n\n## Iconography\nMoreau invents a moment after the myth: a young woman in jewelled dress tenderly cradles the lyre to which Orpheus's head has become fused, his eyes closed as if asleep. The scene is set among rocks and pools at dawn, with shepherds piping in the distance.\n\n## Significance\nThe Orphic mysteries gave antiquity one of its great esoteric currents; Orpheus the singer-theologian was claimed as a precursor by Hermeticists and Neoplatonists. Moreau's image of the still-singing head — poetry surviving death — made it an emblem for the Symbolist generation's near-religious cult of art. The painting was Moreau's first major Salon success (1866).\n\n## For artists & game designers\nThe relic-as-instrument (a head bonded to a lyre) is a memorable design conceit: a sacred object that is also a corpse.",
+   "citations": [
+    {
+     "text": "Geneviève Lacambre, *Gustave Moreau: Magic and Symbols* (1999)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Gustave_Moreau_-_Orpheus_-_Google_Art_Project.jpg"
+    }
+   ],
+   "key_concepts": [
+    "orphic mysteries",
+    "severed head",
+    "cult of art",
+    "symbolism"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__moreau-jupiter-semele",
+   "title": "Jupiter and Semele",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Gustave Moreau",
+   "date": "1895",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "jupiter enthroned",
+    "theophany",
+    "divine radiance",
+    "cosmic hierarchy",
+    "myth",
+    "apotheosis",
+    "jewelled ornament",
+    "godhead"
+   ],
+   "medium": "painting",
+   "figures": [
+    "Jupiter",
+    "Semele"
+   ],
+   "repository": "Musée Gustave Moreau, Paris",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Moreau,_Gustave_-_Jupiter_und_Semele_-_1896.jpg",
+   "summary": "Moreau's vast late masterpiece shows Semele consumed at the instant Jupiter reveals himself in full divine radiance, enthroned at the centre of a teeming cosmic vision.\n\n## Iconography\nThe colossal god sits frontally, eyes blazing, a wounded Semele swooning across his knee. Around the throne swarm allegorical beings — Pan, Hecate, the goddess of Death, infant geniuses — in a hierarchy that descends from divine light to the underworld. Every surface is encrusted with ornament.\n\n## Significance\nMoreau supplied his own esoteric commentary, reading the picture as the soul's ascent through suffering toward the godhead — a syncretic, quasi-theosophical cosmology fusing Greek myth, Indian and Christian motifs. It is the supreme statement of his belief in \"la belle inertie\" and the spiritualization of matter.\n\n## For artists & game designers\nA model of vertical world-building: a single enthroned figure anchoring a full cosmic ladder from light above to monsters below.",
+   "citations": [
+    {
+     "text": "Pierre-Louis Mathieu, *Gustave Moreau* (1976)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Moreau,_Gustave_-_Jupiter_und_Semele_-_1896.jpg"
+    }
+   ],
+   "key_concepts": [
+    "theophany",
+    "cosmic hierarchy",
+    "syncretism",
+    "symbolist cosmology"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__moreau-apparition",
+   "title": "The Apparition (L'Apparition)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Gustave Moreau",
+   "date": "c. 1876",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "salome",
+    "severed head",
+    "vision",
+    "femme fatale",
+    "halo of blood",
+    "dance",
+    "john the baptist",
+    "decadence"
+   ],
+   "medium": "painting",
+   "figures": [
+    "Salome",
+    "John the Baptist"
+   ],
+   "repository": "Fogg Museum, Harvard Art Museums, Cambridge, Massachusetts",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Gustave_Moreau_-_The_Apparition_-_Google_Art_Project.jpg",
+   "summary": "Salome recoils as the haloed, bleeding head of John the Baptist floats in the air before her, an accusing vision suspended over Herod's hall.\n\n## Iconography\nThe near-nude dancer points toward the levitating severed head, which radiates a nimbus of blood-light. Herod, the executioner and Herodias watch from a cavernous, Moorish-Byzantine throne room rendered in shimmering watercolour and ink.\n\n## Significance\nMoreau's Salome canvases were the sensation of the 1876 Salon and Huysmans devoted ecstatic pages of *À rebours* to them, reading Salome as \"the symbolic incarnation of undying Lust.\" The floating, irradiated head epitomises the Symbolist fusion of eros, death and the supernatural that fed directly into Wilde's and Beardsley's later *Salomé*.\n\n## For artists & game designers\nThe disembodied, glowing head as an apparition — guilt made visible mid-air — is a compact way to stage the supernatural without a full ghost.",
+   "citations": [
+    {
+     "text": "J.-K. Huysmans, *À rebours* (1884)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Gustave_Moreau_-_The_Apparition_-_Google_Art_Project.jpg"
+    }
+   ],
+   "key_concepts": [
+    "salome",
+    "femme fatale",
+    "decadence",
+    "severed head"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__moreau-oedipus-sphinx",
+   "title": "The Sphinx (Oedipus drawing)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Gustave Moreau",
+   "date": "c. 1878",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "sphinx",
+    "oedipus",
+    "riddle",
+    "femme fatale",
+    "winged hybrid",
+    "confrontation",
+    "myth",
+    "monster"
+   ],
+   "medium": "drawing",
+   "figures": [
+    "Oedipus",
+    "the Sphinx"
+   ],
+   "repository": "[PLACEHOLDER: private or Musée Gustave Moreau collection]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Moreau_-_The_Sphinx_Undone,_circa_1878.jpg",
+   "summary": "A Moreau study of the winged Sphinx confronting Oedipus, the man-eating riddler poised against the traveller.\n\n## Iconography\nThe lion-bodied, woman-headed, winged Sphinx rears at a rocky pass; Oedipus stands his ground. Moreau returned obsessively to this duel of human reason against the monstrous feminine, here in a looser graphic study rather than the famous 1864 Salon canvas.\n\n## Significance\nThe Theban Sphinx — strangler of those who failed her riddle — became, for the Symbolists, the very type of the enigmatic, devouring woman and of Nature's unanswerable mystery. Moreau's repeated Oedipus-and-Sphinx images are foundational images of the [[motif:sphinx|sphinx]] cult that runs through Khnopff, Stuck and Toorop.\n\n## For artists & game designers\nThe riddle-guardian at a mountain pass is an archetypal gate encounter: pass the test of wit or be devoured.",
+   "citations": [
+    {
+     "text": "Geneviève Lacambre, *Gustave Moreau: Magic and Symbols* (1999)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Moreau_-_The_Sphinx_Undone,_circa_1878.jpg"
+    }
+   ],
+   "key_concepts": [
+    "sphinx",
+    "oedipus",
+    "riddle",
+    "femme fatale"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__moreau-salome",
+   "title": "Salome Dancing before Herod",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Gustave Moreau",
+   "date": "1876",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "salome",
+    "dance",
+    "herod",
+    "femme fatale",
+    "oriental throne room",
+    "lotus",
+    "seduction",
+    "biblical"
+   ],
+   "medium": "painting",
+   "figures": [
+    "Salome",
+    "Herod"
+   ],
+   "repository": "Hammer Museum (Armand Hammer Collection), Los Angeles",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Salome_Dancing_before_Herod_by_Gustave_Moreau.jpg",
+   "summary": "Salome performs her fatal dance before the enthroned Herod in a jewelled, temple-like hall.\n\n## Iconography\nThe slender dancer advances on tiptoe, a lotus in hand, tattoo-like arabesques covering her translucent robe. Herod looms idol-like on a towering throne; an executioner and a black panther flank the cavernous, incense-dim chamber Moreau built from Indian, Moorish and antique fragments.\n\n## Significance\nThis is the companion to *The Apparition* and the picture Huysmans's hero des Esseintes hangs above his desk. Moreau's Salome distilled the fin-de-siècle archetype of the cold, idolatrous temptress — \"the symbolic deity of indestructible Lust\" — and helped launch the era's vast Salome literature.\n\n## For artists & game designers\nThe over-scaled, frontal, idol-like ruler dwarfing the petitioner is an efficient shorthand for tyranny and dread.",
+   "citations": [
+    {
+     "text": "J.-K. Huysmans, *À rebours* (1884)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Salome_Dancing_before_Herod_by_Gustave_Moreau.jpg"
+    }
+   ],
+   "key_concepts": [
+    "salome",
+    "femme fatale",
+    "orientalism",
+    "decadence"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__redon-eye-balloon",
+   "title": "The Eye, Like a Strange Balloon, Mounts toward Infinity",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Odilon Redon",
+   "date": "1882",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "disembodied eye",
+    "balloon",
+    "ascension",
+    "the noir",
+    "poe",
+    "infinity",
+    "dream",
+    "lithograph"
+   ],
+   "medium": "print",
+   "figures": [],
+   "repository": "Art Institute of Chicago",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Redon_-_The_Eye,_Like_a_Strange_Balloon_Moves_Towards_Infinity,_plate_one_from_To_Edgar_Poe,_1920.1570.jpg",
+   "summary": "A vast single eyeball drifts skyward like a balloon, carrying a tiny dish below it, in the opening plate of Redon's homage *To Edgar Poe*.\n\n## Iconography\nThe iris becomes a sphere ascending through empty grey sky; eyelashes and a wisp of cloud trail behind. The image is one of Redon's *noirs* — charcoal-black lithographs of irrational, oneiric apparitions.\n\n## Significance\nRedon dedicated the 1882 album to Poe, whose tales of morbid imagination he admired, though the plates illustrate no specific text. The floating eye — sight detached from a body, gazing into the infinite — became Redon's signature emblem and a touchstone for the later Surrealists, who claimed him as a forefather.\n\n## For artists & game designers\nThe isolated organ given autonomy (an eye that floats and watches) is pure uncanny — a minimal image that implies a whole disquieting cosmology.",
+   "citations": [
+    {
+     "text": "Douglas Druick et al., *Odilon Redon: Prince of Dreams* (1994)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Redon_-_The_Eye,_Like_a_Strange_Balloon_Moves_Towards_Infinity,_plate_one_from_To_Edgar_Poe,_1920.1570.jpg"
+    }
+   ],
+   "key_concepts": [
+    "the noir",
+    "disembodied eye",
+    "edgar allan poe",
+    "proto-surrealism"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__redon-smiling-spider",
+   "title": "The Smiling Spider (L'Araignée souriante)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Odilon Redon",
+   "date": "1881",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "spider",
+    "grinning face",
+    "ten legs",
+    "the noir",
+    "nightmare",
+    "anthropomorphism",
+    "dread",
+    "lithograph"
+   ],
+   "medium": "print",
+   "figures": [],
+   "repository": "[PLACEHOLDER: various impressions; e.g. Museum of Modern Art, New York]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Redon_smiling-spider.jpg",
+   "summary": "A ten-legged spider with a grinning human face crouches in a void, one of Redon's most notorious *noirs*.\n\n## Iconography\nThe bristling, hairy body sprouts a broad toothy smile and small dark eyes; ten splayed legs grip the bare ground. There is no setting — only the creature and a charcoal gloom.\n\n## Significance\nRedon transferred a charcoal of 1881 to lithograph in 1887. The grinning spider belongs to his menagerie of \"impossible beings\" — hybrids that, in his own words, \"put the logic of the visible at the service of the invisible.\" Such images mocked positivist science by giving emotion and intent to the monstrous, a key Symbolist gesture against naturalism.\n\n## For artists & game designers\nAdding a human grin to an arthropod is a textbook uncanny-valley monster: familiar affect on an alien body.",
+   "citations": [
+    {
+     "text": "Douglas Druick et al., *Odilon Redon: Prince of Dreams* (1994)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Redon_smiling-spider.jpg"
+    }
+   ],
+   "key_concepts": [
+    "the noir",
+    "impossible beings",
+    "the uncanny",
+    "symbolist monster"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__redon-crying-spider",
+   "title": "The Crying Spider (L'Araignée qui pleure)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Odilon Redon",
+   "date": "1881",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "spider",
+    "weeping face",
+    "ten legs",
+    "the noir",
+    "melancholy",
+    "anthropomorphism",
+    "charcoal",
+    "dread"
+   ],
+   "medium": "drawing",
+   "figures": [],
+   "repository": "[PLACEHOLDER: private collection]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Redon_crying-spider.jpg",
+   "summary": "The mournful twin to the Smiling Spider: a long-legged spider with a weeping human face stands isolated in shadow.\n\n## Iconography\nA bulbous, hairy body bears a sorrowful face with downturned mouth and a single tear; ten thin legs stretch across an empty charcoal ground. The handling is all velvety blacks and grainy greys — Redon's *fusain* manner.\n\n## Significance\nWhere the grinning spider unsettles by glee, this one disturbs by pathos: a thing of nightmare made pitiable. Redon's anthropomorphic vermin externalise inner states — anxiety, melancholy, dread — and exemplify his programme of \"placing the logic of the visible at the service of the invisible.\"\n\n## For artists & game designers\nPair a monster design in two emotional registers (grinning / weeping) to make the same silhouette read as menace or as a tragic creature.",
+   "citations": [
+    {
+     "text": "Douglas Druick et al., *Odilon Redon: Prince of Dreams* (1994)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Redon_crying-spider.jpg"
+    }
+   ],
+   "key_concepts": [
+    "the noir",
+    "anthropomorphism",
+    "melancholy",
+    "symbolist monster"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__redon-cyclops",
+   "title": "The Cyclops (Le Cyclope)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Odilon Redon",
+   "date": "c. 1914",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "cyclops",
+    "polyphemus",
+    "galatea",
+    "single eye",
+    "voyeurism",
+    "flower-field",
+    "myth",
+    "colour"
+   ],
+   "medium": "painting",
+   "figures": [
+    "Polyphemus",
+    "Galatea"
+   ],
+   "repository": "Kröller-Müller Museum, Otterlo",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Odilon_Redon_-_Le_Cyclope.jpeg",
+   "summary": "The one-eyed giant Polyphemus rises shyly behind a hillside of flowers to gaze upon the sleeping nymph Galatea, in Redon's luminous late oil.\n\n## Iconography\nA rounded, single-eyed head and shoulders loom over a brilliant meadow; the small nude Galatea reclines below, unaware. Where the earlier *noirs* were black, here Redon floods the myth with iridescent pastel colour.\n\n## Significance\nRedon transforms the brutal Homeric monster into a timid, lovelorn voyeur — the giant eye now an organ of yearning rather than menace. The painting marks his late turn from charcoal nightmares to radiant mythological colour, and is among the most celebrated single-eye images of the era.\n\n## For artists & game designers\nA monster rendered bashful — looming scale plus a single, soulful eye — can evoke sympathy rather than fear, inverting the usual giant trope.",
+   "citations": [
+    {
+     "text": "Douglas Druick et al., *Odilon Redon: Prince of Dreams* (1994)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Odilon_Redon_-_Le_Cyclope.jpeg"
+    }
+   ],
+   "key_concepts": [
+    "cyclops",
+    "the single eye",
+    "colourist period",
+    "myth"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__redon-profile-light",
+   "title": "Profile of Light (Profil de lumière)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Odilon Redon",
+   "date": "1886",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "luminous profile",
+    "halo",
+    "silhouette",
+    "the noir",
+    "mystic head",
+    "radiance",
+    "dream",
+    "lithograph"
+   ],
+   "medium": "print",
+   "figures": [],
+   "repository": "National Gallery of Art, Washington, D.C.",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "CC0. Via Wikimedia Commons (National Gallery of Art).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Odilon_Redon,_Profil_de_lumiere_(Profile_of_light),_1886,_NGA_47208.jpg",
+   "summary": "A serene female profile glows out of darkness, ringed by a faint nimbus of light, in one of Redon's contemplative *noirs*.\n\n## Iconography\nThe head is seen in pure profile, illuminated as though lit from within; a soft circular radiance surrounds it against an inky ground. The mood is votive, almost iconic.\n\n## Significance\nRedon's haloed and luminous heads occupy the mystical pole of his black work — visionary, hieratic, suggesting saints or inner illumination without naming any creed. They appealed to the Symbolist and theosophically-minded public seeking a spiritualised art beyond dogma.\n\n## For artists & game designers\nA halo or inner glow on an otherwise plain profile instantly signals the sacred or the visionary — a cheap, legible way to mark a character as spirit or seer.",
+   "citations": [
+    {
+     "text": "Douglas Druick et al., *Odilon Redon: Prince of Dreams* (1994)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Odilon_Redon,_Profil_de_lumiere_(Profile_of_light),_1886,_NGA_47208.jpg"
+    }
+   ],
+   "key_concepts": [
+    "the noir",
+    "halo",
+    "mystic head",
+    "spiritualised art"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__redon-red-death",
+   "title": "The Masque of the Red Death (Le Masque de la mort rouge)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Odilon Redon",
+   "date": "1883",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "death personified",
+    "masque",
+    "poe",
+    "plague",
+    "shrouded figure",
+    "the noir",
+    "mortality",
+    "lithograph"
+   ],
+   "medium": "print",
+   "figures": [
+    "the Red Death"
+   ],
+   "repository": "[PLACEHOLDER: various impressions; e.g. National Gallery of Art, Washington, D.C.]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Redon_-_The_Masque_of_the_Red_Death_(Le_Masque_de_la_mort_rouge)_1883.jpg",
+   "summary": "Redon's charcoal-and-lithograph response to Poe's plague-tale, in which Death walks unmasked among the revellers.\n\n## Iconography\nA shrouded, spectral figure stands amid shadow — the embodied pestilence of Poe's story, whose costume \"was dabbled in blood.\" Redon renders it with his characteristic blacks, leaving the horror largely to suggestion.\n\n## Significance\nPart of Redon's deep engagement with Edgar Allan Poe, whose morbid imagination he felt kin to. Poe's allegory — that no wealth or revelry can bar Death from the feast — suited the fin-de-siècle's memento-mori mood, linking this sheet to the wider Symbolist cult of the personified Dead seen in Schwabe and Böcklin.\n\n## For artists & game designers\nDeath as an unbidden guest who simply will not be excluded is a durable narrative engine — the locked castle that the plague enters anyway.",
+   "citations": [
+    {
+     "text": "Edgar Allan Poe, \"The Masque of the Red Death\" (1842)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Redon_-_The_Masque_of_the_Red_Death_(Le_Masque_de_la_mort_rouge)_1883.jpg"
+    }
+   ],
+   "key_concepts": [
+    "death personified",
+    "edgar allan poe",
+    "the noir",
+    "memento mori"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__khnopff-caresses",
+   "title": "Caresses (The Sphinx / The Art of the Caress)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Fernand Khnopff",
+   "date": "1896",
+   "place": "Brussels",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "sphinx",
+    "leopard-woman",
+    "oedipus",
+    "androgyny",
+    "caress",
+    "riddle",
+    "femme fatale",
+    "enigma"
+   ],
+   "medium": "painting",
+   "figures": [
+    "Oedipus",
+    "the Sphinx"
+   ],
+   "repository": "Royal Museums of Fine Arts of Belgium, Brussels",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fernand_Khnopff_-_Caresses_-_Google_Art_Project.jpg",
+   "summary": "A youth identified as Oedipus stands cheek-to-cheek with a sphinx whose woman's head crowns the spotted body of a leopard.\n\n## Iconography\nThe androgynous youth, bearing a caduceus-like sceptre, leans into the languid creature; her head nuzzles his while the leopard-body coils against his legs. A blue frieze and golden ground lend the panel a hieratic, dreamlike stillness.\n\n## Significance\nKhnopff's most famous picture recasts the Oedipus-and-Sphinx duel as a moment of dangerous intimacy: thought seduced by mystery, the human enthralled rather than triumphant. The androgyny of both figures — Khnopff repeatedly used his sister Marguerite's features — fed the Symbolist ideal of the hermaphrodite as a sign of spiritual completeness.\n\n## For artists & game designers\nReplacing combat with a caress between hero and monster is a striking inversion — danger conveyed through tenderness rather than threat.",
+   "citations": [
+    {
+     "text": "Michel Draguet, *Khnopff ou l'ambigu poétique* (1995)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fernand_Khnopff_-_Caresses_-_Google_Art_Project.jpg"
+    }
+   ],
+   "key_concepts": [
+    "sphinx",
+    "androgyny",
+    "oedipus",
+    "symbolist enigma"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__khnopff-lock-door",
+   "title": "I Lock My Door upon Myself",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Fernand Khnopff",
+   "date": "1891",
+   "place": "Brussels",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "withdrawal",
+    "hypnos",
+    "red lily",
+    "interior",
+    "reverie",
+    "isolation",
+    "rossetti",
+    "silence"
+   ],
+   "medium": "painting",
+   "figures": [
+    "Hypnos"
+   ],
+   "repository": "Neue Pinakothek, Munich",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fernand_Khnopff_-_I_lock_my_door_upon_myself_-_with_frame.jpg",
+   "summary": "A pale, abstracted woman withdraws into a shadowy interior presided over by a winged bust of Hypnos, god of sleep.\n\n## Iconography\nThe red-haired figure rests her chin on her hands amid an austere, frieze-like room; a bust of winged Hypnos with his orange poppy, and a scatter of long-stemmed lilies, fix the mood of trance and self-enclosure. Mirrors and ambiguous space deepen the unreality.\n\n## Significance\nThe title comes from Christina Rossetti's poem \"Who Shall Deliver Me?\". Khnopff's image is a manifesto of Symbolist interiority — the soul sealed away from the world in dream and silence — and his recurring Hypnos emblem ties his art to the period's near-cultic veneration of Sleep as gateway to the invisible.\n\n## For artists & game designers\nA single tutelary bust (here Sleep) placed in a domestic interior turns an ordinary room into a shrine — environmental storytelling through one charged object.",
+   "citations": [
+    {
+     "text": "Michel Draguet, *Fernand Khnopff* (2004)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fernand_Khnopff_-_I_lock_my_door_upon_myself_-_with_frame.jpg"
+    }
+   ],
+   "key_concepts": [
+    "interiority",
+    "hypnos",
+    "christina rossetti",
+    "symbolist silence"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__delville-treasures-satan",
+   "title": "The Treasures of Satan (Les Trésors de Sathan)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Jean Delville",
+   "date": "1895",
+   "place": "Brussels",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "satan",
+    "tentacles",
+    "drowned souls",
+    "coral-flame",
+    "lust",
+    "damnation",
+    "androgyne",
+    "esoteric red"
+   ],
+   "medium": "painting",
+   "figures": [
+    "Satan"
+   ],
+   "repository": "Royal Museums of Fine Arts of Belgium, Brussels",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A9sors_de_Sathan_(1895)_-_Jean_Delville.jpg",
+   "summary": "A great androgynous Satan sweeps through a coral-red deep, his whip-like tentacles entangling the swooning bodies of the damned — Delville's Theosophical allegory of base desire.\n\n## Iconography\nThe winged, flame-haired demon surges left to right, eyes shut in ecstasy, while writhing eel- or coral-like appendages drag inert nude figures through luminous crimson water. The whole canvas burns in tones of red and orange.\n\n## Significance\nDelville, a committed Theosophist and founder of the Salon d'Art Idéaliste, intended the picture as an esoteric warning: the souls are slaves to material passion, hauled down like a fisherman's catch into the lower planes. The androgyne-Satan embodies the seductive force of matter over spirit — a doctrine drawn from Blavatsky and Péladan's Rosicrucianism.\n\n## For artists & game designers\nTentacles-as-greed (a predator that gathers victims like treasure) gives a vivid, readable visual logic to a vice-themed antagonist.",
+   "citations": [
+    {
+     "text": "Brendan Cole, *Jean Delville: Art between Nature and the Absolute* (2015)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A9sors_de_Sathan_(1895)_-_Jean_Delville.jpg"
+    }
+   ],
+   "key_concepts": [
+    "satan",
+    "theosophy",
+    "idealist art",
+    "damnation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__delville-plato-school",
+   "title": "The School of Plato (L'École de Platon)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Jean Delville",
+   "date": "1898",
+   "place": "Brussels",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "plato",
+    "disciples",
+    "androgyne",
+    "ideal beauty",
+    "christ-like teacher",
+    "esoteric initiation",
+    "grove",
+    "harmony"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Plato"
+   ],
+   "repository": "Royal Library of Belgium, Brussels",
+   "shelfmark": "S.II 131537",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_school_of_Plato,_print_by_Jean_Delville,_1898,_Prints_Department_of_the_Royal_Library_of_Belgium,_S.II_131537.jpg",
+   "summary": "A Christ-like Plato, seated in a luminous grove, instructs twelve androgynous youths — Delville's vision of esoteric initiation. This sheet is the print after his monumental 1898 canvas.\n\n## Iconography\nThe long-haired sage reclines at centre, radiant; six nude ephebes flank him in symmetrical, frieze-like calm beside a still pool and cypresses. The bodies are deliberately androgynous, the palette serene blue-green.\n\n## Significance\nDelville fused Plato with Christ to image a perennial wisdom-tradition, the master transmitting the Ideal to initiates — a Theosophical reading of philosophy as spiritual ascent. The twelve disciples echo the Apostles, asserting an esoteric continuity from Greek philosophy to a coming spiritual age. It is among the central manifestos of his Idealist art.\n\n## For artists & game designers\nThe luminous teacher amid symmetrical disciples is an instantly readable \"sanctuary of wisdom\" tableau for a temple or mentor scene.",
+   "citations": [
+    {
+     "text": "Brendan Cole, *Jean Delville: Art between Nature and the Absolute* (2015)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:The_school_of_Plato,_print_by_Jean_Delville,_1898,_Prints_Department_of_the_Royal_Library_of_Belgium,_S.II_131537.jpg"
+    }
+   ],
+   "key_concepts": [
+    "plato",
+    "theosophy",
+    "androgyne",
+    "esoteric initiation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__delville-idol-perversity",
+   "title": "The Idol of Perversity (L'Idole de la Perversité)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Jean Delville",
+   "date": "1891",
+   "place": "Brussels",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "femme fatale",
+    "idol",
+    "serpent",
+    "halo",
+    "hypnotic gaze",
+    "perversity",
+    "androgyne",
+    "drawing"
+   ],
+   "medium": "drawing",
+   "figures": [],
+   "repository": "[PLACEHOLDER: private collection]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:L%E2%80%99Idole_de_la_Perversit%C3%A9_(1891)_-_Jean_Delville.jpg",
+   "summary": "A frontal female idol with a hypnotic stare, a serpent at her breast and a dark halo behind her head — Delville's icon of the demonic feminine.\n\n## Iconography\nThe pallid woman gazes straight out, eyes rolled to an unearthly fixity; a snake coils across her bosom and a sun-like nimbus rings her head. The black-and-coloured-chalk drawing makes a deliberate parody of the sacred icon.\n\n## Significance\nThe \"idol of perversity\" became a title-phrase for the whole fin-de-siècle archetype of the worshipped, destructive woman (used by Bram Dijkstra for his classic study of the period's misogynist imagery). Delville turns the votive icon inside out: an object of worship that is also a venomous trap, the serpent of Eden made cult-statue.\n\n## For artists & game designers\nThe direct, fourth-wall-breaking stare plus a halo reframes a portrait as an object of worship — a quick way to render a character as an idol rather than a person.",
+   "citations": [
+    {
+     "text": "Bram Dijkstra, *Idols of Perversity* (1986)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:L%E2%80%99Idole_de_la_Perversit%C3%A9_(1891)_-_Jean_Delville.jpg"
+    }
+   ],
+   "key_concepts": [
+    "femme fatale",
+    "idol",
+    "serpent",
+    "fin-de-siècle misogyny"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__delville-homme-dieu",
+   "title": "The God-Man (L'Homme-Dieu)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Jean Delville",
+   "date": "1903",
+   "place": "Brussels / Bruges",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "christ",
+    "redemption",
+    "ascending souls",
+    "radiant body",
+    "cosmic light",
+    "humanity",
+    "androgyne",
+    "theosophy"
+   ],
+   "medium": "painting",
+   "figures": [
+    "Christ"
+   ],
+   "repository": "Musea Brugge (Groeningemuseum), Bruges",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:L-Homme-Dieu_-_Jean_Delville_-_Musea_Brugge_-_1.jpg",
+   "summary": "A radiant Christ at the apex of a great pyramid of struggling humanity, drawing the redeemed upward into light — Delville's vast Theosophical altarpiece of spiritual evolution.\n\n## Iconography\nThe luminous, cruciform God-Man crowns the composition; below him surge masses of nude figures — the suffering, the rising and the fallen — banded by colour from earthly dark to celestial gold. The whole is built as an ascending triangle.\n\n## Significance\nDelville conceived the picture as an esoteric image of humanity's collective ascent toward the divine, fusing Christianity with Theosophical doctrines of evolution and the perfected \"God-Man.\" It is his most ambitious statement of art as a vehicle of initiation, the painter as hierophant of a coming spiritual race.\n\n## For artists & game designers\nThe colour-banded vertical ladder (dark mass below, single light source above) maps moral ascent onto pure composition — legible at a glance.",
+   "citations": [
+    {
+     "text": "Brendan Cole, *Jean Delville: Art between Nature and the Absolute* (2015)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:L-Homme-Dieu_-_Jean_Delville_-_Musea_Brugge_-_1.jpg"
+    }
+   ],
+   "key_concepts": [
+    "god-man",
+    "theosophy",
+    "spiritual evolution",
+    "idealist art"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__schwabe-gravedigger",
+   "title": "Death and the Gravedigger (La Mort du fossoyeur)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Carlos Schwabe",
+   "date": "c. 1895",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "death personified",
+    "winged angel of death",
+    "gravedigger",
+    "green halo",
+    "snow",
+    "open grave",
+    "psychopomp",
+    "watercolour"
+   ],
+   "medium": "drawing",
+   "figures": [
+    "Death"
+   ],
+   "repository": "Musée du Louvre (Département des Arts graphiques), Paris",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Death_and_the_Gravedigger_-_C._Schwabe.jpg",
+   "summary": "A green-winged angel of Death descends into an open grave to claim a swooning gravedigger, in Schwabe's celebrated watercolour and gouache.\n\n## Iconography\nThe luminous, emerald-winged female Death stoops into the snowy pit, a small flame cupped in her hand; the elderly gravedigger collapses against the earth wall, spade fallen. Bare wintry branches frame the scene.\n\n## Significance\nSchwabe — Swiss-German Symbolist and a key designer for the Rosicrucian Salon de la Rose+Croix — gives Death a gentle, almost erotic tenderness, the psychopomp who comes for the very man who digs graves. The work epitomises the fin-de-siècle aestheticisation of mortality, transforming the medieval *danse macabre* into a hushed, jewel-coloured reverie.\n\n## For artists & game designers\nDeath as a beautiful, green-lit psychopomp who comes for the undertaker is a poignant role-reversal — the keeper of graves himself harvested.",
+   "citations": [
+    {
+     "text": "Jean-David Jumeau-Lafond, *Les Peintres de l'âme: le symbolisme idéaliste en France* (1999)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Death_and_the_Gravedigger_-_C._Schwabe.jpg"
+    }
+   ],
+   "key_concepts": [
+    "death personified",
+    "psychopomp",
+    "rose+croix",
+    "danse macabre"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__schwabe-rosecroix-poster",
+   "title": "Poster for the Salon de la Rose+Croix (1892)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Carlos Schwabe",
+   "date": "1892",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "rosicrucian",
+   "motifs": [
+    "rose-cross",
+    "ascending souls",
+    "mire of materialism",
+    "lily",
+    "holy grail",
+    "initiation",
+    "stairway",
+    "redemption"
+   ],
+   "medium": "print",
+   "figures": [],
+   "repository": "Bibliothèque nationale de France, Paris",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons (BnF/Gallica).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Salon_Rose_Croix_du_10_mars_au_10_avril._Galerie_Durand-Ruel..._-_affiche_-_(Carlos_Schwabe)_;_Verdoux,_Ducourtioux_%26_Huillard_sc._-_btv1b9013791r.jpg",
+   "summary": "Schwabe's lithographic poster for the first Salon de la Rose+Croix shows three women ascending a flowering stair out of the mire of matter toward spiritual light.\n\n## Iconography\nTwo white-robed figures climb a blossoming staircase; one already bears the lily and the rose-cross, while a third struggles below, mired and chained, reaching upward. The whole reads bottom-to-top as a passage from materialism to the ideal.\n\n## Significance\nThe Salon de la Rose+Croix (1892–1897), founded by Joséphin \"Sâr\" Péladan, was the great public face of fin-de-siècle occultism in art, exhibiting Symbolists who shunned naturalism in favour of myth, legend and mysticism. Schwabe's inaugural poster became the movement's emblem — an allegory of initiation and the soul's ascent through the Rosicrucian degrees.\n\n## For artists & game designers\nThe vertical ascent-of-souls staircase is a complete moral diagram in one image: where a figure stands on it tells you their spiritual rank.",
+   "citations": [
+    {
+     "text": "Robert Pincus-Witten, *Occult Symbolism in France: Joséphin Péladan and the Salons de la Rose-Croix* (1976)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Salon_Rose_Croix_du_10_mars_au_10_avril._Galerie_Durand-Ruel..._-_affiche_-_(Carlos_Schwabe)_;_Verdoux,_Ducourtioux_%26_Huillard_sc._-_btv1b9013791r.jpg"
+    }
+   ],
+   "key_concepts": [
+    "rose+croix",
+    "joséphin péladan",
+    "spiritual ascent",
+    "occult salon"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__stuck-sin",
+   "title": "The Sin (Die Sünde)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Franz von Stuck",
+   "date": "c. 1905",
+   "place": "Munich",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "femme fatale",
+    "serpent",
+    "eve",
+    "temptation",
+    "darkness",
+    "nude",
+    "original sin",
+    "gaze"
+   ],
+   "medium": "painting",
+   "figures": [],
+   "repository": "[PLACEHOLDER: Stuck painted several versions; e.g. Neue Pinakothek, Munich]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Sin,_c.1905_by_Franz_von_Stuck.jpg",
+   "summary": "A nude woman emerges from blackness with a great serpent draped over her shoulders, its head looming beside her, in Stuck's emblem of Sin.\n\n## Iconography\nThe pale figure stands frontally in deep shadow, half-smiling, her dark hair merging with the coils of an enormous snake whose eyes glint at the viewer. Stuck framed his versions in heavy gilt borders inscribed with the title, turning the painting into a secular icon.\n\n## Significance\nStuck, a co-founder of the Munich Secession, painted *Die Sünde* in several versions from 1893; it became one of the most reproduced images of the German fin-de-siècle. The woman-and-serpent fuses Eve with the [[motif:femme fatale|femme fatale]], collapsing biblical original sin into the era's anxious eroticism — desire and damnation as one body.\n\n## For artists & game designers\nA single companion animal (here a serpent) coiled on a figure can carry the entire moral charge of a character — body language plus beast equals theme.",
+   "citations": [
+    {
+     "text": "Bram Dijkstra, *Idols of Perversity* (1986)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:The_Sin,_c.1905_by_Franz_von_Stuck.jpg"
+    }
+   ],
+   "key_concepts": [
+    "femme fatale",
+    "serpent",
+    "original sin",
+    "munich secession"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__stuck-lucifer",
+   "title": "Lucifer (Luzifer)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Franz von Stuck",
+   "date": "1890",
+   "place": "Munich",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "lucifer",
+    "fallen angel",
+    "glowing eyes",
+    "darkness",
+    "brooding",
+    "shadow",
+    "rebellion",
+    "the abyss"
+   ],
+   "medium": "painting",
+   "figures": [
+    "Lucifer"
+   ],
+   "repository": "National Gallery for Foreign Art, Sofia",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Luzifer_(Lucifer)_painting_by_Franz_von_Stuck_1890_National_Gallery_in_Sofia.jpg",
+   "summary": "Stuck's Lucifer crouches in near-total darkness, only his two pale, phosphorescent eyes blazing out at the viewer.\n\n## Iconography\nThe muscular, brooding figure is enveloped in shadow, knees drawn up, hands clasped; almost nothing is legible but the unnaturally bright, staring eyes. The painting is an exercise in withholding — the Adversary defined by what is hidden.\n\n## Significance\nStuck strips the fallen angel of wings, fire and pageantry, locating evil in a single resentful gaze emerging from the dark. The image belongs to the late-Romantic rehabilitation of Lucifer as a tragic, Promethean rebel — a current running from Milton and Byron through the occult revival, where the Adversary often stood for forbidden knowledge and the light-bringer's defiance.\n\n## For artists & game designers\nLighting a near-invisible figure by the eyes alone is a masterclass in dread economy: the less shown, the more menacing.",
+   "citations": [
+    {
+     "text": "Heinrich Voss, *Franz von Stuck* (1973)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Luzifer_(Lucifer)_painting_by_Franz_von_Stuck_1890_National_Gallery_in_Sofia.jpg"
+    }
+   ],
+   "key_concepts": [
+    "lucifer",
+    "fallen angel",
+    "the adversary",
+    "romantic satanism"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__stuck-sphinx",
+   "title": "Sphinx",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Franz von Stuck",
+   "date": "1904",
+   "place": "Munich",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "sphinx",
+    "femme fatale",
+    "lion-body",
+    "enigma",
+    "nude",
+    "rock",
+    "riddle",
+    "monster"
+   ],
+   "medium": "painting",
+   "figures": [
+    "the Sphinx"
+   ],
+   "repository": "Hessisches Landesmuseum, Darmstadt",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sphinx_by_Franz_von_Stuck,_1904,_oil_on_canvas_-_Hessisches_Landesmuseum_Darmstadt_-_Darmstadt,_Germany_-_DSC01243.jpg",
+   "summary": "Stuck's Sphinx stretches her nude woman's torso forward from a lion's body across a bare rock, gazing out with cool enigma.\n\n## Iconography\nThe creature lies prone along a low ridge, the human upper body arching up while the leonine haunches trail behind; the background is stripped to sky and stone. The eroticised, frontal pose makes riddle and seduction inseparable.\n\n## Significance\nStuck returned repeatedly to the sphinx, the supreme fin-de-siècle emblem of the inscrutable, devouring woman and of Nature's withheld secret. His monumental, sculptural treatment links the antique Theban monster to the Munich Secession's cult of the eternal-feminine-as-enigma, a theme he shared with Khnopff and Moreau.\n\n## For artists & game designers\nThe hybrid laid out along a horizontal ridge (human front, beast rear) reads as both a reclining seductress and a coiled predator — one silhouette, two threats.",
+   "citations": [
+    {
+     "text": "Bram Dijkstra, *Idols of Perversity* (1986)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Sphinx_by_Franz_von_Stuck,_1904,_oil_on_canvas_-_Hessisches_Landesmuseum_Darmstadt_-_Darmstadt,_Germany_-_DSC01243.jpg"
+    }
+   ],
+   "key_concepts": [
+    "sphinx",
+    "femme fatale",
+    "enigma",
+    "munich secession"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__stuck-kiss-sphinx",
+   "title": "The Kiss of the Sphinx (Der Kuss der Sphinx)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Franz von Stuck",
+   "date": "1895",
+   "place": "Munich",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "sphinx",
+    "fatal kiss",
+    "lion-woman",
+    "swooning man",
+    "eros and death",
+    "crag",
+    "consumption",
+    "embrace"
+   ],
+   "medium": "painting",
+   "figures": [
+    "the Sphinx"
+   ],
+   "repository": "Hungarian National Gallery, Budapest",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Franz_von_Stuck_-_The_Kiss_of_the_Sphinx_-_Google_Art_Project.jpg",
+   "summary": "A lion-bodied sphinx seizes a naked man on a high crag and draws him into a devouring kiss, his body arching back in surrender.\n\n## Iconography\nThe creature's powerful leonine forelegs grip the swooning male figure as the two mouths meet; the pair are perched on a red-lit rock against deep shadow. The embrace is at once ecstatic and fatal.\n\n## Significance\nStuck makes literal the fin-de-siècle equation of eros and death: the kiss of mystery is also annihilation. The sphinx — Stuck's recurring emblem of the enigmatic devouring feminine — here consumes the man at the height of desire, an image that influenced Klimt and the Vienna Secession's later fusions of love and dissolution.\n\n## For artists & game designers\nA single embrace staged as both climax and kill compresses a whole tragic arc into one pose — the kiss that is also the death-blow.",
+   "citations": [
+    {
+     "text": "Bram Dijkstra, *Idols of Perversity* (1986)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Franz_von_Stuck_-_The_Kiss_of_the_Sphinx_-_Google_Art_Project.jpg"
+    }
+   ],
+   "key_concepts": [
+    "sphinx",
+    "eros and death",
+    "femme fatale",
+    "munich secession"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__levydhurmer-medusa",
+   "title": "Medusa (Méduse, or The Furious Wave)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Lucien Lévy-Dhurmer",
+   "date": "1897",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "medusa",
+    "gorgon",
+    "serpent-hair",
+    "anguish",
+    "petrifying gaze",
+    "waves",
+    "tears",
+    "pastel"
+   ],
+   "medium": "drawing",
+   "figures": [
+    "Medusa"
+   ],
+   "repository": "[PLACEHOLDER: private collection]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:M%C3%A9duse_(1897)_-_Lucien_L%C3%A9vy-Dhurmer.jpg",
+   "summary": "Lévy-Dhurmer's pastel Medusa is a face of pure anguish, serpents writhing through her hair and foaming waves about her brow.\n\n## Iconography\nThe Gorgon's tear-streaked face fills the sheet, eyes wide with terror or grief; small snakes coil among her locks and the sea churns around her. The soft, smouldering pastel handling makes the monster intensely human.\n\n## Significance\nThe Symbolists recovered Medusa not as a slain trophy but as a suffering subject — the cursed beauty whose gaze petrifies and whose pain is her own. Lévy-Dhurmer's version belongs to the wider fin-de-siècle reading of the Gorgon (theorised after Freud and Hélène Cixous) as the ambivalent face of feminine power, terror and victimhood at once.\n\n## For artists & game designers\nGiving a classic monster a tear-streaked, frightened face inverts the threat — the petrifier shown as herself afraid is far more haunting than a snarling Gorgon.",
+   "citations": [
+    {
+     "text": "Jean-David Jumeau-Lafond, *Les Peintres de l'âme* (1999)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:M%C3%A9duse_(1897)_-_Lucien_L%C3%A9vy-Dhurmer.jpg"
+    }
+   ],
+   "key_concepts": [
+    "medusa",
+    "gorgon",
+    "feminine power",
+    "symbolist pastel"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__levydhurmer-silence",
+   "title": "Silence (Le Silence)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Lucien Lévy-Dhurmer",
+   "date": "1895",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "silence",
+    "finger to lips",
+    "veiled women",
+    "mystery",
+    "twilight",
+    "initiation",
+    "hush",
+    "pastel"
+   ],
+   "medium": "drawing",
+   "figures": [],
+   "repository": "[PLACEHOLDER: private collection]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lucien_L%C3%A9vy-Dhurmer_-_Le_Silence_-_Google_Art_Project.jpg",
+   "summary": "Veiled, shadowed women press fingers to their lips in Lévy-Dhurmer's pastel allegory of Silence.\n\n## Iconography\nIn dim, smoky blue-grey tones, hooded female figures emerge and overlap, each enjoining quiet with the age-old gesture of finger laid to mouth. The forms dissolve into half-light, refusing definite outline.\n\n## Significance\nThe finger-to-lips of Harpocrates — the silence demanded of the initiate — was a favourite Symbolist and esoteric motif, marking the threshold of the mysteries where speech must cease. Lévy-Dhurmer's hushed, near-monochrome handling makes the work itself an exercise in suggestion over statement, the Symbolist credo of evoking rather than naming.\n\n## For artists & game designers\nRepeating one gesture (finger to lips) across several half-seen figures turns a portrait into a command — the image enforces the hush it depicts.",
+   "citations": [
+    {
+     "text": "Jean-David Jumeau-Lafond, *Les Peintres de l'âme* (1999)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Lucien_L%C3%A9vy-Dhurmer_-_Le_Silence_-_Google_Art_Project.jpg"
+    }
+   ],
+   "key_concepts": [
+    "silence",
+    "harpocrates",
+    "the mysteries",
+    "suggestion"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__bocklin-isle-dead",
+   "title": "The Isle of the Dead (Die Toteninsel)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Arnold Böcklin",
+   "date": "1880",
+   "place": "Florence / Basel",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "island of the dead",
+    "cypress",
+    "ferry of the dead",
+    "shrouded figure",
+    "tomb",
+    "stillness",
+    "charon",
+    "twilight"
+   ],
+   "medium": "painting",
+   "figures": [],
+   "repository": "[PLACEHOLDER: Böcklin painted five versions; e.g. Kunstmuseum Basel / Metropolitan Museum, New York]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Arnold_B%C3%B6cklin_-_The_Isle_of_the_Dead_-_WGA3029.jpg",
+   "summary": "A white-shrouded figure is ferried across still water toward a walled rocky island crowned with dark cypresses — Böcklin's hypnotic image of the journey to death.\n\n## Iconography\nA small boat carries an upright, white-draped form and a coffin toward a cove flanked by sheer cliffs honeycombed with tomb-niches; black cypresses tower from the island's heart under a leaden sky. All is windless, silent, frozen.\n\n## Significance\nBöcklin called it \"a picture for dreaming over\" and painted five versions (1880–1886). Without naming a single myth, it gathers Charon's ferry, the cypress of mourning and the island-necropolis into a universal threshold-image. It became the most reproduced print in Central Europe and inspired Rachmaninoff's symphonic poem; the Surrealists and Dalí later revered it.\n\n## For artists & game designers\nThe walled island reached only by ferry, dense with tombs and silence, is a complete \"land of the dead\" location built from three motifs: water-crossing, cypress, niche-tombs.",
+   "citations": [
+    {
+     "text": "Franz Zelger, *Arnold Böcklin: Die Toteninsel* (1991)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Arnold_B%C3%B6cklin_-_The_Isle_of_the_Dead_-_WGA3029.jpg"
+    }
+   ],
+   "key_concepts": [
+    "isle of the dead",
+    "ferry of the dead",
+    "necropolis",
+    "symbolist landscape"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__bocklin-death-fiddle",
+   "title": "Self-Portrait with Death Playing the Fiddle",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Arnold Böcklin",
+   "date": "1872",
+   "place": "Munich",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "death personified",
+    "skeleton fiddler",
+    "self-portrait",
+    "single string",
+    "memento mori",
+    "painter",
+    "danse macabre",
+    "mortality"
+   ],
+   "medium": "painting",
+   "figures": [
+    "Death"
+   ],
+   "repository": "Alte Nationalgalerie, Berlin",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:B%C3%B6cklin-Mappe_1901_Selbstportr%C3%A4t.jpg",
+   "summary": "Böcklin paints himself at the easel while a skeletal Death, just behind his shoulder, fiddles on a single string.\n\n## Iconography\nThe painter pauses, brush in hand, head cocked to listen; the grinning skeleton of Death leans in at his ear, drawing the bow across a violin reduced to one string. The dark ground throws both figures into relief.\n\n## Significance\nThe single string sounds the note of mortality the artist cannot help but heed — a modern *memento mori* descended from the medieval *danse macabre*. Böcklin casts creative inspiration itself as a duet with Death, an image much imitated in the German fin-de-siècle and an emblem of the Romantic linkage of art, genius and the grave.\n\n## For artists & game designers\nDeath whispering (here fiddling) at a working artist's shoulder is a compact way to show a character haunted — mortality as a constant, audible companion.",
+   "citations": [
+    {
+     "text": "Rolf Andree, *Arnold Böcklin: Die Gemälde* (1977)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:B%C3%B6cklin-Mappe_1901_Selbstportr%C3%A4t.jpg"
+    }
+   ],
+   "key_concepts": [
+    "death personified",
+    "memento mori",
+    "danse macabre",
+    "self-portrait"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__toorop-three-brides",
+   "title": "The Three Brides (De drie bruiden)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Jan Toorop",
+   "date": "1893",
+   "place": "The Netherlands",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "three brides",
+    "nun-bride",
+    "bride of christ",
+    "bride of satan",
+    "bells",
+    "linear arabesque",
+    "theosophy",
+    "androgyne"
+   ],
+   "medium": "drawing",
+   "figures": [],
+   "repository": "Kröller-Müller Museum, Otterlo",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "CC0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jan_Toorop_The_three_brides_1892_28102016_1.jpg",
+   "summary": "Three brides — the bride of Christ, the human bride and the bride of Satan — stand amid a forest of flowing hair, bells and sinuous line in Toorop's Theosophical allegory.\n\n## Iconography\nAt centre a worldly bride; to one side a veiled, lily-crowned nun-bride of Christ, to the other a skull-crowned, serpent-girt bride of Satan. The whole sheet is woven from Toorop's signature whiplash lines — strands of hair, sound-waves of bells — that bind the figures into one rhythmic field.\n\n## Significance\nToorop, of Javanese-Dutch descent, fused batik-derived linear ornament with Theosophical and Catholic symbolism to image the soul poised between sanctity and damnation. *The Three Brides* is the masterpiece of his Symbolist phase and a key source for the curvilinear language of Art Nouveau.\n\n## For artists & game designers\nA single line-language (the same whiplash strand) used for hair, sound and tendril unifies a crowded scene into one ornamental system — a strong stylistic discipline.",
+   "citations": [
+    {
+     "text": "Victorine Hefting, *Jan Toorop* (1989)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jan_Toorop_The_three_brides_1892_28102016_1.jpg"
+    }
+   ],
+   "key_concepts": [
+    "three brides",
+    "theosophy",
+    "art nouveau line",
+    "sanctity and damnation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__toorop-o-grave",
+   "title": "O Grave, Where Is Thy Victory",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Jan Toorop",
+   "date": "1892",
+   "place": "The Netherlands",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "death and resurrection",
+    "angel",
+    "swan",
+    "linear arabesque",
+    "bells",
+    "redemption",
+    "androgyne",
+    "hope"
+   ],
+   "medium": "drawing",
+   "figures": [],
+   "repository": "Kröller-Müller Museum, Otterlo",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "CC0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jan_Toorop_O_Grave_1892_28102016_2.jpg",
+   "summary": "Toorop's linear allegory takes its title from St Paul's cry of resurrection, opposing the powers of death and of redeeming hope across a web of flowing line.\n\n## Iconography\nSlender androgynous figures, swans and serpentine strands of hair fill the sheet in Toorop's whiplash manner; bells, lilies and an attendant angel mark the victory of life over the grave. Forms emerge and dissolve within the all-over linear rhythm.\n\n## Significance\nThe title quotes 1 Corinthians 15:55 (\"O death, where is thy sting? O grave, where is thy victory?\"). Toorop, then moving toward Catholic mysticism, dresses the Christian promise of resurrection in the same ornamental, Theosophically-tinged line as his brides — making salvation itself a matter of musical, woven design.\n\n## For artists & game designers\nA scriptural rhetorical question as a title can frame an abstract, ornamental image and tell the viewer what stakes the pattern is meant to carry.",
+   "citations": [
+    {
+     "text": "Victorine Hefting, *Jan Toorop* (1989)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jan_Toorop_O_Grave_1892_28102016_2.jpg"
+    }
+   ],
+   "key_concepts": [
+    "resurrection",
+    "art nouveau line",
+    "redemption",
+    "symbolist allegory"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__toorop-sphinx",
+   "title": "The Sphinx (De Sphinx)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Jan Toorop",
+   "date": "1897",
+   "place": "The Netherlands",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "sphinx",
+    "enigma",
+    "supplicants",
+    "linear arabesque",
+    "fate",
+    "riddle",
+    "femme fatale",
+    "androgyne"
+   ],
+   "medium": "drawing",
+   "figures": [
+    "the Sphinx"
+   ],
+   "repository": "Gemeentemuseum Den Haag (Kunstmuseum), The Hague",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "CC0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jan_Toorop_De_Sphinx_28102016_2.jpg",
+   "summary": "A monumental sphinx presides over crowds of supplicant souls in Toorop's large, intricately linear meditation on fate and the enigma of existence.\n\n## Iconography\nThe winged sphinx dominates the upper centre; below and around her, ranks of attenuated, androgynous figures plead, suffer and aspire, all knit together by Toorop's flowing whiplash lines. The composition reads as a vast diagram of humanity before the Riddle.\n\n## Significance\nToorop makes the sphinx the over-arching emblem of life's unanswerable question, before which all souls are suppliants. The work gathers his recurring themes — fate, redemption, the linear binding of many figures into one destiny — into a near-cosmological scheme, the Theban monster enlarged to the mystery of being itself.\n\n## For artists & game designers\nScale-contrast — one giant enigma over many tiny petitioners — instantly conveys an unanswerable, fate-dealing power.",
+   "citations": [
+    {
+     "text": "Victorine Hefting, *Jan Toorop* (1989)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jan_Toorop_De_Sphinx_28102016_2.jpg"
+    }
+   ],
+   "key_concepts": [
+    "sphinx",
+    "fate",
+    "the enigma",
+    "art nouveau line"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__segantini-punishment-lust",
+   "title": "The Punishment of Lust (Le cattive madri / The Punishment of Luxury)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Giovanni Segantini",
+   "date": "1891",
+   "place": "Switzerland (Engadine)",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "floating women",
+    "frozen alpine void",
+    "punishment",
+    "barren mothers",
+    "snow",
+    "limbo",
+    "karma",
+    "purgation"
+   ],
+   "medium": "painting",
+   "figures": [],
+   "repository": "Walker Art Gallery, Liverpool",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Segantini_-_The_Punishment_of_Lust_-_Google_Art_Project.jpg",
+   "summary": "Two women drift suspended in a frozen, snow-bound alpine waste — souls of \"bad mothers\" punished in a glacial limbo, in Segantini's Divisionist vision.\n\n## Iconography\nLimp female bodies float horizontally above the icy Engadine valley, hair streaming, suspended between leafless trees and white peaks. The empty, crystalline light renders the punishment as cosmic isolation rather than torment.\n\n## Significance\nSegantini drew on an Indian-derived poem (the *Nirvana* of Luigi Illica, mediated through Theosophical reading) in which women who denied motherhood drift in a frozen purgatory until redeemed. The work fuses his pointillist Alpine naturalism with an esoteric, quasi-Buddhist scheme of karma and rebirth, exemplifying the Symbolist reach beyond Christian eschatology.\n\n## For artists & game designers\nWeightless, drifting bodies in a vast empty cold render \"limbo\" without fire or demons — punishment as suspension and isolation.",
+   "citations": [
+    {
+     "text": "Annie-Paule Quinsac, *Segantini: catalogo generale* (1982)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Segantini_-_The_Punishment_of_Lust_-_Google_Art_Project.jpg"
+    }
+   ],
+   "key_concepts": [
+    "karma",
+    "limbo",
+    "theosophy",
+    "divisionism"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__segantini-evil-mothers",
+   "title": "The Evil Mothers (Die bösen Mütter)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Giovanni Segantini",
+   "date": "1894",
+   "place": "Switzerland (Engadine)",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "bad mothers",
+    "frozen tree",
+    "infant",
+    "snow waste",
+    "redemption",
+    "karma",
+    "purgation",
+    "nirvana"
+   ],
+   "medium": "painting",
+   "figures": [],
+   "repository": "Österreichische Galerie Belvedere, Vienna",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Segantini_-_Die_b%C3%B6sen_M%C3%BCtter_-_485_-_%C3%96sterreichische_Galerie_Belvedere.jpg",
+   "summary": "A woman's hair is snared in the branches of a leafless tree in the frozen Engadine, an infant at her breast — Segantini's image of the \"evil mother\" working out her redemption.\n\n## Iconography\nThe near-nude figure hangs entangled in a black, snow-laden tree against an icy panorama; a child clings to her, the agent of her eventual release. Segantini's Divisionist threads of pure colour build the glittering cold.\n\n## Significance\nThe companion to *The Punishment of Lust*, drawn from the same Theosophically-coloured Indian poem: mothers who refused or harmed their children are bound in glacial limbo until the love they denied redeems them. Segantini's fusion of Alpine pantheism with karmic doctrine makes the Engadine landscape itself a moral cosmos.\n\n## For artists & game designers\nA figure literally snared by a tree's branches, awaiting release, externalises spiritual entanglement as a physical trap in the landscape.",
+   "citations": [
+    {
+     "text": "Annie-Paule Quinsac, *Segantini: catalogo generale* (1982)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Segantini_-_Die_b%C3%B6sen_M%C3%BCtter_-_485_-_%C3%96sterreichische_Galerie_Belvedere.jpg"
+    }
+   ],
+   "key_concepts": [
+    "karma",
+    "redemption",
+    "theosophy",
+    "divisionism"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__osbert-vision",
+   "title": "Reverie in Moonlight (Rêverie au clair de lune)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Alphonse Osbert",
+   "date": "c. 1900",
+   "place": "Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "moonlit reverie",
+    "priestess",
+    "still water",
+    "blue tonality",
+    "vision",
+    "contemplation",
+    "rose+croix",
+    "twilight"
+   ],
+   "medium": "painting",
+   "figures": [],
+   "repository": "[PLACEHOLDER: private collection]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Alphonse_Osbert_-_Reverie_au_Clair_de_Lune.jpg",
+   "summary": "A solitary woman stands in contemplation by still water under moonlight, bathed in Osbert's signature meditative blue.\n\n## Iconography\nThe priestess-like figure pauses at the edge of a glassy lake; reeds, distant trees and a low moon dissolve into an almost monochrome blue twilight. Nothing happens — the picture is wholly given to mood and inward vision.\n\n## Significance\nOsbert, a regular exhibitor at Péladan's Salon de la Rose+Croix, distilled Symbolism to pure atmosphere: timeless, hieratic women in blue evening light, evoking reverie and the soul's communion with a silent cosmos. His work shows how the occult Salon's ideals could be carried by tonality and stillness alone, without overt esoteric emblems.\n\n## For artists & game designers\nA near-monochrome palette plus a single still figure by water reliably reads as \"contemplation / liminal threshold\" — mood-building through restraint.",
+   "citations": [
+    {
+     "text": "Jean-David Jumeau-Lafond, *Les Peintres de l'âme* (1999)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Alphonse_Osbert_-_Reverie_au_Clair_de_Lune.jpg"
+    }
+   ],
+   "key_concepts": [
+    "reverie",
+    "rose+croix",
+    "tonal symbolism",
+    "contemplation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__point-symbolist",
+   "title": "Bust of a Maiden in a Landscape",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Armand Point",
+   "date": "c. 1895",
+   "place": "Paris / Marlotte",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "idealised maiden",
+    "renaissance revival",
+    "profile",
+    "landscape",
+    "rose+croix",
+    "ideal beauty",
+    "reverie",
+    "craft"
+   ],
+   "medium": "painting",
+   "figures": [],
+   "repository": "Walters Art Museum, Baltimore",
+   "shelfmark": "37.2801",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons (Walters Art Museum).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Armand_Point_-_Bust_of_a_Maiden_in_a_Landscape_-_Walters_372801.jpg",
+   "summary": "An idealised young woman is set against a serene landscape in the Renaissance-revival manner of Armand Point, a leading painter of Péladan's Rosicrucian circle.\n\n## Iconography\nThe maiden is shown in a calm three-quarter pose before a luminous distance of hills and sky; the handling consciously evokes Leonardo and the early Italian masters whom Point revered.\n\n## Significance\nArmand Point was a central figure of the Salon de la Rose+Croix and founder of the Haute-Claire craft community, which sought to revive Renaissance ideals of beauty and workmanship against industrial modernity. His ethereal, archaising women embody the Rosicrucian Salon's programme of an art devoted to the Ideal, legend and the soul rather than contemporary life.\n\n## For artists & game designers\nDeliberate archaism — borrowing an earlier era's portrait conventions — can mark a character or world as timeless, refined, or set apart from the present.",
+   "citations": [
+    {
+     "text": "Robert Pincus-Witten, *Occult Symbolism in France* (1976)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Armand_Point_-_Bust_of_a_Maiden_in_a_Landscape_-_Walters_372801.jpg"
+    }
+   ],
+   "key_concepts": [
+    "rose+croix",
+    "renaissance revival",
+    "ideal beauty",
+    "haute-claire"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbolist_occult__rops-pornokrates",
+   "title": "Pornokrates (The Lady with the Pig)",
+   "work": "Symbolist & Romantic Art with Occult Content",
+   "creator": "Félicien Rops",
+   "date": "1878",
+   "place": "Brussels / Paris",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "femme fatale",
+    "blindfold",
+    "pig",
+    "cherubs",
+    "satanism",
+    "decadence",
+    "allegory of vice",
+    "frieze of arts"
+   ],
+   "medium": "etching",
+   "figures": [],
+   "repository": "Musée Félicien Rops, Namur",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:F%C3%A9licien_Rops_-_Pornokrat%C3%A8s_-_1878.jpg",
+   "summary": "A blindfolded nude woman is led across a frieze of the arts by a pig on a ribbon, three blue cherubs fleeing above — Rops's mordant allegory of vice's dominion.\n\n## Iconography\nThe near-naked woman, eyes bound, strides forward in stockings and gloves, a golden pig trotting ahead on her leash; she treads a classical frieze personifying Sculpture, Music, Poetry and Painting, while putti recoil into the sky.\n\n## Significance\nRops, the great Belgian master of the diabolical and erotic print, makes \"Pornokrates\" — rule by lust — trample the arts underfoot, the blind woman led by the swine of base appetite. His Satanic and decadent imagery, much admired by Baudelaire and the *fin-de-siècle* occult-erotic underground, links the period's femme-fatale cult to an explicit iconography of vice and inverted worship.\n\n## For artists & game designers\nAn allegorical animal-on-a-leash (here a pig leading a blindfolded woman) compresses a whole moral inversion — who leads whom — into one wry image.",
+   "citations": [
+    {
+     "text": "Bram Dijkstra, *Idols of Perversity* (1986)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:F%C3%A9licien_Rops_-_Pornokrat%C3%A8s_-_1878.jpg"
+    }
+   ],
+   "key_concepts": [
+    "femme fatale",
+    "allegory of vice",
+    "decadence",
+    "diabolical print"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}
