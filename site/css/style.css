@@ -369,3 +369,34 @@ a{color:inherit;text-decoration:none}
 .gate-nav{display:flex;justify-content:space-between;margin:26px 0 50px;font-family:var(--serif);font-size:17px}
 .gate-nav a{color:var(--gold-bright);text-decoration:none}.gate-nav a:hover{text-decoration:underline}
 @media(max-width:560px){.gate-head{flex-direction:column;gap:14px}.gate-num{flex-basis:64px;height:64px;font-size:30px}}
+
+/* ===== Ripley & The Alchemical Work ===== */
+.ripley-hero{text-align:center;margin:20px 0 40px;max-width:820px;margin-left:auto;margin-right:auto}
+.ripley-hero h1{font-family:var(--serif);font-size:clamp(32px,6vw,48px);margin:0 0 10px;color:var(--gold-bright)}
+.ripley-subtitle{font-family:var(--serif);font-style:italic;color:var(--ink-faint);font-size:17px;margin:0}
+.ripley-essay{max-width:820px;margin:0 auto 50px;line-height:1.8}
+.ripley-essay h2{font-family:var(--serif);font-size:26px;margin:30px 0 16px;color:var(--gold-bright)}
+.ripley-essay p{color:var(--ink);margin:0 0 16px;font-size:15.5px}
+.ripley-essay em{font-style:italic;color:var(--gold)}
+.ripley-essay ul{margin:0 0 16px 24px;color:var(--ink-faint);font-size:14.5px}
+.ripley-essay li{margin:0 0 6px}
+.ripley-scroll-section{max-width:1000px;margin:0 auto 50px}
+.ripley-scroll-section h2{font-family:var(--serif);font-size:24px;margin:0 0 10px;color:var(--gold-bright)}
+.ripley-scroll-intro{color:var(--ink-faint);font-size:14.5px;margin:0 0 20px}
+.ripley-gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px}
+.scroll-card{display:block;border:1px solid rgba(190,150,70,.2);border-radius:8px;overflow:hidden;
+  text-decoration:none;transition:border-color .15s,transform .15s}
+.scroll-card:hover{border-color:var(--gold-bright);transform:translateY(-2px)}
+.scroll-card img{width:100%;height:160px;object-fit:cover;display:block}
+.scroll-label{display:block;padding:8px;background:var(--panel);color:var(--ink-faint);font-family:var(--sans);
+  font-size:11.5px;line-height:1.3;min-height:2.6em;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;
+  -webkit-line-clamp:2;-webkit-box-orient:vertical}
+.ripley-sources{max-width:820px;margin:0 auto;padding:30px;background:rgba(190,150,70,.08);border:1px solid rgba(190,150,70,.18);
+  border-radius:8px}
+.ripley-sources h2{font-family:var(--serif);font-size:20px;margin:0 0 16px;color:var(--gold-bright)}
+.ripley-sources p{color:var(--ink);margin:0 0 12px;font-size:14.5px}
+.ripley-sources strong{color:var(--gold-bright)}
+.ripley-sources ul{margin:0 0 16px 20px;color:var(--ink-faint);font-size:14px}
+.ripley-sources li{margin:0 0 6px}
+.ripley-sources em{font-style:italic;color:var(--gold)}
+@media(max-width:700px){.ripley-essay{padding:0 16px}.ripley-gallery{grid-template-columns:repeat(auto-fill,minmax(120px,1fr))}}
