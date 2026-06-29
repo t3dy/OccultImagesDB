@@ -1,0 +1,22 @@
+[
+ {"query": "Turba Philosophorum alchemical text", "out": "islamic_alchemy/turba_philos.jpg", "prefer": "Turba"},
+ {"query": "Senior Zadith alchemy text", "out": "islamic_alchemy/senior_zadith.jpg", "prefer": "Senior"},
+ {"query": "Artephius Alchemist Arabian work", "out": "islamic_alchemy/artephius.jpg", "prefer": "Artephius"},
+ {"query": "Alkimia Libavius title page", "out": "islamic_alchemy/alkimia_libavius.jpg", "prefer": "Libavius"},
+ {"query": "Distillation woodcut Bruegel", "out": "islamic_alchemy/bruegel_distillation.jpg", "prefer": "Bruegel"},
+ {"query": "Philosopher stone medieval treatise", "out": "islamic_alchemy/philosopher_stone_treat.jpg", "prefer": "philosopher"},
+ {"query": "Alchemist's dream engraving", "out": "islamic_alchemy/alchemist_dream.jpg", "prefer": "dream"},
+ {"query": "Gold leaf manuscript Islamic decoration", "out": "islamic_alchemy/gold_leaf_ms.jpg", "prefer": "gold leaf"},
+ {"query": "Red cinnabar sulfide chemistry", "out": "islamic_alchemy/cinnabar_sulfide.jpg", "prefer": "cinnabar"},
+ {"query": "Vitriol acid crystalline substance", "out": "islamic_alchemy/vitriol_acid.jpg", "prefer": "vitriol"},
+ {"query": "Elixir life immortality alchemy text", "out": "islamic_alchemy/elixir_immortal.jpg", "prefer": "elixir"},
+ {"query": "Magnesia oxide alchemy substance", "out": "islamic_alchemy/magnesia_oxide.jpg", "prefer": "magnesia"},
+ {"query": "Sal ammoniac salt alchemical", "out": "islamic_alchemy/sal_ammoniac.jpg", "prefer": "ammoniac"},
+ {"query": "Borax natron alkaline salt alchemy", "out": "islamic_alchemy/borax_natron.jpg", "prefer": "borax"},
+ {"query": "Antimony ore stibnite mineral alchemy", "out": "islamic_alchemy/antimony_ore.jpg", "prefer": "antimony"},
+ {"query": "Sulfur brimstone yellow mineral alchemy", "out": "islamic_alchemy/sulfur_brimstone.jpg", "prefer": "sulfur"},
+ {"query": "Arsenic toxic poison powder alchemy", "out": "islamic_alchemy/arsenic_powder.jpg", "prefer": "arsenic"},
+ {"query": "Verdigris copper corrosion alchemy", "out": "islamic_alchemy/verdigris_copper.jpg", "prefer": "verdigris"},
+ {"query": "Lead tin metal alchemy transformation", "out": "islamic_alchemy/lead_tin_metal.jpg", "prefer": "lead"},
+ {"query": "Glass vessels laboratory medieval alchemy", "out": "islamic_alchemy/glass_vessels.jpg", "prefer": "glass"}
+]

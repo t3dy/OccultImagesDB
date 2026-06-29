@@ -1,0 +1,22 @@
+[
+  {"query": "Paracelsus burning Galen medical reform", "out": "paracelsus_revolution/paracelsus_galen_burning.jpg", "prefer": "burn"},
+  {"query": "Johannes Huser Paracelsus collected works", "out": "paracelsus_revolution/paracelsus_huser_edition.jpg", "prefer": "Huser"},
+  {"query": "Paracelsus Theophrastus Bombast physician", "out": "paracelsus_revolution/paracelsus_physician.jpg", "prefer": "physician"},
+  {"query": "alchemical furnace fire retort", "out": "paracelsus_revolution/alchemical_furnace.jpg", "prefer": "furnace"},
+  {"query": "alchemical distillation retort apparatus medieval", "out": "paracelsus_revolution/alchemical_still.jpg", "prefer": "retort"},
+  {"query": "Archaeus vital spirit alchemy Paracelsus", "out": "paracelsus_revolution/archaeus_vital_force.jpg", "prefer": "Archaeus"},
+  {"query": "doctrine signatures Paracelsus medicine plants", "out": "paracelsus_revolution/signatures_doctrine.jpg", "prefer": "signature"},
+  {"query": "paracelsian tincture elixir alchemy medicine", "out": "paracelsus_revolution/paracelsian_elixir.jpg", "prefer": "tincture"},
+  {"query": "alchemical laboratory furnace woodcut Renaissance", "out": "paracelsus_revolution/alchemy_lab_manuscript.jpg", "prefer": "laboratory"},
+  {"query": "homunculus artificial human alchemy", "out": "paracelsus_revolution/homunculus_creation.jpg", "prefer": "homunculus"},
+  {"query": "physician 16th century medical treatise", "out": "paracelsus_revolution/physician_treatise.jpg", "prefer": "physician"},
+  {"query": "metallic medicine iatrochemistry alchemy", "out": "paracelsus_revolution/metal_alchemy.jpg", "prefer": "metal"},
+  {"query": "mercury sulphur salt alchemy symbols", "out": "paracelsus_revolution/alchemical_emblems.jpg", "prefer": "mercury"},
+  {"query": "Compleat Physician alchemy medical", "out": "paracelsus_revolution/compleat_physician.jpg", "prefer": "Compleat"},
+  {"query": "alchemy laboratory engraving Bruegel", "out": "paracelsus_revolution/renaissance_lab.jpg", "prefer": "Bruegel"},
+  {"query": "Paracelsus De Gradibus medical philosophy", "out": "paracelsus_revolution/gradibus.jpg", "prefer": "Gradibus"},
+  {"query": "distillation apparatus 16th century alchemy", "out": "paracelsus_revolution/distillation_apparatus_2.jpg", "prefer": "distil"},
+  {"query": "alchemist work fire heating", "out": "paracelsus_revolution/mercury_furnace_heating.jpg", "prefer": "alchemist"},
+  {"query": "medicine stars planets astral", "out": "paracelsus_revolution/astro_medicine.jpg", "prefer": "astro"},
+  {"query": "Paracelsus chemical experiment medicine", "out": "paracelsus_revolution/paracelsus_chemical.jpg", "prefer": "Paracelsus"}
+]

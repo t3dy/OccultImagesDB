@@ -1,0 +1,22 @@
+[
+  {"query": "Bruegel alchemy laboratory painting", "out": "paracelsus_revolution/alchemy_bruegel_lab.jpg", "prefer": "Bruegel"},
+  {"query": "Jost Amman alchemist furnace engraving", "out": "paracelsus_revolution/amman_alchemist.jpg", "prefer": "Amman"},
+  {"query": "Kristatella Vollgebot Der Alchemisten", "out": "paracelsus_revolution/kristatella.jpg", "prefer": "alchemist"},
+  {"query": "Maier Atalanta Fugiens alchemical emblem", "out": "paracelsus_revolution/atalanta_emblem.jpg", "prefer": "Maier"},
+  {"query": "Becher Oedipus Chemicus alchemy", "out": "paracelsus_revolution/becher_oedipus.jpg", "prefer": "Becher"},
+  {"query": "John Dee monad symbol mathematics", "out": "paracelsus_revolution/dee_monad.jpg", "prefer": "Dee"},
+  {"query": "Rosarium Philosophorum alchemical wedding", "out": "paracelsus_revolution/rosarium.jpg", "prefer": "Rosarium"},
+  {"query": "doctor physician 16th century engraving", "out": "paracelsus_revolution/doctor_16th.jpg", "prefer": "doctor"},
+  {"query": "surgeon bloodletting medical instrument", "out": "paracelsus_revolution/surgeon_bloodletting.jpg", "prefer": "surgeon"},
+  {"query": "apotheque apothecary medicine chest", "out": "paracelsus_revolution/apothecary.jpg", "prefer": "apothecary"},
+  {"query": "urine flask uroscopy medical diagnosis", "out": "paracelsus_revolution/uroscopy.jpg", "prefer": "uroscopy"},
+  {"query": "astrolabe astronomical instrument", "out": "paracelsus_revolution/astrolabe.jpg", "prefer": "astrolabe"},
+  {"query": "alembic copper distillation apparatus", "out": "paracelsus_revolution/alembic.jpg", "prefer": "alembic"},
+  {"query": "crucible furnace metalworking alchemy", "out": "paracelsus_revolution/crucible_furnace.jpg", "prefer": "crucible"},
+  {"query": "vitriol green blue alchemy sulfuric", "out": "paracelsus_revolution/vitriol.jpg", "prefer": "vitriol"},
+  {"query": "quicksilver mercury metal alchemy", "out": "paracelsus_revolution/quicksilver.jpg", "prefer": "quicksilver"},
+  {"query": "antimony metallic alchemy medicine", "out": "paracelsus_revolution/antimony.jpg", "prefer": "antimony"},
+  {"query": "calcination putrefaction separation alchemy", "out": "paracelsus_revolution/calcination.jpg", "prefer": "calcination"},
+  {"query": "peacock tail iridescence alchemy", "out": "paracelsus_revolution/peacock_tail.jpg", "prefer": "peacock"},
+  {"query": "tree of life symbol hermetic philosophy", "out": "paracelsus_revolution/tree_life.jpg", "prefer": "tree"}
+]

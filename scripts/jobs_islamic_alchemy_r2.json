@@ -1,0 +1,22 @@
+[
+ {"query": "Jabir ibn Hayyan alchemist", "out": "islamic_alchemy/jabir_alchemist.jpg", "prefer": "Jabir"},
+ {"query": "Kitab al-Seventy", "out": "islamic_alchemy/jabir_seventy.jpg", "prefer": "Seventy"},
+ {"query": "Alembic retort distillation medieval", "out": "islamic_alchemy/medieval_alembic.jpg", "prefer": "retort"},
+ {"query": "Kitab al-Asrar alchemy", "out": "islamic_alchemy/asrar_page.jpg", "prefer": "Asrar"},
+ {"query": "Hunayn ibn Ishaq physician", "out": "islamic_alchemy/hunayn_physician.jpg", "prefer": "Hunayn"},
+ {"query": "Persian manuscript alchemical", "out": "islamic_alchemy/persian_ms.jpg", "prefer": "Persian"},
+ {"query": "al-Ghazali philosopher sage", "out": "islamic_alchemy/ghazali_sage.jpg", "prefer": "al-Ghazali"},
+ {"query": "Distillation apparatus historical", "out": "islamic_alchemy/distillation_apparatus.jpg", "prefer": "distillation"},
+ {"query": "Philosophical stone alchemy medieval", "out": "islamic_alchemy/philosophers_stone.jpg", "prefer": "stone"},
+ {"query": "Geber Arabic alchemist", "out": "islamic_alchemy/geber_arab.jpg", "prefer": "Geber"},
+ {"query": "Sabian manuscripts", "out": "islamic_alchemy/sabian_ms.jpg", "prefer": "Sabian"},
+ {"query": "Emerald Tablet alchemical text", "out": "islamic_alchemy/emerald_tablet.jpg", "prefer": "Emerald"},
+ {"query": "Islamic alchemy text page", "out": "islamic_alchemy/islamic_text_page.jpg", "prefer": "Islamic"},
+ {"query": "Alchemist working furnace medieval print", "out": "islamic_alchemy/alchemist_furnace.jpg", "prefer": "furnace"},
+ {"query": "Alchemy manuscript page medieval", "out": "islamic_alchemy/alchemy_page.jpg", "prefer": "manuscript"},
+ {"query": "Ibn Sina physician portrait", "out": "islamic_alchemy/ibn_sina_portrait.jpg", "prefer": "Sina"},
+ {"query": "Copper production medieval technique", "out": "islamic_alchemy/copper_prod.jpg", "prefer": "copper"},
+ {"query": "Mercury distillation apparatus diagram", "out": "islamic_alchemy/mercury_distillation.jpg", "prefer": "mercury"},
+ {"query": "Alchemical theory text Arabic", "out": "islamic_alchemy/alchemical_theory.jpg", "prefer": "theory"},
+ {"query": "Laboratory scene medieval painting", "out": "islamic_alchemy/lab_scene_paint.jpg", "prefer": "laboratory"}
+]

@@ -1,0 +1,22 @@
+[
+  {"query": "Paracelsus statue monument", "out": "paracelsus_revolution/paracelsus_statue.jpg", "prefer": "statue"},
+  {"query": "Georg Agricola De Re Metallica mining", "out": "paracelsus_revolution/agricola_metallica.jpg", "prefer": "Agricola"},
+  {"query": "Theophrastus Bombast Von Hohenheim", "out": "paracelsus_revolution/bombast_hohenheim.jpg", "prefer": "Theophrastus"},
+  {"query": "medical book illustration remedy", "out": "paracelsus_revolution/medical_remedy.jpg", "prefer": "remedy"},
+  {"query": "herbal manuscript plantae medicinale", "out": "paracelsus_revolution/herbal_plants.jpg", "prefer": "herbal"},
+  {"query": "medieval alchemy text manuscript page", "out": "paracelsus_revolution/alchemy_manuscript.jpg", "prefer": "manuscript"},
+  {"query": "green lion red king alchemy", "out": "paracelsus_revolution/green_lion_red_king.jpg", "prefer": "lion"},
+  {"query": "philosopher's stone transmutation gold", "out": "paracelsus_revolution/philosophers_stone.jpg", "prefer": "philosopher"},
+  {"query": "serpent ouroboros symbol alchemy", "out": "paracelsus_revolution/ouroboros.jpg", "prefer": "serpent"},
+  {"query": "wheel of fortune zodiac astrology", "out": "paracelsus_revolution/wheel_fortune.jpg", "prefer": "wheel"},
+  {"query": "conjunction couples alchemical marriage", "out": "paracelsus_revolution/alchemical_marriage.jpg", "prefer": "conjunction"},
+  {"query": "rose cross rosicrucian symbol", "out": "paracelsus_revolution/rose_cross.jpg", "prefer": "rose"},
+  {"query": "caduceus mercury staff medical", "out": "paracelsus_revolution/caduceus.jpg", "prefer": "caduceus"},
+  {"query": "stag white stag alchemy", "out": "paracelsus_revolution/white_stag.jpg", "prefer": "stag"},
+  {"query": "bath warm cold water alchemy", "out": "paracelsus_revolution/alchemical_bath.jpg", "prefer": "bath"},
+  {"query": "athanor furnace perpetual heat alchemy", "out": "paracelsus_revolution/athanor.jpg", "prefer": "athanor"},
+  {"query": "book woodcut title page Renaissance", "out": "paracelsus_revolution/title_page.jpg", "prefer": "title"},
+  {"query": "chemical experiment early modern", "out": "paracelsus_revolution/chemical_exp.jpg", "prefer": "chemical"},
+  {"query": "mineral ore metallic salt", "out": "paracelsus_revolution/ore_metal.jpg", "prefer": "ore"},
+  {"query": "extract tincture liquid alchemy", "out": "paracelsus_revolution/tincture_extract.jpg", "prefer": "tincture"}
+]

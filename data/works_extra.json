@@ -2621,5 +2621,65 @@
    "wolf and king"
   ],
   "blurb": "The twelve emblematic 'keys' of the *Duodecim Claves* attributed to Basil Valentine — each a dense alchemical riddle staging one step of the Great Work, from the antimonial purgation of the king to the final fixed Stone. Engraved by Michael Maier for the *Tripus Aureus* (1618) and reissued in the *Musaeum Hermeticum* (1678)."
+ },
+ {
+  "key": "islamic_alchemy",
+  "short_id": "ISLM",
+  "title": "Islamic and Persian Alchemy: The Jabirian Tradition and Eastern Science (9th–17th centuries)",
+  "creator": "various",
+  "date": "9th–17th c.",
+  "century": 12,
+  "place": "Iraq, Persia, Caliphate territories, Ottoman lands",
+  "region": "Islamic Caliphate/Persia",
+  "language": "Arabic, Persian",
+  "era": "medieval",
+  "tradition": "alchemy",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "islamic_alchemy",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Islamic_alchemy",
+  "rights": "Public domain / CC BY 4.0 / CC BY-SA 4.0 (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "Jabir ibn Hayyan",
+   "laboratory apparatus",
+   "distillation tower",
+   "alembic and retort",
+   "furnace and bellows",
+   "mercury amalgam",
+   "philosophical egg",
+   "Kitab al-Seventy"
+  ],
+  "blurb": "The alchemy of the medieval Islamic world (9th–17th c.) — the foundational science that transmitted Greek natural philosophy and Indian chemistry through the Arab and Persian scholars to the Latin West. Centered on Jabir ibn Hayyan (Geber) and his vast corpus, this collection gathers portraits of the alchemical masters (al-Razi, Avicenna, al-Kindi, Hunayn ibn Ishaq), diagrams of furnace and retort apparatus, manuscript pages and printed treatises on transmutation and quintessence, and laboratory scenes that depict the Great Work in action. The tradition encompasses the distillation apparatus that defined early chymistry, the Emerald Tablet in Arabic and Persian copies, and the broader hermetic philosophy that shaped both Islamic and European occult thought."
+ },
+ {
+  "key": "paracelsus_revolution",
+  "short_id": "PARA",
+  "title": "Paracelsus and the Medical-Alchemical Revolution",
+  "creator": "various",
+  "date": "1493–1662",
+  "century": 16,
+  "place": "German lands; Europe",
+  "region": "German lands",
+  "language": "Latin; German; English",
+  "era": "early_modern",
+  "tradition": "alchemy",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "paracelsus_revolution",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Paracelsus",
+  "rights": "Public domain / CC BY 4.0 (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "paracelsian medicine",
+   "iatrochemistry",
+   "distillation",
+   "tria prima",
+   "furnace",
+   "physician",
+   "signature doctrine",
+   "vital heat",
+   "alchemy",
+   "reformation"
+  ],
+  "blurb": "Paracelsus (1493–1541) revolutionized medicine and alchemy by integrating chemical experiment with therapeutics. This collection spans his portraits, alchemical laboratory apparatus, cosmological symbols, and the broader Renaissance world of mining, distillation, and metallic medicine he championed."
  }
 ]

@@ -1,0 +1,12 @@
+[
+ {"query": "Al-Razi De Alchemia medical chemistry", "out": "islamic_alchemy/razi_dealchemia.jpg", "prefer": "Razi"},
+ {"query": "Jabir ibn Hayyan writings treatise", "out": "islamic_alchemy/jabir_writings.jpg", "prefer": "Jabir"},
+ {"query": "Book Seventy Steps alchemy", "out": "islamic_alchemy/book_seventy_steps.jpg", "prefer": "Seventy"},
+ {"query": "Islamic science philosophy manuscript", "out": "islamic_alchemy/islamic_science_ms.jpg", "prefer": "Islamic"},
+ {"query": "Medieval alchemical equipment engraving", "out": "islamic_alchemy/medieval_equipment.jpg", "prefer": "equipment"},
+ {"query": "Alchemist laboratory workshop painting", "out": "islamic_alchemy/alchemist_lab_paint.jpg", "prefer": "workshop"},
+ {"query": "Transformation metal alchemy emblem", "out": "islamic_alchemy/transform_metal.jpg", "prefer": "transformation"},
+ {"query": "Celestial astral alchemy diagram", "out": "islamic_alchemy/celestial_astral.jpg", "prefer": "celestial"},
+ {"query": "Medical chemistry Islamic physician", "out": "islamic_alchemy/medical_chem_physician.jpg", "prefer": "medical"},
+ {"query": "Rotund furnace heating still apparatus", "out": "islamic_alchemy/rotund_furnace.jpg", "prefer": "furnace"}
+]

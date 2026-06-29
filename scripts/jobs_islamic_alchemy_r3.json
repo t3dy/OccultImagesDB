@@ -1,0 +1,22 @@
+[
+ {"query": "Al-Razi chemistry text page", "out": "islamic_alchemy/razi_chemistry_text.jpg", "prefer": "Razi"},
+ {"query": "Zosimos alchemy manuscript", "out": "islamic_alchemy/zosimos_alchemic.jpg", "prefer": "Zosimos"},
+ {"query": "Alchemist at work woodcut engraving", "out": "islamic_alchemy/alchemist_work_print.jpg", "prefer": "alchemist"},
+ {"query": "Quintessence extraction apparatus", "out": "islamic_alchemy/quintessence_app.jpg", "prefer": "quintessence"},
+ {"query": "Alchemical symbols diagram medieval", "out": "islamic_alchemy/alchemical_symbols.jpg", "prefer": "symbols"},
+ {"query": "Furnace bellows alchemical workshop", "out": "islamic_alchemy/furnace_bellows.jpg", "prefer": "bellows"},
+ {"query": "Calcination process alchemy diagram", "out": "islamic_alchemy/calcination_process.jpg", "prefer": "calcination"},
+ {"query": "Sublimation apparatus medieval alchemy", "out": "islamic_alchemy/sublimation_app.jpg", "prefer": "sublimation"},
+ {"query": "Alembic still retort medieval apparatus", "out": "islamic_alchemy/alembic_still.jpg", "prefer": "alembic"},
+ {"query": "Athanor furnace alchemy", "out": "islamic_alchemy/athanor_furnace.jpg", "prefer": "athanor"},
+ {"query": "Hermaphrodite androgyne alchemy symbol", "out": "islamic_alchemy/hermaphrodite_symbol.jpg", "prefer": "hermaphrodite"},
+ {"query": "Conjunctio marriage chemical wedding", "out": "islamic_alchemy/conjunctio_marriage.jpg", "prefer": "conjunctio"},
+ {"query": "Crucible furnace heating apparatus medieval", "out": "islamic_alchemy/crucible_apparatus.jpg", "prefer": "crucible"},
+ {"query": "Three principles mercury sulfur salt", "out": "islamic_alchemy/three_principles.jpg", "prefer": "principles"},
+ {"query": "Alchemical book title page medieval print", "out": "islamic_alchemy/alch_book_title.jpg", "prefer": "title page"},
+ {"query": "Paracelsus portrait alchemist physician", "out": "islamic_alchemy/paracelsus_portrait.jpg", "prefer": "Paracelsus"},
+ {"query": "Robert Boyle natural philosophy chemistry", "out": "islamic_alchemy/boyle_portrait.jpg", "prefer": "Boyle"},
+ {"query": "Transmutation gold silver alchemy", "out": "islamic_alchemy/transmutation_gold.jpg", "prefer": "transmutation"},
+ {"query": "Putrefaction decay process alchemy", "out": "islamic_alchemy/putrefaction_process.jpg", "prefer": "putrefaction"},
+ {"query": "Circulation wheel ouroboros serpent alchemy", "out": "islamic_alchemy/ouroboros_wheel.jpg", "prefer": "ouroboros"}
+]
