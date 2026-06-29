@@ -1,0 +1,17 @@
+[
+ {"query": "Samuel Liddell MacGregor Mathers portrait", "out": "golden_dawn/mathers_portrait.jpg", "prefer": "Mathers"},
+ {"query": "MacGregor Mathers Egyptian costume Isis", "out": "golden_dawn/mathers_isis.jpg", "prefer": "Mathers"},
+ {"query": "William Wynn Westcott portrait", "out": "golden_dawn/westcott_portrait.jpg", "prefer": "Westcott"},
+ {"query": "Arthur Edward Waite portrait", "out": "golden_dawn/waite_portrait.jpg", "prefer": "Waite"},
+ {"query": "Cipher Manuscript Golden Dawn folio", "out": "golden_dawn/cipher_manuscript.jpg", "prefer": "Cipher"},
+ {"query": "Enochian Watchtower Tabula Recensa Golden Dawn", "out": "golden_dawn/enochian_watchtower.jpg", "prefer": "Watchtower"},
+ {"query": "John Dee Great Table Enochian Aethyrs", "out": "golden_dawn/great_table.jpg", "prefer": "Table"},
+ {"query": "Tattva cards elemental symbols Tattwa", "out": "golden_dawn/tattva_cards.jpg", "prefer": "Tattwa"},
+ {"query": "Vault of the Adepti seven sided Rosicrucian tomb", "out": "golden_dawn/vault_adepti.jpg", "prefer": "Vault"},
+ {"query": "Tomb of Christian Rosenkreutz", "out": "golden_dawn/crc_tomb.jpg", "prefer": "Rosenkreutz"},
+ {"query": "Enochian chess board Golden Dawn", "out": "golden_dawn/enochian_chess.jpg", "prefer": "chess"},
+ {"query": "Pamela Colman Smith photograph", "out": "golden_dawn/pcs_portrait.jpg", "prefer": "Colman Smith"},
+ {"query": "Florence Farr portrait actress", "out": "golden_dawn/florence_farr.jpg", "prefer": "Farr"},
+ {"query": "William Robert Woodman Rosicrucian", "out": "golden_dawn/woodman_portrait.jpg", "prefer": "Woodman"},
+ {"query": "Golden Dawn Neophyte ritual temple diagram", "out": "golden_dawn/neophyte_temple.jpg", "prefer": "Neophyte"}
+]

@@ -1,0 +1,16 @@
+[
+ {"query": "Nicolas Flamel Livre des figures hieroglyphiques", "out": "flamel/figures_hieroglyphiques_title.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel hieroglyphic figures arch innocents", "out": "flamel/arch_innocents.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel portrait alchemist", "out": "flamel/flamel_portrait.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel Pernelle wife", "out": "flamel/flamel_pernelle.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel tombstone gravestone Cluny", "out": "flamel/flamel_tombstone.jpg", "prefer": "Flamel"},
+ {"query": "Maison de Nicolas Flamel rue Montmorency Paris", "out": "flamel/flamel_house.jpg", "prefer": "Flamel"},
+ {"query": "Tour Saint-Jacques Paris tower", "out": "flamel/tour_saint_jacques.jpg", "prefer": "Saint-Jacques"},
+ {"query": "Cimetiere des Innocents Paris charnel", "out": "flamel/cimetiere_innocents.jpg", "prefer": "Innocents"},
+ {"query": "Flamel Exposition of the Hieroglyphical Figures Orandus 1624", "out": "flamel/orandus_1624.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel green red dragons alchemy", "out": "flamel/green_red_dragons.jpg", "prefer": "dragon"},
+ {"query": "Nicolas Flamel caduceus Mercury winged", "out": "flamel/caduceus_mercury.jpg", "prefer": "Flamel"},
+ {"query": "Abraham the Jew alchemy book Flamel", "out": "flamel/abraham_the_jew.jpg", "prefer": "Abraham"},
+ {"query": "Nicolas Flamel resurrection dead figures arch", "out": "flamel/resurrection.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel serpent crucified gold", "out": "flamel/serpent_cross.jpg", "prefer": "Flamel"}
+]

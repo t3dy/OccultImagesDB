@@ -1,0 +1,18 @@
+[
+ {"query": "Pistis Sophia", "out": "gnostic_codices/pistis_sophia.jpg", "prefer": "Pistis"},
+ {"query": "Codex Brucianus", "out": "gnostic_codices/bruce_codex.jpg", "prefer": "Brucianus"},
+ {"query": "Books of Jeu diagram", "out": "gnostic_codices/books_of_jeu.jpg", "prefer": "Jeu"},
+ {"query": "Ophite diagram", "out": "gnostic_codices/ophite_diagram.jpg", "prefer": "Ophite"},
+ {"query": "Ialdabaoth", "out": "gnostic_codices/ialdabaoth.jpg", "prefer": "Ialdabaoth"},
+ {"query": "Abraxas Apistopistus gems", "out": "gnostic_codices/abraxas_gems.jpg", "prefer": "Abraxas"},
+ {"query": "Abraxas anguipede", "out": "gnostic_codices/abraxas_anguipede.jpg", "prefer": "Abraxas"},
+ {"query": "Apocryphon of John", "out": "gnostic_codices/apocryphon_of_john.jpg", "prefer": "John"},
+ {"query": "Sophia Wisdom of God icon", "out": "gnostic_codices/sophia_icon.jpg", "prefer": "Sophia"},
+ {"query": "Cathar cross", "out": "gnostic_codices/cathar_cross.jpg", "prefer": "Cathar"},
+ {"query": "Bogomil stecak", "out": "gnostic_codices/bogomil_stecak.jpg", "prefer": "tecak"},
+ {"query": "Mani Manichaean prophet", "out": "gnostic_codices/mani_prophet.jpg", "prefer": "Mani"},
+ {"query": "Montsegur castle", "out": "gnostic_codices/montsegur.jpg", "prefer": "onts"},
+ {"query": "Valentinus Gnostic", "out": "gnostic_codices/valentinus.jpg", "prefer": "Valent"},
+ {"query": "Gnostic gem amulet", "out": "gnostic_codices/gnostic_gem.jpg", "prefer": "Gnostic"},
+ {"query": "Ouroboros Chrysopoeia Cleopatra", "out": "gnostic_codices/ouroboros_chrysopoeia.jpg", "prefer": "uroboros"}
+]

@@ -1,0 +1,20 @@
+[
+ {"query": "Roger Bacon brazen head engraving", "out": "magical_automata/bacon_brazen_head.jpg", "prefer": "Bacon"},
+ {"query": "Friar Bacon brazen head Greene", "out": "magical_automata/friar_bacon_head.jpg", "prefer": "Bacon"},
+ {"query": "Albertus Magnus android automaton", "out": "magical_automata/albertus_magnus.jpg", "prefer": "Albertus"},
+ {"query": "Gerbert Sylvester II head oracle", "out": "magical_automata/sylvester_head.jpg", "prefer": "Sylvester"},
+ {"query": "Mechanical Turk chess automaton Kempelen engraving", "out": "magical_automata/mechanical_turk.jpg", "prefer": "Turk"},
+ {"query": "Kempelen Schachtuerke Racknitz", "out": "magical_automata/turk_racknitz.jpg", "prefer": "Racknitz"},
+ {"query": "Vaucanson digesting duck automaton", "out": "magical_automata/vaucanson_duck.jpg", "prefer": "duck"},
+ {"query": "Vaucanson flute player automaton", "out": "magical_automata/vaucanson_flute.jpg", "prefer": "Vaucanson"},
+ {"query": "Jaquet-Droz writer automaton", "out": "magical_automata/jaquet_droz_writer.jpg", "prefer": "Jaquet"},
+ {"query": "Jaquet-Droz musician automaton", "out": "magical_automata/jaquet_droz_musician.jpg", "prefer": "Jaquet"},
+ {"query": "Talos bronze giant Greek vase", "out": "magical_automata/talos.jpg", "prefer": "Talos"},
+ {"query": "Colossi of Memnon vocal statue engraving", "out": "magical_automata/memnon.jpg", "prefer": "Memnon"},
+ {"query": "Daedalus moving statues myth", "out": "magical_automata/daedalus.jpg", "prefer": "Daedalus"},
+ {"query": "Hermes Trismegistus Asclepius god making statues", "out": "magical_automata/asclepius_statues.jpg", "prefer": "Hermes"},
+ {"query": "Antikythera mechanism fragment", "out": "magical_automata/antikythera.jpg", "prefer": "Antikythera"},
+ {"query": "android automaton engraving 18th century", "out": "magical_automata/android_engraving.jpg", "prefer": "automaton"},
+ {"query": "Paracelsus homunculus alchemy", "out": "magical_automata/homunculus_paracelsus.jpg", "prefer": "homunculus"},
+ {"query": "teraphim idol divination", "out": "magical_automata/teraphim.jpg", "prefer": "teraphim"}
+]

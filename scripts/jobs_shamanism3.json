@@ -1,0 +1,10 @@
+[
+ {"query": "Altai drum shaman", "out": "shamanism/altai_drum.jpg", "prefer": "drum"},
+ {"query": "Nganasan people shaman", "out": "shamanism/nganasan_shaman.jpg", "prefer": "Nganasan"},
+ {"query": "Chukchi shaman", "out": "shamanism/chukchi_shaman.jpg", "prefer": "Chukchi"},
+ {"query": "Yupik mask Alaska", "out": "shamanism/yupik_mask.jpg", "prefer": "mask"},
+ {"query": "Tupilak", "out": "shamanism/tupilaq.jpg", "prefer": "Tupilak"},
+ {"query": "Tungus shaman costume", "out": "shamanism/tungus_shaman.jpg", "prefer": "shaman"},
+ {"query": "Tlingit shaman", "out": "shamanism/tlingit_shaman.jpg", "prefer": "shaman"},
+ {"query": "Nivkh shaman", "out": "shamanism/nivkh_shaman.jpg", "prefer": "shaman"}
+]

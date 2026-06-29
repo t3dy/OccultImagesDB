@@ -1,0 +1,20 @@
+[
+ {"query": "Witsen 1692 Schaman Tungus shaman engraving Noord en Oost Tartarye", "out": "shamanism/witsen_schaman.jpg", "prefer": "Schaman"},
+ {"query": "Georgi Russland shaman Tungus engraving 1776 costume", "out": "shamanism/georgi_shaman.jpg", "prefer": "Schaman"},
+ {"query": "Evenki shaman costume drum museum Siberia", "out": "shamanism/evenki_shaman_costume.jpg", "prefer": "shaman"},
+ {"query": "Buryat shaman costume regalia Siberia museum", "out": "shamanism/buryat_shaman.jpg", "prefer": "shaman"},
+ {"query": "Yakut shaman drum Sakha Siberia", "out": "shamanism/yakut_shaman_drum.jpg", "prefer": "drum"},
+ {"query": "Altai shaman drum painted drumhead cosmogram", "out": "shamanism/altai_drum.jpg", "prefer": "drum"},
+ {"query": "Nganasan shaman costume Taimyr", "out": "shamanism/nganasan_shaman.jpg", "prefer": "shaman"},
+ {"query": "Chukchi shaman drum ritual Siberia", "out": "shamanism/chukchi_shaman.jpg", "prefer": "Chukchi"},
+ {"query": "Yupik shaman mask Alaska wood spirit", "out": "shamanism/yupik_mask.jpg", "prefer": "mask"},
+ {"query": "Inuit shaman amulet angakkuq Greenland", "out": "shamanism/inuit_shaman_amulet.jpg", "prefer": "amulet"},
+ {"query": "Tupilaq Greenland carved spirit figure", "out": "shamanism/tupilaq.jpg", "prefer": "Tupilak"},
+ {"query": "Tlingit soul catcher shaman amulet Northwest Coast", "out": "shamanism/tlingit_soul_catcher.jpg", "prefer": "soul"},
+ {"query": "Haida shaman charm Northwest Coast carved", "out": "shamanism/haida_shaman_charm.jpg", "prefer": "shaman"},
+ {"query": "Korean shaman painting musindo spirit general", "out": "shamanism/korean_musindo.jpg", "prefer": "shaman"},
+ {"query": "Pallas reise shaman engraving Siberia costume 1771", "out": "shamanism/pallas_shaman.jpg", "prefer": "Schaman"},
+ {"query": "Tungus Evenki sevenki spirit figure wooden idol", "out": "shamanism/tungus_spirit_figure.jpg", "prefer": "spirit"},
+ {"query": "Nepalese jhakri shaman Himalaya drum", "out": "shamanism/nepal_jhakri.jpg", "prefer": "shaman"},
+ {"query": "Selkup shaman drum Siberia ethnography", "out": "shamanism/selkup_shaman.jpg", "prefer": "shaman"}
+]

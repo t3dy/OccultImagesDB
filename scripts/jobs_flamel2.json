@@ -1,0 +1,14 @@
+[
+ {"query": "Nicolas Flamel deux dragons", "out": "flamel/two_dragons.jpg", "prefer": "dragon"},
+ {"query": "Flamel figures hieroglyphiques planche gravure", "out": "flamel/figures_planche.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel arcade procession innocents", "out": "flamel/arcade_procession.jpg", "prefer": "Flamel"},
+ {"query": "Flamel hieroglyphical figures Eirenaeus Orandus", "out": "flamel/orandus.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel Albert Poisson alchemie", "out": "flamel/poisson_flamel.jpg", "prefer": "Flamel"},
+ {"query": "Flamel serpents devorant croix or", "out": "flamel/serpents_cross.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel saint Pierre saint Paul figure", "out": "flamel/peter_paul.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel roi massacre innocents", "out": "flamel/king_innocents.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel homme rouleau scroll", "out": "flamel/man_scroll.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel signe arch portail innocents engraving", "out": "flamel/arch_engraving.jpg", "prefer": "Flamel"},
+ {"query": "Nicolas Flamel keystone sculpture house Montmorency", "out": "flamel/house_keystone.jpg", "prefer": "Flamel"},
+ {"query": "Tour Saint-Jacques gravure ancienne Paris", "out": "flamel/saint_jacques_old.jpg", "prefer": "Saint-Jacques"}
+]

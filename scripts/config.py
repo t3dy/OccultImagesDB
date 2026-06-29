@@ -601,30 +601,6 @@ SOURCES = [
                  "beneath alchemical theory.",
     },
     {
-        "key": "glauber_furni", "short_id": "GLA", "title": "Furni Novi Philosophici",
-        "creator": "Johann Rudolph Glauber", "date": "1648", "century": 17,
-        "place": "Amsterdam", "region": "Dutch Republic", "language": "German",
-        "era": "early_modern", "tradition": "alchemy", "tier": "illustration", "root": "BEU",
-        "image_dir": "glauber_furni_novi",
-        "provenance_url": "https://archive.org/details/furninoviphiloso00glau",
-        "rights": "Public domain. Internet Archive scan.",
-        "motifs": ["furnace", "distillation", "apparatus", "chemistry", "engraving"],
-        "blurb": "Glauber's 'New Philosophical Furnaces' — detailed engravings of distillation furnaces "
-                 "and chemical apparatus from one of the founders of practical chemistry.",
-    },
-    {
-        "key": "libavius_alchymia", "short_id": "LIB", "title": "Alchymia",
-        "creator": "Andreas Libavius", "date": "1597", "century": 16,
-        "place": "Frankfurt", "region": "German lands (HRE)", "language": "Latin",
-        "era": "renaissance", "tradition": "alchemy", "tier": "illustration", "root": "BEU",
-        "image_dir": "libavius_alchymia",
-        "provenance_url": "https://archive.org/details/alchymiaandreael00liba",
-        "rights": "Public domain. Internet Archive scan.",
-        "motifs": ["apparatus", "laboratory plan", "vessels", "furnace", "engraving"],
-        "blurb": "Often called the first chemistry textbook — Libavius's 'Alchymia' includes the famous "
-                 "plan for an ideal alchemical laboratory ('Chemical House') and meticulous apparatus plates.",
-    },
-    {
         "key": "biringuccio_piro", "short_id": "PIR", "title": "De la Pirotechnia",
         "creator": "Vannoccio Biringuccio", "date": "1540", "century": 16,
         "place": "Venice", "region": "Republic of Venice", "language": "Italian",

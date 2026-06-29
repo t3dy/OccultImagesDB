@@ -1,0 +1,16 @@
+[
+ {"query": "MacGregor Mathers", "out": "golden_dawn/mathers_portrait.jpg", "prefer": "Mathers"},
+ {"query": "Samuel Mathers Egyptian dress", "out": "golden_dawn/mathers_isis.jpg", "prefer": "Mathers"},
+ {"query": "Cipher Manuscript Hermetic Order Golden Dawn", "out": "golden_dawn/cipher_manuscript.jpg", "prefer": "Cipher"},
+ {"query": "Enochian Tabula recensa", "out": "golden_dawn/enochian_watchtower.jpg", "prefer": "Tabula"},
+ {"query": "Enochian Great Table four watchtowers", "out": "golden_dawn/great_table.jpg", "prefer": "Enochian"},
+ {"query": "Tattva symbols five elements Hinduism tejas apas", "out": "golden_dawn/tattva_cards.jpg", "prefer": "Tattva"},
+ {"query": "Rosicrucian seven sided vault adepti", "out": "golden_dawn/vault_adepti.jpg", "prefer": "vault"},
+ {"query": "Christian Rosenkreutz tomb Fama Fraternitatis", "out": "golden_dawn/crc_tomb.jpg", "prefer": "Rosenkreutz"},
+ {"query": "Florence Farr", "out": "golden_dawn/florence_farr.jpg", "prefer": "Farr"},
+ {"query": "Pamela Colman Smith 1912 photograph portrait", "out": "golden_dawn/pcs_portrait.jpg", "prefer": "Pamela"},
+ {"query": "Aleister Crowley Golden Dawn Osiris robe", "out": "golden_dawn/crowley_robe.jpg", "prefer": "Crowley"},
+ {"query": "Robert Wentworth Little Societas Rosicruciana", "out": "golden_dawn/sria_rosicrucian.jpg", "prefer": "Rosicruciana"},
+ {"query": "Dion Fortune portrait occultist", "out": "golden_dawn/dion_fortune.jpg", "prefer": "Fortune"},
+ {"query": "Anna Kingsford portrait", "out": "golden_dawn/anna_kingsford.jpg", "prefer": "Kingsford"}
+]

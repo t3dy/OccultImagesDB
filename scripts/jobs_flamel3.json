@@ -1,0 +1,16 @@
+[
+ {"query": "Nicolas Flamel Line engraving Wellcome V0001935", "out": "flamel/flamel_portrait.jpg", "prefer": "Wellcome"},
+ {"query": "Alchimie de Flamel 1", "out": "flamel/alchimie_procession.jpg", "prefer": "Alchimie de Flamel 1"},
+ {"query": "Alchimie de Flamel 4", "out": "flamel/alchimie_resurrection.jpg", "prefer": "Alchimie de Flamel 4"},
+ {"query": "Alchimie de Flamel 7", "out": "flamel/alchimie_king.jpg", "prefer": "Alchimie de Flamel 7"},
+ {"query": "Alchimie de Flamel 10", "out": "flamel/alchimie_dragons.jpg", "prefer": "Alchimie de Flamel 10"},
+ {"query": "Alchimie de Flamel14", "out": "flamel/alchimie_peterpaul.jpg", "prefer": "Alchimie de Flamel14"},
+ {"query": "Livre d'Abraham le juif figure1", "out": "flamel/abraham_juif_1.jpg", "prefer": "Abraham le juif figure1"},
+ {"query": "Livre d'Abraham le juif figure3", "out": "flamel/abraham_juif_3.jpg", "prefer": "Abraham le juif figure3"},
+ {"query": "The Crucified Serpent JGrandgagnage", "out": "flamel/crucified_serpent.jpg", "prefer": "Crucified Serpent"},
+ {"query": "Monogramme Nicolas Flamel Tour St-Jacques", "out": "flamel/flamel_monogram.jpg", "prefer": "Monogramme"},
+ {"query": "Epitaphe Nicolas Flamel Cluny", "out": "flamel/flamel_epitaph.jpg", "prefer": "Epitaphe"},
+ {"query": "Monument de Nicolas Flamel sculpture priere maison", "out": "flamel/flamel_monument.jpg", "prefer": "Monument de Nicolas Flamel"},
+ {"query": "Flamel-figures", "out": "flamel/flamel_figures_diagram.jpg", "prefer": "Flamel-figures"},
+ {"query": "Portail de Saint Jacques de la Boucherie", "out": "flamel/portail_saint_jacques.jpg", "prefer": "Portail de Saint Jacques"}
+]

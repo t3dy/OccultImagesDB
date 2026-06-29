@@ -420,36 +420,6 @@
     "count": 10
   },
   {
-    "key": "glauber_furni",
-    "title": "Furni Novi Philosophici",
-    "creator": "Johann Rudolph Glauber",
-    "date": "1648",
-    "era": "early_modern",
-    "tradition": "alchemy",
-    "tier": "illustration",
-    "place": "Amsterdam",
-    "language": "German",
-    "provenance_url": "https://archive.org/details/furninoviphiloso00glau",
-    "rights": "Public domain. Internet Archive scan.",
-    "blurb": "Glauber's 'New Philosophical Furnaces' — detailed engravings of distillation furnaces and chemical apparatus from one of the founders of practical chemistry.",
-    "count": 25
-  },
-  {
-    "key": "libavius_alchymia",
-    "title": "Alchymia",
-    "creator": "Andreas Libavius",
-    "date": "1597",
-    "era": "renaissance",
-    "tradition": "alchemy",
-    "tier": "illustration",
-    "place": "Frankfurt",
-    "language": "Latin",
-    "provenance_url": "https://archive.org/details/alchymiaandreael00liba",
-    "rights": "Public domain. Internet Archive scan.",
-    "blurb": "Often called the first chemistry textbook — Libavius's 'Alchymia' includes the famous plan for an ideal alchemical laboratory ('Chemical House') and meticulous apparatus plates.",
-    "count": 24
-  },
-  {
     "key": "biringuccio_piro",
     "title": "De la Pirotechnia",
     "creator": "Vannoccio Biringuccio",
