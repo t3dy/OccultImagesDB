@@ -15,6 +15,22 @@ now auto-caps downloads to a 3500px long edge (`cap_size()`), and a one-time pas
 oversized originals (~2GB saved). `fetch_iiif.py` exists for non-Commons IIIF but **Gallica is Cloudflare-IP-blocked**
 (Boderie diagram + Ilanot scrolls remain queued for a user browser session).
 
+**V8 — ONTOLOGY + LIBRARY SOURCING (2026-06-28).** ~2,601 images / 114 works / 57 topics. **Enriched
+metadata model** (see `docs/ONTOLOGY.md` + `docs/STYLE_GUIDE.md`): every entry now carries `medium`
+(18-term vocab), `figures` (named beings depicted ≠ creator), `repository`, `shelfmark`, optional
+`iconclass`. Wired through `build_catalog.py` (`infer_medium()` backfills medium → 100% coverage) +
+`build_db.py` (new columns + `image_figures` table). **Front-end:** new **Medium** Explore tab; gallery
+**Medium** + **Figure-depicted** facets; item page shows Medium/Repository/Shelfmark + a "Depicted:" line.
+**Bug fixed:** motif/key-concept tag links now point at `gallery.html` (were `index.html`, which ignored the
+params — they were dead). Explore honors `?q=`. The 5 newest domain-works: fludd_works (40), neoplatonism,
+renaissance_magic_deep, islamicate_deep, lettrism.
+- **Browser/IIIF sourcing** (for items not on Commons): `scripts/fetch_iiif.py` + a connected Chrome browser
+  (Chrome MCP). PROVEN on the **Heidelberg open IIIF library** (`digi.ub.uni-heidelberg.de/diglit/iiif/cpgNNN/manifest`)
+  → sourced the *Heidelberger Schicksalsbuch* (cpg832, work `heidelberg_mss`). **RIGHTS CAVEAT:** open libraries
+  are reachable (BSB `digitale-sammlungen.de`, Heidelberg) — unlike Cloudflare-blocked Gallica — BUT most
+  digitisations are **NC-restricted** (BSB = `NoC-NC`) and unfit for our free-assets catalog. **Heidelberg is
+  true Public Domain Mark** → usable. Rule: browser-source ONLY PD/CC0/CC-BY IIIF, record the real rights.
+
 **REPO MANAGEMENT (important):** the published GitHub Pages tree must stay under **1 GB**.
 - `sources_web/` (high-res originals, ~3.5GB) is **gitignored / local-only** — re-sourceable from each item's
   provenance URL; the site never needs it (it serves the 1200px `site/images/cards` + `data/`). Keep it on
