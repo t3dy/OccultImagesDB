@@ -1,0 +1,920 @@
+{
+ "entries": [
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-aea68e00",
+   "title": "*De Lapide Philosophico* (Lambspring) — title / opening leaf in the *Musaeum Hermeticum*",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "title leaf",
+    "emblem book",
+    "musaeum hermeticum",
+    "the great work",
+    "letterpress",
+    "alchemical treatise"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "An opening or title leaf of the Lambspring tract *De Lapide Philosophico* as printed in the *Musaeum Hermeticum* (Frankfurt, 1625) — a largely textual page introducing the famous animal-emblem cycle.\n\n## Iconography\nLetterpress text with little or no figural imagery: the heading of the treatise and the opening of its Latin verses, framing the fifteen emblematic figures that follow.\n\n## Significance\nThough not itself one of the celebrated emblems, this leaf situates the work: a short alchemical poem ascribed to the otherwise shadowy 'Lambspring' (Latinised *Lambsprinck*), edited by Nicolas Barnaud, whose fifteen engraved figures became one of the most beloved emblem-series in alchemy. Its inclusion in the *Musaeum Hermeticum* — the great seventeenth-century anthology of Hermetic texts — secured the cycle's wide circulation. Included here for completeness of the series rather than for its imagery.\n\n## For artists & game designers\nA period title leaf to set up the Lambspring beasts — usable as the 'cover' of a found alchemical treatise before the emblems begin.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, in *Musaeum Hermeticum Reformatum et Amplificatum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Stanislas Klossowski de Rola, *The Golden Game: Alchemical Engravings of the Seventeenth Century* (1988)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "lambspring",
+    "musaeum hermeticum",
+    "emblem book",
+    "the great work"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-c2247d0e",
+   "title": "*De Lapide Philosophico* (Lambspring) — emblematic frontispiece / arms of the work",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "frontispiece",
+    "emblem book",
+    "the great work",
+    "alchemical allegory",
+    "musaeum hermeticum",
+    "presentation plate"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "A frontispiece or presentation plate for Lambspring's *De Lapide Philosophico* within the *Musaeum Hermeticum* (1625), introducing the engraved cycle of fifteen alchemical figures.\n\n## Iconography\nAn ornamental opening engraving — typically a framed device or allegorical vignette heading the treatise — that announces the series rather than depicting one of its numbered animal emblems.\n\n## Significance\nThe Lambspring cycle was conceived as a graded sequence: each plate carries a Latin (and in some editions German) verse beneath an image, and the reader is meant to meditate the figures in order. A presentation plate frames that programme, signalling that the beasts to follow — fish, dragon, lions, birds, unicorn and stag, king and son — together spell out the whole *opus*. The work's appeal lay in its clarity: a storybook of the soul's purification disguised as a bestiary.\n\n## For artists & game designers\nAn emblematic 'chapter header' to open a bestiary-style alchemy sequence; sets the tone of meditative, illustrated instruction.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, in *Musaeum Hermeticum Reformatum et Amplificatum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Stanislas Klossowski de Rola, *The Golden Game: Alchemical Engravings of the Seventeenth Century* (1988)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "lambspring",
+    "emblem cycle",
+    "frontispiece",
+    "the great work"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__licorne-et-cerf-8f202f1d",
+   "title": "*De Lapide Philosophico* (Lambspring) — Figure III: the unicorn and the stag in the forest",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "unicorn",
+    "stag",
+    "forest of the body",
+    "spirit and soul",
+    "mercury and sulphur",
+    "the great work",
+    "animal emblem",
+    "coniunctio"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the unicorn",
+    "the stag"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (Wikimedia Commons scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "Figure III of Lambspring's *De Lapide Philosophico* — the unicorn and the stag standing together in a forest, one of the cycle's most famous animal emblems.\n\n## Iconography\nIn a wooded landscape a unicorn and a stag (deer) face one another. The accompanying verse names the forest as the body and the two beasts as the soul and the spirit that dwell within it: \"In the forest there is a deer and a unicorn... He that knows how to tame and master them by art... may justly be called a Master.\"\n\n## Significance\nThe pair embody the two volatile principles — commonly read as [[motif:mercury and sulphur|spirit (mercury) and soul (sulphur)]] — hidden in the prime matter (the forest, the body) and needing to be caught, tamed and united. The emblem belongs to the cycle's early phase, the recognition and capture of the contending principles before their coniunctio. The unicorn-and-stag image is among the most reproduced of all Lambspring figures.\n\n## For artists & game designers\nTwo noble forest beasts standing as a matched pair — a ready emblem for paired/dual reagents or a 'tame two spirits' hunt objective.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, Figure III, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Stanislas Klossowski de Rola, *The Golden Game: Alchemical Engravings of the Seventeenth Century* (1988)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "unicorn and stag",
+    "spirit and soul",
+    "forest of the body",
+    "coniunctio"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-a7be9fc1",
+   "title": "*De Lapide Philosophico* (Lambspring) — Figure I: the two fish in the sea",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "two fishes",
+    "sea of the body",
+    "spirit and soul",
+    "mercurial water",
+    "the great work",
+    "animal emblem",
+    "duality",
+    "prime matter"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "Figure I of Lambspring's *De Lapide Philosophico* — the two fishes swimming in the sea, the opening emblem of the cycle.\n\n## Iconography\nTwo fishes circle in a body of water that fills the frame. The verse explains: \"The Sages say truly that two animals are in this forest... and the sea is the body\" — here two fishes \"without flesh and bones\" swimming in 'our sea'.\n\n## Significance\nThe two fishes are the first statement of the cycle's governing duality: a single watery substance ('our sea', the mercurial water of the body) that nonetheless contains two natures — spirit and soul, the volatile principles that must later be conjoined. Beginning the series in water marks the *materia prima* as fluid and undifferentiated; the whole Work will be the separation and re-union of what these fishes already hold in solution.\n\n## For artists & game designers\nTwo fish in a single sea — a clean opening icon for 'one substance, two natures', perfect for the first node of an alchemical progression.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, Figure I, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Stanislas Klossowski de Rola, *The Golden Game: Alchemical Engravings of the Seventeenth Century* (1988)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "two fishes",
+    "prime matter",
+    "spirit and soul",
+    "mercurial sea"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-10c213c4",
+   "title": "*De Lapide Philosophico* (Lambspring) — Figure II: the dragon in the forest",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "dragon",
+    "forest",
+    "prime matter",
+    "mercurial poison",
+    "the great work",
+    "animal emblem",
+    "venom",
+    "putrefaction"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the dragon"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "Figure II of Lambspring's *De Lapide Philosophico* — the savage dragon lurking in the forest.\n\n## Iconography\nA winged dragon coils in a wooded landscape, often shown amid rocks or at the mouth of a cave. The verse warns that the wild beast dwells in the forest (the body) and is \"full of venom,\" yet is the very thing the philosophers seek.\n\n## Significance\nThe dragon is the fierce, poisonous aspect of the [[motif:prime matter|prime matter]] — the mercurial principle in its raw, dangerous form, which must be killed and putrefied before it can yield the medicine. \"By his venom he can cure himself,\" the tradition holds: the poison is also the remedy. Coming early in the cycle, the dragon marks the necessary confrontation with the corrosive *materia* before any purification can begin.\n\n## For artists & game designers\nA venomous forest dragon as the cycle's first true threat — a 'tame the poison' boss whose defeat unlocks the purification stages.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, Figure II, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Stanislas Klossowski de Rola, *The Golden Game: Alchemical Engravings of the Seventeenth Century* (1988)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "dragon",
+    "venom and cure",
+    "prime matter",
+    "putrefaction"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-a9179d4d",
+   "title": "*De Lapide Philosophico* (Lambspring) — Figure IV: the two lions / the lion and lioness",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "two lions",
+    "lion and lioness",
+    "fixed and volatile",
+    "conjunction",
+    "the great work",
+    "animal emblem",
+    "sol and luna",
+    "union"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the lion",
+    "the lioness"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "Figure IV of Lambspring's *De Lapide Philosophico* — two lions (a lion and a lioness) confronting one another.\n\n## Iconography\nA pair of lions face off in a landscape, sometimes with one slightly subdued by the other. The verse speaks of a fierce gray wolf or of two beasts that must be reconciled; in the lion plate the message is the meeting of two strong natures destined to become one.\n\n## Significance\nThe paired lions restate the cycle's coniunctio theme at a higher pitch: the two great principles — fixed and volatile, [[motif:sol and luna|Sol and Luna]], body and spirit — now appear as royal beasts whose union (not destruction) is required. Where the fish and the unicorn-and-stag introduce the duality, the lions press toward its resolution: their meeting prefigures the marriage of the King and his Son that crowns the series.\n\n## For artists & game designers\nTwo regal lions poised for union rather than combat — a strong emblem for a 'pair and bind' fusion step or for twin solar/lunar guardians.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, Figure IV, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Stanislas Klossowski de Rola, *The Golden Game: Alchemical Engravings of the Seventeenth Century* (1988)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "two lions",
+    "conjunction",
+    "fixed and volatile",
+    "sol and luna"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-20f3b5bc",
+   "title": "*De Lapide Philosophico* (Lambspring) — Figure V: the two birds in the wood",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "two birds",
+    "fixed and volatile",
+    "wood and nest",
+    "ascent and descent",
+    "the great work",
+    "animal emblem",
+    "volatility",
+    "conjunction"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "Figure V of Lambspring's *De Lapide Philosophico* — two birds in a wood, one rising and one held below.\n\n## Iconography\nTwo birds occupy a wooded clearing: one tends to fly upward while the other remains on the ground or in the nest. The verse describes how the birds, like the fishes and the beasts before them, are two and yet must become one — neither permitted to escape the other.\n\n## Significance\nThe birds carry the volatile/fixed dialectic into the realm of air. The bird that would fly is the [[motif:volatility|volatile]] spirit; the bird that stays is the fixed body. The Work requires that the volatile be held down and the fixed lifted up until the two are reconciled. The repeated pairing — fishes, beasts, lions, birds — is Lambspring's pedagogy: the same lesson of separation-and-union restated in every element (water, earth, air) until it is unforgettable.\n\n## For artists & game designers\nPaired birds — one grounded, one straining to fly — an elegant 'bind the volatile' motif for a stabilisation or capture mechanic.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, Figure V, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Stanislas Klossowski de Rola, *The Golden Game: Alchemical Engravings of the Seventeenth Century* (1988)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "two birds",
+    "fixed and volatile",
+    "conjunction",
+    "volatility"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-f2c62e6a",
+   "title": "*De Lapide Philosophico* (Lambspring) — the salamander in the fire",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "salamander",
+    "fire",
+    "incombustible matter",
+    "fixation",
+    "the great work",
+    "animal emblem",
+    "purification",
+    "sulphur"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the salamander"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "A figure from Lambspring's *De Lapide Philosophico* showing the salamander living in the flames.\n\n## Iconography\nA salamander sits unharmed amid a fire, often within or before a furnace. The verse celebrates the creature that feeds on fire and is not consumed, born of the flame and dwelling in it.\n\n## Significance\nThe salamander is the emblem of the *fixed* principle that endures the fire — the incombustible sulphur, the matter purified to the point that flame can no longer destroy it. It marks a late stage of the Work: what was once volatile and corruptible has been so perfected that it lives in the very element that earlier would have consumed it. The fire-dwelling salamander thus stands for fixation and the triumph over destruction.\n\n## For artists & game designers\nA serene salamander basking in flame — the perfect 'fireproof / fully tempered' icon for a forged or hardened end-state.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Stanislas Klossowski de Rola, *The Golden Game: Alchemical Engravings of the Seventeenth Century* (1988)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "salamander",
+    "fixation",
+    "incombustible sulphur",
+    "purification by fire"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-f30f65f6",
+   "title": "*De Lapide Philosophico* (Lambspring) — the bird devouring its own nature",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "bird",
+    "self-consumption",
+    "volatility tamed",
+    "phoenix",
+    "the great work",
+    "animal emblem",
+    "renewal",
+    "fixation"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "A bird emblem from Lambspring's *De Lapide Philosophico*, depicting the winged creature whose flight must be tamed in the maturing of the stone.\n\n## Iconography\nA single bird in a landscape or upon a height, sometimes shown consuming or shedding its own plumage in the manner of the self-taming phoenix. The accompanying verse turns again to the theme of the volatile that must be fixed.\n\n## Significance\nThe self-consuming or wing-eating bird is a near cousin of the [[motif:bird of hermes|Bird of Hermes]]: the volatile spirit that 'eats its own wings' to become tame, surrendering flight for fixity. In the Lambspring sequence such figures press the lesson that the spiritualised matter, having risen, must finally settle and remain — the volatile made permanent. The motif blends naturally with the phoenix imagery of death and renewal that pervades the alchemical bestiary.\n\n## For artists & game designers\nA bird shedding or eating its own feathers — an arresting 'sacrifice flight for permanence' emblem for a transformation that trades mobility for power.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Stanislas Klossowski de Rola, *The Golden Game: Alchemical Engravings of the Seventeenth Century* (1988)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "volatility tamed",
+    "bird of hermes",
+    "fixation",
+    "renewal"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-0833c6c8",
+   "title": "*De Lapide Philosophico* (Lambspring) — the King enthroned",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "king",
+    "throne",
+    "crown",
+    "gold",
+    "the great work",
+    "animal emblem cycle",
+    "perfected matter",
+    "sol"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the King"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "A figure from Lambspring's *De Lapide Philosophico* introducing the crowned King — the royal personification of the perfected matter who dominates the cycle's closing emblems.\n\n## Iconography\nA crowned king sits enthroned in majesty, sceptre or orb in hand, attended within a chamber or landscape. From this point the Lambspring sequence abandons the bestiary for a human drama of King, Son and Guide.\n\n## Significance\nThe King is gold, Sol, the perfected solar principle — and, in the cycle's profoundest images, the *old* king who must be renewed through his Son. His appearance marks the shift from the warring animal principles to their royal resolution: the matter has been raised to a kingly, fixed and noble state, ready for the final mystery in which the King is devoured and reborn. The figure draws on the long alchemical tradition of the [[motif:king|King]] as the masculine, sulphurous, solar pole of the Work.\n\n## For artists & game designers\nA seated, crowned monarch of pure gold — a regal 'completed solar principle' figure to anchor the climax of an alchemical narrative.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Stanislas Klossowski de Rola, *The Golden Game: Alchemical Engravings of the Seventeenth Century* (1988)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "the king",
+    "sol",
+    "perfected gold",
+    "renewal of the king"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-cf5736c8",
+   "title": "*De Lapide Philosophico* (Lambspring) — the King, the Son and the Guide",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "king and son",
+    "guide",
+    "ascent of the mountain",
+    "father and son",
+    "the great work",
+    "animal emblem cycle",
+    "renewal",
+    "spiritual journey"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the King",
+    "the Son",
+    "the Guide"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "One of the celebrated closing figures of Lambspring's *De Lapide Philosophico* — the King and his Son, led upward by an aged Guide.\n\n## Iconography\nThree figures journey together: the King (Sol, father), the young Son, and a bearded Guide or old man who leads them, often up a mountain or toward a height. In the cycle's drama the Son must rise to the heavens and return, restoring the aged King to youth.\n\n## Significance\nThis is the spiritual heart of Lambspring's sequence. The King is the fixed body; the Son is the volatile spirit drawn from him; the Guide is the philosophical mercury or the wisdom that conducts the Work. The Son's ascent and return enacts *sublimation and fixation* as a sacred drama — the spirit raised to heaven and brought back to glorify and renew the body. Jung and later commentators read the King-and-Son figures as one of alchemy's most explicit images of psychic death, rebirth and integration.\n\n## For artists & game designers\nA three-figure ascent — old king, young heir, ancient guide climbing a mountain — a self-contained pilgrimage tableau for a renewal or succession quest.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "C. G. Jung, *Psychology and Alchemy* (1944), on the King-and-Son motif."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "king and son",
+    "ascent and return",
+    "renewal of the king",
+    "sublimation and fixation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-8b62d27b",
+   "title": "*De Lapide Philosophico* (Lambspring) — the Father devouring the Son",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "father and son",
+    "devouring",
+    "death and rebirth",
+    "fixation",
+    "the great work",
+    "animal emblem cycle",
+    "saturn",
+    "renewal"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the King",
+    "the Son"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "A climactic figure of Lambspring's *De Lapide Philosophico* — the old King swallowing his Son, the cycle's image of death and renewal.\n\n## Iconography\nThe enthroned father takes the Son into himself (or the Son re-enters the father's body), a scene of consuming reunion. The verse turns dark and paradoxical: the father swallows the son, then sweats and labours until the son is restored, gloriously renewed.\n\n## Significance\nHere the Work's central mystery is laid bare. The Son (the volatile spirit, returned from his heavenly ascent) is re-absorbed into the King (the fixed body); the union looks like death but is the *coniunctio* that perfects the stone. The motif fuses the alchemical \"king-eating\" with echoes of Saturn devouring his children and with Christological death-and-resurrection — the body slain and glorified. It is one of the most psychologically charged images in the alchemical corpus and a favourite of Jungian readings.\n\n## For artists & game designers\nA father absorbing his own child — disturbing and unforgettable iconography for a sacrifice/rebirth or fusion event where one being is consumed to renew another.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "C. G. Jung, *Psychology and Alchemy* (1944)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "father devours son",
+    "death and rebirth",
+    "coniunctio",
+    "renewal of the king"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__ouroboros-1-72bdda49",
+   "title": "*De Lapide Philosophico* (Lambspring) — the ouroboros / serpent devouring its tail",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "ouroboros",
+    "serpent",
+    "unity of the work",
+    "eternity",
+    "the great work",
+    "animal emblem",
+    "one is all",
+    "cyclical renewal"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (Wikimedia Commons scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "An ouroboros associated with the Lambspring / *Musaeum Hermeticum* corpus — the serpent or dragon biting its own tail, emblem of the Work's self-enclosed unity.\n\n## Iconography\nA serpent (or winged dragon) curled into a ring, its jaws closing on the tip of its own tail. The circle it forms is unbroken, sometimes inscribed with the motto *hen to pan*, 'one is all'.\n\n## Significance\nThe [[motif:ouroboros|ouroboros]] is alchemy's oldest and most universal sign — descending from the Greco-Egyptian *Chrysopoeia of Kleopatra* — declaring that the matter of the Work is one, self-renewing and self-sufficient: it dies into itself and is reborn from itself, end joined to beginning. In a meditative cycle like Lambspring's it functions as a summary glyph: all the paired beasts and the King-and-Son drama resolve into the single circling serpent of eternal return.\n\n## For artists & game designers\nThe definitive 'cycle / infinite loop' icon — a tail-biting serpent that instantly signals renewal, eternity, or a closed crafting loop.",
+   "citations": [
+    {
+     "text": "'Lambspring' tradition, *De Lapide Philosophico* / *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "*Chrysopoeia of Kleopatra* (Greco-Egyptian, for the ouroboros tradition)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "ouroboros",
+    "hen to pan",
+    "cyclical renewal",
+    "unity of matter"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-c41d2b68",
+   "title": "*De Lapide Philosophico* (Lambspring) — the wolf and the king (Antimony)",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "grey wolf",
+    "antimony",
+    "purification of gold",
+    "devouring king",
+    "the great work",
+    "animal emblem",
+    "fire",
+    "refining"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the King"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "A figure from the Lambspring / *Musaeum Hermeticum* bestiary depicting the grey wolf that devours the king and is then burned — the alchemical purification of gold.\n\n## Iconography\nA grey wolf seizes or swallows a crowned king; nearby, the wolf is cast into the fire. The verse describes the fierce beast 'from the East' that devours the king's body, after which the wolf is consumed by flame and the king restored.\n\n## Significance\nThis is the classic emblem of refining by *antimony* (stibnite, the 'grey wolf'): molten antimony devours impure gold (the king), carrying off the base metals; roasting then drives off the antimony, leaving the gold purer than before. Read spiritually, the king must be slain and reduced before he can be glorified. The wolf-and-king image — shared with Basil Valentine's *Twelve Keys* — is among the most concretely chemical of all alchemical emblems.\n\n## For artists & game designers\nA grey wolf devouring a king, then burning — a vivid two-beat 'consume to purify' sequence ideal for a refining or detox mechanic.",
+   "citations": [
+    {
+     "text": "'Lambspring' tradition / Basil Valentine, *Twelve Keys*, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Lyndy Abraham, *A Dictionary of Alchemical Imagery* (1998), s.v. 'wolf'."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "grey wolf",
+    "antimony",
+    "purification of gold",
+    "death of the king"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-8c1ef73e",
+   "title": "*De Lapide Philosophico* (Lambspring) — the Son returning crowned (the renewed King)",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "renewed king",
+    "glorification",
+    "crown",
+    "resurrection",
+    "the great work",
+    "animal emblem cycle",
+    "perfected stone",
+    "rubedo"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the King",
+    "the Son"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "A concluding figure of Lambspring's *De Lapide Philosophico* — the renewed and glorified King, the Son returned in triumph, image of the completed stone.\n\n## Iconography\nA crowned figure restored to youth and majesty, enthroned or standing in radiance, sometimes father and son shown reconciled as one glorified king. The mood is triumphant, the labour ended.\n\n## Significance\nThe glorified King is the *rubedo*, the red stone — the goal of the whole sequence. Having been swallowed, dissolved and purified, the royal matter rises perfected and incorruptible, 'more glorious than before'. In Lambspring's spiritual reading this is resurrection: the body slain and raised, the soul and spirit reunited with it in a single shining person. It closes the cycle that opened with two fishes in a dark sea.\n\n## For artists & game designers\nA radiant, restored monarch as the 'you have completed the Work' payoff — the natural final card of an alchemical progression.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Stanislas Klossowski de Rola, *The Golden Game: Alchemical Engravings of the Seventeenth Century* (1988)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "renewed king",
+    "rubedo",
+    "glorification",
+    "perfected stone"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-cef83cde",
+   "title": "*De Lapide Philosophico* (Lambspring) — the toad and the eagle (earth and air)",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "toad and eagle",
+    "fixed and volatile",
+    "earth and air",
+    "weight and flight",
+    "the great work",
+    "animal emblem",
+    "conjunction",
+    "ponderousness"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "A figure from the Lambspring / *Musaeum Hermeticum* bestiary pairing a heavy earthbound toad with a soaring eagle — the union of the fixed and the volatile.\n\n## Iconography\nA squat toad on the ground and an eagle in flight (sometimes bound together) occupy a single scene, the one weighing the other down or the two yoked as a pair. The verse contrasts the creature that creeps with the creature that flies.\n\n## Significance\nThe toad-and-eagle is a vivid statement of the central polarity: the [[motif:fixed and volatile|toad is the fixed]], ponderous, earthy body; the eagle is the volatile, ascending spirit. The Work requires the eagle to lift the toad and the toad to anchor the eagle until the two are balanced and joined — 'make the fixed volatile and the volatile fixed'. The motif recurs across alchemical emblem-books (notably Maier's *Atalanta Fugiens*) precisely because the contrast is so legible.\n\n## For artists & game designers\nToad + eagle as a literal 'ground vs. flight' pairing — instantly readable icons for opposed heavy/light or earth/air reagents that must be combined.",
+   "citations": [
+    {
+     "text": "'Lambspring' tradition, *De Lapide Philosophico* / *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Lyndy Abraham, *A Dictionary of Alchemical Imagery* (1998)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "toad and eagle",
+    "fixed and volatile",
+    "earth and air",
+    "conjunction"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-584acbed",
+   "title": "*De Lapide Philosophico* (Lambspring) — emblem plate from the animal cycle",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "animal emblem",
+    "fixed and volatile",
+    "alchemical verse",
+    "landscape emblem",
+    "the great work",
+    "meditation figure",
+    "purification",
+    "conjunction"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "An emblem plate from Lambspring's *De Lapide Philosophico* — one of the fifteen meditation-figures in which an alchemical lesson is set as a beast or scene in a landscape, with verse beneath.\n\n## Iconography\nA single emblematic scene framed for contemplation — creatures or personifications arranged in an open landscape, captioned by a short Latin verse. (Identified here at the series level; the plate belongs to Lambspring's numbered cycle of figures.)\n\n## Significance\nLambspring's method is uniform and powerful: every plate restates the one teaching — that the matter holds two contending natures (fixed and volatile, body and spirit) which must be separated, purified and reunited. The reader meditates the figures in sequence as a *spiritual exercise*, the bestiary doubling as a map of the soul's purification. This consistency is why the cycle, though small, became one of the most reprinted and most quoted in all of alchemy.\n\n## For artists & game designers\nA model 'meditation card': one beast, one landscape, one terse motto — a template for a deck of contemplative, lore-bearing emblem cards.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Stanislas Klossowski de Rola, *The Golden Game: Alchemical Engravings of the Seventeenth Century* (1988)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "emblem cycle",
+    "fixed and volatile",
+    "spiritual exercise",
+    "the great work"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-986d9855",
+   "title": "*De Lapide Philosophico* (Lambspring) — emblem plate from the animal cycle (the mountain ascent)",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "mountain ascent",
+    "spiritual journey",
+    "animal emblem cycle",
+    "sublimation",
+    "the great work",
+    "guide and pilgrim",
+    "heaven and earth",
+    "meditation figure"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the Son",
+    "the Guide"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "An emblem plate from Lambspring's *De Lapide Philosophico* depicting an ascent — figures climbing toward the heights in the cycle's spiritualised closing movement.\n\n## Iconography\nTravellers mount a hill or mountain toward the sky, a guide leading the way, in the manner of the cycle's King-Son-Guide pilgrimage. The landscape rises from earth toward heaven.\n\n## Significance\nThe ascent dramatises *sublimation*: the spirit (the Son), led by philosophical wisdom (the Guide), is raised from the earthy body toward the celestial, there to receive virtue before returning to glorify the matter. Lambspring repeatedly stages the abstract operations of the laboratory as a journey of persons, lending the chemistry a devotional, almost allegorical-pilgrimage character that later readers — Jung among them — found richly suggestive.\n\n## For artists & game designers\nA guided mountain ascent toward a luminous sky — a clean 'spiritual climb' tableau for an ascension or pilgrimage stage.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "C. G. Jung, *Psychology and Alchemy* (1944)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "mountain ascent",
+    "sublimation",
+    "spiritual journey",
+    "guide and pilgrim"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lambsprinck__musaeum-hermeticum-reformatum-et-amplificatum-dpla-6a5bd595dea1c42bfc14727d1-e2f16889",
+   "title": "*De Lapide Philosophico* (Lambspring) — emblem plate from the animal cycle (the fixed and the volatile reconciled)",
+   "work": "De Lapide Philosophico (Lambspring)",
+   "creator": "'Lambspring' (verses); engraved for the *Musaeum Hermeticum*",
+   "date": "1625 (Frankfurt edition)",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "animal emblem",
+    "reconciliation",
+    "fixed and volatile",
+    "conjunction",
+    "the great work",
+    "meditation figure",
+    "alchemical verse",
+    "unity"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (DPLA / Internet Archive scan)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via DPLA / Internet Archive.",
+   "provenance_url": "https://archive.org/details/musaeumhermeticu00maie",
+   "summary": "An emblem plate from Lambspring's *De Lapide Philosophico*, belonging to the cycle's recurring drama of two natures brought to reconciliation.\n\n## Iconography\nAn emblematic scene — paired creatures or figures in a landscape, captioned with verse — staging the meeting and joining of the Work's two principles. (Identified at the series level within Lambspring's fifteen figures.)\n\n## Significance\nWhatever its precise beasts, the plate serves the cycle's single argument: the spirit and the soul, the volatile and the fixed, separated out of the prime matter, are at last reconciled into one perfected substance — the philosophers' stone. Lambspring's genius was to make this abstraction feel inevitable by repetition, each emblem a fresh costume for the same coniunctio, so that the meditating reader internalises the rhythm of *separate, purify, unite*.\n\n## For artists & game designers\nAnother interchangeable 'reconciliation' emblem — useful when you need a second or third variant card expressing union of opposites without repeating the headline beasts.",
+   "citations": [
+    {
+     "text": "'Lambspring', *De Lapide Philosophico*, in *Musaeum Hermeticum* (Frankfurt, 1625)."
+    },
+    {
+     "text": "Lyndy Abraham, *A Dictionary of Alchemical Imagery* (1998)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/musaeumhermeticu00maie"
+    }
+   ],
+   "key_concepts": [
+    "reconciliation of opposites",
+    "fixed and volatile",
+    "coniunctio",
+    "the great work"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}
