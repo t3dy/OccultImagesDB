@@ -1,0 +1,7 @@
+[
+ {"query": "Croix cathare Languedoc", "out": "gnostic_codices/croix_cathare.jpg", "prefer": "athar"},
+ {"query": "Cathar castle Quéribus", "out": "gnostic_codices/queribus.jpg", "prefer": "ribus"},
+ {"query": "Sophia Wisdom seven pillars", "out": "gnostic_codices/sophia_pillars.jpg", "prefer": "isdom"},
+ {"query": "Chnoubis amulet", "out": "gnostic_codices/chnoubis_amulet.jpg", "prefer": "hnoubis"},
+ {"query": "Abraxas stone seal", "out": "gnostic_codices/abraxas_stone.jpg", "prefer": "braxas"}
+]

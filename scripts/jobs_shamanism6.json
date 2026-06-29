@@ -1,0 +1,10 @@
+[
+ {"query": "Schaman Witsen 1705", "out": "shamanism/witsen_schaman.jpg", "prefer": "Schaman"},
+ {"query": "shaman Devil priest engraving 1692", "out": "shamanism/devil_priest.jpg", "prefer": "Schaman"},
+ {"query": "Georgi Schamanin", "out": "shamanism/georgi_shaman.jpg", "prefer": "Schaman"},
+ {"query": "Tungus Schaman", "out": "shamanism/tungus_schaman.jpg", "prefer": "Schaman"},
+ {"query": "shaman Kamchatka engraving", "out": "shamanism/kamchatka_shaman.jpg", "prefer": "shaman"},
+ {"query": "Orochen shaman", "out": "shamanism/orochen_shaman.jpg", "prefer": "shaman"},
+ {"query": "Dolgan shaman", "out": "shamanism/dolgan_shaman.jpg", "prefer": "shaman"},
+ {"query": "shaman drumstick Siberia museum", "out": "shamanism/drumstick.jpg", "prefer": "shaman"}
+]
