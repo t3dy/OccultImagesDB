@@ -1,0 +1,933 @@
+{
+ "entries": [
+  {
+   "id": "rosarium__rosarium-page-0003",
+   "title": "Rosarium Philosophorum - The Mercurial Fountain (woodcut 1)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "mercurial fountain",
+    "fons mercurialis",
+    "prima materia",
+    "sol and luna",
+    "serpent",
+    "quicksilver",
+    "stars",
+    "septenary"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "Sol",
+    "Luna"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "The opening plate of the Rosarium: the *fons mercurialis*, the Mercurial Fountain from which the whole Great Work flows.\n\n## Iconography\nA tall, ornate fountain pours three streams (lac virginis, acetum fontis, aqua vitae) into a basin. Above it the Sun and Moon flank a central star, while serpents and a double-headed mercurial dragon coil at the summit; the basin is inscribed with the philosophical waters. The woodcut sits embedded in the running translation, glossed in the verses 'We are the beginning and first nature of metals.'\n\n## Significance\nThe fountain is the [[motif:prima materia|prima materia]], the undifferentiated mercurial water that is at once source and solvent of the opus. The triple spout, the paired luminaries and the coiled serpents announce the cast of the drama to come - [[motif:sol and luna|Sol and Luna]], spirit, soul and body. C. G. Jung opened *The Psychology of the Transference* on this very image, reading the fountain as the unconscious matrix from which the coniunctio arises.\n\n## For artists & game designers\nA self-contained 'source of all power' set-piece: a single fountain that encodes the elements, the luminaries and the lurking serpent - ideal as an origin location or a resource wellspring.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "prima materia",
+    "mercurial water",
+    "Sol and Luna",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0005",
+   "title": "Rosarium Philosophorum - The Meeting of the King and Queen (woodcut 2)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "king and queen",
+    "coniunctio",
+    "sol and luna",
+    "dove",
+    "left hands",
+    "flowers",
+    "betrothal"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "Sol (the King)",
+    "Luna (the Queen)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "The crowned King and Queen meet and join left hands - the betrothal that begins the chymical wedding.\n\n## Iconography\nSol and Luna stand crowned and robed, the King upon the sun, the Queen upon the moon, each extending the left hand to the other while their right hands hold flowering branches that cross. A dove descends between them bearing a third branch, knitting the pair into a trinity. The woodcut is set into the running translation.\n\n## Significance\nThe joining of the *left* (sinister, unconscious) hands marks an instinctual first contact rather than a public marriage; the dove is the *spiritus* that mediates the union of opposites. This is the first movement of the [[motif:coniunctio|coniunctio]], the meeting of the solar-male and lunar-female principles, sulphur and mercury. Jung made this greeting the emblem of the transference bond between two psyches.\n\n## For artists & game designers\nThe crossed-branches-and-descending-dove composition is a ready icon for a 'pact' or 'alliance' screen between two opposed factions.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "coniunctio",
+    "Sol and Luna",
+    "the dove (spiritus)",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0007",
+   "title": "Rosarium Philosophorum - The King and Queen Disrobed (woodcut 3)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "king and queen",
+    "naked truth",
+    "sol and luna",
+    "dove",
+    "disrobing",
+    "coniunctio",
+    "sincerity"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "Sol (the King)",
+    "Luna (the Queen)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "Sol and Luna meet again, now naked - the 'naked truth' that must be told before the principles can unite.\n\n## Iconography\nThe royal pair stand stripped of their robes, again joining hands across a dove that descends between them with a branch. Standing on the sun and moon, they are reduced to their bare natures. The woodcut is embedded in the running text.\n\n## Significance\nThe disrobing is the alchemical *nuda veritas*: the King and Queen must shed their outer garments (their accidental qualities) to confront one another as pure sulphur and pure mercury. Only in this stripped sincerity can the genuine [[motif:coniunctio|coniunctio]] occur. Jung read the undressing as the laying-bare of the psyche between analyst and patient, the dropping of persona that the transference demands.\n\n## For artists & game designers\nThe 'remove the armour to reveal the true self' beat - a vulnerability mechanic where power is gained only by giving up protection.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "nuda veritas",
+    "coniunctio",
+    "Sol and Luna",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0010",
+   "title": "Rosarium Philosophorum - The King and Queen in the Bath (woodcut 4)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "bath",
+    "balneum",
+    "coniunctio",
+    "sol and luna",
+    "dove",
+    "fountain",
+    "immersion",
+    "solutio"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "Sol (the King)",
+    "Luna (the Queen)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "The King and Queen step together into the hexagonal bath - the *balneum* in which the opposites dissolve toward union.\n\n## Iconography\nSol and Luna stand naked, crowned, joining hands within a six-sided fountain-basin filled with the mercurial water; the dove again hovers between them. The vessel is the alchemical bath in which the pair will be conjoined. The woodcut sits within the running translation, glossed 'the conjunction of two bodies.'\n\n## Significance\nThe bath is *solutio* - the return of the differentiated bodies to the moist, fluid first state where they can merge. Immersion in the mercurial water softens and dissolves the fixed King so he may unite with the volatile Queen. Jung treated the bath as the immersion in the unconscious, the temenos within which transformation is sealed.\n\n## For artists & game designers\nThe shared vessel of dissolving water is a strong 'enter the crucible together' location - a bounded space where two entities are combined.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "solutio",
+    "the bath (balneum)",
+    "coniunctio",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0012",
+   "title": "Rosarium Philosophorum - The Conjunction / Coupling (woodcut 5)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "coniunctio",
+    "coupling",
+    "sol and luna",
+    "gabricus and beya",
+    "coitus",
+    "union of opposites",
+    "embrace"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "Sol (the King)",
+    "Luna (the Queen)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "The famous *Coniunctio* plate: King and Queen lie united in the bath, the embrace that is the heart of the whole work.\n\n## Iconography\nSol and Luna recline together in union within the waters of the bath, crowned, their bodies merged in the coupling the text titles 'Conjunction or Coupling.' Verses for Sol and Luna and the parable of Gabricus and Beya accompany the woodcut in the running text.\n\n## Significance\nThis is the [[motif:coniunctio|coniunctio]] proper - the chymical wedding of sulphur and mercury, fixed and volatile, sun and moon, whose consummation must be followed by their shared death. In the allegory of Arisleus, Gabricus is swallowed up in his sister-bride Beya. Jung placed this plate at the centre of *The Psychology of the Transference* as the image of psychic union - and of its peril.\n\n## For artists & game designers\nThe canonical 'fusion of two elements' moment - the merge animation before the result is sealed; note that in the source it leads straight to death.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "coniunctio",
+    "Gabricus and Beya",
+    "union of opposites",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0015",
+   "title": "Rosarium Philosophorum - The Death / Conjoined Corpse (woodcut 6)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "nigredo",
+    "death",
+    "putrefaction",
+    "conjoined corpse",
+    "tomb",
+    "sarcophagus",
+    "king and queen dead",
+    "two-headed"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "Sol (the King)",
+    "Luna (the Queen)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "'Here lie the King and Queen dead': the united pair become a single conjoined corpse in the tomb - the blackness of the *nigredo*.\n\n## Iconography\nA two-headed, fused body lies stretched upon a stone sarcophagus, the wedded King and Queen now a single dead thing. The caption reads 'Here lie the King and Queen dead. The Soul is separated with great grief.' The woodcut is set into the running translation.\n\n## Significance\nUnion is followed at once by death: the conjoined bodies putrefy and blacken in the sealed vessel, the [[motif:nigredo|nigredo]] in which all distinctions rot away. This putrefaction - corruption as the necessary gate to new life - is the darkest and most essential phase of the opus. Jung read the conjoined corpse as the death of the ego-bond, the mortificatio that the deepest transference passes through.\n\n## For artists & game designers\nThe two-bodies-fused-into-one-corpse is a vivid 'the merge killed them both' result - a death state that is secretly the prerequisite for rebirth.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "nigredo",
+    "putrefaction",
+    "mortificatio",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0017",
+   "title": "Rosarium Philosophorum - The Extraction of the Soul (woodcut 7)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "soul ascending",
+    "separation of the elements",
+    "nigredo",
+    "tomb",
+    "anima",
+    "cloud",
+    "extraction"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "the Soul (anima)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "'The Extraction or Impregnation of the Soul': from the dead conjoined body a small soul rises into the clouds.\n\n## Iconography\nThe conjoined corpse lies in its sarcophagus while a small naked soul-figure floats up from it into a cloud overhead. The verses read 'Here the Four Elements are separated, and the Soul is most subtly severed from the Body.' The woodcut is embedded in the running text under the heading 'Of Blackness.'\n\n## Significance\nIn the death of the *nigredo* the volatile soul (*anima*) departs from the blackened body, the separation of the subtle from the gross. This *separatio* of soul from corpse is the necessary emptying-out before the soul can be washed, returned and the body revived. Jung read the ascending soul as the spirit leaving the dead union, the loss that precedes renewal.\n\n## For artists & game designers\nA clean 'soul leaves the body' visual - the spirit token that detaches on death and must later be reunited with its host.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "separatio",
+    "the rising soul (anima)",
+    "nigredo",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0022",
+   "title": "Rosarium Philosophorum - The Ablution / Falling Dew (woodcut 8)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "ablution",
+    "dew",
+    "albedo",
+    "sublimation",
+    "tomb",
+    "washing",
+    "mundificatio",
+    "descending dove"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "the Soul (anima)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "'Of the Rejoicing or Springing or Sublimation of the Soul': dew falls from the clouds to wash the corpse white.\n\n## Iconography\nClouds above the sarcophagus release a fall of dew or rain upon the conjoined body, while a bird descends; the caption reads 'Here the Soul descendeth from on high, and revives the putrefied body.' The woodcut is set into the running translation.\n\n## Significance\nThe falling dew is the *ablutio* / *mundificatio*: the heavenly water that washes the blackened matter and turns it white, the dawn of the [[motif:albedo|albedo]]. Sublimation lifts the purified parts; the descending moisture revives what death had laid waste. This washing-white is the cleansing without which no resurrection follows. Jung saw in the dew the grace that descends upon the deadlocked work.\n\n## For artists & game designers\nFalling cleansing light or dew over a corpse is a textbook 'purification phase' effect - the wash that flips a state from black/corrupted to white/clean.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "albedo",
+    "ablutio / mundificatio",
+    "dew of heaven",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0025",
+   "title": "Rosarium Philosophorum - The Birth of the Hermaphrodite (woodcut 9)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "hermaphrodite",
+    "rebis",
+    "tree of philosophers",
+    "moon",
+    "wings",
+    "new birth",
+    "bird",
+    "crowned androgyne"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "the Hermaphrodite (Rebis)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "A winged, two-headed androgyne is born standing on the moon beside the flowering Tree of the Philosophers - an early appearance of the Rebis.\n\n## Iconography\nA crowned, double-headed winged figure stands upon a crescent; at left rises the philosophical tree hung with sun-and-moon faces, and a bird perches on the ground at right. The verses sing 'Here is born a noble and rich Queen,' with speeches of Luna and Sol. The woodcut is embedded in the running text.\n\n## Significance\nFrom the washed white body the [[motif:rebis|rebis]] - the 'two-thing,' male and female fused in a single winged body - is first brought forth. The Tree of the Philosophers, fruited with luminaries, marks the growth of the Stone; the figure is both the reborn Queen and the seed of the final hermaphrodite. Jung read the androgyne as the union of conscious and unconscious, the self born of the coniunctio.\n\n## For artists & game designers\nThe winged double-headed body on a crescent is a striking 'fusion result, first form' - an evolution stage before the crowned final Rebis.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "rebis",
+    "hermaphrodite",
+    "tree of the philosophers",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0028",
+   "title": "Rosarium Philosophorum - Fermentation (woodcut 10)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "fermentation",
+    "sol",
+    "winged figure",
+    "mercury of the philosophers",
+    "rubedo onset",
+    "hill",
+    "reclining figure"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "Sol"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "'Fermentation': a winged Sol-figure reclines on a hillside, again enclosed with the philosophers' mercury.\n\n## Iconography\nA winged figure reclines upon a mound or wing above a rocky ground, captioned 'Here Sol is again included, and is circumpassed with the Mercury of Philosophers.' The woodcut is set into the running translation under the heading 'Fermentation.'\n\n## Significance\n*Fermentatio* is the leavening of the Stone: the reborn solar body is once more steeped in mercury so that the ferment may 'raise' it, as leaven raises dough, toward the red. The Rosarium now runs a second, higher circuit of death and revival - inclusion, drowning, blackening - that perfects what the first cycle began. The repetition underlines that the opus is iterative, not a single passage.\n\n## For artists & game designers\nA 'second pass / higher difficulty repeat' marker - the same cycle re-entered at a more refined level.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "fermentatio",
+    "the ferment",
+    "rubedo",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0031",
+   "title": "Rosarium Philosophorum - Illumination (woodcut 11)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "illumination",
+    "sol drowned",
+    "second death",
+    "tomb",
+    "winged sun",
+    "mercury",
+    "sarcophagus"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "Sol"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "'Illumination': the solar figure dies a second time, drowned in the philosophers' mercury upon the tomb.\n\n## Iconography\nA winged sun-figure lies stretched on the stone sarcophagus, captioned 'Here Sol plainly dies again, and is drowned with the Mercury of the Philosophers.' The woodcut is embedded in the running text under the heading 'Illumination.'\n\n## Significance\nThe second death repeats the [[motif:nigredo|nigredo]] at a higher turn: the reborn body must itself be dissolved and 'drowned' in mercury before it can be fixed for good. Paradoxically titled 'Illumination,' the plate teaches that the deepest darkening is the threshold of the greatest light - the rubedo cannot come without this renewed mortification. Jung saw here the repeated dyings the integrating psyche must endure.\n\n## For artists & game designers\nA 'death you must repeat, each time deeper' beat - the recurring sacrifice that powers a higher transformation.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "second mortificatio",
+    "drowning in mercury",
+    "illumination",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0033",
+   "title": "Rosarium Philosophorum - Nourishment (woodcut 12)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "nourishment",
+    "cibation",
+    "sol made black",
+    "nigredo",
+    "tomb",
+    "feeding the stone",
+    "bird"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "Sol"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "'Nourishment': the solar body is made black as pitch upon the tomb - the dark food on which the Stone feeds.\n\n## Iconography\nA blackened figure lies on the sarcophagus, a small bird above, captioned 'Here Sol is made black like unto pitch, with the Mercury of the Philosophers.' The woodcut is set into the running translation under the heading 'Nourishment.'\n\n## Significance\n*Cibatio* - feeding - is the patient imbibition by which the Stone is repeatedly nourished with its mercurial water. The blackening shows the matter passing once more through corruption; the nourishment is the gentle, drop-by-drop feeding that sustains the growing Stone through its second putrefaction. The cycle of dark feeding must run its course before the red can dawn.\n\n## For artists & game designers\nThe 'feed the thing in its dark phase' mechanic - resource input during a vulnerable blackened state, no visible payoff yet.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "cibatio (feeding)",
+    "nigredo",
+    "nourishment of the Stone",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0035",
+   "title": "Rosarium Philosophorum - Fixation (woodcut 13)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "fixation",
+    "soul ascending",
+    "end of luna",
+    "tomb",
+    "cloud",
+    "sublimation",
+    "albedo"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "the Soul (anima)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "'Here ends the life of Luna': from the tomb the soul subtly ascends once more, fixing the lunar body.\n\n## Iconography\nThe body lies in the sarcophagus while a small soul rises into a cloud above, captioned 'Here ends the life of Luna, and the spirit subtly ascends on high.' The woodcut is embedded in the running text.\n\n## Significance\n*Fixatio* binds the volatile spirit fast to the body so it can no longer fly off. The 'death of Luna' is the consuming of the silvery, white principle as the work turns from the [[motif:albedo|albedo]] toward the red; the ascending soul is sublimed and then fixed. This pairing of ascent and fixation - rising in order to be made permanent - is the paradox at the close of the white work. Jung read it as the spirit raised only to be re-embodied for good.\n\n## For artists & game designers\nThe 'lock it in place' step after purification - a state that, once reached, can no longer be lost.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "fixatio",
+    "sublimation",
+    "death of Luna",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0038",
+   "title": "Rosarium Philosophorum - The Dew / Multiplication (woodcut 14)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "dew",
+    "multiplication",
+    "ablution",
+    "tomb",
+    "moisture",
+    "imbibition",
+    "watering the earth"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "the Soul (anima)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "The water is diminished and falls as dew upon the tomb, moistening the earth for the final increase.\n\n## Iconography\nDew descends from clouds onto the sarcophagus and its body, captioned 'Here the water is diminished, and bedeweth the earth with his moisture.' The woodcut is set into the running translation amid extracts from Geber.\n\n## Significance\nThe falling dew here serves *imbibition* and *multiplicatio*: the measured watering of the calcined earth that swells and increases the Stone's virtue many-fold. The diminishing water and bedewed ground show the alternation of drying and moistening - calcination and solution - by which the medicine is multiplied. The heavenly dew remains alchemy's image of the grace that fructifies the dead matter.\n\n## For artists & game designers\nThe 'water it and it multiplies' beat - small repeated inputs that compound an asset's value.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "multiplicatio",
+    "imbibition",
+    "dew of heaven",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0040",
+   "title": "Rosarium Philosophorum - Reviving (woodcut 15)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "reviving",
+    "soul descending",
+    "daughter of philosophy",
+    "tomb",
+    "resurrection of the body",
+    "cloud",
+    "return of the soul"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "the Soul (anima)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "'Reviving': the soul descends in glory from heaven to raise up the Daughter of Philosophy from the tomb.\n\n## Iconography\nA soul-figure floats down from a cloud toward the body in the sarcophagus, captioned 'Here the Soul descendeth gloriously from heaven, and raiseth up the Daughter of Philosophy.' The woodcut is embedded in the running text under the heading 'Reviving.'\n\n## Significance\nThis is the *reditus animae*, the return of the soul: the spirit that had ascended now comes back to quicken the purified body, reuniting what death had sundered. The 'Daughter of Philosophy' is the new, glorified body of the Stone, raised incorruptible. The descent answers the earlier ascent of the soul - the work's great rhythm of separation and reunion completes itself. Jung read this homecoming of the soul as the integration that crowns the transference.\n\n## For artists & game designers\nThe 'soul returns to revive the purified body' moment - the reunion that turns a cleansed but inert shell into a living, upgraded entity.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "reditus animae",
+    "return of the soul",
+    "Daughter of Philosophy",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0043",
+   "title": "Rosarium Philosophorum - The Crowned Hermaphrodite / Rebis (woodcut 16)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "rebis",
+    "hermaphrodite",
+    "crowned androgyne",
+    "wings",
+    "dragon",
+    "moon",
+    "chalice",
+    "riddle of the king"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "the Hermaphrodite (Rebis)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "The crowned, winged Hermaphrodite - the Rebis - stands triumphant on the moon and dragon: the goal of the work made visible.\n\n## Iconography\nA two-headed (male and female) figure in a single robe spreads bat-like wings, holds a chalice and serpent-staff, and stands upon a crescent moon above a coiled dragon; the philosophical tree rises at left. The verses are 'The Riddle of the King' and 'The Answer of Luna the Queen.' The woodcut is set into the running translation.\n\n## Significance\nThis is the fully formed [[motif:rebis|rebis]], the 'two-thing': the King and Queen reborn as one androgynous body that has conquered the dragon of the prima materia beneath its feet. Crowned and winged, fixed yet volatile, it is the reconciled union of all opposites - the near-attained Philosophers' Stone. It is the single most reproduced image of the Rosarium and a touchstone for Jung's symbol of the integrated Self.\n\n## For artists & game designers\nThe definitive 'final fused form' - a crowned, winged hybrid standing on the monster it was made from; perfect as an ultimate evolution or boss-ally reveal.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "rebis",
+    "crowned hermaphrodite",
+    "union of opposites",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0045",
+   "title": "Rosarium Philosophorum - The Green Lion Devouring the Sun (woodcut 17)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "green lion",
+    "leo viridis",
+    "devouring the sun",
+    "mercury",
+    "dissolution",
+    "prima materia",
+    "gold",
+    "solar disc"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "the Green Lion",
+    "Sol"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "'Our Mercury, the Green Lion devouring the Sun': the green lion bites into the radiant solar disc.\n\n## Iconography\nA lion clamps its jaws on a rayed, human-faced sun and swallows it, captioned 'I am the true green and Golden Lion without cares, in me all the secrets of the Philosophers are hidden.' The woodcut is embedded in the running text under 'Of Our Mercury which is the Green Lion Devouring the Sun.'\n\n## Significance\nThe *leo viridis* is the crude, unripe philosophical mercury that 'eats' gold - the corrosive solvent that dissolves [[motif:sol and luna|Sol]] back into the work so it can be reborn. Green for its raw, vegetative power, the lion is both poison and the agent of every solution; devouring the sun, it returns the perfected to the prima materia for a further turn. The motif became one of alchemy's most quoted emblems.\n\n## For artists & game designers\nA beast eating the sun is a complete 'devour to dissolve / consume the prize to power the next stage' icon - raw, ominous, instantly legible.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "green lion (leo viridis)",
+    "philosophical mercury",
+    "dissolution",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0047",
+   "title": "Rosarium Philosophorum - The Coronation / Assumption (woodcut 18)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "coronation",
+    "assumption",
+    "luna",
+    "matrix",
+    "receptacle",
+    "holy spirit",
+    "dove",
+    "glorification"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "the Queen (Luna)",
+    "the Holy Spirit (dove)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "An arched, devotional plate of crowning and glorification - the lunar bride received and exalted before the final resurrection.\n\n## Iconography\nWithin a tablet-shaped frame hung with banderoles, haloed figures attend a central enthroned figure while a dove of the Holy Spirit descends from above. The surrounding text speaks of the woman as 'receptacle and matrix' of the seed and likens Luna to the Virgin (Hermes: 'Sol is her father and Luna her mother'). The woodcut is set into the running translation.\n\n## Significance\nThe Rosarium borrows the Christian iconography of the Coronation and Assumption to figure the glorification of the purified lunar principle - the [[motif:albedo|white]] body received into heaven as the matrix of the new Stone. The descending dove repeats the *spiritus* that has mediated the work from the first plate. This sacralising of the chemistry is exactly the religious-alchemical fusion that drew Jung to the cycle.\n\n## For artists & game designers\nA solemn 'coronation / ascension' tableau - the honoured-and-elevated beat just before the climactic transformation.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "coronation",
+    "assumption of Luna",
+    "the matrix / receptacle",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosarium__rosarium-page-0050",
+   "title": "Rosarium Philosophorum - The Resurrection (woodcut 19)",
+   "work": "Rosarium Philosophorum",
+   "creator": "Anonymous (pub. Cyriacus Jacobus)",
+   "date": "1550",
+   "place": "Frankfurt",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "resurrection",
+    "risen christ",
+    "rubedo",
+    "lapis-christ parallel",
+    "banner staff",
+    "tomb",
+    "glorified body",
+    "philosophers stone"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "the Risen Christ (the Stone)"
+   ],
+   "repository": "[PLACEHOLDER: per source - Rosarium Philosophorum, 1550]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers",
+   "summary": "The final plate: a risen, Christ-like figure climbs from the tomb with a banner-staff - the resurrection of the perfected Stone.\n\n## Iconography\nA haloed figure rises from the stone sarcophagus, one hand raised in blessing, the other gripping a cross-topped banner-staff, captioned 'After my passion and manifold torments I am again risen, being purified and cleansed from all spots.' The colophon dates this printed copy 'In Lubeck the 24th day of October 1588.' The woodcut is set into the running translation.\n\n## Significance\nThe opus closes on the *resurrectio* and [[motif:rubedo|rubedo]]: the dead, blackened body rises glorified and incorruptible, explicitly modelled on the risen Christ - the lapis-Christ parallel that lets the Stone stand as a figure of redemption itself. Purified 'from all spots,' it is the completed Philosophers' Stone, fruit of the whole cycle of marriage, death and rebirth. Jung built *The Psychology of the Transference* toward exactly this resurrected union.\n\n## For artists & game designers\nThe triumphant 'rises from the grave, transfigured' finale - the resurrection screen that pays off every death earlier in the sequence.",
+   "citations": [
+    {
+     "text": "*Rosarium Philosophorum* (Frankfurt: Cyriacus Jacobus, 1550)."
+    },
+    {
+     "text": "C. G. Jung, *The Psychology of the Transference* (1946)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/rosarium-philosophorum-the-rosary-of-the-philosophers"
+    }
+   ],
+   "key_concepts": [
+    "resurrectio",
+    "rubedo",
+    "lapis-Christ parallel",
+    "Rosarium Philosophorum"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}
