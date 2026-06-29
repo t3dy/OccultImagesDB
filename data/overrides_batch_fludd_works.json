@@ -1,0 +1,1813 @@
+{
+ "_work": {
+  "key": "fludd_works",
+  "short_id": "FLUD",
+  "title": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+  "creator": "Robert Fludd (1574–1637); engraved by the de Bry / Merian workshops",
+  "date": "1617–1659",
+  "century": 17,
+  "place": "Oppenheim, Frankfurt, Gouda & London",
+  "region": "German lands",
+  "language": "Latin (and English)",
+  "era": "early_modern",
+  "tradition": "hermetic",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "fludd_works",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Robert_Fludd",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "macrocosm and microcosm",
+   "as above so below",
+   "light and darkness",
+   "divine harmony",
+   "art of memory",
+   "cosmic medicine"
+  ],
+  "blurb": "Distinct engraved plates from Robert Fludd's supreme Hermetic image-system — the Utriusque Cosmi Historia and its companion volumes (De Naturae Simia, De Praeternaturali, Anatomiae Amphitheatrum, Integrum Morborum Mysterium, Philosophia Sacra, Philosophia Moysaica, Mosaicall Philosophy): the macrocosm and the man-microcosm, the creation of light from darkness and the dark chaos 'Et sic in infinitum', the triangle-in-circle Trinity, the Ape of Nature, the memory theatre and oculus imaginationis, geomancy and chiromancy, the pulse and the fortress of health, the weather-glass and the meteorological mirror, magnetism, the colour wheel, the angelic hierarchy and the threefold soul."
+ },
+ "entries": [
+  {
+   "id": "fludd_works__title-page",
+   "title": "Engraved title page of Fludd's *Utriusque Cosmi Historia*, vol. I (1617)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; engraved by Matthäus Merian / de Bry workshop",
+   "date": "1617",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "title page",
+    "two worlds",
+    "macrocosm and microcosm",
+    "architectural frame",
+    "allegory",
+    "engraving",
+    "oppenheim imprint",
+    "baroque frontispiece"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Robert Fludd"
+   ],
+   "repository": "Houghton Library, Harvard University",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Houghton_EC_F6707_B638p_v.1_-_Robert_Fludd,_Utriusque_Cosmi.jpg",
+   "summary": "The engraved title page of the first volume of Robert Fludd's *Utriusque Cosmi Historia* ('The History of the Two Worlds'), printed by Johann Theodor de Bry at Oppenheim in 1617.\n\n## Iconography\nWithin an elaborate architectural frame the long Latin title announces a history of both the *maior* (great) and *minor* (small) world — the macrocosm and the microcosm of man — 'metaphysical, physical and technical'. Allegorical figures and emblematic devices fill the border in the dense Mannerist manner of the de Bry press.\n\n## Significance\nThe *Utriusque Cosmi Historia* is the central monument of Fludd's project: a vast illustrated encyclopaedia arguing that man (the [[motif:microcosm|microcosm]]) mirrors the universe (the [[motif:macrocosm|macrocosm]]), and that both are bound by divine harmony. Its plates — the divine monochord, *Integra Naturae*, the two pyramids of light and darkness — became the most reproduced images of English Hermeticism. Frances Yates placed Fludd at the heart of the 'Rosicrucian Enlightenment'.\n\n## For artists & game designers\nA single engraved frontispiece that promises 'the history of two worlds' is a perfect title-screen device for any game built on a correspondence between the heavens and the body.",
+   "citations": [
+    {
+     "text": "J. B. Craven, *Doctor Robert Fludd* (1902)."
+    },
+    {
+     "text": "Frances A. Yates, *The Rosicrucian Enlightenment* (1972)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Houghton_EC_F6707_B638p_v.1_-_Robert_Fludd,_Utriusque_Cosmi.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Utriusque Cosmi Historia",
+    "macrocosm and microcosm",
+    "de Bry press",
+    "Rosicrucian Enlightenment"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__man-microcosm",
+   "title": "The Vitruvian macrocosm: man inscribed in the cosmic circle",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1617–1619",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "microcosm",
+    "macrocosm",
+    "vitruvian man",
+    "cosmic correspondence",
+    "squared circle",
+    "proportion",
+    "engraving",
+    "man and universe"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the cosmic man"
+   ],
+   "repository": "[PLACEHOLDER: de Bry edition, Utriusque Cosmi Historia]",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Vitruvian_macrocosm.jpg",
+   "summary": "A plate from Fludd's *Utriusque Cosmi Historia* showing the human figure spread within a great circle, the body set into correspondence with the surrounding cosmos.\n\n## Iconography\nIn the manner of the Vitruvian figure, a man stands with limbs extended to touch a circle — but here the circle is the **cosmos**, its rings the elements and heavens. The proportions of the body are presented as the same proportions that govern the world, so that the human frame becomes a measured map of the universe.\n\n## Significance\nThis is the visual heart of Fludd's doctrine: *homo* as [[motif:microcosm|microcosm]], the little world that repeats the great. Fludd inherited the squared-circle man from Vitruvius and Agrippa and recharged it with Hermetic and Paracelsian meaning — every organ answering to a planet, every part to a region of the sky.\n\n## For artists & game designers\nThe figure literally diagrams 'as above, so below' — ideal iconography for a character sheet where body zones map to cosmic powers.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd: Hermetic Philosopher and Surveyor of Two Worlds* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Vitruvian_macrocosm.jpg"
+    }
+   ],
+   "key_concepts": [
+    "microcosm",
+    "Vitruvian man",
+    "cosmic correspondence",
+    "as above so below"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__macrocosmi-historia",
+   "title": "The macrocosm: the cosmic spheres of *Utriusque Cosmi Historia*",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1617",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "macrocosm",
+    "celestial spheres",
+    "elements",
+    "empyrean",
+    "cosmic diagram",
+    "geocentric cosmos",
+    "engraving",
+    "great world"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: de Bry edition, Utriusque Cosmi Historia]",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Macrocosmi_historia_Robert_Fludd.jpg",
+   "summary": "A small diagram of the macrocosm — the 'great world' — from Fludd's *Utriusque Cosmi Historia*.\n\n## Iconography\nConcentric rings descend from the divine and empyrean heaven through the planetary [[motif:celestial-spheres|spheres]] to the sublunary world of the four elements at the centre. The whole is a compact picture of the geocentric, hierarchically ordered universe that Fludd took as the pattern for everything below it.\n\n## Significance\nFludd's cosmology is emphatically **Mosaic and Hermetic** rather than Copernican: a layered cosmos emanating from God, in which light descends and darkness rises. Such ring-diagrams are the skeleton on which his grander allegories (the monochord, *Integra Naturae*) are built.\n\n## For artists & game designers\nA clean nested-rings cosmos is the most legible possible 'world map' for a game whose levels are heavens to ascend through.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Macrocosmi_historia_Robert_Fludd.jpg"
+    }
+   ],
+   "key_concepts": [
+    "macrocosm",
+    "celestial spheres",
+    "geocentric cosmos",
+    "emanation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__metaphysical-spheres",
+   "title": "The metaphysical spheres of the macrocosm",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1617",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "metaphysical spheres",
+    "emanation",
+    "divine light",
+    "hierarchy of being",
+    "cosmic order",
+    "diagram",
+    "engraving",
+    "macrocosm"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: de Bry edition, De metaphysico macrocosmi ortu, 1617]",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:De_metaphysico_macrosmi_-_Metaphysical_spheres.jpg",
+   "summary": "A diagram from the tract *De metaphysico macrocosmi ortu* (on the metaphysical origin of the great world) in Fludd's *Utriusque Cosmi Historia*.\n\n## Iconography\nNested spheres rise from the material world to the metaphysical and divine, each level labelled in Latin. The figure charts the **descent of being** from God through the intelligible and celestial worlds into matter — and, read upward, the soul's return.\n\n## Significance\nThe *De metaphysico* opens Fludd's whole system by deriving the cosmos from God's act. It belongs with the Neoplatonic ladder of emanation: a structured hierarchy through which divine [[motif:divine-light|light]] flows downward into ever grosser substance.\n\n## For artists & game designers\nA labelled ladder of worlds is ready-made as a progression tree — each sphere a tier of ascent.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:De_metaphysico_macrosmi_-_Metaphysical_spheres.jpg"
+    }
+   ],
+   "key_concepts": [
+    "metaphysical spheres",
+    "emanation",
+    "Neoplatonism",
+    "hierarchy of being"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__light-darkness",
+   "title": "Light in darkness: the first act of creation",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1617",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "creation",
+    "light and darkness",
+    "divine fiat",
+    "chaos",
+    "genesis",
+    "cosmogony",
+    "diagram",
+    "engraving"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "God (as divine light)"
+   ],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Light_in_darkness_%22De_metaphysico_macrosmi...ortu%22..._Wellcome_L0016157.jpg",
+   "summary": "A creation diagram, 'light in darkness', from *De metaphysico macrocosmi ortu* in Fludd's *Utriusque Cosmi Historia* (1617).\n\n## Iconography\nThe plate shows divine **light** breaking into and dividing the primordial **darkness** — the first day of Genesis rendered as a diagram of penetrating radiance against a field of black. Concentric or radiating forms mark how light orders the formless deep.\n\n## Significance\nFludd's cosmogony makes the contest of [[motif:light-and-darkness|light and darkness]] the engine of creation: God's light enters the dark abyss (the *aqua* or chaos) and from their proportion the worlds are formed. This polarity underlies his famous twin pyramids of form and matter.\n\n## For artists & game designers\nLiteral light cutting into a black void is the cleanest possible 'genesis' visual — a single high-contrast image for a creation cutscene.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Light_in_darkness_%22De_metaphysico_macrosmi...ortu%22..._Wellcome_L0016157.jpg"
+    }
+   ],
+   "key_concepts": [
+    "creation",
+    "light and darkness",
+    "cosmogony",
+    "Genesis diagram"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__darkness-chaos",
+   "title": "The dark chaos before creation (*Et sic in infinitum*)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1617",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "chaos",
+    "primordial darkness",
+    "void",
+    "nothingness",
+    "et sic in infinitum",
+    "cosmogony",
+    "engraving",
+    "black square"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Darkness,_%22De_metaphysico_macrosmi...ortu%22,_Fludd,_1617_Wellcome_L0016156.jpg",
+   "summary": "The celebrated 'dark chaos' page from *De metaphysico macrocosmi ortu* in Fludd's *Utriusque Cosmi Historia* (1617).\n\n## Iconography\nA solid **black rectangle** fills the page, its four edges inscribed *Et sic in infinitum* ('and so on to infinity'). It depicts the state **before** creation: the boundless, lightless prime matter or void out of which God will call the worlds.\n\n## Significance\nOften cited as a startlingly modern image, Fludd's black field is a serious cosmological statement — the *materia prima* as pure unformed darkness, the negative ground against which divine [[motif:light-and-darkness|light]] will act. It is among the most reproduced single images in the history of esoteric printing.\n\n## For artists & game designers\nA black page captioned 'and so on to infinity' is a masterclass in saying everything with nothing — perfect for a 'before the world' loading screen.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Frances A. Yates, *The Rosicrucian Enlightenment* (1972)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Darkness,_%22De_metaphysico_macrosmi...ortu%22,_Fludd,_1617_Wellcome_L0016156.jpg"
+    }
+   ],
+   "key_concepts": [
+    "chaos",
+    "prime matter",
+    "Et sic in infinitum",
+    "void"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__sun-creation",
+   "title": "The Sun in the work of creation",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1617",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "sun",
+    "solar disc",
+    "creation",
+    "light source",
+    "heart of the cosmos",
+    "radiance",
+    "engraving",
+    "macrocosm"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Sol (the Sun)"
+   ],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sun,_%22De_metaphysico_macrosmi...ortu%22,_Fludd,_1617_Wellcome_L0016154.jpg",
+   "summary": "A plate showing the Sun within the creation sequence of *De metaphysico macrocosmi ortu*, Fludd's *Utriusque Cosmi Historia* (1617).\n\n## Iconography\nThe **Sun** appears as a radiant disc set within the cosmic spheres, its beams ordering the surrounding heavens. In Fludd's scheme the Sun is the visible vehicle of the divine light, placed at the heart of the created world.\n\n## Significance\nFludd's solar theology is intensely Hermetic: the [[motif:sun|Sun]] is the *tabernacle* of God in the cosmos, the secondary cause through which the supreme light is mediated to the planets and to man. This solar centrality is symbolic and metaphysical, not Copernican.\n\n## For artists & game designers\nThe Sun-as-divine-vessel is a strong central icon for a cosmology where one luminous body is the source of all power.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Sun,_%22De_metaphysico_macrosmi...ortu%22,_Fludd,_1617_Wellcome_L0016154.jpg"
+    }
+   ],
+   "key_concepts": [
+    "sun",
+    "solar theology",
+    "divine light",
+    "creation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__triangle-circle",
+   "title": "The triangle in the circle: the Trinity and the cosmos",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1617",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "triangle in circle",
+    "trinity",
+    "tetragrammaton",
+    "divine geometry",
+    "sacred triangle",
+    "cosmic order",
+    "engraving",
+    "macrocosm"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the Holy Trinity"
+   ],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Triangle_in_circle_%22De_metaphysico_macrosmi...%22_Wellcome_L0016155.jpg",
+   "summary": "The 'triangle in a circle' diagram from *De metaphysico macrocosmi ortu*, Fludd's *Utriusque Cosmi Historia* (1617).\n\n## Iconography\nA **triangle** is inscribed within concentric **circles** of the cosmos, its three points reaching toward the bounds of the created spheres. The figure binds the **triune God** to the geometry of the universe; divine names or rays mark the corners.\n\n## Significance\nFludd routinely fuses Christian Trinitarian doctrine with Pythagorean–Hermetic number: the triangle is at once the Trinity, the three-fold structure of being, and the generative figure of geometry. The pairing of triangle and circle expresses God (unbounded circle) acting through threefold form.\n\n## For artists & game designers\nA glowing triangle locked inside cosmic rings reads instantly as 'a divine signature on the world' — useful as a sigil for a creator-deity faction.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Triangle_in_circle_%22De_metaphysico_macrosmi...%22_Wellcome_L0016155.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Trinity",
+    "sacred geometry",
+    "triangle and circle",
+    "Pythagorean number"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__god-matter",
+   "title": "The interaction between God and matter",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1617–1619",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "god and matter",
+    "divine action",
+    "cloud of god",
+    "tetragrammaton",
+    "creation",
+    "emanation",
+    "engraving",
+    "macrocosm"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "God (Tetragrammaton / divine cloud)"
+   ],
+   "repository": "[PLACEHOLDER: de Bry edition, Utriusque Cosmi Historia]",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Robert_Fludd,_interaction_between_God_and_matter.jpg",
+   "summary": "A plate depicting the interaction between God and matter from Fludd's *Utriusque Cosmi Historia*.\n\n## Iconography\nDivine power — figured as a **cloud, name or radiant source** above — acts upon the world below. Rays or a descending influence link the supreme principle to the receptive material sphere, dramatising how the formless is shaped by the divine.\n\n## Significance\nThe meeting of God and matter is the central event of Fludd's cosmogony: the active divine light informing passive [[motif:prime-matter|prime matter]]. Fludd often signals the unnameable God by the Hebrew Tetragrammaton set in a cloud, refusing any direct image of the deity.\n\n## For artists & game designers\nAn unseen power above acting on raw matter below is the archetypal 'creation' composition — top-down divine influence made literal.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Robert_Fludd,_interaction_between_God_and_matter.jpg"
+    }
+   ],
+   "key_concepts": [
+    "God and matter",
+    "Tetragrammaton",
+    "creation",
+    "prime matter"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__winds-angels",
+   "title": "Title page with winds and angels (*Integrum Morborum Mysterium*)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry / Frankfurt workshop",
+   "date": "1631",
+   "place": "Frankfurt, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "winds",
+    "four winds",
+    "angels",
+    "meteorology",
+    "title page",
+    "health and sickness",
+    "engraving",
+    "cosmic medicine"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "angels",
+    "the four winds personified"
+   ],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Title_page_with_engraving_winds_and_angels._Wellcome_L0016220.jpg",
+   "summary": "An engraved title page bearing winds and angels, from Fludd's medical work *Integrum Morborum Mysterium* (1631).\n\n## Iconography\nBlowing **winds** (often personified faces at the corners) and **angelic figures** frame the title. The winds carry the celestial influences and pestilential vapours that, in Fludd's meteorological medicine, bring health or disease to the human microcosm.\n\n## Significance\nFor Fludd, weather is theology: the [[motif:four-winds|four winds]] are the agents by which the macrocosm acts on the body, and angels govern the contest of good and evil influences. His meteorological pathology made the sickbed a battlefield of cosmic forces.\n\n## For artists & game designers\nPersonified winds at the four corners blowing influence inward is a compact way to show 'the weather has agency' in a world where climate is a moral force.",
+   "citations": [
+    {
+     "text": "William H. Huffman, *Robert Fludd and the End of the Renaissance* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Title_page_with_engraving_winds_and_angels._Wellcome_L0016220.jpg"
+    }
+   ],
+   "key_concepts": [
+    "four winds",
+    "meteorological medicine",
+    "angels",
+    "Integrum Morborum Mysterium"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__catoptrum-meteo",
+   "title": "Catoptrum meteographicum: the meteorological mirror",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; Frankfurt workshop",
+   "date": "1626",
+   "place": "Frankfurt, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "meteorology",
+    "weather",
+    "winds",
+    "clouds",
+    "catoptrum",
+    "meteorological mirror",
+    "diagram",
+    "engraving"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:R._Fludd,_Philosophia_sacra...,_catoptrum_meteographicum_Wellcome_L0016137.jpg",
+   "summary": "The *catoptrum meteographicum* ('meteorological mirror') from Fludd's *Philosophia Sacra* (1626).\n\n## Iconography\nA diagram mapping the **winds, clouds and weather** of the sublunary air, organising meteorological phenomena into a mirror-like scheme of correspondences. Directions, qualities and exhalations are arranged around a central axis.\n\n## Significance\nFludd's *Philosophia Sacra* develops a **Mosaic meteorology** — a theory of weather drawn from Genesis rather than Aristotle, in which the winds and waters obey the same divine light-and-darkness physics as the cosmos at large. The plate is a key document of his 'sacred philosophy' of nature.\n\n## For artists & game designers\nA wind-and-weather correspondence wheel is a usable HUD for a game where climate is read like an oracle.",
+   "citations": [
+    {
+     "text": "William H. Huffman, *Robert Fludd and the End of the Renaissance* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:R._Fludd,_Philosophia_sacra...,_catoptrum_meteographicum_Wellcome_L0016137.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Philosophia Sacra",
+    "Mosaic meteorology",
+    "winds",
+    "weather diagram"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__philosophia-sacra-title",
+   "title": "Title page of Fludd's *Philosophia Sacra* (1626)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; Frankfurt workshop",
+   "date": "1626",
+   "place": "Frankfurt, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "title page",
+    "sacred philosophy",
+    "meteorology",
+    "mosaic philosophy",
+    "frontispiece",
+    "engraving",
+    "genesis physics",
+    "cosmology"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Title_page_%22Philosophia_sacra...%22,_Fludd,_1626_Wellcome_L0016136.jpg",
+   "summary": "The engraved title page of Robert Fludd's *Philosophia Sacra et vere Christiana seu Meteorologia Cosmica* (Frankfurt, 1626).\n\n## Iconography\nWithin a framed cartouche the long Latin title announces a 'sacred and truly Christian philosophy, or cosmic meteorology'. The design follows the sober, text-dominated frontispiece style of Fludd's later Frankfurt volumes.\n\n## Significance\n*Philosophia Sacra* is Fludd's systematic **meteorology grounded in Scripture**, opposing Aristotle and the new mechanists with a Genesis-based physics of wind, water and weather. It belongs to the polemical late phase in which Fludd defended his Mosaic philosophy against Mersenne, Gassendi and Kepler.\n\n## For artists & game designers\nA frontispiece naming a whole alternative physics ('cosmic meteorology') is good worldbuilding texture for an in-game heretical treatise.",
+   "citations": [
+    {
+     "text": "William H. Huffman, *Robert Fludd and the End of the Renaissance* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Title_page_%22Philosophia_sacra...%22,_Fludd,_1626_Wellcome_L0016136.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Philosophia Sacra",
+    "Mosaic philosophy",
+    "cosmic meteorology",
+    "1626"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__philosophia-moysaica",
+   "title": "Frontispiece of the *Philosophia Moysaica* (1638)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; published Gouda",
+   "date": "1638",
+   "place": "Gouda, Netherlands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "mosaic philosophy",
+    "frontispiece",
+    "genesis",
+    "creation",
+    "title page",
+    "posthumous work",
+    "engraving",
+    "hermetic physics"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: Wellcome / Internet Archive]",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Robert_Fludd_1638_Philosophia_Moysaica.jpg",
+   "summary": "The frontispiece of Fludd's posthumously published *Philosophia Moysaica* (Gouda, 1638), the Latin basis of the English *Mosaicall Philosophy* (1659).\n\n## Iconography\nAn emblematic title design declares a philosophy whose 'cornerstone' is Christ, deriving the wisdom of creation from Moses. The image program announces a physics read out of the Book of Genesis.\n\n## Significance\nThe *Philosophia Moysaica* is Fludd's final statement of **Mosaic philosophy** — the claim that true natural knowledge is contained in Scripture, especially the creation account. It transmits his doctrine of the two principles (light and dark, *Nort* and the divine wind) and his magnetic and weather-glass experiments to a later English readership.\n\n## For artists & game designers\nA deathbed book that claims all science is hidden in one sacred text is a strong quest-artifact premise.",
+   "citations": [
+    {
+     "text": "Robert Fludd, *Mosaicall Philosophy* (London, 1659)."
+    },
+    {
+     "text": "William H. Huffman, *Robert Fludd and the End of the Renaissance* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Robert_Fludd_1638_Philosophia_Moysaica.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Philosophia Moysaica",
+    "Mosaic philosophy",
+    "Genesis physics",
+    "1638"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__mosaicall-philosophy",
+   "title": "The weather-glass (thermoscope) from the *Mosaicall Philosophy*",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; London printing",
+   "date": "1659",
+   "place": "London, England",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "weather glass",
+    "thermoscope",
+    "thermometer",
+    "air and water",
+    "instrument",
+    "experiment",
+    "engraving",
+    "mosaicall philosophy"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Thermometer,_%22Mosaicall_philosophy%22,_R._Fludd,_1659_Wellcome_L0016258.jpg",
+   "summary": "An engraving of Fludd's **weather-glass** (thermoscope) from the English *Mosaicall Philosophy* (London, 1659).\n\n## Iconography\nThe instrument is a tall glass with a bulb and a column of **water**, marked with a scale; the rise and fall of the liquid registers changes in the surrounding **air** — heat, cold and the 'spirit' of the weather. The plate shows the device and the cosmic forces it is meant to reveal.\n\n## Significance\nFludd used the weather-glass not merely as a meteorological gauge but as proof of his **two-principle physics**: the contest of expansive heat (the divine *Nort*/light) and contracting cold (darkness) made visible in a tube. It is among the earliest depicted air-thermoscopes and a touchstone in histories of the thermometer.\n\n## For artists & game designers\nAn instrument that claims to make an invisible cosmic war (heat vs cold) visible in a glass tube is a beautiful diegetic 'detector' prop.",
+   "citations": [
+    {
+     "text": "Robert Fludd, *Mosaicall Philosophy* (London, 1659)."
+    },
+    {
+     "text": "F. Sherwood Taylor, 'The Origin of the Thermometer', *Annals of Science* (1942)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Thermometer,_%22Mosaicall_philosophy%22,_R._Fludd,_1659_Wellcome_L0016258.jpg"
+    }
+   ],
+   "key_concepts": [
+    "weather-glass",
+    "thermoscope",
+    "two principles",
+    "Mosaicall Philosophy"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__air-thermometer",
+   "title": "The air-thermometer of the *Philosophia Moysaica*",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; Gouda printing",
+   "date": "1638",
+   "place": "Gouda, Netherlands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "air thermometer",
+    "weather glass",
+    "thermoscope",
+    "heat and cold",
+    "instrument",
+    "expansion of air",
+    "engraving",
+    "experiment"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Air-thermometer_%22Philosophia_moysaica%22,_Fludd_Wellcome_M0018005.jpg",
+   "summary": "An engraving of Fludd's **air-thermometer** (weather-glass) from the *Philosophia Moysaica* (1638).\n\n## Iconography\nA glass instrument with an air-filled head over a liquid column stands graduated against a scale; as the trapped **air** expands and contracts with heat and cold, the liquid moves. The plate ties the apparatus to Fludd's cosmic physics of expansion and contraction.\n\n## Significance\nFludd's thermoscope is one of the most-cited early thermometers. He read it cosmologically: the swelling of the air demonstrates the active, dilating principle of [[motif:divine-light|light]] against the contracting dark. The device sits at the junction of experimental instrument and Hermetic demonstration.\n\n## For artists & game designers\nThe same prop as the *Mosaicall* weather-glass in an earlier, higher-resolution state — good reference for a richly engraved scientific instrument.",
+   "citations": [
+    {
+     "text": "F. Sherwood Taylor, 'The Origin of the Thermometer', *Annals of Science* (1942)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Air-thermometer_%22Philosophia_moysaica%22,_Fludd_Wellcome_M0018005.jpg"
+    }
+   ],
+   "key_concepts": [
+    "air-thermometer",
+    "weather-glass",
+    "expansion and contraction",
+    "early thermometer"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__magnetism",
+   "title": "Fludd on magnetism: the magnetic cross of the cosmos",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; Frankfurt/Gouda printing",
+   "date": "1617–1638",
+   "place": "German lands / Netherlands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "magnetism",
+    "lodestone",
+    "sympathy and antipathy",
+    "poles",
+    "attraction",
+    "cosmic magnetism",
+    "diagram",
+    "engraving"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Robert_Fludd_on_magnetism._Wellcome_L0001517.jpg",
+   "summary": "A diagram of Fludd's **doctrine of magnetism**, expounded in his Mosaic philosophy.\n\n## Iconography\nThe plate maps **poles, axes and lines of attraction** as a cross or grid of magnetic influence running through the cosmos. Directions of sympathy and antipathy are labelled, the lodestone's behaviour generalised into a universal law of cosmic pull.\n\n## Significance\nFludd built a whole **magnetic cosmology**: all things are governed by attraction toward the divine north (light) and repulsion from darkness, the lodestone being a visible token of the world-soul's sympathies. His magnetic and weapon-salve writings drew him into famous polemics with Mersenne and the mechanical philosophers.\n\n## For artists & game designers\nA cosmos crossed by visible magnetic lines of sympathy and antipathy is a tidy systems-design metaphor for factions that attract or repel.",
+   "citations": [
+    {
+     "text": "William H. Huffman, *Robert Fludd and the End of the Renaissance* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Robert_Fludd_on_magnetism._Wellcome_L0001517.jpg"
+    }
+   ],
+   "key_concepts": [
+    "cosmic magnetism",
+    "sympathy and antipathy",
+    "lodestone",
+    "world-soul"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__naturae-simia",
+   "title": "The Ape of Nature (*De Naturae Simia*)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1618 (this state 1624)",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "ape of nature",
+    "art imitating nature",
+    "liberal arts",
+    "encyclopedia of arts",
+    "simia naturae",
+    "cosmic encyclopaedia",
+    "engraving",
+    "allegory"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Natura (Nature)",
+    "the Ape of Nature"
+   ],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:R._Fludd,_%22Utriusque_cosmi_historia...%22,_1624;_ape_of_nature_Wellcome_L0025673.jpg",
+   "summary": "The famous **Ape of Nature** plate from Fludd's *De Naturae Simia seu Technica Macrocosmi Historia* (the technical history of the great world), part of *Utriusque Cosmi Historia*.\n\n## Iconography\nA great wheel arranges the human **arts and sciences** — arithmetic, geometry, music, optics, art of war, fortification, the art of memory, cosmography, astrology, geomancy and more — around a central figure. An **ape** (art), chained to **Nature**, who is in turn linked to God, sits among them: *ars* imitates *natura* as the ape imitates the human.\n\n## Significance\nThe plate is the table of contents of Fludd's entire 'technical' volume and the emblem of his theory of art: human skill is the [[motif:ape-of-nature|ape of Nature]], Nature the ape of God. It is one of the most reproduced images of Renaissance encyclopaedism.\n\n## For artists & game designers\nAn ape chained between Nature and God, ringed by every art, is a perfect skill-tree hub: each spoke a discipline to master.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:R._Fludd,_%22Utriusque_cosmi_historia...%22,_1624;_ape_of_nature_Wellcome_L0025673.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Ape of Nature",
+    "De Naturae Simia",
+    "liberal arts",
+    "art imitates nature"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__naturae-simia-title",
+   "title": "Engraved title page of *De Naturae Simia* (1618)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1618",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "title page",
+    "technical history",
+    "arts and sciences",
+    "frontispiece",
+    "macrocosm",
+    "engraving",
+    "encyclopaedia",
+    "de bry"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Engraved_title_page_%22De_naturae_simia...%22_Fludd,_1618_Wellcome_L0016176.jpg",
+   "summary": "The engraved title page of *De Naturae Simia seu Technica Macrocosmi Historia*, the second tract of the first volume of Fludd's *Utriusque Cosmi Historia* (Oppenheim, 1618).\n\n## Iconography\nAn architectural title frame presents the work as the 'technical history of the macrocosm' — the survey of the human arts by which man imitates the world. The design is in the ornate de Bry manner.\n\n## Significance\nThis volume contains Fludd's celebrated treatments of the [[motif:art-of-memory|art of memory]], music, the cosmic monochord, fortification, perspective and machines — the practical, image-rich heart of the *Utriusque Cosmi Historia* and the source of many of his most copied plates.\n\n## For artists & game designers\nA frontispiece announcing 'the technical history of the great world' is an apt cover for an in-game compendium of crafts.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Engraved_title_page_%22De_naturae_simia...%22_Fludd,_1618_Wellcome_L0016176.jpg"
+    }
+   ],
+   "key_concepts": [
+    "De Naturae Simia",
+    "technical history",
+    "arts and sciences",
+    "de Bry frontispiece"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__memory-theatre",
+   "title": "Oculus imaginationis: the eye of imagination (Ars Memoriae)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1617",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "oculus imaginationis",
+    "eye of imagination",
+    "memory theatre",
+    "inner vision",
+    "mnemonics",
+    "engraving",
+    "ars memoriae"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: de Bry edition, Utriusque Cosmi Historia, Ars Memoriae]",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Oculus_imaginationis_inTractatus_1_Section_2_Portion_3_Robert_Fludd%E2%80%99s_Ars_Memoriae_Fludd,_1617.jpg",
+   "summary": "The *Oculus imaginationis* ('eye of the imagination') from the *Ars Memoriae* section of Fludd's *Utriusque Cosmi Historia* (1617).\n\n## Iconography\nA single great **eye** represents the inner faculty of imagination in which memory-images are seen. In Fludd's art of memory, the mind builds a theatre of vivid places and figures viewed by this inward eye.\n\n## Significance\nFludd's **art of memory** is the subject of Frances Yates's most famous chapters: she argued his memory 'theatre' echoed the Globe playhouse and embodied the Hermetic claim that the trained imagination can mirror the whole cosmos. The eye is the threshold between outer world and inner [[motif:memory-theatre|memory theatre]].\n\n## For artists & game designers\nA giant disembodied eye standing for 'the place where you imagine' is a haunting interface metaphor for a memory or dream level.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Oculus_imaginationis_inTractatus_1_Section_2_Portion_3_Robert_Fludd%E2%80%99s_Ars_Memoriae_Fludd,_1617.jpg"
+    }
+   ],
+   "key_concepts": [
+    "art of memory",
+    "oculus imaginationis",
+    "memory theatre",
+    "Frances Yates"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__forma-theatri",
+   "title": "Forma Theatri: the form of the memory theatre",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1619",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "memory theatre",
+    "forma theatri",
+    "theatre of memory",
+    "architectural mnemonic",
+    "stage",
+    "ars memoriae",
+    "engraving",
+    "playhouse"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Illustration_Forma_Theatri_Wellcome_L0045184.jpg",
+   "summary": "The *Forma Theatri* ('form of the theatre') from the *Ars Memoriae* in Fludd's *Utriusque Cosmi Historia*.\n\n## Iconography\nThe plate shows a **theatre stage** with a tiered façade, doors and a forestage — an architectural building meant to be filled with memory-images. The reader is to walk this remembered stage to recall ordered knowledge.\n\n## Significance\nFrances Yates argued the *Forma Theatri* reflects the **public playhouse** of Fludd's London (possibly the Globe) and is crucial evidence in the reconstruction of the Elizabethan stage. As a mnemonic device it embodies the classical 'memory palace' tradition raised to Hermetic ambition: the theatre as a model of the cosmos.\n\n## For artists & game designers\nA literal stage you populate with vivid figures to store knowledge is a directly playable mechanic — a 'memory palace' minigame.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Frances A. Yates, *Theatre of the World* (1969)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Illustration_Forma_Theatri_Wellcome_L0045184.jpg"
+    }
+   ],
+   "key_concepts": [
+    "memory theatre",
+    "Forma Theatri",
+    "memory palace",
+    "Elizabethan stage"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__ars-memoriae",
+   "title": "Arithmetica memorialis: the memory of numbers",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1618",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "arithmetica memorialis",
+    "number mnemonics",
+    "memory of numbers",
+    "diagram",
+    "ars memoriae",
+    "engraving",
+    "calculation"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Diagram;_De_arithmetica_memoriali._Wellcome_L0016180.jpg",
+   "summary": "A diagram of *arithmetica memorialis* — the art of memorising numbers — from Fludd's *De Naturae Simia* (1618).\n\n## Iconography\nThe plate lays out a **mnemonic scheme for numbers**, associating digits and figures with memorable images or places so that calculations and quantities can be held in the mind. It belongs to the same memory-art apparatus as the *Oculus imaginationis* and the theatre.\n\n## Significance\nFludd extended the classical [[motif:art-of-memory|art of memory]] into arithmetic and music, treating mnemonics as a universal technique for compressing knowledge into images. These plates document the early-modern conviction that the trained imagination could store the encyclopaedia of the arts.\n\n## For artists & game designers\nA system that turns numbers into images is a ready puzzle mechanic — encode a combination as a remembered picture.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Diagram;_De_arithmetica_memoriali._Wellcome_L0016180.jpg"
+    }
+   ],
+   "key_concepts": [
+    "arithmetica memorialis",
+    "number mnemonics",
+    "art of memory",
+    "De Naturae Simia"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__geomancy",
+   "title": "Geomancy: the figures of the earth-divination",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1617–1618",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": [
+    "geomancy",
+    "geomantic figures",
+    "divination",
+    "earth divination",
+    "dots and lines",
+    "sortilege",
+    "engraving",
+    "fortune-telling"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: de Bry edition, De Naturae Simia, De Geomantia]",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006248_Astrologie_%5E_Geomantik_%5E_Geomantie.jpg",
+   "summary": "A geomancy plate from the *De Geomantia* section of Fludd's *De Naturae Simia* (*Utriusque Cosmi Historia*).\n\n## Iconography\nThe plate presents the **sixteen geomantic figures** — patterns of single and double dots (Puer, Amissio, Via, Populus and the rest) — and the apparatus for casting and reading them: the random marks made in earth or on paper, reduced to figures and assigned to the houses of an astrological chart.\n\n## Significance\nFludd was the most important early-modern Latin systematiser of [[motif:geomancy|geomancy]], the art of divining from random earth-marks. His treatment links the sixteen figures to the planets, signs and astrological houses, giving the technique a full cosmological scaffolding within his Hermetic encyclopaedia.\n\n## For artists & game designers\nSixteen dot-figures cast at random and read against a chart is a self-contained divination minigame with real historical rules.",
+   "citations": [
+    {
+     "text": "Robert Fludd, *De Geomantia* in *Utriusque Cosmi Historia* (1617–18)."
+    },
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006248_Astrologie_%5E_Geomantik_%5E_Geomantie.jpg"
+    }
+   ],
+   "key_concepts": [
+    "geomancy",
+    "sixteen geomantic figures",
+    "earth divination",
+    "astrological houses"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__pulse",
+   "title": "Universale pulsuum systema: the universal system of the pulse",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; Frankfurt printing",
+   "date": "1631",
+   "place": "Frankfurt, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "pulse",
+    "sphygmology",
+    "cosmic medicine",
+    "diagram",
+    "de pulsuum",
+    "circulation",
+    "engraving",
+    "iatromathematics"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Universale_pulsuum_systema,_%22Pulsus_seu_nova...%22_Fludd,_1631_Wellcome_L0016235.jpg",
+   "summary": "The *Universale pulsuum systema* ('universal system of the pulse') from Fludd's *Pulsus, seu nova et arcana pulsuum historia* (1631), part of his medical works.\n\n## Iconography\nA systematic **diagram of the pulse**, correlating its varieties and rhythms with the cosmic and bodily forces that govern them. The plate organises sphygmology into a single ordered scheme of correspondences.\n\n## Significance\nFludd's pulse treatise is notable as one of the **first printed endorsements of William Harvey's circulation of the blood**, which he interpreted within his own cosmic-medical framework of solar and lunar tides in the body. The work marries empirical medicine to Hermetic macro–microcosm theory.\n\n## For artists & game designers\nA chart that reads the body's pulse as an echo of cosmic tides is good flavour for a healer-class diagnostic mechanic.",
+   "citations": [
+    {
+     "text": "Robert Fludd, *Pulsus, seu nova et arcana pulsuum historia* (1631)."
+    },
+    {
+     "text": "William H. Huffman, *Robert Fludd and the End of the Renaissance* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Universale_pulsuum_systema,_%22Pulsus_seu_nova...%22_Fludd,_1631_Wellcome_L0016235.jpg"
+    }
+   ],
+   "key_concepts": [
+    "pulse",
+    "sphygmology",
+    "William Harvey",
+    "cosmic medicine"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__integrum-morborum",
+   "title": "Title page of *Integrum Morborum Mysterium* (1631)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; Frankfurt printing",
+   "date": "1631",
+   "place": "Frankfurt, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "title page",
+    "mystery of disease",
+    "cosmic medicine",
+    "health and sickness",
+    "frontispiece",
+    "engraving",
+    "iatromathematics",
+    "fortress of health"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Title_page%22Integrum_morborum_mysterium%22,_Fludd,_1631._Wellcome_L0005326.jpg",
+   "summary": "The engraved title page of Fludd's *Integrum Morborum Mysterium* ('The Complete Mystery of Diseases', 1631), the first part of his great medical treatise.\n\n## Iconography\nAn emblematic frontispiece frames the title with images of the **cosmic combat of health and disease** — the wholesome and the hostile influences that besiege the body. It introduces Fludd's military metaphor of the body as a fortress under attack.\n\n## Significance\n*Integrum Morborum Mysterium* sets out Fludd's **iatromathematical medicine**: disease as the invasion of the human [[motif:microcosm|microcosm]] by malign celestial winds and spirits, healing as the restoration of cosmic harmony. It contains the celebrated 'fortress of health' diagram.\n\n## For artists & game designers\nA medical book that frames the body as a besieged fortress is a perfect premise for a tower-defence health system.",
+   "citations": [
+    {
+     "text": "William H. Huffman, *Robert Fludd and the End of the Renaissance* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Title_page%22Integrum_morborum_mysterium%22,_Fludd,_1631._Wellcome_L0005326.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Integrum Morborum Mysterium",
+    "iatromathematics",
+    "cosmic medicine",
+    "health and disease"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__fortress-health",
+   "title": "Hostilis munimenti typus: the fortress besieged by disease",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; Frankfurt printing",
+   "date": "1631",
+   "place": "Frankfurt, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "fortress of health",
+    "besieged body",
+    "bastions",
+    "disease as siege",
+    "military medicine",
+    "cosmic combat",
+    "engraving",
+    "microcosm"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hostilis_munimenti...typus_Wellcome_L0016221.jpg",
+   "summary": "The *Hostilis munimenti typus* ('figure of the hostile fortification') from Fludd's *Integrum Morborum Mysterium* (1631).\n\n## Iconography\nThe plate diagrams the human body as a **fortress** ringed by **bastions and defences**, beset by the assaults of disease. Hostile celestial and demonic forces lay siege from without while the vital powers man the walls within.\n\n## Significance\nFludd's siege-emblem is the visual core of his **military model of pathology**: sickness is invasion, the physician a commander, health the successful defence of the microcosmic citadel against malign macrocosmic influence. It is among the most striking images in early-modern medical illustration.\n\n## For artists & game designers\nThe body literally drawn as a star-fort under attack is a directly playable diagram for a defend-the-organism game.",
+   "citations": [
+    {
+     "text": "William H. Huffman, *Robert Fludd and the End of the Renaissance* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hostilis_munimenti...typus_Wellcome_L0016221.jpg"
+    }
+   ],
+   "key_concepts": [
+    "fortress of health",
+    "siege of disease",
+    "military pathology",
+    "microcosm"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__anatomiae-amphitheatrum",
+   "title": "Frontispiece of *Anatomiae Amphitheatrum* (1623)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; Frankfurt printing",
+   "date": "1623",
+   "place": "Frankfurt, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "anatomical theatre",
+    "amphitheatre",
+    "frontispiece",
+    "title page",
+    "spiritual anatomy",
+    "dissection",
+    "engraving",
+    "microcosm"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Biblioteca Europea di Informazione e Cultura (BEIC)",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fludd,_Robert_%E2%80%93_Anatomiae_ampitheatrum,_1623_%E2%80%93_BEIC_IE9023692_antiporta.jpg",
+   "summary": "The engraved frontispiece (*antiporta*) of Fludd's *Anatomiae Amphitheatrum* (Frankfurt, 1623).\n\n## Iconography\nAn **anatomical amphitheatre** is presented as an architectural frame for the title — the theatre of dissection reimagined as a stage on which the spiritual as well as physical anatomy of man is displayed.\n\n## Significance\nFludd's *Amphitheatrum* is not ordinary anatomy but a **spiritual and cosmic anatomy of the microcosm**, treating the body's structure as a map of the soul's faculties and the cosmos's powers. It belongs to the same project as his memory theatre — knowledge displayed as architecture.\n\n## For artists & game designers\nAn anatomy theatre repurposed as a 'stage of the soul' is a strong setting for an introspective or surgical level.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fludd,_Robert_%E2%80%93_Anatomiae_ampitheatrum,_1623_%E2%80%93_BEIC_IE9023692_antiporta.jpg"
+    }
+   ],
+   "key_concepts": [
+    "anatomical theatre",
+    "spiritual anatomy",
+    "microcosm",
+    "1623"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__triplici-anima",
+   "title": "The threefold soul and its faculties (consciousness diagram)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1619",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "faculties of the soul",
+    "threefold soul",
+    "imagination",
+    "reason",
+    "memory",
+    "head diagram",
+    "engraving",
+    "microcosm of mind"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the human soul personified"
+   ],
+   "repository": "[PLACEHOLDER: de Bry edition, Utriusque Cosmi Historia, Tomus secundus]",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:RobertFuddBewusstsein17Jh-hc.png",
+   "summary": "Fludd's celebrated diagram of the **faculties of the soul** mapped onto the human head, from the second volume of *Utriusque Cosmi Historia* (often called the 'consciousness' or *triplici animae visione* plate).\n\n## Iconography\nA man's **head in profile** is divided into spheres of inner faculty: the *mundus sensibilis* (sensible world) enters through the senses to the **imagination**, passes to **reason** (*intellectus*) and the rational and divine worlds, and is stored in **memory** at the back of the skull. Concentric worlds — sensible, imaginable, intellectual, divine — are drawn radiating from the head.\n\n## Significance\nThe plate is the supreme image of Fludd's **psychology of the microcosm**: the mind itself is a little cosmos, its faculties arranged as a ladder from sense to God. It is one of the most reproduced diagrams in the history of psychology and consciousness studies.\n\n## For artists & game designers\nA head whose interior is a tiered cosmos of perception, reason and memory is a ready blueprint for a 'mind level' UI.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "William H. Huffman, *Robert Fludd and the End of the Renaissance* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:RobertFuddBewusstsein17Jh-hc.png"
+    }
+   ],
+   "key_concepts": [
+    "faculties of the soul",
+    "microcosm of mind",
+    "imagination and reason",
+    "Fludd psychology"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__brain",
+   "title": "The brain and the inner senses according to Fludd",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1619",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "brain",
+    "inner senses",
+    "ventricles",
+    "sensus communis",
+    "imagination",
+    "memory",
+    "engraving",
+    "faculty psychology"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: de Bry edition, Utriusque Cosmi Historia]",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:El_cerebro_seg%C3%BAn_Fludd.jpg",
+   "summary": "Fludd's diagram of the **brain and its inner senses**, mapping the mental faculties onto the chambers of the head.\n\n## Iconography\nThe head is sectioned to show the seat of the **common sense**, **imagination**, **cogitation/reason** and **memory** in the cerebral ventricles, with channels linking the outer senses inward. Worlds and faculties are labelled in the Fluddian manner.\n\n## Significance\nThis is the medical-psychological companion to the great threefold-soul plate: the medieval **cell doctrine** of brain function (sensus communis, imaginativa, memorativa) absorbed into Fludd's [[motif:microcosm|microcosmic]] scheme, where each inner sense answers to a level of the cosmos.\n\n## For artists & game designers\nA cutaway brain labelled by faculty is a clean reference for a 'mental stats' diagram or a neuro-fantasy interface.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:El_cerebro_seg%C3%BAn_Fludd.jpg"
+    }
+   ],
+   "key_concepts": [
+    "inner senses",
+    "cell doctrine",
+    "brain ventricles",
+    "faculty psychology"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__mental-faculties",
+   "title": "The mental faculties of man",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1619",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "mental faculties",
+    "soul",
+    "imagination",
+    "reason",
+    "memory",
+    "head diagram",
+    "engraving",
+    "microcosm of mind"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mental_faculties_Wellcome_L0005899.jpg",
+   "summary": "A plate of the **mental faculties of man** from the *Tomus secundus* (microcosm volume) of Fludd's *Utriusque Cosmi Historia*.\n\n## Iconography\nThe diagram arranges the powers of the soul — sense, imagination, reason, intellect and memory — in ordered relation, often radiating from or stacked within the human head, each tied to a corresponding region of the cosmos.\n\n## Significance\nOne of several closely related Fluddian psychology plates, it expresses his core thesis that the [[motif:microcosm|microcosm]] of the mind replicates the macrocosm: the same hierarchy of worlds that structures the universe structures human cognition.\n\n## For artists & game designers\nUse alongside the threefold-soul and brain plates as a coherent visual set for a faculties-of-mind progression system.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Mental_faculties_Wellcome_L0005899.jpg"
+    }
+   ],
+   "key_concepts": [
+    "mental faculties",
+    "soul",
+    "microcosm of mind",
+    "Tomus secundus"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__faculties-man",
+   "title": "The faculties of man (*De Praeternaturali Utriusque*)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1619–1621",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "faculties of man",
+    "soul powers",
+    "spiritus",
+    "vegetative sensitive rational",
+    "head diagram",
+    "engraving",
+    "microcosm",
+    "tree of faculties"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Faculties_of_man,_%22De_praeternaturali_utriusque...%22_Wellcome_L0016215.jpg",
+   "summary": "A diagram of the **faculties of man** from *De Praeternaturali Utriusque Mundi Historia*, the second volume of Fludd's *Utriusque Cosmi Historia*.\n\n## Iconography\nThe plate sets out the human powers — **vegetative, sensitive and rational** — and their organs, frequently branching as a tree or ladder from the body up to the divine intellect, with the spirits (*spiritus*) mediating between body and soul.\n\n## Significance\nIn this 'preternatural' volume Fludd treats the powers that lie between the natural and the supernatural in man. The faculties-plate shows how the human soul forms a graded bridge from matter to God — the ascent that the whole *microcosm* is built to make.\n\n## For artists & game designers\nA branching tree of vegetative-to-rational powers maps neatly onto a tiered ability tree from instinct to intellect.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Faculties_of_man,_%22De_praeternaturali_utriusque...%22_Wellcome_L0016215.jpg"
+    }
+   ],
+   "key_concepts": [
+    "faculties of man",
+    "vegetative sensitive rational",
+    "spiritus",
+    "De Praeternaturali"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__man-ape",
+   "title": "Man, the ape and the chain of imitation",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1621",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "ape of nature",
+    "imitation",
+    "chain of being",
+    "man and ape",
+    "art and nature",
+    "correspondence",
+    "engraving",
+    "microcosm"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the Ape of Nature"
+   ],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Man._ape,_etc_%22De_praeternaturali_utriusque...%22_Fludd,_1621_Wellcome_L0016207.jpg",
+   "summary": "A plate showing **man, the ape and the chain of imitation** from *De Praeternaturali Utriusque Mundi Historia* (1621).\n\n## Iconography\nThe figure links **God, Nature, man and the ape** in a descending series, each imitating the one above: Nature apes God, man apes Nature, and the ape (figuring human art) apes man. Lines or a chain connect the tiers.\n\n## Significance\nThis is the doctrinal kernel behind Fludd's famous *Ape of Nature* engraving: a hierarchy of [[motif:imitation|imitation]] running down the chain of being. Art is a copy of a copy, valuable precisely because, far down the chain, it still reflects the divine pattern.\n\n## For artists & game designers\nA visible 'chain of imitation' from god to ape is a neat way to justify a crafting system where every made thing is a degraded echo of an ideal.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Man._ape,_etc_%22De_praeternaturali_utriusque...%22_Fludd,_1621_Wellcome_L0016207.jpg"
+    }
+   ],
+   "key_concepts": [
+    "chain of being",
+    "imitation",
+    "Ape of Nature",
+    "art and nature"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__chiromancy",
+   "title": "The palm of the hand: chiromancy",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1621",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": [
+    "chiromancy",
+    "palmistry",
+    "lines of the hand",
+    "mounts of the planets",
+    "divination",
+    "palm",
+    "engraving",
+    "astral hand"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Palm_of_hand,_%22De_praeternaturali_utriusque...%22_Fludd,_1621_Wellcome_L0016214.jpg",
+   "summary": "A **chiromancy** (palmistry) plate showing the lines and mounts of the hand, from *De Praeternaturali Utriusque Mundi Historia* (1621).\n\n## Iconography\nThe open **palm** is mapped with its major **lines** (life, head, heart) and the **planetary mounts** at the base of each finger (the mount of Jupiter, Saturn, Apollo, Mercury, the Moon, Venus, Mars). The hand becomes a small astrological chart.\n\n## Significance\nFludd's [[motif:chiromancy|chiromancy]] integrates palmistry into his macro–microcosm system: the planets that rule the heavens are written into the flesh of the hand, so reading the palm is reading the stars' imprint on the individual. It is among the most fully Hermetic of the early-modern palmistry treatments.\n\n## For artists & game designers\nA palm whose mounts are named for the planets is a self-contained 'read your fate' diagram for a fortune-telling interaction.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Palm_of_hand,_%22De_praeternaturali_utriusque...%22_Fludd,_1621_Wellcome_L0016214.jpg"
+    }
+   ],
+   "key_concepts": [
+    "chiromancy",
+    "palmistry",
+    "planetary mounts",
+    "astral hand"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__hierarchy-angels",
+   "title": "The hierarchy of angels (*De Integra Microcosmi Harmonia*)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1619",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "angelic hierarchy",
+    "nine orders",
+    "seraphim",
+    "cherubim",
+    "celestial hierarchy",
+    "dionysius",
+    "engraving",
+    "macrocosm"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "the nine orders of angels"
+   ],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:R._Fludd,_De_integra_macrosmi...;_hierarchy_of_angels_Wellcome_L0016200.jpg",
+   "summary": "A diagram of the **hierarchy of angels** from *De Integra Microcosmi Harmonia*, Fludd's *Utriusque Cosmi Historia*.\n\n## Iconography\nThe **nine angelic orders** — Seraphim, Cherubim, Thrones, Dominions, Virtues, Powers, Principalities, Archangels, Angels — are arranged in tiers descending from the divine, each order governing a level of the cosmos and a corresponding power in man.\n\n## Significance\nFludd adopts the **Pseudo-Dionysian celestial hierarchy** and threads it through his macro–microcosm scheme: the angelic orders are the channels by which divine influence descends to the planetary spheres and to the human soul. Angelology becomes part of his physics of mediation.\n\n## For artists & game designers\nNine ranked angelic orders, each tied to a sphere, is a ready faction ladder for a celestial bureaucracy.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:R._Fludd,_De_integra_macrosmi...;_hierarchy_of_angels_Wellcome_L0016200.jpg"
+    }
+   ],
+   "key_concepts": [
+    "angelic hierarchy",
+    "nine orders",
+    "Pseudo-Dionysius",
+    "celestial mediation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__tree-of-life-vector",
+   "title": "The kabbalistic Tree of Life after Fludd (modern redrawing)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "After Robert Fludd; modern vector reconstruction",
+   "date": "original 1620s; this drawing modern",
+   "place": "England (after Fludd) / modern",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": [
+    "tree of life",
+    "sephiroth",
+    "kabbalah",
+    "ten emanations",
+    "christian cabala",
+    "divine names",
+    "diagram",
+    "emanation"
+   ],
+   "medium": "diagram",
+   "figures": [],
+   "repository": "[PLACEHOLDER: modern reconstruction after Fludd, via Wikimedia Commons]",
+   "iconclass": [],
+   "rights": "CC BY-SA 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Tree_of_Life_(Fludd).svg",
+   "summary": "A modern vector redrawing of the **kabbalistic Tree of Life** as transmitted by Robert Fludd, whose works helped carry the Sephirotic tree into English Christian Cabala.\n\n## Iconography\nThe **ten Sephiroth** (Kether to Malkuth) are arranged on three pillars and joined by paths, the divine emanations descending from the crown to the kingdom. The figure is the standard map of the kabbalistic worlds.\n\n## Significance\nFludd absorbed **Christian Cabala** (via Reuchlin, Agrippa and the Lurianic currents reaching northern Europe) into his Hermetic synthesis, treating the [[motif:sephiroth|Sephiroth]] as the divine architecture behind his cosmic spheres. This redrawing presents that tree in clean modern form for reference. *(Image is a modern reconstruction, not an original Fludd plate.)*\n\n## For artists & game designers\nThe ten-node, three-pillar tree is one of the most reusable esoteric skill-graphs in existence — nodes as powers, paths as transitions.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Frances A. Yates, *The Occult Philosophy in the Elizabethan Age* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Tree_of_Life_(Fludd).svg"
+    }
+   ],
+   "key_concepts": [
+    "Tree of Life",
+    "Sephiroth",
+    "Christian Cabala",
+    "emanation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__color-wheel",
+   "title": "Fludd's colour wheel",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1617–1626",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "colour wheel",
+    "colour theory",
+    "light and darkness",
+    "spectrum",
+    "circle of colours",
+    "optics",
+    "engraving",
+    "white to black"
+   ],
+   "medium": "diagram",
+   "figures": [],
+   "repository": "[PLACEHOLDER: Fludd, Utriusque Cosmi Historia / Anatomiae Amphitheatrum]",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fludd_color_wheel.jpg",
+   "summary": "Robert Fludd's **colour wheel**, one of the earliest circular arrangements of colour, derived from his physics of light and darkness.\n\n## Iconography\nColours are set in a **ring** running between **white** (light) and **black** (darkness), the intermediate hues generated by the proportional mixture of the two extremes. The diagram makes colour a function of the same light–dark contest that drives Fludd's cosmos.\n\n## Significance\nFludd's wheel is a landmark in the prehistory of **colour theory**: rather than treating colours as arbitrary, he orders them on a scale from light to dark, anticipating later circular colour systems. It ties his optics directly to his cosmology of [[motif:light-and-darkness|light and darkness]].\n\n## For artists & game designers\nA colour wheel literally built from 'light vs dark' is an evocative palette device for a game whose whole aesthetic is a war of brightness and shadow.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fludd_color_wheel.jpg"
+    }
+   ],
+   "key_concepts": [
+    "colour wheel",
+    "colour theory",
+    "light and darkness",
+    "optics"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__anatomy-eye",
+   "title": "The anatomy of the eye (*De Naturae Simia*, optics)",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1618",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "eye",
+    "optics",
+    "vision",
+    "anatomy of the eye",
+    "perspective",
+    "light",
+    "engraving",
+    "microcosm of sight"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Anatomy_of_eye,_%22De_naturae...historia%22_Fludd,_1618_Wellcome_L0016186.jpg",
+   "summary": "An **anatomy of the eye** from the optics section of Fludd's *De Naturae Simia* (1618).\n\n## Iconography\nThe **eye** is shown in section with its coats and humours, together with the geometry of **vision** — rays entering and forming images. The plate sits among Fludd's treatments of perspective and optics in the 'technical history' of the macrocosm.\n\n## Significance\nFor Fludd, the eye is the bodily instrument of [[motif:light|light]] and so a privileged microcosmic organ: the same divine light that creates the world is received and ordered by sight. His optics blends practical perspective with the metaphysics of illumination.\n\n## For artists & game designers\nA period eye-section paired with ray geometry is solid reference for a 'vision/perception' upgrade or a light-puzzle.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Anatomy_of_eye,_%22De_naturae...historia%22_Fludd,_1618_Wellcome_L0016186.jpg"
+    }
+   ],
+   "key_concepts": [
+    "anatomy of the eye",
+    "optics",
+    "vision",
+    "light"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__horror-vacui",
+   "title": "Nature abhors a vacuum",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1618",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "horror vacui",
+    "vacuum",
+    "nature abhors a vacuum",
+    "pneumatics",
+    "water and air",
+    "experiment",
+    "engraving",
+    "natural philosophy"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Natura (Nature)"
+   ],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Nature_abhorrs_vacuum_%22De_naturae...historia%22_Fludd,_1618_Wellcome_L0016190.jpg",
+   "summary": "A plate illustrating that **'nature abhors a vacuum'**, from the technical/physical section of Fludd's *De Naturae Simia* (1618).\n\n## Iconography\nAn apparatus — vessels, tubes and columns of **water and air** — demonstrates how nature resists empty space, liquid rising or holding to prevent a void. Nature may be personified as the agent that 'fears' the vacuum.\n\n## Significance\nThe *horror vacui* was a central doctrine of pre-mechanical physics, and Fludd uses such pneumatic demonstrations within his cosmology of the contest between expansive and contractive principles. These experiments connect to his weather-glass and to the great seventeenth-century debates on the void.\n\n## For artists & game designers\nA period 'nature fears emptiness' apparatus is good set-dressing for an alchemist's bench or a pressure puzzle.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Nature_abhorrs_vacuum_%22De_naturae...historia%22_Fludd,_1618_Wellcome_L0016190.jpg"
+    }
+   ],
+   "key_concepts": [
+    "horror vacui",
+    "vacuum",
+    "pneumatics",
+    "pre-mechanical physics"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__ziggurat-weights",
+   "title": "The weighted ziggurat: a demonstration of statics",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1618",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "statics",
+    "weights",
+    "balance",
+    "mechanics",
+    "ziggurat",
+    "proportion",
+    "engraving",
+    "technical history"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Weighted_ziggurat_%22De_naturae...historia%22_Fludd,_1618_Wellcome_L0016191.jpg",
+   "summary": "A **weights-and-mechanics** demonstration (the 'weighted ziggurat') from Fludd's *De Naturae Simia* (1618).\n\n## Iconography\nA stepped, **ziggurat-like structure** is loaded with **weights** to illustrate principles of balance, proportion and statics. The diagram belongs to Fludd's survey of the mechanical arts.\n\n## Significance\nIn the 'technical history of the macrocosm' Fludd catalogues the human mechanical arts — levers, balances, pumps, lifting-gear — as part of man's imitation of nature. These plates show the practical, engineering face of his vast Hermetic encyclopaedia, the [[motif:ape-of-nature|ape of Nature]] at work.\n\n## For artists & game designers\nA stepped tower of weights is a clean physics-puzzle prop with a striking silhouette.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Weighted_ziggurat_%22De_naturae...historia%22_Fludd,_1618_Wellcome_L0016191.jpg"
+    }
+   ],
+   "key_concepts": [
+    "statics",
+    "weights and balances",
+    "mechanical arts",
+    "De Naturae Simia"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__rechenscheibe",
+   "title": "Calculating disc (Rechenscheibe): the arithmetic instrument",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Robert Fludd; de Bry workshop",
+   "date": "1618",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "calculating disc",
+    "rechenscheibe",
+    "arithmetic",
+    "proportion",
+    "volvelle",
+    "computation",
+    "engraving",
+    "number"
+   ],
+   "medium": "diagram",
+   "figures": [],
+   "repository": "[PLACEHOLDER: Fludd, De Naturae Simia, arithmetic section]",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006234_Geometrie_%5E_Mathematik_%5E_Arithmetik_%5E_Proportion_%5E_Rechenscheibe.jpg",
+   "summary": "A **calculating disc** (German cataloguers' *Rechenscheibe*) from the arithmetic and proportion section of Fludd's *De Naturae Simia* (1618).\n\n## Iconography\nConcentric graduated **rings of numbers** form a rotary computing device — a volvelle-like disc for working proportions and calculations by turning rather than reckoning on paper. Scales of figures run around the circumference.\n\n## Significance\nFludd's arithmetic plates present number and proportion as foundations of the [[motif:macrocosm|macrocosm]]'s harmony; the calculating disc is the practical instrument of that Pythagorean conviction, a hand-tool embodiment of cosmic ratio. It belongs to the same instrument tradition as the printed volvelles of Apian.\n\n## For artists & game designers\nA rotary number-disc is a satisfying tactile 'set the dials' mechanic for an in-world calculator or cipher.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006234_Geometrie_%5E_Mathematik_%5E_Arithmetik_%5E_Proportion_%5E_Rechenscheibe.jpg"
+    }
+   ],
+   "key_concepts": [
+    "calculating disc",
+    "Rechenscheibe",
+    "arithmetic",
+    "proportion"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fludd_works__fludd-portrait",
+   "title": "Portrait of Robert Fludd",
+   "work": "Robert Fludd: Utriusque Cosmi Historia & the Engraved Hermetic Cosmos",
+   "creator": "Engraved by Balthasar Moncornet",
+   "date": "17th century",
+   "place": "Paris / German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "portrait",
+    "robert fludd",
+    "engraved portrait",
+    "physician",
+    "philosopher",
+    "author portrait",
+    "engraving",
+    "hermetic philosopher"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Robert Fludd"
+   ],
+   "repository": "Bibliothèque nationale de France, Paris",
+   "shelfmark": "btv1b8417989c",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Robert_Fludd_-_Balthasar_Moncornet_-_btv1b8417989c.jpg",
+   "summary": "An engraved **portrait of Robert Fludd** (1574–1637), English physician and Hermetic philosopher, by Balthasar Moncornet.\n\n## Iconography\nA bust-length author **portrait** in a framed cartouche, Fludd shown in the sober dress of a learned physician, with an inscription naming him and his titles. The format is the standard frontispiece-portrait of a seventeenth-century *philosophus*.\n\n## Significance\nFludd, an Oxford-trained doctor and Fellow of the College of Physicians, was the great English systematiser of [[motif:hermeticism|Hermetic]], Paracelsian and Rosicrucian thought. He defended the Rosicrucian manifestos, debated Kepler, Mersenne and Gassendi, and produced in the de Bry volumes the most lavishly illustrated occult philosophy of the age.\n\n## For artists & game designers\nA dignified period author-portrait is the perfect 'mentor/loremaster' face for the figure whose books your game's cosmology is built on.",
+   "citations": [
+    {
+     "text": "J. B. Craven, *Doctor Robert Fludd* (1902)."
+    },
+    {
+     "text": "William H. Huffman, *Robert Fludd and the End of the Renaissance* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Robert_Fludd_-_Balthasar_Moncornet_-_btv1b8417989c.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Robert Fludd",
+    "author portrait",
+    "Hermetic philosopher",
+    "physician"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

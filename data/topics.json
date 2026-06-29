@@ -49,7 +49,8 @@
     "work_keys": [
      "cosmology",
      "khunrath",
-     "fludd"
+     "fludd",
+     "fludd_works"
     ],
     "motif_terms": [
      "macrocosm",
@@ -254,7 +255,9 @@
    "summary": "The metaphysical substrate of Renaissance magic: emanation from the One, the anima mundi, and the chain of correspondence from God to matter — Ficino's theurgy, Pico's syntheses. Text-rich in the user's DBs; cosmological visuals overlap with Hermeticism.",
    "match": {
     "traditions": [],
-    "work_keys": [],
+    "work_keys": [
+     "neoplatonism"
+    ],
     "motif_terms": [
      "anima mundi",
      "great chain of being",
@@ -475,7 +478,8 @@
    "match": {
     "traditions": [],
     "work_keys": [
-     "islamicate_occult"
+     "islamicate_occult",
+     "islamicate_deep"
     ],
     "motif_terms": [],
     "ids": []
@@ -1181,6 +1185,24 @@
     "traditions": [],
     "work_keys": [
      "byzantine_jewish_amulets"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "lettrism",
+   "name": "Lettrism & the Science of Letters",
+   "status": "live",
+   "blurb": "The occult power of the alphabet — abjad numerology, the Names of God, and sacred calligraphy as talisman.",
+   "summary": "The esoteric science of letters (ʻilm al-ḥurūf) — the divine Names as letter-talismans, abjad numerology and the budūḥ magic-square, the Hurufi mysticism of the letter-bearing face, and the zoomorphic calligrams in which sacred text becomes image. The Islamic counterpart to Kabbalah’s letter-mysticism.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "lettrism"
     ],
     "motif_terms": [],
     "ids": []

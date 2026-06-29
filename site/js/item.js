@@ -29,7 +29,7 @@ function renderScholApparatus(it, items) {
   let html = "";
   if (Array.isArray(it.key_concepts) && it.key_concepts.length) {
     html += `<div class="schol-block"><h3>Key concepts</h3><div class="taglist">` +
-      it.key_concepts.map(k => `<a href="index.html?q=${encodeURIComponent(k)}">${esc(k)}</a>`).join("") + `</div></div>`;
+      it.key_concepts.map(k => `<a href="gallery.html?q=${encodeURIComponent(k)}">${esc(k)}</a>`).join("") + `</div></div>`;
   }
   if (Array.isArray(it.related_emblems) && it.related_emblems.length) {
     const links = it.related_emblems.map(n => {
@@ -72,12 +72,17 @@ async function boot() {
     ["Place", esc(it.place)],
     ["Era", `<a href="entity.html?type=era&key=${it.era}">${ERA_LABEL[it.era] || cap(it.era)}</a>`],
     ["Tradition", `<a href="entity.html?type=tradition&key=${it.tradition}">${cap(it.tradition)}</a>`],
+    ["Medium", it.medium ? `<a href="gallery.html?medium=${encodeURIComponent(it.medium)}">${cap(it.medium)}</a>` : ""],
     ["Language", esc(it.language)],
+    ["Repository", esc(it.repository)],
+    ["Shelfmark", esc(it.shelfmark)],
     ["Rights", esc(it.rights)],
   ].filter(r => r[1] && !/^\[PLACEHOLDER/.test(r[1]));
 
   const tags = (it.motifs || []).map(m =>
-    `<a href="index.html?motif=${encodeURIComponent(m)}">${cap(m)}</a>`).join("");
+    `<a href="gallery.html?motif=${encodeURIComponent(m)}">${cap(m)}</a>`).join("");
+  const figures = (it.figures || []).map(f =>
+    `<a href="gallery.html?figure=${encodeURIComponent(f)}">${esc(f)}</a>`).join("");
 
   const prov = it.provenance_url && !/PLACEHOLDER/.test(it.provenance_url)
     ? `<a class="btn" href="${esc(it.provenance_url)}" target="_blank" rel="noopener">View source ↗</a>` : "";
@@ -95,6 +100,7 @@ async function boot() {
       <h1>${esc(it.title)}</h1>
       <p class="work-line">${esc(it.creator)} · <em>${esc(it.work)}</em>${it.date ? " · " + esc(it.date) : ""}</p>
       <div class="taglist">${tags}</div>
+      ${figures ? `<p class="figures-line"><span class="figures-label">Depicted:</span> <span class="taglist inline">${figures}</span></p>` : ""}
       <table class="facts">${facts.map(r => `<tr><th>${r[0]}</th><td>${r[1]}</td></tr>`).join("")}</table>
       ${phNote}
       <div class="summary">${renderSummary(it.summary)}</div>

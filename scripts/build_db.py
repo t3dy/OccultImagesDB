@@ -30,6 +30,7 @@ SCHEMA = """
 DROP TABLE IF EXISTS works;
 DROP TABLE IF EXISTS images;
 DROP TABLE IF EXISTS image_motifs;
+DROP TABLE IF EXISTS image_figures;
 DROP TABLE IF EXISTS image_citations;
 DROP TABLE IF EXISTS image_relations;
 DROP TABLE IF EXISTS image_concepts;
@@ -49,11 +50,13 @@ CREATE TABLE works (
 CREATE TABLE images (
   id TEXT PRIMARY KEY, work_key TEXT, seq INTEGER, title TEXT, creator TEXT, date TEXT, century INTEGER,
   place TEXT, region TEXT, language TEXT, era TEXT, tradition TEXT, tier TEXT,
+  medium TEXT, repository TEXT, shelfmark TEXT,
   summary TEXT, summary_status TEXT, source_origin TEXT,
   rights TEXT, provenance_url TEXT, source_file TEXT, thumb TEXT, card TEXT,
   FOREIGN KEY(work_key) REFERENCES works(work_key)
 );
 CREATE TABLE image_motifs   (image_id TEXT, motif TEXT, FOREIGN KEY(image_id) REFERENCES images(id));
+CREATE TABLE image_figures  (image_id TEXT, figure TEXT, FOREIGN KEY(image_id) REFERENCES images(id));
 CREATE TABLE image_citations(image_id TEXT, ord INTEGER, text TEXT, url TEXT, FOREIGN KEY(image_id) REFERENCES images(id));
 CREATE TABLE image_relations(image_id TEXT, related_id TEXT, kind TEXT, FOREIGN KEY(image_id) REFERENCES images(id));
 CREATE TABLE image_concepts (image_id TEXT, concept TEXT, FOREIGN KEY(image_id) REFERENCES images(id));
@@ -86,6 +89,8 @@ CREATE INDEX idx_images_work ON images(work_key);
 CREATE INDEX idx_images_era ON images(era);
 CREATE INDEX idx_images_tradition ON images(tradition);
 CREATE INDEX idx_image_motifs ON image_motifs(motif);
+CREATE INDEX idx_image_figures ON image_figures(figure);
+CREATE INDEX idx_images_medium ON images(medium);
 """
 
 
@@ -110,14 +115,17 @@ def build():
 
     for it in catalog.get("items", []):
         cur.execute("""INSERT OR REPLACE INTO images VALUES
-            (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (
+            (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (
             it.get("id"), it.get("work_key"), it.get("seq"), it.get("title"), it.get("creator"),
             it.get("date"), it.get("century"), it.get("place"), it.get("region"), it.get("language"),
-            it.get("era"), it.get("tradition"), it.get("tier"), it.get("summary"),
+            it.get("era"), it.get("tradition"), it.get("tier"),
+            it.get("medium"), it.get("repository"), it.get("shelfmark"), it.get("summary"),
             it.get("summary_status"), it.get("source"), it.get("rights"), it.get("provenance_url"),
             it.get("source_file"), it.get("thumb"), it.get("card")))
         for m in it.get("motifs", []) or []:
             cur.execute("INSERT INTO image_motifs VALUES (?,?)", (it["id"], m))
+        for f in it.get("figures", []) or []:
+            cur.execute("INSERT INTO image_figures VALUES (?,?)", (it["id"], f))
         for i, c in enumerate(it.get("citations", []) or []):
             cur.execute("INSERT INTO image_citations VALUES (?,?,?,?)", (it["id"], i, c.get("text"), c.get("url")))
         for n in it.get("related_emblems", []) or []:

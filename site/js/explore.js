@@ -14,7 +14,9 @@ async function boot() {
   EX.entities = entities; EX.topics = topics.topics || []; EX.collections = collections.collections || [];
   const p = new URLSearchParams(location.search);
   if (p.get("tab")) EX.tab = p.get("tab");
+  if (p.get("q")) EX.q = p.get("q").toLowerCase().trim();
   wire();
+  if (EX.q) document.getElementById("q").value = EX.q;
   render();
 }
 
@@ -43,7 +45,7 @@ const coverThumb = imgs => imgs.length ? imgs[0].thumb : null;
 
 function render() {
   if (EX.q) return renderSearch();
-  ({ timeline: tabTimeline, eras: tabEras, regions: tabRegions, topics: tabTopics,
+  ({ timeline: tabTimeline, eras: tabEras, regions: tabRegions, topics: tabTopics, media: tabMedia,
      figures: tabFigures, collections: tabCollections, gallery: tabGallery }[EX.tab] || tabTimeline)();
 }
 
@@ -88,6 +90,15 @@ function tabTopics() {
       badge: t.status === "coming_soon" ? "coming soon" : null, soon: t.status === "coming_soon" });
   });
   grid("Browse by topic", "The domains of esoteric historiography — drawn from the project's research databases.", cards);
+}
+
+function tabMedia() {
+  const counts = {};
+  EX.items.forEach(i => { if (i.medium) counts[i.medium] = (counts[i.medium] || 0) + 1; });
+  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  grid("Browse by medium", "The material form of the image — manuscript, woodcut, engraving, painting, gem, object …",
+    sorted.map(([md]) => { const im = EX.items.filter(i => i.medium === md);
+      return catCard({ href: `gallery.html?medium=${encodeURIComponent(md)}`, thumb: coverThumb(im), title: CAP(md), count: im.length }); }));
 }
 
 function tabFigures() {

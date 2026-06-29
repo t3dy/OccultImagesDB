@@ -44,6 +44,11 @@ Entry schema (match EXACTLY; this is merged into the catalog):
  "era": "antiquity | medieval | renaissance | early_modern | modern",
  "tradition": "alchemy|hermetic|rosicrucian|kabbalah|goetia_grimoire|astrology|theosophy|reception|witchcraft|divination",
  "motifs": ["6-10 specific lowercase motif tags"],
+ "medium": "<ONE of: manuscript | woodcut | engraving | etching | drawing | painting | fresco | mosaic | sculpture | relief | gem | amulet | metalwork | ceramic | textile | print | diagram | photograph>",
+ "figures": ["named people / deities / personified beings DEPICTED in the image (e.g. Hermes Trismegistus, Saturn, Lilith, Solomon) — [] if none / purely diagrammatic"],
+ "repository": "holding institution, e.g. 'Österreichische Nationalbibliothek, Vienna' or 'British Museum' ([PLACEHOLDER: …] if unknown)",
+ "shelfmark": "manuscript/accession ref if applicable, e.g. 'cod. 2372, fol. 35r' (omit or '' if a printed book / not applicable)",
+ "iconclass": ["optional Iconclass notation code(s) if you confidently know one, e.g. '49E39'; [] if unsure"],
  "rights": "Public domain. Via Wikimedia Commons. (or the real CC BY + institution)",
  "provenance_url": "the source_url from the .prov.json",
  "summary": "Lede sentence.\n\n## Iconography\n<what is literally depicted>\n\n## Significance\n<historical/esoteric meaning, named scholarship, [[motif:x|links]] welcome>\n\n## For artists & game designers\n<one practical note>",
@@ -54,7 +59,9 @@ Entry schema (match EXACTLY; this is merged into the catalog):
 ```
 Rules: ≤ ~400 words per summary. NEVER invent facts, shelfmarks, or scholarship — if unsure, stay
 general and accurate. Date the entry to the surviving artwork. Use `[PLACEHOLDER: …]` only if truly
-unknown. Keep Latin/Greek titles italicized.
+unknown. Keep Latin/Greek titles italicized. **`medium`, `figures`, `repository` are REQUIRED** (they
+power the new relational facets); `shelfmark`/`iconclass` are best-effort. Derive `medium`/`repository`
+from the `.prov.json` (commons_title / artist / source) and the object itself — do not guess wildly.
 
 ### 4. Write your batch file
 Write everything to `data/overrides_batch_<WORKKEY>.json` as:

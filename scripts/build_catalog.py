@@ -33,6 +33,34 @@ THUMB_MAX = (400, 600)
 CARD_MAX = (1200, 1700)  # 1200px long edge keeps the published site under the Pages 1GB cap
 IMG_EXTS = (".jpg", ".jpeg", ".png", ".webp")
 
+# Controlled medium vocabulary (see docs/ONTOLOGY.md). Authored entries set `medium` directly;
+# this infers a sensible value for older/placeholder items so the medium facet covers the archive.
+MEDIA = ("manuscript", "woodcut", "engraving", "etching", "drawing", "painting", "fresco",
+         "mosaic", "sculpture", "relief", "gem", "amulet", "metalwork", "ceramic", "textile",
+         "print", "diagram", "photograph")
+
+
+def infer_medium(work_key, rec):
+    k = (work_key or "").lower()
+    mot = set(m.lower() for m in rec.get("motifs", []))
+    def any_in(coll, *xs): return any(x in coll for x in xs)
+    if any_in(mot, "woodcut"): return "woodcut"
+    if any_in(mot, "engraving", "engraved"): return "engraving"
+    if any_in(mot, "mosaic") or k == "ancient_zodiac": return "mosaic"
+    if any_in(mot, "fresco"): return "fresco"
+    if any_in(k, "gem", "magical_gems"): return "gem"
+    if any_in(k, "incantation_bowls") or any_in(mot, "bowl"): return "ceramic"
+    if any_in(k, "amulet", "talisman"): return "amulet"
+    if any_in(k, "seals_sigils", "goetia_seals", "magical_characters", "cosmological_diagrams"): return "diagram"
+    if any_in(k, "architecture", "temple_cosmos", "cosmic_machines", "machines"): return "photograph"
+    if any_in(k, "magical_objects", "byzantine_jewish_amulets", "african_divination"): return "metalwork"
+    if any_in(k, "bosch_bruegel", "classical_reception", "biblical_magic", "alchemist_laboratory",
+              "lycanthropy", "saint_cyprian", "fortune_fate", "neoplatonism"): return "painting"
+    if any_in(k, "voynich", "grimoire", "codices", "mesoamerican", "tree_of_life", "sefer_yetzirah",
+              "islamicate", "lettrism", "prophecy", "jewish_mysticism") or k.startswith("medieval"): return "manuscript"
+    return "engraving" if rec.get("era") in ("renaissance", "early_modern", "modern") else \
+        ("manuscript" if rec.get("era") == "medieval" else "relief")
+
 ROMAN = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
          "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX",
          "XXI", "XXII", "XXIII", "XXIV", "XXV", "XXVI", "XXVII", "XXVIII", "XXIX", "XXX",
@@ -190,6 +218,9 @@ def main():
                 rec.update(ov)
                 if ov.get("summary"):
                     rec["summary_status"] = "authored"
+            rec.setdefault("figures", [])
+            if not rec.get("medium"):
+                rec["medium"] = infer_medium(src["key"], rec)
             records.append(rec)
             count += 1
         works.append({

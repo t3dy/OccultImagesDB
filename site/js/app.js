@@ -1,7 +1,7 @@
 /* Occult Image DB — gallery */
 const state = {
   items: [], works: [], filtered: [],
-  facets: { era: new Set(), tradition: new Set(), work: new Set(), motif: new Set() },
+  facets: { era: new Set(), tradition: new Set(), medium: new Set(), work: new Set(), figures: new Set(), motif: new Set() },
   q: "", sort: "chrono", showScans: false, rendered: 0, PAGE: 60,
 };
 const ERA_LABEL = { antiquity: "Antiquity", medieval: "Medieval", renaissance: "Renaissance", early_modern: "Early modern", modern: "Modern" };
@@ -20,11 +20,12 @@ async function boot() {
   state.works = data.works || [];
   const workTitle = Object.fromEntries(state.works.map(w => [w.key, w.title]));
   state.items.forEach(it => { it._work = workTitle[it.work_key] || it.work; });
-  // deep links from item pages: ?work=key  ?motif=x  ?era=x  ?tradition=x  ?q=text
+  // deep links from item pages: ?work=key  ?motif=x  ?era=x  ?tradition=x  ?medium=x  ?figure=Name  ?q=text
   const p = new URLSearchParams(location.search);
-  for (const f of ["work", "motif", "era", "tradition"]) {
+  for (const f of ["work", "motif", "era", "tradition", "medium"]) {
     const v = p.get(f); if (v && state.facets[f]) state.facets[f].add(v);
   }
+  if (p.get("figure")) state.facets.figures.add(p.get("figure"));
   if (p.get("q")) { state.q = p.get("q").toLowerCase(); }
   if (p.get("scan")) state.showScans = true;
   buildFacets();
@@ -49,8 +50,10 @@ function buildFacets() {
   renderChips("era", facetCounts("era", i => [i.era]), v => ERA_LABEL[v] || cap(v),
     (a, b) => (ERA_ORDER[a[0]] ?? 9) - (ERA_ORDER[b[0]] ?? 9));
   renderChips("tradition", facetCounts("tradition", i => [i.tradition]), cap, byCountDesc);
+  renderChips("medium", facetCounts("medium", i => [i.medium]), cap, byCountDesc);
   renderChips("work", facetCounts("work", i => [i.work_key]),
     k => (state.works.find(w => w.key === k) || {}).title || k, byCountDesc);
+  renderChips("figures", facetCounts("figures", i => i.figures || []), s => s, byCountDesc);
   renderChips("motif", facetCounts("motif", i => i.motifs || []), cap, byCountDesc);
 }
 const byCountDesc = (a, b) => b[1] - a[1];
@@ -89,10 +92,11 @@ function clearAll() {
 }
 
 function matches(it) {
-  for (const facet of ["era", "tradition", "work", "motif"]) {
+  for (const facet of ["era", "tradition", "medium", "work", "figures", "motif"]) {
     const sel = state.facets[facet]; if (!sel.size) continue;
     if (facet === "work") { if (!sel.has(it.work_key)) return false; }
     else if (facet === "motif") { if (![...sel].every(m => (it.motifs || []).includes(m))) return false; }
+    else if (facet === "figures") { if (![...sel].every(f => (it.figures || []).includes(f))) return false; }
     else if (!sel.has(it[facet])) return false;
   }
   if (state.q) {
