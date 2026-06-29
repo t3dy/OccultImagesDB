@@ -1,0 +1,453 @@
+{
+ "_work": {
+  "key": "paracelsian_elementals",
+  "short_id": "PARC",
+  "title": "Paracelsus & the Four Elementals (1538–1909)",
+  "creator": "various",
+  "date": "1538–1909",
+  "century": 17,
+  "place": "German lands & Western Europe",
+  "region": "German lands",
+  "language": "Latin, German & French",
+  "era": "early_modern",
+  "tradition": "alchemy",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "paracelsian_elementals",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Paracelsus",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "four elementals",
+   "salamander in flames",
+   "undine water nymph",
+   "sylph of the air",
+   "gnome of the mines",
+   "homunculus",
+   "tria prima",
+   "microcosm-man"
+  ],
+  "blurb": "Theophrastus von Hohenheim, called Paracelsus, recast Renaissance medicine around the alchemical body and peopled the cosmos with four orders of elemental beings — gnomes of earth, undines of water, sylphs of air, salamanders of fire. This collection gathers his contested portraits, the elementals as they pass from the Paracelsian *Liber de nymphis* into Romantic illustration, and the allied iconography of spagyric medicine: Croll's *Basilica chymica*, della Porta's doctrine of signatures, Fludd's microcosm and Speculum, Agricola's mine-spirits, and the zodiac/vein man of astrological surgery."
+ },
+ "entries": [
+  {
+   "id": "paracelsian_elementals__paracelsus-hirschvogel",
+   "title": "Portrait of Paracelsus (after Augustin Hirschvogel, 1567)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "After Augustin Hirschvogel (print: heirs of Arnold Birckmann)",
+   "date": "1567",
+   "place": "Cologne / German lands",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": ["paracelsus portrait", "physician", "fur collar", "latin motto", "renaissance bust", "alterius non sit", "hohenheim", "engraving"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Paracelsus_1567.jpg",
+   "summary": "A widely-copied bust portrait of Paracelsus descending from Augustin Hirschvogel's 1538 likeness, the closest the iconography comes to a life portrait.\n\n## Iconography\nThe physician is shown in three-quarter view, broad-faced and beardless, in a heavy fur-collared coat. Surrounding text gives his name and age and frequently the motto *Alterius non sit qui suus esse potest* — \"Let no man belong to another who can belong to himself.\"\n\n## Significance\nNo undisputed life portrait of Paracelsus survives; the Hirschvogel type, reissued by printers such as the heirs of Arnold Birckmann, became the canonical face transmitted through later editions of his works. It anchors the visual identity of the man who renamed himself \"greater than Celsus\" and reframed disease around the chemistry of [[motif:tria-prima|salt, sulphur and mercury]]. This is the source-type distinct from the eighteenth-century Cooper engraving.\n\n## For artists & game designers\nThe definitive Renaissance-physician silhouette: fur collar, level gaze, lapidary Latin motto — instant alchemist-mentor portrait.",
+   "citations": [
+    {"text": "Charles Webster, *Paracelsus: Medicine, Magic and Mission at the End of Time* (2008)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Paracelsus_1567.jpg"}
+   ],
+   "key_concepts": ["Paracelsus", "Augustin Hirschvogel", "physician portrait", "Renaissance medicine"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__paracelsus-massys",
+   "title": "Portrait of Paracelsus (after Quentin Massys)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "After Quinten Metsys (Massys)",
+   "date": "16th century (after a lost original, before 1530)",
+   "place": "Low Countries / German lands",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": ["paracelsus portrait", "physician", "painted likeness", "fur coat", "northern renaissance", "hands", "ring", "oil portrait"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Paracelsus.jpg",
+   "summary": "A painted half-length of Paracelsus traditionally associated with Quentin Massys, one of the richer painted versions of his likeness.\n\n## Iconography\nThe physician sits in a fur-trimmed gown, the hands prominent and a ring on one finger, the face fuller and more careworn than the engraved Hirschvogel type. The painterly treatment gives flesh, fabric and shadow rather than the linear schematism of the prints.\n\n## Significance\nThe attribution to Massys and the dating are debated, and the picture is best understood as part of the post-mortem portrait tradition that shaped how the sixteenth and seventeenth centuries pictured the founder of [[motif:tria-prima|chymical medicine]]. It complements the engraved portraits by giving the reformer a human, almost melancholic presence.\n\n## For artists & game designers\nUse for a warmer, weathered version of the alchemist — less icon, more tired practitioner with expressive hands.",
+   "citations": [
+    {"text": "Andrew Weeks, *Paracelsus: Speculative Theory and the Crisis of the Early Reformation* (1997)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Paracelsus.jpg"}
+   ],
+   "key_concepts": ["Paracelsus", "Quentin Massys", "painted portrait", "Northern Renaissance"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__paracelsus-tintoretto",
+   "title": "Paracelsus, half-length, after Tintoretto (engr. F. Chauveau)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "François Chauveau (engraver), after Tintoretto",
+   "date": "17th century (engraving)",
+   "place": "France / after a Venetian original",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": ["paracelsus portrait", "ad vivum", "engraving", "venetian source", "half-length", "physician", "inscription", "baroque print"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Paracelsus,_half-length_portrait_painted_from_life_by_Tintoretto)_-_I._Tintoret_ad_vivum_pinxit_;_F._Chaveau,_sculpsit_LCCN92517454.jpg",
+   "summary": "A seventeenth-century French engraving by François Chauveau claiming descent from a Tintoretto painting \"from life,\" lettered *I. Tintoret ad vivum pinxit*.\n\n## Iconography\nA half-length figure in dark robes, turned slightly, framed by an engraved inscription naming both the supposed Venetian painter and the French engraver. The print's authority rests entirely on the *ad vivum* (\"from the life\") claim in its lettering.\n\n## Significance\nThe Tintoretto attribution is almost certainly a later fiction lending prestige to the portrait, a common practice in the seventeenth-century print trade. As [[motif:reception|reception]], it shows how Paracelsus's fame had spread far beyond German lands, with French and Italian names attached to multiply its market value.\n\n## For artists & game designers\nA study in the manufactured pedigree — a portrait whose caption insists on an eyewitness origin it never had.",
+   "citations": [
+    {"text": "Library of Congress, Prints & Photographs (LCCN 92517454)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Paracelsus,_half-length_portrait_painted_from_life_by_Tintoretto)_-_I._Tintoret_ad_vivum_pinxit_;_F._Chaveau,_sculpsit_LCCN92517454.jpg"}
+   ],
+   "key_concepts": ["Paracelsus", "François Chauveau", "ad vivum portrait", "print reception"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__paracelsus-engraving2",
+   "title": "Paracelsus (Balthasar Jenichen, after Hirschvogel)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Balthasar Jenichen, after the 1538 Augustin Hirschvogel portrait",
+   "date": "16th century",
+   "place": "Nuremberg / German lands",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": ["paracelsus portrait", "engraving", "fur collar", "latin inscription", "wellcome", "hohenheim", "physician", "nuremberg print"],
+   "rights": "CC BY 4.0, Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Aureolus_Theophrastus_Bombastus_von_Hohenheim_(Paracelsus)_Wellcome_L0043926.jpg",
+   "summary": "A sixteenth-century engraving by Balthasar Jenichen reworking the Hirschvogel likeness of \"Aureolus Theophrastus Bombastus von Hohenheim, called Paracelsus.\"\n\n## Iconography\nThe full Latinised name heads the plate; the physician appears in the familiar fur collar, the linework crisper and the framing more formal than the Birckmann issue. Engraved Latin verses typically surround the bust.\n\n## Significance\nJenichen's plate is one of the proliferating Nuremberg-region reissues that fixed the Hirschvogel face as the standard image of the reformer through the later sixteenth century. Held by the Wellcome Collection, it is released under CC BY rather than as a bare public-domain scan, and is recorded accordingly.\n\n## For artists & game designers\nA sharper-line alternative to the Birckmann portrait, good for a crisp engraved \"founder's plate\" frontispiece.",
+   "citations": [
+    {"text": "Wellcome Collection, *Iconographic Collections* (L0043926)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Aureolus_Theophrastus_Bombastus_von_Hohenheim_(Paracelsus)_Wellcome_L0043926.jpg"}
+   ],
+   "key_concepts": ["Paracelsus", "Balthasar Jenichen", "engraved portrait", "Wellcome Collection"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__paracelsus-monument",
+   "title": "Paracelsus-Denkmal (Paracelsus Monument, Salzburg)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Photograph by 'Eweht' (monument: 19th-century sculpture)",
+   "date": "monument 19th c.; photograph modern",
+   "place": "Salzburg, Austria",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["paracelsus statue", "monument", "salzburg", "commemoration", "stone figure", "physician", "reception", "public memorial"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Paracelsus-Denkmal.JPG",
+   "summary": "A photograph of the Paracelsus monument at Salzburg, where the physician died in 1541.\n\n## Iconography\nA standing stone figure of Paracelsus on a pedestal, robed and contemplative, set in a public square. The sculpture commemorates the city's claim on the wandering physician, who ended his life there.\n\n## Significance\nThe Denkmal is a document of [[motif:reception|reception]] rather than of the man himself: nineteenth-century civic culture reclaimed Paracelsus as a heroic forerunner of modern medicine and chemistry, monumentalising a figure once condemned as a heretic and charlatan. It marks the transformation of an outsider into local patrimony.\n\n## For artists & game designers\nUseful as a \"legacy\" beat — the rebel alchemist later cast in stone by the city that once rejected him.",
+   "citations": [
+    {"text": "Charles Webster, *Paracelsus: Medicine, Magic and Mission at the End of Time* (2008)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Paracelsus-Denkmal.JPG"}
+   ],
+   "key_concepts": ["Paracelsus", "Salzburg monument", "reception", "commemoration"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__salamander-flames",
+   "title": "Salamander in the Fire",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Anonymous",
+   "date": "early modern (reproduced later)",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": ["salamander", "fire elemental", "flames", "fire", "alchemical beast", "incombustible", "element of fire", "emblem"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Salamander_in_fire.jpg",
+   "summary": "The salamander unharmed amid flames, emblem of the fire-elemental and of matter that survives the furnace.\n\n## Iconography\nA lizard-like salamander stands or coils within a bed of fire, its body untouched by the blaze that surrounds it. The image fuses the classical belief that the salamander was cold enough to quench fire with the alchemical reading of fire-dwelling spirit.\n\n## Significance\nIn the Paracelsian scheme of the *Liber de nymphis*, the salamander is the being proper to the element of [[motif:fire|fire]], as the gnome is to earth and the undine to water. The motif also carries into alchemy as the spirit that endures calcination, and into heraldry and emblem-books as a symbol of constancy in trial.\n\n## For artists & game designers\nThe canonical fire-spirit: a creature defined entirely by the flames it ignores.",
+   "citations": [
+    {"text": "Paracelsus, *Liber de nymphis, sylphis, pygmaeis et salamandris* (c. 1566)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Salamander_in_fire.jpg"}
+   ],
+   "key_concepts": ["salamander", "elemental of fire", "Liber de nymphis", "incombustibility"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__salamander-emblem",
+   "title": "Salamander (from *The Story of Alchemy*)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "M. M. Pattison Muir (after an early-modern source)",
+   "date": "1902 (after earlier emblem)",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "alchemy",
+   "motifs": ["salamander", "fire elemental", "flames", "alchemical emblem", "book illustration", "element of fire", "spirit of fire", "woodcut style"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Salamander_from_The_Story_of_Alchemy_and_the_Beginnings_of_Chemistry.jpg",
+   "summary": "A salamander emblem reproduced in Pattison Muir's *The Story of Alchemy and the Beginnings of Chemistry* (1902), transmitting an early-modern alchemical image to a popular readership.\n\n## Iconography\nA salamander shown frontally amid flame, in the stylised manner of a woodcut emblem. The figure is presented as an illustrative cut explaining the alchemists' fire-spirit to modern readers.\n\n## Significance\nThe plate is a piece of early-twentieth-century [[motif:reception|reception]] that kept the Paracelsian [[motif:fire|fire-elemental]] in circulation, bridging the gap between the emblem-books and the modern occult revival. It exemplifies how popular histories of alchemy recycled and standardised the four-elemental iconography.\n\n## For artists & game designers\nA clean, legible salamander emblem suitable as an icon or sigil for a fire faction.",
+   "citations": [
+    {"text": "M. M. Pattison Muir, *The Story of Alchemy and the Beginnings of Chemistry* (1902)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Salamander_from_The_Story_of_Alchemy_and_the_Beginnings_of_Chemistry.jpg"}
+   ],
+   "key_concepts": ["salamander", "elemental of fire", "alchemy reception", "emblem"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__salamander-francis",
+   "title": "Salamander Device (BnF Français 934, f. 5v)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Noël Bellemare (illuminator)",
+   "date": "c. 1530s",
+   "place": "Paris, France",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["salamander", "royal device", "francis i", "flames", "illumination", "manuscript", "fire emblem", "heraldry"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:BnF_Fran%C3%A7ais_934_f5v._Erasme,_Paraphrase_sur_l%27Evangile_selon_saint_Matthieu.jpg",
+   "summary": "An illuminated leaf from a French Erasmus manuscript (BnF Français 934) bearing the flaming salamander, the personal device of King Francis I.\n\n## Iconography\nA salamander surrounded by flames appears within the richly bordered page of Erasmus's *Paraphrase* on Matthew, illuminated by Noël Bellemare. The crowned salamander was Francis I's emblem, glossed by the motto *Nutrisco et extinguo* — \"I nourish [good fire] and extinguish [bad].\"\n\n## Significance\nThe leaf shows the salamander circulating as a royal-imperial fire-symbol parallel to its alchemical and Paracelsian life as the [[motif:fire|elemental of fire]]. The same creature thus served simultaneously as monarchic propaganda and as a sign in the natural-philosophical imagination of the period.\n\n## For artists & game designers\nA luxury-manuscript treatment of the fire-spirit — gold border, royal flames — for a courtly rather than laboratory register.",
+   "citations": [
+    {"text": "Bibliothèque nationale de France, MS Français 934, f. 5v."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:BnF_Fran%C3%A7ais_934_f5v._Erasme,_Paraphrase_sur_l%27Evangile_selon_saint_Matthieu.jpg"}
+   ],
+   "key_concepts": ["salamander", "Francis I device", "elemental of fire", "manuscript illumination"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__undine",
+   "title": "Undine (book illustration)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Anonymous",
+   "date": "19th century",
+   "place": "German lands",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["undine", "water elemental", "water nymph", "soul", "romantic illustration", "element of water", "ensoulment", "feminine spirit"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:MU_KPB_013_Undine_1.jpg",
+   "summary": "A Romantic-era illustration of Undine, the water-nymph who gains a soul through human love, descendant of the Paracelsian undine.\n\n## Iconography\nA youthful female figure by or in water, slight and otherworldly, in the sentimental idiom of nineteenth-century book illustration. The setting of stream or shore marks her as a being of the watery element.\n\n## Significance\nUndine derives from Paracelsus's *Liber de nymphis*, where the undine is the soulless water-being who can acquire an immortal soul by marrying a human. Friedrich de la Motte Fouqué's 1811 novella made the figure a Romantic archetype, and this illustration belongs to the long [[motif:reception|reception]] that carried the [[motif:water|water-elemental]] from occult medicine into popular literature.\n\n## For artists & game designers\nThe template water-spirit: ethereal, soul-seeking, bound to a body of water.",
+   "citations": [
+    {"text": "Paracelsus, *Liber de nymphis, sylphis, pygmaeis et salamandris* (c. 1566)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:MU_KPB_013_Undine_1.jpg"}
+   ],
+   "key_concepts": ["undine", "elemental of water", "ensoulment", "Liber de nymphis"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__undine-fouque",
+   "title": "Undine (Fouqué, 1811 edition)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Illustration to Friedrich de la Motte Fouqué's *Undine*",
+   "date": "1811",
+   "place": "Berlin / German lands",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["undine", "water elemental", "fouque", "romantic novella", "water nymph", "element of water", "soul", "frontispiece"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fouque_undine_1811_0017_800px.jpg",
+   "summary": "An illustration from the 1811 first edition of Friedrich de la Motte Fouqué's *Undine*, the work that fixed the water-elemental in the Romantic imagination.\n\n## Iconography\nA narrative scene from the novella, the water-spirit Undine among human figures in a landscape, rendered in the linear engraving style of the period. The plate accompanies the tale of her marriage, ensoulment and tragic return to the waters.\n\n## Significance\nFouqué explicitly drew on Paracelsus, and his *Undine* became the conduit through which the Paracelsian [[motif:water|water-elemental]] entered nineteenth-century opera, ballet and painting. This first-edition plate documents the precise moment of that literary crystallisation.\n\n## For artists & game designers\nA period-accurate Romantic illustration of the water-spirit's love and undoing.",
+   "citations": [
+    {"text": "Friedrich de la Motte Fouqué, *Undine* (Berlin, 1811)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fouque_undine_1811_0017_800px.jpg"}
+   ],
+   "key_concepts": ["undine", "Fouqué", "elemental of water", "Romantic reception"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__nixe",
+   "title": "Nixen & Syrenen (Praetorius, 1666)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Thomas Cross (engraver), in Johannes Praetorius",
+   "date": "1666",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["nixe", "water elemental", "siren", "water spirit", "early modern engraving", "element of water", "folklore", "mermaid"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Praetorius(1666)-p0000-13Nixen%26Syrenen.jpg",
+   "summary": "A 1666 engraving of nixes and sirens from a compendium by Johannes Praetorius, showing the water-spirits as the early-modern German imagination pictured them.\n\n## Iconography\nWater-beings — nixes and sirens — depicted in or beside water, partly human and partly aquatic, in a small densely-worked engraving by Thomas Cross. The image catalogues the folkloric kin of the Paracelsian undine.\n\n## Significance\nPraetorius's marvel-collections gathered the folk water-spirits (*Nixen*) alongside learned matter, and they sit close to the Paracelsian undine of the [[motif:water|water-element]]. The plate shows how the technical elemental of occult medicine overlapped with vernacular belief in nixes and mermaids.\n\n## For artists & game designers\nA cabinet-of-curiosities take on water-spirits — folkloric, plural, slightly grotesque.",
+   "citations": [
+    {"text": "Johannes Praetorius, marvel-compendium (1666)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Praetorius(1666)-p0000-13Nixen%26Syrenen.jpg"}
+   ],
+   "key_concepts": ["nixe", "elemental of water", "Praetorius", "folklore"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__wassernixe",
+   "title": "Die Wassernixe (Otto Ubbelohde)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Otto Ubbelohde",
+   "date": "early 20th century",
+   "place": "German lands",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["water nixe", "water elemental", "fairy tale", "well", "grimm", "element of water", "illustration", "folklore"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Otto_Ubbelohde_-_Die_Wassernixe_2.jpg",
+   "summary": "Otto Ubbelohde's illustration of *Die Wassernixe* (\"The Water-Nixie\"), one of his celebrated drawings for the fairy tales of the Brothers Grimm.\n\n## Iconography\nA water-nixie figure at a well or spring, in Ubbelohde's clean Jugendstil-inflected line. The scene illustrates the Grimm tale in which two children fall down a well into the realm of the water-spirit.\n\n## Significance\nUbbelohde's Grimm illustrations are among the most reproduced German fairy-tale images, and the *Wassernixe* keeps the [[motif:water|water-elemental]] alive in the folk register that runs parallel to the learned Paracelsian undine. It marks the elemental's full naturalisation into popular German storytelling.\n\n## For artists & game designers\nA spare, elegant well-and-water-spirit composition in an early-modern-revival line style.",
+   "citations": [
+    {"text": "Jacob & Wilhelm Grimm, *Kinder- und Hausmärchen*, illus. Otto Ubbelohde (1907–09)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Otto_Ubbelohde_-_Die_Wassernixe_2.jpg"}
+   ],
+   "key_concepts": ["Wassernixe", "elemental of water", "Otto Ubbelohde", "Grimm tales"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__sylphe",
+   "title": "La Sylphe (air-elemental)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Johnson & Berry (print)",
+   "date": "19th century",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["sylph", "air elemental", "winged figure", "aerial spirit", "element of air", "feminine spirit", "lightness", "print"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:La_Sylphe_002.jpg",
+   "summary": "A nineteenth-century print of a sylph, the airy elemental of the Paracelsian scheme as refashioned by Romantic and theatrical taste.\n\n## Iconography\nA light, often winged female figure suspended in air, the embodiment of weightlessness and grace. The aerial pose and diaphanous treatment mark her as the being of the element of air.\n\n## Significance\nThe sylph is Paracelsus's air-elemental from the *Liber de nymphis*; the *Comte de Gabalis* (1670) and later the ballet *La Sylphide* (1832) made it a byword for ethereal femininity. The figure shows how the [[motif:air|air-element]] of occult cosmology was absorbed into salon and stage iconography.\n\n## For artists & game designers\nThe definitive air-spirit silhouette: winged, weightless, perpetually rising.",
+   "citations": [
+    {"text": "Abbé de Villars, *Comte de Gabalis* (1670)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:La_Sylphe_002.jpg"}
+   ],
+   "key_concepts": ["sylph", "elemental of air", "Comte de Gabalis", "Romantic reception"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__gnome",
+   "title": "Gnome / Earth-spirit (book illustration, 1889)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Anonymous (Internet Archive Book Images)",
+   "date": "1889",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["gnome", "earth elemental", "dwarf", "subterranean", "treasure", "element of earth", "fairy tale", "mine"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Stories_for_the_household_(1889)_(14729706626).jpg",
+   "summary": "A late-nineteenth-century fairy-tale illustration of a gnome, the earth-elemental that descends from the Paracelsian pygmy of the mines.\n\n## Iconography\nA small, bearded subterranean figure, the type of the gnome or dwarf, drawn for a household story-collection. The diminutive form and earthen setting mark the being of the element of earth.\n\n## Significance\nParacelsus's *Liber de nymphis* names the gnome (pygmy) as the elemental who moves through solid earth as fish move through water, guarding mineral wealth. Folklore fused this with the mining *Bergmännlein* and *kobold*, and the [[motif:earth|earth-elemental]] became the familiar storybook gnome seen here.\n\n## For artists & game designers\nThe archetypal earth-spirit: small, bearded, keeper of underground treasure.",
+   "citations": [
+    {"text": "Paracelsus, *Liber de nymphis, sylphis, pygmaeis et salamandris* (c. 1566)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Stories_for_the_household_(1889)_(14729706626).jpg"}
+   ],
+   "key_concepts": ["gnome", "elemental of earth", "Bergmännlein", "mining folklore"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__agricola-de-re-metallica",
+   "title": "*De re metallica* (Agricola, 1556 — title illustration)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Georg Agricola (Georgius Agricola)",
+   "date": "1556 (translation reprint)",
+   "place": "Saxony / German lands",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": ["mining", "metallurgy", "earth element", "subterranean labour", "mine spirits", "woodcut", "saxony", "ore"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Georgius_Agricola_De_re_metallica,_tr._from_the_1st_Latin_ed._of_1556,_with_biographical_introduction,_annotations_and_appendices_upon_the_development_of_mining_methods,_metallurgical_processes,_BHL20212975.jpg",
+   "summary": "A page from Georg Agricola's *De re metallica* (1556), the foundational treatise on mining and metallurgy whose underground world is haunted by mine-spirits.\n\n## Iconography\nA densely illustrated technical leaf showing mining and ore-processing, in the meticulous woodcut style that made the book the standard manual of the metal trades. The plate belongs to the celebrated series documenting shafts, pumps, furnaces and smelting.\n\n## Significance\nAgricola described the *daemones metallici* — the kobolds and *Bergmännlein* believed to inhabit mines — even as he sought to systematise mining as a rational craft. His subterranean realm is the empirical counterpart to the Paracelsian [[motif:earth|earth-elemental]], the gnome who lives within the rock.\n\n## For artists & game designers\nAuthentic Renaissance mining apparatus and shaft architecture for any subterranean, ore-rich setting.",
+   "citations": [
+    {"text": "Georgius Agricola, *De re metallica* (Basel, 1556)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Georgius_Agricola_De_re_metallica,_tr._from_the_1st_Latin_ed._of_1556,_with_biographical_introduction,_annotations_and_appendices_upon_the_development_of_mining_methods,_metallurgical_processes,_BHL20212975.jpg"}
+   ],
+   "key_concepts": ["Georg Agricola", "De re metallica", "mine spirits", "metallurgy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__agricola-miners",
+   "title": "*De re metallica* — Book VIII, Plate 28 (smelting)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Georg Agricola (Georgius Agricola)",
+   "date": "1556",
+   "place": "Saxony / German lands",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": ["mining", "smelting", "furnace", "metallurgy", "earth element", "woodcut", "ore processing", "labour"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:De_re_metallica_%E2%80%93_Buch_VIII,_Tafel_28.jpg",
+   "summary": "Plate 28 from Book VIII of Agricola's *De re metallica*, showing the processing of ore in the German mining country.\n\n## Iconography\nWorkers tend furnaces and apparatus for crushing, washing and smelting ore, each tool labelled in the manner of a technical manual. The woodcut renders the labour of the mine and smelter with documentary precision.\n\n## Significance\nThe smelting and assaying operations pictured here are the practical chemistry from which Paracelsian [[motif:tria-prima|spagyric medicine]] borrowed its methods of separation and purification. Agricola's empirical underworld is the rational face of the same earth that folklore peopled with kobolds and the gnome-elemental.\n\n## For artists & game designers\nDetailed furnace and ore-washing setups — reference for a working alchemical or industrial smelting scene.",
+   "citations": [
+    {"text": "Georgius Agricola, *De re metallica*, Book VIII (Basel, 1556)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:De_re_metallica_%E2%80%93_Buch_VIII,_Tafel_28.jpg"}
+   ],
+   "key_concepts": ["Georg Agricola", "smelting", "metallurgy", "spagyric method"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__basilica-chymica",
+   "title": "*Basilica chymica* (Oswald Croll)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Oswald Croll (Crollius)",
+   "date": "1609 (first published)",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": ["spagyric medicine", "chymistry", "paracelsian pharmacy", "frontispiece", "tria prima", "chemical remedies", "title page", "physicians"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Basilica_chymica_Volume_I_-_DPLA_-_74ee4f9654a45ee459e55b55f1789488_(page_2).jpg",
+   "summary": "A leaf from Oswald Croll's *Basilica chymica* (1609), the most influential textbook of Paracelsian chemical medicine.\n\n## Iconography\nAn early-modern printed page from the great Paracelsian pharmacopoeia, whose famous engraved frontispiece ranges portraits of chymical sages — Hermes, Geber, Morienus, Roger Bacon, Raymund Lull, Paracelsus — around the title. The plate presents the lineage of [[motif:alchemy|chymical]] authority Croll claimed.\n\n## Significance\nCroll codified the preparation of chemical remedies on Paracelsian principles, fixing the [[motif:tria-prima|tria prima]] of salt, sulphur and mercury at the centre of pharmacy. His *praefatio admonitoria* on the doctrine of signatures made the book a foundational text of spagyric medicine across seventeenth-century Europe.\n\n## For artists & game designers\nThe model alchemical-medicine title page — a hall of sages framing a chemical doctrine.",
+   "citations": [
+    {"text": "Oswald Croll, *Basilica chymica* (1609)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Basilica_chymica_Volume_I_-_DPLA_-_74ee4f9654a45ee459e55b55f1789488_(page_2).jpg"}
+   ],
+   "key_concepts": ["Oswald Croll", "Basilica chymica", "spagyric medicine", "tria prima"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__phytognomonica",
+   "title": "*Phytognomonica* (della Porta, 1588)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Giovan Battista della Porta",
+   "date": "1588",
+   "place": "Naples, Italy",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": ["doctrine of signatures", "herbal", "plant forms", "natural magic", "correspondence", "phytognomy", "title page", "remedies"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Della_Porta,_Giovan_Battista_%E2%80%93_Phytognomonica,_1588_%E2%80%93_BEIC_6468319.jpg",
+   "summary": "A page from Giovan Battista della Porta's *Phytognomonica* (1588), a key text of the doctrine of signatures.\n\n## Iconography\nAn early-modern printed leaf from the treatise that reads the curative virtue of plants from their outward forms — leaves shaped like organs, roots like limbs. The book systematises the visual correspondences between herb and body.\n\n## Significance\nThe doctrine of signatures held that God marked each plant with a sign of its medical use; della Porta's natural-magic version paralleled the Paracelsian *signatura rerum* later elaborated by Croll and Jakob Böhme. It grounded [[motif:correspondence|cosmic correspondence]] in a practical pharmacology of resemblance, distinct from the Crollius signatures held elsewhere.\n\n## For artists & game designers\nVisual logic for a magic system where an object's shape declares its power.",
+   "citations": [
+    {"text": "Giovan Battista della Porta, *Phytognomonica* (Naples, 1588)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Della_Porta,_Giovan_Battista_%E2%80%93_Phytognomonica,_1588_%E2%80%93_BEIC_6468319.jpg"}
+   ],
+   "key_concepts": ["doctrine of signatures", "della Porta", "natural magic", "signatura rerum"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__fludd-microcosm",
+   "title": "Casting Horoscopes / Microcosm (Fludd, *Utriusque Cosmi Historia*)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Robert Fludd",
+   "date": "1617–1621",
+   "place": "Oppenheim / German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["microcosm-man", "macrocosm", "astrology", "horoscope", "correspondence", "human figure", "engraving", "cosmic harmony"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Science_of_casting_horoscopes,_from_Utriusque_Cosmi_Historia,_by_Robert_Fludd.png",
+   "summary": "An engraving from Robert Fludd's *Utriusque Cosmi Historia* (1617–21) on the casting of horoscopes, expressing the microcosm-macrocosm doctrine central to Paracelsian medicine.\n\n## Iconography\nA diagrammatic plate relating the human figure to the heavens and the apparatus of astrological calculation. The design embodies the principle that the body mirrors the cosmos.\n\n## Significance\nFludd's vast two-cosmos history is the most ambitious visual statement of the [[motif:macrocosm-microcosm|microcosm-macrocosm]] correspondence that underwrote Paracelsian medicine, in which planets, metals and organs answer to one another. The Paracelsian physician read the patient as a small cosmos bound by sympathy to the great one.\n\n## For artists & game designers\nA ready cosmological diagram for a system where stars, metals and body parts are linked.",
+   "citations": [
+    {"text": "Robert Fludd, *Utriusque Cosmi … Historia* (Oppenheim, 1617–21)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Science_of_casting_horoscopes,_from_Utriusque_Cosmi_Historia,_by_Robert_Fludd.png"}
+   ],
+   "key_concepts": ["Robert Fludd", "microcosm-macrocosm", "astrological medicine", "Utriusque Cosmi Historia"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__integra-natura",
+   "title": "*Integrae Naturae Speculum* (Fludd, 1617)",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Robert Fludd",
+   "date": "1617",
+   "place": "Oppenheim / German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["nature personified", "great chain of being", "elements", "ape of nature", "divine hand", "cosmic hierarchy", "emanation", "engraving"],
+   "rights": "CC BY 4.0, Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Integrae_naturae_speculum,_Fludd,_1617_Wellcome_M0013244.jpg",
+   "summary": "Fludd's famous *Integrae Naturae Speculum, Artisque Imago* (1617), the \"Mirror of the Whole of Nature,\" diagramming the chain that links God, Nature and Art.\n\n## Iconography\nA nude female figure of Nature stands at the centre, a chain running from God's hand in the clouds to her wrist and from her other hand to an ape (Art) seated on the globe. Concentric rings ascend from the elements and minerals through plants, animals, humans, the spheres and the angelic hierarchies.\n\n## Significance\nThe plate is the canonical image of the [[motif:great-chain-of-being|great chain of being]] and of the Paracelsian-Hermetic idea that human Art continues the work of divine Nature. Nature is *natura naturans*, mediating God's power to the lower world — the cosmic frame within which the alchemist and physician labour. Held by the Wellcome Collection under CC BY.\n\n## For artists & game designers\nA complete cosmological hierarchy in one image — gods, nature, the elements, and humanity's imitative craft, all chained together.",
+   "citations": [
+    {"text": "Robert Fludd, *Utriusque Cosmi … Historia*, vol. I (Oppenheim, 1617)."},
+    {"text": "Wellcome Collection (M0013244); Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Integrae_naturae_speculum,_Fludd,_1617_Wellcome_M0013244.jpg"}
+   ],
+   "key_concepts": ["Robert Fludd", "Integra Natura", "great chain of being", "Nature personified"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "paracelsian_elementals__zodiac-man",
+   "title": "Zodiac Man / Vein Man",
+   "work": "Paracelsus & the Four Elementals (1538–1909)",
+   "creator": "Anonymous (National Library of Medicine)",
+   "date": "late medieval / early modern",
+   "place": "Europe",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["zodiac man", "melothesia", "bloodletting", "astrological medicine", "vein man", "zodiac signs", "human body", "humoral surgery"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:(Zodiac_or_Vein_man)_(4647709448).jpg",
+   "summary": "A Zodiac Man (homo signorum), mapping the twelve signs onto the body to guide bloodletting and surgery by the stars.\n\n## Iconography\nA frontal human figure with each zodiac sign placed over the body part it governs — Aries at the head, Pisces at the feet — often doubled as a \"vein man\" marking the points for phlebotomy. Lines or labels connect the celestial signs to the anatomy.\n\n## Significance\nThe doctrine of *melothesia* held that each sign rules a region of the body, so a physician should not bleed or cut a part while the moon stood in its sign. This astrological surgery was standard practice that Paracelsian medicine inherited and reinterpreted through its [[motif:macrocosm-microcosm|microcosm]] doctrine.\n\n## For artists & game designers\nA classic occult-medical chart: the body as a map of the heavens, ready for an astrological surgery mechanic.",
+   "citations": [
+    {"text": "National Library of Medicine, History of Medicine Division."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:(Zodiac_or_Vein_man)_(4647709448).jpg"}
+   ],
+   "key_concepts": ["zodiac man", "melothesia", "astrological medicine", "bloodletting"],
+   "summary_status": "authored"
+  }
+ ]
+}

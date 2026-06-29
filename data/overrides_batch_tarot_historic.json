@@ -1,0 +1,534 @@
+{
+ "_work": {
+   "key": "tarot_historic",
+   "short_id": "THIS",
+   "title": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "various",
+   "date": "c. 1450 – 1760",
+   "century": 16,
+   "place": "Italy and France",
+   "region": "Europe",
+   "language": "Italian",
+   "era": "renaissance",
+   "tradition": "divination",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "tarot_historic",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Tarot_cards",
+   "rights": "Public domain / CC BY-SA (per item). Via Wikimedia Commons.",
+   "motifs": ["tarot", "trionfi", "trumps", "visconti-sforza", "tarot de marseille", "mantegna tarocchi"],
+   "blurb": "Tarot in its first three centuries, before the late-eighteenth-century occultists reinvented it as a hermetic book. The set gathers the hand-painted gold-ground trumps of the Visconti-Sforza deck (Milan, c. 1450), the engraved didactic 'Mantegna Tarocchi' of Ferrara (c. 1465), the woodcut Tarot de Marseille in the patterns of Jean Dodal (Lyon, c. 1701) and Nicolas Conver (Marseille, 1760), tracing the iconography of the World, the Star, the Sun, the Moon, Death, the Devil, Justice and their fellows from courtly luxury object to mass-printed playing pack."
+ },
+ "entries": [
+  {
+   "id": "tarot_historic__visconti-world",
+   "title": "The World — Visconti-Sforza Tarot (XXI)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Bonifacio Bembo (attrib.)",
+   "date": "c. 1450",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "the world", "trump xxi", "city in a sphere", "putti", "gold ground", "trionfi", "visconti-sforza"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-21-world.jpg",
+   "summary": "The World, highest trump of the Visconti-Sforza tarot, hand-painted for the Milanese court c. 1450 and attributed to Bonifacio Bembo.\n\n## Iconography\nTwo winged *putti* hold aloft a great orb within which floats a walled city above a sea, crowned by a star. The image is laid over a tooled [[motif:gold ground|gold ground]] in the luxurious International Gothic manner. Unlike the later Marseille World, there is no dancing figure or four evangelist-beasts: the early card shows the cosmos itself, the earthly city held up beneath the heavens.\n\n## Significance\nThe Visconti-Sforza deck is among the earliest and finest surviving *trionfi*, a bespoke luxury pack made for the rulers of Milan long before any documented divinatory use. As the culminating trump, the World signified completion and the totality of creation. Its iconography of a city-in-a-sphere shows how malleable the early trump images were before printing standardised them; the climbing 'four beasts' World of the Marseille pattern is a later development.\n\n## For artists & game designers\nA 'completion / cosmos' capstone card distinct from the modern dancing-figure World — useful as a luxury, gold-ground alternative.",
+   "citations": [
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-21-world.jpg"}
+   ],
+   "key_concepts": ["Visconti-Sforza tarot", "The World", "trionfi", "Bonifacio Bembo"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__visconti-star",
+   "title": "The Star — Visconti-Sforza Tarot (XVII)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Bonifacio Bembo (attrib.)",
+   "date": "c. 1450",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "the star", "trump xvii", "eight-pointed star", "woman", "gold ground", "trionfi", "visconti-sforza"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-17-star.jpg",
+   "summary": "The Star, trump XVII of the Visconti-Sforza tarot, a hand-painted Milanese card of c. 1450.\n\n## Iconography\nA robed woman stands holding a great eight-pointed [[motif:eight-pointed star|star]] aloft in her hand, against the gold ground of the Visconti-Sforza workshop. The early Star lacks the nude water-pourer and stream of the later Marseille card; here she is a dignified courtly figure simply presenting the star.\n\n## Significance\nThe celestial trumps — Star, Moon, Sun — already form a sequence in the fifteenth-century deck, but their imagery is far simpler than the elaborate symbolism the Tarot de Marseille and, later, the occultists would attach. The Visconti card shows the trump in an early, unfixed state, before Court de Gébelin and Lévi read it as the pouring goddess of hope and astral influence. It is prime evidence for how much later 'tradition' was in fact eighteenth-century invention.\n\n## For artists & game designers\nA minimalist 'star' card — one figure, one star — useful where the busy Marseille composition would be too much.",
+   "citations": [
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-17-star.jpg"}
+   ],
+   "key_concepts": ["Visconti-Sforza tarot", "The Star", "celestial trumps", "trionfi"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__visconti-sun",
+   "title": "The Sun — Visconti-Sforza Tarot (XIX)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Bonifacio Bembo (attrib.)",
+   "date": "c. 1450",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "the sun", "trump xix", "putto", "radiant sun", "clouds", "gold ground", "visconti-sforza"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-19-sun.jpg",
+   "summary": "The Sun, trump XIX of the Visconti-Sforza tarot, hand-painted at Milan c. 1450.\n\n## Iconography\nA winged child (*putto*) floats among clouds bearing a great radiant [[motif:radiant sun|sun]] with a human face, set against the tooled gold ground. The composition differs sharply from the Marseille Sun, which shows two children before a wall beneath the rayed star; the early card gives a single celestial spirit carrying the sun across the heavens.\n\n## Significance\nThe Sun belongs to the deck's celestial triad and, like its fellows, appears here in an iconography not yet codified. The bearing-putto motif links the card to Renaissance personifications of the planets and to the cosmological imagery of the courtly workshops. The contrast with later patterns is a textbook case of how tarot's 'fixed' symbolism actually shifted from deck to deck over three centuries.\n\n## For artists & game designers\nA winged spirit carrying the sun — a clean heraldic 'daylight / clarity' icon, gold-ground luxe.",
+   "citations": [
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-19-sun.jpg"}
+   ],
+   "key_concepts": ["Visconti-Sforza tarot", "The Sun", "celestial trumps", "putto"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__visconti-moon",
+   "title": "The Moon — Visconti-Sforza Tarot (XVIII)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Bonifacio Bembo (attrib.)",
+   "date": "c. 1450",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "the moon", "trump xviii", "crescent", "woman", "cord", "gold ground", "visconti-sforza"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-18-moon.jpg",
+   "summary": "The Moon, trump XVIII of the Visconti-Sforza tarot, a Milanese hand-painted card of c. 1450.\n\n## Iconography\nA standing woman holds a crescent [[motif:crescent|moon]] aloft, against the workshop's gold ground. There are none of the Marseille card's baying dogs, towers, or crayfish; the early Moon, like the Star and Sun beside it, is reduced to a single courtly figure presenting the heavenly body.\n\n## Significance\nThe simplicity of the fifteenth-century celestial trumps throws into relief the elaborate symbolism added later. Where the Tarot de Marseille reads the Moon as a nocturnal landscape of instinct and illusion, and the occultists made it the card of the unconscious, the Visconti image is iconographically neutral — evidence that the rich 'traditional' meanings are accretions of the printed and esoteric eras rather than original to the deck.\n\n## For artists & game designers\nA single-figure lunar emblem — pairs with the matching Sun and Star cards as a clean celestial trio.",
+   "citations": [
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-18-moon.jpg"}
+   ],
+   "key_concepts": ["Visconti-Sforza tarot", "The Moon", "celestial trumps", "trionfi"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__visconti-empress",
+   "title": "The Empress — Visconti-Sforza Tarot (III)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Bonifacio Bembo (attrib.)",
+   "date": "c. 1450",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "the empress", "trump iii", "throne", "imperial eagle", "shield", "gold ground", "visconti-sforza"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-03-empress.jpg",
+   "summary": "The Empress, trump III of the Visconti-Sforza tarot, painted for the Milanese court c. 1450.\n\n## Iconography\nA crowned empress sits enthroned holding a shield charged with the imperial [[motif:imperial eagle|eagle]], her robes and the gold ground proclaiming sovereignty. The dynastic heraldry ties the figure directly to the Visconti-Sforza patrons, who saw their own rank mirrored in the trump.\n\n## Significance\nThe Empress and Emperor head the 'estates' of the trump sequence, the worldly powers beneath the spiritual Pope and Papess. In a deck commissioned by ruling dukes, these cards were not abstract allegories but flattering reflections of the court itself, complete with family arms. The trump preserves the original courtly self-image from which tarot's later, universalised meanings (the Empress as fertile mother-principle) were abstracted.\n\n## For artists & game designers\nAn enthroned, heraldic 'sovereign lady' — a ready model for a queen/ruler card carrying real dynastic arms.",
+   "citations": [
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-03-empress.jpg"}
+   ],
+   "key_concepts": ["Visconti-Sforza tarot", "The Empress", "imperial heraldry", "trionfi"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__visconti-emperor",
+   "title": "The Emperor — Visconti-Sforza Tarot (IV)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Bonifacio Bembo (attrib.)",
+   "date": "c. 1450",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "the emperor", "trump iv", "throne", "orb", "imperial eagle", "gold ground", "visconti-sforza"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-04-emperor.jpg",
+   "summary": "The Emperor, trump IV of the Visconti-Sforza tarot, a hand-painted Milanese card of c. 1450.\n\n## Iconography\nA bearded emperor sits enthroned in profile, crowned and holding the orb of dominion, the imperial [[motif:imperial eagle|eagle]] displayed on his regalia, all against the tooled gold ground. The dignified profile pose echoes the portrait medals of Renaissance princes.\n\n## Significance\nWith the Empress, the Emperor embodies temporal authority within the trump hierarchy. In the Visconti-Sforza commission the figure flatters the deck's ducal owners, asserting their place in the imperial order. The card's restrained, portrait-like majesty contrasts with the schematic woodcut Emperor of the later Marseille pattern and shows the original courtly register of the trumps.\n\n## For artists & game designers\nA profile, medal-like 'sovereign' portrait — a dignified ruler card with built-in heraldic gravitas.",
+   "citations": [
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-04-emperor.jpg"}
+   ],
+   "key_concepts": ["Visconti-Sforza tarot", "The Emperor", "temporal authority", "trionfi"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__visconti-pope",
+   "title": "The Pope — Visconti-Sforza Tarot (V)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Bonifacio Bembo / Antonio Cicognara (attrib.)",
+   "date": "c. 1450 (with later restorations)",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "the pope", "trump v", "papal tiara", "blessing", "keys", "gold ground", "visconti-sforza"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Visconti-sforza-05-pope.jpg",
+   "summary": "The Pope, trump V of the Visconti-Sforza tarot, a Milanese hand-painted card of c. 1450 (Pierpont Morgan group, with later restorations attributed to Cicognara).\n\n## Iconography\nThe Pope sits enthroned in the triple [[motif:papal tiara|tiara]], one hand raised in benediction, against the workshop gold ground. He is the spiritual counterpart to the Emperor, the highest of the worldly authority-trumps, paired in the sequence with the Papess.\n\n## Significance\nThat a fifteenth-century court deck should include a Pope and a Papess (the future High Priestess) is historically striking and was later cited in debates over the deck's symbolism. In the trump hierarchy the Pope embodies the Church's authority above the temporal rulers. The card descends, through the Marseille *Pape*, into the occultists' 'Hierophant.' Its presence underlines that the trumps began as a ladder of social and cosmic estates, not an esoteric cipher.\n\n## For artists & game designers\nThe canonical 'high priest / pontiff' figure — tiara, blessing hand — for an ecclesiastical authority card.",
+   "citations": [
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Visconti-sforza-05-pope.jpg"}
+   ],
+   "key_concepts": ["Visconti-Sforza tarot", "The Pope", "spiritual authority", "trionfi"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__visconti-love",
+   "title": "Love (The Lovers) — Visconti-Sforza Tarot (VI)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Bonifacio Bembo / Antonio Cicognara (attrib.)",
+   "date": "c. 1450 (with later restorations)",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "love", "the lovers", "trump vi", "couple", "cupid", "canopy", "visconti-sforza"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Visconti-sforza-06-love.jpg",
+   "summary": "Love (the Lovers), trump VI of the Visconti-Sforza tarot, a Milanese card of c. 1450.\n\n## Iconography\nA man and woman stand or join hands beneath a canopy, with a blindfolded [[motif:cupid|Cupid]] above drawing his bow. Some readers identify the couple as a betrothal portrait of the Visconti-Sforza dynasty itself. The scene is courtly and matrimonial rather than the moral 'choice between two women' the Marseille card would later depict.\n\n## Significance\nThe Love trump in the early deck celebrates dynastic union and the power of Amor, in keeping with the wedding-gift character often proposed for such luxury packs. The shift from this single embracing couple to the Marseille *Amoureux* — a youth choosing between two women under Cupid's arrow — is one of the clearest illustrations of how the trump's meaning migrated from celebration of marriage to allegory of moral choice.\n\n## For artists & game designers\nA betrothal-portrait 'union' card with blindfold Cupid — a romance beat distinct from the later 'choice' iconography.",
+   "citations": [
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Visconti-sforza-06-love.jpg"}
+   ],
+   "key_concepts": ["Visconti-Sforza tarot", "The Lovers", "dynastic marriage", "Cupid"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__visconti-wheel",
+   "title": "The Wheel of Fortune — Visconti-Sforza Tarot (X)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Bonifacio Bembo (attrib.)",
+   "date": "c. 1450",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "wheel of fortune", "trump x", "rota fortunae", "fortuna", "rising and falling figures", "gold ground", "visconti-sforza"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-10-wheel_of_fortune.jpg",
+   "summary": "The Wheel of Fortune, trump X of the Visconti-Sforza tarot, a Milanese hand-painted card of c. 1450.\n\n## Iconography\nA great wheel turns, ridden by figures who rise, reign, and fall — typically labelled in the medieval scheme *regnabo* (I shall reign), *regno* (I reign), *regnavi* (I have reigned), *sum sine regno* (I am without rule). A blindfolded [[motif:fortuna|Fortuna]] often turns the hub. The image sits on the workshop gold ground.\n\n## Significance\nThe trump directly transmits the medieval *Rota Fortunae* — the goddess Fortune raising and casting down kings, an image canonised by Boethius's *Consolation of Philosophy* and ubiquitous in Gothic art. Its presence shows the trumps drawing on the standard moral-allegorical repertoire of the late Middle Ages. The Marseille pattern would later replace the human riders with hybrid animal figures and a crowned sphinx.\n\n## For artists & game designers\nThe medieval four-figure Wheel (rise/reign/fall/ruin) is a richly legible 'cycle of fortune' diagram for a luck or fate mechanic.",
+   "citations": [
+    {"text": "Boethius, *De consolatione philosophiae*."},
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-10-wheel_of_fortune.jpg"}
+   ],
+   "key_concepts": ["Visconti-Sforza tarot", "Wheel of Fortune", "Rota Fortunae", "Fortuna"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__visconti-hanged-man",
+   "title": "The Traitor (The Hanged Man) — Visconti-Sforza Tarot (XII)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Bonifacio Bembo / Antonio Cicognara (attrib.)",
+   "date": "c. 1450 (with later restorations)",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "the hanged man", "the traitor", "trump xii", "inverted figure", "shame penalty", "pittura infamante", "visconti-sforza"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Visconti-sforza-12-traitor.jpg",
+   "summary": "The Traitor — the card later called the Hanged Man — trump XII of the Visconti-Sforza tarot, c. 1450.\n\n## Iconography\nA young man hangs upside down by one ankle from a wooden frame, his other leg crossed behind and his hands often bound or hidden, perfectly composed and calm. The pose is that of the *pittura infamante*, the [[motif:shame penalty|shame-painting]] by which Italian cities publicly depicted traitors hung by the foot.\n\n## Significance\nIn its original context the trump was understood as 'the Traitor' (*il Traditore*) or 'the Penitent,' invoking a real judicial-pictorial custom of dishonour rather than the mystical 'suspended wisdom' the occultists later read into it. This grounds one of tarot's most reinterpreted cards in concrete fifteenth-century Italian practice. The serene face, however, already invites the inverted, contemplative readings that Éliphas Lévi and his successors would develop.\n\n## For artists & game designers\nThe inverted-hanging-by-the-foot figure as a *shame penalty* — historically a punishment for traitors, not a yogi: a sharp framing for a 'disgrace' beat.",
+   "citations": [
+    {"text": "S. Y. Edgerton, *Pictures and Punishment* (1985)."},
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Visconti-sforza-12-traitor.jpg"}
+   ],
+   "key_concepts": ["Visconti-Sforza tarot", "The Hanged Man", "pittura infamante", "the Traitor"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__visconti-death",
+   "title": "Death — Visconti-Sforza Tarot (XIII)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Bonifacio Bembo (attrib.)",
+   "date": "c. 1450",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "death", "trump xiii", "skeleton", "bow", "memento mori", "danse macabre", "visconti-sforza"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Visconti-Sforza_tarot_deck._Death.jpg",
+   "summary": "Death, trump XIII of the Visconti-Sforza tarot, a Milanese hand-painted card of c. 1450.\n\n## Iconography\nA gaunt skeletal figure of [[motif:death|Death]] strides forward, in the Visconti tradition often shown drawing a great bow or carrying a scythe, trampling the bodies of the high and low alike. The image draws directly on the *memento mori* and *Danse Macabre* art that pervaded fifteenth-century Europe.\n\n## Significance\nDeath the leveller — taking pope and king as readily as peasant — is the trump's plain medieval message, central to the moral allegory of the *trionfi*. Petrarch's *Trionfi*, in which Death triumphs over Chastity only to be overcome by Fame, lies behind the very name and structure of the trump sequence. The card needed no occult gloss: it spoke the universal language of mortality before later readers recast it as 'transformation.'\n\n## For artists & game designers\nA striding, bow-bearing skeleton trampling the great — a stark *memento mori* leveller for a mortality or plague theme.",
+   "citations": [
+    {"text": "F. Petrarch, *Trionfi*."},
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Visconti-Sforza_tarot_deck._Death.jpg"}
+   ],
+   "key_concepts": ["Visconti-Sforza tarot", "Death", "memento mori", "Danse Macabre"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__visconti-temperance",
+   "title": "Temperance — Visconti-Sforza Tarot (XIV)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Bonifacio Bembo (attrib.)",
+   "date": "c. 1450",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "temperance", "trump xiv", "cardinal virtue", "pouring vessels", "tempering wine", "gold ground", "visconti-sforza"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-14-temperance.jpg",
+   "summary": "Temperance, trump XIV of the Visconti-Sforza tarot, a Milanese hand-painted card of c. 1450.\n\n## Iconography\nA woman pours liquid between two vessels, the gesture of [[motif:tempering wine|tempering]] (mixing water with wine), the classic emblem of the cardinal virtue Temperance, against the gold ground. She is one of three virtue-trumps in the deck, alongside Fortitude and Justice.\n\n## Significance\nTemperance is one of the four cardinal virtues that appear among the trumps, embedding a scheme of moral philosophy in the card sequence. Its inclusion shows the trumps as a visual catechism of medieval-Renaissance ethics as much as a game. The pouring-vessels image passed almost unchanged into the Tarot de Marseille and thence to every later deck, making it one of the most stable of all tarot icons across five centuries.\n\n## For artists & game designers\nThe water-into-wine pouring gesture is the universal 'balance / moderation' emblem — instantly legible without text.",
+   "citations": [
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-14-temperance.jpg"}
+   ],
+   "key_concepts": ["Visconti-Sforza tarot", "Temperance", "cardinal virtues", "trionfi"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__mantegna-musica",
+   "title": "Mantegna Tarocchi — Engraved Figure (E-series)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Master of the E-Series Tarocchi (so-called 'Mantegna')",
+   "date": "c. 1465 (engraving)",
+   "place": "Ferrara, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["mantegna tarocchi", "e-series", "engraving", "personification", "didactic deck", "liberal arts", "humanism", "ferrara"],
+   "rights": "CC0 / Public domain. Cleveland Museum of Art. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Clevelandart_1924.432.26.jpg",
+   "summary": "An engraving from the so-called *Mantegna Tarocchi*, the encyclopaedic fifty-card didactic series of c. 1465 (Cleveland Museum of Art impression).\n\n## Iconography\nA single allegorical figure stands frontally with its identifying attributes, labelled and numbered in the manner of the whole series. Each plate of the set personifies one rung of a cosmic ladder — a [[motif:personification|personification]] of an estate of man, a Muse, a Liberal Art, a cosmic principle, or a planetary sphere — rendered in the crisp early-Italian engraving line of the Ferrarese workshop.\n\n## Significance\nThe *Mantegna Tarocchi* is not a true playing tarot but a humanist teaching device: fifty engravings in five decades that map the whole hierarchy of being from the beggar up to the Prime Cause. Misattributed to Mantegna, it issued from the Ferrarese cultural circle and was admired and copied across Europe — Dürer drew after it. It is a key witness to the image-systems that stood behind the emergence of tarot's allegorical sequence.\n\n## For artists & game designers\nA labelled, single-figure 'concept card' from the dawn of the form — period-accurate reference for an allegorical deck of ideas.",
+   "citations": [
+    {"text": "J. A. Levenson et al., *Early Italian Engravings from the National Gallery of Art* (1973)."},
+    {"text": "Cleveland Museum of Art (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Clevelandart_1924.432.26.jpg"}
+   ],
+   "key_concepts": ["Mantegna Tarocchi", "E-series engravings", "didactic deck", "Ferrara humanism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__marseille-bateleur",
+   "title": "Le Bateleur (The Magician) — Dodal Tarot de Marseille (I)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Jean Dodal",
+   "date": "c. 1701–1715 (woodcut)",
+   "place": "Lyon, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "le bateleur", "the magician", "trump i", "juggler", "market table", "woodcut", "dodal"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jean_Dodal_Tarot_trump_01.jpg",
+   "summary": "*Le Bateleur*, trump I of the Tarot de Marseille in the woodcut pattern of Jean Dodal, the Lyon cardmaker, c. 1701–1715.\n\n## Iconography\nA standing [[motif:juggler|mountebank]] works at a small table spread with cups, balls, knives and coins, a wand in one hand and a token in the other, his broad hat brim looped like a lemniscate. He is the conjuror or market-square trickster, lowest-numbered of the trumps.\n\n## Significance\nDodal's deck is one of the earliest dated examples of the standardised Tarot de Marseille pattern and a foundational document of the tradition that the eighteenth-century occultists would inherit. *Le Bateleur* — the sleight-of-hand showman — was reinterpreted by Court de Gébelin and Lévi as the Magus, master of the elements (the suit-tokens on his table read as the four 'magical weapons'). The card thus marks the hinge between the fairground juggler and the occult magician.\n\n## For artists & game designers\nThe juggler-at-his-table is the original 'trickster / showman' card — props laid out as the four suits, ready to become a mage.",
+   "citations": [
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "T. Depaulis, *Tarot, jeu et magie* (1984)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Jean_Dodal_Tarot_trump_01.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "Le Bateleur", "Jean Dodal", "Lyon cardmaking"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__dodal-papesse",
+   "title": "La Papesse (The High Priestess) — Dodal Tarot de Marseille (II)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Jean Dodal",
+   "date": "c. 1701–1715 (woodcut)",
+   "place": "Lyon, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "la papesse", "the high priestess", "trump ii", "papess", "book", "tiara", "dodal"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jean_Dodal_Tarot_trump_02.jpg",
+   "summary": "*La Papesse*, trump II of the Tarot de Marseille in Jean Dodal's Lyon woodcut pattern, c. 1701–1715.\n\n## Iconography\nA seated woman wears the triple papal [[motif:tiara|tiara]] and holds an open book on her lap, a veil behind her. She is the female pope, counterpart to *Le Pape*, a figure with no obvious place in Catholic orthodoxy.\n\n## Significance\nThe Papess is one of tarot's enduring puzzles: variously linked to the legend of Pope Joan, to the Visconti family's ancestor the Umiliata 'popess' Manfreda, or simply to an allegory of the Church or Faith. In Dodal's woodcut she carries forward the Visconti *Papessa* into the printed tradition. The eighteenth-century occultists renamed her the High Priestess and made her the keeper of the hidden book of wisdom — the reading still standard today.\n\n## For artists & game designers\nThe seated, book-bearing 'female pope' is the archetype of the hidden-knowledge keeper — a librarian-of-secrets card.",
+   "citations": [
+    {"text": "G. Berti, on the Manfreda hypothesis; M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Jean_Dodal_Tarot_trump_02.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "La Papesse", "High Priestess", "Jean Dodal"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__dodal-chariot",
+   "title": "Le Chariot (The Chariot) — Dodal Tarot de Marseille (VII)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Jean Dodal",
+   "date": "c. 1701–1715 (woodcut)",
+   "place": "Lyon, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "le chariot", "the chariot", "trump vii", "triumphal car", "two horses", "canopy", "dodal"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jean_Dodal_Tarot_trump_07.jpg",
+   "summary": "*Le Chariot*, trump VII of the Tarot de Marseille in Jean Dodal's Lyon woodcut pattern, c. 1701–1715.\n\n## Iconography\nA crowned prince stands upright in a canopied [[motif:triumphal car|triumphal car]] drawn by two horses, holding a sceptre, his shoulders often marked with crescent emblems. The car evokes the Roman *triumphus* and the *trionfi* (triumphs) from which the trumps themselves take their name.\n\n## Significance\nThe Chariot images worldly victory and command — the conqueror riding in triumph, an idea rooted in Petrarch's *Trionfi* and the Roman triumphal procession. In the Marseille sequence it crowns the first septenary of trumps. Later esoteric readers (Lévi onward) made it the card of the will mastering opposed forces, reading the two horses as the duality the charioteer must control. Dodal's early printing fixes the standard French iconography.\n\n## For artists & game designers\nThe canopied triumphal car with two horses is the archetypal 'victory / driven will' card — momentum and command in one image.",
+   "citations": [
+    {"text": "F. Petrarch, *Trionfi*."},
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Jean_Dodal_Tarot_trump_07.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "Le Chariot", "trionfi", "Jean Dodal"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__marseille-papesse",
+   "title": "La Papesse (The High Priestess) — Conver Tarot de Marseille (II)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "la papesse", "the high priestess", "trump ii", "book", "tiara", "veil", "conver"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:II_LA_PAPESSE_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "*La Papesse*, trump II of the Tarot de Marseille in the pattern of Nicolas Conver's celebrated 1760 Marseille deck.\n\n## Iconography\nThe Papess sits enthroned in the triple [[motif:tiara|tiara]], an open book in her lap and a veil hung behind her, in the cleaner, fuller line of the mid-eighteenth-century Conver woodblocks. The composition is essentially that of Dodal, refined.\n\n## Significance\nConver's 1760 deck is the single most influential edition of the Marseille pattern, the version most reproduced and the base text for nineteenth- and twentieth-century esoteric tarot. *La Papesse* — the enigmatic female pope — passes through it to become the occultists' High Priestess, guardian of the secret book between the pillars. Comparing the Conver and Dodal Papesse shows the standardisation and slight elaboration of the woodcut pattern over half a century.\n\n## For artists & game designers\nThe definitive Marseille 'priestess of the hidden book' — the canonical reference image for the archetype.",
+   "citations": [
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:II_LA_PAPESSE_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "La Papesse", "Nicolas Conver", "High Priestess"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__marseille-pape",
+   "title": "Le Pape (The Hierophant) — Conver Tarot de Marseille (V)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "le pape", "the hierophant", "trump v", "papal tiara", "blessing", "two acolytes", "conver"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:V_LE_PAPE_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "*Le Pape*, trump V of the Tarot de Marseille in Nicolas Conver's 1760 Marseille pattern.\n\n## Iconography\nThe Pope sits enthroned in the triple [[motif:papal tiara|tiara]], raising one hand in benediction and holding a tall cross-staff, with two tonsured acolytes seen from behind kneeling before him. The scene depicts the conferring of blessing or teaching.\n\n## Significance\nThe Pope, counterpart to the Papess, embodies spiritual authority and orthodox doctrine in the trump hierarchy. The two acolytes make explicit his role as teacher and mediator of sacred knowledge — which is why the occultists renamed him the *Hierophant*, the initiating priest of the mysteries. Conver's 1760 woodcut is the standard form transmitted to the esoteric tradition.\n\n## For artists & game designers\nThe enthroned pontiff blessing two kneeling acolytes is the archetypal 'teacher / initiator' card — authority transmitting doctrine.",
+   "citations": [
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:V_LE_PAPE_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "Le Pape", "Hierophant", "Nicolas Conver"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__marseille-chariot",
+   "title": "Le Chariot (The Chariot) — Conver Tarot de Marseille (VII)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "le chariot", "the chariot", "trump vii", "triumphal car", "two horses", "canopy", "conver"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:VII_LE_CHARIOT_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "*Le Chariot*, trump VII of the Tarot de Marseille in Nicolas Conver's 1760 pattern.\n\n## Iconography\nA crowned prince stands erect beneath a starred canopy in a [[motif:triumphal car|triumphal car]] drawn by two horses that face outward in opposite directions; crescent epaulettes adorn his shoulders and a sceptre is in his hand. The fuller Conver cut sharpens the regal, frontal symmetry.\n\n## Significance\nThe Chariot embodies triumph, will, and worldly mastery, descending from the Roman *triumphus* and Petrarch's *Trionfi* that gave the trumps their name. Esoteric tarotists read the two divergent horses as the opposing forces the charioteer's will must yoke. Conver's 1760 deck made this the canonical image of the card for all subsequent occult and divinatory tarot.\n\n## For artists & game designers\nTwo horses pulling in different directions under one driver — a tidy visual metaphor for will mastering conflict.",
+   "citations": [
+    {"text": "F. Petrarch, *Trionfi*."},
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:VII_LE_CHARIOT_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "Le Chariot", "Nicolas Conver", "trionfi"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__marseille-justice",
+   "title": "La Justice (Justice) — Conver Tarot de Marseille (VIII)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "justice", "trump viii", "scales", "sword", "cardinal virtue", "enthroned", "conver"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:VIII_LA_JUSTICE_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "*La Justice*, trump VIII of the Tarot de Marseille in Nicolas Conver's 1760 pattern.\n\n## Iconography\nA crowned woman sits frontally enthroned holding upright [[motif:scales|scales]] in one hand and a vertical sword in the other — the immemorial attributes of Justice, here unblindfolded and facing the viewer directly.\n\n## Significance\nJustice is one of the three cardinal virtues that survive among the Marseille trumps (with Temperance and Fortitude/Force), embedding classical-Christian moral philosophy in the sequence. Its numbering as VIII (with Strength at XI) is the historic Marseille order, which the Golden Dawn would later swap. Conver's clear woodcut fixed the standard image; the sword-and-scales pairing remains the universal emblem of judgement and equity.\n\n## For artists & game designers\nThe frontal sword-and-scales figure is the clearest possible 'judgement / law' icon — no caption required.",
+   "citations": [
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:VIII_LA_JUSTICE_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "Justice", "cardinal virtues", "Nicolas Conver"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__marseille-force",
+   "title": "La Force (Strength) — Conver Tarot de Marseille (XI)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "la force", "strength", "trump xi", "woman and lion", "open jaws", "fortitude", "conver"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:XI_LA_FORCE_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "*La Force* (Strength / Fortitude), trump XI of the Tarot de Marseille in Nicolas Conver's 1760 pattern.\n\n## Iconography\nA woman wearing a wide lemniscate-brimmed hat calmly closes — or opens — the [[motif:open jaws|jaws]] of a lion with her bare hands, mastering the beast without effort. She personifies the cardinal virtue Fortitude.\n\n## Significance\nFortitude/Strength is the third surviving cardinal virtue in the Marseille trumps. Its imagery — a serene woman subduing a lion — descends from medieval personifications of Fortitude (sometimes shown breaking a column) and signifies moral strength, the gentle mastery of brute passion. In the historic Marseille order it is numbered XI; the Golden Dawn later renumbered it VIII, swapping it with Justice for astrological reasons. Conver's woodcut is the standard form.\n\n## For artists & game designers\nA woman quietly opening a lion's jaws is the perfect 'gentle mastery over force' image — strength as composure, not violence.",
+   "citations": [
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:XI_LA_FORCE_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "Strength", "Fortitude", "Nicolas Conver"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__marseille-diable",
+   "title": "Le Diable (The Devil) — Conver Tarot de Marseille (XV)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "le diable", "the devil", "trump xv", "bat wings", "torch", "chained imps", "conver"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:XV_LE_DIABLE_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "*Le Diable* (The Devil), trump XV of the Tarot de Marseille in Nicolas Conver's 1760 pattern.\n\n## Iconography\nA horned, bat-[[motif:bat wings|winged]] devil stands on a pedestal, brandishing a torch, with two small horned imps chained by the neck at its base. The figure is androgynous, taloned, and crowned with antlers — a composite of medieval demonic imagery.\n\n## Significance\nThe Devil enters the trump sequence just before the Tower, the pair forming the nadir of the moral ascent. The chained imps signify bondage to vice and the flesh; esoteric readers (Lévi pre-eminently, who modelled his famous *Baphomet* partly on such imagery) made the card the emblem of material entrapment and the dark forces of nature. Conver's woodcut crystallised the iconic Marseille Devil that nineteenth-century occultism elaborated.\n\n## For artists & game designers\nThe winged devil with two chained imps is the canonical 'bondage / temptation' card — captives bound to a tempter.",
+   "citations": [
+    {"text": "É. Lévi, *Dogme et rituel de la haute magie* (1856)."},
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:XV_LE_DIABLE_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "The Devil", "Nicolas Conver", "Baphomet reception"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__marseille-soleil",
+   "title": "Le Soleil (The Sun) — Conver Tarot de Marseille (XVIIII)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "le soleil", "the sun", "trump xviiii", "two children", "wall", "radiant face", "conver"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:XVIIII_LE_SOLEIL_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "*Le Soleil* (The Sun), trump XVIIII of the Tarot de Marseille in Nicolas Conver's 1760 pattern.\n\n## Iconography\nA great human-faced [[motif:radiant face|sun]] sheds straight and wavy rays and falling droplets over two children who stand before a low brick wall, one touching the other. The pair beneath the radiant sun read as concord, innocence, and shared warmth.\n\n## Significance\nThe Sun is the brightest of the celestial triad (Star, Moon, Sun) that closes the trump sequence before Judgement and the World, and traditionally the most auspicious card of the deck — signifying clarity, joy, vitality, and revealed truth. The two children were variously read as innocence regained, human fellowship, or (by the alchemically minded) the conjoined principles. Conver's 1760 image is the standard Marseille Sun.\n\n## For artists & game designers\nTwo children under a beaming face-sun is the deck's purest 'joy / clarity / good outcome' card.",
+   "citations": [
+    {"text": "É. Lévi, *Dogme et rituel de la haute magie* (1856)."},
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:XVIIII_LE_SOLEIL_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "The Sun", "celestial triad", "Nicolas Conver"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__marseille-jugement",
+   "title": "Le Jugement (Judgement) — Conver Tarot de Marseille (XX)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "le jugement", "judgement", "trump xx", "angel", "trumpet", "rising dead", "conver"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:XX_LE_JUGEMENT_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "*Le Jugement* (Judgement), trump XX of the Tarot de Marseille in Nicolas Conver's 1760 pattern.\n\n## Iconography\nAn [[motif:angel|angel]] leans from a cloud sounding a trumpet (often hung with a cross-banner) while below, three naked figures rise from a tomb or the earth with hands raised — the dead summoned to resurrection at the Last Judgement.\n\n## Significance\nJudgement renders the Christian *Dies Irae*: the angel's trumpet calling the dead to rise, a near-universal motif of medieval and Renaissance art here distilled to a single trump. Penultimate in the sequence, before the World, it signifies awakening, rebirth, and the final reckoning. The plainly biblical imagery shows how deeply the trumps are rooted in ordinary Christian iconography, whatever esoteric meanings (resurrection, the call to a higher life) were later layered on. Conver's woodcut is the canonical Marseille form.\n\n## For artists & game designers\nThe trumpeting angel raising the dead is the archetypal 'awakening / resurrection / final call' card.",
+   "citations": [
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:XX_LE_JUGEMENT_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "Judgement", "resurrection", "Nicolas Conver"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tarot_historic__marseille-monde",
+   "title": "Le Monde (The World) — Conver Tarot de Marseille (XXI)",
+   "work": "Historic Tarot: Trumps Before the Occult Revival",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "le monde", "the world", "trump xxi", "mandorla", "dancing figure", "four living creatures", "conver"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:XXI_LE_MONDE_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "*Le Monde* (The World), trump XXI and highest of the Tarot de Marseille, in Nicolas Conver's 1760 pattern.\n\n## Iconography\nA dancing nude or lightly draped figure stands within an oval laurel [[motif:mandorla|wreath]], a wand in each hand, framed at the four corners by the angel, eagle, bull, and lion — the [[motif:four living creatures|four living creatures]] of Ezekiel and the Apocalypse (the four evangelists / fixed signs of the zodiac).\n\n## Significance\nThe World crowns the trump sequence as the image of cosmic completion. Its four-creature frame derives from the Tetramorph of Christian art (Ezekiel 1, Revelation 4), read astrologically as the fixed signs Aquarius, Scorpio, Taurus, Leo. The central dancer signifies the perfected soul or the *anima mundi* at the centre of creation. This Marseille design, unlike the earlier Visconti World, became the template the occultists elaborated, and remains the most widespread World image.\n\n## For artists & game designers\nA dancer in a wreath ringed by the four Tetramorph beasts is the ultimate 'completion / cosmos / victory lap' capstone card.",
+   "citations": [
+    {"text": "Ezekiel 1; Revelation 4 (the four living creatures)."},
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:XXI_LE_MONDE_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "The World", "Tetramorph", "Nicolas Conver"],
+   "summary_status": "authored"
+  }
+ ]
+}

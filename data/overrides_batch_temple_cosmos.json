@@ -1,0 +1,385 @@
+{
+ "_work": {
+   "key": "temple_cosmos",
+   "short_id": "TMPL",
+   "title": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "various",
+   "date": "1572 – 1890",
+   "century": 17,
+   "place": "Spain, Low Countries, France, German lands, England",
+   "region": "Europe",
+   "language": "Latin, Dutch, French, English",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Temple_of_Solomon",
+   "rights": "Public domain / CC0 (per item). Via Wikimedia Commons.",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "temple_cosmos",
+   "motifs": ["temple of solomon", "tabernacle", "ezekiel's temple", "ark of the covenant", "jachin and boaz", "cosmic temple"],
+   "blurb": "Prints and engravings in which the Temple of Solomon, the desert Tabernacle, and Ezekiel's visionary temple are reconstructed as scale models of the cosmos. Includes the Villalpando-tradition elevation, Callot, Fischer von Erlach and Dapper temple plates, the camp of Israel, the molten sea and twelve oxen, the two pillars Jachin and Boaz, the cherubim-guarded Ark, and the high priest's jeweled breastplate (Hoshen) as a star-map of the twelve tribes."
+ },
+ "entries": [
+  {
+   "id": "temple_cosmos__villalpando-ezechielem",
+   "title": "Elevation of the New Temple of Ezekiel's vision",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Anonymous engraver (Villalpando tradition); Rijksmuseum impression",
+   "date": "17th–18th century (after Villalpando, 1604)",
+   "place": "Low Countries (after a Spanish original)",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["ezekiel's temple", "temple elevation", "five hundred ells", "facade", "cosmic measure", "architectural order", "sacred geometry", "reconstruction"],
+   "rights": "CC0 (Rijksmuseum, RP-P-1916-414). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Voorgevel_van_de_nieuwe_tempel_Gevelgebow_van_den_Voorhof_Isra%C3%ABls,_nade_buite-zijde_tegent_oosten,_ter_lengde_van_Vijf-honderd_ellen_met_deselfs_Gevel-spitsen_en_Voorhuys_der_Poorte_(..)_(titel_op_object),_RP-P-1916-414.jpg",
+   "summary": "A vast horizontal engraving giving the eastern facade of the rebuilt Temple of Israel as described in Ezekiel's vision, the outer court running a full five hundred ells in length.\n\n## Iconography\nThe sheet unrolls a single immense elevation: a low arcaded outer wall of identical bays, gated towers, and at the center a tall many-storied gate-house crowned with pinnacles. Tiny figures and a measuring scale below fix the prodigious dimensions. The repetition of bays makes the building read as a ruled, modular grid rather than a picturesque ruin.\n\n## Significance\nThis belongs to the tradition launched by the Jesuit **Juan Bautista Villalpando**, whose *In Ezechielem Explanationes* (Rome, 1596–1604) reconstructed Ezekiel's temple as a perfectly proportioned cosmos in stone — its measures, columns and courts encoding the harmony of creation. For Villalpando the [[motif:temple-of-solomon|temple]] was God's own architecture, the canon from which the classical orders themselves descended. Such plates circulated as Hermetic-architectural authorities into the Baroque.\n\n## For artists & game designers\nThe ruled, repeating modular facade is a template for generating monumental sacred architecture procedurally: one bay, tiled, with a hierarchic gate-tower breaking the rhythm at the axis.",
+   "citations": [
+    {"text": "J. B. Villalpando, *In Ezechielem Explanationes* (1596–1604)."},
+    {"text": "R. Taylor, 'Architecture and Magic: Considerations on the Idea of the Escorial' (1967)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Voorgevel_van_de_nieuwe_tempel_Gevelgebow_van_den_Voorhof_Isra%C3%ABls,_nade_buite-zijde_tegent_oosten,_ter_lengde_van_Vijf-honderd_ellen_met_deselfs_Gevel-spitsen_en_Voorhuys_der_Poorte_(..)_(titel_op_object),_RP-P-1916-414.jpg"}
+   ],
+   "key_concepts": ["Villalpando", "Ezekiel's temple", "cosmic architecture", "temple proportion"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__callot-temple-plan",
+   "title": "Plan and Rendering of the Temple of Solomon",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Jacques Callot",
+   "date": "1619",
+   "place": "Nancy / Florence",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["temple of solomon", "ground plan", "perspective view", "courts", "etching", "sacred geometry", "jerusalem", "reconstruction"],
+   "rights": "CC0 (National Gallery of Art, 67875). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jacques_Callot,_Plan_and_Rendering_of_the_Temple_of_Solomon,_1619,_NGA_67875.jpg",
+   "summary": "An etching by the great Lorraine printmaker Jacques Callot combining a geometric ground-plan with a perspective rendering of the Temple of Solomon and its courts.\n\n## Iconography\nThe sheet pairs two modes of seeing the same building: a measured **plan** laying out the concentric courts, gates and the sanctuary block, and a **bird's-eye view** that lifts the same scheme into three dimensions, ringed by colonnaded porticoes. The doubling lets the eye move between abstract diagram and imagined experience of the holy precinct.\n\n## Significance\nCallot's plate participates in the early-seventeenth-century vogue, driven by [[motif:temple-of-solomon|Villalpando]] and biblical antiquarians, for reconstructing the lost temple as a rational, surveyable totality. To render the temple in plan was to claim it could be *known* and *measured* — a sacred order made legible to the new science of perspective and survey.\n\n## For artists & game designers\nThe plan-plus-perspective pairing is a clean way to present a sacred site to a player: an overhead minimap for navigation beside the rendered space for immersion.",
+   "citations": [
+    {"text": "D. Ternois, *Jacques Callot: catalogue de son œuvre dessiné* (1962)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Jacques_Callot,_Plan_and_Rendering_of_the_Temple_of_Solomon,_1619,_NGA_67875.jpg"}
+   ],
+   "key_concepts": ["Jacques Callot", "temple ground plan", "perspective reconstruction", "Temple of Solomon"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__fischer-temple",
+   "title": "Prospect des Temples Salomonis (view from Mount Moriah)",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Johann Bernhard Fischer von Erlach",
+   "date": "1721 (Entwurff einer historischen Architectur)",
+   "place": "Vienna",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["temple of solomon", "mount moriah", "historical architecture", "panorama", "baroque reconstruction", "courts", "wonder of the world", "engraving"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Johann_Bernhard_Fischer_von_Erlach,_Prospect_des_Temples_Salomonis,_wie_er_von_der_Seiten_des_Berges_Moriae,_anzusehen_gewesen_(FL184621016_2368060).jpg",
+   "summary": "A panoramic engraving of the Temple of Solomon as seen from the flank of Mount Moriah, from Fischer von Erlach's pioneering comparative history of world architecture.\n\n## Iconography\nThe vast precinct spreads across the plate: tiered courts, ranks of porticoes, towers and the central sanctuary, populated by small figures that establish its overwhelming scale. The view is staged as a *prospect* — a theatrical wide shot of the whole holy mountain transformed into ordered architecture.\n\n## Significance\nIn his *Entwurff einer historischen Architectur* (1721), the Imperial architect **Fischer von Erlach** placed Solomon's Temple at the head of architectural history, the divinely authored origin from which all later building styles descended — the same conviction that animated [[motif:temple-of-solomon|Villalpando]]. Reconstructing it was thus both antiquarian scholarship and a statement that sacred order underlies the art of building itself.\n\n## For artists & game designers\nA model establishing shot: the sacred capital revealed in a single sweeping prospect from a named vantage, scale set by crowds of tiny figures.",
+   "citations": [
+    {"text": "J. B. Fischer von Erlach, *Entwurff einer historischen Architectur* (1721)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Johann_Bernhard_Fischer_von_Erlach,_Prospect_des_Temples_Salomonis,_wie_er_von_der_Seiten_des_Berges_Moriae,_anzusehen_gewesen_(FL184621016_2368060).jpg"}
+   ],
+   "key_concepts": ["Fischer von Erlach", "historical architecture", "Mount Moriah", "Temple of Solomon"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__templum-salomonis",
+   "title": "Salomonis Templum (Olfert Dapper)",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Olfert Dapper",
+   "date": "1677 (Naukeurige beschryving van gantsch Syrie en Palestyn)",
+   "place": "Amsterdam",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["temple of solomon", "bird's-eye view", "temple courts", "jerusalem", "dutch engraving", "porticoes", "sacred precinct", "reconstruction"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Olfert_Dapper,_Salomonis_Templum_(FL51320608_2368039).jpg",
+   "summary": "A Dutch bird's-eye reconstruction of the Temple of Solomon, *Salomonis Templum*, from Olfert Dapper's descriptive geography of Syria and Palestine.\n\n## Iconography\nThe whole sacred enclosure is drawn from above and slightly to the side: a great rectangular court ringed by colonnades, inner courts stepping up toward the sanctuary, gates, and surrounding chambers, all rendered with crisp Dutch engraving precision and a measuring scale.\n\n## Significance\nDapper, an Amsterdam scholar who never travelled, compiled his geographies from texts; his temple is a *paper reconstruction*, synthesizing the biblical accounts and the learned tradition of [[motif:temple-of-solomon|Villalpando]] and the rabbis. Such plates fed the Protestant Dutch fascination with the temple as the perfect, God-given building — a fascination that later flowed into Masonic temple symbolism.\n\n## For artists & game designers\nThe axonometric 'cutaway from above' is the clearest way to communicate a layered sacred complex of nested courts at a glance.",
+   "citations": [
+    {"text": "O. Dapper, *Naukeurige beschryving van gantsch Syrie en Palestyn* (1677)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Olfert_Dapper,_Salomonis_Templum_(FL51320608_2368039).jpg"}
+   ],
+   "key_concepts": ["Olfert Dapper", "temple reconstruction", "bird's-eye precinct", "Temple of Solomon"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__solomon-temple",
+   "title": "Heinrich Bünting's view of the Temple of Solomon",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Heinrich Bünting",
+   "date": "1581 (Itinerarium Sacrae Scripturae)",
+   "place": "Magdeburg / German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["temple of solomon", "woodcut", "temple mount", "fortified precinct", "biblical geography", "jerusalem", "sacred enclosure", "reconstruction"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Heinrich_B%C3%BCnting%27s_view_of_the_Temple_of_Solomon.jpg",
+   "summary": "A large woodcut view of the Temple of Solomon and its precinct from Heinrich Bünting's much-reprinted scriptural geography.\n\n## Iconography\nThe temple block rises at the center of a walled, towered enclosure shown in a tilted aerial perspective, courts and outbuildings packed around it, the whole reading as a fortified holy city-within-a-city. The German woodcut idiom gives it bold outlines and dense hatching.\n\n## Significance\nBünting's *Itinerarium Sacrae Scripturae* (1581) was a best-selling Lutheran atlas of the Bible lands — famous for its emblematic maps of the world as a cloverleaf and as a winged maiden. His temple belongs to the Reformation drive to *visualize* scripture accurately, making the [[motif:temple-of-solomon|house of God]] a concrete, mappable place the reader could imaginatively enter.\n\n## For artists & game designers\nA reminder that the sacred precinct was conceived as defensible architecture: walls, towers and gates, not an open shrine — useful for designing a temple that doubles as a stronghold.",
+   "citations": [
+    {"text": "H. Bünting, *Itinerarium Sacrae Scripturae* (1581)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Heinrich_B%C3%BCnting%27s_view_of_the_Temple_of_Solomon.jpg"}
+   ],
+   "key_concepts": ["Heinrich Bünting", "scriptural geography", "temple woodcut", "Temple of Solomon"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__adrichom-temple",
+   "title": "The Temple of Solomon in Adrichom's plan of Jerusalem",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Christian van Adrichom",
+   "date": "1584 (Theatrum Terrae Sanctae); detail",
+   "place": "Cologne / Low Countries",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["temple of solomon", "jerusalem map", "temple precinct", "antiquarian topography", "courts", "engraving", "holy city", "detail"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Christian-van-adrichom_JERVSALEM-et-suburbia-eius_detail-solomon-temple_1-1497x1000.jpg",
+   "summary": "A detail of the Temple of Solomon excerpted from Christian van Adrichom's celebrated large-scale plan of ancient Jerusalem.\n\n## Iconography\nThe temple precinct is drawn in tilted bird's-eye view: a walled rectangular court with corner towers enclosing ranked buildings and the sanctuary, lettered keys tying each structure to a printed legend. It is cartography rather than elevation — the holy house located within the surveyed city.\n\n## Significance\nAdrichom's *Theatrum Terrae Sanctae* (1584) reconstructed first-century Jerusalem as a numbered, legible map, and his temple became a standard reference image copied for two centuries. The project expresses the antiquarian conviction that the [[motif:temple-of-solomon|sacred topography]] of scripture could be recovered as exact, locatable space — the holy city as data.\n\n## For artists & game designers\nA keyed, lettered precinct plan shows how to make a sacred site navigable: every building indexed to a legend the player can consult.",
+   "citations": [
+    {"text": "C. van Adrichom, *Theatrum Terrae Sanctae et Biblicarum Historiarum* (1584)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Christian-van-adrichom_JERVSALEM-et-suburbia-eius_detail-solomon-temple_1-1497x1000.jpg"}
+   ],
+   "key_concepts": ["Adrichom", "Jerusalem topography", "temple precinct map", "Holy Land cartography"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__temple-reconstruction",
+   "title": "Reconstruction of the Temple of Solomon (after Vatable)",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "after François Vatable",
+   "date": "16th century (detail of a later impression)",
+   "place": "France",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["temple of solomon", "reconstruction", "temple courts", "biblical scholarship", "sanctuary", "engraving", "sacred geometry", "detail"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Francois_Vatable,_reconstructie_van_de_tempel_van_Salomo_(detail).jpg",
+   "summary": "A detail of a reconstruction of the Temple of Solomon associated with the French biblical humanist François Vatable.\n\n## Iconography\nThe plate shows the temple precinct with its nested courts and the central sanctuary, the surrounding chambers and porticoes laid out in ordered ranks. The detail concentrates on the architectural articulation of the holy house and its immediate court.\n\n## Significance\n**François Vatable** (d. 1547), royal professor of Hebrew at Paris, was famed for his learned notes on the Hebrew Bible; reconstructions of the temple attached to that scholarly tradition aimed to render Solomon's measurements visible. Such images sit at the meeting point of Christian Hebraism and the architectural mysticism that read the [[motif:temple-of-solomon|temple]] as a divinely proportioned model of order.\n\n## For artists & game designers\nGood reference for the layered-court layout of the sanctuary block when you need an authentic-feeling biblical temple footprint.",
+   "citations": [
+    {"text": "On Vatable, see G. Bedouelle & B. Roussel (eds.), *Le temps des Réformes et la Bible* (1989)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Francois_Vatable,_reconstructie_van_de_tempel_van_Salomo_(detail).jpg"}
+   ],
+   "key_concepts": ["François Vatable", "Christian Hebraism", "temple reconstruction", "Temple of Solomon"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__temple-section",
+   "title": "Solomon Turning to Idolatry (Limoges enamel plaque)",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Pierre Reymond",
+   "date": "c. 1560–1570",
+   "place": "Limoges, France",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["solomon", "fictive temple", "classical architecture", "idolatry", "painted enamel", "columns", "perspective", "grisaille and gold"],
+   "rights": "Public domain (Walters Art Museum, 44.197). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pierre_Reymond_-_Plaque_with_Solomon_Turning_to_Idolatry_-_Walters_44197.jpg",
+   "summary": "An oval painted-enamel plaque by the Limoges master Pierre Reymond showing the aged Solomon, led by his foreign wives, turning to worship idols within a grand classicizing temple interior.\n\n## Iconography\nKing Solomon kneels at right before an idol enthroned in a coffered, barrel-vaulted hall of columns; women draw him forward while a robed figure presides under a canopy at left. The fictive architecture — fluted columns, golden vaults, a tiled floor in steep perspective — is rendered in Limoges grisaille heightened with gold against deep blue.\n\n## Significance\nThe scene (1 Kings 11) is the dark counter-image of the temple-builder: the same Solomon who raised the [[motif:temple-of-solomon|house of God]] is shown defiling it. Reymond translates the moral into an imagined Renaissance *temple of error*, using the new classical orders to picture both glory and apostasy. It records how the temple ideal could be inverted into a warning.\n\n## For artists & game designers\nA grand columned interior reused as a corrupted shrine: the same architecture coded for holiness or for idolatry depending only on what stands at its altar.",
+   "citations": [
+    {"text": "P. Verdier, *The Walters Art Gallery: Catalogue of the Painted Enamels of the Renaissance* (1967)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pierre_Reymond_-_Plaque_with_Solomon_Turning_to_Idolatry_-_Walters_44197.jpg"}
+   ],
+   "key_concepts": ["Pierre Reymond", "Limoges enamel", "Solomon's idolatry", "fictive temple architecture"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__tabernacle-camp",
+   "title": "The Tabernacle and the camp of Israel",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Anonymous (in 'The Jewish Tabernacle and Priesthood', 1874)",
+   "date": "1874",
+   "place": "United States / England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["tabernacle", "camp of israel", "twelve tribes", "desert sanctuary", "four quarters", "ordered encampment", "cosmic diagram", "wood engraving"],
+   "rights": "No known copyright restrictions. Via Wikimedia Commons (Internet Archive Book Images).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Jewish_tabernacle_and_priesthood_(1874)_(14595322139).jpg",
+   "summary": "A diagram of the wilderness Tabernacle set at the center of the ordered camp of Israel, the twelve tribes arrayed around it by quarter.\n\n## Iconography\nThe sanctuary stands in a central court; around it the Levites, and beyond them the twelve tribes are stationed three to each of the four sides — east, south, west and north — each with its standard. The whole forms a great squared mandala with the Holy Place at its heart.\n\n## Significance\nThe camp described in Numbers 2 was read since antiquity as a **cosmic diagram**: the [[motif:tabernacle|sanctuary]] as the axis of the world, the four tribal divisions answering the four quarters of heaven, the twelve tribes echoing the twelve signs of the zodiac. Josephus and later Christian and kabbalistic writers all treated the desert sanctuary as a portable model of the cosmos, the tent where heaven touched the ordered earth.\n\n## For artists & game designers\nA ready cosmological map: a sacred center ringed by four quartered factions under heraldic standards — instantly legible as a world laid out by the four directions.",
+   "citations": [
+    {"text": "Josephus, *Jewish Antiquities* III.7 (on the tabernacle as cosmic image)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Jewish_tabernacle_and_priesthood_(1874)_(14595322139).jpg"}
+   ],
+   "key_concepts": ["tabernacle", "camp of Israel", "twelve tribes", "cosmic diagram"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__tabernacle-plan",
+   "title": "Plan and furnishings of the Tabernacle",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Anonymous (in 'The Jewish Tabernacle and Priesthood', 1874)",
+   "date": "1874",
+   "place": "United States / England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["tabernacle", "ground plan", "holy of holies", "court of the sanctuary", "ark", "altar", "desert sanctuary", "wood engraving"],
+   "rights": "No known copyright restrictions. Via Wikimedia Commons (Internet Archive Book Images).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Jewish_tabernacle_and_priesthood_(1874)_(14781645942).jpg",
+   "summary": "A measured plan of the Tabernacle court showing the placement of the sacred furnishings within the curtained enclosure.\n\n## Iconography\nThe rectangular court is bounded by its hangings; within it stand the bronze altar of burnt offering and the laver, then the tent of meeting divided into the Holy Place (with table, lampstand and incense altar) and, behind the veil, the cubic Holy of Holies housing the Ark. A scale of cubits fixes the proportions.\n\n## Significance\nThe two-part division — outer Holy Place and inner [[motif:holy-of-holies|Holy of Holies]] — was understood as a graded ascent from world to heaven, the veil marking the boundary of the divine presence. The cube of the innermost chamber became, for kabbalists and Christian mystics alike, the figure of perfect containment where God dwelt with Israel. The whole plan is a diagram of sacred space stepped inward toward the center.\n\n## For artists & game designers\nThe nested-threshold layout — court, holy place, veiled cube — is a textbook progression of increasing sanctity and access restriction for a temple level.",
+   "citations": [
+    {"text": "Exodus 25–27 (the pattern of the tabernacle)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Jewish_tabernacle_and_priesthood_(1874)_(14781645942).jpg"}
+   ],
+   "key_concepts": ["tabernacle plan", "holy of holies", "veil", "sacred furnishings"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__brazen-sea",
+   "title": "Temple furnishings: the tabernacle, breastplate, molten sea and brazen laver",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Anonymous (Popular Graphic Arts chromolithograph)",
+   "date": "19th century",
+   "place": "United States",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["molten sea", "twelve oxen", "brazen laver", "breastplate", "altar of burnt offering", "tabernacle", "temple vessels", "chromolithograph"],
+   "rights": "Public domain (Library of Congress, LCCN 2004670678). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_tabernacle,_breast_plate,_altar_of_burnt_offering,_censers,_the_molten_sea,_brazen_laver_LCCN2004670678.jpg",
+   "summary": "A colour plate gathering the principal sacred vessels of the sanctuary — the Tabernacle, the high priest's breastplate, the altar of burnt offering, censers, the molten sea and the brazen laver — into a single instructional sheet.\n\n## Iconography\nSix labelled vignettes: the tented tabernacle; the jeweled breastplate; the smoking altar; a pair of censers; and most striking, **the molten (brazen) sea** — a great bronze basin resting on twelve oxen facing outward in fours — beside the ornate brazen laver on its wheeled stand.\n\n## Significance\nThe huge bronze [[motif:molten-sea|sea]] of Solomon's temple (1 Kings 7) held water for priestly purification, but its twelve oxen — three facing each quarter of the compass — invited cosmic reading: the waters of creation upheld by the twelve tribes / twelve months, the temple containing the sea as the world contains the deep. Such Victorian teaching plates kept this typological imagination alive for a mass readership.\n\n## For artists & game designers\nThe molten sea on twelve outward-facing oxen is a memorable cult-object design: a vessel of cosmic water borne by the four-times-three beasts of the directions.",
+   "citations": [
+    {"text": "1 Kings 7:23–26 (the molten sea)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_tabernacle,_breast_plate,_altar_of_burnt_offering,_censers,_the_molten_sea,_brazen_laver_LCCN2004670678.jpg"}
+   ],
+   "key_concepts": ["molten sea", "twelve oxen", "temple vessels", "brazen laver"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__jachin-boaz",
+   "title": "Jachin and Boaz: the two brazen pillars of the Temple",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Anonymous (Bible-dictionary diagram)",
+   "date": "19th century",
+   "place": "England / United States",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["jachin and boaz", "two pillars", "brazen pillars", "capitals", "pomegranates", "lily-work", "temple porch", "diagram"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:C%2BB-Temple-Fig5-BrazenPillars.PNG",
+   "summary": "A reconstruction diagram of Jachin and Boaz, the two great bronze pillars that stood before the porch of Solomon's Temple.\n\n## Iconography\nTwo free-standing columns are shown with their elaborate capitals — bowl-shaped chapiters wreathed with rows of pomegranates, lily-work and netted chequer ornament, as described in 1 Kings 7. The diagram details the proportions and the decorative bands rather than setting them in a scene.\n\n## Significance\nThe pillars **Jachin** ('he shall establish') and **Boaz** ('in him is strength') framed the temple entrance and were never structural — they were monumental signs. Later esoteric and especially **Masonic** tradition read them as the twin pillars of the cosmos: severity and mercy, sun and moon, the gateway between the profane world and the sanctuary. They appear on Masonic [[motif:jachin-and-boaz|tracing boards]] and tarot's High Priestess as the threshold of hidden knowledge.\n\n## For artists & game designers\nTwo named, asymmetrically-meaning pillars flanking a doorway is a compact way to mark a threshold of initiation — pass between the pair and the rules change.",
+   "citations": [
+    {"text": "1 Kings 7:15–22 (Jachin and Boaz)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:C%2BB-Temple-Fig5-BrazenPillars.PNG"}
+   ],
+   "key_concepts": ["Jachin and Boaz", "two pillars", "threshold symbolism", "Masonic pillars"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__ark-covenant",
+   "title": "The Ark of the Covenant",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Philip Y. Pendleton",
+   "date": "late 19th – early 20th century",
+   "place": "United States",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["ark of the covenant", "cherubim", "mercy seat", "gold", "carrying poles", "tablets of the law", "divine throne", "illustration"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ark_of_the_Covenant.png",
+   "summary": "An illustration of the Ark of the Covenant, the gold-plated chest that was the holiest object of Israel and the focus of the Holy of Holies.\n\n## Iconography\nA rectangular chest sheathed in gold, fitted with rings and carrying-poles, surmounted by the **mercy seat** flanked by two cherubim whose outstretched wings arch toward one another above it. Within lie the tablets of the law.\n\n## Significance\nThe Ark was conceived as God's earthly throne: the empty space between the [[motif:cherubim|cherubim]] wings was where the divine glory was said to dwell and speak. As the heart of first the Tabernacle and then the Temple, it made the sanctuary a meeting-point of heaven and earth — the still center around which the whole cosmic diagram of camp and temple was organized. Its loss haunted later Jewish and esoteric speculation.\n\n## For artists & game designers\nThe ultimate sacred MacGuffin: a portable throne whose power lives in the *empty* space it frames, guarded by winged guardians — terrible to touch, central to everything.",
+   "citations": [
+    {"text": "Exodus 25:10–22 (the ark and mercy seat)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ark_of_the_Covenant.png"}
+   ],
+   "key_concepts": ["Ark of the Covenant", "mercy seat", "cherubim throne", "divine presence"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__ark-cherubim",
+   "title": "The Ark and cherubim in the Holy of Holies",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Anonymous (in 'The Rites and Worship of the Jews', 1890)",
+   "date": "1890",
+   "place": "England / United States",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["ark of the covenant", "cherubim", "holy of holies", "winged guardians", "mercy seat", "veil", "inner sanctuary", "wood engraving"],
+   "rights": "No known copyright restrictions. Via Wikimedia Commons (Internet Archive Book Images).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_rites_and_worship_of_the_Jews_(1890)_(14777994404).jpg",
+   "summary": "A wood-engraving of the Ark of the Covenant overshadowed by the great cherubim of the inner sanctuary.\n\n## Iconography\nThe golden Ark stands beneath two towering winged cherubim whose wings meet overhead to canopy the mercy seat. In Solomon's Temple these guardian figures were colossal — some fifteen feet tall — their wingspans stretching from wall to wall of the windowless cubic [[motif:holy-of-holies|Holy of Holies]].\n\n## Significance\nThe cherubim were the temple's living throne-bearers, derived from the winged composite guardians of the ancient Near East. Ezekiel's vision later fused them with the four living creatures and the wheels of the divine chariot (*Merkavah*), making the inner sanctuary the seat of a mobile cosmos. Jewish *Merkavah* mysticism and later kabbalah meditated on this guarded center as the gateway to the highest heavens.\n\n## For artists & game designers\nGiant winged guardians wing-to-wing over a sacred object turn a small room into the most charged space in the world — scale and enclosure doing the work of awe.",
+   "citations": [
+    {"text": "1 Kings 6:23–28 (the cherubim of the oracle)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_rites_and_worship_of_the_Jews_(1890)_(14777994404).jpg"}
+   ],
+   "key_concepts": ["cherubim", "Holy of Holies", "Merkavah", "Ark of the Covenant"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__breastplate-hoshen",
+   "title": "Representation of the high priest's breastplate (Hoshen)",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "in Robert Hindmarsh / 'Precious Stones' (1851)",
+   "date": "1851",
+   "place": "England",
+   "era": "modern",
+   "tradition": "kabbalah",
+   "motifs": ["breastplate", "hoshen", "twelve stones", "twelve tribes", "high priest", "urim and thummim", "gemstones", "book illustration"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:%E2%80%9CREPRESENTATION_OF_THE_BREAST_PLATE%E2%80%9D_1851_book_illustration-_Precious_stones_-_being_an_account_of_the_stones_mentioned_in_the_Sacred_Scriptures_(IA_PreciousStonesBeingAnAccountOfTheStonesMentionedInTheSacred)_(page_69_crop).jpg",
+   "summary": "A diagram of the *Hoshen*, the jeweled breastplate of judgment worn by the high priest, showing its twelve gemstones in their four rows.\n\n## Iconography\nA square cloth field set with **twelve precious stones in a 3×4 grid**, each engraved with the name of one of the tribes of Israel, framed in gold settings and rings for fastening to the ephod. Captions name the stones — sardius, topaz, carbuncle, and so on.\n\n## Significance\nThe breastplate was a wearable cosmos. The twelve [[motif:twelve-tribes|tribes]] mapped onto twelve stones were equated by Philo and Josephus with the twelve signs of the zodiac and the twelve months, so the high priest bore the whole turning year and the ordered nation upon his heart as he entered the sanctuary. The hidden **Urim and Thummim** within it gave oracular answers, making the *Hoshen* both star-chart and divinatory instrument — a favourite emblem in kabbalistic and Hermetic readings of priesthood.\n\n## For artists & game designers\nA grid of twelve named, color-coded stones is an elegant inventory/zodiac UI — each gem a tribe, a month, a sign, and possibly a power.",
+   "citations": [
+    {"text": "Exodus 28:15–30; Josephus, *Jewish Antiquities* III.7.7 (stones as zodiac)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:%E2%80%9CREPRESENTATION_OF_THE_BREAST_PLATE%E2%80%9D_1851_book_illustration-_Precious_stones_-_being_an_account_of_the_stones_mentioned_in_the_Sacred_Scriptures_(IA_PreciousStonesBeingAnAccountOfTheStonesMentionedInTheSacred)_(page_69_crop).jpg"}
+   ],
+   "key_concepts": ["Hoshen breastplate", "twelve stones", "Urim and Thummim", "zodiacal tribes"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__aaron-vestments",
+   "title": "Aaron invested with the breastplate (Hoshen)",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Anonymous (Rijksmuseum impression)",
+   "date": "17th–18th century",
+   "place": "Low Countries",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["aaron", "high priest", "breastplate", "hoshen", "ephod", "priestly vestments", "investiture", "engraving"],
+   "rights": "CC0 (Rijksmuseum, RP-P-OB-44.900). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A%C3%A4ron_wordt_het_borstschild_(hoshen)_aangedaan,_RP-P-OB-44.900.jpg",
+   "summary": "An engraving showing Aaron, the first high priest, being vested with the jeweled breastplate (*Hoshen*) of his sacred office.\n\n## Iconography\nAaron stands in the full priestly regalia — the long robe, the ephod, the turban — as attendants fasten the square gemmed breastplate over his heart. The scene stages the moment of investiture, when an ordinary man is clothed into the role of mediator between Israel and God.\n\n## Significance\nThe high priest's vestments were read by Philo and Josephus as an image of the universe: the blue robe the heaven, the bells its harmonies, and the twelve-stoned [[motif:hoshen|breastplate]] the zodiac borne over the heart. To robe Aaron was to robe him in the cosmos, so that the one who entered the sanctuary carried creation itself before the divine presence. Christian Hebraists and kabbalists alike dwelt on this priestly microcosm.\n\n## For artists & game designers\nAn investiture scene — ordinary figure transformed by donning a coded garment — is a strong visual for a character gaining a sacred class or role.",
+   "citations": [
+    {"text": "Philo, *De vita Mosis* II; Josephus, *Jewish Antiquities* III.7."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:A%C3%A4ron_wordt_het_borstschild_(hoshen)_aangedaan,_RP-P-OB-44.900.jpg"}
+   ],
+   "key_concepts": ["Aaron", "priestly investiture", "Hoshen", "vestments as cosmos"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__heavenly-jerusalem",
+   "title": "Jerusalem and the Temple Mount from the Mount of Olives",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "in S. D. Phelps, 'Holy Land, with Glimpses of Europe and Egypt' (1872)",
+   "date": "1872",
+   "place": "United States",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["temple mount", "dome of the rock", "jerusalem", "holy city", "templum salomonis", "panorama", "pilgrimage view", "wood engraving"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Holy_Land,_with_glimpes_of_Europe_and_Egypt_(1872)_(14597422758).jpg",
+   "summary": "A topographic view of Jerusalem seen across the Kidron valley, the walled city and the Temple Mount with its dome rising on the far ridge.\n\n## Iconography\nIn the foreground travellers rest among the terraced slopes and tombs of the Kidron; beyond rises the walled city, dominated by the great platform of the Temple Mount crowned by the octagonal **Dome of the Rock** — the structure long taken in Christendom for the *Templum Salomonis* itself.\n\n## Significance\nFor medieval and early-modern Europe the Dome of the Rock *was* the Temple of Solomon: Crusader knights held it as the Templum Domini, and its octagon shaped countless 'temple' images (and the round Templar churches). This Victorian pilgrim's view continues that long conflation, presenting the [[motif:temple-of-solomon|holy mountain]] as the still-standing axis of sacred geography toward which the faithful journeyed.\n\n## For artists & game designers\nThe approach-shot of a sacred capital glimpsed across a valley, foreground pilgrims framing the distant dome, is the classic 'you have arrived at the holy city' establishing view.",
+   "citations": [
+    {"text": "S. D. Phelps, *Holy Land, with Glimpses of Europe and Egypt* (1872)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Holy_Land,_with_glimpes_of_Europe_and_Egypt_(1872)_(14597422758).jpg"}
+   ],
+   "key_concepts": ["Temple Mount", "Dome of the Rock", "Templum Salomonis", "Jerusalem"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "temple_cosmos__masonic-temple",
+   "title": "Masonic Temple (Solomon's Temple in Masonic reception)",
+   "work": "The Temple of Solomon & Sacred Architecture as a Model of the Cosmos",
+   "creator": "Anonymous (photograph; DPLA)",
+   "date": "late 19th – early 20th century",
+   "place": "United States",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["masonic temple", "solomon's temple", "freemasonry", "lodge architecture", "twin pillars", "fraternal building", "revival style", "photograph"],
+   "rights": "Public domain. Via Wikimedia Commons (DPLA).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Masonic_Temple_photograph_-_DPLA_-_ec2fab51342e580170ae10270b813820.jpg",
+   "summary": "A photograph of a Masonic Temple, the type of fraternal lodge building consciously named and styled after the Temple of Solomon.\n\n## Iconography\nA monumental masonry hall in a historicist revival idiom, its facade marked by columns and ceremonial entrance — a civic building that announces itself, by name and form, as a 'Temple'.\n\n## Significance\nFreemasonry takes the building of **Solomon's Temple** as its central allegory: the craft legend of the master builder Hiram, the [[motif:jachin-and-boaz|two pillars]] Jachin and Boaz, and the lodge laid out as a model of the temple-cosmos, oriented to the points of the compass with the Great Architect of the Universe presiding. Every Masonic Temple is thus a deliberate echo of the lost temple, restaging it as a moral and cosmic diagram for initiates. The motif carried temple-symbolism into modern civic architecture across the world.\n\n## For artists & game designers\nA secular building that is *named* a temple and laid out as a cosmic diagram shows how sacred-architecture symbolism survives into modern, ostensibly profane settings — useful for an esoteric secret-society faction.",
+   "citations": [
+    {"text": "A. Mackey, *Encyclopaedia of Freemasonry* (1874)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Masonic_Temple_photograph_-_DPLA_-_ec2fab51342e580170ae10270b813820.jpg"}
+   ],
+   "key_concepts": ["Masonic Temple", "Freemasonry", "Solomon's Temple allegory", "temple as cosmic diagram"],
+   "summary_status": "authored"
+  }
+ ]
+}

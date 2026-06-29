@@ -1,0 +1,865 @@
+{
+ "_note": "Image discovery queue. Engines (see RESEARCH_PLAN.md) append rows; the convergence loop advances status: proposed -> verified -> sourced -> cataloged (or rights_blocked). period = by SUBJECT. via: direct|reception|edition. rights: pd|cc|in_copyright|unknown. This is a SEED across all gaps; agents expand it. build_db.py can ingest into a `wanted` table for gap reporting.",
+ "wanted": [
+  {
+   "id": "apuleius_isis_initiation",
+   "title": "Initiation of Lucius into the Mysteries of Isis (Golden Ass)",
+   "subject": "apuleius_golden_ass",
+   "topic": "hermeticism",
+   "period": "antiquity",
+   "via": "reception",
+   "why": "Antique mystery-cult image-source; no ancient illustration survives — trace Isis iconography + illustrated editions.",
+   "candidate_sources": [
+    {
+     "where": "The Met / Wikimedia Commons",
+     "note": "Isis statuary; Renaissance+ illustrated editions"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "reception"
+  },
+  {
+   "id": "cupid_psyche_cycle",
+   "title": "Cupid and Psyche cycle (from the Golden Ass)",
+   "subject": "apuleius_golden_ass",
+   "topic": "neoplatonism",
+   "period": "renaissance",
+   "via": "reception",
+   "why": "The Neoplatonic soul-allegory embedded in Apuleius; vast art-historical afterlife (Raphael, Coypel).",
+   "candidate_sources": [
+    {
+     "where": "Rijksmuseum / Met open access",
+     "note": "engraved series"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "reception"
+  },
+  {
+   "id": "obrist_corpus_map",
+   "title": "Map obrist_medieval dump to Obrist's catalogue of early alchemical imagery",
+   "subject": "early_alchemical_imagery",
+   "topic": "alchemy",
+   "period": "medieval",
+   "via": "direct",
+   "why": "We hold an unlabeled page-dump; Obrist's plate-list is the finite spec for medieval alchemical images.",
+   "candidate_sources": [
+    {
+     "where": "local + holding libraries (BnF, BL, e-codices)",
+     "note": "harvest her figure-list, then source high-res per MS"
+    }
+   ],
+   "rights": "unknown",
+   "status": "proposed",
+   "engine": "compendium"
+  },
+  {
+   "id": "aurora_consurgens_zurich_full",
+   "title": "Aurora Consurgens — complete Zürich miniature cycle (high-res)",
+   "subject": "aurora_consurgens",
+   "topic": "alchemy",
+   "period": "medieval",
+   "via": "direct",
+   "why": "We have a partial set; e-codices has the full Ms. Rh. 172 at IIIF resolution.",
+   "candidate_sources": [
+    {
+     "where": "e-codices",
+     "note": "https://www.e-codices.unifr.ch IIIF"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "repository"
+  },
+  {
+   "id": "ripley_scroll_witnesses",
+   "title": "Ripley Scroll — the major surviving witnesses",
+   "subject": "ripley_scroll",
+   "topic": "alchemy",
+   "period": "renaissance",
+   "via": "direct",
+   "why": "Several spectacular scrolls survive (Wellcome, Huntington, BL, Getty); catalog the image, list witnesses.",
+   "candidate_sources": [
+    {
+     "where": "Wellcome Collection",
+     "note": "IIIF, CC0"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "repository"
+  },
+  {
+   "id": "geheime_figuren_rosenkreuzer",
+   "title": "Geheime Figuren der Rosenkreuzer (Secret Symbols of the Rosicrucians) — full plates",
+   "subject": "rosicrucian_symbols",
+   "topic": "rosicrucian",
+   "period": "early_modern",
+   "via": "direct",
+   "why": "The keystone Rosicrucian colour-plate corpus (Altona, 1785–88); iconic and public domain.",
+   "candidate_sources": [
+    {
+     "where": "Internet Archive / Wikimedia",
+     "note": "search 'Geheime Figuren'"
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "compendium"
+  },
+  {
+   "id": "fludd_divine_monochord",
+   "title": "Fludd — the Divine Monochord",
+   "subject": "fludd_cosmology",
+   "topic": "hermeticism",
+   "period": "early_modern",
+   "via": "direct",
+   "why": "Iconic macrocosm-as-instrument diagram; pairs with the Great Chain we already hold.",
+   "candidate_sources": [
+    {
+     "where": "Wikimedia Commons",
+     "note": "Utriusque cosmi"
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "repository"
+  },
+  {
+   "id": "khunrath_oratory_laboratory",
+   "title": "Khunrath — the Oratory-Laboratory plate",
+   "subject": "khunrath_amphitheatrum",
+   "topic": "hermeticism",
+   "period": "renaissance",
+   "via": "direct",
+   "why": "The most famous Khunrath engraving; identify it within our khunrath page-scans or source clean.",
+   "candidate_sources": [
+    {
+     "where": "Wikimedia Commons / our khunrath set",
+     "note": "the round 'ora et labora' plate"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "repository"
+  },
+  {
+   "id": "baldung_witches_1510",
+   "title": "Hans Baldung Grien — Witches' Sabbath (1510 chiaroscuro woodcut)",
+   "subject": "witchcraft",
+   "topic": "witchcraft",
+   "period": "renaissance",
+   "via": "direct",
+   "why": "Foundational image of the witchcraft visual tradition.",
+   "candidate_sources": [
+    {
+     "where": "The Met / Rijksmuseum open access",
+     "note": "CC0"
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "repository"
+  },
+  {
+   "id": "compendium_maleficarum_woodcuts",
+   "title": "Compendium Maleficarum (Guazzo, 1608) — the demonological woodcuts",
+   "subject": "witchcraft",
+   "topic": "witchcraft",
+   "period": "early_modern",
+   "via": "direct",
+   "why": "The canonical sabbath/pact/flight woodcut suite.",
+   "candidate_sources": [
+    {
+     "where": "Internet Archive / Wellcome",
+     "note": ""
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "compendium"
+  },
+  {
+   "id": "newes_from_scotland",
+   "title": "Newes from Scotland (1591) — witch-trial pamphlet woodcuts",
+   "subject": "witchcraft",
+   "topic": "witchcraft",
+   "period": "early_modern",
+   "via": "direct",
+   "why": "Early printed witch-trial propaganda imagery.",
+   "candidate_sources": [
+    {
+     "where": "British Library / EEBO (PD scans)",
+     "note": ""
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "repository"
+  },
+  {
+   "id": "dictionnaire_infernal_demons",
+   "title": "Dictionnaire Infernal (Collin de Plancy, 1863) — demon portraits",
+   "subject": "demonology",
+   "topic": "ceremonial_goetia",
+   "period": "modern",
+   "via": "direct",
+   "why": "The famous illustrated demon gallery (Bael, Astaroth, etc.); pairs with our Goetia data.",
+   "candidate_sources": [
+    {
+     "where": "Wikimedia Commons",
+     "note": "Louis Le Breton engravings"
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "repository"
+  },
+  {
+   "id": "goetia_72_seals_plates",
+   "title": "The 72 Goetia seals — whole-page plates (Mathers/Crowley 1904)",
+   "subject": "goetia",
+   "topic": "ceremonial_goetia",
+   "period": "early_modern",
+   "via": "edition",
+   "why": "Turns the Goetic Hierarchy collection live; cross-link our GoetiaRevEng analysis.",
+   "candidate_sources": [
+    {
+     "where": "Internet Archive / Wikimedia",
+     "note": "The Goetia, 1904"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "compendium"
+  },
+  {
+   "id": "witch_of_endor",
+   "title": "The Witch of Endor raising Samuel — across art history",
+   "subject": "biblical_magic",
+   "topic": "divination",
+   "period": "renaissance",
+   "via": "direct",
+   "why": "Necromancy in canonical art (West, Rosa, Martynov…); a whole iconographic class.",
+   "candidate_sources": [
+    {
+     "where": "Met / Rijksmuseum / NGA open access",
+     "note": "Iconclass 71 E"
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "iconclass"
+  },
+  {
+   "id": "simon_magus_fall",
+   "title": "The Fall of Simon Magus — across art history",
+   "subject": "biblical_magic",
+   "topic": "ceremonial_goetia",
+   "period": "medieval",
+   "via": "direct",
+   "why": "The arch-magician of Christian legend; Romanesque→Baroque depictions.",
+   "candidate_sources": [
+    {
+     "where": "museum open access",
+     "note": "Iconclass 73 F"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "iconclass"
+  },
+  {
+   "id": "moses_pharaoh_magicians",
+   "title": "Moses & Aaron vs Pharaoh's magicians (serpent-rods)",
+   "subject": "biblical_magic",
+   "topic": "alchemy",
+   "period": "renaissance",
+   "via": "direct",
+   "why": "The serpent/transformation contest; read alchemically in the period.",
+   "candidate_sources": [
+    {
+     "where": "museum open access",
+     "note": "Iconclass 71 E"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "iconclass"
+  },
+  {
+   "id": "adoration_magi_astrologers",
+   "title": "The Adoration of the Magi (as astrologers following the star)",
+   "subject": "biblical_magic",
+   "topic": "astrology",
+   "period": "renaissance",
+   "via": "direct",
+   "why": "The Magi as astrologer-kings; vast PD corpus tied to astrology.",
+   "candidate_sources": [
+    {
+     "where": "Met / NGA / Rijksmuseum",
+     "note": "Iconclass 73 B"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "iconclass"
+  },
+  {
+   "id": "gnostic_abraxas_gems",
+   "title": "Gnostic / Abraxas magical gems",
+   "subject": "magical_gems",
+   "topic": "hermeticism",
+   "period": "antiquity",
+   "via": "direct",
+   "why": "Genuine antique occult objects (Abraxas, Chnoubis); museum-photographed.",
+   "candidate_sources": [
+    {
+     "where": "British Museum / The Met / CBd (Campbell Bonner Magical Gems DB)",
+     "note": "http://cbd.mfab.hu"
+    }
+   ],
+   "rights": "unknown",
+   "status": "proposed",
+   "engine": "repository"
+  },
+  {
+   "id": "greek_magical_papyri",
+   "title": "Greek Magical Papyri (PGM) — voces magicae & charakteres drawings",
+   "subject": "pgm",
+   "topic": "ceremonial_goetia",
+   "period": "antiquity",
+   "via": "direct",
+   "why": "The drawn sigils/charakteres of late-antique ritual magic.",
+   "candidate_sources": [
+    {
+     "where": "papyrus collections (Berlin, Leiden) / Preisendanz plates",
+     "note": ""
+    }
+   ],
+   "rights": "unknown",
+   "status": "proposed",
+   "engine": "repository"
+  },
+  {
+   "id": "mithras_tauroctony",
+   "title": "Mithraic tauroctony & astral imagery",
+   "subject": "mithraism",
+   "topic": "astrology",
+   "period": "antiquity",
+   "via": "direct",
+   "why": "Late-antique mystery cult with explicit astral symbolism.",
+   "candidate_sources": [
+    {
+     "where": "museum open access",
+     "note": ""
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "repository"
+  },
+  {
+   "id": "visconti_sforza_tarot",
+   "title": "Visconti-Sforza tarot (15th c.) — the surviving cards",
+   "subject": "tarot",
+   "topic": "divination",
+   "period": "renaissance",
+   "via": "direct",
+   "why": "The earliest substantial tarot deck; origin of the divination-image lineage.",
+   "candidate_sources": [
+    {
+     "where": "Morgan Library / Beinecke / Wikimedia",
+     "note": ""
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "repository"
+  },
+  {
+   "id": "tarot_de_marseille",
+   "title": "Tarot de Marseille (Conver, 1760) — full deck",
+   "subject": "tarot",
+   "topic": "divination",
+   "period": "early_modern",
+   "via": "direct",
+   "why": "The canonical historical deck.",
+   "candidate_sources": [
+    {
+     "where": "BnF Gallica / Wikimedia",
+     "note": ""
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "repository"
+  },
+  {
+   "id": "waite_smith_tarot",
+   "title": "Rider-Waite-Smith tarot (1909) — full deck",
+   "subject": "tarot",
+   "topic": "divination",
+   "period": "modern",
+   "via": "direct",
+   "why": "The most influential modern deck; now public domain (pre-1929).",
+   "candidate_sources": [
+    {
+     "where": "Wikimedia Commons",
+     "note": "Pamela Colman Smith"
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "repository"
+  },
+  {
+   "id": "children_of_the_planets",
+   "title": "The Children of the Planets (Hausbuch / blockbook series)",
+   "subject": "astrology",
+   "topic": "astrology",
+   "period": "medieval",
+   "via": "direct",
+   "why": "The classic series pairing each planet with the human types it governs.",
+   "candidate_sources": [
+    {
+     "where": "Wikimedia / museum open access",
+     "note": ""
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "repository"
+  },
+  {
+   "id": "zodiac_man",
+   "title": "The Zodiac Man / Homo Signorum (Books of Hours, almanacs)",
+   "subject": "astrology",
+   "topic": "astrology",
+   "period": "medieval",
+   "via": "direct",
+   "why": "Astrological medicine's signature image across centuries.",
+   "candidate_sources": [
+    {
+     "where": "BnF / Morgan / Wikimedia",
+     "note": ""
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "repository"
+  },
+  {
+   "id": "portae_lucis_tree",
+   "title": "Portae Lucis (1516) frontispiece — the Sephirotic Tree",
+   "subject": "kabbalah",
+   "topic": "kabbalah",
+   "period": "renaissance",
+   "via": "direct",
+   "why": "The first printed Tree of Life in a Christian book; the keystone Kabbalah image.",
+   "candidate_sources": [
+    {
+     "where": "Wikimedia / library scans",
+     "note": "Reuchlin/Ricius"
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "repository"
+  },
+  {
+   "id": "kircher_sephiroth_tree",
+   "title": "Kircher — Sephirotic Tree (Oedipus Aegyptiacus)",
+   "subject": "kabbalah",
+   "topic": "kabbalah",
+   "period": "early_modern",
+   "via": "direct",
+   "why": "The famous baroque Tree of Life engraving.",
+   "candidate_sources": [
+    {
+     "where": "Wikimedia Commons",
+     "note": ""
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "repository"
+  },
+  {
+   "id": "dee_monas_hieroglyphica",
+   "title": "John Dee — the Monas Hieroglyphica glyph & diagrams",
+   "subject": "enochian",
+   "topic": "enochian",
+   "period": "renaissance",
+   "via": "direct",
+   "why": "Dee's compressed cosmological sigil; turns the Enochian topic live.",
+   "candidate_sources": [
+    {
+     "where": "Internet Archive (1564 ed.) / Wikimedia",
+     "note": ""
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "repository"
+  },
+  {
+   "id": "dee_sigillum_dei_aemeth",
+   "title": "John Dee — Sigillum Dei Aemeth",
+   "subject": "enochian",
+   "topic": "enochian",
+   "period": "renaissance",
+   "via": "direct",
+   "why": "The great angelic seal (BL Sloane MS).",
+   "candidate_sources": [
+    {
+     "where": "British Library / Wikimedia",
+     "note": "Sloane 3188"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "repository"
+  },
+  {
+   "id": "durer_melencolia",
+   "title": "Dürer — Melencolia I (1514)",
+   "subject": "saturn_melancholy",
+   "topic": "astrology",
+   "period": "renaissance",
+   "via": "direct",
+   "why": "The supreme image of Saturnine melancholy, the magic square, and occult geometry.",
+   "candidate_sources": [
+    {
+     "where": "The Met / NGA open access",
+     "note": "CC0"
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "repository"
+  },
+  {
+   "id": "levi_baphomet",
+   "title": "Éliphas Lévi — Baphomet (the Sabbatic Goat, 1856)",
+   "subject": "occult_revival",
+   "topic": "ceremonial_goetia",
+   "period": "modern",
+   "via": "direct",
+   "why": "The defining image of the 19th-c. occult revival.",
+   "candidate_sources": [
+    {
+     "where": "Wikimedia Commons",
+     "note": "Dogme et rituel"
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "repository"
+  },
+  {
+   "id": "besant_leadbeater_thought_forms",
+   "title": "Besant & Leadbeater — Thought-Forms (1901) plates",
+   "subject": "theosophy",
+   "topic": "neoplatonism",
+   "period": "modern",
+   "via": "direct",
+   "why": "Proto-abstract Theosophical colour plates; hugely influential.",
+   "candidate_sources": [
+    {
+     "where": "Internet Archive / Wikimedia",
+     "note": ""
+    }
+   ],
+   "rights": "pd",
+   "status": "cataloged",
+   "engine": "repository"
+  },
+  {
+   "id": "boehme_gichtel_theosophical_man",
+   "title": "Gichtel — the Theosophical Man (Boehme tradition)",
+   "subject": "boehmenism",
+   "topic": "neoplatonism",
+   "period": "early_modern",
+   "via": "direct",
+   "why": "The chakra-like diagram of the regenerate soul.",
+   "candidate_sources": [
+    {
+     "where": "Wikimedia / library scans",
+     "note": "Theosophia Practica"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "repository"
+  },
+  {
+   "id": "obrist_oenb2372_secrets_creation_metals",
+   "title": "The Secrets of My Lady Alchemy — creation of metals",
+   "subject": "constantine_of_pisa",
+   "topic": "alchemy",
+   "period": "medieval",
+   "via": "manuscript",
+   "why": "Obrist Visualization fig.5; ONB cod.2372 fol.46vb-47ra, digitized.",
+   "candidate_sources": [
+    {
+     "where": "ONB Vienna (Digitalisierte Sammlungen) / IIIF",
+     "note": "cod. 2372, fol. 46vb-47ra"
+    }
+   ],
+   "rights": "verify",
+   "status": "proposed",
+   "engine": "compendium",
+   "source": "Obrist"
+  },
+  {
+   "id": "obrist_oenb2372_planet_metal_table",
+   "title": "Table of planet & metal qualities (My Lady Alchemy)",
+   "subject": "constantine_of_pisa",
+   "topic": "alchemy",
+   "period": "medieval",
+   "via": "manuscript",
+   "why": "Obrist Visualization fig.6; ONB cod.2372 fol.35r.",
+   "candidate_sources": [
+    {
+     "where": "ONB Vienna / IIIF",
+     "note": "cod. 2372, fol. 35r"
+    }
+   ],
+   "rights": "verify",
+   "status": "proposed",
+   "engine": "compendium",
+   "source": "Obrist"
+  },
+  {
+   "id": "obrist_gratheus_picture_cycle",
+   "title": "Gratheus, Introduction to Alchemy — picture cycle (Ylarius/Virgo/Multipos)",
+   "subject": "gratheus",
+   "topic": "alchemy",
+   "period": "medieval",
+   "via": "manuscript",
+   "why": "Obrist Visualization figs.9,10,14; ONB cod.2372 fols.57-60; ed. Birkhan 1992.",
+   "candidate_sources": [
+    {
+     "where": "ONB Vienna / IIIF",
+     "note": "cod. 2372, fols. 57va, 59ra, 60rb"
+    }
+   ],
+   "rights": "verify",
+   "status": "proposed",
+   "engine": "compendium",
+   "source": "Obrist"
+  },
+  {
+   "id": "obrist_aurora_consurgens_cycle",
+   "title": "Aurora consurgens — full 37-illustration cycle",
+   "subject": "aurora_consurgens",
+   "topic": "alchemy",
+   "period": "medieval",
+   "via": "manuscript",
+   "why": "Obrist Visualization fig.11; richest medieval alchemical picture-cycle. Zurich Rh.172, fully on e-codices.",
+   "candidate_sources": [
+    {
+     "where": "e-codices",
+     "note": "Zentralbibliothek Zurich, Ms. Rh. 172"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "compendium",
+   "source": "Obrist"
+  },
+  {
+   "id": "obrist_bnf_lat6514_alembic",
+   "title": "Alembic apparatus (BnF lat. 6514)",
+   "subject": "alchemical_apparatus",
+   "topic": "alchemy",
+   "period": "medieval",
+   "via": "manuscript",
+   "why": "Obrist Visualization fig.7; late-13th-c. apparatus. BnF lat.6514 fol.70r on Gallica.",
+   "candidate_sources": [
+    {
+     "where": "BnF / Gallica",
+     "note": "ms. lat. 6514, fol. 70r"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "compendium",
+   "source": "Obrist"
+  },
+  {
+   "id": "obrist_constantine_pisa_ferg104",
+   "title": "Constantine of Pisa, Book of the Secrets of Alchemy",
+   "subject": "constantine_of_pisa",
+   "topic": "alchemy",
+   "period": "medieval",
+   "via": "manuscript",
+   "why": "Obrist Visualization fig.4; earliest dated (1361) creation-of-metals programme. Glasgow Ferg.104 fol.45v.",
+   "candidate_sources": [
+    {
+     "where": "Glasgow University Library (Ferguson)",
+     "note": "MS Ferguson 104, fol. 45v"
+    }
+   ],
+   "rights": "verify",
+   "status": "proposed",
+   "engine": "compendium",
+   "source": "Obrist"
+  },
+  {
+   "id": "obrist_semita_recta_hunt110",
+   "title": "Semita recta — vessels & furnace",
+   "subject": "pseudo_albertus",
+   "topic": "alchemy",
+   "period": "medieval",
+   "via": "manuscript",
+   "why": "Obrist Visualization fig.8; early depictions of processes in glass vessels. Glasgow Hunt.110.",
+   "candidate_sources": [
+    {
+     "where": "Glasgow University Library (Hunterian)",
+     "note": "MS Hunter 110, fols. 27r-35v"
+    }
+   ],
+   "rights": "verify",
+   "status": "proposed",
+   "engine": "compendium",
+   "source": "Obrist"
+  },
+  {
+   "id": "obrist_buch_heiligen_dreifaltigkeit",
+   "title": "Buch der heiligen Dreifaltigkeit — illustrated cycle",
+   "subject": "book_of_holy_trinity",
+   "topic": "alchemy",
+   "period": "medieval",
+   "via": "manuscript",
+   "why": "Obrist Visualization fig.2; first richly illustrated German alchemical work, ca.1420. GNM Nurnberg ms.80061; Berlin SBB.",
+   "candidate_sources": [
+    {
+     "where": "GNM Nurnberg / Berlin Staatsbibliothek",
+     "note": "ms. 80 061; mgf 42"
+    }
+   ],
+   "rights": "verify",
+   "status": "proposed",
+   "engine": "compendium",
+   "source": "Obrist"
+  },
+  {
+   "id": "obrist_pseudolull_testamentum_rotation",
+   "title": "Pseudo-Lull, Testamentum — rotation of the elements",
+   "subject": "pseudo_lull",
+   "topic": "alchemy",
+   "period": "medieval",
+   "via": "manuscript",
+   "why": "Obrist Visualization fig.15; elemental-rotation diagram. Oxford CCC 244 fol.58vb.",
+   "candidate_sources": [
+    {
+     "where": "Corpus Christi College, Oxford",
+     "note": "MS 244, fol. 58vb"
+    }
+   ],
+   "rights": "verify",
+   "status": "proposed",
+   "engine": "compendium",
+   "source": "Obrist"
+  },
+  {
+   "id": "obrist_ripley_scroll",
+   "title": "The Ripley Scroll — emblematic alchemical verse-scroll",
+   "subject": "george_ripley",
+   "topic": "alchemy",
+   "period": "medieval",
+   "via": "manuscript",
+   "why": "Discussed by Obrist as terminal case where image overwhelms text; many 15-16c copies (BL, Bodleian, Yale, Getty).",
+   "candidate_sources": [
+    {
+     "where": "British Library / Beinecke / Getty",
+     "note": "numerous copies; choose a digitized PD one"
+    }
+   ],
+   "rights": "verify",
+   "status": "proposed",
+   "engine": "compendium",
+   "source": "Obrist"
+  },
+  {
+   "id": "boderie_three_worlds_32_paths",
+   "title": "Three Worlds / 32 Paths of Wisdom diagram (Boderie, Heptaple 1578)",
+   "subject": "christian_cabala",
+   "topic": "kabbalah",
+   "period": "renaissance",
+   "via": "reception",
+   "why": "The Crofton Black Pico-Heptaplus cover image: Nicolas Le Fevre de la Boderie, Le coeur Leb ou les 32 sentiers de sapience, in the 1578 French Heptaple. Not on Commons; PD print on Gallica.",
+   "candidate_sources": [
+    {
+     "where": "Gallica / BnF",
+     "note": "ark:/12148/bpt6k8584280 (LHarmonie du monde + lHeptaple); locate the 32-sentiers diagram folio, pull via IIIF"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "reception",
+   "source": "user_request"
+  },
+  {
+   "id": "ilanot_tree_scrolls",
+   "title": "Kabbalistic Ilan / Ilanot tree-of-life scrolls",
+   "subject": "tree_of_life",
+   "topic": "kabbalah",
+   "period": "early_modern",
+   "via": "manuscript",
+   "why": "The great Sefirotic Ilan scrolls (Chajes Ilanot project). Not on Wikimedia Commons; held by NLI / Braginsky / research collections, often IIIF.",
+   "candidate_sources": [
+    {
+     "where": "National Library of Israel / Braginsky Collection / Ilanot Project",
+     "note": "IIIF manifests; verify rights per scroll"
+    }
+   ],
+   "rights": "verify",
+   "status": "proposed",
+   "engine": "repository",
+   "source": "user_request"
+  },
+  {
+   "id": "goetia_72_seals_full",
+   "title": "The full 72 demon sigils of the Ars Goetia",
+   "subject": "lemegeton",
+   "topic": "ceremonial_goetia",
+   "period": "early_modern",
+   "via": "print",
+   "why": "Have ~6 of the 72 Goetic seals; the full set exists on Commons largely as SVG (rasterize via fetch_svg.py).",
+   "candidate_sources": [
+    {
+     "where": "Wikimedia Commons (SVG)",
+     "note": "Category:Sigils of the Ars Goetia; fetch_svg.py + author"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "compendium",
+   "source": "user_request"
+  },
+  {
+   "id": "planetary_intelligence_spirit_seals",
+   "title": "Planetary Intelligence & Spirit sigils + Venus/Moon seals (Agrippa/Barrett)",
+   "subject": "planetary_magic",
+   "topic": "ceremonial_goetia",
+   "period": "renaissance",
+   "via": "print",
+   "why": "Have 5 of 7 Barrett planetary SEALS; still want Venus & Moon seals and the Intelligence/Spirit character-sigils (SVG on Commons).",
+   "candidate_sources": [
+    {
+     "where": "Wikimedia Commons (SVG)",
+     "note": "Barrett Magus series; fetch_svg.py"
+    }
+   ],
+   "rights": "pd",
+   "status": "proposed",
+   "engine": "compendium",
+   "source": "user_request"
+  }
+ ]
+}

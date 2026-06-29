@@ -1,0 +1,598 @@
+{
+ "_work": {
+  "key": "harmony_spheres",
+  "short_id": "HSPH",
+  "title": "The Music of the Spheres & Cosmic Harmony",
+  "creator": "various",
+  "date": "9th c. (Boethius tradition) – 1650",
+  "century": 16,
+  "place": "Italy, German lands, France",
+  "region": "Europe",
+  "language": "Latin",
+  "era": "renaissance",
+  "tradition": "hermetic",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "harmony_spheres",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Musica_universalis",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "music of the spheres",
+   "monochord",
+   "musical ratios",
+   "planetary modes",
+   "pythagoras and the hammers",
+   "tetractys"
+  ],
+  "blurb": "Woodcuts, engravings and diagrams of the Pythagorean-Platonic doctrine that the cosmos is a tuned instrument: Gaffurio's Apollo-and-the-planetary-modes frontispiece and his Pythagoras-discovers-the-ratios plates, Boethius and the personified quadrivium, Robert Fludd's Temple of Music and musica mundana diagram, Kepler's planetary harmonies, Kircher's Musurgia Universalis, the Macrobian cosmos of the Dream of Scipio, the tetractys, and the monochord by which one string measures the whole tuned universe."
+ },
+ "entries": [
+  {
+   "id": "harmony_spheres__gaffurio-apollo-spheres",
+   "title": "Apollo, the Muses and the planetary modes (Practica Musicae frontispiece)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Franchino Gaffurio (workshop woodcut)",
+   "date": "1496",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "music of the spheres",
+    "planetary modes",
+    "three-headed serpent",
+    "apollo enthroned",
+    "the muses",
+    "celestial scale",
+    "zodiac signs",
+    "three graces"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_music_of_the_spheres.jpg",
+   "summary": "The celebrated cosmological woodcut from Franchino Gaffurio's *Practica Musicae* (Milan, 1496), the single most influential Renaissance image of the music of the spheres.\n\n## Iconography\n**Apollo** sits enthroned at the top beneath the banner *Mentis Apollineae vis has movet undique Musas* (\"the power of the Apollonian mind moves these Muses everywhere\"), flanked by the three **Graces** (Euphrosyne, Aglaia, Thalia). From his throne a great **three-headed serpent** — wolf, lion and dog, Macrobius's emblem of Time — descends through the heavens. Along its coils run the planetary spheres from the *primum mobile* down to the Moon, each linked to a **Muse**, a musical mode (Hypermixolydius, Mixolydius, Lydius, Phrygius, Dorius … Hypodorius), a whole-tone or semitone interval, and a zodiac sign; the silent Earth at the base bears Thalia and the four elements.\n\n## Significance\nThe plate fuses the eight tones of the [[motif:music-of-the-spheres|celestial scale]] with the Muses, the modes and the planets into one diagram, making audible Plato's and Cicero's claim that the turning heavens sound a cosmic octave. It became the canonical visual statement of *musica mundana* and was copied for over a century.\n\n## For artists & game designers\nA ready-made vertical 'cosmic ladder': each rung carries a planet, a note, a mode and a Muse — a complete correspondence stack to drive a layered soundtrack.",
+   "citations": [
+    {
+     "text": "F. Gaffurio, *Practica Musicae* (Milan, 1496)."
+    },
+    {
+     "text": "S. K. Heninger, *Touches of Sweet Harmony* (1974)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:The_music_of_the_spheres.jpg"
+    }
+   ],
+   "key_concepts": [
+    "music of the spheres",
+    "planetary modes",
+    "three-headed serpent of time",
+    "Gaffurio"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__gaffurio-practica-frontispiece",
+   "title": "Opening page of the Practica Musicae (Dresden copy)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Franchino Gaffurio (illuminated print)",
+   "date": "1496 (this hand-illuminated copy)",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "illuminated incipit",
+    "music treatise",
+    "pythagoras experiment",
+    "decorated border",
+    "quadrivium",
+    "renaissance printing",
+    "harmonic science",
+    "marginalia"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Dresden_-_Treasures_from_the_Saxon_State_Library_Seite_058.jpg",
+   "summary": "The richly illuminated opening leaf of Gaffurio's *Practica Musicae* — *Franchini Gafori Laudensis Musicae actionis liber primus* — from the deluxe copy in the Saxon State Library, Dresden.\n\n## Iconography\nA decorated initial and grotesque-and-foliage **borders** frame the Latin text in which Gaffurio defends harmonic science against the *cessantes* who deny that music rests on theory. In the lower margin a small scene shows musicians and an experiment with sounding vessels, recalling the legendary discovery of the consonances; classical putti and candelabra ornament the side panel.\n\n## Significance\nThe page presents music as a learned quadrivial science continuous with arithmetic and the [[motif:music-of-the-spheres|harmony of the cosmos]]. As a hand-painted incunable it shows how the new print culture clothed Pythagorean–Boethian music theory in humanist splendour, and stands as the gateway to the famous spheres-frontispiece that opens the same book.\n\n## For artists & game designers\nThe illuminated-incipit format — text framed by living ornament with a narrative scene in the margin — is a clean template for an in-game 'grimoire page'.",
+   "citations": [
+    {
+     "text": "F. Gaffurio, *Practica Musicae* (Milan, 1496)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Dresden_-_Treasures_from_the_Saxon_State_Library_Seite_058.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Practica Musicae",
+    "illuminated incipit",
+    "quadrivium",
+    "Gaffurio"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__gaffurio-de-harmonia",
+   "title": "Harmonia est discordia concors (Gaffurio teaching)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Franchino Gaffurio (woodcut)",
+   "date": "1518 (De Harmonia Musicorum Instrumentorum Opus)",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "organ pipes",
+    "musical ratios",
+    "lectern teaching",
+    "concordant discord",
+    "proportion numbers",
+    "author portrait",
+    "harmonic proportion",
+    "students"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Harmonia.Gaffurius.png",
+   "summary": "The author-and-pupils woodcut associated with Franchino Gaffurio's *De Harmonia Musicorum Instrumentorum Opus* (1518), bearing his motto on concordant discord.\n\n## Iconography\nGaffurio stands at a **lectern** (inscribed *Franchin*) addressing a group of students; behind him a rank of **organ pipes** is labelled with the numbers 6, 4, 3 — the lengths that yield the octave, fifth and fourth. A scroll proclaims *Harmonia est discordia concors* (\"harmony is concordant discord\"), the Pythagorean principle that unlike sounds unite by ratio.\n\n## Significance\nThe plate makes the abstract mathematics of consonance visible as measured pipe-lengths, the same whole-number ratios (2:1, 3:2, 4:3) Pythagoras was said to have discovered. By printing his motto Gaffurio binds practical instrument-tuning to the cosmic doctrine that the [[motif:musical-ratios|ratios]] reconciling discord into [[motif:music-of-the-spheres|harmony]] also govern the heavens and the soul.\n\n## For artists & game designers\nNumbered pipes (6-4-3) are a compact way to show 'tuning as math' on screen — adjust a number, hear the interval shift.",
+   "citations": [
+    {
+     "text": "F. Gaffurio, *De Harmonia Musicorum Instrumentorum Opus* (Milan, 1518)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Harmonia.Gaffurius.png"
+    }
+   ],
+   "key_concepts": [
+    "harmonia est discordia concors",
+    "musical ratios",
+    "organ pipes",
+    "Gaffurio"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__gaffurio-theorica",
+   "title": "Theorica Musicae (title woodcut, 1492)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Franchino Gaffurio (woodcut)",
+   "date": "1492",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "pythagoras and the hammers",
+    "bells",
+    "musical ratios",
+    "title woodcut",
+    "blacksmith",
+    "consonance discovery",
+    "monochord",
+    "quadrivium"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Franchino_Gafori_Theorica_musicae_1492_Titel.jpg",
+   "summary": "The title page of Gaffurio's *Theorica Musicae* (Milan, 1492), the printed source of the most-reproduced version of the Pythagoras-and-the-hammers legend.\n\n## Iconography\nThe woodcut's panels show the philosopher experimenting on sounding bodies to fix the consonant ratios: striking **hammers** of different weights at a forge, sounding **bells**, plucking strings under graded weights, and blowing pipes and glasses filled to different levels. Inscribed numbers mark the 6:8:9:12 proportions that yield octave, fifth and fourth.\n\n## Significance\nThe legend (transmitted by Nicomachus and [[motif:pythagoras-and-the-hammers|Boethius]]) held that Pythagoras passing a smithy heard consonances in the ringing hammers and so discovered that musical harmony reduces to simple whole-number [[motif:musical-ratios|ratios]]. Gaffurio's plate fixed the iconography for the Renaissance, even though the hammer-weight version is acoustically impossible — a myth of origin for the whole science of *musica*.\n\n## For artists & game designers\nFour 'experiment stations' (hammers, bells, strings, pipes) all yielding the same numbers make an elegant discovery-puzzle of acoustics.",
+   "citations": [
+    {
+     "text": "F. Gaffurio, *Theorica Musicae* (Milan, 1492)."
+    },
+    {
+     "text": "Boethius, *De institutione musica*, Book I."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Franchino_Gafori_Theorica_musicae_1492_Titel.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Pythagoras and the hammers",
+    "Theorica Musicae",
+    "discovery of the consonances",
+    "Gaffurio"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__pythagoras-monochord",
+   "title": "Pythagoras with bells, glasses and monochord (Theorica Musicae)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Franchino Gaffurio (woodcut)",
+   "date": "1492",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "pythagoras and the hammers",
+    "monochord",
+    "bells",
+    "musical glasses",
+    "weighted strings",
+    "pipes",
+    "numerical ratios",
+    "consonance discovery"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Gaffurio_Pythagoras.png",
+   "summary": "The four-panel Pythagoras illustration from Gaffurio's *Theorica Musicae* (1492), isolating the legendary experiments by which the consonances were found.\n\n## Iconography\nIn successive scenes Pythagoras (and in one panel Philolaus) tests sounding bodies marked with the numbers **4, 6, 8, 9, 12, 16**: hammers at a forge, tuned **bells**, water-filled **glasses**, strings stretched by hanging weights, and graduated **pipes**. The last panel shows a divided string — the [[motif:monochord|monochord]] — the one instrument that genuinely demonstrates that halving a string yields the octave (2:1).\n\n## Significance\nThe sequence is the visual catechism of Pythagorean harmonics: every consonance proceeds from ratios among the first numbers. Only the monochord experiment is physically sound; the rest are legendary, yet together they enshrine the conviction that number is the hidden cause of beauty and that the same ratios tune the [[motif:music-of-the-spheres|cosmos]].\n\n## For artists & game designers\nThe numbered sounding objects are a tidy 'lab' of ratio puzzles; the monochord alone is the honest one — useful for a 'find the real law' beat.",
+   "citations": [
+    {
+     "text": "F. Gaffurio, *Theorica Musicae* (Milan, 1492)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Gaffurio_Pythagoras.png"
+    }
+   ],
+   "key_concepts": [
+    "monochord",
+    "Pythagorean experiments",
+    "numerical ratios",
+    "Gaffurio"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__boethius-musica",
+   "title": "Boethius, De institutione musica (Einsiedeln manuscript)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Anonymous scribe (after Boethius)",
+   "date": "10th–11th c. (manuscript)",
+   "place": "Einsiedeln, Switzerland",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": [
+    "monochord",
+    "musical proportions",
+    "manuscript diagram",
+    "musica mundana",
+    "quadrivium",
+    "interval ratios",
+    "boethius",
+    "neumes"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Einsiedeln,_MS_Codex_358_(610)_fol._91v-92r_-_Boethius%27_De_institutione_musica.jpg",
+   "summary": "A two-page opening from a medieval manuscript of Boethius's *De institutione musica* (Einsiedeln, Stiftsbibliothek, Codex 358), the textbook that transmitted Greek harmonic theory to the Latin West.\n\n## Iconography\nThe ruled folios carry Boethius's text with **proportion diagrams** and a divided-string [[motif:monochord|monochord]] scale in the margins, the numbers and arcs setting out the intervals of the tone, semitone and the consonances. Such figures let a reader literally measure the ratios as lengths.\n\n## Significance\nBoethius (c. 500 CE) divided music into *musica mundana* (the harmony of the spheres), *musica humana* (the concord of body and soul) and *musica instrumentalis* (audible sound), a scheme that organised the medieval [[motif:quadrivium|quadrivium]] for a thousand years. His insistence that true music is the rational science of number behind sound underlies every later image in this collection; the manuscript diagrams are the working tools of that doctrine.\n\n## For artists & game designers\nThe three-fold scheme — world, human, instrument — is a clean way to tier a music system from cosmic to personal to played.",
+   "citations": [
+    {
+     "text": "Boethius, *De institutione musica* (c. 500 CE)."
+    },
+    {
+     "text": "C. Bower, 'Boethius and Nicomachus', *Vivarium* (1978)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Einsiedeln,_MS_Codex_358_(610)_fol._91v-92r_-_Boethius%27_De_institutione_musica.jpg"
+    }
+   ],
+   "key_concepts": [
+    "musica mundana",
+    "monochord",
+    "De institutione musica",
+    "Boethius"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__typus-arithmeticae",
+   "title": "Typus Arithmeticae: Boethius and Pythagoras reckon (Margarita Philosophica)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Gregor Reisch (woodcut)",
+   "date": "1503 (this impression 1517)",
+   "place": "Freiburg / Basel, German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "arithmetica personified",
+    "boethius",
+    "pythagoras",
+    "abacus and algorism",
+    "number mysticism",
+    "quadrivium",
+    "counting board",
+    "hindu-arabic numerals"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Typus_arithmeticae_LCCN92518152.jpg",
+   "summary": "The *Typus Arithmeticae* woodcut from Gregor Reisch's encyclopaedia *Margarita Philosophica* (1503), the famous contest of the new written calculation against the old counting board.\n\n## Iconography\nLady **Arithmetica**, her gown patterned with the doubling and triple proportions (2 4 8 / 3 9 27 that generate the musical intervals), presides between two reckoners. On the left **Boethius** computes with Hindu-Arabic numerals and pen (*algorismus*); on the right **Pythagoras** works counters on an **abacus** (*abacus*). Arithmetica's gaze favours the smiling Boethius.\n\n## Significance\nReisch personifies the foundational art of the [[motif:quadrivium|quadrivium]]: arithmetic, the science of number, parent of music, geometry and astronomy. The numbers woven into her dress are precisely the Platonic *lambda* series whose ratios yield the harmonic intervals, so the image quietly asserts that the same numbers underlie calculation and the [[motif:music-of-the-spheres|harmony of the spheres]]. It also dramatises the historical victory of written arithmetic over the abacus.\n\n## For artists & game designers\nThe 'two methods, one judge' staging is a vivid template for an in-game contest between an old and a new system of power.",
+   "citations": [
+    {
+     "text": "G. Reisch, *Margarita Philosophica* (Freiburg, 1503)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Typus_arithmeticae_LCCN92518152.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Arithmetica personified",
+    "abacus versus algorism",
+    "harmonic proportions",
+    "quadrivium"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__tetractys",
+   "title": "The Pythagorean Tetractys",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Anonymous (diagram)",
+   "date": "modern rendering of an ancient figure",
+   "place": "Europe",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": [
+    "tetractys",
+    "ten points",
+    "triangle of dots",
+    "decad",
+    "musical ratios",
+    "number mysticism",
+    "tetragrammaton",
+    "pythagorean oath"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Tetragrammaton-Tetractys.png",
+   "summary": "A diagram of the Pythagorean *tetractys*, the triangular figure of ten points in rows of 1-2-3-4, here paired with the Hebrew Tetragrammaton.\n\n## Iconography\nTen dots are stacked in a perfect equilateral **triangle**: one at the apex, then two, three and four below, summing to the sacred **decad** (10). The four rows correspond to point, line, plane and solid, and to the ratios 1:2, 2:3, 3:4 that generate the octave, fifth and fourth. In the kabbalistic overlay each row bears the letters of the divine Name in expanding combination.\n\n## Significance\nThe [[motif:tetractys|tetractys]] was so holy to the Pythagoreans that they swore oaths upon it as 'the source and root of ever-flowing nature'. Because its first four numbers contain all the musical consonances, it is the seed of the entire doctrine of cosmic [[motif:musical-ratios|harmony]]: the same little triangle holds the scale, the dimensions of space and, for later Christian-cabalist readers, the structure of the divine Name.\n\n## For artists & game designers\nA four-row triangle that encodes both geometry and the musical scale is a perfect minimalist sigil — one shape, total cosmology.",
+   "citations": [
+    {
+     "text": "Iamblichus, *Life of Pythagoras*."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Tetragrammaton-Tetractys.png"
+    }
+   ],
+   "key_concepts": [
+    "tetractys",
+    "decad",
+    "musical ratios",
+    "Pythagorean oath"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__fludd-temple-music",
+   "title": "The Temple of Music (Templum Musicae)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Robert Fludd (engr. de Bry)",
+   "date": "1618",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "temple of music",
+    "spiral",
+    "apollo lyre",
+    "architectural allegory",
+    "harmonic proportion",
+    "arches and columns",
+    "musica instrumentalis",
+    "memory theatre"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006255_Musik_%5E_Tempel_%5E_Spirale_%5E_Harfe_%5E_Laute.jpg",
+   "summary": "Robert Fludd's *Templum Musicae* (\"Temple of Music\") from the music treatise within *Utriusque Cosmi Historia* (vol. I, 1618), an architectural allegory that organises the whole theory of music.\n\n## Iconography\nA fantastical building rises in stages: a great **spiral** scroll dominates the central tower, while colonnaded **arches** to the sides shelter figures — a radiant musician (often read as Apollo or Timotheus) holding an instrument, and a satyr/Pan in a garden. Each architectural member is keyed to an element of music theory (the spiral to proportion, the windows and pilasters to intervals, modes and notes), so the temple is a memory-theatre of the discipline.\n\n## Significance\nFludd casts *musica instrumentalis* as a temple whose every measure embodies harmonic [[motif:musical-ratios|proportion]], a built image of the conviction that music mirrors the architecture of the [[motif:music-of-the-spheres|cosmos]]. The plate belongs to his vast Hermetic project to show the [[motif:macrocosm|macrocosm]] and microcosm tuned by the same divine numbers.\n\n## For artists & game designers\nA building whose rooms each teach a rule of music is a finished design for a 'temple level' where architecture is the tutorial.",
+   "citations": [
+    {
+     "text": "R. Fludd, *Utriusque Cosmi … Historia*, vol. I (Oppenheim, 1617–1618)."
+    },
+    {
+     "text": "P. Ammann, 'The Musical Theory and Philosophy of Robert Fludd', *JWCI* (1967)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006255_Musik_%5E_Tempel_%5E_Spirale_%5E_Harfe_%5E_Laute.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Temple of Music",
+    "musica instrumentalis",
+    "harmonic proportion",
+    "Fludd"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__fludd-musica",
+   "title": "De Musica Mundana: the elements in proportion (Fludd)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Robert Fludd (engr. de Bry)",
+   "date": "1617",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "musica mundana",
+    "four elements",
+    "proportio dupla",
+    "proportio quadrupla",
+    "earth fire air water",
+    "harmonic intervals",
+    "cosmic proportion",
+    "diagram"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006472_Theosophie_%5E_Philosophie_%5E_Sonifikation_%5E_Musik.jpg",
+   "summary": "Robert Fludd's *De Musica Mundana* diagram (p. 97 of *Utriusque Cosmi Historia*), mapping the world's elements onto the consonant musical intervals.\n\n## Iconography\nFrom the dark globe of **Terra** at the bottom, wedge-shaped regions rise through **Aqua**, **Aer** and **Ignis**; concentric arcs and radiating lines are labelled with the harmonic proportions — *Proportio Dupla* (2:1, the octave), *Sesquialtera* (3:2, the fifth), *Sesquitertia* (4:3, the fourth) and *Quadrupla* (4:1, the double octave) — so the spacing of the elemental spheres is set out as a musical scale.\n\n## Significance\nThe plate is Fludd's geometric proof that the cosmos is literally tuned: the distances of the elements and spheres obey the same whole-number [[motif:musical-ratios|ratios]] as the consonances, the doctrine of *musica mundana* inherited from Pythagoras, Plato and [[motif:music-of-the-spheres|Boethius]]. It is the abstract counterpart to his celebrated cosmic monochord, here without the figure of God's tuning hand.\n\n## For artists & game designers\nElemental layers labelled with their interval ratios are a direct recipe for an ambient soundtrack that changes pitch by altitude.",
+   "citations": [
+    {
+     "text": "R. Fludd, *Utriusque Cosmi … Historia*, vol. I, tract. 'De Musica Mundana' (1617)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006472_Theosophie_%5E_Philosophie_%5E_Sonifikation_%5E_Musik.jpg"
+    }
+   ],
+   "key_concepts": [
+    "musica mundana",
+    "elemental proportions",
+    "consonant intervals",
+    "Fludd"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__macrobius",
+   "title": "The Macrobian cosmos (Dream of Scipio world map)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Anonymous (after Macrobius)",
+   "date": "Macrobius c. 430 CE; printed map after his scheme",
+   "place": "Europe",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": [
+    "dream of scipio",
+    "celestial spheres",
+    "zonal map",
+    "macrobius",
+    "world soul",
+    "cosmic harmony",
+    "torrid temperate frigid zones",
+    "encyclopaedic diagram"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Macrobius%27_world_map.jpg",
+   "summary": "A map after Macrobius's *Commentary on the Dream of Scipio* (early 5th c.), the text that carried the ancient doctrine of the harmony of the spheres through the Middle Ages.\n\n## Iconography\nThe earth is divided into the Macrobian **climatic zones** — two frigid caps, two temperate bands and a torrid equatorial belt crossed by an ocean — the scheme Macrobius derived from contemplating the cosmos in Scipio's dream. In the full vision this terrestrial globe sits at the still centre of the revolving **celestial spheres** whose motion sounds the cosmic music.\n\n## Significance\nIn Cicero's *Somnium Scipionis*, expounded by Macrobius, the elder Scipio shows the dreamer the nine [[motif:music-of-the-spheres|spheres]] whose turning produces a great concord, too constant for mortal ears to notice. Macrobius's commentary made this the standard medieval account of cosmic [[motif:cosmic-harmony|harmony]] and of the soul's descent and return, shaping writers from Boethius to Dante.\n\n## For artists & game designers\nThe zoned earth at the hub of singing spheres is a ready cosmology: a silent centre ringed by sounding shells.",
+   "citations": [
+    {
+     "text": "Macrobius, *Commentarii in Somnium Scipionis* (c. 430 CE)."
+    },
+    {
+     "text": "Cicero, *De re publica* VI ('Somnium Scipionis')."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Macrobius%27_world_map.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Dream of Scipio",
+    "Macrobian zones",
+    "harmony of the spheres",
+    "Macrobius"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__kircher-frontispiece",
+   "title": "Apollo with the lyre (Musurgia Universalis frontispiece)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Athanasius Kircher (engr. for the Musurgia)",
+   "date": "1650",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "apollo lyre",
+    "cerberus",
+    "musical statue",
+    "frontispiece",
+    "cosmic harmony",
+    "three-headed dog",
+    "pedestal",
+    "musurgia universalis"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Frontispiece,_volume_two,_%22Musurgia_Universalis%22_by_Athanasius_Kircher,_1650.png",
+   "summary": "An engraved frontispiece to the second volume of Athanasius Kircher's *Musurgia Universalis* (Rome, 1650), the Jesuit polymath's encyclopaedia of music and cosmic harmony.\n\n## Iconography\nA statue of **Apollo** stands on an ornamented pedestal holding his **lyre**, the three-headed **Cerberus** crouched at his feet, set in a classical landscape with columns and a distant town. The instrument and the three-headed beast recall the Gaffurio tradition in which the modes and the [[motif:three-headed-serpent|serpent of time]] descend from Apollo through the spheres.\n\n## Significance\nKircher's *Musurgia* sought to reduce all sounding nature — voices, instruments, birdsong, echoes and the [[motif:music-of-the-spheres|harmony of the spheres]] — to a single divine *musurgia* (\"work of the Muses\"). The Apolline frontispiece announces music as a cosmic, theological science in which God is the supreme organist tuning creation, the culminating Baroque statement of the Pythagorean tradition.\n\n## For artists & game designers\nApollo-with-lyre over a guardian beast on a plinth is a clean 'patron-of-harmony' shrine asset.",
+   "citations": [
+    {
+     "text": "A. Kircher, *Musurgia Universalis* (Rome, 1650)."
+    },
+    {
+     "text": "J. Godwin, *Athanasius Kircher* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Frontispiece,_volume_two,_%22Musurgia_Universalis%22_by_Athanasius_Kircher,_1650.png"
+    }
+   ],
+   "key_concepts": [
+    "Musurgia Universalis",
+    "Apollo and the lyre",
+    "cosmic harmony",
+    "Kircher"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__kircher-musurgia",
+   "title": "Plucked instruments and tunings (Musurgia Universalis)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Athanasius Kircher (engr. for the Musurgia)",
+   "date": "1650",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "lutes and citterns",
+    "tuning tables",
+    "musical notation",
+    "instrument plate",
+    "musica instrumentalis",
+    "string ratios",
+    "organology",
+    "musurgia universalis"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Athanasius_Kircher_-_Plucked_Instruments_from_Musurgia_universalis.jpg",
+   "summary": "An organological plate (*Iconismus VII*) of plucked string instruments from Kircher's *Musurgia Universalis* (1650), the practical face of his cosmic-harmony encyclopaedia.\n\n## Iconography\nLutes, **citterns**, a theorbo and related instruments are drawn in detail, each accompanied by **tuning tables** and short staves of notation that give the pitch of every course and the intervals between strings. The numbered fret and string charts translate each instrument into the ratios of *musica instrumentalis*.\n\n## Significance\nKircher's treatise moves continuously from such measured instruments up to the [[motif:music-of-the-spheres|harmony of the spheres]]: the same [[motif:musical-ratios|ratios]] tuning a lute string tune the planets and the soul. The plate shows how seventeenth-century scholarship grounded the grand Pythagorean cosmology in exact, empirical organology — the audible string as a model of the silent cosmos.\n\n## For artists & game designers\nPeriod-accurate instrument diagrams with tuning charts are drop-in reference for craftable instruments or a music-as-mechanic system.",
+   "citations": [
+    {
+     "text": "A. Kircher, *Musurgia Universalis* (Rome, 1650), Iconismus VII."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Athanasius_Kircher_-_Plucked_Instruments_from_Musurgia_universalis.jpg"
+    }
+   ],
+   "key_concepts": [
+    "musica instrumentalis",
+    "organology",
+    "string tunings",
+    "Kircher"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "harmony_spheres__harmony-spheres-engraving",
+   "title": "The Harmony of the Spheres (engraving, 1589)",
+   "work": "The Music of the Spheres & Cosmic Harmony",
+   "creator": "Anonymous (Mannerist engraver, after a Florentine intermedio)",
+   "date": "1589",
+   "place": "Florence / Northern Europe",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "harmony of the spheres",
+    "gods enthroned in clouds",
+    "the muses",
+    "dance of the hours",
+    "celestial concert",
+    "joined hands",
+    "planetary deities",
+    "mannerist allegory"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Print,_The_Harmony_of_Spheres,_1589_(CH_18100047).jpg",
+   "summary": "A Mannerist engraving titled *The Harmony of the Spheres* (1589), depicting the heavens as a cosmic concert and dance.\n\n## Iconography\nIn the upper register the planetary **deities** are enthroned among radiant **clouds** around a central sun-king, while in the foreground two rows of female figures — **Muses** and Hours — join hands in a stately ring **dance** across the firmament. The whole scene stages the turning of the spheres as a choreographed celestial harmony.\n\n## Significance\nThe print reflects the late-Renaissance fashion (crowned in the 1589 Florentine *intermedi* for the Medici wedding) for representing [[motif:music-of-the-spheres|cosmic harmony]] as a danced and sung spectacle. Drawing on Plato's *Republic* (the Sirens on the whirling spheres) and the Neoplatonism of Ficino, it presents the ordered cosmos as a perpetual concert in which planets, Muses and Hours move in measured [[motif:cosmic-harmony|concord]].\n\n## For artists & game designers\nGods above, dancers below, all moving to one inaudible measure — a vivid blueprint for a 'celestial ballroom' set-piece.",
+   "citations": [
+    {
+     "text": "Plato, *Republic* X (the Myth of Er)."
+    },
+    {
+     "text": "D. P. Walker, *Spiritual and Demonic Magic from Ficino to Campanella* (1958)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Print,_The_Harmony_of_Spheres,_1589_(CH_18100047).jpg"
+    }
+   ],
+   "key_concepts": [
+    "harmony of the spheres",
+    "celestial dance",
+    "Florentine intermedi",
+    "Neoplatonism"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

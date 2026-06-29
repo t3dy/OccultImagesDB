@@ -1,0 +1,733 @@
+{
+ "_work": {
+  "key": "hermetic_egypt",
+  "short_id": "HRMEG",
+  "title": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+  "creator": "various",
+  "date": "1499–1808",
+  "century": 17,
+  "place": "Italy & Europe",
+  "region": "Italy",
+  "language": "Latin, Italian, French & German",
+  "era": "early_modern",
+  "tradition": "hermetic",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "hermetic_egypt",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Athanasius_Kircher",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "hieroglyphs",
+   "obelisk",
+   "hermes trismegistus",
+   "isis and the mensa isiaca",
+   "sphinx",
+   "prisca theologia"
+  ],
+  "blurb": "Images of 'Egyptosophy' — the Renaissance and Baroque conviction that Egyptian hieroglyphs and gods encoded a primordial Hermetic theology. Spanning the Bembine Tablet (Mensa Isiaca) at Turin, Athanasius Kircher's Egyptological folios (Oedipus Aegyptiacus, Obeliscus Pamphilius, Sphinx Mystagoga, Mundus Subterraneus), the hieroglyph compendia of Horapollo and Pierio Valeriano, the Hypnerotomachia's dream-obelisk, the re-erected obelisks of Baroque Rome, and the gods Apis, Thoth, and Isis as the Western esoteric tradition imagined them."
+ },
+ "entries": [
+  {
+   "id": "hermetic_egypt__mensa-isiaca",
+   "title": "The Mensa Isiaca (Bembine Tablet of Isis), Museo Egizio, Turin",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Anonymous (Roman workshop, Egyptianising style)",
+   "date": "1st century CE",
+   "place": "Rome (now Museo Egizio, Turin)",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": [
+    "mensa isiaca",
+    "bembine tablet",
+    "isis enthroned",
+    "bronze inlay",
+    "pseudo-hieroglyphs",
+    "egyptianising",
+    "isiac cult",
+    "silver and niello"
+   ],
+   "rights": "CC0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mensa_Isiaca,_bronze_-_Museo_Egizio,_Turin_C_7155_p02.jpg",
+   "summary": "The *Mensa Isiaca* — the celebrated 'Bembine Tablet of Isis', a large bronze altar-table inlaid with silver and niello, the single most influential object in the early-modern misreading of Egypt.\n\n## Iconography\nA central shrine frames an enthroned [[motif:isis enthroned|Isis]] surrounded by registers of Egyptian and Egyptianising deities, processions, and bands of pseudo-hieroglyphic signs. Though Roman work of the imperial Isiac cult, its glyphs are largely decorative imitations rather than legible Egyptian script.\n\n## Significance\nNamed for Cardinal Pietro Bembo, who owned it in the sixteenth century, the tablet was read by Renaissance scholars as a key to Egyptian theology. [[motif:hermes trismegistus|Athanasius Kircher]] devoted much of his *Oedipus Aegyptiacus* to 'translating' its imaginary inscriptions, an enterprise wholly overturned once Champollion deciphered the real hieroglyphs in 1822, exposing it as Roman pastiche.\n\n## For artists & game designers\nA master 'mysterious tablet' prop: a metal slab crowded with gods and undecipherable signs that any scholar-NPC will confidently — and wrongly — claim to read.",
+   "citations": [
+    {
+     "text": "Erik Iversen, *The Myth of Egypt and Its Hieroglyphs in European Tradition* (1961)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Mensa_Isiaca,_bronze_-_Museo_Egizio,_Turin_C_7155_p02.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Mensa Isiaca",
+    "Bembine Tablet",
+    "Isiac cult",
+    "Egyptosophy"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__oedipus-aegyptiacus-frontispiece",
+   "title": "Frontispiece to Kircher's *Oedipus Aegyptiacus*",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Athanasius Kircher (author)",
+   "date": "1652–1654",
+   "place": "Rome",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "oedipus aegyptiacus",
+    "frontispiece",
+    "hieroglyphs",
+    "sphinx",
+    "egyptian wisdom",
+    "jesuit erudition",
+    "baroque title page",
+    "ancient theology"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Oed-aegyp.png",
+   "summary": "The frontispiece to Athanasius Kircher's vast *Oedipus Aegyptiacus* (Rome, 1652–54), the Jesuit polymath's attempt to restore the 'lost' wisdom of the hieroglyphs.\n\n## Iconography\nThe Baroque title page massess Egyptian emblems — sphinxes, obelisks, and ranks of [[motif:hieroglyphs|hieroglyphic signs]] — around the title, casting Kircher as the new Oedipus who will solve the riddle of the Egyptian Sphinx.\n\n## Significance\nKircher believed the hieroglyphs were a symbolic theology concealing Hermetic and Neoplatonic truths handed down from [[motif:hermes trismegistus|Hermes Trismegistus]]. His 'translations' were entirely fanciful, yet the *Oedipus* became the encyclopedic monument of seventeenth-century Egyptomania and a cornerstone of the *prisca theologia* idea later studied by Frances Yates and Erik Iversen.\n\n## For artists & game designers\nA definitive 'tome of forbidden Egyptian lore' cover: dense, authoritative, and confidently mistaken — perfect set dressing for a scholar's study.",
+   "citations": [
+    {
+     "text": "Daniel Stolzenberg, *Egyptian Oedipus: Athanasius Kircher and the Secrets of Antiquity* (2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Oed-aegyp.png"
+    }
+   ],
+   "key_concepts": [
+    "Oedipus Aegyptiacus",
+    "Athanasius Kircher",
+    "hieroglyphic theology",
+    "Egyptomania"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__kircher-obelisk-hieroglyphs",
+   "title": "Hieroglyphic obelisk plate from Kircher's *Oedipus Aegyptiacus*",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Athanasius Kircher",
+   "date": "1652–1654",
+   "place": "Rome",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "obelisk",
+    "hieroglyphs",
+    "kircher",
+    "oedipus aegyptiacus",
+    "symbolic interpretation",
+    "prisca theologia",
+    "egyptian column",
+    "engraved plate"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kircher_oedipus_aegyptiacus_3_elogium_aegypti_prisca_small.png",
+   "summary": "An engraved plate from the third volume of Kircher's *Oedipus Aegyptiacus*, presenting an obelisk shaft covered in hieroglyphs alongside his 'reading' of them.\n\n## Iconography\nA tall obelisk face is rendered glyph by glyph, each [[motif:hieroglyphs|hieroglyphic]] register paired with Kircher's allegorical Latin gloss. The plate belongs to his project of recovering the *prisca aegyptiorum sapientia* — the 'ancient wisdom of the Egyptians'.\n\n## Significance\nKircher treated each sign as an ideogram encoding a whole theological proposition, producing elaborate sentences from a handful of figures. Champollion's later decipherment showed the hieroglyphs to be a mixed phonetic-logographic script, but Kircher's engravings remain the visual emblem of the Hermetic dream that Egypt held a primordial revelation.\n\n## For artists & game designers\nA reusable 'annotated monument' layout: a carved column flanked by a scholar's confident, sprawling translation — instant arcane exposition.",
+   "citations": [
+    {
+     "text": "Erik Iversen, *The Myth of Egypt and Its Hieroglyphs* (1961)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Kircher_oedipus_aegyptiacus_3_elogium_aegypti_prisca_small.png"
+    }
+   ],
+   "key_concepts": [
+    "obelisk",
+    "hieroglyphic interpretation",
+    "Kircher",
+    "prisca sapientia"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__obeliscus-pamphilius",
+   "title": "Plate from Kircher's *Obeliscus Pamphilius* (the Pamphilj obelisk)",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Athanasius Kircher",
+   "date": "1650",
+   "place": "Rome",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "obeliscus pamphilius",
+    "pamphilj obelisk",
+    "hieroglyphs",
+    "piazza navona",
+    "kircher",
+    "innocent x",
+    "engraved plate",
+    "egyptian column"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kircher_Obeliscus_Pamphilius_page_444.jpg",
+   "summary": "A page (444) from Athanasius Kircher's *Obeliscus Pamphilius* (Rome, 1650), his study of the obelisk Pope Innocent X raised over Bernini's Fountain of the Four Rivers in Piazza Navona.\n\n## Iconography\nThe plate reproduces the obelisk's [[motif:hieroglyphs|hieroglyphic]] faces with Kircher's interpretive apparatus. The book served as a learned prelude to the still grander *Oedipus Aegyptiacus* two years later.\n\n## Significance\nThe Pamphilj obelisk is a Roman-made monument in the Egyptian manner; Kircher nonetheless 'translated' its glyphs as a Hermetic-theological message, lending Baroque papal Rome the prestige of Egyptian antiquity. The episode is central to accounts of how the Counter-Reformation papacy appropriated [[motif:obelisk|obelisks]] as Christianised solar monuments.\n\n## For artists & game designers\nA case study in monument-as-propaganda: a ruler crowns a public fountain with an ancient pillar and commissions a scholar to declare it prophesies his reign.",
+   "citations": [
+    {
+     "text": "Brian Curran et al., *Obelisk: A History* (2009)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Kircher_Obeliscus_Pamphilius_page_444.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Obeliscus Pamphilius",
+    "Pamphilj obelisk",
+    "Piazza Navona",
+    "papal Egyptomania"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__kircher-sphynx-mystagoga",
+   "title": "Kircher's *Sphinx Mystagoga* (1676)",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Athanasius Kircher",
+   "date": "1676",
+   "place": "Amsterdam / Rome",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "sphinx",
+    "mystagogue",
+    "kircher",
+    "mummies",
+    "egyptian funerary",
+    "hieroglyphs",
+    "engraved plate",
+    "initiation"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sphinx_Mystagoga_1676_(8266803).jpg",
+   "summary": "A plate from Athanasius Kircher's late work *Sphinx Mystagoga* (1676), in which the Egyptian Sphinx is cast as the 'leader into the mysteries' (*mystagogos*).\n\n## Iconography\nThe engraving displays Egyptian funerary material — mummies, sarcophagi, and inscriptions — framed by the title's promise that the [[motif:sphinx|Sphinx]] will conduct the reader into hidden truth. The plate gathers reports of mummies and tombs into Kircher's enduring symbolic-theological scheme.\n\n## Significance\n*Sphinx Mystagoga* extended Kircher's Egyptological programme to mummification and the afterlife, treating the riddling Sphinx as guardian of an initiatory wisdom. Though his decipherments were illusory, his framing of Egypt as a land of [[motif:initiation|sacred mysteries]] shaped the esoteric imagination from the Enlightenment through the modern occult revival.\n\n## For artists & game designers\nA tomb-crawl frontispiece: a Sphinx-warded chamber of mummies presented as the threshold to secret knowledge.",
+   "citations": [
+    {
+     "text": "Daniel Stolzenberg, *Egyptian Oedipus* (2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Sphinx_Mystagoga_1676_(8266803).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Sphinx Mystagoga",
+    "Kircher",
+    "Egyptian mysteries",
+    "mummies"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__kircher-mundus-subterraneus",
+   "title": "Frontispiece to Kircher's *Mundus Subterraneus* (Theodor Matham)",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Theodor Matham (engraver), after Athanasius Kircher",
+   "date": "1665",
+   "place": "Amsterdam",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "mundus subterraneus",
+    "frontispiece",
+    "kircher",
+    "subterranean world",
+    "divine light",
+    "natural philosophy",
+    "engraved title page",
+    "cosmic order"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Theodor_matham-frontispicio_de_Athanasii_Kircheri_e_soc._Jesu_Mundus_subterraneus.jpg",
+   "summary": "The engraved frontispiece, by Theodor Matham, to Athanasius Kircher's *Mundus Subterraneus* (Amsterdam, 1665), his cosmography of the hidden world beneath the earth.\n\n## Iconography\nAn allegorical title page descends from a radiant divine source through the heavens to the fiery interior of the globe, personifying the chain of causes that animates the subterranean realm. Figures of Nature and Providence mediate the influx of [[motif:divine light|divine light]] into matter.\n\n## Significance\nThough not strictly an Egyptological book, *Mundus Subterraneus* belongs to the same Hermetic-Jesuit vision: a cosmos bound by hidden correspondences and sympathetic forces, the natural-philosophical counterpart to Kircher's Egyptian theology of secret meanings. It is a key text in the history of geology, volcanology, and Baroque natural magic.\n\n## For artists & game designers\nA vertical 'as above, so below' splash image: heaven, earth's surface, and a molten underworld linked by a single shaft of light.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Athanasius Kircher's Theatre of the World* (2009)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Theodor_matham-frontispicio_de_Athanasii_Kircheri_e_soc._Jesu_Mundus_subterraneus.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Mundus Subterraneus",
+    "Kircher",
+    "subterranean cosmology",
+    "Baroque natural magic"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__valeriano-hieroglyphica",
+   "title": "Pierio Valeriano, *Hieroglyphica* (1556) — page of Egyptian symbols",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Giovanni Pierio Valeriano Bolzani",
+   "date": "1556",
+   "place": "Basel / Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "hieroglyphica",
+    "pierio valeriano",
+    "symbolic emblems",
+    "egyptian letters",
+    "humanist compendium",
+    "woodcut",
+    "allegory",
+    "ancient wisdom"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hieroglyphica,_siue,_De_sacris_Aegyptiorum_literis_commentarii,_Ioannis_Pierii_Valeriani_Bolzanii_Bellunensis_(1556)_(14767398113).jpg",
+   "summary": "A page from Pierio Valeriano's *Hieroglyphica, sive De sacris Aegyptiorum literis commentarii* (1556), the great Renaissance dictionary of symbolic meanings 'on the sacred letters of the Egyptians'.\n\n## Iconography\nThe book pairs woodcut images of animals, plants, and objects with learned commentary on their allegorical sense, treating each as a [[motif:hieroglyphs|hieroglyphic]] sign whose hidden meaning the humanist scholar must unfold.\n\n## Significance\nBuilding on the rediscovered *Hieroglyphica* of Horapollo, Valeriano's vast compendium reconceived Egyptian writing as a universal symbolic language and supplied a quarry of motifs for emblem books, imprese, and Baroque iconography. It is a foundational text of the Renaissance conviction, traced by E. H. Gombrich and Erik Iversen, that hieroglyphs were pictures of timeless ideas.\n\n## For artists & game designers\nA ready-made symbol-lexicon: each entry is an icon plus its 'true meaning', ideal for a puzzle system where creatures and objects spell out hidden messages.",
+   "citations": [
+    {
+     "text": "Erik Iversen, *The Myth of Egypt and Its Hieroglyphs* (1961)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hieroglyphica,_siue,_De_sacris_Aegyptiorum_literis_commentarii,_Ioannis_Pierii_Valeriani_Bolzanii_Bellunensis_(1556)_(14767398113).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Hieroglyphica",
+    "Pierio Valeriano",
+    "symbolic hieroglyphs",
+    "emblem tradition"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__hypnerotomachia-obelisk",
+   "title": "Egyptian obelisk woodcut from the *Hypnerotomachia Poliphili*",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Anonymous (woodcut); Francesco Colonna (text); Aldus Manutius (printer)",
+   "date": "1499",
+   "place": "Venice",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "hypnerotomachia",
+    "obelisk",
+    "dream architecture",
+    "hieroglyphs",
+    "aldine woodcut",
+    "antiquity revived",
+    "monument",
+    "polifilo"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hypnerotomachia_Polifili_00042.jpg",
+   "summary": "A woodcut of a monumental Egyptianising structure from the *Hypnerotomachia Poliphili* (Venice, Aldus Manutius, 1499), the dream-romance whose hero wanders a landscape of antique marvels.\n\n## Iconography\nThe image presents a towering ancient monument — part of the book's parade of obelisks, hieroglyph-bearing pylons, and fantastic architecture — drawn in the spare elegant line of the celebrated Aldine woodcuts. [[motif:hieroglyphs|Hieroglyphic]] devices appear as enigmatic captions to be decoded by the dreamer Polifilo.\n\n## Significance\nThe *Hypnerotomachia* fused humanist antiquarianism with invented hieroglyphs, popularising the idea that Egyptian signs were a silent language of pure image. Its woodcuts — including the famous obelisk borne by an elephant — became a touchstone for Renaissance design and for the obelisk's later career as an esoteric monument, a lineage examined by Anthony Grafton and Liane Lefaivre.\n\n## For artists & game designers\nA model for dreamlike ruin-exploration: monumental architecture inscribed with riddles the player must read to progress.",
+   "citations": [
+    {
+     "text": "Liane Lefaivre, *Leon Battista Alberti's Hypnerotomachia Poliphili* (1997)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hypnerotomachia_Polifili_00042.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Hypnerotomachia Poliphili",
+    "obelisk",
+    "Aldine woodcut",
+    "invented hieroglyphs"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__tabula-smaragdina",
+   "title": "*Tabula Smaragdina* (Emerald Tablet) — Theosophie & Alchemie engraving",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Anonymous (early-modern engraving)",
+   "date": "early modern (printed)",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "tabula smaragdina",
+    "emerald tablet",
+    "hermes trismegistus",
+    "as above so below",
+    "alchemy",
+    "engraved emblem",
+    "egyptian wisdom",
+    "secret of secrets"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006097_Theosophie_%5E_Alchemie.jpg",
+   "summary": "An early-modern emblematic engraving of the *Tabula Smaragdina* — the Emerald Tablet — the terse alchemical axiom-text ascribed to Hermes Trismegistus and imagined as Egyptian-Hermetic revelation (Deutsche Fotothek).\n\n## Iconography\nThe plate presents the tablet's sentences within an emblematic frame of theosophical and alchemical figures, expounding the maxim that 'that which is above is as that which is below'. The composition treats [[motif:hermes trismegistus|Hermes]]'s words as the foundation of the whole work of transmutation.\n\n## Significance\nThough the Emerald Tablet's earliest texts are medieval Arabic, the European tradition received it as the most ancient utterance of Egyptian Hermes, the compressed creed of [[motif:as above so below|correspondence]] between macrocosm and microcosm. Its history was untangled by Julius Ruska, who showed how thoroughly it was woven into the Hermetic myth of Egypt.\n\n## For artists & game designers\nA single 'law of the world' artifact-card: a tablet of axioms ringed by emblems, studied to unlock the correspondence mechanics of an alchemy system.",
+   "citations": [
+    {
+     "text": "Julius Ruska, *Tabula Smaragdina* (1926)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006097_Theosophie_%5E_Alchemie.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Tabula Smaragdina",
+    "Emerald Tablet",
+    "Hermes Trismegistus",
+    "as above so below"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__obelisk-piazza-navona",
+   "title": "Bernini's Fountain of the Four Rivers and the Pamphilj obelisk, Piazza Navona",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Gian Lorenzo Bernini (fountain); photograph by George M. Groutas",
+   "date": "1648–1651 (monument); modern photograph",
+   "place": "Piazza Navona, Rome",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "obelisk",
+    "piazza navona",
+    "fountain of the four rivers",
+    "bernini",
+    "pamphilj obelisk",
+    "baroque rome",
+    "egyptianising monument",
+    "papal triumph"
+   ],
+   "rights": "CC BY 2.0 (George M. Groutas). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fontana_dei_Quattro_Fiumi_in_Piazza_Navona_-_48136987891.jpg",
+   "summary": "Gian Lorenzo Bernini's *Fontana dei Quattro Fiumi* (1648–51) in Piazza Navona, crowned by the Pamphilj obelisk that Athanasius Kircher 'deciphered'.\n\n## Iconography\nFour river-gods of the personified continents recline around a rocky base from which rises the slender [[motif:obelisk|obelisk]], its faces carved with [[motif:hieroglyphs|hieroglyphs]]. A dove — emblem of the Pamphilj pope Innocent X — alights at the summit, Christianising the ancient solar shaft.\n\n## Significance\nThe ensemble is the supreme statement of Baroque papal Egyptomania: a Roman-made obelisk re-erected as a monument to universal Christian dominion, its glyphs glossed by Kircher in the *Obeliscus Pamphilius*. The fusion of Egyptian form and papal triumph is a central episode in Brian Curran's history of the obelisk.\n\n## For artists & game designers\nA grand civic set-piece: a watery plaza dominated by an ancient pillar that a regime has rebranded as a sign of its own destiny.",
+   "citations": [
+    {
+     "text": "Brian A. Curran et al., *Obelisk: A History* (2009)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fontana_dei_Quattro_Fiumi_in_Piazza_Navona_-_48136987891.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Piazza Navona obelisk",
+    "Bernini",
+    "papal Egyptomania",
+    "obelisk reception"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__lateran-obelisk",
+   "title": "The Lateran Obelisk, Piazza San Giovanni in Laterano (18th-c. view)",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Anonymous (18th-century vedutista)",
+   "date": "18th century (view); obelisk re-erected 1588",
+   "place": "Rome",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "obelisk",
+    "lateran obelisk",
+    "domenico fontana",
+    "sixtus v",
+    "veduta",
+    "egyptianising monument",
+    "rome",
+    "christianised pillar"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Piazza_San_Giovanni_in_Laterano_18c.jpg",
+   "summary": "An eighteenth-century view of the Piazza San Giovanni in Laterano, dominated by the Lateran Obelisk — the tallest standing Egyptian obelisk in the world.\n\n## Iconography\nThe veduta shows the colossal [[motif:obelisk|obelisk]], originally of Thutmose III/IV from Karnak, towering before the basilica where Domenico Fontana re-erected it for Pope Sixtus V in 1588, surmounted by a cross.\n\n## Significance\nSixtus V's campaign of raising Rome's fallen obelisks topped each with a cross or papal emblem, recasting the pagan solar pillars as trophies of the triumphant Church. The engineering feat of moving them, narrated in Fontana's own treatise, made the obelisk an emblem of both Egyptian antiquity and Counter-Reformation power, as discussed by Erik Iversen.\n\n## For artists & game designers\nA cathedral-square landmark: an ancient foreign monolith repurposed and crowned with the conqueror's holy symbol.",
+   "citations": [
+    {
+     "text": "Erik Iversen, *Obelisks in Exile, vol. 1: The Obelisks of Rome* (1968)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Piazza_San_Giovanni_in_Laterano_18c.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Lateran Obelisk",
+    "Domenico Fontana",
+    "Sixtus V",
+    "Christianised obelisk"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__obelisk-popolo",
+   "title": "The Flaminio Obelisk, Piazza del Popolo, Rome",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Photograph by Dudva (monument: ancient Egyptian, re-erected 1589)",
+   "date": "re-erected 1589 (monument); modern photograph",
+   "place": "Piazza del Popolo, Rome",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "obelisk",
+    "flaminio obelisk",
+    "piazza del popolo",
+    "sixtus v",
+    "egyptianising monument",
+    "hieroglyphs",
+    "solar pillar",
+    "rome"
+   ],
+   "rights": "CC0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Flaminio_obelisk_(Rome,_Piazza_del_Popolo).jpg",
+   "summary": "The Flaminio Obelisk in the Piazza del Popolo, one of the ancient Egyptian obelisks re-erected in Rome under Pope Sixtus V.\n\n## Iconography\nThe tall red-granite shaft, carved on all faces with [[motif:hieroglyphs|hieroglyphs]] of Seti I and Ramesses II, rises from a fountain base at the centre of the great oval piazza, a cross at its apex.\n\n## Significance\nBrought to Rome by Augustus for the Circus Maximus and raised again in 1589 by Domenico Fontana, the [[motif:obelisk|obelisk]] is part of Sixtus V's urban programme that turned Rome's scattered Egyptian monuments into a network of Christianised landmarks. Such obelisks fed the Hermetic-antiquarian fascination with Egypt that Kircher would systematise.\n\n## For artists & game designers\nA city-planning beacon: an ancient inscribed needle set as the focal point of a radiating public square.",
+   "citations": [
+    {
+     "text": "Erik Iversen, *Obelisks in Exile, vol. 1: The Obelisks of Rome* (1968)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Flaminio_obelisk_(Rome,_Piazza_del_Popolo).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Flaminio Obelisk",
+    "Piazza del Popolo",
+    "Sixtus V",
+    "Roman obelisks"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__vatican-obelisk",
+   "title": "The Vatican Obelisk before St Peter's Basilica",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Anonymous (monument re-erected by Domenico Fontana, 1586)",
+   "date": "re-erected 1586 (monument)",
+   "place": "St Peter's Square, Vatican, Rome",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "obelisk",
+    "vatican obelisk",
+    "domenico fontana",
+    "sixtus v",
+    "saint peters square",
+    "egyptianising monument",
+    "uninscribed shaft",
+    "solar pillar"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Obelisk1_vor_St_Peter.jpg",
+   "summary": "The Vatican Obelisk standing at the centre of St Peter's Square, the obelisk whose dramatic re-erection in 1586 inaugurated Sixtus V's obelisk campaign.\n\n## Iconography\nThe smooth red-granite [[motif:obelisk|shaft]] — uniquely among Rome's great obelisks, uninscribed with [[motif:hieroglyphs|hieroglyphs]] — rises from a base of bronze lions and is topped by a cross said to enclose a relic of the True Cross.\n\n## Significance\nDomenico Fontana's feat of transporting and raising the 300-tonne monolith for Pope Sixtus V was celebrated across Europe and recorded in his own illustrated treatise. Placed before the new basilica, the pagan Egyptian pillar was exorcised and consecrated, becoming the prototype for the Christianisation of Rome's obelisks and a spur to Hermetic-Egyptian antiquarianism.\n\n## For artists & game designers\nA plaza centrepiece and an engineering-epic in one: a giant foreign monolith hauled into place as the signature achievement of a ruler's reign.",
+   "citations": [
+    {
+     "text": "Erik Iversen, *Obelisks in Exile, vol. 1: The Obelisks of Rome* (1968)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Obelisk1_vor_St_Peter.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Vatican Obelisk",
+    "Domenico Fontana",
+    "Sixtus V",
+    "obelisk re-erection"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__pyramid-cestius",
+   "title": "*The Pyramid of Cestius, Rome* — Hubert Robert",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Hubert Robert",
+   "date": "later 18th century",
+   "place": "Rome (painted); Sheffield Galleries",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "pyramid of cestius",
+    "egyptian revival",
+    "roman ruins",
+    "hubert robert",
+    "capriccio",
+    "antiquity",
+    "tomb pyramid",
+    "picturesque"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hubert_Robert_(1733-1808)_-_Pyramid_of_Cestius,_Rome_-_VIS.1077_-_Sheffield_Galleries_and_Museums_Trust.jpg",
+   "summary": "Hubert Robert's painted view of the Pyramid of Cestius in Rome, the Augustan-age tomb-pyramid that kept the Egyptian form alive in the heart of the city.\n\n## Iconography\nThe steep marble-faced [[motif:pyramid of cestius|pyramid]] rises amid the picturesque ruins and figures characteristic of Robert, nicknamed 'Robert des Ruines'. The Egyptian silhouette stands incongruous and arresting against the Roman setting.\n\n## Significance\nBuilt around 12 BCE as the tomb of Gaius Cestius, the pyramid testified to Rome's own first wave of Egyptomania under Augustus and later became a magnet for Grand Tour antiquarians and the Romantic cult of ruins. Its enduring presence helped sustain the Western fascination with Egypt as the land of death-mysteries and hidden wisdom.\n\n## For artists & game designers\nA mood-piece for 'ancient monument in a later city': an alien Egyptian form weathering among the ruins of a successor civilisation.",
+   "citations": [
+    {
+     "text": "James Stevens Curl, *The Egyptian Revival* (2005)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hubert_Robert_(1733-1808)_-_Pyramid_of_Cestius,_Rome_-_VIS.1077_-_Sheffield_Galleries_and_Museums_Trust.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Pyramid of Cestius",
+    "Hubert Robert",
+    "Egyptian Revival",
+    "cult of ruins"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__sphinx-egypt",
+   "title": "The Pyramids and Sphinx of Memphis at Sunset (engraving)",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Imprimerie impériale (after the *Description de l'Égypte*)",
+   "date": "early 19th century",
+   "place": "France (after surveys at Giza/Memphis)",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "sphinx",
+    "giza pyramids",
+    "memphis",
+    "description de legypte",
+    "sunset",
+    "egyptian monuments",
+    "engraving",
+    "ancient wisdom"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pyramides_de_Memphis._Vue_g%C3%A9n%C3%A9rale_des_pyramides_et_du_Sphinx,_prise_au_soleil_couchant_(NYPL_b14212718-1268176).jpg",
+   "summary": "A general view of the pyramids of Memphis and the Great Sphinx at sunset, from the great French survey tradition that closed the era of Egyptosophy and opened scientific Egyptology.\n\n## Iconography\nThe panoramic engraving sets the [[motif:sphinx|Great Sphinx]] and the pyramids of Giza against a low sun, emphasising scale and desolation in the picturesque manner of the *Description de l'Égypte*.\n\n## Significance\nNapoleon's 1798 expedition and its monumental *Description de l'Égypte* produced precise surveys that transformed Europe's image of Egypt from a realm of Hermetic riddles into an object of empirical study — even as the Sphinx and pyramids remained potent symbols of secret wisdom for the nineteenth-century occult revival. The shift from Kircher's fantasy to Champollion's decipherment runs straight through this corpus.\n\n## For artists & game designers\nA wide establishing shot for an Egyptian setting: monumental, sun-baked, and freighted with the promise of buried secrets.",
+   "citations": [
+    {
+     "text": "Erik Iversen, *The Myth of Egypt and Its Hieroglyphs* (1961)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Pyramides_de_Memphis._Vue_g%C3%A9n%C3%A9rale_des_pyramides_et_du_Sphinx,_prise_au_soleil_couchant_(NYPL_b14212718-1268176).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Great Sphinx",
+    "Giza pyramids",
+    "Description de l'Égypte",
+    "Egyptology"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__thoth-hermes-ibis",
+   "title": "Thoth, the ibis-headed god (handbook engraving)",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Anonymous (engraving from a 19th-c. handbook of archaeology)",
+   "date": "1867 (engraving)",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "thoth",
+    "ibis-headed god",
+    "hermes trismegistus",
+    "scribe of the gods",
+    "writing and wisdom",
+    "egyptian deity",
+    "engraving",
+    "moon god"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Handbook_of_archaeology,_Egyptian_-_Greek_-_Etruscan_-_Roman_(1867)_(14594733808).jpg",
+   "summary": "An engraving of Thoth, the ibis-headed Egyptian god of writing and wisdom, from a nineteenth-century handbook of archaeology — the deity the Greeks equated with Hermes.\n\n## Iconography\n[[motif:thoth|Thoth]] appears with the head of an ibis (sometimes a baboon), often bearing a scribe's palette or recording the verdict at the weighing of the heart. The engraving renders him in the conventionalised profile of Egyptian relief.\n\n## Significance\nAs scribe of the gods and master of sacred letters, Thoth was identified by the Greeks with Hermes, and the compound figure of [[motif:hermes trismegistus|Hermes Trismegistus]] — 'thrice-great' — fused the two into the legendary author of the Hermetica. The whole Egyptosophical tradition, from Ficino to Kircher, traced its 'ancient theology' back to this god of hidden knowledge, as set out by Garth Fowden.\n\n## For artists & game designers\nA clean reference for a 'god of knowledge' design: animal-headed scribe with palette and stylus, patron of writing and magic.",
+   "citations": [
+    {
+     "text": "Garth Fowden, *The Egyptian Hermes* (1986)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Handbook_of_archaeology,_Egyptian_-_Greek_-_Etruscan_-_Roman_(1867)_(14594733808).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Thoth",
+    "Hermes Trismegistus",
+    "scribe of the gods",
+    "Egyptian Hermes"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__apis-bull",
+   "title": "Apis, the sacred Egyptian bull (Musgrave engraving)",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "William Musgrave (antiquarian engraving)",
+   "date": "early 18th century",
+   "place": "England / Europe",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "apis bull",
+    "sacred bull",
+    "egyptian deity",
+    "antiquarian engraving",
+    "serapis",
+    "solar disc",
+    "memphis cult",
+    "animal worship"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Apis_(Musgrave).jpg",
+   "summary": "An antiquarian engraving of Apis, the sacred bull of Memphis, from the work of the English scholar William Musgrave — a specimen of the early-modern study of Egyptian animal-gods.\n\n## Iconography\n[[motif:apis bull|Apis]] is shown as a striding bull bearing the solar disc between his horns, the distinctive markings by which the living bull-god was identified by the priests of Memphis.\n\n## Significance\nApis, linked in death to Osiris and later assimilated to the Hellenistic god Serapis, exemplified the Egyptian animal worship that fascinated and puzzled European antiquarians. Renaissance and Baroque scholars folded such cults into their Hermetic reading of Egypt as a land of veiled theological symbols, while classical authors had already debated whether the beast-gods were idolatry or allegory.\n\n## For artists & game designers\nA sacred-beast emblem: a marked bull crowned with a sun-disc, ready as a cult-animal icon or temple guardian.",
+   "citations": [
+    {
+     "text": "Erik Iversen, *The Myth of Egypt and Its Hieroglyphs* (1961)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Apis_(Musgrave).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Apis bull",
+    "Serapis",
+    "Egyptian animal cult",
+    "antiquarianism"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "hermetic_egypt__isis-multimammia",
+   "title": "Artemis of Ephesus (the 'many-breasted' goddess) — read as Isis-Nature",
+   "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",
+   "creator": "Anonymous (Roman statue); photograph by Dennis G. Jarvis",
+   "date": "2nd century CE (statue); modern photograph",
+   "place": "Ephesus, Asia Minor",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": [
+    "artemis of ephesus",
+    "isis-nature",
+    "multimammia",
+    "great mother",
+    "veiled goddess",
+    "natura",
+    "fertility",
+    "hermetic allegory"
+   ],
+   "rights": "CC BY-SA 2.0 (Dennis G. Jarvis). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Turkey-2827_(2216383605)_(2).jpg",
+   "summary": "A statue of the 'many-breasted' Artemis of Ephesus, the type that Renaissance and Baroque writers fused with Isis to personify veiled Nature.\n\n## Iconography\nThe goddess stands rigid and frontal, her lower body a tapering sheath of animal registers, her chest covered with the rows of bulbous protuberances (variously read as breasts, eggs, or bull-testes) that gave her the epithet *multimammia*.\n\n## Significance\nHumanist mythographers identified this composite Great Mother with [[motif:isis-nature|Isis]] as *Natura* — the nourishing, many-breasted World-Soul whose face is veiled. The image became the standard allegory of Nature on Baroque frontispieces (including Kircher's), embodying the Hermetic conviction, traced by Pierre Hadot in *The Veil of Isis*, that Egyptian Isis personified the hidden order of the cosmos.\n\n## For artists & game designers\nA 'Nature incarnate' deity design: a frontal, hieratic mother-goddess sheathed in animals and overflowing with breasts — fecundity made monstrous and sacred.",
+   "citations": [
+    {
+     "text": "Pierre Hadot, *The Veil of Isis* (2006)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Turkey-2827_(2216383605)_(2).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Artemis of Ephesus",
+    "Isis-Nature",
+    "veil of Isis",
+    "Great Mother"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

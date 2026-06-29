@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A History of Occult Imagery — Occult Image DB</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site-head">
+  <div class="wrap head-inner">
+    <a class="brand" href="index.html"><span class="brand-mark">☿</span><span class="brand-name">Occult Image DB</span></a>
+    <nav class="head-nav">
+      <a href="index.html">Explore</a><a href="gallery.html">Gallery</a><a href="browse.html">Themes</a><a href="history.html">History</a><a href="about.html">About</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap browse-doc">
+  <h1>A History of Occult Imagery</h1>
+  <p class="lede">Walk the tradition in order — each source work placed on the timeline, with its
+    images and the thread that connects it to what came before and after.</p>
+  <div class="timeline" id="timeline"></div>
+</main>
+<footer class="site-foot"><div class="wrap"><p>Occult Image DB. <a href="browse.html">Browse by theme →</a></p></div></footer>
+<script>
+const ERA_LABEL={antiquity:"Antiquity",medieval:"Medieval",renaissance:"Renaissance",early_modern:"Early modern",modern:"Modern"};
+const ERA_ORDER={antiquity:0,medieval:1,renaissance:2,early_modern:3,modern:4};
+const ERA_BLURB={
+ antiquity:"The deep origin. Hellenistic Egypt gives the tradition its first images — the ouroboros of Kleopatra, the apparatus of Zosimos. [Images of this stratum are still being sourced.]",
+ medieval:"The Latin West copies and transforms the inheritance in illuminated manuscripts — dragons, suns and moons, the earliest emblem-ancestors.",
+ renaissance:"Florence rediscovers Hermes Trismegistus (1463). Alchemy becomes painted allegory and, with print, the first great emblem sequences.",
+ early_modern:"The Baroque high noon of the engraved emblem — Maier, Mylius, Stolcius, Fludd, Khunrath — when image, verse, and music fuse.",
+ modern:"The Victorian and modern occult revival re-reads and re-draws the whole tradition. [Not yet in corpus.]"
+};
+const yearOf=d=>{const m=(d||"").match(/\d{3,4}/);return m?+m[0]:9999;};
+Promise.all([fetch("../data/catalog.json").then(r=>r.json())]).then(([cat])=>{
+  const items=cat.items||[], works=(cat.works||[]).slice();
+  const imgsByWork=k=>items.filter(i=>i.work_key===k);
+  works.sort((a,b)=>(ERA_ORDER[a.era]-ERA_ORDER[b.era])||(yearOf(a.date)-yearOf(b.date)));
+  const eras=[...new Set(works.map(w=>w.era))].sort((a,b)=>ERA_ORDER[a]-ERA_ORDER[b]);
+  let html="";
+  for(const era of eras){
+    html+=`<div class="tl-era"><h2>${ERA_LABEL[era]||era}</h2><p class="era-blurb">${ERA_BLURB[era]||""}</p></div>`;
+    for(const w of works.filter(w=>w.era===era)){
+      const imgs=imgsByWork(w.key);
+      const thumbs=imgs.slice(0,8).map(i=>`<img src="${i.thumb}" alt="${(i.title||'').replace(/"/g,'&quot;')}" onclick="location.href='item.html?id=${encodeURIComponent(i.id)}'">`).join("");
+      html+=`<div class="tl-node">
+        <span class="tl-date">${w.date}</span>
+        <h3><a href="entity.html?type=work&key=${encodeURIComponent(w.key)}">${w.title}</a></h3>
+        <p class="tl-meta">${w.creator} · ${w.place} · ${imgs.length} images</p>
+        <p>${w.blurb||""}</p>
+        <div class="tl-thumbs">${thumbs}</div>
+      </div>`;
+    }
+  }
+  document.getElementById("timeline").innerHTML=html;
+});
+</script>
+</body>
+</html>

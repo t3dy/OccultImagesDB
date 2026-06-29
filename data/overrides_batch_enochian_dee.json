@@ -1,0 +1,615 @@
+{
+ "_work": {
+  "key": "enochian_dee",
+  "short_id": "ENOD",
+  "title": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+  "creator": "various",
+  "date": "1582–1900",
+  "century": 16,
+  "place": "England & the Holy Roman Empire",
+  "region": "England",
+  "language": "English & Latin",
+  "era": "renaissance",
+  "tradition": "hermetic",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "enochian_dee",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:John_Dee",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "angelic conversation",
+   "scrying crystal",
+   "enochian script",
+   "holy table",
+   "seal of god",
+   "watchtowers"
+  ],
+  "blurb": "Portraits, manuscripts and printed diagrams documenting the angelic-magic system received by the English mathematician and magus John Dee (1527–1608/9) and his scryer Edward Kelley (1555–1597/8) between 1582 and 1589. The collection gathers the surviving likenesses of both men (the Ashmolean and Wellcome Dee portraits, F. Cleyn's 1658 line engraving, R. Cooper's stipple and the coloured aquatint of Kelley, Sibly's necromancy print), Dee's own hand (a 1588 letter, the gold disc from the British Museum, the imperial order for Kelley's arrest, his Mortlake house and memorial), and the foundational diagrams of Enochian magic — the Holy Table (Mensa Sancta), the Order of the Inspirati and the angelic charts — as printed in Meric Casaubon's A True & Faithful Relation (London, 1659)."
+ },
+ "entries": [
+  {
+   "id": "enochian_dee__dee-ashmolean",
+   "title": "Portrait of John Dee (Ashmolean Museum)",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "Unidentified painter (English school)",
+   "date": "c. 1594 (16th century)",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "scholar portrait",
+    "skullcap",
+    "ruff",
+    "long beard",
+    "natural philosopher",
+    "renaissance magus",
+    "oil on panel",
+    "memento mori"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee_Ashmolean.jpg",
+   "summary": "Oil portrait of the English mathematician, astrologer and magus John Dee (1527–1608/9), held by the Ashmolean Museum, Oxford, and long regarded as the standard likeness of the man who attempted to converse with angels.\n\n## Iconography\nDee is shown in old age, half-length, against a dark ground: a gaunt face with a long white beard, a black scholar's skullcap and a plain white ruff over dark robes. The image radiates sober gravity rather than occult drama — the costume is that of a learned Tudor gentleman and natural philosopher. A later tradition holds that a ring of skulls once surrounded the figure and was painted out, a [[motif:memento mori|memento mori]] consistent with the sitter's reputation.\n\n## Significance\nDee was the most learned Englishman of his generation — adviser to Elizabeth I, author of the *Monas Hieroglyphica*, owner of the greatest private library in England — yet from 1582 he devoted himself to the \"angelic conversations\" recorded with Edward Kelley, the seed of the Enochian system. This portrait fixes the public memory of the [[motif:renaissance magus|renaissance magus]] who bridged mathematics, navigation and ceremonial magic. Modern scholarship (Deborah Harkness, *John Dee's Conversations with Angels*, 1999) reads the angelic project as natural philosophy by other means.\n\n## For artists & game designers\nThe definitive \"wise old magus\" reference: skullcap, white beard, ruff, austere palette — instantly legible as a Renaissance scholar-mage without a single occult prop.",
+   "citations": [
+    {
+     "text": "Deborah E. Harkness, *John Dee's Conversations with Angels* (Cambridge UP, 1999)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:John_Dee_Ashmolean.jpg"
+    }
+   ],
+   "key_concepts": [
+    "John Dee",
+    "renaissance magus",
+    "Elizabethan science",
+    "portraiture"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__dee-wellcome",
+   "title": "Portrait of John Dee (Wellcome Collection)",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "Unidentified artist (after the Ashmolean type)",
+   "date": "16th–17th century",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "scholar portrait",
+    "skullcap",
+    "ruff",
+    "long beard",
+    "renaissance magus",
+    "natural philosopher",
+    "half-length",
+    "dark ground"
+   ],
+   "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_John_Dee_Wellcome_M0014535.jpg",
+   "summary": "A portrait of John Dee preserved in the Wellcome Collection, London, one of several derivatives of the canonical Ashmolean likeness that carried Dee's face into the history of medicine and science.\n\n## Iconography\nDee appears half-length and frontal, an old man with a flowing white beard, the black skullcap of a scholar and a white ruff at the throat, set against a plain dark ground. The treatment is restrained and documentary, presenting him as a grave physician–philosopher rather than a conjuror.\n\n## Significance\nThe Wellcome holds extensive material on Dee because his reputation straddles medicine, astrology and magic; his casting of horoscopes, his work on calendar reform and his angelic experiments were all of a piece in the Elizabethan understanding of natural knowledge. The survival of multiple portrait versions testifies to the long fascination with the man whom later ages cast as the model wizard. On the angelic side his great monument is the *Libri Mysteriorum* — the diaries of his sessions with [[motif:angelic conversation|the angels]].\n\n## For artists & game designers\nUse alongside the Ashmolean portrait to show how a single \"face of the magus\" propagates through copies — handy for a lore item that exists in several slightly different painted versions.",
+   "citations": [
+    {
+     "text": "Wellcome Collection, *Portrait of John Dee* (M0014535)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_John_Dee_Wellcome_M0014535.jpg"
+    }
+   ],
+   "key_concepts": [
+    "John Dee",
+    "portraiture",
+    "Wellcome Collection",
+    "Elizabethan science"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__dee-cleyn",
+   "title": "John Dee (line engraving by Francis Cleyn, 1658)",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "Francis Cleyn (Franz Klein)",
+   "date": "1658",
+   "place": "London, England",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "line engraving",
+    "scholar portrait",
+    "skullcap",
+    "long beard",
+    "oval frame",
+    "book frontispiece",
+    "renaissance magus",
+    "posthumous likeness"
+   ],
+   "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee._Line_engraving_by_F._Cleyn,_1658._Wellcome_V0001505.jpg",
+   "summary": "A line engraving of John Dee by Francis Cleyn, dated 1658 — produced half a century after Dee's death, in the decade that saw his angelic diaries finally reach print.\n\n## Iconography\nThe bust portrait, often set within an oval, repeats the established Dee type: aged scholar, long beard, skullcap and ruff, rendered now in the crisp parallel hatching of mid-seventeenth-century engraving. As a print it was designed for reproduction and circulation in books rather than for a wall.\n\n## Significance\nThe date is telling: in 1659 Meric Casaubon published *A True & Faithful Relation of What Passed for Many Years Between Dr John Dee... and Some Spirits*, the first printing of the angelic conversations, intended to discredit Dee as a deluded enthusiast. Engraved likenesses such as Cleyn's belong to this moment of renewed, sceptical public interest, when Dee became a cautionary figure in the debate over [[motif:angelic conversation|spirit communication]] and credulity. The portrait thus marks the transition of Dee from living philosopher to printed legend.\n\n## For artists & game designers\nA period-accurate \"engraved frontispiece\" asset — ideal for a discovered book or grimoire whose author's face stares out from the title page in hatched black line.",
+   "citations": [
+    {
+     "text": "Meric Casaubon (ed.), *A True & Faithful Relation...* (London, 1659)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:John_Dee._Line_engraving_by_F._Cleyn,_1658._Wellcome_V0001505.jpg"
+    }
+   ],
+   "key_concepts": [
+    "John Dee",
+    "engraving",
+    "True and Faithful Relation",
+    "posthumous reputation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__dee-letter",
+   "title": "Letter in the hand of John Dee, 1588",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "John Dee",
+   "date": "1588",
+   "place": "Central Europe / England",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "autograph manuscript",
+    "secretary hand",
+    "signature",
+    "ink on paper",
+    "epistle",
+    "documentary record",
+    "renaissance magus"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee,_letter,_1588.jpg",
+   "summary": "An autograph letter written by John Dee in 1588, during or just after the years of his continental travels with Edward Kelley among the courts of the Holy Roman Empire and Poland.\n\n## Iconography\nA single leaf of laid paper covered in Dee's tight Elizabethan secretary hand, closing with his signature. The document is a piece of working correspondence rather than a magical text, but it presents the magus through the most intimate evidence of all — his own handwriting.\n\n## Significance\n1588 was a pivotal year: the famous \"cross-matching\" episode, in which the angels reportedly instructed Dee and Kelley to share their wives, had strained the partnership, and Dee was preparing his return to an England transformed by the Armada. Surviving autographs anchor the angelic diaries (the *Libri Mysteriorum*, today Sloane MSS in the British Library) to a real, datable hand, and let palaeographers test which manuscripts are genuinely Dee's. The letter is a reminder that the [[motif:renaissance magus|magus]] was also a courtier, diplomat and tireless writer of business.\n\n## For artists & game designers\nA convincing \"handwritten document\" prop: dense secretary hand and a flourished signature read instantly as an authentic period letter discovered among a scholar's papers.",
+   "citations": [
+    {
+     "text": "Glyn Parry, *The Arch-Conjuror of England: John Dee* (Yale UP, 2011)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:John_Dee,_letter,_1588.jpg"
+    }
+   ],
+   "key_concepts": [
+    "John Dee",
+    "autograph manuscript",
+    "palaeography",
+    "Elizabethan correspondence"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__dee-golden-disc",
+   "title": "John Dee's gold disc (Sigillum Aemeth fitting), British Museum",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "Anonymous goldsmith (for John Dee)",
+   "date": "late 16th century",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "gold disc",
+    "engraved sigil",
+    "magical apparatus",
+    "vision of the four castles",
+    "seal of god",
+    "ritual instrument",
+    "british museum",
+    "angelic vision"
+   ],
+   "rights": "CC0. Photograph by Vassil, British Museum. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee%27s_golden_disc_British_Museum_27_07_2013.jpg",
+   "summary": "A small engraved gold disc associated with John Dee's angelic practice, now in the British Museum — distinct from the large wax *Sigillum Dei Aemeth* discs, and engraved with a vision Kelley reported in the crystal.\n\n## Iconography\nThe thin gold roundel is incised with a schematic scene: a central cross or arrangement of figures within a circle, recording one of the visions \"shown\" to Edward Kelley in the [[motif:scrying crystal|shew-stone]] — traditionally identified with the four watchtowers or castles seen during the angelic sessions. The metalwork is fine and the engraving deliberately diagrammatic rather than pictorial.\n\n## Significance\nDee's surviving ritual apparatus in the British Museum — the obsidian mirror, the crystal, the wax seals and this gold disc — constitutes the rare case of a Renaissance magical practice preserved as physical objects. The disc materialises the principle that the angels did not merely speak but *displayed* structured images to be copied down, the visual logic that produced the Enochian tablets. It connects the abstract diagrams to a tangible, precious instrument fit for a [[motif:seal of god|seal of God]].\n\n## For artists & game designers\nA luxe quest-object: an engraved gold talisman whose incised diagram is itself a clue — the picture on the disc is a map of somewhere the player must go.",
+   "citations": [
+    {
+     "text": "British Museum, *John Dee's gold seal/disc* (collection object)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:John_Dee%27s_golden_disc_British_Museum_27_07_2013.jpg"
+    }
+   ],
+   "key_concepts": [
+    "magical apparatus",
+    "Sigillum Dei Aemeth",
+    "scrying vision",
+    "British Museum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__holy-table-tfr",
+   "title": "The Holy Table (*Mensa Sancta*), *A True & Faithful Relation*",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "John Dee (engraved for Meric Casaubon's edition)",
+   "date": "1659 (recording designs of 1582–83)",
+   "place": "London, England",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "holy table",
+    "enochian border",
+    "magical square",
+    "angelic letters",
+    "ritual furniture",
+    "seven ensigns",
+    "diagram",
+    "ceremonial magic"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee_and_Some_Spirits_-_The_Holy_Table.png",
+   "summary": "The design of the Holy Table (*Mensa Sancta*), the consecrated table on which Dee and Kelley performed the angelic actions, as printed in Meric Casaubon's *A True & Faithful Relation* (London, 1659) from Dee's own records of 1582–83.\n\n## Iconography\nA large square table-top bordered on all four edges by a continuous band of [[motif:enochian script|Enochian (angelic) letters]]. Within the border are set further characters and, at the centre, a grid or compartmented square; in practice the wax *Sigillum Dei Aemeth* rested at the centre and smaller seals supported the legs. The whole is a working diagram: every glyph had to be reproduced exactly for the table to function.\n\n## Significance\nThe Holy Table is the physical stage of Enochian magic. Its border script was among the first deliverances of the angels, and the table organised the apparatus — seals, shew-stone, candles — into a single sanctified field. Casaubon printed these diagrams to expose Dee, but in doing so created the source from which the nineteenth-century [[motif:ceremonial magic|Golden Dawn]] reconstructed the system. It is the architectural plan of the angelic experiments.\n\n## For artists & game designers\nA ready-made ritual-circle floor: a square bordered in alien script with a seal at its heart — drop props onto the marked positions and the table becomes an interactive summoning device.",
+   "citations": [
+    {
+     "text": "Meric Casaubon (ed.), *A True & Faithful Relation...* (London, 1659)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:John_Dee_and_Some_Spirits_-_The_Holy_Table.png"
+    }
+   ],
+   "key_concepts": [
+    "Holy Table",
+    "Enochian magic",
+    "ritual apparatus",
+    "True and Faithful Relation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__order-inspirati",
+   "title": "The Order of the *Inspirati*, *A True & Faithful Relation*",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "John Dee (engraved for Meric Casaubon's edition)",
+   "date": "1659 (recording sessions of the 1580s)",
+   "place": "London, England",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "angelic hierarchy",
+    "diagram",
+    "celestial order",
+    "names of angels",
+    "table of correspondences",
+    "enochian script",
+    "ceremonial magic",
+    "manuscript chart"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee_and_Some_Spirits_-_The_Order_of_the_Inspirati.png",
+   "summary": "A diagram titled \"The Order of the *Inspirati*\" from Casaubon's *A True & Faithful Relation* (1659), one of the structured tables by which Dee organised the angelic names and hierarchies received through Edward Kelley.\n\n## Iconography\nThe plate is a ruled chart: rows and columns of names, letters and titles arranged to display rank and relationship among the angelic and spirit beings of the system. Latin headings frame compartments filled with the transliterated angelic names, the inspired ones (*inspirati*) set in their proper order. It is information design, not pictorial art — a taxonomy of invisible powers.\n\n## Significance\nThe angelic conversations did not deliver loose oracles but an entire administrative cosmos: governors, kings and ministering angels each with a name, a seal and a sphere of authority. Charts like this one show Dee the mathematician imposing order on revelation, tabulating heaven as he might tabulate a star catalogue. Such tables of [[motif:angelic hierarchy|angelic hierarchy]] became the backbone of later Enochian practice, supplying the names invoked in the calls of the Aethyrs.\n\n## For artists & game designers\nA lore codex page: a grid of named entities with ranks and sigils — perfect as a discoverable \"bestiary of angels\" the player decodes one row at a time.",
+   "citations": [
+    {
+     "text": "Meric Casaubon (ed.), *A True & Faithful Relation...* (London, 1659)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:John_Dee_and_Some_Spirits_-_The_Order_of_the_Inspirati.png"
+    }
+   ],
+   "key_concepts": [
+    "angelic hierarchy",
+    "Enochian magic",
+    "tables of correspondence",
+    "True and Faithful Relation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__spirits-chart",
+   "title": "Angelic Chart from *A True & Faithful Relation*",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "John Dee (engraved for Meric Casaubon's edition)",
+   "date": "1659 (recording sessions of the 1580s)",
+   "place": "London, England",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "magical square",
+    "lettered grid",
+    "angelic names",
+    "enochian script",
+    "diagram",
+    "ceremonial magic",
+    "table of letters",
+    "revealed pattern"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee_and_Some_Spirits_chart_2.png",
+   "summary": "One of the lettered charts reproduced in Casaubon's *A True & Faithful Relation* (1659), recording a grid of characters dictated to Dee and Kelley during the angelic actions.\n\n## Iconography\nA squared field subdivided into many small cells, each holding a single letter or character. The reader is meant to extract names and words from the grid by prescribed paths — across rows, down columns, or along marked diagonals. This is the form in which much of the angelic language and the Enochian tablets were delivered: as letter-by-letter dictation into a matrix.\n\n## Significance\nThe great tables of Enochian magic — the four elemental watchtowers and the unifying Tabula Recensa — are precisely such lettered squares, from which the names of governing angels are read out to compose the \"calls.\" Charts like this preserve the raw deliverance before interpretation, showing how revelation arrived as structured data. The slow, error-prone copying of these grids (and the angels' insistence on exactness) is a recurring drama of the [[motif:angelic conversation|conversations]]. The same combinatorial logic links Dee's project to the [[motif:enochian script|Kabbalistic letter-mysticism]] he knew.\n\n## For artists & game designers\nA cipher puzzle in object form: a letter-grid whose hidden words the player must trace along the right path to unlock an angel's name.",
+   "citations": [
+    {
+     "text": "Meric Casaubon (ed.), *A True & Faithful Relation...* (London, 1659)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:John_Dee_and_Some_Spirits_chart_2.png"
+    }
+   ],
+   "key_concepts": [
+    "Enochian tablets",
+    "letter grid",
+    "angelic language",
+    "True and Faithful Relation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__kelley-portrait",
+   "title": "Edward Kelley Raising the Dead (Sibly engraving)",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "Ebenezer Sibly (engraving)",
+   "date": "c. 1790s (18th century)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "necromancy",
+    "graveyard",
+    "raising the dead",
+    "magic circle",
+    "wand and book",
+    "shrouded corpse",
+    "torchlight",
+    "two magicians"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Edward_Kelley_%E2%80%93_Totenbeschw%C3%B6rung.jpg",
+   "summary": "An engraving from Ebenezer Sibly's *A New and Complete Illustration of the Occult Sciences* (London, 1780s–90s) depicting Edward Kelley raising the dead — the image that fixed Kelley's reputation as a necromancer (German captions title it *Totenbeschwörung*).\n\n## Iconography\nIn a moonlit churchyard two cloaked figures stand within a protective [[motif:magic circle|magic circle]] inscribed with names and characters; one holds a torch or wand and an open book while a shrouded corpse rises stiffly from an opened grave before them. Tombs, a ruined church and night sky complete the gothic setting. The scene is wholly imaginary — an eighteenth-century fantasy projected back onto the Elizabethan scryer.\n\n## Significance\nThough Kelley's documented work with Dee was angelic, not funerary, this print made him the archetype of the graveyard necromancer and became one of the most reproduced images of Renaissance magic. It marks the [[motif:reception|reception]] of Dee and Kelley by the Romantic occult revival, which preferred lurid sorcery to the tedious tabulation of angelic names. Sibly's engraving is the visual ancestor of every later \"two magicians and a rising corpse\" illustration.\n\n## For artists & game designers\nThe canonical necromancy tableau: circle, torch, book, open grave, rising shroud — a complete spell-scene composition you can restage almost beat for beat.",
+   "citations": [
+    {
+     "text": "Ebenezer Sibly, *A New and Complete Illustration of the Occult Sciences* (London, c. 1790)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Edward_Kelley_%E2%80%93_Totenbeschw%C3%B6rung.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Edward Kelley",
+    "necromancy",
+    "occult reception",
+    "Ebenezer Sibly"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__kelley-cooper",
+   "title": "Edward Kelley (stipple engraving by R. Cooper)",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "Richard Cooper (stipple engraving)",
+   "date": "early 19th century",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "stipple engraving",
+    "portrait",
+    "skullcap",
+    "cropped ears",
+    "alchemist",
+    "scryer",
+    "oval frame",
+    "imaginary likeness"
+   ],
+   "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Edward_Kelley._Stipple_engraving_by_R._Cooper._Wellcome_V0003198.jpg",
+   "summary": "A stipple-engraved portrait of Edward Kelley by Richard Cooper, in the Wellcome Collection — a refined nineteenth-century likeness of Dee's scryer and alchemical partner.\n\n## Iconography\nA bust portrait, usually within an oval, shows Kelley as a bearded man in a close skullcap, gazing aside. The soft tonal dots of [[motif:reception|stipple engraving]] lend the face a smooth, almost sentimental finish far removed from any documented Elizabethan source; like all Kelley portraits it is essentially invented, since no life-portrait survives. Tradition held that Kelley's ears had been cropped as punishment for forgery, and some images allude to the skullcap that hid them.\n\n## Significance\nEdward Kelley (1555–1597/8) was the medium who actually \"saw\" in the shew-stone while Dee recorded; without his visions the Enochian system would not exist. His shadowed biography — convicted coiner, alchemist, knighted and then imprisoned by Rudolf II — made him irresistible to print-shops cataloguing famous magi. This portrait belongs to the antiquarian and biographical literature (Thomas Pennant, the alchemical compilers) that kept the [[motif:scryer|scryer]]'s memory alive.\n\n## For artists & game designers\nA polished \"wanted-poster\" likeness for the roguish medium of the pair — pair it with the necromancy print to show the gap between elegant portrait and lurid legend.",
+   "citations": [
+    {
+     "text": "Wellcome Collection, *Edward Kelley*, stipple engraving by R. Cooper (V0003198)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Edward_Kelley._Stipple_engraving_by_R._Cooper._Wellcome_V0003198.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Edward Kelley",
+    "scrying",
+    "portraiture",
+    "alchemy"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__kelley-seer",
+   "title": "Edward Kelly, Prophet or Seer to Dr Dee",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "After Thomas Pennant",
+   "date": "late 18th century",
+   "place": "England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "portrait",
+    "scryer",
+    "skullcap",
+    "antiquarian print",
+    "alchemist",
+    "bearded man",
+    "inscription",
+    "imaginary likeness"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Edward_Kelly_prophet_or_seer_to_Dr_Dee_02355.jpg",
+   "summary": "An antiquarian print labelled \"Edward Kelly, Prophet or Seer to Dr Dee,\" associated with the collections of the Welsh antiquary Thomas Pennant — an image that names Kelley precisely by his function in the partnership.\n\n## Iconography\nA bust portrait of a bearded man in a skullcap, captioned with his name and the telling title \"prophet or seer to Dr Dee.\" The plate sits among eighteenth-century antiquarian portraits of notable Britons; its lettering does the interpretive work, fixing Kelley's identity as the [[motif:scryer|seer]] of the pair rather than as an independent magus.\n\n## Significance\nThe caption captures the division of labour that defined Enochian magic: Dee, the learned director, posed questions and wrote everything down; Kelley, the gifted (and suspect) medium, reported what appeared in the crystal. Calling him \"prophet or seer\" — with that hedging \"or\" — also registers the perennial doubt over whether Kelley genuinely scryed or fabricated his visions, a question argued from his own century to ours. The print belongs to the antiquarian [[motif:reception|reception]] that historicised the duo.\n\n## For artists & game designers\nA labelled NPC card: the same bearded face, but the caption assigns a role — \"Seer\" — turning a portrait into a class identity for the party's medium.",
+   "citations": [
+    {
+     "text": "Thomas Pennant (antiquarian collection); see Glyn Parry, *The Arch-Conjuror of England* (2011)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Edward_Kelly_prophet_or_seer_to_Dr_Dee_02355.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Edward Kelley",
+    "scryer",
+    "antiquarianism",
+    "occult reception"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__kelley-aquatint",
+   "title": "Edward Kelley (coloured aquatint)",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "Anonymous (coloured aquatint)",
+   "date": "early 19th century",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "aquatint",
+    "coloured print",
+    "portrait",
+    "alchemist",
+    "skullcap",
+    "robes",
+    "scryer",
+    "imaginary likeness"
+   ],
+   "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Edward_Kelley._Coloured_aquatint._Wellcome_V0003199.jpg",
+   "summary": "A coloured aquatint of Edward Kelley in the Wellcome Collection, a richer, tinted counterpart to the line and stipple portraits of Dee's scryer.\n\n## Iconography\nKelley is shown half-length as a robed, bearded figure in a skullcap, the soft aquatint ground washed with colour to give warmth and depth. As with every Kelley likeness the features are conjectural; the colouring serves to make the alchemist vivid and collectible rather than to record a true face.\n\n## Significance\nThe survival of Kelley in line engraving (Cooper), antiquarian print (Pennant) and coloured aquatint shows how thoroughly the print trade mythologised the pair. Kelley's alchemical fame — the claim that he transmuted metals before the court of [[motif:reception|Rudolf II]] in Prague — kept him in demand among collectors of \"famous adepts,\" independent of the angelic work. The coloured plate is the most decorative phase of that afterlife.\n\n## For artists & game designers\nA tinted character portrait ready for a card frame — the colour palette (warm robes, shadowed ground) is a usable reference for an alchemist NPC.",
+   "citations": [
+    {
+     "text": "Wellcome Collection, *Edward Kelley*, coloured aquatint (V0003199)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Edward_Kelley._Coloured_aquatint._Wellcome_V0003199.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Edward Kelley",
+    "alchemy",
+    "aquatint",
+    "occult reception"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__rudolf-order",
+   "title": "Order of Emperor Rudolf II for the Arrest of Edward Kelley",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "Imperial chancery of Rudolf II",
+   "date": "1590s",
+   "place": "Prague, Holy Roman Empire (Bohemia)",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "imperial document",
+    "arrest order",
+    "alchemist's downfall",
+    "court patronage",
+    "transmutation",
+    "manuscript",
+    "seal and signature",
+    "prague"
+   ],
+   "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Order_signed_by_Emp._Rodolf_II,_ordering_arrest_of_E._Kelley_Wellcome_M0012958.jpg",
+   "summary": "A document signed by the Holy Roman Emperor Rudolf II ordering the arrest of Edward Kelley, preserved in the Wellcome Collection — the bureaucratic record of the scryer's spectacular fall in Bohemia.\n\n## Iconography\nA leaf of formal chancery script bearing the imperial signature and authority, its weight conveyed by layout and subscription rather than by image. As a state paper it stands in sharp contrast to the fanciful portrait prints: this is the real administrative trace of a magician's life.\n\n## Significance\nAfter Dee returned to England in 1589, Kelley remained on the Continent and won the patronage of Rudolf II of Prague — emperor, melancholic and the greatest collector-patron of [[motif:alchemy|alchemy]] of his age — even being knighted on the strength of his promised transmutations. When the gold failed to materialise, favour turned to imprisonment; Kelley is said to have died after a fall while attempting escape. This order documents the dangerous economy of court alchemy, where a failed adept could be jailed at imperial command. It closes the historical arc of the Dee–Kelley partnership.\n\n## For artists & game designers\nA \"bounty warrant\" prop with real stakes: an imperial arrest order for your alchemist NPC, signed and sealed — a quest hook the moment the player finds it.",
+   "citations": [
+    {
+     "text": "R. J. W. Evans, *Rudolf II and His World* (Oxford, 1973)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Order_signed_by_Emp._Rodolf_II,_ordering_arrest_of_E._Kelley_Wellcome_M0012958.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Edward Kelley",
+    "Rudolf II",
+    "court alchemy",
+    "Prague"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__mortlake",
+   "title": "John Dee Memorial Plaque, St Mary the Virgin, Mortlake",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "Modern memorial (photograph by Robert Smith)",
+   "date": "modern memorial (Dee buried 1608/9)",
+   "place": "Mortlake, London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "memorial plaque",
+    "parish church",
+    "burial place",
+    "commemoration",
+    "inscription",
+    "local history",
+    "renaissance magus",
+    "mortlake"
+   ],
+   "rights": "CC BY-SA 3.0. Photo by Robert Smith. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee_memorial_plaque_at_S_Mary_the_Virgin_Mortlake.jpg",
+   "summary": "A memorial plaque to John Dee in the church of St Mary the Virgin, Mortlake, where the magus was buried after his death in 1608/9 — the only fixed monument to a man whose grave itself is lost.\n\n## Iconography\nAn inscribed commemorative plate mounted in the parish church, naming Dee and recording his association with Mortlake. The plaque is modern; Dee's actual tomb and gravestone have not survived, so the memorial stands in for a vanished burial.\n\n## Significance\nMortlake on the Thames was Dee's home and the site of his celebrated library — the largest in Elizabethan England, with thousands of volumes and scientific instruments — to which scholars, courtiers and the queen herself came. It was here that much of the angelic work was conducted and here that, during his absence abroad, his collection was plundered. The plaque marks the geographical anchor of Dee's life and the [[motif:reception|continuing local memory]] of the \"Mortlake conjuror.\"\n\n## For artists & game designers\nA quiet \"end of the trail\" location: a church plaque that confirms a legendary figure was a real, buried person — good for a reflective late-game discovery.",
+   "citations": [
+    {
+     "text": "William H. Sherman, *John Dee: The Politics of Reading and Writing in the English Renaissance* (1995)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:John_Dee_memorial_plaque_at_S_Mary_the_Virgin_Mortlake.jpg"
+    }
+   ],
+   "key_concepts": [
+    "John Dee",
+    "Mortlake",
+    "memorial",
+    "Elizabethan library"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "enochian_dee__mortlake-house",
+   "title": "John Dee House, Mortlake High Street",
+   "work": "John Dee, Edward Kelley & the Enochian / Angelic Magic System",
+   "creator": "Photograph by Philip Jeffrey",
+   "date": "modern photograph (site associated with Dee, 1560s–1600s)",
+   "place": "Mortlake, London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "historic house",
+    "library site",
+    "riverside",
+    "local history",
+    "renaissance magus",
+    "place of working",
+    "mortlake",
+    "commemoration"
+   ],
+   "rights": "CC BY-SA 2.0. Photo by Philip Jeffrey. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee_House_on_Mortlake_High_Street_-_geograph.org.uk_-_8148845.jpg",
+   "summary": "A house on Mortlake High Street associated with John Dee, marking the riverside site of his home and famous library on the Thames west of London.\n\n## Iconography\nA street-level photograph of a building on Mortlake High Street linked by local tradition to Dee. The structure is unremarkable domestic architecture; its significance is entirely commemorative, pinning a legendary household to an actual address.\n\n## Significance\nDee's Mortlake house was an intellectual powerhouse of Elizabethan England: it held his vast library, his alchemical laboratories and his instruments, and it was here, in the early 1580s, that he and Edward Kelley began the [[motif:angelic conversation|angelic conversations]] over the shew-stone. The library was a resource of national importance, consulted on navigation, calendar reform and natural philosophy, and its dispersal during Dee's continental years was a real loss to English learning. The surviving site keeps the [[motif:reception|memory]] of where the Enochian system was first received.\n\n## For artists & game designers\nA hub location reference: the unassuming exterior of the magus's house — the contrast between mundane street frontage and the wonders worked inside is a usable narrative beat.",
+   "citations": [
+    {
+     "text": "William H. Sherman, *John Dee: The Politics of Reading and Writing in the English Renaissance* (1995)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:John_Dee_House_on_Mortlake_High_Street_-_geograph.org.uk_-_8148845.jpg"
+    }
+   ],
+   "key_concepts": [
+    "John Dee",
+    "Mortlake library",
+    "Elizabethan science",
+    "place of working"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

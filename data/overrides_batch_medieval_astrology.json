@@ -1,0 +1,461 @@
+{
+ "_work": {
+   "key": "medieval_astrology",
+   "short_id": "MAST",
+   "title": "Medieval Astrological & Astronomical Imagery",
+   "creator": "various",
+   "date": "9th–16th c.",
+   "century": 14,
+   "place": "Western Europe (with Arabic-Latin transmission)",
+   "region": "Europe",
+   "language": "Latin",
+   "era": "medieval",
+   "tradition": "astrology",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "medieval_astrology",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Medieval_astronomy",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["zodiac man", "children of the planets", "zodiac", "armillary sphere", "lunar mansions", "bloodletting"],
+   "blurb": "Astrological and astronomical illustration of the Latin Middle Ages and its early-printed afterlife (9th–16th c.): the anatomical Zodiac Man, the Children of the Planets, calendar zodiacs and labours of the months, the sphere of Sacrobosco, constellation cycles after Aratus, and the Arabic-Latin learning of Albumasar, joining medical and cosmological imagery to the doctrine that the heavens govern the body and the year."
+ },
+ "entries": [
+  {
+   "id": "medieval_astrology__zodiac-man-riches-heures",
+   "title": "The Anatomical Man (Homo signorum), Très Riches Heures du Duc de Berry",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Limbourg brothers",
+   "date": "c. 1411–1416",
+   "place": "France (for Jean, Duc de Berry)",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["zodiac man", "homo signorum", "melothesia", "zodiac", "mandorla", "human body", "calendar", "limbourg"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Anatomical_Man.jpg",
+   "summary": "The celebrated *Homme anatomique* of the *Très Riches Heures*, the most famous medieval image mapping the twelve zodiac signs onto the human body.\n\n## Iconography\nTwo back-to-back figures stand within an almond-shaped **mandorla** ringed by the twelve signs. Each sign is placed on the body part it was held to govern — **Aries** at the head, **Pisces** at the feet — the scheme of [[motif:melothesia|zodiacal melothesia]]. The four corners give the temperaments and elemental qualities (hot/cold, moist/dry).\n\n## Significance\nMelothesia — the doctrine that each zodiac sign rules a region of the body — governed medieval and Renaissance medicine, dictating when it was safe to bleed, purge, or operate on a given member. The Limbourg brothers produced this leaf for Jean de Berry around 1411–16; the manuscript is now Chantilly, Musée Condé MS 65. It is the canonical visualization of the **Zodiac Man**.\n\n## For artists & game designers\nA ready paper-doll of 'body zones governed by signs' — directly usable for a status, anatomy, or affliction system keyed to twelve influences.",
+   "citations": [
+    {"text": "Jean Longnon & Raymond Cazelles, *Les Très Riches Heures du Duc de Berry* (1969)."},
+    {"text": "Harry Bober, 'The Zodiacal Miniature of the Très Riches Heures,' *JWCI* 11 (1948)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Anatomical_Man.jpg"}
+   ],
+   "key_concepts": ["Zodiac Man", "melothesia", "Très Riches Heures", "medical astrology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__homo-signorum",
+   "title": "Bloodletting Man under the influence of zodiac and planets",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Anonymous",
+   "date": "later medieval / early modern (per Wellcome record)",
+   "place": "Europe",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["zodiac man", "bloodletting", "homo signorum", "melothesia", "phlebotomy", "zodiac", "medicine", "planets"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bloodletting_man_showing_the_influence_of_zodiac_and_planets_Wellcome_L0051271.jpg",
+   "summary": "A bloodletting man (*homo signorum*) showing the parts of the body governed by the zodiac signs and planets, from the Wellcome Collection.\n\n## Iconography\nA frontal nude figure is overlaid with the twelve **zodiac** signs, each linked by line or label to the body part it rules, from Aries at the head to Pisces at the feet. Such diagrams were practical tools for the [[motif:phlebotomy|phlebotomist]]: they told the surgeon which member it was dangerous to bleed while the Moon stood in the governing sign.\n\n## Significance\nThe **bloodletting man** is the working-medical cousin of the courtly Zodiac Man, copied into almanacs, physicians' folding calendars, and books of hours across late-medieval and early-modern Europe. It encodes the doctrine of [[motif:melothesia|melothesia]] in a form a barber-surgeon could consult at the bedside.\n\n## For artists & game designers\nThe lined-and-labelled body chart reads instantly as 'medical diagram of magical correspondences' — a strong UI model for an affliction or surgery mechanic.",
+   "citations": [
+    {"text": "Charles Clark, 'The Zodiac Man in Medieval Medical Astrology,' *Journal of the Rocky Mountain MLA* (1979)."},
+    {"text": "Wellcome Collection, L0051271."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bloodletting_man_showing_the_influence_of_zodiac_and_planets_Wellcome_L0051271.jpg"}
+   ],
+   "key_concepts": ["bloodletting man", "homo signorum", "melothesia", "almanac medicine"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__bloodletting-zodiac",
+   "title": "Encyclopedic manuscript with allegorical and medical drawings (bloodletting and zodiac)",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Anonymous",
+   "date": "medieval (per World Digital Library record)",
+   "place": "Europe",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["bloodletting", "zodiac", "medical diagram", "vein man", "phlebotomy", "allegory", "manuscript", "medicine"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Encyclopedic_Manuscript_Containing_Allegorical_and_Medical_Drawings_WDL2687.jpg",
+   "summary": "A leaf from an encyclopedic medical manuscript combining allegorical and medical drawings, including the astrological apparatus of bloodletting.\n\n## Iconography\nThe page joins figural **allegory** to practical **medical diagrams** — among them the vein-man and zodiacal charts that told a physician when and where to bleed. Such compendia bundled cosmology, calendar, and therapeutics on facing leaves.\n\n## Significance\nEncyclopedic medical codices of this kind circulated the linked doctrines of [[motif:melothesia|zodiacal melothesia]] and lunar timing through monastic and university medicine. The body, the heavens, and the calendar were treated as one system: the right moment for a remedy was an astronomical question. Digitized through the World Digital Library.\n\n## For artists & game designers\nA single page that bundles allegory, anatomy, and star-charts is a model 'physician's field manual' prop — dense, diagrammatic, and legibly arcane.",
+   "citations": [
+    {"text": "Faith Wallis, *Medieval Medicine: A Reader* (2010)."},
+    {"text": "World Digital Library, item 2687."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Encyclopedic_Manuscript_Containing_Allegorical_and_Medical_Drawings_WDL2687.jpg"}
+   ],
+   "key_concepts": ["medical compendium", "bloodletting", "zodiac timing", "vein man"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__leiden-aratea",
+   "title": "Constellation miniature from the Leiden Aratea",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Carolingian workshop, after Aratus (text) and classical models",
+   "date": "c. 816–840 (Carolingian)",
+   "place": "Carolingian Francia (probably Aachen/Lotharingia)",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["constellation", "aratea", "aratus", "phaenomena", "star map", "carolingian", "personification", "sky"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Aratea_46v.jpg",
+   "summary": "A constellation figure from the **Leiden Aratea** (Leiden, UB, MS Voss. Lat. Q. 79), the luxurious Carolingian copy of the *Phaenomena* of Aratus in Latin.\n\n## Iconography\nThe constellation is drawn as a full classical **personification** — a mythological body with the relevant stars marked upon it — set in a framed field of antique character. The figures preserve a late-antique pictorial tradition transmitted through the Latin *Aratea*.\n\n## Significance\nThe *Phaenomena* of [[motif:aratus|Aratus]] (3rd c. BCE) was the standard ancient poem of the constellations; its Latin translations (Cicero, Germanicus, Avienus) carried the sky-pictures into the Middle Ages. The Leiden manuscript, made for the Carolingian court c. 816–840, is among the most faithful copies of an antique illustrated star-book and a key witness to how classical astronomy survived.\n\n## For artists & game designers\nConstellations rendered as living bodies with stars pricked onto them — a beautiful template for a 'living sky' or star-summoned-creature design.",
+   "citations": [
+    {"text": "Ranee Katzenstein & Emilie Savage-Smith, *The Leiden Aratea* (1988)."},
+    {"text": "Elly Dekker, *Illustrating the Phaenomena* (2013)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Aratea_46v.jpg"}
+   ],
+   "key_concepts": ["Leiden Aratea", "Aratus Phaenomena", "constellation personification", "Carolingian astronomy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__zodiac-signs-ms",
+   "title": "The Twelve Signs of the Zodiac, Dirc van Delft's Tafel van den Kersten Ghelove (Walters W.171)",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Dirc van Delft (text); Dutch illuminator",
+   "date": "c. 1400–1410",
+   "place": "Northern Netherlands",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["zodiac", "twelve signs", "wheel", "calendar", "netherlandish", "manuscript", "cosmology", "walters"],
+   "rights": "Public domain. The Walters Art Museum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Dirc_van_Delft_-_The_Twelve_Signs_of_the_Zodiac_-_Walters_W17112R_-_Full_Page.jpg",
+   "summary": "A full-page miniature of the twelve zodiac signs from a copy of Dirc van Delft's *Tafel van den Kersten Ghelove* in the Walters Art Museum (W.171).\n\n## Iconography\nThe twelve **signs** are arranged together on the page — the ram, bull, twins, crab, lion and the rest — as a compact survey of the zodiacal **wheel**. The image serves the cosmological chapters of a Christian encyclopaedic handbook, integrating the pagan signs into a devotional world-picture.\n\n## Significance\nDirc van Delft, court theologian to Duke Albrecht of Bavaria, compiled the *Tafel* (c. 1400) as a Dutch summa of the faith that nonetheless included natural philosophy and the [[motif:zodiac|zodiac]]. Such inclusions show how thoroughly astrological cosmology was woven into orthodox medieval learning, the heavens read as the legible order of God's creation.\n\n## For artists & game designers\nA single sheet displaying all twelve signs is a ready-made selection wheel or zodiac-picker for a calendar, divination, or character-origin mechanic.",
+   "citations": [
+    {"text": "K. R. Tervoort, *Dirc van Delft and the Tafel van den Kersten Ghelove*."},
+    {"text": "Walters Art Museum, MS W.171."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Dirc_van_Delft_-_The_Twelve_Signs_of_the_Zodiac_-_Walters_W17112R_-_Full_Page.jpg"}
+   ],
+   "key_concepts": ["zodiac wheel", "Dirc van Delft", "encyclopaedic cosmology", "Netherlandish illumination"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__labours-months",
+   "title": "Calendar opening with labours of the months, Maastricht Book of Hours (BL Stowe MS 17)",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Anonymous (Liège–Maastricht area)",
+   "date": "c. 1300–1325",
+   "place": "Liège–Maastricht region",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["labours of the months", "calendar", "zodiac", "book of hours", "occupations", "seasons", "marginalia", "agriculture"],
+   "rights": "Public domain. The British Library, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Maastricht_Book_of_Hours,_BL_Stowe_MS17_f002v_%26_f003r.png",
+   "summary": "A calendar opening from the Maastricht Book of Hours (British Library, Stowe MS 17), pairing the labours of the months with the zodiac.\n\n## Iconography\nThe calendar leaves carry the **labours of the months** — seasonal occupations such as pruning, harvesting, and pig-slaughter — set beside the corresponding **zodiac** sign for each month. The familiar pairing aligns human work with the turning sky.\n\n## Significance\nThe **labours / signs** cycle is one of the most widespread of all medieval image-programmes, running through portal sculpture, psalters, and books of hours. It expresses the agrarian and astrological rhythm of the year: each month has its task and its [[motif:zodiac|sign]], the calendar binding labour, season, and heaven into a single round.\n\n## For artists & game designers\nA twelve-cell cycle of occupation + sign is a perfect calendar or season system: each month already carries an activity and a celestial flavour.",
+   "citations": [
+    {"text": "Bridget Ann Henisch, *The Medieval Calendar Year* (1999)."},
+    {"text": "British Library, Stowe MS 17."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Maastricht_Book_of_Hours,_BL_Stowe_MS17_f002v_%26_f003r.png"}
+   ],
+   "key_concepts": ["labours of the months", "calendar cycle", "zodiac", "book of hours"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__sagittarius-ms",
+   "title": "November–Sagittarius, Der Naturen Bloeme of Jacob van Maerlant (KB KA 16)",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Jacob van Maerlant (text); attributed to Gheraert van Lienhout",
+   "date": "c. 1340–1350",
+   "place": "Flanders / Low Countries",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["sagittarius", "archer", "zodiac", "november", "labours of the months", "centaur", "manuscript", "calendar"],
+   "rights": "Public domain. Koninklijke Bibliotheek, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:November-Sagittarius_-_De_natuurkunde_van_het_geheelal_by_Gheraert_van_Lienhout_-_part_of_Der_naturen_bloeme_-_KB_KA_16_-_019r_b1.jpg",
+   "summary": "The sign Sagittarius for the month of November, from a Middle-Dutch copy of Jacob van Maerlant's encyclopaedic *Der Naturen Bloeme* (The Hague, KB, KA 16).\n\n## Iconography\n**Sagittarius** appears as the centaur-archer, bow drawn, paired with **November** in the calendar sequence. The miniature belongs to a month-by-month run of zodiac figures illustrating the natural-philosophical sections of the codex.\n\n## Significance\nMaerlant's *Der Naturen Bloeme* (c. 1270, after Thomas of Cantimpré) was the great vernacular Dutch encyclopaedia of nature; later illuminated copies such as KB KA 16 add the **zodiac** to its cosmological matter. The archer-centaur is the standard medieval form of [[motif:sagittarius|Sagittarius]], carrying the classical type into northern vernacular learning.\n\n## For artists & game designers\nA clean centaur-archer reference tied to a specific month — drop-in art for a zodiac-themed class, enemy, or seasonal event.",
+   "citations": [
+    {"text": "Jacob van Maerlant, *Der Naturen Bloeme* (ed. Eelco Verwijs)."},
+    {"text": "Koninklijke Bibliotheek, KA 16."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:November-Sagittarius_-_De_natuurkunde_van_het_geheelal_by_Gheraert_van_Lienhout_-_part_of_Der_naturen_bloeme_-_KB_KA_16_-_019r_b1.jpg"}
+   ],
+   "key_concepts": ["Sagittarius", "Der Naturen Bloeme", "centaur-archer", "month-sign pairing"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__capricorn-ms",
+   "title": "December–Capricorn, Der Naturen Bloeme of Jacob van Maerlant (KB KA 16)",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Jacob van Maerlant (text); attributed to Gheraert van Lienhout",
+   "date": "c. 1340–1350",
+   "place": "Flanders / Low Countries",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["capricorn", "sea-goat", "zodiac", "december", "labours of the months", "manuscript", "calendar", "winter"],
+   "rights": "Public domain. Koninklijke Bibliotheek, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:December-Capricorn_-_De_natuurkunde_van_het_geheelal_by_Gheraert_van_Lienhout_-_part_of_Der_naturen_bloeme_-_KB_KA_16_-_019r_b2.jpg",
+   "summary": "The sign Capricorn for the month of December, companion image to the Sagittarius leaf in the same Middle-Dutch *Der Naturen Bloeme* (KB, KA 16).\n\n## Iconography\n**Capricorn** is rendered in its classical hybrid form — the **sea-goat**, fore-quarters of a goat tapering into a fish-tail — and paired with **December**. It rounds out the year's zodiacal sequence at the winter solstice.\n\n## Significance\nThe goat-fish of [[motif:capricorn|Capricorn]] descends from Babylonian and Greco-Roman star-lore (the *aigokeros*) and marks the solstitial gate of the year, anciently the 'gate of the gods'. Its survival in a fourteenth-century Dutch natural encyclopaedia shows the deep continuity of the constellation figures from antiquity through medieval vernacular science.\n\n## For artists & game designers\nThe goat-fish is an unusually striking hybrid — a distinctive silhouette for a winter, sea, or threshold-guardian creature.",
+   "citations": [
+    {"text": "Jacob van Maerlant, *Der Naturen Bloeme* (ed. Eelco Verwijs)."},
+    {"text": "Koninklijke Bibliotheek, KA 16."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:December-Capricorn_-_De_natuurkunde_van_het_geheelal_by_Gheraert_van_Lienhout_-_part_of_Der_naturen_bloeme_-_KB_KA_16_-_019r_b2.jpg"}
+   ],
+   "key_concepts": ["Capricorn", "sea-goat", "solstice", "Der Naturen Bloeme"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__de-sphaera-modena",
+   "title": "Mercury and his children, De Sphaera (Biblioteca Estense, lat. 209)",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Lombard workshop, formerly attributed to Cristoforo de Predis",
+   "date": "c. 1470",
+   "place": "Milan / Lombardy",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["children of the planets", "mercury", "planet", "occupations", "scholars", "manuscript", "estense", "sforza"],
+   "rights": "Public domain. Biblioteca Estense, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mercurius_-_De_Sphaera_-_Biblioteca_Estense_lat209.png",
+   "summary": "The planet **Mercury** with his 'children' from the luxurious *De Sphaera* (Modena, Biblioteca Estense, MS lat. 209), a high point of the Children-of-the-Planets tradition.\n\n## Iconography\nMercury, the planetary deity, presides at the top of the page over the trades and arts he governs — scholars, clockmakers, painters, organists, scribes and merchants busy in a contemporary urban scene. This is the [[motif:children of the planets|Children of the Planets]] schema: each planet rules a temperament and a set of human occupations.\n\n## Significance\nThe *De Sphaera* (c. 1470), associated with the Sforza court of Milan, presents each of the seven planets as a crowned ruler attended by the people born under it. The cycle visualizes astrological determinism in social terms — your planet shaped your character and your craft. It is one of the most sumptuous surviving examples of the genre.\n\n## For artists & game designers\nA planet-as-patron presiding over a townful of its 'children' is a vivid model for a faction, guild, or origin system keyed to seven celestial archetypes.",
+   "citations": [
+    {"text": "A. Daneu Lattanzi, *Il De Sphaera estense* (1989)."},
+    {"text": "Dieter Blume, *Regenten des Himmels* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mercurius_-_De_Sphaera_-_Biblioteca_Estense_lat209.png"}
+   ],
+   "key_concepts": ["Children of the Planets", "Mercury", "De Sphaera", "Sforza Milan"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__planetenkinder",
+   "title": "The Moon and her planet-children (De zeven planeten series), Rijksmuseum",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Netherlandish printmaker (Children of the Planets series)",
+   "date": "early modern (16th–17th c.; per Rijksmuseum record)",
+   "place": "Low Countries",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["children of the planets", "moon", "luna", "planetenkinder", "occupations", "chariot", "engraving", "rijksmuseum"],
+   "rights": "Public domain (CC0). Rijksmuseum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:De_Maan_en_haar_planeetkinderen_Monn_(titel_op_object)_De_zeven_planeten_(serietitel),_RP-P-2017-1171-7.jpg",
+   "summary": "An engraving of **Luna** (the Moon) and her *planeetkinderen* from a printed Seven Planets series in the Rijksmuseum, the early-modern descendant of the medieval Children of the Planets cycle.\n\n## Iconography\nThe Moon rides her **chariot** across the upper sky while below, her 'children' pursue the lunar occupations — fowlers, fishers, millers, travellers, and those who work by water or wander by night. A verse caption names the planet's traits.\n\n## Significance\nThe printed [[motif:children of the planets|Planetenkinder]] series carried a medieval manuscript scheme into the age of engraving, fixing for a broad public the link between each planet and a social type. Luna governs the changeable, the watery, and the restless — the traditional temperament of those born under the Moon. The Rijksmuseum sheet belongs to a complete seven-print set.\n\n## For artists & game designers\nThe planet-in-chariot-above, children-below composition is a clean two-register layout for showing a ruling power and the lives it shapes.",
+   "citations": [
+    {"text": "Dieter Blume, *Regenten des Himmels* (2000)."},
+    {"text": "F. Lippmann, *The Seven Planets* (1895)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:De_Maan_en_haar_planeetkinderen_Monn_(titel_op_object)_De_zeven_planeten_(serietitel),_RP-P-2017-1171-7.jpg"}
+   ],
+   "key_concepts": ["Children of the Planets", "Luna", "planetary chariot", "engraved series"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__children-saturn",
+   "title": "Saturn on clouds (planetary deity), Gaspare Diziani",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Gaspare Diziani",
+   "date": "18th c. (Venetian)",
+   "place": "Venice",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["saturn", "planetary deity", "scythe", "melancholy", "old man", "clouds", "time", "reception"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Saturn_on_clouds_(SM_13211z).png",
+   "summary": "An eighteenth-century Venetian image of **Saturn** enthroned on clouds by Gaspare Diziani — a late reception of the planetary-deity tradition descended from the medieval planet-rulers. (Dated to its actual creation, not to a lost medieval original.)\n\n## Iconography\nThe aged, brooding god sits among **clouds**, attributes of [[motif:saturn|Saturn]] at hand — the **scythe** of harvest and time, the heavy melancholic posture. He is the planet imagined as a sovereign and an old man, lord of the slow, the cold, and the saturnine temperament.\n\n## Significance\nThe identification of Saturn with melancholy, age, agriculture, and devouring Time runs from antiquity through the medieval Children-of-the-Planets cycles into Renaissance and Baroque art (famously analysed in Klibansky, Panofsky and Saxl's *Saturn and Melancholy*). This Diziani composition shows the planetary king continuing as a living artistic type long after the Middle Ages.\n\n## For artists & game designers\nThe scythe-bearing old man on clouds is the definitive 'lord of time and decay' figure — directly usable for a Saturnine boss, deity, or melancholic patron.",
+   "citations": [
+    {"text": "R. Klibansky, E. Panofsky & F. Saxl, *Saturn and Melancholy* (1964)."},
+    {"text": "Dieter Blume, *Regenten des Himmels* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Saturn_on_clouds_(SM_13211z).png"}
+   ],
+   "key_concepts": ["Saturn", "planetary deity", "melancholy", "reception of planet-rulers"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__albumasar",
+   "title": "Albumasar, De Magnis Coniunctionibus (Venice, 1515)",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Abū Maʿshar al-Balkhī (Albumasar); printed Venice, 1515",
+   "date": "1515 (text 9th c.)",
+   "place": "Venice (text: Baghdad / Balkh)",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["albumasar", "great conjunctions", "arabic astrology", "diagram", "title page", "transmission", "print", "horoscope"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Translation_of_Albumasar_Venice_1515_De_Magnis_Coniunctionibus.jpg",
+   "summary": "A page from the 1515 Venice printing of *De Magnis Coniunctionibus* (On the Great Conjunctions) of **Albumasar**, the most influential single text of medieval astrology in its Latin form.\n\n## Iconography\nThe printed page carries the apparatus of conjunction theory — text columns and astrological **diagrams** — under the name of [[motif:albumasar|Albumasar]]. The 1515 edition reproduces in print the doctrine that the Latin Middle Ages had absorbed centuries earlier through translation.\n\n## Significance\nAbū Maʿshar al-Balkhī (787–886), working in Baghdad, systematized the theory of **great conjunctions** of Saturn and Jupiter, used to date the rise and fall of religions and empires. Translated into Latin in the twelfth century (by John of Seville and Hermann of Carinthia), his works were foundational for Western astrology and for thinkers from Albertus Magnus to Pierre d'Ailly. This image dates to the surviving 1515 print, not the lost ninth-century original.\n\n## For artists & game designers\nA dense diagram-and-text page is the archetypal 'astrologer's authoritative tome' — useful as a lore prop or a predictive-mechanic interface.",
+   "citations": [
+    {"text": "Charles Burnett, 'Abū Maʿshar,' in *The Cambridge History of Science* vol. 2."},
+    {"text": "Richard Lemay, *Abu Ma'shar and Latin Aristotelianism* (1962)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Translation_of_Albumasar_Venice_1515_De_Magnis_Coniunctionibus.jpg"}
+   ],
+   "key_concepts": ["Albumasar", "great conjunctions", "Arabic-Latin transmission", "conjunctionism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__sacrobosco-sphaera",
+   "title": "Sphaera Mundi of Johannes de Sacrobosco (Ratdolt edition, Venice 1482)",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Johannes de Sacrobosco (text); printed by Erhard Ratdolt",
+   "date": "1482 (text c. 1230)",
+   "place": "Venice (text: Paris/Oxford)",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["sphere", "sacrobosco", "cosmology", "celestial spheres", "diagram", "earth", "incunabulum", "ratdolt"],
+   "rights": "Public domain (CC0). The Metropolitan Museum of Art, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sphaera_Mundi_MET_DP108936.jpg",
+   "summary": "A diagram page from the *Sphaera Mundi* of **Johannes de Sacrobosco**, in the celebrated 1482 Venice edition printed by Erhard Ratdolt.\n\n## Iconography\nThe woodcut shows the **celestial spheres** — concentric heavens enclosing the central earth — the standard geocentric diagram of the cosmos. Ratdolt's edition is famous for its clear, pioneering printed astronomical figures.\n\n## Significance\nSacrobosco's *De sphaera* (c. 1230) was THE elementary astronomy textbook of the Latin West, taught in every university for four centuries. It expounded the spherical cosmos, the zodiac, the climes, and the celestial motions that underpinned all [[motif:zodiac|astrological]] practice. The 1482 Ratdolt print made these diagrams reproducible; the image here dates to that incunabulum, not to a medieval manuscript.\n\n## For artists & game designers\nThe concentric-spheres diagram is the canonical 'map of the cosmos' — instantly readable as a worldview screen, cosmology menu, or planar map.",
+   "citations": [
+    {"text": "Olaf Pedersen, 'In Quest of Sacrobosco,' *JHA* 16 (1985)."},
+    {"text": "Lynn Thorndike, *The Sphere of Sacrobosco and Its Commentators* (1949)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sphaera_Mundi_MET_DP108936.jpg"}
+   ],
+   "key_concepts": ["Sacrobosco", "De sphaera", "celestial spheres", "Ratdolt incunabulum"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__de-sphaera-jupiter",
+   "title": "Planetary plate from Sphaerae coelestis et planetarum descriptio",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Anonymous (early-modern printed astronomicum)",
+   "date": "early modern (printed)",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["planet", "celestial sphere", "diagram", "astronomicum", "orbit", "print", "epicycle", "cosmology"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sphaerae_coelestis_et_planetarum_descriptio-13.jpg",
+   "summary": "A planetary diagram plate (no. 13) from the printed *Sphaerae coelestis et planetarum descriptio*, a descriptive atlas of the celestial sphere and the planets.\n\n## Iconography\nThe plate sets out the **celestial sphere** and a planetary motion in geometric **diagram** form — circles, orbs, and the apparatus of [[motif:epicycle|epicyclic]] astronomy used to describe a planet's course. (The Commons title numbers but does not name the specific planet on this leaf, so I leave the identification general.)\n\n## Significance\nDescriptive planetary atlases of this type translated the Ptolemaic-Sacroboscan model of nested spheres into clean printed figures for teaching and computation. They are the technical substrate beneath astrology: before a horoscope could be cast, the positions had to be modelled by exactly such geometry of orbs and epicycles.\n\n## For artists & game designers\nA precise circles-and-orbits plate is ideal 'hard astronomy' set-dressing — the calculating, instrumental face of the cosmos rather than its mythic one.",
+   "citations": [
+    {"text": "J. L. E. Dreyer, *A History of Astronomy from Thales to Kepler* (1906)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sphaerae_coelestis_et_planetarum_descriptio-13.jpg"}
+   ],
+   "key_concepts": ["planetary diagram", "celestial sphere", "epicycle", "printed astronomicum"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__de-sphaera-mars",
+   "title": "Planetary plate (15) from Sphaerae coelestis et planetarum descriptio",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Anonymous (early-modern printed astronomicum)",
+   "date": "early modern (printed)",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["planet", "celestial sphere", "diagram", "astronomicum", "orbit", "print", "epicycle", "cosmology"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sphaerae_coelestis_et_planetarum_descriptio-15.jpg",
+   "summary": "A second planetary diagram plate (no. 15) from the printed *Sphaerae coelestis et planetarum descriptio*, continuing the descriptive survey of the planets.\n\n## Iconography\nAs with its companion leaves, the plate renders a planet's sphere and motion as a geometric **diagram** of concentric circles and orbs. (The file title gives only a plate number, so the precise planet is left unstated here rather than guessed.)\n\n## Significance\nThe series as a whole walks through the planetary spheres one by one, the printed counterpart to the manuscript planet-cycles. Where the Children-of-the-Planets images show the planets as gods and rulers, plates like this show them as objects of [[motif:cosmology|mathematical cosmology]] — the same bodies, the opposite mode of depiction.\n\n## For artists & game designers\nPair this with a Children-of-the-Planets image to contrast the 'two faces' of a planet: mythic ruler versus measured orb.",
+   "citations": [
+    {"text": "J. L. E. Dreyer, *A History of Astronomy from Thales to Kepler* (1906)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sphaerae_coelestis_et_planetarum_descriptio-15.jpg"}
+   ],
+   "key_concepts": ["planetary diagram", "celestial sphere", "mathematical cosmology", "printed astronomicum"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__de-sphaera-luna",
+   "title": "Luna plate from Sphaerae coelestis et planetarum descriptio",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Anonymous (early-modern printed astronomicum)",
+   "date": "early modern (printed)",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["luna", "moon", "celestial sphere", "diagram", "astronomicum", "orbit", "print", "cosmology"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sphaerae_coelestis_et_planetarum_descriptio-23-Luna.jpg",
+   "summary": "The **Luna** (Moon) plate from the printed *Sphaerae coelestis et planetarum descriptio*, diagramming the sphere and motion of the Moon.\n\n## Iconography\nThe leaf — named *Luna* in its title — sets out the **lunar sphere**, the innermost of the planetary heavens in the geocentric scheme, as a circular **diagram** of orbs. The Moon stands at the boundary between the sublunary world of change and the unchanging heavens above.\n\n## Significance\nIn astrological doctrine the [[motif:moon|Moon]] is the swiftest and most consequential of the planets for daily practice: its sign and phase governed the [[motif:melothesia|timing]] of medicine, bloodletting, planting, and travel. This descriptive plate gives the geometric back-end of that lore — the lunar orb whose computed position underwrote every almanac prognostication.\n\n## For artists & game designers\nA dedicated lunar-orbit plate suits a time, tide, or phase mechanic where the Moon's position drives in-game effects.",
+   "citations": [
+    {"text": "J. L. E. Dreyer, *A History of Astronomy from Thales to Kepler* (1906)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sphaerae_coelestis_et_planetarum_descriptio-23-Luna.jpg"}
+   ],
+   "key_concepts": ["Luna", "lunar sphere", "geocentric cosmos", "almanac timing"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__armillary-sphere",
+   "title": "Armillary sphere (astronomical instrument diagram)",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Harold Nelson (illustration)",
+   "date": "early modern type (modern reproduction)",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["armillary sphere", "instrument", "celestial circles", "ecliptic", "equator", "rings", "astronomy", "cosmology"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:FamHis062.png",
+   "summary": "An illustration of an **armillary sphere**, the ringed model of the heavens that was the emblematic instrument of pre-modern astronomy.\n\n## Iconography\nNested metal **rings** represent the great circles of the sky — the celestial equator, the **ecliptic** with its band of the zodiac, the tropics and colures — turning around a central earth (or, later, sun). The device is at once a teaching model, a computing aid, and a symbol of cosmic order.\n\n## Significance\nDescending from Greek and Islamic astronomy, the [[motif:armillary sphere|armillary sphere]] embodied the spherical cosmos of Sacrobosco in three dimensions; it became the standard attribute of the astronomer and astrologer in art. Through its rings one read off the framework — equator, ecliptic, zodiac — on which every horoscope and calendar depended.\n\n## For artists & game designers\nThe armillary is the perfect 'astronomer's tool' icon: a hand-held cosmos of brass rings, equally at home as a puzzle object, a navigation aid, or a wizard's instrument.",
+   "citations": [
+    {"text": "James Evans, *The History and Practice of Ancient Astronomy* (1998)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:FamHis062.png"}
+   ],
+   "key_concepts": ["armillary sphere", "celestial circles", "ecliptic", "astronomical instrument"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__astrolabe-brass",
+   "title": "Planispheric astrolabe, Iran, dated 984 CE (Museum of Islamic Art)",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Anonymous (Islamic instrument-maker)",
+   "date": "984 CE",
+   "place": "Iran (Islamic world)",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["astrolabe", "instrument", "rete", "ecliptic", "brass", "islamic science", "star pointers", "computation"],
+   "rights": "CC BY-SA 3.0. Museum of Islamic Art, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:MIA_-_Planispheric_Astrolabe,_Iran,_984_AD.jpg",
+   "summary": "A planispheric **astrolabe** made in Iran in 984 CE, among the earliest dated surviving examples of the master-instrument of medieval astronomy.\n\n## Iconography\nThe brass disc carries the pierced **rete** — a star-map of pointers and an off-centre **ecliptic** ring — turning over engraved plates marked with the coordinate lines for a given latitude. By rotating the rete the user could compute the positions of sun and stars, tell time, and find the ascendant.\n\n## Significance\nThe [[motif:astrolabe|astrolabe]], perfected in the Islamic world and transmitted to Latin Europe (notably via al-Andalus and figures like Gerbert of Aurillac), was indispensable to both astronomy and astrology: casting a horoscope began with finding the degree of the zodiac rising on the eastern horizon, a calculation the astrolabe performed directly. This 984 instrument is a landmark of the tradition.\n\n## For artists & game designers\nThe astrolabe's pierced star-rete over scaled plates is a gorgeous, genuinely functional 'computation device' — ideal as an interactive dial puzzle or a diviner's tool.",
+   "citations": [
+    {"text": "David A. King, *Astrolabes from Medieval Europe* (2011)."},
+    {"text": "Emilie Savage-Smith, *Islamicate Celestial Globes* (1985)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:MIA_-_Planispheric_Astrolabe,_Iran,_984_AD.jpg"}
+   ],
+   "key_concepts": ["astrolabe", "rete", "Islamic astronomy", "horoscope computation"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__lunar-mansion",
+   "title": "The last lunar mansion of Scorpio (Wellcome Collection)",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Anonymous",
+   "date": "medieval / early modern (per Wellcome record)",
+   "place": "Near East / Europe",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["lunar mansions", "manazil", "moon", "scorpio", "zodiac", "diagram", "astrology", "talismanic"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Showing_the_last_lunar_mansion_of_Scorpio_followed_Wellcome_L0030695.jpg",
+   "summary": "A diagram depicting the last **lunar mansion** in the region of Scorpio, from the Wellcome Collection.\n\n## Iconography\nThe figure marks a station of the Moon among the fixed stars — one of the **mansions of the Moon** (Arabic *manāzil al-qamar*), the 28 segments through which the Moon passes in its monthly circuit. This one falls in the stretch of sky around **Scorpio**.\n\n## Significance\nThe [[motif:lunar mansions|28 lunar mansions]] are a distinct system from the 12 solar zodiac signs, central to Arabic astronomy and to the talismanic magic transmitted to the Latin West through texts like the *Picatrix*. Each mansion had its own influences and was used to time the making of talismans and the launching of undertakings. Diagrams like this one served that operative, image-magic tradition.\n\n## For artists & game designers\nA 28-station lunar cycle is a finer-grained alternative to the 12 signs — ideal for a calendar or talisman-crafting system with many short, distinct windows.",
+   "citations": [
+    {"text": "*Picatrix* (Ghāyat al-Ḥakīm), trans. Hashem Atallah / D. Pingree edition."},
+    {"text": "Wellcome Collection, L0030695."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Showing_the_last_lunar_mansion_of_Scorpio_followed_Wellcome_L0030695.jpg"}
+   ],
+   "key_concepts": ["lunar mansions", "manazil al-qamar", "talismanic magic", "Picatrix"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__comet-bayeux",
+   "title": "Halley's Comet on the Bayeux Tapestry",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Anonymous (Anglo-Norman embroiderers)",
+   "date": "c. 1070s (after the comet of 1066)",
+   "place": "England (Canterbury) / Normandy",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["comet", "halley", "omen", "portent", "bayeux tapestry", "star", "prodigy", "kingship"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:PSM_V76_D014_Halley_comet_on_the_bayeux_tapestry.png",
+   "summary": "The scene from the **Bayeux Tapestry** showing the comet of 1066 (Halley's Comet) as an omen, a rendering reproduced in *Popular Science Monthly*.\n\n## Iconography\nA blazing, many-rayed **comet** hangs in the sky above a crowd of pointing onlookers; nearby, the newly crowned Harold sits uneasy on his throne while courtiers gesture at the **portent**. The embroidered caption reads *ISTI MIRANT STELLA* — 'these men wonder at the star'.\n\n## Significance\nThe apparition of [[motif:comet|Halley's Comet]] in spring 1066 was read across Europe as a sign of upheaval, and the Tapestry frames it as a heavenly verdict on Harold's contested kingship before his fall at Hastings. Comets were the most dramatic of astrological **omens**, traditionally heralding the death of princes and the change of realms — a belief that persisted into the era of the printed comet-broadsheet.\n\n## For artists & game designers\nThe rayed comet over a fearful court is the definitive 'ill omen' beat — a single sky-event that signals regime change or doom.",
+   "citations": [
+    {"text": "David J. Bernstein, *The Mystery of the Bayeux Tapestry* (1986)."},
+    {"text": "Roberta J. M. Olson, *Fire in the Sky: Comets and Meteors* (1985)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:PSM_V76_D014_Halley_comet_on_the_bayeux_tapestry.png"}
+   ],
+   "key_concepts": ["comet omen", "Halley's Comet", "Bayeux Tapestry", "celestial portent"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_astrology__volvelle",
+   "title": "Astronomical volvelle from Blundeville's Exercises",
+   "work": "Medieval Astrological & Astronomical Imagery",
+   "creator": "Thomas Blundeville (text); printed England",
+   "date": "1594–1636 (editions of the Exercises)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["volvelle", "rotating dial", "moveable instrument", "zodiac", "computation", "diagram", "paper instrument", "print"],
+   "rights": "Public domain. Library of Congress, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Image_327_of_M._Blundeuile_his_exercises.png",
+   "summary": "A printed **volvelle** — a rotating paper instrument — from *M. Blundeville His Exercises*, an English manual of practical mathematics and cosmography.\n\n## Iconography\nThe page presents a **volvelle**: concentric discs of paper, joined at the centre and meant to be turned, bearing scales of the zodiac, the calendar, or planetary motions. Rotating the discs lets the reader read off a position or a date — a computation built into the book itself.\n\n## Significance\nVolvelles carried the calculating power of the [[motif:astrolabe|astrolabe]] onto the printed page, democratizing astronomical and astrological reckoning. Descended from medieval manuscript wheels, they flourished in early-modern almanacs and cosmographies (Apian's *Astronomicum Caesareum* is the grand exemplar). Blundeville's *Exercises* (first ed. 1594) made such instruments available to an English readership.\n\n## For artists & game designers\nA volvelle is a ready-made interactive dial — spin concentric rings to compute or unlock; a tactile UI metaphor with genuine historical pedigree.",
+   "citations": [
+    {"text": "Suzanne Karr Schmidt, *Interactive and Sculptural Printmaking in the Renaissance* (2017)."},
+    {"text": "Library of Congress, Blundeville, *Exercises*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Image_327_of_M._Blundeuile_his_exercises.png"}
+   ],
+   "key_concepts": ["volvelle", "paper instrument", "astronomical computation", "rotating dial"],
+   "summary_status": "authored"
+  }
+ ]
+}

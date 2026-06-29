@@ -1,0 +1,381 @@
+{
+ "_work": {
+   "key": "grimoire_spirits",
+   "short_id": "GSPR",
+   "title": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "various",
+   "date": "9th–19th c.",
+   "century": 18,
+   "place": "Europe",
+   "region": "Europe",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "grimoire_spirits",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Demons",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["demon", "spirit", "conjuration", "demon seal", "infernal king", "grimoire"],
+   "blurb": "Demons and spirits as illustrated in the manuscript grimoire tradition rather than the printed Dictionnaire Infernal — the coloured grotesques of the Compendium rarissimum, the spirits of the Grand Grimoire and Black Pullet, Goetic spirit-seals, conjured apparitions, fallen angels and apocalyptic beasts, and the demon-binding scenes of the Solomonic literature, spanning medieval illumination to the nineteenth-century occult revival."
+ },
+ "entries": [
+  {
+   "id": "grimoire_spirits__compendium-demon1",
+   "title": "A Demon from the Compendium rarissimum",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous",
+   "date": "c. 1775 (manuscript)",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["demon", "coloured grotesque", "watercolour", "manuscript", "horns", "monstrous hybrid", "compendium rarissimum", "necromancy"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Compendium_rarissimum_totius_Demon.jpg",
+   "summary": "A hand-coloured demon figure from the *Compendium rarissimum totius Artis Magicae*, an 18th-century German manuscript of necromantic and demonological lore.\n\n## Iconography\nThe page presents a grotesque demon rendered in watercolour against a blank ground — a hybrid creature combining human, bestial and reptilian features with lurid colouring, in the deliberately repellent style that distinguishes this manuscript from the engraved devils of printed books.\n\n## Significance\nThe *Compendium rarissimum* (sometimes catalogued with the *Magia naturalis et innaturalis* tradition) belongs to the clandestine handbooks of [[motif:necromancy|conjuration]] copied privately in the German-speaking lands. Its leering, full-colour demons were painted as visual aids to evocation, illustrating the appearances that spirits were expected to take. Such manuscripts circulated outside print, preserving a folk-magical demonology distinct from the learned Solomonic line.\n\n## For artists & game designers\nThe saturated, hand-painted palette of these manuscript demons is a vivid alternative to monochrome engraving — study the colour grotesque for unsettling, non-photoreal monster design.",
+   "citations": [
+    {"text": "*Compendium rarissimum totius Artis Magicae* (German MS, 18th c.)."},
+    {"text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Compendium_rarissimum_totius_Demon.jpg"}
+   ],
+   "key_concepts": ["Compendium rarissimum", "manuscript demonology", "necromancy", "coloured grotesque"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__lucifuge",
+   "title": "Lucifuge Rofocale",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous (after the Grand Grimoire)",
+   "date": "19th c. (print after grimoire tradition)",
+   "place": "France",
+   "era": "modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["demon", "prime minister of hell", "grand grimoire", "pact", "infernal hierarchy", "horns", "claws", "treasure"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lucifuge_Rofocale_02.jpg",
+   "summary": "*Lucifuge Rofocale*, the demon prime-minister of Hell who is conjured to seal the pact in the *Grand Grimoire*.\n\n## Iconography\nLucifuge is shown as a horned, clawed demon of grotesque aspect, the central spirit the operator must summon and bargain with. His name — *lux fugiens*, 'fleeing the light' — marks him as a creature of darkness who shuns the day.\n\n## Significance\nIn the *Grand Grimoire* (the so-called *Red Dragon*, *Dragon Rouge*), Lucifuge Rofocale is set by Lucifer over the wealth and treasures of the world, and it is with him that the magician negotiates the infamous [[motif:pact|infernal pact]]. He governs the powers of riches and treasure-finding, and the grimoire supplies the *blood pact* and the coercive 'Great Conjuration' used to compel him. He epitomises the bargain-driven black-magic strand of the grimoire tradition.\n\n## For artists & game designers\nA classic 'deal-maker' antagonist — design Lucifuge as a courtly but monstrous broker who trades treasure for a terrible price.",
+   "citations": [
+    {"text": "*Le Grand Grimoire* / *Le Dragon Rouge* (18th–19th c. editions)."},
+    {"text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lucifuge_Rofocale_02.jpg"}
+   ],
+   "key_concepts": ["Lucifuge Rofocale", "Grand Grimoire", "infernal pact", "Red Dragon"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__grand-grimoire",
+   "title": "Page from the Grand Grimoire (Dragão Vermelho)",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous",
+   "date": "19th c. (grimoire edition)",
+   "place": "France",
+   "era": "modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["grand grimoire", "red dragon", "conjuration", "magic circle", "spirit evocation", "black magic", "diabolical pact", "grimoire page"],
+   "rights": "CC BY-SA 4.0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Paginas_selecionadas_O_drag%C3%A3o_vermelho_ou_o_Grande_Grim%C3%B3rio(grimoire)_03.jpg",
+   "summary": "A selected page from *O Dragão Vermelho* (*The Red Dragon*), a popular edition of the *Grand Grimoire*, showing the apparatus of spirit evocation.\n\n## Iconography\nThe page combines printed conjuration text with magical figures — the diagrams, circles and characters by which the operator prepares to call and command an infernal spirit. The layout is that of a working handbook rather than an art-book.\n\n## Significance\nThe *Grand Grimoire*, circulated under the lurid title *Le Dragon Rouge*, is among the most notorious of the black-magic grimoires, promising the conjuration of [[motif:spirit evocation|Lucifuge Rofocale]] and the discovery of hidden treasure. Cheap chapbook printings spread it across France and, through Portuguese and Brazilian editions like this one, into the wider Atlantic world, where it fed folk-magical practice well into the modern era.\n\n## For artists & game designers\nAn authentic grimoire page — a reference for the dense mix of typeset incantation and hand-drawn sigil that signals a real working spellbook.",
+   "citations": [
+    {"text": "*Le Grand Grimoire* / *O Dragão Vermelho* (popular editions)."},
+    {"text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Paginas_selecionadas_O_drag%C3%A3o_vermelho_ou_o_Grande_Grim%C3%B3rio(grimoire)_03.jpg"}
+   ],
+   "key_concepts": ["Grand Grimoire", "Red Dragon", "spirit evocation", "black magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__black-pullet-talisman",
+   "title": "Talisman of the Black Pullet (A Franga Preta)",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous",
+   "date": "18th–19th c. (grimoire design)",
+   "place": "France",
+   "era": "modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["talisman", "magic ring", "black pullet", "spirit-binding", "golden eggs", "characters", "treasure magic", "grimoire diagram"],
+   "rights": "CC BY-SA 4.0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A_FRANGA_PRETA_OU_A_GALINHA_COM_OVOS_DE_OURO.jpg",
+   "summary": "A talismanic figure from *La Poule Noire* (*The Black Pullet*), the grimoire of magical rings and talismans whose hen lays golden eggs.\n\n## Iconography\nThe diagram shows one of the book's talismans — a ring or figure inscribed with characters and a controlling word — by which the operator commands the spirits attached to it. Each talisman in the work is paired with a ring and a secret word of power.\n\n## Significance\n*The Black Pullet*, an 18th-century French grimoire, teaches the manufacture of [[motif:talisman|magical rings and talismans]] that grant invisibility, command of spirits, and the legendary black hen that lays golden eggs. Framed as the revelation of a Turkish mage to a French soldier in Egypt, it represents the talismanic, treasure-seeking branch of the grimoire tradition, where spirits are bound not by long conjuration but through engraved objects.\n\n## For artists & game designers\nA template for 'enchanted item' iconography — a sigil-bearing ring that doubles as the binding for a servant spirit.",
+   "citations": [
+    {"text": "*La Poule Noire* (*The Black Pullet*) (18th c.)."},
+    {"text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:A_FRANGA_PRETA_OU_A_GALINHA_COM_OVOS_DE_OURO.jpg"}
+   ],
+   "key_concepts": ["Black Pullet", "talismanic magic", "magic ring", "spirit-binding"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__poule-noire",
+   "title": "Talisman from The Black Pullet",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous",
+   "date": "18th–19th c. (grimoire design)",
+   "place": "France",
+   "era": "modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["talisman", "characters", "spirit seal", "black pullet", "magic word", "engraved figure", "invisibility", "grimoire"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Talis02.png",
+   "summary": "A second talismanic plate from the *Black Pullet* grimoire, an engraved figure of binding characters.\n\n## Iconography\nThe talisman is a geometric field of magical characters and letters — a self-contained 'seal' whose script encodes the [[motif:spirit seal|name and command]] of the spirit it governs. As in the rest of the book, the figure is meant to be reproduced on a ring or plate and activated with a secret word.\n\n## Significance\nThe *Black Pullet* organises its magic around a series of such talismans, each promising a specific power — to see hidden treasure, to become invisible, to compel love or obedience. The reliance on engraved character-talismans rather than dramatic evocation links the work to the older Arabic and Solomonic talismanic traditions while presenting them in an accessible, almost recipe-book form.\n\n## For artists & game designers\nClean abstract sigil art — use these character-fields as readable 'rune plates' for an in-game crafting or binding system.",
+   "citations": [
+    {"text": "*La Poule Noire* (*The Black Pullet*) (18th c.)."},
+    {"text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Talis02.png"}
+   ],
+   "key_concepts": ["Black Pullet", "talismanic characters", "spirit seal", "treasure magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__grimoire-spirit-draw",
+   "title": "Shax, Spirit of the Ars Goetia",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous (after the Lemegeton)",
+   "date": "Goetic design (modern drawing)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["demon", "stork", "marquis of hell", "ars goetia", "theft", "hoarse voice", "spirit drawing", "lemegeton"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Shax.jpg",
+   "summary": "A drawing of *Shax* (Chax, Scox), the stork-shaped marquis of the *Ars Goetia*.\n\n## Iconography\nShax is depicted following the grimoire's description as a great stork or long-necked bird, speaking 'with a hoarse and subtle voice.' The avian form distinguishes him within the bestiary of the seventy-two spirits.\n\n## Significance\nShax is a Great Marquis of the *Ars Goetia* (first book of the *Lemegeton*), commanding thirty legions. The grimoire credits him with the power to [[motif:theft|take away the sight, hearing, or understanding]] of any person, and to steal money and bring it to the conjurer — though it warns he is a deceiver who must be commanded into the triangle of art. He typifies the catalogue of named, ranked spirits that defines the Solomonic demonology.\n\n## For artists & game designers\nA bird-bodied trickster spirit — the stork form makes Shax an unusual, memorable design among horned and bestial demons.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers & A. Crowley (eds.), *The Goetia* (1904)."},
+    {"text": "*Lemegeton Clavicula Salomonis* (17th c.)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Shax.jpg"}
+   ],
+   "key_concepts": ["Shax", "Ars Goetia", "Lemegeton", "marquis of Hell"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__goetia-bael",
+   "title": "Seal of Bael (Goetic Sigil)",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous (after the Lemegeton)",
+   "date": "17th c. design; modern redrawing",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["demon seal", "sigil", "bael", "first king of hell", "ars goetia", "summoning glyph", "lemegeton", "binding character"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_seal_of_the_demon_Bael,.jpg",
+   "summary": "The *seal of Bael*, sigil of the first king of the *Ars Goetia*.\n\n## Iconography\nThe seal is a compact emblem of intersecting lines, loops and points — the abstract [[motif:demon seal|character]] of the spirit, distinct from any figural portrait. It is the glyph by which Bael is named, called, and bound.\n\n## Significance\nBael (echoing the Canaanite storm-god *Ba'al*) is the first of the seventy-two spirits of the *Ars Goetia*, a king commanding sixty-six legions who grants invisibility. Each Goetic spirit is assigned such a unique seal, to be engraved on the proper metal and displayed during the operation. The seals were standardised for the modern occult revival by Mathers and Crowley's 1904 edition of the *Lemegeton*.\n\n## For artists & game designers\nA ready 'summoning glyph' — assign one sigil per creature for instantly legible binding-circle and UI iconography.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers & A. Crowley (eds.), *The Goetia* (1904)."},
+    {"text": "*Lemegeton Clavicula Salomonis* (17th c.)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_seal_of_the_demon_Bael,.jpg"}
+   ],
+   "key_concepts": ["Bael", "Goetic sigil", "Ars Goetia", "first king of Hell"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__goetia-buer",
+   "title": "Seal of Buer (Goetic Sigil)",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous (after the Lemegeton)",
+   "date": "17th c. design; modern redrawing",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["demon seal", "sigil", "buer", "president of hell", "ars goetia", "herbal healing", "summoning glyph", "lemegeton"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Buer_seal_1134x1134.jpg",
+   "summary": "The *seal of Buer*, sigil of the wheel-shaped president of the *Ars Goetia*.\n\n## Iconography\nThe seal is an interlaced figure of lines and small terminals, the non-figurative [[motif:demon seal|character]] of the spirit — the counterpart to Buer's famous wheel-of-legs portrait.\n\n## Significance\nBuer is the tenth spirit of the *Ars Goetia*, a Great President who teaches natural and moral philosophy, logic, and the virtues of herbs and plants, and who heals all distempers; he appears 'when the Sun is in Sagittarius' and commands fifty legions. As with every Goetic spirit, his power is invoked through this unique engraved seal, part of the standardised apparatus of the *Lemegeton*.\n\n## For artists & game designers\nPair this seal with the wheel-of-legs creature for a complete 'name + glyph' set, mirroring how grimoires bind image to character.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers & A. Crowley (eds.), *The Goetia* (1904)."},
+    {"text": "*Lemegeton Clavicula Salomonis* (17th c.), spirit 10."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Buer_seal_1134x1134.jpg"}
+   ],
+   "key_concepts": ["Buer", "Goetic sigil", "Ars Goetia", "president of Hell"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__goetia-marchosias",
+   "title": "Seal of Marchosias (Goetic Sigil)",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous (after the Lemegeton)",
+   "date": "17th c. design; modern redrawing",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["demon seal", "sigil", "marchosias", "marquis of hell", "ars goetia", "wolf", "griffin wings", "lemegeton"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:35-Marchosias_seal.png",
+   "summary": "The *seal of Marchosias*, the thirty-fifth spirit of the *Ars Goetia*.\n\n## Iconography\nThe seal is a balanced figure of crossing lines and terminals, the engraved [[motif:demon seal|character]] used to call the spirit. Marchosias himself is described as a fierce she-wolf with griffin's wings and a serpent's tail, breathing fire.\n\n## Significance\nMarchosias is a Great Marquis of the *Ars Goetia* commanding thirty legions; he was, the grimoire says, formerly of the order of Dominations among the angels and hopes to return to the Seventh Throne after twelve hundred years — a rare note of demonic nostalgia for lost grace. He fights truly for the conjurer and answers all questions. His seal is part of the standard Goetic set.\n\n## For artists & game designers\nThe 'fallen but hopeful' backstory makes Marchosias a sympathetic spirit-ally; pair seal with a winged-wolf design.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers & A. Crowley (eds.), *The Goetia* (1904)."},
+    {"text": "*Lemegeton Clavicula Salomonis* (17th c.), spirit 35."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:35-Marchosias_seal.png"}
+   ],
+   "key_concepts": ["Marchosias", "Goetic sigil", "Ars Goetia", "marquis of Hell"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__goetia-amdusias",
+   "title": "Seal of Amdusias (Goetic Sigil)",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous (after the Lemegeton)",
+   "date": "17th c. design; modern redrawing",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["demon seal", "sigil", "amdusias", "duke of hell", "ars goetia", "unicorn", "music", "lemegeton"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:67-Amdusias_seal.png",
+   "summary": "The *seal of Amdusias*, the sixty-seventh spirit of the *Ars Goetia*.\n\n## Iconography\nThe seal is an ornamented character of curved and crossing strokes, the [[motif:demon seal|glyph]] by which the spirit is summoned. Amdusias is described as appearing in human form, sometimes with a unicorn's head, attended by the sound of trumpets and concert music.\n\n## Significance\nAmdusias (Amduscias) is a Great Duke of the *Ars Goetia* commanding twenty-nine legions; he is the demon of music, able to make trees bend at the conjurer's will and to provide skilled musician-familiars. He belongs to the class of Goetic spirits prized for arts and harmonies rather than war — a reminder that the catalogue served aesthetic as well as martial desires. His seal completes the standard set.\n\n## For artists & game designers\nA 'bard demon' — use the seal with a unicorn-headed musician for a spirit tied to sound and enchantment mechanics.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers & A. Crowley (eds.), *The Goetia* (1904)."},
+    {"text": "*Lemegeton Clavicula Salomonis* (17th c.), spirit 67."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:67-Amdusias_seal.png"}
+   ],
+   "key_concepts": ["Amdusias", "Goetic sigil", "Ars Goetia", "demon of music"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__goetia-decarabia",
+   "title": "Seal of Decarabia (Goetic Sigil)",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous (after the Lemegeton)",
+   "date": "17th c. design; modern redrawing",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["demon seal", "sigil", "decarabia", "marquis of hell", "ars goetia", "pentacle star", "birds", "lemegeton"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Decarabia_seal.png",
+   "summary": "The *seal of Decarabia*, the sixty-ninth spirit of the *Ars Goetia*.\n\n## Iconography\nDecarabia's seal is distinctive in incorporating a star or pentacle within its lines — the [[motif:demon seal|character]] reflecting the spirit, who first appears as a star or pentagram before taking human shape.\n\n## Significance\nDecarabia (Carabia) is a Marquis of the *Ars Goetia* commanding thirty legions; he knows the virtues of herbs and precious stones and can make the illusion of birds fly before the conjurer, even granting them as familiars. His appearance as a glowing star links him to the astral and natural-magical interests of the grimoire's compilers. The seal belongs to the canonical Goetic series.\n\n## For artists & game designers\nThe star-shaped seal is among the most graphically striking of the set — ideal where a sigil must read as both glyph and 'spawn point'.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers & A. Crowley (eds.), *The Goetia* (1904)."},
+    {"text": "*Lemegeton Clavicula Salomonis* (17th c.), spirit 69."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Decarabia_seal.png"}
+   ],
+   "key_concepts": ["Decarabia", "Goetic sigil", "Ars Goetia", "pentagram"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__goetia-asmoday",
+   "title": "Seal of Asmoday (Goetic Sigil)",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous (after the Lemegeton)",
+   "date": "17th c. design; modern redrawing",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["demon seal", "sigil", "asmoday", "king of hell", "ars goetia", "three heads", "ring of virtue", "lemegeton"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:32-Asmoday_seal.png",
+   "summary": "The *seal of Asmoday* (Asmodeus), the thirty-second spirit of the *Ars Goetia*.\n\n## Iconography\nThe seal is a dense interlaced character, the [[motif:demon seal|glyph]] by which this great king is called. Asmoday is described in the Goetia as appearing with three heads — bull, man, and ram — with a serpent's tail and the feet of a goose, riding an infernal dragon and bearing a lance and banner.\n\n## Significance\nAsmoday is a King of the *Ars Goetia* commanding seventy-two legions, identified with the Asmodeus of the *Book of Tobit* and the *Testament of Solomon*. The grimoire counsels that the conjurer must stand bareheaded before him, for he is mighty and will otherwise show no respect; he teaches arithmetic, geometry and handicraft, gives the ring of virtues, and guards hidden treasure. Distinct from the held Le Breton portrait, this is his Solomonic *seal*.\n\n## For artists & game designers\nA powerful 'king'-tier seal — pair with the three-headed dragon-rider for a high-rank summon requiring special ritual conditions.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers & A. Crowley (eds.), *The Goetia* (1904)."},
+    {"text": "*Book of Tobit*; *Testament of Solomon*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:32-Asmoday_seal.png"}
+   ],
+   "key_concepts": ["Asmoday", "Goetic sigil", "Ars Goetia", "king of Hell"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__solomon-demons",
+   "title": "King Solomon and Two Demons",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "`Aliquli (attrib.)",
+   "date": "Safavid / Mughal era (manuscript)",
+   "place": "Near East",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["king solomon", "demon", "div", "spirit-binding", "command of spirits", "manuscript miniature", "throne", "enthroned magus"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:%60Aliquli_-_King_Solomon_and_Two_Demons_-_Walters_W62494B_-_Full_Page.jpg",
+   "summary": "A manuscript miniature of *King Solomon and Two Demons*, from a Persianate illustrated book (Walters Art Museum).\n\n## Iconography\nSolomon is shown enthroned in majesty with two demonic *divs* — grotesque, horned, animal-bodied spirits — brought into his presence and submission. The composition stages the king's God-given dominion over the world of [[motif:command of spirits|spirits]].\n\n## Significance\nThe figure of Solomon as master of demons is the wellspring of the entire Solomonic grimoire tradition. In Qur'anic and Jewish lore alike he commands the *jinn* and *divs* by a divine ring and seal, setting them to labour on the Temple. This Islamicate miniature preserves the same root legend that, in Europe, generated the *Clavicula Salomonis* and the *Ars Goetia* — the king who binds spirits to his will.\n\n## For artists & game designers\nThe enthroned-master-with-bound-monsters tableau is the original 'summoner' image — a model for depicting authority over a captive spirit retinue.",
+   "citations": [
+    {"text": "Walters Art Museum, MS W.624 (Public domain)."},
+    {"text": "Qur'an 27 (Sulayman and the jinn); *Testament of Solomon*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:%60Aliquli_-_King_Solomon_and_Two_Demons_-_Walters_W62494B_-_Full_Page.jpg"}
+   ],
+   "key_concepts": ["King Solomon", "command of spirits", "div", "Solomonic tradition"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__fallen-angels",
+   "title": "The Fall of the Rebel Angels",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "William de Brailes",
+   "date": "c. 1250 (manuscript)",
+   "place": "England",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["fallen angels", "rebel angels", "lucifer", "becoming demons", "heaven", "transformation", "manuscript illumination", "war in heaven"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_de_Brailes_-_The_Fall_of_the_Rebel_Angels_(Apocryphal)_-_Walters_W10624R_-_Full_Page.jpg",
+   "summary": "William de Brailes' illumination of *The Fall of the Rebel Angels*, c. 1250 (Walters Art Museum).\n\n## Iconography\nThe page shows the angels who followed Lucifer cast out of Heaven and tumbling downward, their forms darkening and growing monstrous as they fall — the very moment of [[motif:transformation|angels becoming demons]]. God and the loyal host remain above; the rebels plunge into the lower register.\n\n## Significance\nThe revolt and fall of the angels, elaborated from Isaiah 14, Ezekiel 28 and Revelation 12, is the origin story for every demon in the grimoire tradition: the spirits later catalogued and conjured are understood as these fallen powers. William de Brailes, the earliest English illuminator known by name, gives the myth a vivid Gothic staging. The transformation-in-mid-air motif explains why grimoire demons retain half-angelic, half-bestial forms.\n\n## For artists & game designers\nA reference for 'corruption' visual design — show rank by how far a falling figure has mutated from angel toward beast.",
+   "citations": [
+    {"text": "Walters Art Museum, W.106 (Public domain)."},
+    {"text": "Revelation 12; Isaiah 14:12."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_de_Brailes_-_The_Fall_of_the_Rebel_Angels_(Apocryphal)_-_Walters_W10624R_-_Full_Page.jpg"}
+   ],
+   "key_concepts": ["fall of the rebel angels", "William de Brailes", "Lucifer", "origin of demons"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__apocalypse-beast",
+   "title": "The Beast from the Land (Valcavado Beatus)",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Monk Oveco (Valcavado scriptorium)",
+   "date": "970 (manuscript)",
+   "place": "Spain",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["apocalyptic beast", "two horns", "false prophet", "revelation", "beatus", "mozarabic illumination", "dragon", "book of revelation"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Valcavado_Beatus_f._138r_-_Beast_from_the_Land.jpg",
+   "summary": "The *Beast from the Land* (the false prophet) from the Valcavado *Beatus*, a Mozarabic Apocalypse manuscript dated 970.\n\n## Iconography\nThe two-horned [[motif:apocalyptic beast|beast that rises from the earth]] of Revelation 13 is rendered in the bold, flat colour fields and abstracted forms of Mozarabic illumination. It accompanies the first Beast and the Dragon as the unholy trinity of the Apocalypse.\n\n## Significance\nThe *Beatus* manuscripts transmit the *Commentary on the Apocalypse* by Beatus of Liébana (8th c.), copied and illuminated across medieval Iberia. Their monstrous beasts — the seven-headed dragon, the leopard-beast, the two-horned false prophet — supplied medieval Christendom with much of its repertoire of demonic and apocalyptic imagery, the same grotesque vocabulary later mined by grimoire and demonological illustrators.\n\n## For artists & game designers\nMozarabic art's flat, graphic monsters are a striking stylistic alternative to naturalistic demons — study the Beatus beasts for bold heraldic creature design.",
+   "citations": [
+    {"text": "Beatus of Liébana, *Commentary on the Apocalypse*; Valcavado Beatus (970)."},
+    {"text": "Revelation 13."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Valcavado_Beatus_f._138r_-_Beast_from_the_Land.jpg"}
+   ],
+   "key_concepts": ["Beatus", "apocalyptic beast", "Book of Revelation", "Mozarabic illumination"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__necromancer",
+   "title": "The Magician Conjuring a Spirit (The Astrologer of the Nineteenth Century)",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous (Robert Cross Smith, ed.)",
+   "date": "1825 (engraving)",
+   "place": "England",
+   "era": "modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["necromancer", "conjuration", "magic circle", "raised spirit", "skull", "ritual apparatus", "evocation", "occult revival"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_astrologer_of_the_nineteenth_century_(1825)_(14763312272).jpg",
+   "summary": "An engraving of a magician conjuring a spirit, from *The Astrologer of the Nineteenth Century* (1825), a popular English compendium of occult lore.\n\n## Iconography\nThe magus stands within a protective [[motif:magic circle|circle]] amid the apparatus of evocation — wand, lamp, skull and ritual instruments — as a [[motif:raised spirit|spirit]] manifests in answer to his conjuration. The image dramatises the grimoire operation rather than a single named demon.\n\n## Significance\n*The Astrologer of the Nineteenth Century*, issued by the circle of Robert Cross Smith ('Raphael'), packaged Solomonic and grimoire material for a Georgian popular audience, helping to seed the Victorian occult revival. Its plates of robed conjurers and rising spirits fixed the romantic image of the ceremonial magician at work — the practitioner who, by circle, sigil and word, calls a spirit into visible appearance.\n\n## For artists & game designers\nA complete 'summoning scene' reference — circle, tools, and apparition together — useful for staging an evocation set-piece.",
+   "citations": [
+    {"text": "*The Astrologer of the Nineteenth Century* (London, 1825)."},
+    {"text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_astrologer_of_the_nineteenth_century_(1825)_(14763312272).jpg"}
+   ],
+   "key_concepts": ["ceremonial magician", "conjuration", "occult revival", "magic circle"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "grimoire_spirits__mephistopheles",
+   "title": "The Apparition (La Damnation de Faust)",
+   "work": "Demons & Spirits of the Manuscript Grimoires",
+   "creator": "Anonymous (after Berlioz / Faust legend)",
+   "date": "19th c. (print)",
+   "place": "France",
+   "era": "modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["faust", "apparition", "conjured vision", "mephistopheles", "damnation", "spirit summoning", "romantic illustration", "magic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:La_damnation_de_Faust._Apparition_de_Marguerite_-_DPLA_-_5034625b270d25afb49168cc8f242e25.jpg",
+   "summary": "A nineteenth-century print of an apparition scene from the Faust legend (*La Damnation de Faust*), in which a conjured vision is raised before the scholar.\n\n## Iconography\nThe composition shows a [[motif:conjured vision|spectral apparition]] summoned into appearance — the vision Mephistopheles conjures to ensnare Faust. The figure materialises out of darkness, the staple image of the spirit called up by a magician's bargain.\n\n## Significance\nThe Faust legend is the literary apex of the grimoire-and-pact tradition: a scholar who, dissatisfied with ordinary learning, conjures the spirit Mephistopheles and seals a [[motif:damnation|pact]] for forbidden knowledge and power. Berlioz's *La Damnation de Faust* (1846), after Goethe, gave the story its great Romantic-musical form, and its illustrations — like this apparition — fed the popular imagery of demonic summoning that surrounds the actual *Höllenzwang* grimoires attributed to Faust.\n\n## For artists & game designers\nA model for the 'summoned apparition' beat — a luminous figure conjured from shadow as the fruit (and trap) of a magical pact.",
+   "citations": [
+    {"text": "H. Berlioz, *La Damnation de Faust* (1846), after J. W. von Goethe."},
+    {"text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:La_damnation_de_Faust._Apparition_de_Marguerite_-_DPLA_-_5034625b270d25afb49168cc8f242e25.jpg"}
+   ],
+   "key_concepts": ["Faust", "Mephistopheles", "conjured apparition", "diabolical pact"],
+   "summary_status": "authored"
+  }
+ ]
+}

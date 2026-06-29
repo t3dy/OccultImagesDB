@@ -1,0 +1,392 @@
+{
+ "_work": {
+   "key": "lycanthropy_undead",
+   "short_id": "LYUN",
+   "title": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "various",
+   "date": "1512–1899",
+   "century": 17,
+   "place": "Europe",
+   "region": "Europe",
+   "language": "German",
+   "era": "early_modern",
+   "tradition": "reception",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "lycanthropy_undead",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Werewolves_in_art",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["werewolf", "vampire", "revenant", "nightmare mare", "wild hunt", "ghost apparition"],
+   "blurb": "The image-world of the European night: Cranach's man-eating Werwolf and the Ovidian Lycaon, the vampires of Munch and the Burne-Joneses, the wild ride of Odin's Hunt, the mare and changeling of Fuseli and Abildgaard, the Berserker of the Torslunda plate, Holbein's Death, and the churchyard ghosts of Shakespearean and folkloric reception."
+ },
+ "entries": [
+  {
+   "id": "lycanthropy_undead__cranach-werewolf",
+   "title": "The Werewolf (Werwolf)",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Lucas Cranach the Elder",
+   "date": "c. 1510–1515 (woodcut)",
+   "place": "Wittenberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["werewolf", "child-snatching", "on all fours", "village attack", "woodcut", "lycanthropy", "cannibalism", "german folklore"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Werwolf.png",
+   "summary": "Lucas Cranach the Elder's woodcut of a werewolf attacking a homestead, among the earliest and most influential printed images of the lycanthrope.\n\n## Iconography\nA crouching, beast-like man on all fours seizes a child in his jaws while a dismembered body lies on the ground and a stricken family looks on from a doorway. The creature is not a full wolf but a hairy human monster — the German *Werwolf* as a cannibal man rather than a four-legged beast.\n\n## Significance\nThe print crystallizes the early-modern German fear of the [[motif:werewolf|werewolf]] as a predator of households and children, the same anxiety that fed the werewolf trials of the Rhineland. Cranach's image circulated alongside reports of attacks and helped fix the iconography of the man-on-all-fours snatching victims, a stock motif of later broadsheets.\n\n## For artists & game designers\nA half-transformed human on all fours — hairy but recognizably a man — reads as 'werewolf' more disturbingly than a literal wolf, because the human posture is wrong.",
+   "citations": [
+    {"text": "Caroline Oates, in *Fragments for a History of the Human Body* (1989)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Werwolf.png"}
+   ],
+   "key_concepts": ["werewolf", "Lucas Cranach", "lycanthropy", "German folklore"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__lycaon",
+   "title": "Lycaon Transformed into a Wolf",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "After Hendrick Goltzius (Ovid's Metamorphoses series)",
+   "date": "c. 1589 (engraving)",
+   "place": "Haarlem, Netherlands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["lycaon", "wolf transformation", "jupiter", "impiety", "metamorphoses", "engraving", "mythic origin", "lycanthropy"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lycaon_verandert_in_een_wolf_Ovidius%27_Metamorfosen_(serietitel),_RP-P-1882-A-6351.jpg",
+   "summary": "An engraving from a Netherlandish series after Hendrick Goltzius illustrating Ovid's *Metamorphoses*, showing the impious king Lycaon turned into a wolf — the mythic origin of the word 'lycanthropy'.\n\n## Iconography\nThe Arcadian king Lycaon, mid-transformation, sprouts a wolf's muzzle and bristling hide as he flees the wrath of Jupiter, who is enthroned in the clouds above. The scene fuses human limbs with lupine features at the moment of change.\n\n## Significance\nIn Ovid, Lycaon tests the gods by serving Jupiter human flesh and is punished by being made a [[motif:wolf transformation|wolf]] — the literary fountainhead from which the very term *lycanthropy* derives. Renaissance print series of the *Metamorphoses* spread this classical model of the werewolf as divine punishment for impiety and cannibalism, sitting alongside the folkloric Werwolf of the north.\n\n## For artists & game designers\nA transformation caught at its midpoint — human and wolf coexisting in one body — is more dynamic than either the man or the finished beast.",
+   "citations": [
+    {"text": "Ovid, *Metamorphoses*, Book I."},
+    {"text": "Rijksmuseum, object RP-P-1882-A-6351."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lycaon_verandert_in_een_wolf_Ovidius%27_Metamorfosen_(serietitel),_RP-P-1882-A-6351.jpg"}
+   ],
+   "key_concepts": ["Lycaon", "Ovid Metamorphoses", "lycanthropy origin", "Hendrick Goltzius"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__loup-garou",
+   "title": "Le Loup-garou (The Werewolf)",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Anonymous",
+   "date": "19th century (print)",
+   "place": "France",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["loup-garou", "werewolf", "french folklore", "moonlit", "wolf-man", "rural legend", "print", "shape-shifter"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Loup-garou.jpg",
+   "summary": "A French popular print of the *loup-garou*, the werewolf of French folklore and the focus of several notorious early-modern French werewolf trials.\n\n## Iconography\nA bestial wolf-man figure stalks a nocturnal landscape, embodying the *loup-garou* of village legend — a person cursed or self-transformed into a wolf who roams by night.\n\n## Significance\nThe [[motif:loup-garou|loup-garou]] was the French face of the werewolf panic, with real trials such as those of Gilles Garnier (1573) and the 'werewolves of Poligny'. Distinct from the German cannibal-Werwolf, French belief often tied the transformation to a magic belt or salve and to pacts with the Devil, blurring werewolf and witch. Such popular prints kept the legend alive into the modern era.\n\n## For artists & game designers\nThe loup-garou's transformation aids — an enchanted wolf-belt or ointment — give a concrete, lootable trigger object for a shapeshifting mechanic.",
+   "citations": [
+    {"text": "Caroline Oates, on the French werewolf trials."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Loup-garou.jpg"}
+   ],
+   "key_concepts": ["loup-garou", "werewolf trials", "French folklore", "shape-shifting"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__torslunda-berserker",
+   "title": "Torslunda Plate: Weapon Dancer and Animal-Warrior",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Anonymous (Vendel-period craftsman); engraving published 1872",
+   "date": "c. 6th–7th century (bronze die); engraving 1872",
+   "place": "Torslunda, Öland, Sweden",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["berserker", "ulfhednar", "animal warrior", "weapon dancer", "horned figure", "wolf-skin", "vendel period", "helmet plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bronspl%C3%A5t_fr_Torslunda_sn,_%C3%96land_(Antiqvitets_Akademiens_M%C3%A5nadsblad_1872_s090_fig39).jpg",
+   "summary": "An 1872 engraving of one of the Torslunda bronze helmet-dies (Vendel-period Öland), depicting a horned weapon-dancer beside a warrior in animal guise — read as an image of the *berserkr* or *úlfheðinn*.\n\n## Iconography\nA dancing figure wearing a horned, bird-crested headdress brandishes two spears, paired with a second figure who appears to wear an animal pelt. The motifs come from a die used to stamp decorative foils for Vendel-era helmets.\n\n## Significance\nScholars connect such animal-warrior imagery to the Norse [[motif:berserker|berserker]] and *úlfheðnar* (\"wolf-coats\"), warriors who fought in a trance, said to take on the strength and fury of bear or wolf — a martial cousin of the shape-shifter. The Torslunda plates are key archaeological evidence for the cultic, possibly Odinic, dimension of these warrior bands.\n\n## For artists & game designers\nThe horned dancer plus the pelt-clad warrior is an authentic, pre-Viking template for an 'animal-warrior' class rooted in real archaeology rather than fantasy cliché.",
+   "citations": [
+    {"text": "Heather O'Donoghue, *From Asgard to Valhalla* (2007)."},
+    {"text": "Antiqvitets Akademiens Månadsblad (1872)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bronspl%C3%A5t_fr_Torslunda_sn,_%C3%96land_(Antiqvitets_Akademiens_M%C3%A5nadsblad_1872_s090_fig39).jpg"}
+   ],
+   "key_concepts": ["berserker", "ulfhednar", "Torslunda plates", "animal warrior"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__munch-vampire",
+   "title": "Vampire (Love and Pain)",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Edvard Munch",
+   "date": "1895 (oil on canvas)",
+   "place": "Norway / Germany",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["vampire", "embrace", "red hair", "neck", "love and pain", "symbolism", "fin de siecle", "psychological"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Vampire_(1895)_-_Google_Art_Project.jpg",
+   "summary": "Edvard Munch's *Vampire* (1895), a Symbolist image of a red-haired woman bent over a man's neck, originally titled *Love and Pain*.\n\n## Iconography\nA woman with cascading red hair embraces and bows over a man who buries his face against her, her mouth at his neck. Whether she comforts or drains him is deliberately ambiguous, the long red hair pooling like blood.\n\n## Significance\nMunch insisted the subject was simply a woman kissing a man's neck; the title *Vampire*, supplied by the critic Stanisław Przybyszewski, recast it as an emblem of the [[motif:vampire|fin-de-siècle vampire]] — woman as devourer of male vitality. The painting marks the moment the folkloric revenant was fully internalized as a psychological and erotic symbol, parallel to Stoker's *Dracula* (1897).\n\n## For artists & game designers\nMunch shows that the most unsettling vampire image withholds the bite — an ambiguous embrace lets the viewer supply the horror.",
+   "citations": [
+    {"text": "Sue Prideaux, *Edvard Munch: Behind the Scream* (2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Vampire_(1895)_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["vampire", "Edvard Munch", "Symbolism", "femme fatale"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__burnejones-vampire",
+   "title": "The Vampire (Le Vampire)",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Philip Burne-Jones",
+   "date": "1897 (oil painting)",
+   "place": "England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["vampire", "femme fatale", "prostrate man", "bed", "white gown", "predatory woman", "fin de siecle", "kipling"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Burne-Jones-le-Vampire.jpg",
+   "summary": "Philip Burne-Jones's *The Vampire* (1897), exhibited with Rudyard Kipling's accompanying poem, a key image of the late-Victorian female vampire.\n\n## Iconography\nA woman in white kneels triumphant over a man sprawled unconscious across a bed, her posture predatory and gloating. There are no fangs; the vampirism is figurative — the draining of a man by a heartless woman.\n\n## Significance\nShown the same year as Bram Stoker's *Dracula*, the picture and Kipling's poem (\"A fool there was...\") fixed the [[motif:vampire|vampire]] as *femme fatale* in popular culture, later inspiring the cinema 'vamp'. It exemplifies how the folkloric revenant was reworked into a gendered allegory of seduction and ruin at the fin de siècle.\n\n## For artists & game designers\nThe triumphant-victor-over-prone-victim composition conveys 'predator' without any monstrous feature — body language alone carries the threat.",
+   "citations": [
+    {"text": "Rudyard Kipling, \"The Vampire\" (1897)."},
+    {"text": "Nina Auerbach, *Our Vampires, Ourselves* (1995)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Burne-Jones-le-Vampire.jpg"}
+   ],
+   "key_concepts": ["vampire", "Philip Burne-Jones", "femme fatale", "Dracula era"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__asgardsreien",
+   "title": "Åsgårdsreien (The Wild Hunt of Odin)",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Peter Nicolai Arbo",
+   "date": "1872 (oil on canvas)",
+   "place": "Norway",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["wild hunt", "odin", "asgardsreien", "spectral riders", "storm", "valkyries", "night ride", "norse revival"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Peter_Nicolai_Arbo_-_The_wild_Hunt_of_Odin_-_NG.M.00258_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+   "summary": "Peter Nicolai Arbo's monumental *Åsgårdsreien* (1872), the definitive Romantic depiction of the Wild Hunt led by Odin.\n\n## Iconography\nA tempest of spectral riders, warriors, valkyries, and hounds surges across a stormy night sky, Odin at their head with raised spear, the whole host streaming like the wind itself across the heavens above a dark land.\n\n## Significance\nThe [[motif:wild hunt|Wild Hunt]] (*Asgardsreien*, German *Wilde Jagd*, the *Mesnée d'Hellequin*) is the pan-European belief in a ghostly cavalcade — often led by Odin/Wotan, Hellequin, or a damned huntsman — whose passing in the storm-winds portends death or war. Arbo's Norse-revival canvas became the visual archetype of the host, fusing Eddic myth with nineteenth-century national Romanticism.\n\n## For artists & game designers\nA host moving *as a single storm-front* — figures dissolving into wind and cloud — conveys an unstoppable supernatural army better than discrete ranks of riders.",
+   "citations": [
+    {"text": "Jacob Grimm, *Deutsche Mythologie* (1835), on the Wild Hunt."},
+    {"text": "Nasjonalmuseet, Oslo, object NG.M.00258."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Peter_Nicolai_Arbo_-_The_wild_Hunt_of_Odin_-_NG.M.00258_-_National_Museum_of_Art,_Architecture_and_Design.jpg"}
+   ],
+   "key_concepts": ["Wild Hunt", "Odin", "Peter Nicolai Arbo", "Norse revival"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__wilde-jagd-cordes",
+   "title": "Die Wilde Jagd (The Wild Hunt)",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Johann Wilhelm Cordes",
+   "date": "1856–1857 (oil painting)",
+   "place": "German lands",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["wild hunt", "wilde jagd", "wotan", "ghostly hounds", "fleeing maiden", "forest", "storm ride", "german legend"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:CordesWildeJagd.jpg",
+   "summary": "Johann Wilhelm Cordes's *Die Wilde Jagd* (c. 1857), a German Romantic rendering of the Wild Hunt pursuing its prey through a forest storm.\n\n## Iconography\nGhostly huntsmen and hounds led by a spectral rider burst through a darkened wood in pursuit of a fleeing figure, the air full of motion and terror, trees bending before the supernatural cavalcade.\n\n## Significance\nThe German *Wilde Jagd* — Wotan's or the 'wild huntsman's' host — was believed to sweep through the winter storms, and folklore warns that the living who cross its path may be swept up or struck dead. Cordes pairs Arbo's celestial vision with a more terrestrial, woodland terror, emphasizing the [[motif:wild hunt|Hunt]] as a pursuer of mortals. The legend feeds directly into Bürger's ballad *Der wilde Jäger*.\n\n## For artists & game designers\nGround-level pursuit through a forest makes the Wild Hunt a chase the player can be *caught in*, where Arbo's sky-host is a distant omen.",
+   "citations": [
+    {"text": "Gottfried August Bürger, *Der wilde Jäger* (1778)."},
+    {"text": "Jacob Grimm, *Deutsche Mythologie* (1835)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:CordesWildeJagd.jpg"}
+   ],
+   "key_concepts": ["Wild Hunt", "Wilde Jagd", "Wotan", "Johann Wilhelm Cordes"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__nachtmahr",
+   "title": "Nachtmahr (The Nightmare)",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Nicolai Abildgaard",
+   "date": "c. 1800 (oil painting)",
+   "place": "Copenhagen, Denmark",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["nightmare", "mare", "alp", "sleeping woman", "incubus", "night demon", "sleep paralysis", "neoclassical"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Nachtmahr_(Abildgaard).jpg",
+   "summary": "Nicolai Abildgaard's *Nachtmahr* (c. 1800), a Danish Neoclassical treatment of the nightmare demon pressing upon a sleeper, distinct from Fuseli's celebrated version.\n\n## Iconography\nA woman lies sprawled in sleep while a small demonic *Mare* or *Alp* crouches upon her, the embodiment of the suffocating night-terror. Abildgaard, a friend and rival of Fuseli, gives the theme his own classicizing treatment.\n\n## Significance\nThe [[motif:mare|Mare]] (German *Alp/Mahr*, English 'night-mare') is the folkloric spirit that sits on the sleeper's chest to bring crushing dreams — an early explanation of sleep paralysis. The motif spread through European art in the wake of Fuseli's *The Nightmare* (1781); Abildgaard's variant shows how widely the image of the chest-sitting demon resonated in the Romantic imagination.\n\n## For artists & game designers\nThe small demon perched on the chest of a much larger sleeping figure is an instantly legible symbol for oppression, dread, or a curse weighing on a character.",
+   "citations": [
+    {"text": "Owen Davies, \"The Nightmare Experience...\", *Folklore* (2003)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Nachtmahr_(Abildgaard).jpg"}
+   ],
+   "key_concepts": ["nightmare", "Mare", "Alp", "Nicolai Abildgaard"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__changeling",
+   "title": "Der Wechselbalg (The Changeling)",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Henry Fuseli (Johann Heinrich Füssli)",
+   "date": "1780 (oil / drawing)",
+   "place": "Zurich / London",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["changeling", "wechselbalg", "fairy abduction", "swapped child", "distressed mother", "night fears", "romantic", "folk belief"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:F%C3%BCssli_-_Der_Wechselbalg_-_1780.jpeg",
+   "summary": "Henry Fuseli's *Der Wechselbalg* (\"The Changeling,\" 1780), depicting the folk terror of a child secretly swapped by malign spirits.\n\n## Iconography\nA Fuselian nocturne of distress: a mother and her infant menaced by the changeling belief, rendered with the artist's signature uncanny tension. (This is a distinct Fuseli work from his famous *Nightmare*.)\n\n## Significance\nThe [[motif:changeling|changeling]] (*Wechselbalg*) is the fairy or demon left in place of a stolen human child — folklore's explanation for infants who failed to thrive or behaved strangely. Belief in changelings persisted across Europe into the nineteenth century and sometimes led to cruel 'tests' of suspected children. Fuseli, alert to the dark undercurrents of folk belief, treats it as a study in maternal dread.\n\n## For artists & game designers\nThe changeling is a built-in 'impostor' mechanic — a familiar character who is subtly, uncannily *wrong*, demanding the player discern the swap.",
+   "citations": [
+    {"text": "D. L. Ashliman, on changeling legends."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:F%C3%BCssli_-_Der_Wechselbalg_-_1780.jpeg"}
+   ],
+   "key_concepts": ["changeling", "Wechselbalg", "fairy abduction", "Henry Fuseli"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__totentanz",
+   "title": "Death and the Abbot (Totentanz)",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Hans Holbein the Younger",
+   "date": "designed c. 1526; published 1538 (woodcut)",
+   "place": "Basel / Lyon",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["dance of death", "totentanz", "revenant skeleton", "abbot", "memento mori", "woodcut", "death the leveller", "macabre"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Holbein_Tod_und_der_Abt.jpg",
+   "summary": "A woodcut from Hans Holbein the Younger's *Dance of Death* series, in which the animated corpse of Death drags off an unwilling abbot.\n\n## Iconography\nA grinning skeletal Death seizes a fat abbot, tugging him from his cloister by the crozier; the living cleric resists in vain. The cycle pairs Death with every rank of society in turn, each meeting unavoidable.\n\n## Significance\nThe [[motif:dance of death|Totentanz]] presents Death as a walking revenant — a reanimated corpse who comes for high and low alike, the great leveller of late-medieval and Reformation imagination. Holbein's series (designed c. 1526, printed 1538) is the supreme example, fusing biting social satire with *memento mori*. The dancing dead are a key node where folklore's restless corpse meets Christian moral teaching.\n\n## For artists & game designers\nThe Dance of Death is a ready-made gallery of NPC death-encounters: one personified Death, one social type per scene, infinitely repeatable.",
+   "citations": [
+    {"text": "Hans Holbein the Younger, *Les simulachres... de la Mort* (Lyon, 1538)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Holbein_Tod_und_der_Abt.jpg"}
+   ],
+   "key_concepts": ["Dance of Death", "Totentanz", "Hans Holbein", "memento mori"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__draugr",
+   "title": "Land-draugr and Sea-draugr",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Kim Diaz Holm",
+   "date": "2010s (digital illustration)",
+   "place": "Norway (subject: Old Norse tradition)",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["draugr", "barrow-dweller", "undead", "haugbui", "sea-draug", "norse undead", "grave-mound", "revenant"],
+   "rights": "CC BY 4.0 (Kim Diaz Holm). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Landdraug_vs_seadraug.jpg",
+   "summary": "An illustration contrasting the land-*draugr* and sea-*draugr* of Norse and Scandinavian folklore, the violent walking dead of the saga tradition.\n\n## Iconography\nTwo forms of the undead *draugr* set side by side: the land-draug or *haugbúi* who dwells in the burial mound, and the drowned sea-draug who haunts the coast and waters, both swollen, corpse-blue, and monstrous.\n\n## Significance\nThe [[motif:draugr|draugr]] is the Old Norse revenant — a corpse that refuses to stay dead, guarding its grave-goods, crushing or maddening intruders, and possessed of superhuman strength (as Glámr in *Grettis saga*). Distinct from the bloodsucking vampire of the south, the draugr is a physical, barrow-dwelling undead and a major ancestor of modern fantasy's draugr and barrow-wights. (This particular image is a modern CC BY illustration of the tradition.)\n\n## For artists & game designers\nSplitting the undead into land- and sea-types with different powers is a folkloric precedent for environment-keyed enemy variants.",
+   "citations": [
+    {"text": "*Grettis saga*, on the draugr Glámr."},
+    {"text": "Kim Diaz Holm, illustration (CC BY 4.0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Landdraug_vs_seadraug.jpg"}
+   ],
+   "key_concepts": ["draugr", "haugbui", "Norse undead", "barrow-dweller"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__lilith-night",
+   "title": "Lady Lilith",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Dante Gabriel Rossetti",
+   "date": "1866–1873 (oil on canvas)",
+   "place": "England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["lilith", "night demon", "first wife", "femme fatale", "mirror", "long hair", "pre-raphaelite", "seductress"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Lady_Lilith.jpg",
+   "summary": "Dante Gabriel Rossetti's *Lady Lilith* (1866–73), a Pre-Raphaelite vision of Lilith as a self-absorbed seductress combing her hair.\n\n## Iconography\nA voluptuous woman gazes into a hand-mirror amid roses and poppies, absorbed in her own beauty as she combs a torrent of hair. The poppies signal sleep and death; the hair, Lilith's traditional snare.\n\n## Significance\nIn Jewish tradition [[motif:lilith|Lilith]] is Adam's rebellious first wife turned night-demon, a strangler of infants and a succubus who preys on sleeping men — the same lineage as the *Mare* and the *Alp*. Rossetti, drawing on Goethe and Kabbalistic lore, recasts her as the Victorian *femme fatale*, the deadly beauty whose self-love ensnares. The painting fixed Lilith's modern image as seductive night-spirit.\n\n## For artists & game designers\nLilith with mirror and unbound hair is a compact icon for a beauty-as-trap encounter — vanity itself rendered as the lure.",
+   "citations": [
+    {"text": "Dante Gabriel Rossetti, sonnet \"Body's Beauty\" (Lilith)."},
+    {"text": "Delaware Art Museum, object record."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Lady_Lilith.jpg"}
+   ],
+   "key_concepts": ["Lilith", "night-demon", "femme fatale", "Dante Gabriel Rossetti"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__lilith-collier",
+   "title": "Lilith",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "John Collier",
+   "date": "1892 (oil on canvas)",
+   "place": "England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["lilith", "serpent", "night demon", "nude", "eden", "temptress", "academic painting", "embrace"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lilith_-_John_Collier_(1892).jpg",
+   "summary": "John Collier's *Lilith* (1892), depicting the night-demon entwined with a great serpent.\n\n## Iconography\nA nude Lilith stands with eyes closed in sensuous communion with an enormous snake that coils around her body, fusing the figures of Lilith, the Edenic serpent, and the temptress into one.\n\n## Significance\nCollier draws on the tradition that identifies [[motif:lilith|Lilith]] with the serpent of Eden and with the demonic seductress of the night. In the Kabbalistic and folkloric strands, Lilith is queen of the *lilim*, a succubus and child-killer who must be warded by amulets. Collier's academic nude, like Rossetti's, channels the ancient night-demon through the nineteenth-century cult of the fatal woman, the serpent making the danger explicit.\n\n## For artists & game designers\nPairing the demon with her attribute-creature (here the serpent) in an embrace, rather than combat, reframes a monster encounter as seduction.",
+   "citations": [
+    {"text": "Atlanta International Museum / Southwark Art Collection, object record."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lilith_-_John_Collier_(1892).jpg"}
+   ],
+   "key_concepts": ["Lilith", "serpent", "succubus", "John Collier"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__hamlet-ghost",
+   "title": "Hamlet and the Ghost of His Father",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Henry Fuseli (Johann Heinrich Füssli)",
+   "date": "late 18th century (drawing / painting)",
+   "place": "London / Switzerland",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["ghost", "apparition", "armored spectre", "hamlet", "summoning gesture", "battlements", "shakespeare", "revenant"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Henry_Fuseli_rendering_of_Hamlet_and_his_father%27s_Ghost.JPG",
+   "summary": "Henry Fuseli's depiction of Hamlet confronting the armored Ghost of his murdered father, a touchstone image of the literary spectre.\n\n## Iconography\nThe Ghost of old King Hamlet, in full armour, looms and beckons; the young prince recoils yet strains toward it, his companions trying to restrain him. Fuseli renders the confrontation with theatrical, electric tension.\n\n## Significance\nShakespeare's armored [[motif:ghost|Ghost]] — a soul in purgatorial torment demanding revenge — became the model for the noble, accusatory revenant of Western art. Fuseli, the painter of the uncanny, returned repeatedly to Shakespearean supernatural scenes, and this composition shaped how the theatrical ghost was imagined: solid, martial, and commanding rather than wispy. It bridges folkloric returning-dead and high literary tragedy.\n\n## For artists & game designers\nAn armored, fully solid ghost that *beckons* rather than menaces is a strong design for a quest-giving revenant who sends the player on a mission.",
+   "citations": [
+    {"text": "William Shakespeare, *Hamlet* (c. 1600)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Henry_Fuseli_rendering_of_Hamlet_and_his_father%27s_Ghost.JPG"}
+   ],
+   "key_concepts": ["ghost", "Hamlet", "armored spectre", "Henry Fuseli"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__banquo-ghost",
+   "title": "The Ghost of Banquo (Le Spectre de Banquo)",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Théodore Chassériau",
+   "date": "1854 (oil painting)",
+   "place": "France",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["ghost", "apparition", "banquet", "macbeth", "bloodied spectre", "guilt", "empty seat", "romantic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Th%C3%A9odore_Chass%C3%A9riau_-_Le_Spectre_de_Banquo.jpg",
+   "summary": "Théodore Chassériau's *Le Spectre de Banquo* (1854), depicting the murdered Banquo's ghost appearing to Macbeth at the royal banquet.\n\n## Iconography\nAt a crowded feast, the bloodied apparition of Banquo takes the empty seat, visible only to the horrified Macbeth, who shrinks back in guilt-stricken terror while his guests look on uncomprehending.\n\n## Significance\nBanquo's [[motif:ghost|ghost]] is the archetypal apparition of conscience — the murdered returning to indict the murderer, seen by the guilty alone. Chassériau, a Romantic heir to Delacroix, captures the moment as psychological horror. The scene exemplifies the post-medieval ghost as a manifestation of guilt and the disturbed moral order, distinct from the physical revenants of folklore.\n\n## For artists & game designers\nA ghost visible to *one character only*, while others see an empty chair, is a powerful tool for staging private guilt or unreliable perception.",
+   "citations": [
+    {"text": "William Shakespeare, *Macbeth* (c. 1606)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Th%C3%A9odore_Chass%C3%A9riau_-_Le_Spectre_de_Banquo.jpg"}
+   ],
+   "key_concepts": ["ghost", "Banquo", "Macbeth", "Théodore Chassériau"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__gespenst",
+   "title": "Ghost Produced by Double Exposure (1899)",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Anonymous (photographer)",
+   "date": "1899 (photograph)",
+   "place": "England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["spirit photography", "ghost", "double exposure", "apparition", "transparent figure", "seance era", "spiritualism", "phantom"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Image_of_a_ghost,_produced_by_double_exposure_in_1899.jpg",
+   "summary": "An 1899 spirit-photograph in which a translucent 'ghost' is produced by double exposure, an emblem of the spiritualist era's manufactured apparitions.\n\n## Iconography\nA semi-transparent human figure hovers in a domestic interior, achieved by exposing the plate twice so the 'spirit' appears to coexist with the solid scene — the classic visual grammar of the Victorian ghost photograph.\n\n## Significance\nSpirit photography flourished alongside [[motif:ghost|Spiritualism]] from the 1860s, offering seance-goers apparent proof of the returning dead; many were exposed as double-exposure frauds, yet they fixed the modern image of the ghost as a transparent overlay on the living world. This piece sits at the junction of folklore, new technology, and the reception history of the apparition.\n\n## For artists & game designers\nThe translucent-overlay ghost — partly there, partly not — is the default modern phantom, and its origin in a photographic trick is a useful reminder that the look is a 19th-century invention, not ancient.",
+   "citations": [
+    {"text": "Clément Chéroux et al., *The Perfect Medium: Photography and the Occult* (2005)."},
+    {"text": "The National Archives UK / Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Image_of_a_ghost,_produced_by_double_exposure_in_1899.jpg"}
+   ],
+   "key_concepts": ["spirit photography", "ghost", "Spiritualism", "double exposure"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lycanthropy_undead__coco-bogeyman",
+   "title": "Que viene el Coco (Here Comes the Bogeyman), Caprichos 3",
+   "work": "Werewolves, Vampires & the Night-Terrors of European Folklore",
+   "creator": "Francisco Goya",
+   "date": "1799 (etching and aquatint)",
+   "place": "Madrid, Spain",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["bogeyman", "el coco", "night terror", "hooded phantom", "frightened children", "mother", "los caprichos", "aquatint"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hier_komt_de_boeman_Que_viene_el_Coco_(titel_op_object)_Los_Caprichos_(serietitel),_RP-P-1921-2024.jpg",
+   "summary": "Plate 3 of Goya's *Los Caprichos* (1799), *Que viene el Coco* (\"Here comes the Bogeyman\"), in which a looming hooded phantom terrifies children.\n\n## Iconography\nA mother huddles with two frightened children as a tall, shrouded figure — *el Coco*, the Spanish bogeyman — looms over them in the dark, its face hidden, its meaning ambiguous between real menace and instilled fear.\n\n## Significance\nGoya turns the nursery night-terror of [[motif:bogeyman|el Coco]] into social criticism: his caption mocks parents who terrify children with phantoms, breeding lifelong superstition. The shrouded, faceless Coco is a pan-European cousin of the bogeyman, the *Butzemann*, and the nursery-bogey used to frighten the young — folklore weaponized by adults, which the Enlightenment Goya indicts.\n\n## For artists & game designers\nA faceless shrouded silhouette, scale-exaggerated against cowering figures, is the most economical 'bogeyman' design — withholding the face does the work.",
+   "citations": [
+    {"text": "Francisco Goya, *Los Caprichos* (1799)."},
+    {"text": "Rijksmuseum, object RP-P-1921-2024."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hier_komt_de_boeman_Que_viene_el_Coco_(titel_op_object)_Los_Caprichos_(serietitel),_RP-P-1921-2024.jpg"}
+   ],
+   "key_concepts": ["bogeyman", "El Coco", "Los Caprichos", "Francisco Goya"],
+   "summary_status": "authored"
+  }
+ ]
+}

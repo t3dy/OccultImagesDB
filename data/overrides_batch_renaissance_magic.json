@@ -1,0 +1,694 @@
+{
+ "_work": {
+  "key": "renaissance_magic",
+  "short_id": "RENM",
+  "title": "Renaissance Learned Magic & Its Diagrams",
+  "creator": "various",
+  "date": "15th–17th c.",
+  "century": 16,
+  "place": "Western Europe (Italy, German lands, France, England)",
+  "region": "Europe",
+  "language": "Latin",
+  "era": "renaissance",
+  "tradition": "hermetic",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "renaissance_magic",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Heinrich_Cornelius_Agrippa",
+  "rights": "Public domain / CC0 (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "magic square",
+   "planetary seal",
+   "pentagram",
+   "angelic alphabet",
+   "memory wheel",
+   "signatures of things"
+  ],
+  "blurb": "Diagrams, portraits, and figures from the Renaissance revival of learned natural and ceremonial magic — Agrippa's microcosmic pentagram and angelic alphabets, John Dee's Monas and Enochian/Sigillum material, Giordano Bruno's mnemonic art, the Hermetic philosophy of Ficino, Paracelsian and Khunrath alchemy, della Porta's physiognomy of signatures, and the cosmic harmonics that linked all things by correspondence."
+ },
+ "entries": [
+  {
+   "id": "renaissance_magic__agrippa-pentagram-man",
+   "title": "Pentagram and the Human Body (Agrippa)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "Heinrich Cornelius Agrippa",
+   "date": "1533 (De occulta philosophia, Book II)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "pentagram",
+    "microcosm",
+    "human figure",
+    "planetary signs",
+    "proportion",
+    "correspondences",
+    "as above so below",
+    "ceremonial magic"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentagram_and_human_body_(Agrippa).jpg",
+   "summary": "The pentagram inscribing the human body, from Heinrich Cornelius Agrippa's *De occulta philosophia libri tres* — the emblematic image of man as a microcosm of the five planets.\n\n## Iconography\nA nude figure stands spread-eagled with head and four limbs reaching the five points of a [[motif:pentagram|pentagram]]. Planetary glyphs and the signs of the cardinal directions are arranged around the body, demonstrating that the human frame contains the harmonic measures and rulerships of the cosmos, each star-point governed by a planet.\n\n## Significance\nAgrippa's *Three Books of Occult Philosophy* (compiled c.1510, printed 1531–33) organized Renaissance magic into natural, celestial, and ceremonial tiers; this woodcut became a signature of its central doctrine of *correspondences* — that man is a little world bound to the great one, so that operating on the right number, sign, or planet reaches the heavens. The figure prefigures later Vitruvian and occult body-diagrams.\n\n## For artists & game designers\nThe definitive 'as above, so below' diagram: map a character's five attributes to the five points and their planetary rulers.",
+   "citations": [
+    {
+     "text": "H. C. Agrippa, *De occulta philosophia libri tres* (1531–33)."
+    },
+    {
+     "text": "Christopher I. Lehrich, *The Language of Demons and Angels: Cornelius Agrippa's Occult Philosophy* (2003)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Pentagram_and_human_body_(Agrippa).jpg"
+    }
+   ],
+   "key_concepts": [
+    "pentagram",
+    "microcosm",
+    "correspondences",
+    "Agrippa"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__agrippa-portrait",
+   "title": "Heinrich Cornelius Agrippa (portrait)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "Anonymous engraver",
+   "date": "16th c.",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "portrait",
+    "magus",
+    "scholar",
+    "occult philosopher",
+    "renaissance humanist",
+    "engraving",
+    "physician",
+    "ceremonial magic"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Heinrich_Cornelius_Agrippa00.jpg",
+   "summary": "Portrait of Heinrich Cornelius Agrippa von Nettesheim (1486–1535), the most influential systematizer of Renaissance occult philosophy.\n\n## Iconography\nA bust portrait in scholar's dress, of the type circulated in early printed editions to give a face to the author of the *Occult Philosophy*. Such author-portraits framed the magus as a learned humanist physician rather than a hedge-conjurer.\n\n## Significance\nAgrippa was a soldier, physician, jurist, and courtier whose *De occulta philosophia* gathered Neoplatonic, Hermetic, Kabbalistic, and astrological learning into one architecture of natural, celestial, and ceremonial magic. Though he later wrote *De vanitate scientiarum* casting doubt on all human knowledge, his three books became the indispensable handbook of European learned magic for two centuries and supplied the imagery for grimoires down to the modern revival.\n\n## For artists & game designers\nA ready archetype for the 'scholar-mage' NPC: the respectable physician-philosopher whose library is more dangerous than any sword.",
+   "citations": [
+    {
+     "text": "Charles G. Nauert, *Agrippa and the Crisis of Renaissance Thought* (1965)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Heinrich_Cornelius_Agrippa00.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Agrippa",
+    "occult philosophy",
+    "Renaissance magus",
+    "natural magic"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__agrippa-titlepage",
+   "title": "Title page, De occulta philosophia (Agrippa)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "Heinrich Cornelius Agrippa",
+   "date": "1533 (Cologne edition)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "title page",
+    "printed book",
+    "occult philosophy",
+    "letterpress",
+    "renaissance print",
+    "frontispiece",
+    "natural magic",
+    "ceremonial magic"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Phys_m_6_tb_1.jpg",
+   "summary": "A title page from an early printed edition of Agrippa's *De occulta philosophia libri tres*, the foundational compendium of Renaissance learned magic.\n\n## Iconography\nA letterpress title page announcing the three books of occult philosophy. Renaissance magical printing favoured a sober scholarly look — typographic title, printer's device, privilege — to distance the work from condemned popular sorcery and align it with natural philosophy.\n\n## Significance\nFirst issued in full at Cologne in 1533 (an incomplete Antwerp printing preceded it in 1531), the *Three Books* divided magic into the natural (the virtues of stones, herbs, and stars), the celestial (number, the planetary squares and seals), and the ceremonial (names of God and angels). It became the single most quarried source for later grimoire imagery and the magical alphabets and *kameas* reproduced across this collection.\n\n## For artists & game designers\nUse a sober Latin title page as the in-world 'forbidden textbook' prop — a book that looks academic but unlocks the magic systems.",
+   "citations": [
+    {
+     "text": "H. C. Agrippa, *De occulta philosophia libri tres* (Cologne, 1533)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Phys_m_6_tb_1.jpg"
+    }
+   ],
+   "key_concepts": [
+    "De occulta philosophia",
+    "Renaissance print",
+    "natural magic",
+    "celestial magic"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__celestial-alphabet",
+   "title": "Celestial Alphabet (Three Books of Occult Philosophy)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "Heinrich Cornelius Agrippa",
+   "date": "1531–33 (this leaf from a printed edition, Book III)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "angelic alphabet",
+    "celestial script",
+    "divine names",
+    "hebrew-derived letters",
+    "angel magic",
+    "writing of the heavens",
+    "talisman script",
+    "ceremonial magic"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Three_Books_of_Occult_Philosophy-Book_III-Page_439.jpg",
+   "summary": "A plate of one of the angelic scripts — the 'Celestial' alphabet — from Book III of Agrippa's *Three Books of Occult Philosophy*.\n\n## Iconography\nThe page sets out a magical alphabet of letters built from short strokes terminating in small circles or 'eyes,' each correlated to a Hebrew letter and its sound. These star-like glyphs were the script in which the names of God, angels, and spirits were to be inscribed on talismans and seals.\n\n## Significance\nAgrippa transmitted three such 'angelic' alphabets — the Celestial, the *Malachim* ('of the angels'), and the *Transitus Fluvii* ('passing through the river') — derived from earlier Kabbalistic and Hebrew sources. Engraving a divine or angelic name in these scripts at the proper planetary hour was held to bind its power into matter. They became the standard talismanic letterforms of Western ceremonial magic and the [[motif:angelic alphabet|angelic alphabets]] of later grimoires.\n\n## For artists & game designers\nA drop-in 'magic font': stroke-and-circle glyphs read instantly as occult script for runes, wards, and spell inscriptions.",
+   "citations": [
+    {
+     "text": "H. C. Agrippa, *De occulta philosophia*, Book III (1533)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Three_Books_of_Occult_Philosophy-Book_III-Page_439.jpg"
+    }
+   ],
+   "key_concepts": [
+    "angelic alphabets",
+    "celestial script",
+    "talismanic writing",
+    "divine names"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__dee-monas-hieroglyphica",
+   "title": "The Monad Glyph, Monas Hieroglyphica (John Dee)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "John Dee",
+   "date": "1564",
+   "place": "England / Antwerp (printed)",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "monad",
+    "hieroglyphic monad",
+    "alchemical glyph",
+    "planetary signs",
+    "unity of cosmos",
+    "geometry",
+    "mercury sign",
+    "sacred sigil"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Monas_Hieroglyphica.jpg",
+   "summary": "The hieroglyphic monad — John Dee's single composite glyph that is the subject and emblem of his *Monas Hieroglyphica* (1564).\n\n## Iconography\nThe glyph is assembled from elemental geometric signs: a point and circle (Sun), a crescent (Moon), a cross (the elements / quaternary), and the sign of Aries (fire) at its base — the whole resembling and incorporating the sign of Mercury. Dee read each component as encoding cosmological and alchemical truths, so the figure is a compressed map of creation.\n\n## Significance\nDee, mathematician and adviser to Elizabeth I, presented the *Monas* to Maximilian II as a 'mathematical-magical' key uniting astronomy, alchemy, and Kabbalah in one symbol. Its twenty-four theorems claim to derive the planetary and elemental signs from first geometric principles. Frances Yates and Nicholas Clulee placed the work at the heart of the Hermetic-Cabalist current of the Renaissance.\n\n## For artists & game designers\nThe perfect 'one rune to rule them all' sigil — a single composable glyph whose parts can be unlocked piece by piece.",
+   "citations": [
+    {
+     "text": "John Dee, *Monas Hieroglyphica* (Antwerp, 1564)."
+    },
+    {
+     "text": "Nicholas H. Clulee, *John Dee's Natural Philosophy* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Monas_Hieroglyphica.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Monas Hieroglyphica",
+    "hieroglyphic monad",
+    "John Dee",
+    "Hermetic Cabala"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__dee-sigillum-aemeth-wax",
+   "title": "Sigillum Dei Aemeth, Sloane MS 3188 (John Dee)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "John Dee (and Edward Kelley)",
+   "date": "1581–83 (manuscript)",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "sigillum dei",
+    "angelic magic",
+    "heptagon",
+    "pentagram",
+    "divine names",
+    "angel names",
+    "scrying",
+    "concentric circles"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sloane3188-john_dee.png",
+   "summary": "A diagram from British Library Sloane MS 3188 — John Dee's own working notebook — showing material related to the *Sigillum Dei Aemeth*, the angelic seal on which his scrying-table rested.\n\n## Iconography\nThe drawing belongs to the dense geometry of Dee's angelic system: concentric rings, a heptagon and heptagram, and compartments filled with divine and angelic names and numbers received in the scrying sessions. The complete *Sigillum Dei Aemeth* was engraved in wax and placed under the *Holy Table* and the shew-stone.\n\n## Significance\nBetween 1581 and 1589 Dee and the scryer Edward Kelley recorded 'actions with spirits' in which angels dictated the seal, the *Enochian* language, and the Watchtower tables. Dee derived his *Sigillum* from the medieval *Liber Juratus* (Sworn Book of Honorius) but treated it as freshly revealed. Sloane 3188 is the principal manuscript witness, edited by Joseph Peterson and studied by Deborah Harkness.\n\n## For artists & game designers\nA 'received' ritual artefact — show the seal half-drawn, as if dictated mid-session, to convey active communion with spirits.",
+   "citations": [
+    {
+     "text": "Deborah E. Harkness, *John Dee's Conversations with Angels* (1999)."
+    },
+    {
+     "text": "Joseph H. Peterson (ed.), *John Dee's Five Books of Mystery* (2003)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Sloane3188-john_dee.png"
+    }
+   ],
+   "key_concepts": [
+    "Sigillum Dei Aemeth",
+    "John Dee",
+    "angelic scrying",
+    "Liber Juratus"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__enochian-alphabet",
+   "title": "The Enochian Alphabet (1583 manuscript)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "John Dee (received via Edward Kelley)",
+   "date": "1583",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "enochian alphabet",
+    "angelic language",
+    "revealed script",
+    "scrying",
+    "letter chart",
+    "celestial language",
+    "angel magic",
+    "occult writing"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Enochian_letters_(1583_manuscript).png",
+   "summary": "A chart of the twenty-one letters of the *Enochian* (Angelical) alphabet, the script John Dee and Edward Kelley recorded as dictated by angels in 1583.\n\n## Iconography\nEach letter is given as a distinct curvilinear glyph paired with its name (Un, Pa, Veh, Gal, and so on) and its Latin equivalent. Read right-to-left, the alphabet was the writing of the angelic 'Adamical' or *Enochian* language used in the *Calls* or *Keys* and the Watchtower tables.\n\n## Significance\nDee believed this language to be the original speech of Adam and the angels, lost at Babel and now restored for the last age. The alphabet, the nineteen Enochian *Keys*, and the Great Table of Watchtowers form the most fully developed angelic-magic system of the Renaissance. Three centuries later the Hermetic Order of the Golden Dawn and Aleister Crowley revived Enochian magic, making this script one of the most reproduced of all occult alphabets. Studies by Deborah Harkness and Egil Asprem are standard.\n\n## For artists & game designers\nA complete, history-backed constructed alphabet — usable as a legible cipher players can actually learn and decode.",
+   "citations": [
+    {
+     "text": "Deborah E. Harkness, *John Dee's Conversations with Angels* (1999)."
+    },
+    {
+     "text": "Egil Asprem, *Arguing with Angels: Enochian Magic and Modern Occulture* (2012)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Enochian_letters_(1583_manuscript).png"
+    }
+   ],
+   "key_concepts": [
+    "Enochian alphabet",
+    "angelic language",
+    "John Dee",
+    "Watchtowers"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__ficino-portrait",
+   "title": "Marsilio Ficino (portrait engraving)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "Anonymous; published by Rijksmuseum collection",
+   "date": "16th–17th c. (after Ficino, d. 1499)",
+   "place": "Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "portrait",
+    "neoplatonist",
+    "hermeticist",
+    "astral magic",
+    "translator",
+    "philosopher",
+    "engraving",
+    "florentine academy"
+   ],
+   "rights": "CC0 (Rijksmuseum). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Portret_van_Marsilio_Ficino_Marsilius_Ficinus_(titel_op_object),_RP-P-1909-4320.jpg",
+   "summary": "Portrait engraving of Marsilio Ficino (1433–1499), the Florentine priest-philosopher who launched Renaissance Hermeticism and astral magic.\n\n## Iconography\nA bust portrait of the type that accompanied early editions of Ficino's works, presenting the translator of Plato and Hermes as a sober ecclesiastic and scholar.\n\n## Significance\nUnder Cosimo de' Medici, Ficino translated the *Corpus Hermeticum* (1463) and the complete Plato, founding the Platonic Academy of Florence. His *De vita coelitus comparanda* (Book III of *De vita*, 1489) set out a cautious *natural* astral magic: drawing down planetary 'spirit' through music, scents, gems, and images to harmonize body and soul. This theory of talismans — descending from the *Picatrix* — shaped Agrippa, Bruno, and the whole Renaissance magical tradition catalogued here. D. P. Walker's *Spiritual and Demonic Magic* is the classic study.\n\n## For artists & game designers\nThe model for a 'white mage' theorist: magic as medicine and harmony, drawing the stars' virtue down through art rather than commanding spirits.",
+   "citations": [
+    {
+     "text": "D. P. Walker, *Spiritual and Demonic Magic from Ficino to Campanella* (1958)."
+    },
+    {
+     "text": "Marsilio Ficino, *De vita libri tres* (1489)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Portret_van_Marsilio_Ficino_Marsilius_Ficinus_(titel_op_object),_RP-P-1909-4320.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Marsilio Ficino",
+    "astral magic",
+    "Corpus Hermeticum",
+    "Neoplatonism"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__fludd-monochord",
+   "title": "The Monochord (single-string cosmic harmony diagram)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "Anonymous (Deutsche Fotothek reproduction)",
+   "date": "Early modern",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "monochord",
+    "musical proportion",
+    "cosmic harmony",
+    "music of the spheres",
+    "number ratios",
+    "octave",
+    "pythagorean",
+    "correspondences"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006257_Musik_%5E_Harmonik_%5E_Monochord_%5E_Einsaiter.jpg",
+   "summary": "A diagram of the monochord, the single-stringed instrument that demonstrated the numerical ratios of musical harmony and, by extension, the harmony of the cosmos.\n\n## Iconography\nThe figure shows a single stretched string divided by movable bridges to produce the consonant intervals — octave (2:1), fifth (3:2), fourth (4:3) — the divisions labelled with their whole-number proportions. In the magical-cosmological tradition the same string is imagined stretched across the whole creation.\n\n## Significance\nThe monochord made audible the Pythagorean conviction that the world is ordered by number, and it underlies the Renaissance doctrine of universal harmony and *correspondence*. Robert Fludd's famous *Divine Monochord* in *Utriusque cosmi historia* (1617) extended a single string from Earth to the *Empyrean*, tuned by God, to map the music of the spheres — the cosmological frame behind astral magic and the doctrine that like resonates with like.\n\n## For artists & game designers\nA tuning-puzzle mechanic: align cosmic 'strings' to the right ratios to harmonize a system or unlock a celestial gate.",
+   "citations": [
+    {
+     "text": "Robert Fludd, *Utriusque cosmi … historia* (1617–21)."
+    },
+    {
+     "text": "S. K. Heninger, *Touches of Sweet Harmony: Pythagorean Cosmology and Renaissance Poetics* (1974)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006257_Musik_%5E_Harmonik_%5E_Monochord_%5E_Einsaiter.jpg"
+    }
+   ],
+   "key_concepts": [
+    "monochord",
+    "music of the spheres",
+    "cosmic harmony",
+    "number ratios"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__khunrath-oratory",
+   "title": "The Alchemist's Oratory-Laboratory (Khunrath, Amphitheatrum)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "Engraved after the design in Heinrich Khunrath's Amphitheatrum",
+   "date": "1595/1609 (Amphitheatrum sapientiae aeternae)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "oratory laboratory",
+    "alchemical workshop",
+    "prayer and work",
+    "ora et labora",
+    "furnace",
+    "magical perspective",
+    "theosophy",
+    "hermetic devotion"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Amphitheatrum_sapientiae_aeternae_-_Alchemist%27s_Laboratory.jpg",
+   "summary": "The celebrated 'oratory-laboratory' plate associated with Heinrich Khunrath's *Amphitheatrum sapientiae aeternae* — the visual statement that alchemy unites prayer and work.\n\n## Iconography\nA grand vaulted hall in dramatic perspective: at the left an *oratory* (prayer tent) where the adept kneels before a draped altar inscribed *Ora et labora* ('pray and work'); at the right a *laboratory* with furnace and apparatus; in the centre a music table. Banners and inscriptions thread Hebrew divine names and Latin mottoes through the architecture, fusing devotion, harmony, and chemical operation.\n\n## Significance\nKhunrath (1560–1605), a Paracelsian physician and Christian theosopher, presented alchemy as a *theosophical* path in which laboratory work and contemplative prayer are inseparable. The *Amphitheatrum* (1595, expanded 1609) is one of the most lavishly emblematic of all alchemical books and a key bridge between Renaissance Hermeticism and the coming Rosicrucian current. Studies by Peter Forshaw are standard. (The engraved hall here is also linked to the architectural designs of Hans Vredeman de Vries.)\n\n## For artists & game designers\nThe ideal hybrid 'magic crafting room': split the space into shrine and workbench, so spells require both ritual and chemistry.",
+   "citations": [
+    {
+     "text": "Peter J. Forshaw, on Heinrich Khunrath's theosophical alchemy."
+    },
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum sapientiae aeternae* (1595/1609)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Amphitheatrum_sapientiae_aeternae_-_Alchemist%27s_Laboratory.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Khunrath",
+    "oratory-laboratory",
+    "theosophical alchemy",
+    "ora et labora"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__kircher-portrait",
+   "title": "The Tower of Babel (Turris Babel, Athanasius Kircher)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "Coenraet Decker (engraver), after Athanasius Kircher",
+   "date": "1679 (Turris Babel)",
+   "place": "German lands / Netherlands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "tower of babel",
+    "universal knowledge",
+    "encyclopedism",
+    "sacred architecture",
+    "geometry",
+    "jesuit science",
+    "hermetic learning",
+    "engraving"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Turris_Babel_by_Athanasius_Kircher.jpg",
+   "summary": "A grand engraving from Athanasius Kircher's *Turris Babel* (1679), the Jesuit polymath's reconstruction of the Tower of Babel as a problem of geometry, history, and sacred knowledge.\n\n## Iconography\nThe plate depicts the immense spiralling or tiered tower under construction, rendered with the architectural precision Kircher applied to every wonder. The image treats the biblical tower as a measurable engineering and chronological puzzle while retaining its theological charge as the origin of the confusion of tongues.\n\n## Significance\nKircher (1602–1680) was the last great Hermetic encyclopedist, writing on Egyptian hieroglyphs, magnetism, music, and the *prisca theologia*. *Turris Babel* exemplifies his method of fusing scripture, antiquarianism, and natural philosophy. Though his Egyptological readings were later discredited, his vast illustrated folios transmitted Renaissance Hermetic imagery into the Baroque and shaped the European imagination of ancient wisdom. Studies by Paula Findlen and Daniel Stolzenberg are standard.\n\n## For artists & game designers\nA monumental 'forbidden megastructure' reference — a tower whose completion would breach heaven, perfect for a hubris-themed endgame.",
+   "citations": [
+    {
+     "text": "Paula Findlen (ed.), *Athanasius Kircher: The Last Man Who Knew Everything* (2004)."
+    },
+    {
+     "text": "Athanasius Kircher, *Turris Babel* (Amsterdam, 1679)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Turris_Babel_by_Athanasius_Kircher.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Athanasius Kircher",
+    "Turris Babel",
+    "Hermetic encyclopedism",
+    "prisca theologia"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__paracelsus-portrait",
+   "title": "Paracelsus (portrait)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "Richard Cooper (engraver), after earlier portraits",
+   "date": "18th c. engraving (after Paracelsus, d. 1541)",
+   "place": "German lands / Switzerland (subject); England (engraving)",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "portrait",
+    "physician",
+    "alchemist",
+    "signatures of things",
+    "iatrochemistry",
+    "sword pommel azoth",
+    "paracelsian medicine",
+    "natural magic"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Paracelsus_(4672979).jpg",
+   "summary": "Portrait of Theophrastus von Hohenheim, called Paracelsus (1493–1541), the revolutionary physician-alchemist whose doctrine of *signatures* reshaped Renaissance natural magic.\n\n## Iconography\nThe engraving follows the established Paracelsus iconography — a stout, balding figure, often with his hand on a sword whose pommel was said to hold his secret remedy *Azoth*. Such portraits canonized him as the defiant healer who burned the books of Galen and Avicenna.\n\n## Significance\nParacelsus taught that God had stamped every plant, mineral, and creature with a visible *signatura* revealing its hidden virtue — so that a plant shaped like an organ heals that organ. This 'doctrine of signatures' wove natural magic into medicine and underlies the *iatrochemistry* that founded pharmaceutical chemistry. His vision of an *archeus*, elemental spirits, and the *Mysterium Magnum* deeply influenced later alchemy, Rosicrucianism, and Boehme. Studies by Walter Pagel and Charles Webster are standard.\n\n## For artists & game designers\nThe template for an alchemist-healer class whose spells read the 'signatures' of materials to brew remedies.",
+   "citations": [
+    {
+     "text": "Walter Pagel, *Paracelsus: An Introduction to Philosophical Medicine* (1958)."
+    },
+    {
+     "text": "Charles Webster, *Paracelsus: Medicine, Magic and Mission at the End of Time* (2008)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Paracelsus_(4672979).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Paracelsus",
+    "doctrine of signatures",
+    "iatrochemistry",
+    "natural magic"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__porta-physiognomy",
+   "title": "Man and Lion (Della Porta, De humana physiognomonia)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "Giambattista della Porta",
+   "date": "1586 (De humana physiognomonia)",
+   "place": "Italy",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "physiognomy",
+    "man and lion",
+    "animal comparison",
+    "signatures of things",
+    "natural magic",
+    "character reading",
+    "facial correspondence",
+    "woodcut"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:De_Humana_Physiognomia_-_Mann_-_L%C3%B6we.jpg",
+   "summary": "The famous man-and-lion comparison from Giambattista della Porta's *De humana physiognomonia* (1586) — the visual argument that a face shaped like an animal shares that animal's nature.\n\n## Iconography\nA human head is juxtaposed with the head of a lion so that the corresponding features — heavy brow, broad nose, strong jaw — line up. The leonine man is read as bold and magnanimous like the beast he resembles. Della Porta supplied dozens of such paired heads throughout the book.\n\n## Significance\nDella Porta (1535–1615), founder of the *Accademia dei Secreti* and author of the influential *Magia naturalis*, treated physiognomy as a branch of natural magic: the outward form is a *signature* of the inward temperament, itself shaped by the stars and elements. His animal-comparison method, descending from a pseudo-Aristotelian tradition, became the standard model for physiognomic illustration and fed directly into Lavater two centuries later. The doctrine ties this plate to the same 'signatures' principle as Paracelsus.\n\n## For artists & game designers\nA characterful 'tell' system: NPC faces leaning toward fox, lion, or ox telegraph their disposition at a glance.",
+   "citations": [
+    {
+     "text": "Giambattista della Porta, *De humana physiognomonia* (1586)."
+    },
+    {
+     "text": "William Eamon, *Science and the Secrets of Nature* (1994)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:De_Humana_Physiognomia_-_Mann_-_L%C3%B6we.jpg"
+    }
+   ],
+   "key_concepts": [
+    "physiognomy",
+    "Della Porta",
+    "natural magic",
+    "signatures"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__sigillum-dei-aemeth",
+   "title": "Sigillum Dei (Giorgio Anselmi)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "After Giorgio Anselmi (Georgius Parmensis)",
+   "date": "15th c. design (this rendering later)",
+   "place": "Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "sigillum dei",
+    "heptagon",
+    "pentagram",
+    "divine names",
+    "angel names",
+    "concentric circles",
+    "magic seal",
+    "tetragrammaton"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Giorgio_Anselmi,_Sigillum_Dei.png",
+   "summary": "A version of the *Sigillum Dei* (Seal of God) associated with Giorgio Anselmi (Georgius Parmensis) — the concentric talisman of divine and angelic names that John Dee would later adopt as his *Sigillum Dei Aemeth*.\n\n## Iconography\nThe seal is built from nested geometry: an outer ring of the names of God and his angels, an inner heptagon or heptagram, and a five- or seven-pointed star at the centre. Every compartment carries a [[motif:divine names|divine name]], cross, or letter, each assigned to a particular spiritual power. The whole forms a closed cosmogram meant to compel the obedience of angels and spirits.\n\n## Significance\nThe *Sigillum Dei* descends from the *Liber Juratus* (Sworn Book of Honorius, 13th–14th c.). Anselmi, a 15th-century Italian physician-astrologer, transmitted a version in his *Astronomia* that is iconographically close to the seal Dee and Kelley received. Correctly drawn, the seal was held to grant the vision of God and authority over angels. Jan Veenstra and Julien Véronèse trace its descent through the Honorian corpus.\n\n## For artists & game designers\nA 'master ward': a dense ring of names around a star that instantly reads as a top-tier protective or summoning glyph.",
+   "citations": [
+    {
+     "text": "Jan R. Veenstra, on the *Liber Juratus* tradition."
+    },
+    {
+     "text": "Julien Véronèse, *L'Almandal et l'Almadel latins au Moyen Âge* (2012)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Giorgio_Anselmi,_Sigillum_Dei.png"
+    }
+   ],
+   "key_concepts": [
+    "Sigillum Dei",
+    "Giorgio Anselmi",
+    "Liber Juratus",
+    "angelic magic"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__trithemius-portrait",
+   "title": "Johannes Trithemius (portrait)",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "Anonymous engraver (Tripota collection)",
+   "date": "16th c. (after Trithemius, d. 1516)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "portrait",
+    "abbot",
+    "cryptography",
+    "steganographia",
+    "angel magic",
+    "polygraphia",
+    "benedictine",
+    "occult philosopher"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Johannes_Trithemius_(Tripota).jpg",
+   "summary": "Portrait of Johannes Trithemius (1462–1516), abbot of Sponheim, cryptographer, and author of the notorious *Steganographia*.\n\n## Iconography\nA portrait of the type circulated to accompany his works, showing the learned Benedictine abbot. Trithemius cultivated the image of a pious scholar even as his magical writings drew suspicion.\n\n## Significance\nTrithemius taught Agrippa and Paracelsus and stood at the head of the German occult tradition. His *Steganographia* (written c.1499, printed 1606) appears to be a manual of angelic magic — invoking spirits like *Pamersiel* to carry messages across distances — but its first two books also conceal a sophisticated *cryptography*, the messages hidden inside the 'conjurations.' His companion *Polygraphia* (1518) is a foundational work of cipher systems. He thus stands at the crossroads of magic and the birth of cryptology, as shown by Noel Brann and Thomas Ernst.\n\n## For artists & game designers\nThe archetype of the cipher-mage: 'spells' that are really hidden messages, where decoding the conjuration is the real magic.",
+   "citations": [
+    {
+     "text": "Noel L. Brann, *Trithemius and Magical Theology* (1999)."
+    },
+    {
+     "text": "Johannes Trithemius, *Steganographia* (printed 1606)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Johannes_Trithemius_(Tripota).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Johannes Trithemius",
+    "Steganographia",
+    "cryptography",
+    "angelic magic"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "renaissance_magic__bruno-umbris",
+   "title": "De umbris idearum (Giordano Bruno), upper cover",
+   "work": "Renaissance Learned Magic & Its Diagrams",
+   "creator": "Giordano Bruno",
+   "date": "1582",
+   "place": "France (Paris, printed)",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "mnemonic wheel",
+    "shadows of ideas",
+    "combinatorial wheels",
+    "hermetic memory",
+    "lullian art",
+    "imagination magic",
+    "printed book"
+   ],
+   "rights": "CC0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Iordanus_Brunus_Nolanus_De_umbris_idearum._Implicantibus_artem,_Qu%C3%A6rendi,_Inueniendi,_Iudicandi,_Ordinandi,_%26_Applicandi-_ad_internam_scripturam,_%26_non_vulgares_per_memoriam_operationes_expl_-_upper_cover_(c64c2).jpg",
+   "summary": "A copy of Giordano Bruno's *De umbris idearum* ('On the Shadows of Ideas,' Paris 1582), the work in which his magical art of memory and its rotating wheels first appears.\n\n## Iconography\nThis image shows the book's binding/cover; the text within contains Bruno's celebrated combinatorial *memory wheels* — concentric discs inscribed with letters, images, and astrological figures that rotate against one another to generate vast numbers of mnemonic combinations. The 'shadows of ideas' are the images through which the mind grasps the divine ideas indirectly.\n\n## Significance\nBruno (1548–1600) transformed the classical art of memory and the combinatorial *Ars* of Ramon Llull into a Hermetic discipline: by impressing celestial images on the imagination, the magus aligns the inner faculties with the heavens and draws on their power. Frances Yates's *The Art of Memory* and *Giordano Bruno and the Hermetic Tradition* placed these wheels at the centre of Renaissance magical psychology. Bruno was burned by the Inquisition in 1600.\n\n## For artists & game designers\nRotating concentric image-wheels make an elegant spell-combining UI: line up the rings to compose an effect from celestial parts.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Giordano Bruno, *De umbris idearum* (Paris, 1582)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Iordanus_Brunus_Nolanus_De_umbris_idearum._Implicantibus_artem,_Qu%C3%A6rendi,_Inueniendi,_Iudicandi,_Ordinandi,_%26_Applicandi-_ad_internam_scripturam,_%26_non_vulgares_per_memoriam_operationes_expl_-_upper_cover_(c64c2).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Giordano Bruno",
+    "art of memory",
+    "mnemonic wheels",
+    "Hermetic tradition"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

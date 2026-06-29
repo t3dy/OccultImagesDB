@@ -1,0 +1,337 @@
+{
+ "_work": {
+   "key": "saint_cyprian",
+   "short_id": "CYPR",
+   "title": "St Cyprian & the Christian Magician-Saints",
+   "creator": "various",
+   "date": "12th–19th c.",
+   "century": 16,
+   "place": "Europe",
+   "region": "Europe",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "reception",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "saint_cyprian",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Cyprian_of_Antioch",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["magician saint", "devil's pact", "exorcism", "temptation", "conversion", "demon"],
+   "blurb": "A gallery of the Christian magician-saint tradition — Cyprian of Antioch (patron of magicians) and Justina, Theophilus of Adana (the first Faust whose pact the Virgin reclaims), the temptations of St Anthony, the desert father Macarius, the Gerasene/Gadarene exorcism, the fall of Simon Magus, the harrowing of hell, and Hermes Trismegistus enthroned as a pagan prophet in a cathedral floor — spanning Byzantine fresco and Romanesque manuscript to Renaissance and Baroque print."
+ },
+ "entries": [
+  {
+   "id": "saint_cyprian__cyprian-justina-martyrdom",
+   "title": "Saints Cyprian and Justina",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Anonymous",
+   "date": "devotional print (after older models)",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["saint cyprian", "saint justina", "magician saint", "conversion", "palm of martyrdom", "antioch", "patron of magicians", "demon repelled"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cipriano_e_Justina.jpg",
+   "summary": "A devotional image of *Saints Cyprian and Justina* of Antioch, the converted sorcerer and the virgin whose faith broke his spells.\n\n## Iconography\nThe two martyrs are shown paired, each bearing the palm of martyrdom. Cyprian, once a pagan magus, is presented as a bishop or robed convert; Justina stands as a Christian virgin, the cross at her side the emblem that turned aside the [[motif:demon repelled|demons]] sent to seduce her.\n\n## Significance\nThe hagiographic romance of Cyprian of Antioch tells how a celebrated sorcerer was hired to win the chaste Justina by magic, sent demons against her three times, and watched each one repelled by her sign of the cross. Confounded, Cyprian burned his magical books, was baptised, became a bishop, and was martyred with her under Diocletian. Because of his magical past he became the patron saint of magicians and necromancers, and his name was attached to a long tradition of grimoires (the Iberian-Brazilian *Libro de San Cipriano* / *Ciprianillo*). Scholars (e.g. Theodor Zahn) long ago noted his legend as a Christian reworking of the Faustian sorcerer-redeemed pattern.\n\n## For artists & game designers\nThe paired sorcerer-and-saint is a ready 'redeemed antagonist' duo: a reformed mage and the holy figure whose virtue first defeated him.",
+   "citations": [
+    {"text": "Theodor Zahn, *Cyprian von Antiochien und die deutsche Faustsage* (1882)."},
+    {"text": "*Acta Sanctorum*, Cyprian and Justina (26 September)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cipriano_e_Justina.jpg"}
+   ],
+   "key_concepts": ["Cyprian of Antioch", "Justina", "patron of magicians", "conversion of the sorcerer"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__justina",
+   "title": "Saint Justina",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Anonymous (Rijksmuseum print)",
+   "date": "engraving (Rijksmuseum, RP-P-1917-283)",
+   "place": "Netherlands",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["saint justina", "virgin martyr", "palm", "sword", "chastity", "demon repelled", "sign of the cross", "antioch"],
+   "rights": "CC0 / Public domain. Rijksmuseum. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Heilige_Justina,_RP-P-1917-283.jpg",
+   "summary": "An engraving of *Saint Justina*, the virgin of Antioch whose chastity defeated the demons sent by Cyprian the magician (Rijksmuseum).\n\n## Iconography\nJustina is shown as a young woman with the attributes of a virgin martyr — palm and sword — her composure signalling the steadfast [[motif:chastity|chastity]] that, with the sign of the cross, turned back every demonic assault. She is sometimes conflated in art with St Justina of Padua, who shares the palm and is pierced by a sword.\n\n## Significance\nIn the legend of Cyprian and Justina, Justina is the active spiritual force: it is her prayer and her cross, not any counter-spell, that defeat the conjured demons and ultimately convert the sorcerer himself. Her cult spread widely; St Justina of Padua became a major civic patron, her image (often with a unicorn or sword) painted by Moretto, Veronese, and others. The two Justinas blur in popular devotion, both standing for the virtue that unmakes sorcery.\n\n## For artists & game designers\nA 'faith as armour' archetype — a defenceless figure whose only weapon is a holy sign that nullifies enemy magic.",
+   "citations": [
+    {"text": "*Acta Sanctorum*, Justina of Antioch."},
+    {"text": "Rijksmuseum, RP-P-1917-283 (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Heilige_Justina,_RP-P-1917-283.jpg"}
+   ],
+   "key_concepts": ["Justina", "virgin martyr", "chastity defeats sorcery", "sign of the cross"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__theophilus-pact",
+   "title": "Theophilus of Adana (Maastricht Hours)",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Anonymous (Liège-Maastricht miniaturist)",
+   "date": "c. 1300–1325",
+   "place": "Liège-Maastricht region",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["theophilus", "devil's pact", "first faust", "charter", "homage to devil", "book of hours", "marian miracle", "salzburg"],
+   "rights": "Public domain. British Library. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Maastricht_Book_of_Hours,_BL_Stowe_MS17_f255v-f256r.png",
+   "summary": "A miniature opening from the *Maastricht Book of Hours* (BL Stowe MS 17) depicting the legend of *Theophilus of Adana*, the cleric who sold his soul to the devil.\n\n## Iconography\nThe scene shows Theophilus doing [[motif:homage to devil|homage to the devil]] — kneeling, hands clasped between the demon's, as in a feudal oath — and sealing a written [[motif:charter|charter]] surrendering his soul. The marginal cycle continues to his repentance and the Virgin's recovery of the deed.\n\n## Significance\nThe sixth-century tale of Theophilus, a steward who signs a pact with Satan to regain his office and is then saved when the Virgin Mary descends to Hell, snatches back the charter, and lays it on his breast, is the prototype of the Faust legend — 'the first Faust.' Translated by Paul the Deacon and dramatised across medieval Europe (Rutebeuf's *Miracle de Théophile*), it established the visual grammar of the diabolical contract: the kneeling homage and the signed document. It is the chief Marian-miracle counterpart to the Cyprian story of magic undone by grace.\n\n## For artists & game designers\nThe feudal-homage pose plus a signed parchment is the cleanest possible 'soul-contract' iconography — and the Virgin's reclaiming of the deed is a built-in redemption mechanic.",
+   "citations": [
+    {"text": "Paul the Deacon (trans.), *Miracle of Theophilus*; Rutebeuf, *Le Miracle de Théophile* (13th c.)."},
+    {"text": "British Library, Stowe MS 17 (Maastricht Hours)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Maastricht_Book_of_Hours,_BL_Stowe_MS17_f255v-f256r.png"}
+   ],
+   "key_concepts": ["Theophilus of Adana", "devil's pact", "first Faust", "Marian miracle"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__theophilus-virgin",
+   "title": "Theophilus and the Devil (Codex Gigas)",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Herman the Recluse (attrib.)",
+   "date": "early 13th c.",
+   "place": "Bohemia (Podlažice)",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["theophilus", "devil's pact", "demon", "homage", "codex gigas", "first faust", "salvation", "manuscript illumination"],
+   "rights": "Public domain. National Library of Sweden. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:CodexGigas_483_Theophilus,Deurinis.png",
+   "summary": "A page from the *Codex Gigas* (the 'Devil's Bible') illustrating *Theophilus and the Devil*, set near the manuscript's famous full-page demon portrait.\n\n## Iconography\nTheophilus is shown before a horned [[motif:demon|demon]], enacting his pact — the cleric and the devil joined in the gesture of homage that seals the surrender of his soul. The image sits within the giant Bohemian codex whose adjacent leaf bears the most reproduced of all medieval devils.\n\n## Significance\nThe *Codex Gigas* (early 13th c., from the Benedictine house of Podlažice) is the largest surviving medieval manuscript; legend says a condemned monk completed it in one night with the devil's help, in a real-life echo of the Theophilus pact. The placement of the Theophilus miracle beside the devil portrait and a page on confession underlines the book's theme of damnation answered by penance: the same arc — soul lost to a demon, soul recovered by grace — that governs the Cyprian and Faust legends.\n\n## For artists & game designers\nA period-authentic 'pact panel' you can pair with a monstrous devil portrait for a damnation-and-redemption set piece.",
+   "citations": [
+    {"text": "*Codex Gigas* (early 13th c.), National Library of Sweden, MS A 148."},
+    {"text": "Paul the Deacon, *Miracle of Theophilus*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:CodexGigas_483_Theophilus,Deurinis.png"}
+   ],
+   "key_concepts": ["Theophilus of Adana", "Codex Gigas", "devil's pact", "redemption"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__anthony-temptation-bosch",
+   "title": "The Temptation of St Anthony (Bosch)",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Hieronymus Bosch",
+   "date": "c. 1500–1516",
+   "place": "'s-Hertogenbosch, Low Countries",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["temptation", "saint anthony", "demon swarm", "hybrid monsters", "hell landscape", "desert father", "diabolical illusion", "triptych"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Temptation_of_Saint_Anthony.jpg",
+   "summary": "Hieronymus Bosch's *Temptation of St Anthony*, the supreme painted vision of a hermit besieged by demonic illusion.\n\n## Iconography\nThe desert father is surrounded by a teeming world of [[motif:hybrid monsters|hybrid monsters]] — fish that walk, mounted demons, broken-eggshell ships, processions of the damned — across a burning, dreamlike landscape. The saint kneels or is hauled aloft, steadfast amid the diabolical theatre.\n\n## Significance\nBased on Athanasius's *Life of St Anthony*, the foundational account of eremitic struggle against demons, Bosch's panels (the Lisbon triptych is the most celebrated) became the touchstone for the temptation theme. Bosch transformed the desert assault into a cosmology of sin and illusion, where the demons embody the deceptions the magus-saint tradition warns against — magic as a snare of the devil. The work influenced everyone from Bruegel to the Surrealists.\n\n## For artists & game designers\nAn inexhaustible bestiary of kitbashed demons and impossible architecture — the canonical reference for an 'illusory hell' encounter.",
+   "citations": [
+    {"text": "Athanasius, *Life of St Anthony*."},
+    {"text": "W. Bosing, *Hieronymus Bosch* (1973)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Temptation_of_Saint_Anthony.jpg"}
+   ],
+   "key_concepts": ["Temptation of St Anthony", "Hieronymus Bosch", "demon swarm", "desert fathers"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__anthony-temptation-grunewald",
+   "title": "The Temptation of St Anthony (Follower of Bosch)",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Follower of Hieronymus Bosch",
+   "date": "16th c.",
+   "place": "Low Countries",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["temptation", "saint anthony", "demon swarm", "monsters", "desert father", "diabolical assault", "bosch follower", "panel"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Temptation_of_St_Anthony_(Bosch).jpg",
+   "summary": "A *Temptation of St Anthony* by a follower of Hieronymus Bosch, one of the many workshop and imitator versions that spread the theme across the 16th century.\n\n## Iconography\nSt Anthony endures a crowd of grotesque [[motif:demon swarm|demons]] — beaked, clawed, and chimeric — that pluck and torment him while he clings to faith. The composition repeats and reworks the Boschian formula of monstrous multiplicity in a barren landscape.\n\n## Significance\nBosch's invention was so popular that dozens of variants by followers and imitators circulated in his lifetime and after, fixing the temptation of the desert father as a fashionable subject. These derivatives testify to the early-modern appetite for demonology as spectacle, and to the centrality of St Anthony as the model ascetic who resists the devil's [[motif:diabolical assault|illusions]] — the positive counterpart to the magician who succumbs.\n\n## For artists & game designers\nUseful as a 'second pass' on the demon-swarm theme: slightly cruder, more legible monsters that read clearly at small scale.",
+   "citations": [
+    {"text": "Athanasius, *Life of St Anthony*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Temptation_of_St_Anthony_(Bosch).jpg"}
+   ],
+   "key_concepts": ["Temptation of St Anthony", "Bosch follower", "demon swarm", "asceticism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__anthony-schongauer",
+   "title": "The Tribulations of St Anthony",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Martin Schongauer",
+   "date": "c. 1470–75 (engraving)",
+   "place": "Colmar, Upper Rhine",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["temptation", "saint anthony", "demon swarm", "flying torment", "hybrid monsters", "claws and beaks", "desert father", "engraving"],
+   "rights": "Public Domain Mark. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Tribulations_of_St_Anthony_(SM_33744d).png",
+   "summary": "Martin Schongauer's celebrated engraving of *St Anthony* borne aloft and tormented by a wheel of demons — the print the young Michelangelo copied in paint.\n\n## Iconography\nSt Anthony is lifted into the air, clutching his book, encircled by [[motif:hybrid monsters|hybrid demons]] — feathered, scaled, beaked, horned, and clawed — that beat, bite, and drag at him. Each fiend is a virtuoso assemblage of animal parts forming a churning ring of torment.\n\n## Significance\nSchongauer's engraving (c. 1470s) was the most admired demon-swarm image of its age and became the template for centuries of temptation imagery, from Grünewald's Isenheim Altarpiece to Callot. Vasari records that Michelangelo, still a boy, copied it in colour, studying fish-scales at the market to render the demons. The print exemplifies the late-medieval conception of the devil as a multiplicity of monstrous forms assaulting the holy ascetic.\n\n## For artists & game designers\nThe definitive reference for a 'demon swarm' aerial encounter — every monster a unique kitbash of beast parts.",
+   "citations": [
+    {"text": "Athanasius, *Life of St Anthony*."},
+    {"text": "G. Vasari, *Lives of the Artists* (on Michelangelo's copy)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Tribulations_of_St_Anthony_(SM_33744d).png"}
+   ],
+   "key_concepts": ["Temptation of St Anthony", "Schongauer", "demon swarm", "desert fathers"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__anthony-cranach",
+   "title": "The Temptation of St Anthony (Bresdin)",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Rodolphe Bresdin",
+   "date": "19th c. (etching/lithograph)",
+   "place": "France",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["temptation", "saint anthony", "demon swarm", "fantastic landscape", "teeming detail", "desert father", "etching", "visionary"],
+   "rights": "CC0 / Public domain. The Metropolitan Museum of Art. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Temptation_of_St._Anthony_Met_DP889785.jpg",
+   "summary": "Rodolphe Bresdin's densely worked *Temptation of St Anthony*, a 19th-century visionary reprise of the medieval theme (Metropolitan Museum).\n\n## Iconography\nThe saint is nearly lost within a swarming, hallucinatory tangle of foliage, beasts, and [[motif:demon swarm|demons]] rendered in Bresdin's famously minute, almost microscopic line. The whole sheet seethes with monstrous life, the temptation dissolved into an enveloping fantastic landscape.\n\n## Significance\nBresdin, an eccentric printmaker admired by Baudelaire and a teacher of Odilon Redon, revived the Anthony subject for the Romantic and Symbolist imagination. His obsessive detail turns the desert father's trial into a meditation on the proliferation of the irrational — the demonic as an overgrowth that engulfs the soul. The theme links the medieval magician-saint tradition to the modern fascination with visionary and oneiric states.\n\n## For artists & game designers\nA model for 'maximal density' environment art, where the threat is the overwhelming, claustrophobic detail itself rather than any single monster.",
+   "citations": [
+    {"text": "Athanasius, *Life of St Anthony*."},
+    {"text": "The Metropolitan Museum of Art (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Temptation_of_St._Anthony_Met_DP889785.jpg"}
+   ],
+   "key_concepts": ["Temptation of St Anthony", "Rodolphe Bresdin", "Symbolism", "visionary print"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__anthony-callot",
+   "title": "The Temptation of St Anthony (Callot)",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Jacques Callot",
+   "date": "c. 1635 (etching)",
+   "place": "Nancy, Lorraine",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["temptation", "saint anthony", "demon army", "hell-mouth", "dragon", "infernal cavern", "etching", "spectacle"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Callot,_The_Temptation_of_Saint_Anthony.jpg",
+   "summary": "Jacques Callot's grand etching *The Temptation of St Anthony*, a theatrical panorama of an entire demonic army assaulting the hermit.\n\n## Iconography\nA vast infernal cavern opens at the centre, a winged dragon and a flying witch fill the sky, and ranks of [[motif:demon army|demons]] swarm in disciplined formation around the tiny figure of the saint. Callot stages the temptation as military spectacle, a battlefield of the supernatural with a gaping [[motif:hell-mouth|hell-mouth]] for an entrance.\n\n## Significance\nCallot, the great Lorraine etcher of the *Miseries of War*, brought his mastery of crowd scenes and tiny figures to the Anthony subject, producing one of the most ambitious temptation images of the Baroque. The orderly demonic 'army' reflects the early-modern systematisation of demonology — the infernal hierarchy marshalled like an état-major — the same impulse that catalogued the seventy-two spirits of the grimoires.\n\n## For artists & game designers\nA template for a 'demon legion' set piece: massed, ranked enemies pouring from a central hell-gate, with aerial threats overhead.",
+   "citations": [
+    {"text": "Athanasius, *Life of St Anthony*."},
+    {"text": "Jacques Callot, *The Temptation of St Anthony* (etching, c. 1635)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Callot,_The_Temptation_of_Saint_Anthony.jpg"}
+   ],
+   "key_concepts": ["Temptation of St Anthony", "Jacques Callot", "demon army", "hell-mouth"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__anthony-teniers",
+   "title": "The Temptation of St Anthony (after Teniers)",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "After David Teniers the Younger (book engraving)",
+   "date": "1895 (engraving, after a 17th-c. original)",
+   "place": "Flanders / London",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["temptation", "saint anthony", "demon", "seductress", "grotesque imps", "desert father", "book illustration", "sacred and legendary art"],
+   "rights": "Public domain (No restrictions). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sacred_and_legendary_art_(1895)_(14773100742).jpg",
+   "summary": "An engraving of *The Temptation of St Anthony* from Anna Jameson's *Sacred and Legendary Art* (1895), reproducing the much-painted Flemish treatment associated with David Teniers the Younger.\n\n## Iconography\nSt Anthony is shown in his cave beset by small [[motif:grotesque imps|grotesque imps]] and a tempting female apparition — the demon disguised as a seductress, a stock motif of the seventeenth-century cabinet pictures of the subject. The mood is anecdotal and intimate rather than apocalyptic.\n\n## Significance\nDavid Teniers the Younger painted the Temptation of St Anthony many times, popularising a domesticated, collectable version of the theme for the Flemish market. Its reproduction in Anna Jameson's pioneering nineteenth-century iconographic study, *Sacred and Legendary Art*, shows how the magician-saint and desert-father imagery passed into the modern art-historical canon, framed as Christian symbolism for a Victorian readership.\n\n## For artists & game designers\nThe 'seductress imp' variant is handy for a temptation scene built on allure and small mischievous demons rather than overwhelming horror.",
+   "citations": [
+    {"text": "Anna Jameson, *Sacred and Legendary Art* (ed. of 1895)."},
+    {"text": "David Teniers the Younger, *Temptation of St Anthony* (17th c., various versions)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sacred_and_legendary_art_(1895)_(14773100742).jpg"}
+   ],
+   "key_concepts": ["Temptation of St Anthony", "David Teniers", "Anna Jameson", "Christian iconography"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__macarius-egypt",
+   "title": "St Macarius the Elder (Macarius of Egypt)",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Fyodor Solntsev",
+   "date": "19th c. (icon study)",
+   "place": "Russia",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["saint macarius", "desert father", "ascetic", "byzantine icon", "monasticism", "demon resisted", "scetis", "long beard"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Macarius_the_Elder_Full_Body_Length_Icon.jpg",
+   "summary": "A full-length icon of *St Macarius the Elder of Egypt*, the desert father famed for his battles against demons in the wilderness of Scetis.\n\n## Iconography\nMacarius stands frontal in monastic habit, an aged ascetic with an immensely long white beard — the conventional sign of the holy hermit's age and wisdom. The austere, full-length [[motif:byzantine icon|icon]] format presents him as a model of monastic sanctity.\n\n## Significance\nMacarius of Egypt (4th c.), a founder of the monastic settlement of Scetis, figures prominently in the *Apophthegmata Patrum* (Sayings of the Desert Fathers) and the *Lausiac History*, which recount his repeated [[motif:demon resisted|encounters with demons]] who tempt and threaten the hermits. The desert fathers' literature established the spiritual technology of resisting the devil — vigilance, prayer, the cross — that underlies the whole magician-saint tradition, where holiness, not counter-magic, defeats the demonic.\n\n## For artists & game designers\nThe archetypal 'old hermit master' design — gaunt, bearded, robed — for a mentor who teaches resistance to corruption.",
+   "citations": [
+    {"text": "Palladius, *Lausiac History*; *Apophthegmata Patrum*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Macarius_the_Elder_Full_Body_Length_Icon.jpg"}
+   ],
+   "key_concepts": ["Macarius of Egypt", "desert fathers", "monasticism", "spiritual combat"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__gerasene-demoniac",
+   "title": "The Gadarene Demoniacs",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Léonard Gaultier",
+   "date": "c. 1576–1580 (engraving)",
+   "place": "Paris, France",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["exorcism", "gerasene demoniac", "legion", "swine", "demon expelled", "christ", "tombs", "engraving"],
+   "rights": "CC0 / Public domain. National Gallery of Art. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:L%C3%A9onard_Gaultier,_The_Gadarene_Demoniacs,_probably_c._1576-1580,_NGA_48126.jpg",
+   "summary": "Léonard Gaultier's engraving of *The Gadarene Demoniacs*, the Gospel exorcism in which Christ casts a legion of demons into a herd of swine.\n\n## Iconography\nChrist confronts the possessed men among the tombs while the [[motif:demon expelled|expelled demons]], named Legion, drive the herd of [[motif:swine|swine]] headlong over a cliff into the sea. The little demon-figures streaming from the demoniacs into the pigs make the act of exorcism literally visible.\n\n## Significance\nThe story (Matthew 8, Mark 5, Luke 8) is the New Testament's most dramatic exorcism and the scriptural charter for the Church's power over demons. The demon's confession — 'My name is Legion, for we are many' — supplied later demonology with its sense of demonic multiplicity, and the rite of casting out evil spirits, codified in the *Rituale Romanum* (1614), descends directly from such Gospel models. It is the canonical counter to sorcery: deliverance by divine authority rather than by spell.\n\n## For artists & game designers\nA clear visual mechanic for 'transferring' a possession — the swarm leaves one host and floods into another that is then destroyed.",
+   "citations": [
+    {"text": "Mark 5:1–20; *Rituale Romanum* (1614)."},
+    {"text": "National Gallery of Art (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:L%C3%A9onard_Gaultier,_The_Gadarene_Demoniacs,_probably_c._1576-1580,_NGA_48126.jpg"}
+   ],
+   "key_concepts": ["Gadarene demoniac", "Legion", "exorcism", "Rituale Romanum"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__simon-magus",
+   "title": "The Fall of Simon Magus",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Jan Rombouts",
+   "date": "c. 1522–1530",
+   "place": "Leuven, Low Countries",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["simon magus", "fall", "levitation", "saint peter", "false magic", "demons withdrawn", "rome", "panel"],
+   "rights": "CC0 / Public domain. Museum M, Leuven. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Fall_of_Simon_Magus_(left)_and_The_Conversion_of_St._Paul_(right),_by_Jan_Rombouts,_c._1522-1530,_view_3_-_Museum_M_-_Leuven,_Belgium_-_DSC05045.jpg",
+   "summary": "Jan Rombouts's panel of *The Fall of Simon Magus*, the sorcerer who tried to fly by demonic power and crashed at the prayer of St Peter.\n\n## Iconography\nSimon Magus is shown plummeting from the air, his [[motif:levitation|levitation]] collapsing as the [[motif:demons withdrawn|demons]] that bore him aloft are dismissed by St Peter's prayer below. The Apostle and the watching crowd witness the public ruin of false magic.\n\n## Significance\nSimon Magus, named in Acts 8 as the magician who tried to buy the power of the Holy Spirit (hence 'simony'), grew in apocryphal legend into the arch-sorcerer and antagonist of St Peter in Rome. The motif of his fatal flight — magic exposed as diabolical fraud the instant true holiness is invoked — is the paradigm the Cyprian legend repeats: the magus humbled by the power of Christ. He became the ancestral 'false prophet' of Western demonology.\n\n## For artists & game designers\nA dramatic 'power-cut' beat: an enemy sustained by borrowed magic abruptly falls the moment the source is severed.",
+   "citations": [
+    {"text": "Acts 8:9–24; *Acts of Peter* (apocryphal)."},
+    {"text": "Museum M, Leuven (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Fall_of_Simon_Magus_(left)_and_The_Conversion_of_St._Paul_(right),_by_Jan_Rombouts,_c._1522-1530,_view_3_-_Museum_M_-_Leuven,_Belgium_-_DSC05045.jpg"}
+   ],
+   "key_concepts": ["Simon Magus", "St Peter", "simony", "false magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__harrowing-hell",
+   "title": "The Anastasis (Harrowing of Hell), Lagoudera",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Anonymous (Byzantine fresco)",
+   "date": "1192",
+   "place": "Lagoudera, Cyprus",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["harrowing of hell", "anastasis", "christ", "gates of hades", "adam and eve", "trampling death", "byzantine fresco", "panagia tou arakos"],
+   "rights": "CC0 / Public domain. Dumbarton Oaks. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Church_of_Panagia_tou_Arakos,_nave,_west_bay,_north_side,_vault,_wall_paintings,_Lagoudera,_Cyprus_-_Anastasis,_detail_of_Christ,_head_-_MSBZ004_BF_S_1979_2164D_-_Dumbarton_Oaks.jpg",
+   "summary": "A detail of the head of Christ from the *Anastasis* (Harrowing of Hell) fresco at the Church of Panagia tou Arakos, Lagoudera, Cyprus (1192).\n\n## Iconography\nIn the full [[motif:anastasis|Anastasis]] composition Christ tramples the shattered [[motif:gates of hades|gates of Hades]] and the bound figure of Death, hauling Adam and Eve up from their tombs. This detail isolates the serene, commanding head of the risen Christ, the visual focus of the descent into hell.\n\n## Significance\nThe Anastasis is the standard Byzantine image of the Resurrection: rather than an empty tomb, it shows Christ's victory over hell, breaking its gates and freeing the righteous dead — the 'Harrowing of Hell' of the Gospel of Nicodemus. As the supreme icon of divine power over the infernal realm, it is the theological ground on which every saintly defeat of demons rests. The Lagoudera frescoes are among the finest Komnenian-era wall paintings to survive.\n\n## For artists & game designers\nThe ultimate 'breaking into the underworld' image — a hero shattering hell's gates and leading captives out — a ready climax for a descent quest.",
+   "citations": [
+    {"text": "*Gospel of Nicodemus* (Acts of Pilate)."},
+    {"text": "Dumbarton Oaks, Byzantine Photograph and Fieldwork Archives (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Church_of_Panagia_tou_Arakos,_nave,_west_bay,_north_side,_vault,_wall_paintings,_Lagoudera,_Cyprus_-_Anastasis,_detail_of_Christ,_head_-_MSBZ004_BF_S_1979_2164D_-_Dumbarton_Oaks.jpg"}
+   ],
+   "key_concepts": ["Anastasis", "Harrowing of Hell", "Byzantine fresco", "victory over Hades"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "saint_cyprian__hermes-trismegistus",
+   "title": "Hermes Trismegistus, Siena Cathedral Pavement",
+   "work": "St Cyprian & the Christian Magician-Saints",
+   "creator": "Giovanni di Stefano",
+   "date": "1488",
+   "place": "Siena, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["hermes trismegistus", "pagan prophet", "marble intarsia", "moses contemporary", "cathedral pavement", "ancient theology", "tablet", "sibyls"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hermes_Trismegistus_Sienna_Cathedral_Mosaic.jpg",
+   "summary": "The marble-intarsia floor panel of *Hermes Trismegistus* in the pavement of Siena Cathedral (1488) — a pagan sage enthroned in a Christian church as a prophet of the true God.\n\n## Iconography\n[[motif:hermes trismegistus|Hermes Trismegistus]] stands robed and turbaned, handing a tablet to two figures and resting his hand on a second tablet inscribed in Latin and Italian, flanked by the words 'Hermes Mercurius Trismegistus contemporaneus Moysi' — 'contemporary of Moses.' He is presented as an ancient theologian, not a sorcerer.\n\n## Significance\nThe panel embodies the Renaissance doctrine of *prisca theologia*, the belief — promoted by Marsilio Ficino, who translated the *Corpus Hermeticum* for Cosimo de' Medici in 1463 — that Hermes Trismegistus was an Egyptian sage contemporary with Moses who foresaw Christianity. Placing him at the cathedral's threshold, ahead of the Sibyls, dramatised the Christian absorption of pagan wisdom. (Isaac Casaubon would later, in 1614, redate the Hermetica to late antiquity.) It is the supreme image of the magus rehabilitated as prophet — the inverse of the magician condemned.\n\n## For artists & game designers\nA dignified 'pagan oracle in a holy place' design — a robed sage with inscribed tablets, perfect for a syncretic temple's gatekeeper.",
+   "citations": [
+    {"text": "Frances A. Yates, *Giordano Bruno and the Hermetic Tradition* (1964)."},
+    {"text": "Marsilio Ficino, trans., *Corpus Hermeticum* / *Pimander* (1471)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hermes_Trismegistus_Sienna_Cathedral_Mosaic.jpg"}
+   ],
+   "key_concepts": ["Hermes Trismegistus", "prisca theologia", "Siena Cathedral", "Marsilio Ficino"],
+   "summary_status": "authored"
+  }
+ ]
+}

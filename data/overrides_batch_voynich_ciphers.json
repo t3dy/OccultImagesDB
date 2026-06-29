@@ -1,0 +1,582 @@
+{
+ "_work": {
+  "key": "voynich_ciphers",
+  "short_id": "VYNC",
+  "title": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+  "creator": "various",
+  "date": "c. 1404–1438 (Voynich) – 19th c.",
+  "century": 15,
+  "place": "Central Europe, England, Italy & Central Europe",
+  "region": "Europe",
+  "language": "Undeciphered 'Voynichese', Latin, English, German & enciphered scripts",
+  "era": "early_modern",
+  "tradition": "hermetic",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Voynich_manuscript",
+  "rights": "Public domain / CC0 / CC BY-SA (per item). Via Wikimedia Commons.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "voynich_ciphers",
+  "motifs": [
+   "undeciphered script",
+   "cipher table",
+   "secret writing",
+   "zodiac medallion",
+   "nymphs in tubes",
+   "herbal diagram"
+  ],
+  "blurb": "The Voynich Manuscript (Beinecke MS 408) — an early-fifteenth-century codex written in an undeciphered script and filled with unidentified plants, zodiac wheels, bathing nymphs, a nine-rosette cosmic foldout, and jars — set within the wider tradition of occult ciphers and secret writing: Trithemius's *Steganographia* and *Polygraphia*, the Copiale and Rohonc enigmas, the Dorabella and Beale ciphers, the Masonic pigpen, the Shugborough inscription, John Dee's angelic tables, and Alberti's cipher disk."
+ },
+ "entries": [
+  {
+   "id": "voynich_ciphers__voynich-herbal",
+   "title": "Voynich Manuscript, Herbal Page (Unidentified Plant)",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous (Beinecke MS 408)",
+   "date": "c. 1404–1438",
+   "place": "Central Europe",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "herbal diagram",
+    "unidentified plant",
+    "undeciphered script",
+    "roots and leaves",
+    "botanical illustration",
+    "marginal text",
+    "vellum codex",
+    "voynichese"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(15).jpg",
+   "summary": "A page from the 'herbal' section of the Voynich Manuscript, showing one of the codex's many unidentified plants beside its undeciphered text.\n\n## Iconography\nA single plant fills the page: a coloured drawing of stem, leaves, and an exaggerated root system, surrounded and labelled by lines of the manuscript's enigmatic script. The largest section of the book, the herbal pages each pair one plant with a block of writing in the manner of a medieval herbal — yet almost none of the species can be securely identified with a real plant.\n\n## Significance\nThe Voynich Manuscript (Yale, Beinecke Rare Book Library, MS 408) is the most famous undeciphered book in the world. Radiocarbon dating of its vellum places it c. 1404–1438. The herbal section apes the form of the medieval and early-modern [[motif:herbal diagram|herbal]] tradition, but its plants are botanical fantasies or so stylised as to defy identification, deepening the puzzle of whether the book encodes real knowledge, an unknown language, or an elaborate cipher or hoax.\n\n## For artists & game designers\nA template for an alien field-guide: realistic herbal layout filled with invented species and an unreadable script the player must slowly decode.",
+   "citations": [
+    {"text": "Raymond Clemens (ed.), *The Voynich Manuscript* (Yale University Press, 2016)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(15).jpg"}
+   ],
+   "key_concepts": ["Voynich Manuscript", "herbal section", "undeciphered script", "Beinecke MS 408"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__voynich-zodiac-pisces",
+   "title": "Voynich Manuscript, Astronomical / Zodiac Medallion Page",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous (Beinecke MS 408)",
+   "date": "c. 1404–1438",
+   "place": "Central Europe",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "zodiac medallion",
+    "concentric rings",
+    "nymphs with stars",
+    "astronomical diagram",
+    "undeciphered script",
+    "month label",
+    "circular calendar",
+    "voynichese"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(122).jpg",
+   "summary": "A page from the 'astronomical' or zodiac section of the Voynich Manuscript, built around a central medallion ringed by small human figures.\n\n## Iconography\nA large circular diagram dominates the page: a central roundel containing a zodiacal emblem, encircled by concentric bands in which dozens of small nude or robed figures — many holding stars — stand in compartments, each with a brief label in the unreadable script. The design recalls a calendar wheel keyed to a sign of the zodiac.\n\n## Significance\nThe Voynich [[motif:zodiac medallion|zodiac]] folios pair each sign with rings of star-holding 'nymphs,' a scheme with loose parallels in late-medieval astronomical and calendrical manuscripts. The labels around the rim have encouraged speculation that they name days, degrees, or astrological influences, but like the rest of the book they remain undeciphered.\n\n## For artists & game designers\nA living calendar wheel: a rotating zodiac dial whose ringed figures could each trigger a different seasonal event or astral effect.",
+   "citations": [
+    {"text": "Raymond Clemens (ed.), *The Voynich Manuscript* (Yale University Press, 2016)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(122).jpg"}
+   ],
+   "key_concepts": ["Voynich zodiac", "astronomical section", "calendar wheel", "zodiac medallion"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__voynich-zodiac-aries",
+   "title": "Voynich Manuscript, Zodiac Wheel with Star-Holding Nymphs",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous (Beinecke MS 408)",
+   "date": "c. 1404–1438",
+   "place": "Central Europe",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "zodiac wheel",
+    "star-holding nymphs",
+    "concentric rings",
+    "central roundel",
+    "astrological diagram",
+    "undeciphered script",
+    "tubs and stars",
+    "voynichese"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(127).jpg",
+   "summary": "Another zodiac folio of the Voynich Manuscript, its central medallion encircled by rings of small figures each grasping a star.\n\n## Iconography\nThe page is organised as a wheel: a central emblem inside a roundel, surrounded by two or more concentric rings divided into compartments, each holding a small figure — frequently a nude woman emerging from a tub or barrel and holding a star aloft. Curving lines of the manuscript's script run along the rings and around the rim.\n\n## Significance\nThe star-holding [[motif:star-holding nymphs|nymphs]] of the Voynich zodiac wheels are among the codex's most distinctive images, fusing the astronomical diagram with the bathing-figure motif of the 'biological' section. Scholars such as Nick Pelling and the contributors to the Beinecke's facsimile have noted resemblances to fifteenth-century German calendar and astrological-medical traditions, without resolving the meaning of the text.\n\n## For artists & game designers\nA constellation-assembly mechanic: figures handing up stars to populate a sky, each ring a tier of difficulty or season.",
+   "citations": [
+    {"text": "Raymond Clemens (ed.), *The Voynich Manuscript* (Yale University Press, 2016)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(127).jpg"}
+   ],
+   "key_concepts": ["Voynich zodiac", "star-holding nymphs", "zodiac wheel", "astrological diagram"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__voynich-sagittarius",
+   "title": "Voynich Manuscript, Detail of Folio 72r (Zodiac Figure)",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous (Beinecke MS 408); digitised by Jason Davies",
+   "date": "c. 1404–1438",
+   "place": "Central Europe",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "zodiac figure",
+    "central medallion",
+    "astrological detail",
+    "folio 72r",
+    "undeciphered script",
+    "nymphs in rings",
+    "calendar wheel",
+    "voynichese"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Voynich_f72r2_detail.jpg",
+   "summary": "A detail from folio 72r of the Voynich Manuscript, showing the central figure of one of the astronomical zodiac medallions.\n\n## Iconography\nThe close-up isolates the heart of a zodiac wheel: a central roundel containing a zodiacal emblem, framed by the inner ring of compartments and curving labels. Folios 70–73 of the manuscript carry the run of zodiac diagrams; this detail from f72r lets the central device be read apart from its crowded rings of figures.\n\n## Significance\nIsolating the medallion shows how the Voynich follows the convention of placing a sign's emblem at the hub of a [[motif:calendar wheel|calendar wheel]]. The folios run through the zodiac from Pisces and Aries onward, several split across paired diagrams. As with every page, the script naming the figure resists all attempts at decipherment, from William Friedman's wartime study groups to modern computational analysis.\n\n## For artists & game designers\nA zoomable map-pin: the central emblem of a wheel that expands into a full ringed minigame when selected.",
+   "citations": [
+    {"text": "Raymond Clemens (ed.), *The Voynich Manuscript* (Yale University Press, 2016)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Voynich_f72r2_detail.jpg"}
+   ],
+   "key_concepts": ["Voynich zodiac", "folio 72r", "zodiac medallion", "astronomical section"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__voynich-balneological",
+   "title": "Voynich Manuscript, Balneological (Bathing Nymphs) Page",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous (Beinecke MS 408)",
+   "date": "c. 1404–1438",
+   "place": "Central Europe",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "nymphs in tubes",
+    "bathing women",
+    "green pools",
+    "connecting pipes",
+    "undeciphered script",
+    "biological section",
+    "anatomical fantasy",
+    "voynichese"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(141).jpg",
+   "summary": "A page from the 'balneological' or biological section of the Voynich Manuscript, crowded with small nude female figures in green pools and tubes.\n\n## Iconography\nThe page teems with tiny nude women standing in basins and barrels linked by a plumbing of pipes and channels through which a greenish liquid seems to flow; clusters of stars and looping conduits connect the pools, all annotated in the unreadable script. The effect is part bath-house, part anatomical or alchemical schematic.\n\n## Significance\nThe [[motif:nymphs in tubes|biological section]] is the strangest part of the Voynich, variously read as a treatise on women's medicine and balneology (the healing use of baths), as an allegory of the body's inner vessels, or as an alchemical scheme of fluids. The interconnected tubes have invited comparisons to anatomy, to the bath-cures of medieval medicine, and to the *vasa* of alchemical circulation — none confirmed.\n\n## For artists & game designers\nA plumbing puzzle made flesh: a network of pools and pipes whose flow the player reroutes, each chamber occupied by a figure that reacts to the current.",
+   "citations": [
+    {"text": "Raymond Clemens (ed.), *The Voynich Manuscript* (Yale University Press, 2016)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(141).jpg"}
+   ],
+   "key_concepts": ["Voynich biological section", "balneology", "bathing nymphs", "Beinecke MS 408"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__voynich-rosettes",
+   "title": "Voynich Manuscript, Cosmological Foldout (Folio 86v Detail)",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous (Beinecke MS 408)",
+   "date": "c. 1404–1438",
+   "place": "Central Europe",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "rosette map",
+    "cosmological foldout",
+    "connecting causeways",
+    "circular cities",
+    "undeciphered script",
+    "fold-out diagram",
+    "cosmic geography",
+    "voynichese"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Voynich_manuscript_cosmological_example_86v_crop.jpg",
+   "summary": "A detail from the great cosmological foldout of the Voynich Manuscript (folio 86v), part of the nine-rosette 'map' that unfolds across several leaves.\n\n## Iconography\nLarge circular rosettes — elaborate roundels filled with cells, spokes, towers, and looping ornament — are joined to neighbouring circles by causeways and tubes, the whole reading like a schematic map of linked places. One rosette shows what look like castellated towers; others hold radiating patterns and rings of script.\n\n## Significance\nThe nine-rosette [[motif:rosette map|cosmological foldout]] is the manuscript's single largest and most ambitious diagram, spread over a folding sheet. It has been interpreted as a cosmic map, an itinerary of cities, or a diagram of the elements and spheres; the apparent towers on one rosette have even prompted attempts to locate a real place. Like every other page, its purpose is unproven.\n\n## For artists & game designers\nA ready-made world map: linked circular regions joined by causeways, each rosette an explorable hub on a fold-out overworld.",
+   "citations": [
+    {"text": "Raymond Clemens (ed.), *The Voynich Manuscript* (Yale University Press, 2016)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Voynich_manuscript_cosmological_example_86v_crop.jpg"}
+   ],
+   "key_concepts": ["Voynich rosettes", "cosmological foldout", "folio 86v", "cosmic map"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__voynich-pharmaceutical",
+   "title": "Voynich Manuscript, Pharmaceutical Container (Folio 89v)",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous (Beinecke MS 408); digitised by Yale University Library",
+   "date": "c. 1404–1438",
+   "place": "Central Europe",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "pharmaceutical jar",
+    "albarello",
+    "apothecary vessel",
+    "drawn container",
+    "plant parts",
+    "pharmaceutical section",
+    "undeciphered script",
+    "voynichese"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pharmaceutical_container_in_f89v2.jpg",
+   "summary": "A drawn 'pharmaceutical' container from folio 89v of the Voynich Manuscript, one of the ornate jars that line the apothecary section.\n\n## Iconography\nThe image isolates a single tall, decorated vessel — drawn like a glazed apothecary jar or *albarello* with a banded foot and lid — of the kind set in columns down the margins of the pharmaceutical pages, alongside detached roots and leaves and short blocks of labelled text.\n\n## Significance\nThe [[motif:pharmaceutical jar|pharmaceutical section]] of the Voynich shows rows of elaborate jars beside fragments of plants, exactly as a medieval *materia medica* or apothecary's manual would pair drug-containers with their ingredients. The vessels' resemblance to fifteenth-century maiolica pharmacy jars has been used to help date and place the manuscript, even as the recipes they imply remain unreadable.\n\n## For artists & game designers\nAn inventory of crafting vessels: ornate containers each tied to a (currently unknown) ingredient and effect — perfect labelled loot icons.",
+   "citations": [
+    {"text": "Raymond Clemens (ed.), *The Voynich Manuscript* (Yale University Press, 2016)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pharmaceutical_container_in_f89v2.jpg"}
+   ],
+   "key_concepts": ["Voynich pharmaceutical section", "apothecary jar", "materia medica", "folio 89v"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__voynich-recipes",
+   "title": "Voynich Manuscript, 'Recipes' Text Page (Folio 107r Detail)",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous (Beinecke MS 408)",
+   "date": "c. 1404–1438",
+   "place": "Central Europe",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "recipe text",
+    "star paragraphs",
+    "undeciphered script",
+    "marginal stars",
+    "dense writing",
+    "stars section",
+    "voynichese",
+    "text-only page"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Voynich_manuscript_recipe_example_107r_crop.jpg",
+   "summary": "A detail from folio 107r of the Voynich Manuscript, in the dense 'recipes' or 'stars' section where short paragraphs are each marked by a marginal star.\n\n## Iconography\nThe crop shows tight, almost unbroken lines of the manuscript's looping script, divided into short paragraphs each tagged in the margin by a small drawn star. With few illustrations, these pages read as a list of brief entries — hence the nickname 'recipes.'\n\n## Significance\nThe [[motif:recipe text|recipes section]] (sometimes called the 'stars' pages) is the most purely textual part of the codex, its star-marked paragraphs suggesting a series of short prescriptions or instructions. Statistical analysis of these pages has fed every theory of the script — natural language, cipher, glossolalia, or meaningless hoax — without producing an accepted reading.\n\n## For artists & game designers\nA scroll of cryptic recipes: star-bulleted entries the player collects and must decode to unlock craftable effects.",
+   "citations": [
+    {"text": "Raymond Clemens (ed.), *The Voynich Manuscript* (Yale University Press, 2016)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Voynich_manuscript_recipe_example_107r_crop.jpg"}
+   ],
+   "key_concepts": ["Voynich recipes section", "stars pages", "undeciphered script", "folio 107r"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__voynich-text",
+   "title": "Voynich Manuscript, Script Detail (Folio 1r)",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous (Beinecke MS 408)",
+   "date": "c. 1404–1438",
+   "place": "Central Europe",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "undeciphered script",
+    "voynichese",
+    "looping glyphs",
+    "secret writing",
+    "first folio",
+    "ductus",
+    "alphabet mystery",
+    "text-only detail"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(3)_f1r_detail_((retouching)).jpg",
+   "summary": "A close detail of the Voynich Manuscript's opening folio (1r), showing the looping, fluent script that no one has been able to read.\n\n## Iconography\nThe retouched crop isolates a few lines of 'Voynichese': a flowing hand of perhaps two dozen recurring glyphs, written confidently left-to-right with consistent ligatures and word-like groupings, but corresponding to no known alphabet or language.\n\n## Significance\nThe Voynich [[motif:undeciphered script|script]] is the crux of the whole mystery. Its statistics behave partly like natural language (it obeys word-frequency laws) and partly unlike it, fuelling rival theories — an unknown language, a cipher, an artificial 'glossolalia,' or a meaningless fabrication. From William and Elizebeth Friedman to modern information theorists, the best cryptanalysts of the twentieth century failed to break it, which is why it anchors the tradition of unsolved [[motif:secret writing|secret writing]].\n\n## For artists & game designers\nA constructed alphabet ready to copy: a coherent glyph set you can letter signs and scrolls with for an instantly 'unreadable' world.",
+   "citations": [
+    {"text": "William F. Friedman & Elizebeth S. Friedman, studies of the Voynich script (1940s–50s); Raymond Clemens (ed.), *The Voynich Manuscript* (2016)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(3)_f1r_detail_((retouching)).jpg"}
+   ],
+   "key_concepts": ["Voynichese", "undeciphered script", "cryptanalysis", "folio 1r"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__trithemius-steganographia",
+   "title": "Steganographic Chart in the Hand of John Dee (Trithemius's *Steganographia*)",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Johannes Trithemius; chart copied by John Dee",
+   "date": "*Steganographia* composed 1499; this chart 16th c.",
+   "place": "German lands / England",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "cipher table",
+    "steganography",
+    "angelic names",
+    "concealed message",
+    "magical cover",
+    "cryptographic chart",
+    "john dee hand",
+    "secret writing"
+   ],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Chart_in_the_hand_of_Dr_John_Dee._Steganographiae.png",
+   "summary": "A cryptographic chart relating to Johannes Trithemius's *Steganographia*, written out in the hand of the English magus John Dee.\n\n## Iconography\nThe chart sets out a grid of names, letters, and tabulated correspondences in a careful sixteenth-century hand. Trithemius's *Steganographia* presents its cryptography under the guise of conjuring angels and spirits: tables of barbarous spirit-names that, decoded by the hidden key, yield ordinary enciphered messages.\n\n## Significance\nTrithemius's *Steganographia* (written 1499, printed 1606) is the foundational work of [[motif:steganography|steganography]] — the art of hiding the very existence of a message. Its disguise as a manual of [[motif:angelic names|angel magic]] was so convincing that the book was placed on the Index and read for centuries as a genuine grimoire, until scholars showed the 'spirit names' were a cover for a real cipher. That John Dee copied this chart links the cipher tradition directly to Renaissance occult philosophy.\n\n## For artists & game designers\nThe perfect 'spell that is really a code': a page of conjuration that, read correctly, hides a plain-text clue.",
+   "citations": [
+    {"text": "Johannes Trithemius, *Steganographia* (comp. 1499, pr. 1606); Noel L. Brann, *Trithemius and Magical Theology* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Chart_in_the_hand_of_Dr_John_Dee._Steganographiae.png"}
+   ],
+   "key_concepts": ["Steganographia", "steganography", "Trithemius", "John Dee"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__trithemius-polygraphia",
+   "title": "Trithemius, *Polygraphiae* (1518) — First Printed Book on Cryptology",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Johannes Trithemius",
+   "date": "1518",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "cipher table",
+    "polygraphy",
+    "tabula recta",
+    "substitution alphabet",
+    "printed cryptology",
+    "encryption manual",
+    "ave maria cipher",
+    "secret writing"
+   ],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Polygraphiae_by_Johannes_Trithemius,_1518,_stated_to_be_the_first_published_book_on_cryptology_-_National_Cryptologic_Museum_-_DSC07742.JPG",
+   "summary": "A copy of Johannes Trithemius's *Polygraphiae* (1518), held at the National Cryptologic Museum and often called the first printed book on cryptology.\n\n## Iconography\nThe open volume shows the printed [[motif:cipher table|cipher tables]] for which the work is famous: long columns of substitute words and Latin-prayer alphabets by which a message is enciphered into seemingly pious text, prefiguring the *tabula recta* of the polyalphabetic cipher.\n\n## Significance\n*Polygraphiae libri sex* was published posthumously in 1518 and is widely regarded as the first printed book wholly devoted to [[motif:polygraphy|cryptography]]. Its tables — including the famous 'Ave Maria' cipher that hides letters inside columns of devotional words — and the recta table later developed by Bellaso and Vigenère made Trithemius a founder of Western cryptology, the respectable twin of his disguised *Steganographia*.\n\n## For artists & game designers\nA period-accurate codebook prop: real Renaissance cipher tables a player can use to encode or crack messages in a historical setting.",
+   "citations": [
+    {"text": "Johannes Trithemius, *Polygraphiae libri sex* (1518); David Kahn, *The Codebreakers* (1967)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Polygraphiae_by_Johannes_Trithemius,_1518,_stated_to_be_the_first_published_book_on_cryptology_-_National_Cryptologic_Museum_-_DSC07742.JPG"}
+   ],
+   "key_concepts": ["Polygraphia", "Trithemius", "tabula recta", "history of cryptology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__john-dee-holytable",
+   "title": "The Holy Table of John Dee (Enochian Tables of Practice)",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "John Dee (after his angelic 'actions' with Edward Kelley)",
+   "date": "1580s (this reconstruction modern)",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "enochian table",
+    "angelic alphabet",
+    "sigillum dei aemeth",
+    "letter grid",
+    "table of practice",
+    "secret writing",
+    "magical cipher",
+    "border characters"
+   ],
+   "rights": "CC BY-SA 3.0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Holytable.jpg",
+   "summary": "A rendering of the Holy Table of John Dee, the engraved table of practice bordered and filled with the characters of his 'angelic' Enochian system.\n\n## Iconography\nA square table-top is inscribed around its rim with a band of Enochian letters and, across its surface, a grid of small squares each holding a character or number; the central field would have held the wax [[motif:sigillum dei aemeth|Sigillum Dei Aemeth]]. The whole functions as a ritual instrument keyed to Dee's angelic alphabet.\n\n## Significance\nJohn Dee (1527–1608/9), Elizabeth I's mathematician and astrologer, recorded with the scryer Edward Kelley an entire 'angelic' language — [[motif:enochian table|Enochian]] — delivered through grids of letters that the angels supposedly dictated cell by cell, often backwards as a safeguard. Whether mystical revelation or an elaborate constructed cipher, Dee's lettered tables sit squarely in the tradition of [[motif:secret writing|secret writing]] and angelic cryptography that runs from Trithemius onward.\n\n## For artists & game designers\nA glyph-grid altar: a board whose squares the player fills letter-by-letter to 'summon' an effect, with reversed entry as a built-in safety puzzle.",
+   "citations": [
+    {"text": "Deborah E. Harkness, *John Dee's Conversations with Angels* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Holytable.jpg"}
+   ],
+   "key_concepts": ["John Dee", "Enochian", "Holy Table", "angelic alphabet"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__copiale-cipher",
+   "title": "The Copiale Cipher (Decoded German Secret-Society Manuscript)",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous (German secret society)",
+   "date": "c. 1760–1780",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "cipher manuscript",
+    "homophonic substitution",
+    "secret society",
+    "abstract symbols",
+    "greek letters",
+    "decoded cipher",
+    "ritual book",
+    "secret writing"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Copiale-cipher09s.png",
+   "summary": "A page of the Copiale Cipher, an eighteenth-century enciphered manuscript whose code was finally cracked in 2011.\n\n## Iconography\nThe page is written entirely in an exotic-looking script of abstract symbols, Greek and Roman letters, and diacritics, with no plain text apart from the word 'Copiales 3' that gave the manuscript its name. The dense, calligraphic ciphertext resembles an arcane alphabet.\n\n## Significance\nThe Copiale Cipher is one of cryptography's great success stories. In 2011 Kevin Knight, with Beáta Megyesi and Christiane Schaefer, broke its [[motif:homophonic substitution|homophonic substitution]] using machine-translation techniques, revealing a German-language ritual book of an eighteenth-century [[motif:secret society|secret society]] preoccupied with eye-surgery symbolism and initiation. It stands as the counter-example to the Voynich: a comparably forbidding enciphered manuscript that modern computational cryptanalysis did solve.\n\n## For artists & game designers\nA solvable cipher prop: a beautiful abstract alphabet that, unlike the Voynich, can actually be cracked to deliver a real reward.",
+   "citations": [
+    {"text": "Kevin Knight, Beáta Megyesi & Christiane Schaefer, 'The Copiale Cipher' (2011)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Copiale-cipher09s.png"}
+   ],
+   "key_concepts": ["Copiale Cipher", "homophonic substitution", "secret society", "computational cryptanalysis"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__rohonc-codex",
+   "title": "The Rohonc Codex (Undeciphered Hungarian Manuscript)",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous",
+   "date": "uncertain (paper c. 1530s; debated)",
+   "place": "Central Europe (Hungary)",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "undeciphered script",
+    "unknown alphabet",
+    "religious illustrations",
+    "right-to-left text",
+    "enigmatic codex",
+    "possible hoax",
+    "dense glyphs",
+    "secret writing"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pages_from_the_Rohonc_Codex.jpg",
+   "summary": "Pages from the Rohonc Codex, an undeciphered manuscript in an unknown script held by the Hungarian Academy of Sciences.\n\n## Iconography\nThe spread shows dense rows of an unfamiliar, hooked alphabet — far more symbols than any natural script needs — interspersed with simple line illustrations of apparently religious scenes (crosses, figures, churches). The text appears to run right-to-left and bottom-to-top.\n\n## Significance\nThe Rohonc Codex is the Voynich's eastern cousin: a roughly 450-page book in an [[motif:unknown alphabet|unknown script]], surfacing in nineteenth-century Hungary, that has resisted decipherment. Theories range from a genuine devotional text in a cipher or invented alphabet, to a forgery by the antiquarian Sámuel Literáti Nemes. Recent work by Levente Zoltán Király and Gábor Tokai argues it is an enciphered religious compilation, but no reading is universally accepted.\n\n## For artists & game designers\nAnother fully-formed mystery script with matching pictures — a model for a 'found' sacred book in an invented faith.",
+   "citations": [
+    {"text": "Levente Zoltán Király & Gábor Tokai, studies of the Rohonc Codex (2018–2020)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pages_from_the_Rohonc_Codex.jpg"}
+   ],
+   "key_concepts": ["Rohonc Codex", "undeciphered script", "unknown alphabet", "possible forgery"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__dorabella-cipher",
+   "title": "The Dorabella Cipher (Edward Elgar, 1897)",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Edward Elgar",
+   "date": "1897",
+   "place": "England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "cipher note",
+    "semicircle symbols",
+    "rotated glyphs",
+    "personal cipher",
+    "undeciphered message",
+    "musical cryptography",
+    "secret writing",
+    "private code"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Dorabella-cipher-image.png",
+   "summary": "The Dorabella Cipher, a short enciphered note the composer Edward Elgar sent in 1897, still unsolved.\n\n## Iconography\nThree lines of an invented shorthand: a string of squiggles each made of one, two, or three semicircular pen-strokes set at varying angles, like rotated letter 'E's or fragments of arcs. Eighty-seven characters in all, with no spacing into obvious words.\n\n## Significance\nElgar sent the note to Dora Penny ('Dorabella'), a young friend, who never managed to read it; it has resisted cryptanalysts ever since. The glyphs appear to be a [[motif:rotated glyphs|rotation cipher]] of a small alphabet of arcs, but the message — too short to give cryptanalysts much purchase — remains undeciphered. Elgar's fondness for puzzles (he also embedded the 'Enigma' in his *Variations*) makes the cipher a beloved minor mystery of [[motif:secret writing|secret writing]].\n\n## For artists & game designers\nA tiny rotation-cipher font: arcs at set angles you can use for short, crackable in-game notes.",
+   "citations": [
+    {"text": "Jerrold Northrop Moore, *Edward Elgar: A Creative Life* (1984)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Dorabella-cipher-image.png"}
+   ],
+   "key_concepts": ["Dorabella Cipher", "Edward Elgar", "rotation cipher", "unsolved cipher"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__pigpen-cipher",
+   "title": "The Pigpen (Masonic) Cipher Grid",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous (Masonic / Rosicrucian tradition)",
+   "date": "symbol 18th c.; this rendering modern",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "pigpen cipher",
+    "masonic cipher",
+    "grid substitution",
+    "geometric glyphs",
+    "rosicrucian code",
+    "freemasons cipher",
+    "dot and line",
+    "secret writing"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Masonic_or_Pigpen_cipher_using_the_Grid_X_Grid_X_variant_that_was_widely_employed_in_Masonic_and_Rosicrucian_circles.png",
+   "summary": "A key to the Pigpen or Masonic cipher, the geometric grid-substitution code long used in Masonic and Rosicrucian circles.\n\n## Iconography\nThe diagram shows the construction grids — a pair of tic-tac-toe grids and a pair of X-shaped grids, some dotted — from whose cells each letter takes the shape of the lines (and dots) enclosing it. The resulting 'alphabet' is a set of angular, gate-like glyphs.\n\n## Significance\nThe [[motif:pigpen cipher|pigpen cipher]] (also 'Freemason's cipher') is a simple monoalphabetic [[motif:grid substitution|grid substitution]] in which letters are replaced by the fragment of grid surrounding them. Used by Freemasons to keep records private and engraved on Masonic gravestones, it appears across [[motif:rosicrucian code|Rosicrucian]] and fraternal contexts. Easily broken, it survives more as a badge of secrecy than as serious cryptography.\n\n## For artists & game designers\nThe most legible 'secret alphabet' to letter signage with: instantly readable as 'hidden writing' and trivially decodable by an engaged player.",
+   "citations": [
+    {"text": "David Kahn, *The Codebreakers* (1967)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Masonic_or_Pigpen_cipher_using_the_Grid_X_Grid_X_variant_that_was_widely_employed_in_Masonic_and_Rosicrucian_circles.png"}
+   ],
+   "key_concepts": ["pigpen cipher", "Masonic cipher", "grid substitution", "Rosicrucian code"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__shugborough",
+   "title": "The Shepherd's Monument, Shugborough (with the O.U.O.S.V.A.V.V. Inscription)",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous (after Poussin); Shugborough Estate",
+   "date": "mid-18th c.",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "cipher inscription",
+    "shepherds monument",
+    "et in arcadia ego",
+    "relief carving",
+    "unsolved letters",
+    "garden folly",
+    "poussin reversed",
+    "secret writing"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Shepherd%27s_Monument,_Shugborough_Estate_-_Staffordshire,_England_-_DSC00182.jpg",
+   "summary": "The Shepherd's Monument at Shugborough Hall, Staffordshire, carrying the unsolved O·U·O·S·V·A·V·V cipher inscription.\n\n## Iconography\nA carved stone relief — a mirror-reversed version of Poussin's *Et in Arcadia Ego*, in which shepherds gather at a tomb — is set into a rustic arch. Beneath it runs the enigmatic sequence of letters **O U O S V A V V**, framed by a **D** and **M**, that has never been satisfactorily decoded.\n\n## Significance\nThe [[motif:shepherds monument|Shepherd's Monument]] (c. 1748–1763) pairs an Arcadian tomb scene with a [[motif:cipher inscription|letter cipher]] whose meaning has eluded everyone from casual visitors to professional codebreakers, and even attracted Grail and Templar speculation. Proposed readings — a Latin devotional acrostic, a lover's memorial — remain conjectural, making it Britain's most famous monumental cipher.\n\n## For artists & game designers\nA landmark puzzle object: an outdoor carving whose letters seed a quest, with the reversed-painting motif as a built-in visual clue.",
+   "citations": [
+    {"text": "A. J. Morton, *The Shugborough Inscription* (research surveys, 2010s)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Shepherd%27s_Monument,_Shugborough_Estate_-_Staffordshire,_England_-_DSC00182.jpg"}
+   ],
+   "key_concepts": ["Shugborough inscription", "Shepherd's Monument", "Et in Arcadia Ego", "unsolved cipher"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__beale-cipher",
+   "title": "The Beale Papers (1885) — Cover of the Buried-Treasure Ciphers",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "Anonymous ('A Gentleman of Virginia')",
+   "date": "1885 (events purportedly 1820s)",
+   "place": "United States (Virginia)",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "book cipher",
+    "buried treasure",
+    "numbered cipher",
+    "declaration of independence key",
+    "pamphlet cover",
+    "unsolved cipher",
+    "treasure legend",
+    "secret writing"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Beale_Papers_(1885)_-_Cover.jpg",
+   "summary": "The printed cover of *The Beale Papers* (1885), the pamphlet that introduced the three Beale ciphers and their legend of buried treasure.\n\n## Iconography\nA plain letterpress pamphlet cover announces the contents: the story of a hidden Virginia treasure and the three sheets of numbers said to encode its location, value, and the names of the owners. The ciphers themselves are pages of strings of numbers.\n\n## Significance\nThe Beale ciphers are the classic American [[motif:book cipher|book cipher]] legend. Only the second sheet has been read — keyed to the United States [[motif:declaration of independence key|Declaration of Independence]], each number indexing a word whose first letter spells the plaintext — describing a buried hoard of gold and silver. The other two remain unsolved, and many cryptographers suspect the whole pamphlet is a nineteenth-century hoax. Solved or not, it shaped the popular image of the [[motif:treasure legend|treasure cipher]].\n\n## For artists & game designers\nA working book-cipher quest: a number-list keyed to a real public-domain text the player must identify to read the message.",
+   "citations": [
+    {"text": "*The Beale Papers* (Lynchburg, VA, 1885); David Kahn, *The Codebreakers* (1967)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Beale_Papers_(1885)_-_Cover.jpg"}
+   ],
+   "key_concepts": ["Beale ciphers", "book cipher", "buried treasure", "Declaration of Independence key"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "voynich_ciphers__alberti-disk",
+   "title": "The Alberti Cipher Disk",
+   "work": "The Voynich Manuscript & the Tradition of Occult Ciphers",
+   "creator": "after Leon Battista Alberti",
+   "date": "device c. 1467; this rendering modern",
+   "place": "Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "cipher disk",
+    "polyalphabetic cipher",
+    "rotating wheel",
+    "two concentric rings",
+    "alphabet wheel",
+    "encryption device",
+    "vigenere ancestor",
+    "secret writing"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:AlbertiDisk2.jpg",
+   "summary": "A reconstruction of the cipher disk devised by Leon Battista Alberti, the first mechanical aid to polyalphabetic encryption.\n\n## Iconography\nTwo concentric metal disks turn on a common pin: the fixed outer ring bears an ordered plaintext alphabet and numerals, the smaller movable inner ring a scrambled cipher alphabet. Aligning a chosen pair of letters sets a substitution; turning the inner disk mid-message switches to a new alphabet.\n\n## Significance\nAlberti described his [[motif:cipher disk|cipher disk]] around 1467 in *De cifris*, introducing the [[motif:polyalphabetic cipher|polyalphabetic principle]] — changing the substitution alphabet during a message — that made ciphers far harder to break and earned him the title 'father of Western cryptography.' His wheel is the direct ancestor of the Vigenère cipher and of the rotor machines that followed, the mechanical heart of the secret-writing tradition.\n\n## For artists & game designers\nA tactile encryption prop: a two-ring dial the player physically rotates to set and change a code, perfect for a hands-on cipher puzzle.",
+   "citations": [
+    {"text": "Leon Battista Alberti, *De componendis cifris* (c. 1467); David Kahn, *The Codebreakers* (1967)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:AlbertiDisk2.jpg"}
+   ],
+   "key_concepts": ["Alberti cipher disk", "polyalphabetic cipher", "Leon Battista Alberti", "Vigenère ancestor"],
+   "summary_status": "authored"
+  }
+ ]
+}

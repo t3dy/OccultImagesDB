@@ -1,0 +1,1193 @@
+{
+ "_note": "Topic domains of esoteric historiography, derived from the user's research DBs (RenMagDB, HermeticDB, MedievalMagicDB, PicoDB, TheosophicalAlchemyDB, GoetiaRevEng). Each topic matches images via {traditions, work_keys, motif_terms, ids}. status: 'live' (has images) | 'coming_soon' (roadmap; data-rich, images to be sourced).",
+ "topics": [
+  {
+   "key": "alchemy",
+   "name": "Alchemy",
+   "status": "live",
+   "blurb": "The royal art of transmutation — the Great Work in flask and soul.",
+   "summary": "The central and best-covered domain of the archive: the art of transmuting matter (and the self) toward perfection, from Hellenistic Egypt through the early-modern laboratory. Its emblem books, colour stages, and apparatus form the densest visual symbol-system in Western esotericism.",
+   "match": {
+    "traditions": [
+     "alchemy"
+    ],
+    "work_keys": [],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [
+    "emblem sequences",
+    "colour stages (nigredo/albedo/rubedo)",
+    "coniunctio",
+    "laboratory apparatus",
+    "prima materia",
+    "the philosophers' stone"
+   ],
+   "figures": [
+    "michael-maier",
+    "salomon-trismosin",
+    "pseudo-geber",
+    "george-ripley"
+   ],
+   "links": [
+    {
+     "label": "The Alchemy Website (Adam McLean)",
+     "url": "https://www.alchemywebsite.com/"
+    }
+   ]
+  },
+  {
+   "key": "hermeticism",
+   "name": "Hermeticism",
+   "status": "live",
+   "blurb": "The wisdom of Hermes Trismegistus — 'as above, so below'.",
+   "summary": "The philosophy of cosmic correspondence transmitted through the Corpus Hermeticum and the Emerald Tablet, rediscovered by Ficino in 1463. It gave alchemy and natural magic an ancient pedigree and a doctrine of macrocosm and microcosm — pictured most ambitiously in Fludd's cosmologies and Khunrath's circular plates.",
+   "match": {
+    "traditions": [
+     "hermetic"
+    ],
+    "work_keys": [
+     "cosmology",
+     "khunrath",
+     "fludd"
+    ],
+    "motif_terms": [
+     "macrocosm",
+     "microcosm",
+     "great chain of being"
+    ],
+    "ids": []
+   },
+   "subthemes": [
+    "macrocosm / microcosm",
+    "the Emerald Tablet",
+    "anima mundi",
+    "divine correspondence",
+    "the prisca theologia"
+   ],
+   "figures": [
+    "robert-fludd",
+    "heinrich-khunrath",
+    "john-dee"
+   ],
+   "links": [
+    {
+     "label": "SEP — Hermetism",
+     "url": "https://plato.stanford.edu/"
+    }
+   ]
+  },
+  {
+   "key": "ceremonial_goetia",
+   "name": "Ceremonial & Goetic Magic",
+   "status": "live",
+   "blurb": "Circles, seals, and the catalogues of spirits.",
+   "summary": "Operative ceremonial magic recorded in grimoires — protective circles, triangles of art, planetary talismans, and spirit-seals such as the 72 of the Lemegeton's Goetia. The practical, operative counterpart to alchemy's contemplative emblems; richly documented in the user's MedievalMagicDB and GoetiaRevEng.",
+   "match": {
+    "traditions": [
+     "goetia_grimoire"
+    ],
+    "work_keys": [
+     "grimoire_plates"
+    ],
+    "motif_terms": [
+     "magic circle",
+     "sigil",
+     "seal",
+     "goetia",
+     "solomon",
+     "pentacle"
+    ],
+    "ids": []
+   },
+   "subthemes": [
+    "summoning circles",
+    "spirit seals & sigils",
+    "the goetic hierarchy",
+    "planetary talismans",
+    "demonology"
+   ],
+   "figures": [],
+   "links": [
+    {
+     "label": "Wikipedia — Ars Goetia",
+     "url": "https://en.wikipedia.org/wiki/Ars_Goetia"
+    }
+   ]
+  },
+  {
+   "key": "rosicrucian",
+   "name": "Rosicrucianism",
+   "status": "live",
+   "blurb": "The brotherhood of the Rose Cross and its emblem code.",
+   "summary": "An early-17th-century current sparked by the Fama and Confessio manifestos, fusing alchemy, Hermeticism, and Christian mysticism. Its rose-and-cross and flaming-heart imagery (Cramer, Fludd, Maier) saturates the period's emblem books.",
+   "match": {
+    "traditions": [
+     "rosicrucian"
+    ],
+    "work_keys": [
+     "cramer"
+    ],
+    "motif_terms": [
+     "flaming heart",
+     "rose cross",
+     "rosicrucian"
+    ],
+    "ids": []
+   },
+   "subthemes": [
+    "Fama & Confessio",
+    "the flaming heart",
+    "spiritual alchemy",
+    "the Chymical Wedding"
+   ],
+   "figures": [
+    "daniel-cramer",
+    "robert-fludd"
+   ],
+   "links": [
+    {
+     "label": "Wikipedia — Rosicrucianism",
+     "url": "https://en.wikipedia.org/wiki/Rosicrucianism"
+    }
+   ]
+  },
+  {
+   "key": "kabbalah",
+   "name": "Kabbalah & Christian Cabala",
+   "status": "live",
+   "blurb": "The tree of emanations and the mysticism of the divine name.",
+   "summary": "Jewish mystical theosophy of the sefirot and the hidden names of God, adapted by Pico and Reuchlin into a Renaissance 'Christian Cabala'. Strongly represented in the user's PicoDB and RenMagDB; its visual grammar (Sephirotic trees, letter charts) is a priority for sourcing.",
+   "match": {
+    "traditions": [
+     "kabbalah"
+    ],
+    "work_keys": [],
+    "motif_terms": [
+     "sephiroth",
+     "tree of life",
+     "divine names",
+     "hebrew letters"
+    ],
+    "ids": []
+   },
+   "subthemes": [
+    "the Sephiroth",
+    "divine names",
+    "gematria & letter mysticism",
+    "the 72 names",
+    "Christian Cabala"
+   ],
+   "figures": [
+    "john-dee"
+   ],
+   "needs": "Source Sephirotic trees (Kircher, Fludd), Reuchlin/Pico diagrams, the Portae Lucis frontispiece.",
+   "links": [
+    {
+     "label": "SEP — Kabbalah",
+     "url": "https://plato.stanford.edu/"
+    }
+   ]
+  },
+  {
+   "key": "natural_magic",
+   "name": "Natural & Celestial Magic",
+   "status": "live",
+   "blurb": "Signatures, correspondences, and the magic of the stars.",
+   "summary": "Agrippa's tripartite magic — natural, celestial, ceremonial — built on the doctrine of signatures and sympathetic correspondence. Central to RenMagDB; visuals (talismans, signature-charts, Agrippa's tables) to be sourced.",
+   "match": {
+    "traditions": [],
+    "work_keys": [],
+    "motif_terms": [
+     "talisman",
+     "signature",
+     "planetary seal",
+     "correspondence"
+    ],
+    "ids": []
+   },
+   "subthemes": [
+    "doctrine of signatures",
+    "planetary talismans",
+    "celestial hours",
+    "sympathetic binding"
+   ],
+   "figures": [],
+   "needs": "Source Agrippa's De occulta philosophia tables & talismans, Porta's signatures, Paracelsian medical charts.",
+   "links": []
+  },
+  {
+   "key": "astrology",
+   "name": "Astrology",
+   "status": "live",
+   "blurb": "The zodiac, the planets, and the cosmic hours.",
+   "summary": "The reading of celestial influence — planetary attributes, zodiacal symbolism, elections, the mansions of the moon. Prominent across RenMagDB and PicoDB. Many alchemical plates already encode planetary symbolism; a dedicated astrological-image set is to be sourced.",
+   "match": {
+    "traditions": [
+     "astrology"
+    ],
+    "work_keys": [],
+    "motif_terms": [
+     "zodiac",
+     "planet",
+     "star",
+     "celestial",
+     "sun and moon"
+    ],
+    "ids": []
+   },
+   "subthemes": [
+    "planetary attributes",
+    "the zodiac",
+    "mansions of the moon",
+    "electional & medical astrology"
+   ],
+   "figures": [],
+   "needs": "Source zodiac charts, planetary deities (Mylius/Stolcius planetary plates can be reclassified here), astrolabe diagrams.",
+   "links": []
+  },
+  {
+   "key": "neoplatonism",
+   "name": "Neoplatonism",
+   "status": "live",
+   "blurb": "The One, the World-Soul, and the scale of being.",
+   "summary": "The metaphysical substrate of Renaissance magic: emanation from the One, the anima mundi, and the chain of correspondence from God to matter — Ficino's theurgy, Pico's syntheses. Text-rich in the user's DBs; cosmological visuals overlap with Hermeticism.",
+   "match": {
+    "traditions": [],
+    "work_keys": [],
+    "motif_terms": [
+     "anima mundi",
+     "great chain of being",
+     "emanation",
+     "spheres"
+    ],
+    "ids": []
+   },
+   "subthemes": [
+    "emanation & the One",
+    "the World-Soul",
+    "the scale of being",
+    "Ficinian theurgy"
+   ],
+   "figures": [
+    "robert-fludd"
+   ],
+   "needs": "Source Ficino/Bruno cosmologies, the celestial spheres diagrams.",
+   "links": []
+  },
+  {
+   "key": "enochian",
+   "name": "Enochian & Angelic Magic",
+   "status": "live",
+   "blurb": "John Dee's angelic language and tables.",
+   "summary": "The angel-communication system recorded by John Dee and Edward Kelley — the Enochian language, the watchtower tables, the Sigillum Dei Aemeth, and the Monas Hieroglyphica. Dee is a mega-figure across the user's DBs.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "enochian",
+     "enochian_dee"
+    ],
+    "motif_terms": [
+     "enochian",
+     "monas hieroglyphica",
+     "sigillum dei",
+     "watchtower",
+     "angelic table"
+    ],
+    "ids": []
+   },
+   "subthemes": [
+    "the Monas Hieroglyphica",
+    "watchtower tables",
+    "Sigillum Dei Aemeth",
+    "angelic alphabets"
+   ],
+   "figures": [
+    "john-dee"
+   ],
+   "needs": "Source the Monas glyph, Sigillum Dei Aemeth (Sloane MS), the Enochian tables.",
+   "links": [
+    {
+     "label": "Wikipedia — Enochian",
+     "url": "https://en.wikipedia.org/wiki/Enochian"
+    }
+   ]
+  },
+  {
+   "key": "witchcraft",
+   "name": "Witchcraft & Demonology",
+   "status": "live",
+   "blurb": "Demonic theory, the witch trials, and their skeptics.",
+   "summary": "The early-modern discourse of witchcraft and demonology — and its skeptics (Weyer, Scot). Present in RenMagDB and MedievalMagicDB. Visuals (witch-trial woodcuts, demonological frontispieces, the sabbath) are a sourcing priority.",
+   "match": {
+    "traditions": [
+     "witchcraft"
+    ],
+    "work_keys": [],
+    "motif_terms": [
+     "witch",
+     "sabbath",
+     "demon",
+     "devil"
+    ],
+    "ids": []
+   },
+   "subthemes": [
+    "demonic theory",
+    "the witches' sabbath",
+    "trial woodcuts",
+    "skeptical responses"
+   ],
+   "figures": [],
+   "needs": "Source Malleus Maleficarum / Compendium Maleficarum woodcuts, de Lancre's sabbath plate, Weyer/Scot frontispieces.",
+   "links": []
+  },
+  {
+   "key": "divination",
+   "name": "Divination & Augury",
+   "status": "live",
+   "blurb": "Geomancy, the cards, and the arts of foreknowledge.",
+   "summary": "The arts of foreknowledge — geomancy, chiromancy, scrying, and the early history of tarot. Catalogued in MedievalMagicDB's divinatory texts. A visual set (geomantic figures, palmistry charts, early tarot) is to be sourced.",
+   "match": {
+    "traditions": [
+     "divination"
+    ],
+    "work_keys": [],
+    "motif_terms": [
+     "geomancy",
+     "tarot",
+     "palmistry",
+     "scrying"
+    ],
+    "ids": []
+   },
+   "subthemes": [
+    "geomancy",
+    "chiromancy / palmistry",
+    "scrying",
+    "early tarot"
+   ],
+   "figures": [],
+   "needs": "Source geomantic figure charts, palmistry diagrams (Indagine), early tarot (Visconti / Marseille).",
+   "links": []
+  },
+  {
+   "key": "ancient-magic",
+   "name": "Ancient & Late-Antique Magic",
+   "status": "live",
+   "blurb": "Papyri, curse tablets, magical gems and amulets of the ancient world.",
+   "summary": "The operative magic of antiquity — the Greek Magical Papyri, defixiones, Abraxas and Chnoubis gems, Mesopotamian incantation bowls, and Egyptian protective amulets — the deep substrate from which later Western esotericism grew.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "greco_egyptian_magic",
+     "magical_gems",
+     "incantation_bowls",
+     "egyptian_magic"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "mystery-religions",
+   "name": "Mystery Religions",
+   "status": "live",
+   "blurb": "The initiatory cults of the Greco-Roman world.",
+   "summary": "Mithras and the tauroctony, the Eleusinian and Dionysiac mysteries, Orphic gold tablets, Isis and Serapis — the secret initiatory religions whose iconography fed the Western esoteric imagination.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "mystery_cults"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "reception",
+   "name": "Magic in Classical & Biblical Art",
+   "status": "live",
+   "blurb": "Ancient magic and biblical wonder-working as later artists pictured them.",
+   "summary": "No ancient illustration of Apuleius survives — but Circe, Medea, the Witch of Endor, the Fall of Simon Magus, and Moses against Pharaoh’s magicians were painted again and again. This domain catalogues the *subject* through its surviving depictions, dated to the artwork.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "classical_reception",
+     "biblical_magic"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "sacred-architecture",
+   "name": "Sacred Architecture & Geometry",
+   "status": "live",
+   "blurb": "Labyrinths, green men, rose windows and the magic built into stone.",
+   "summary": "The esoteric dimension of the built environment — cathedral labyrinths, Cosmati sacred-geometry floors, foliate Green Men, rose-window mandalas and the alchemical sculpture of Notre-Dame.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "sacred_architecture"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "ritual-objects",
+   "name": "Talismans, Gems & Ritual Objects",
+   "status": "live",
+   "blurb": "The three-dimensional instruments of magic.",
+   "summary": "Magic as material culture — astrolabes and armillary spheres, John Dee’s obsidian mirror and shew-stone, talismanic rings and seals, witch-bottles, the Hand of Glory, and the magical gems of antiquity.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "magical_objects",
+     "magical_gems"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "islamicate-magic",
+   "name": "Islamicate Occult Sciences",
+   "status": "live",
+   "blurb": "The astrology, alchemy and talismanic magic of the Arabic-Persian world.",
+   "summary": "The occult sciences (al-ʿulūm al-khafiyya) of the Islamicate world — the Book of Wonders and its jinn-kings, al-Qazwīnī’s cosmography, the Falnama’s divinatory paintings, Ottoman talismanic shirts, and the lettrist magic of al-Būnī. The conduit through which Greek astrology and alchemy reached the Latin West.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "islamicate_occult"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "northern-magic",
+   "name": "Norse & Germanic Magic",
+   "status": "live",
+   "blurb": "Runes, magical staves, and the seiðr of the North.",
+   "summary": "The magic of the Germanic and Norse world — runestones and curse-stones, gold bracteates, the Helm of Awe and the Icelandic galdrastafir of the Galdrabók and Huld manuscripts, Mjölnir amulets and the seeress’s seiðr.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "norse_germanic_magic"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "gnosticism",
+   "name": "Gnosticism & the Hermetica",
+   "status": "live",
+   "blurb": "The Nag Hammadi codices, Hermes Trismegistus, and the Gnostic cosmos.",
+   "summary": "The Gnostic and Hermetic textual traditions and their images — the Nag Hammadi codices and the Jung Codex, Manichaean cosmology, Mandaean ritual, and the figure of Hermes Trismegistus from the Siena pavement to the printed Pimander.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "gnostic_hermetic"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "freemasonry",
+   "name": "Freemasonry & Secret Societies",
+   "status": "live",
+   "blurb": "Tracing boards, the All-Seeing Eye, and fraternal esoteric symbolism.",
+   "summary": "The symbolic system of Freemasonry and the fraternal orders — tracing boards, the Square and Compasses, the All-Seeing Eye, the pillars Jachin and Boaz, and the Hiramic legend — a living heir of the Hermetic-Rosicrucian tradition.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "freemasonry"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "spiritualism",
+   "name": "Spiritualism & the Occult Revival",
+   "status": "live",
+   "blurb": "Spirit photography, ectoplasm, Ouija, and Theosophical thought-forms.",
+   "summary": "The modern occult revival and Spiritualist movement (1850s–1920s) — Mumler’s spirit photographs, séance ectoplasm, the Ouija board and planchette, the Cottingley fairies, and the Theosophical aura-diagrams and Thought-Forms.",
+   "match": {
+    "traditions": [
+     "theosophy"
+    ],
+    "work_keys": [
+     "spiritualism_seance"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "eastern-esotericism",
+   "name": "Asian Esoteric Traditions",
+   "status": "live",
+   "blurb": "Taoist talismans, tantric yantras, mandalas, and the I Ching.",
+   "summary": "The esoteric and magical traditions of Asia — Taoist internal-alchemy body-maps and fú talismans, the bagua and the I Ching, Tibetan Buddhist mandalas and wrathful deities, Hindu tantric yantras and the subtle body, and Japanese onmyōdō.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "eastern_esoterica"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "apocalyptic-visionary",
+   "name": "Apocalyptic & Visionary Art",
+   "status": "live",
+   "blurb": "Revelation, the Beatus beasts, Dürer’s Apocalypse, and Blake’s prophetic vision.",
+   "summary": "The visionary and apocalyptic seam of Western art — the Beatus commentaries and the Angers Tapestry, Dürer’s Apocalypse woodcuts, the Whore of Babylon and the seven-headed Beast, and William Blake’s prophetic books, the supreme esoteric-visionary art of the modern age.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "apocalypse_revelation",
+     "blake_visionary"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "death-macabre",
+   "name": "Death, the Macabre & Memento Mori",
+   "status": "live",
+   "blurb": "The Dance of Death, the ars moriendi, and the alchemy of mortification.",
+   "summary": "The art of death as an esoteric mirror — the Danse Macabre and the Triumph of Death, the demon-haunted ars moriendi, vanitas and transi tombs, and the alchemical nigredo of putrefaction and rebirth.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "death_macabre"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "folk-magic",
+   "name": "Folk Magic & the Apotropaic",
+   "status": "live",
+   "blurb": "Witch-marks, charms, the evil eye, and everyday protective magic.",
+   "summary": "The everyday occult of cunning-folk and protective practice — apotropaic daisy-wheels and witch-marks, hex signs, the evil eye and the cornicello, poppets and hag-stones, the SATOR square and abracadabra charms, and the powwow charm-books.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "folk_magic"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "ceremonial-revival",
+   "name": "The Ceremonial-Magic Revival",
+   "status": "live",
+   "blurb": "Lévi, the Golden Dawn, and the occult tarot of the 19th century.",
+   "summary": "The 19th-century revival of ceremonial magic — Éliphas Lévi’s pentagram and magical figures, the Golden Dawn’s Rose Cross and Tree of Life, Oswald Wirth’s and the Sola-Busca tarot, and the esoteric orders that carried the tradition into the modern world.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "occult_revival"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "sacred-geometry",
+   "name": "Sacred Geometry & Number",
+   "status": "live",
+   "blurb": "The Vitruvian man, the Platonic solids, and the geometry of the cosmos.",
+   "summary": "Number and form as the hidden architecture of reality — the Vitruvian microcosm, Kepler’s nested Platonic solids, the divine proportion, the vesica piscis, squaring the circle, and the harmony of the spheres.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "sacred_geometry"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "hermetic-egypt",
+   "name": "Hermetic Egypt & Egyptosophy",
+   "status": "live",
+   "blurb": "The Renaissance dream of Egypt — Kircher, the Bembine Tablet, the obelisks.",
+   "summary": "The Hermetic reception of Egyptian wisdom that underlay Western esotericism: the Mensa Isiaca, Kircher’s hieroglyphic reconstructions, the obelisks of Rome read as occult monuments, and Hermes Trismegistus as Egyptian sage.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "hermetic_egypt"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "mesoamerican-codices",
+   "name": "Mesoamerican Divinatory Codices",
+   "status": "live",
+   "blurb": "The tonalpohualli, the day-signs, and the cosmograms of the Aztec & Maya books.",
+   "summary": "The divinatory and magico-religious codices of Mesoamerica — the Codex Borgia and Fejérváry-Mayer, the tonalpohualli day-count, the lords of the night, the Dresden Codex Venus tables, and the deities of fate.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "mesoamerican_divination"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "emblem-tradition",
+   "name": "The Emblem & the Hidden Image",
+   "status": "live",
+   "blurb": "Alciato, Ripa, the hieroglyph, and the theory of the symbolic image.",
+   "summary": "The emblem tradition and the theory of the meaningful image that is the matrix of esoteric visual language — Alciato’s founding emblems, Ripa’s personifications, the Renaissance hieroglyph, and the allegorical frontispieces of the occult book.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "emblemata"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "theosophy",
+   "name": "Theosophy & the Modern Esoteric",
+   "status": "live",
+   "blurb": "Blavatsky, the root-races, thought-forms and the aura.",
+   "summary": "The Theosophical synthesis and its diagrams — Blavatsky’s Secret Doctrine cosmology, the planetary chains and root-races, Besant & Leadbeater’s thought-forms and aura-bodies, and Steiner’s blackboard cosmology.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "theosophy_diagrams"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "magical-creatures",
+   "name": "The Esoteric Bestiary",
+   "status": "live",
+   "blurb": "Dragons, the phoenix, the basilisk, and the alchemical menagerie.",
+   "summary": "The magical and alchemical bestiary — the green lion and the tail-devouring dragon, the phoenix of the rubedo, the salamander in the fire, the basilisk and cockatrice, the unicorn-hunt allegory, the mandrake, and the monsters of Aldrovandi and Paré.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "magical_creatures"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "portents",
+   "name": "Portents, Prodigies & Wonders",
+   "status": "live",
+   "blurb": "Comets, monstrous births, and signs in the heavens.",
+   "summary": "The occult reading of signs — the Augsburg Book of Miracles, comet and parhelion broadsheets, the sky-battles and blood-rains, and the monstrous births read as divine and astrological prodigies.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "portents_wonders"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "personifications",
+   "name": "Allegory & Personification",
+   "status": "live",
+   "blurb": "Ripa’s Iconologia — how Europe learned to picture ideas.",
+   "summary": "The art of personification that gave esoteric thought its visual vocabulary — Cesare Ripa’s Iconologia, where Magic, Alchemy, Astrology, the Soul, Melancholy and the Elements each take human form.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "ripa_iconologia"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "the-divinatory-body",
+   "name": "The Divinatory Body",
+   "status": "live",
+   "blurb": "Physiognomy, palmistry, metoposcopy — reading fate in the flesh.",
+   "summary": "The arts that read character and destiny in the body — Lavater’s physiognomy and della Porta’s animal-comparisons, the palmist’s mounts and lines, metoposcopy’s planetary forehead-signs, and the zodiac-man of medical astrology.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "physiognomy_chiromancy"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "hieroglyphica",
+   "name": "The Renaissance Hieroglyph",
+   "status": "live",
+   "blurb": "Horapollo, Valeriano, Cartari — the image as hidden wisdom.",
+   "summary": "The Renaissance theory of the hieroglyph and mythography — Horapollo and Valeriano’s Hieroglyphica, Cartari’s allegorized gods, the Hypnerotomachia’s hieroglyphic frieze, and Aldus’s festina lente — the conviction that the image encodes divine truth.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "renaissance_hieroglyphs"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "ciphers",
+   "name": "Ciphers & the Voynich",
+   "status": "live",
+   "blurb": "Secret writing, the Voynich Manuscript, and the cryptographic occult.",
+   "summary": "The occult of the unreadable — the Voynich Manuscript’s herbal, zodiac and rosette pages, Trithemius’s angel-ciphers and the Steganographia, John Dee’s cipher tables, and the undeciphered codices that promise hidden wisdom.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "voynich_ciphers"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "african-divination",
+   "name": "African & Diaspora Divination",
+   "status": "live",
+   "blurb": "Ifá, Adinkra, the nkisi, and the sign-systems of Africa.",
+   "summary": "The divinatory and ritual sign-systems of Africa and its diaspora — Yoruba Ifá and the opon-tray, the Akan Adinkra ideograms, Kongo nkisi power-figures, Chokwe sand-drawings, and cowrie divination.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "african_divination"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "christian-charms",
+   "name": "Christian Apotropaic Magic",
+   "status": "live",
+   "blurb": "The Agnus Dei, the Benedict medal, and holy charms against evil.",
+   "summary": "The protective magic at the edge of religion — the Agnus Dei wax, the breverl amulet-packet, the cross of St Benedict and the Zachariassegen, the IHS monogram, and the saints invoked against plague and storm.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "christian_apotropaic"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "talismanic-magic",
+   "name": "Talismanic & Astral Magic",
+   "status": "live",
+   "blurb": "The kameas, the lunar mansions, and the images that draw down the stars.",
+   "summary": "The astral-magical art of the talisman — the planetary magic-squares (kameas) and their seals, the Picatrix figures, the 28 lunar mansions and the 36 decans, and the engraved images by which the power of the heavens was bound into matter.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "talismanic_astrology"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "occult-botany",
+   "name": "The Occult Herbal",
+   "status": "live",
+   "blurb": "The mandrake, the doctrine of signatures, and the witches’ plants.",
+   "summary": "The magical pharmacopoeia — the anthropomorphic mandrake and the dog that uproots it, the doctrine of signatures, and the henbane, belladonna and aconite of the witches’ flying-ointment.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "occult_botany"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "mesmerism",
+   "name": "Mesmerism & Animal Magnetism",
+   "status": "live",
+   "blurb": "The invisible fluid, the baquet, and the magnetic trance.",
+   "summary": "The occult science of the invisible fluid — Mesmer’s baquet and magnetic passes, the somnambulist trance, the satirical war over animal magnetism, and Reichenbach’s odic force — the bridge from the old magic to modern hypnotism.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "mesmerism_magnetism"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "fortune-fate",
+   "name": "Fortune, Fate & Time",
+   "status": "live",
+   "blurb": "The Wheel of Fortune, the three Fates, and Father Time.",
+   "summary": "The personified powers of destiny — the turning Wheel of Fortune, blindfold Fortuna with her sphere and rudder, the three Fates spinning and cutting the thread, Kairos the bald-headed Opportunity, and Time with his scythe.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "fortune_fate"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "alchemist-at-work",
+   "name": "The Alchemist’s Laboratory",
+   "status": "live",
+   "blurb": "Teniers, Wright of Derby, and the human face of the Great Work.",
+   "summary": "The laboratory genre — the alchemist amid his furnaces and flasks, from Bruegel’s ruined family and the deluded souffleur to Wright of Derby’s discovery of phosphorus — the Great Work as lived labour.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "alchemist_laboratory"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "bosch-bruegel",
+   "name": "Bosch, Bruegel & the Demonic Fantastic",
+   "status": "live",
+   "blurb": "The hell-mouths, hybrid monsters and visionary nightmares of the Netherlandish masters.",
+   "summary": "The supreme imagery of hell and temptation — Bosch’s Garden of Earthly Delights and his hybrid demons, Bruegel’s Dulle Griet before the mouth of Hell, the Fall of the Rebel Angels, and the demon-haunted allegories of the Seven Deadly Sins.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "bosch_bruegel"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "elementals",
+   "name": "Paracelsus & the Elementals",
+   "status": "live",
+   "blurb": "Gnomes, undines, sylphs and salamanders — the spirits of the four elements.",
+   "summary": "Paracelsus’s esoteric medicine and the beings of the four elements — the earth-gnome, the water-undine, the air-sylph and the fire-salamander — with the homunculus, the tria prima, and the doctrine of signatures.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "paracelsian_elementals"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "lot-books",
+   "name": "Lot-Books & Oracles",
+   "status": "live",
+   "blurb": "Fortune-wheels, dice-oracles, and the books of fate.",
+   "summary": "The divinatory game and the book of fate — the fortune-wheel lot-books, the geomantic figures and dice-oracles, the Sphere of Life and Death, the Sibylline books, and the talking board.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "lot_books_oracles"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "astrological-medicine",
+   "name": "Astrological Medicine",
+   "status": "live",
+   "blurb": "The Zodiac Man, the Wound Man, and the body ruled by the stars.",
+   "summary": "The body as a map of the heavens — the Zodiac Man and the bloodletting almanac, the Wound Man stuck with every weapon, the uroscopy wheel, and the planets that govern each organ.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "astrological_medicine"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "secret-societies",
+   "name": "Secret Societies & Initiatic Orders",
+   "status": "live",
+   "blurb": "The Illuminati, the Martinists, and the orders beyond the lodge.",
+   "summary": "The initiatic orders beyond craft Masonry — the Bavarian Illuminati and its Minerval owl, the Martinists and Élus Coëns, the Gold- und Rosenkreuzer, Cagliostro’s Egyptian Rite, and the conspiracy-emblem of the eye in the pyramid.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "secret_societies"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "lycanthropy",
+   "name": "Werewolves, Vampires & the Undead",
+   "status": "live",
+   "blurb": "The night-terrors — the shapeshifter, the revenant, and the Wild Hunt.",
+   "summary": "The folklore of the monstrous night — the werewolf and the lycanthrope, the vampire and the staked revenant, the mare pressing the sleeper, the Wild Hunt riding the storm, and Lilith the night-demon.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "lycanthropy_undead"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "prophecy",
+   "name": "Prophecy & Apocalyptic Figurae",
+   "status": "live",
+   "blurb": "Joachim of Fiore, the Vaticinia, Nostradamus, and the diagrams of sacred history.",
+   "summary": "The visionary diagrams of prophecy — Joachim of Fiore’s seven-headed dragon and trinitarian wheels, the prophetic pope-images of the Vaticinia, Nostradamus and the Sibylline books, and the broadsheets that read the end of days in the signs of the age.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "prophecy_figurae"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "temple-cosmos",
+   "name": "The Temple as Cosmos",
+   "status": "live",
+   "blurb": "Solomon’s Temple, the Tabernacle, and sacred architecture as a model of the universe.",
+   "summary": "Sacred architecture as a diagram of the cosmos — Villalpando’s reconstruction of Solomon’s Temple, the desert Tabernacle and the camp of Israel, the pillars Jachin and Boaz, the Ark and cherubim, and the heavenly Jerusalem.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "temple_cosmos"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "kircher",
+   "name": "Kircher’s Universal Knowledge",
+   "status": "live",
+   "blurb": "Mundus Subterraneus, the harmony of the world, and the Baroque machine of wisdom.",
+   "summary": "Athanasius Kircher’s encyclopedic esotericism — the central fire of the Mundus Subterraneus, the optics of light and shadow, the divine organ of the Musurgia, the magnetic cosmos, and the hieroglyphic China.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "kircher_universe"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "harmony-spheres",
+   "name": "The Music of the Spheres",
+   "status": "live",
+   "blurb": "Pythagoras, Gaffurio, Fludd — the cosmos as a tuned instrument.",
+   "summary": "The Pythagorean-Platonic doctrine that the cosmos is music — Pythagoras discovering the ratios at the forge, Gaffurio’s planetary modes and the serpent of the spheres, Fludd’s Temple of Music, and the harmony of the heavenly scale.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "harmony_spheres"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "cosmic-machines",
+   "name": "Cosmic Machines & Astronomical Clocks",
+   "status": "live",
+   "blurb": "The Prague Orloj, the astrarium, and the universe as a mechanism.",
+   "summary": "The cosmos rendered as a working machine — the great astronomical cathedral clocks with their zodiac dials and automata, the geared Antikythera mechanism, the equatorium and torquetum, and the planetarium that turns the heavens by clockwork.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "cosmic_machines"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  },
+  {
+   "key": "eastern-amulets",
+   "name": "Byzantine & Jewish Amulets",
+   "status": "live",
+   "blurb": "The Holy Rider, the womb-demon, and the charms of the Eastern Mediterranean.",
+   "summary": "The protective amulets of the late-antique and medieval East — the Holy Rider spearing the demon, the much-suffering evil-eye, the womb-amulets against Abyzou, and the Jewish kameot guarding mother and child against Lilith.",
+   "match": {
+    "traditions": [],
+    "work_keys": [
+     "byzantine_jewish_amulets"
+    ],
+    "motif_terms": [],
+    "ids": []
+   },
+   "subthemes": [],
+   "figures": [],
+   "links": []
+  }
+ ]
+}

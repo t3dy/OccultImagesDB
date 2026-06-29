@@ -1,0 +1,495 @@
+{
+ "_work": {
+  "key": "mesmerism_magnetism",
+  "short_id": "MESM",
+  "title": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+  "creator": "various",
+  "date": "1779–1880",
+  "century": 18,
+  "place": "France, German lands & England",
+  "region": "France",
+  "language": "French, German & English",
+  "era": "modern",
+  "tradition": "theosophy",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "mesmerism_magnetism",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Animal_magnetism",
+  "rights": "Public domain / CC0 / CC BY 4.0 (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "animal magnetism",
+   "the baquet",
+   "magnetic pass",
+   "magnetic crisis",
+   "somnambulism",
+   "invisible fluid"
+  ],
+  "blurb": "Prints, portraits, caricatures, and objects from the heyday of mesmerism and animal magnetism, c. 1779–1880: Franz Anton Mesmer and his magnetic tub (the baquet), the magnetizer's passes and the convulsive 'crisis', Puységur's artificial somnambulism, the satirical assault on the 'magnetic' craze and the 1784 royal commissions, Reichenbach's odic force, James Braid's hypnotism, Charcot at the Salpêtrière, and the adjacent sciences of physiognomy and phrenology — a whole vocabulary of the invisible fluid coursing through the nervous body."
+ },
+ "entries": [
+  {
+   "id": "mesmerism_magnetism__mesmer-portrait",
+   "title": "Portrait of Franz Anton Mesmer",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Anonymous",
+   "date": "late 18th c.",
+   "place": "Vienna / Paris",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "franz anton mesmer",
+    "physician portrait",
+    "animal magnetism",
+    "enlightenment medicine",
+    "magnetizer",
+    "engraved likeness",
+    "powdered wig",
+    "invisible fluid"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Friedrich_Anton_Mesmer.jpg",
+   "summary": "A portrait of Franz Anton Mesmer (1734–1815), the Viennese physician whose theory of 'animal magnetism' gave its name to mesmerism.\n\n## Iconography\nA half-length likeness of a gentleman-physician of the Enlightenment, in powdered wig and formal coat, gazing out with composed authority. The print is the standard frontispiece type by which Mesmer was circulated to a curious public.\n\n## Significance\nMesmer proposed that an invisible, magnetic-like [[motif:invisible fluid|fluid]] pervaded all bodies and that illness arose from its obstruction; the healer could redirect it by 'magnetizing' the patient. Trained in Vienna and famous in 1780s Paris, he became the storm-centre of a craze that two royal commissions (1784) investigated and dismissed. Whatever the verdict on the fluid, his practice opened the road from magnetic 'crisis' to somnambulism, suggestion, and ultimately hypnosis.\n\n## For artists & game designers\nA charismatic-doctor archetype: the authoritative healer whose 'cures' blur the line between medicine, theatre, and the occult.",
+   "citations": [
+    {"text": "Robert Darnton, *Mesmerism and the End of the Enlightenment in France* (1968)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Friedrich_Anton_Mesmer.jpg"}
+   ],
+   "key_concepts": ["Franz Anton Mesmer", "animal magnetism", "invisible fluid", "Enlightenment medicine"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__baquet-session",
+   "title": "Mesmer's Animal Magnetism Therapy (The Baquet)",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Anonymous",
+   "date": "late 18th–19th c.",
+   "place": "Paris / France",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "the baquet",
+    "magnetic tub",
+    "group therapy",
+    "iron rods",
+    "magnetic crisis",
+    "salon seance",
+    "animal magnetism",
+    "magnetic rapport"
+   ],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mesmer%27s_animal_magnetism_therapy_Wellcome_V0011096.jpg",
+   "summary": "A scene of Mesmer's collective therapy around the *baquet*, the magnetic tub at the heart of his Paris clinic (Wellcome Collection).\n\n## Iconography\nPatients ring a low covered tub from which protrude bent iron rods; sitters press the rods to afflicted parts of the body, some linked by a connecting cord to share the [[motif:magnetic rapport|magnetic rapport]]. Attendants move among them as one or two slump into the convulsive [[motif:magnetic crisis|crisis]].\n\n## Significance\nThe [[motif:the baquet|baquet]] was Mesmer's machine for distributing the [[motif:invisible fluid|invisible fluid]] to many patients at once — an oak vat filled with 'magnetized' water, iron filings, and glass, its rods conducting the supposed influence into the body. The room, with its dim light, music, and chains of joined hands, staged a powerful collective suggestion that produced fits, trances, and reported cures.\n\n## For artists & game designers\nA ritual-machine set piece: a central apparatus that channels an unseen force to a circle of linked participants, with crisis as the visible 'effect'.",
+   "citations": [
+    {"text": "Robert Darnton, *Mesmerism and the End of the Enlightenment in France* (1968)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mesmer%27s_animal_magnetism_therapy_Wellcome_V0011096.jpg"}
+   ],
+   "key_concepts": ["the baquet", "magnetic crisis", "magnetic rapport", "collective therapy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__baquet-view",
+   "title": "An Authentic Baquet de Mesmer (Surviving Object)",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Anonymous (photographed by Romainbehar)",
+   "date": "object late 18th c.; photograph modern",
+   "place": "Bibliothèque municipale de Lyon / France",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "the baquet",
+    "magnetic tub",
+    "surviving apparatus",
+    "iron rods",
+    "oak vat",
+    "museum object",
+    "animal magnetism",
+    "instrument of cure"
+   ],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lyon_3e_-_Biblioth%C3%A8que_municipale_de_Lyon_-_Authentique_baquet_de_Mesmer_01.jpg",
+   "summary": "A photograph of a surviving *baquet de Mesmer*, a rare physical example of the magnetic tub preserved at the Bibliothèque municipale de Lyon.\n\n## Iconography\nA low circular wooden vat, its lid pierced for the jointed iron rods that patients once applied to their bodies. Seen as an object rather than a scene, it shows the plain cooper's construction beneath the era's extravagant claims.\n\n## Significance\nFew genuine baquets survive, so this object anchors the mesmeric craze in material fact: an oak tub that, filled with 'magnetized' water, bottles, and iron filings, was held to store and dispense the [[motif:invisible fluid|animal-magnetic fluid]]. Where engravings show the [[motif:the baquet|baquet]] amid swooning crowds, the surviving artefact reveals the modest apparatus that focused so much Enlightenment controversy.\n\n## For artists & game designers\nA 'relic' prop: the actual device, weathered and demystified, that a player might recover and study apart from the spectacle that surrounded it.",
+   "citations": [
+    {"text": "Robert Darnton, *Mesmerism and the End of the Enlightenment in France* (1968)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lyon_3e_-_Biblioth%C3%A8que_municipale_de_Lyon_-_Authentique_baquet_de_Mesmer_01.jpg"}
+   ],
+   "key_concepts": ["the baquet", "magnetic tub", "surviving apparatus", "animal magnetism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__animal-magnetism",
+   "title": "A Practitioner of Mesmerism Using Animal Magnetism",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Anonymous",
+   "date": "early 19th c.",
+   "place": "France / England",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "magnetic pass",
+    "magnetizer",
+    "magnetic rapport",
+    "seated patient",
+    "outstretched hands",
+    "animal magnetism",
+    "induced trance",
+    "fluidic influence"
+   ],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A_practictioner_of_Mesmerism_using_Animal_Magnetism_Wellcome_V0011094.jpg",
+   "summary": "A print of a mesmerist at work, directing animal magnetism upon a seated patient through the characteristic passes of the hands (Wellcome Collection).\n\n## Iconography\nThe magnetizer leans toward a seated subject, hands extended toward the patient's head and torso, fingers spread to project the fluid. The patient's posture — head tilted, eyes closing — signals the onset of the magnetic state.\n\n## Significance\nThe [[motif:magnetic pass|magnetic pass]] was the basic technique of the operator: slow sweeping motions of the hands along the body, supposed to channel the [[motif:invisible fluid|fluid]] from magnetizer to patient and establish the [[motif:magnetic rapport|rapport]] that bound them. The image distils the whole practice to its essential gesture — the willed, fingertip transmission of an unseen force.\n\n## For artists & game designers\nA spell-casting pose ready for animation: hands that emit an invisible influence, the target's reaction keyed to the operator's gestures.",
+   "citations": [
+    {"text": "Alison Winter, *Mesmerized: Powers of Mind in Victorian Britain* (1998)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:A_practictioner_of_Mesmerism_using_Animal_Magnetism_Wellcome_V0011094.jpg"}
+   ],
+   "key_concepts": ["magnetic pass", "magnetizer", "magnetic rapport", "animal magnetism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__magnetic-sleep",
+   "title": "The Magnetic Pass, the Mesmeric Sleep",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Anonymous",
+   "date": "19th c.",
+   "place": "England / France",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "mesmeric sleep",
+    "magnetic pass",
+    "somnambulism",
+    "induced trance",
+    "magnetizer",
+    "closed eyes",
+    "magnetic rapport",
+    "lucid sleep"
+   ],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_magnetic_pass,_the_Mesmeric_sleep._19th_century._Wellcome_L0009938.jpg",
+   "summary": "A nineteenth-century print depicting the magnetic pass inducing the 'Mesmeric sleep', the artificial somnambulic state (Wellcome Collection).\n\n## Iconography\nThe operator makes a downward pass before the face of a subject who has sunk, eyes closed, into trance. The composition isolates the moment of transition from waking to the lucid magnetic sleep.\n\n## Significance\nThe '[[motif:mesmeric sleep|magnetic sleep]]' or [[motif:somnambulism|artificial somnambulism]] was the deeper state that displaced the early convulsive crisis as the prized phenomenon of magnetism. In it subjects appeared asleep yet responsive, sometimes credited with clairvoyance or insensibility to pain. This 'lucid sleep' is the direct ancestor of the hypnotic trance that Braid would later rename.\n\n## For artists & game designers\nA trance-induction beat: the precise gesture and the subject's collapse into a controllable sleep state — a mechanic for charm or interrogation.",
+   "citations": [
+    {"text": "Alison Winter, *Mesmerized: Powers of Mind in Victorian Britain* (1998)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_magnetic_pass,_the_Mesmeric_sleep._19th_century._Wellcome_L0009938.jpg"}
+   ],
+   "key_concepts": ["mesmeric sleep", "artificial somnambulism", "magnetic pass", "lucid sleep"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__magnetizer",
+   "title": "De magnetiseur (The Magnetizer), Jan Jozef Verhaghen",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Jan Jozef Verhaghen (1726–1795)",
+   "date": "later 18th c.",
+   "place": "Flanders",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "magnetizer",
+    "magnetic pass",
+    "genre painting",
+    "domestic scene",
+    "induced trance",
+    "magnetic rapport",
+    "healer at work",
+    "animal magnetism"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jan_Jozef_Verhaghen._De_magnetiseur,_GD019073.jpg",
+   "summary": "*De magnetiseur* (The Magnetizer) by the Flemish painter Jan Jozef Verhaghen, a genre depiction of a magnetic operator and his subject.\n\n## Iconography\nA painted interior in which a magnetizer attends a seated figure, hands engaged in the work of the passes, observers looking on. The treatment is that of eighteenth-century genre painting, lending the new practice the intimacy of a domestic scene.\n\n## Significance\nThat a Flemish painter took the [[motif:magnetizer|magnetizer]] as a genre subject shows how quickly animal magnetism entered the visual culture of the Low Countries and German lands as well as France. The work records the magnetic encounter not as caricature but as an everyday act of healing, the operator bending his will and hands to the transfer of the [[motif:invisible fluid|fluid]].\n\n## For artists & game designers\nA warmly lit reference for a 'magnetic consultation' scene — useful when the mood wanted is healing and intimacy rather than spectacle or fraud.",
+   "citations": [
+    {"text": "Robert Darnton, *Mesmerism and the End of the Enlightenment in France* (1968)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Jan_Jozef_Verhaghen._De_magnetiseur,_GD019073.jpg"}
+   ],
+   "key_concepts": ["magnetizer", "magnetic pass", "genre painting", "animal magnetism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__magnetisme-satire",
+   "title": "Les Effets du Magnétisme animal (French Satire)",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Anonymous (French printmaker)",
+   "date": "1780s",
+   "place": "Paris / France",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "caricature",
+    "satire of magnetism",
+    "the baquet",
+    "magnetic crisis",
+    "credulity",
+    "social comedy",
+    "animal magnetism",
+    "magnetizer"
+   ],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:French_satire;_%27Les_Effets_du_Magnetisme.....animal%27._Wellcome_M0018514.jpg",
+   "summary": "A French satirical print, *Les Effets du Magnétisme animal*, lampooning the fashionable craze for animal magnetism (Wellcome Collection).\n\n## Iconography\nA crowded, comic scene of magnetism's 'effects': sitters around a tub, some swooning, others making free under cover of the trance, the operator presiding over a room of theatrical excess. The crisis is played for ridicule rather than awe.\n\n## Significance\nThe magnetic vogue drew a flood of [[motif:caricature|caricature]] that mocked the [[motif:credulity|credulity]] of fashionable Paris and hinted broadly at the erotic licence the darkened séances afforded. Such satires, sharpened after the 1784 royal commissions ruled the fluid imaginary, made mesmerism a byword for fraud and folly even as the practice spread.\n\n## For artists & game designers\nA comic-relief tableau: the same ritual rendered as farce, exposing the gap between the operator's claims and what the crowd is really up to.",
+   "citations": [
+    {"text": "Robert Darnton, *Mesmerism and the End of the Enlightenment in France* (1968)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:French_satire;_%27Les_Effets_du_Magnetisme.....animal%27._Wellcome_M0018514.jpg"}
+   ],
+   "key_concepts": ["caricature", "satire of magnetism", "credulity", "1784 royal commission"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__mesmerism-caricature",
+   "title": "Le Mesmérisme Confondu (Caricature)",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Anonymous (French printmaker)",
+   "date": "1784–85",
+   "place": "Paris / France",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "caricature",
+    "satire of magnetism",
+    "mesmerism confounded",
+    "1784 commission",
+    "debunking",
+    "the baquet",
+    "credulity",
+    "magnetizer"
+   ],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Caricature;_Le_Mesmerisme_Confondu._Wellcome_L0000475.jpg",
+   "summary": "*Le Mesmérisme Confondu* ('Mesmerism Confounded'), a caricature celebrating the discrediting of animal magnetism (Wellcome Collection).\n\n## Iconography\nA satirical composition in which the apparatus and adepts of magnetism are thrown into disarray, the print's title announcing the rout of the doctrine. Figures scatter from the tub as the pretensions of the magnetizers collapse.\n\n## Significance\nThe royal commissions of 1784 — one including Benjamin Franklin, Lavoisier, and the physician Guillotin — tested magnetism by blinded trials and concluded its effects came from [[motif:credulity|imagination]], not any fluid. Prints like '[[motif:mesmerism confounded|Le Mesmérisme Confondu]]' turned that verdict into popular ridicule, a landmark in the history of placebo and of debunking by controlled experiment.\n\n## For artists & game designers\nA 'reveal' panel: the moment a celebrated power is publicly exposed, the believers fleeing as the apparatus is shown to be empty.",
+   "citations": [
+    {"text": "Robert Darnton, *Mesmerism and the End of the Enlightenment in France* (1968)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Caricature;_Le_Mesmerisme_Confondu._Wellcome_L0000475.jpg"}
+   ],
+   "key_concepts": ["caricature", "1784 royal commission", "debunking", "imagination"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__le-magnetisme",
+   "title": "Le magnétisme animal, Mesmer ou les sots (Fleuron)",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Louis-Nicolas Mareschal",
+   "date": "1780s",
+   "place": "Paris / France",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "title vignette",
+    "fleuron",
+    "satire of magnetism",
+    "mesmer or the fools",
+    "printed ornament",
+    "animal magnetism",
+    "credulity",
+    "engraved headpiece"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Le_magnetisme_animal,_Mesmer_ou_les_sots_Fleuron_T113448-3.png",
+   "summary": "An engraved vignette (fleuron) from *Le magnétisme animal, Mesmer ou les sots* — 'Animal Magnetism, Mesmer or the Fools' — by Louis-Nicolas Mareschal.\n\n## Iconography\nA small printer's headpiece ornament from the title-matter of a satirical pamphlet, the kind of engraved fleuron set above the text. The very title yokes Mesmer to 'les sots', the fools who follow him.\n\n## Significance\nThe pamphlet war over magnetism produced not only large caricatures but a stream of cheap printed satire whose [[motif:fleuron|ornamental vignettes]] carried the mockery into the book itself. The title *Mesmer ou les sots* exemplifies the literary [[motif:satire of magnetism|satire]] that, alongside the royal verdict, framed mesmerism as the gulling of the [[motif:credulity|credulous]].\n\n## For artists & game designers\nA period typographic asset: an authentic engraved ornament for mocking in-world 'pamphlets' that ridicule a charlatan's movement.",
+   "citations": [
+    {"text": "Robert Darnton, *Mesmerism and the End of the Enlightenment in France* (1968)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Le_magnetisme_animal,_Mesmer_ou_les_sots_Fleuron_T113448-3.png"}
+   ],
+   "key_concepts": ["satirical pamphlet", "fleuron", "Mesmer ou les sots", "animal magnetism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__somnambulism",
+   "title": "Essai sur la théorie du somnambulisme magnétique (Fleuron)",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Tardy de Montravel (T. D. M.)",
+   "date": "1785",
+   "place": "France",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "somnambulism",
+    "magnetic somnambulism",
+    "title vignette",
+    "fleuron",
+    "puysegur school",
+    "lucid sleep",
+    "magnetic theory",
+    "printed ornament"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Essai_sur_la_th%C3%A9orie_du_somnambulisme_magn%C3%A9tique._Par_Mr._T._D._M._Novembre_1785._Fleuron_N009303-4.png",
+   "summary": "An engraved vignette from the *Essai sur la théorie du somnambulisme magnétique* (1785) by Tardy de Montravel, an early theoretical treatise on magnetic somnambulism.\n\n## Iconography\nA printed title-page fleuron from a key text of the magnetic literature, the small ornament marking a serious theoretical essay rather than a satire.\n\n## Significance\nIn 1784 the Marquis de [[motif:puysegur school|Puységur]] discovered that magnetism could induce, instead of convulsions, a calm 'artificial [[motif:somnambulism|somnambulism]]' in which the subject seemed asleep yet lucid. Followers like Tardy de Montravel theorised this lucid sleep and its supposed clairvoyance; this 1785 *Essai* is a document of that pivotal shift from the crisis to the somnambulic trance that reoriented the whole movement.\n\n## For artists & game designers\nA 'source text' prop: a credible period treatise whose title alone establishes the in-world science of the lucid magnetic sleep.",
+   "citations": [
+    {"text": "Adam Crabtree, *From Mesmer to Freud: Magnetic Sleep and the Roots of Psychological Healing* (1993)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Essai_sur_la_th%C3%A9orie_du_somnambulisme_magn%C3%A9tique._Par_Mr._T._D._M._Novembre_1785._Fleuron_N009303-4.png"}
+   ],
+   "key_concepts": ["magnetic somnambulism", "Puységur", "lucid sleep", "Tardy de Montravel"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__braid-hypnotism",
+   "title": "Title-page of James Braid's Neurypnology",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "James Braid",
+   "date": "1843",
+   "place": "Manchester / England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "hypnotism",
+    "neurypnology",
+    "nervous sleep",
+    "james braid",
+    "title page",
+    "rational physiology",
+    "fixation of gaze",
+    "scientific reframing"
+   ],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Title-page_of_James_Braid%27s_%22Neurypnology%22_Wellcome_L0000481.jpg",
+   "summary": "The title-page of James Braid's *Neurypnology; or, The Rationale of Nervous Sleep* (1843), the book that coined 'hypnotism' (Wellcome Collection).\n\n## Iconography\nA plain printed title-page announcing Braid's treatise on 'nervous sleep considered in relation with animal magnetism'. The typography of a sober medical work signals its claim to rescue the phenomena from occultism.\n\n## Significance\nThe Manchester surgeon James Braid argued that the 'magnetic' trance owed nothing to any fluid passing between operator and subject; it was a physiological 'nervous sleep' induced by fixed attention and the fatigue of the gaze. Renaming it [[motif:hypnotism|hypnotism]] (from Greek *hypnos*), he recast mesmerism as a subject for [[motif:rational physiology|physiology]] and psychology, a decisive step toward modern hypnosis.\n\n## For artists & game designers\nThe 'rational reframing' beat: the document by which a feared occult power is redefined as a natural, teachable technique.",
+   "citations": [
+    {"text": "James Braid, *Neurypnology; or, The Rationale of Nervous Sleep* (1843)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Title-page_of_James_Braid%27s_%22Neurypnology%22_Wellcome_L0000481.jpg"}
+   ],
+   "key_concepts": ["hypnotism", "nervous sleep", "James Braid", "Neurypnology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__charcot-hypnosis",
+   "title": "Charcot Hysteria Chronophotography (Salpêtrière)",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "After Jean-Martin Charcot (Salpêtrière school)",
+   "date": "1880s",
+   "place": "Paris / France",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "hypnotism",
+    "grand hysteria",
+    "salpetriere",
+    "chronophotography",
+    "induced trance",
+    "clinical photography",
+    "arc de cercle",
+    "neurological spectacle"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jean-Martin_Charcot_Hysteria_chronophotography.jpg",
+   "summary": "A chronophotographic study of hysteria from the circle of Jean-Martin Charcot at the Salpêtrière, where hypnosis and the convulsive 'grand hysteria' were photographed as clinical phenomena.\n\n## Iconography\nA sequence or single frame capturing a patient in the postures of the hysterical attack — the contorted, arching body that Charcot's school catalogued in serial images, the heir to the older convulsive [[motif:magnetic crisis|crisis]].\n\n## Significance\nIn the 1880s Charcot revived hypnotism as a neurological subject, staging hypnotic and hysterical states before audiences and recording them with the new clinical [[motif:clinical photography|photography]]. His celebrated demonstrations — the direct line from Mesmer's crisis through Braid's nervous sleep — shaped the young Freud and made the Salpêtrière the theatre where mind, suggestion, and the body's spectacle converged.\n\n## For artists & game designers\nA clinical-spectacle reference: the medical theatre where an altered state is exhibited and documented, blurring science and performance.",
+   "citations": [
+    {"text": "Georges Didi-Huberman, *Invention of Hysteria: Charcot and the Photographic Iconography of the Salpêtrière* (1982; Eng. 2003)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Jean-Martin_Charcot_Hysteria_chronophotography.jpg"}
+   ],
+   "key_concepts": ["hypnotism", "Salpêtrière", "grand hysteria", "Jean-Martin Charcot"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__reichenbach-od",
+   "title": "Investigating the Od Rays (Reichenbach's Sensitive)",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Max Nentwich",
+   "date": "later 19th–early 20th c.",
+   "place": "German lands",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "odic force",
+    "od rays",
+    "sensitive subject",
+    "silver spoon",
+    "gold ring pendulum",
+    "reichenbach experiment",
+    "invisible emanation",
+    "dark room"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Straling_Man_doet_met_zilveren_lepel_en_een_gouden_ring_aan_een_draad_onderzoek_naar_Od-stralen,_SFA022815795.jpg",
+   "summary": "An illustration of an experimenter investigating the 'Od rays' with a silver spoon and a gold ring suspended on a thread, after the work of Baron Carl von Reichenbach.\n\n## Iconography\nA figure conducts a test of radiation, holding a silver spoon and a gold ring hung from a thread as a kind of pendulum — instruments by which a 'sensitive' was thought to detect emanations from metals and bodies.\n\n## Significance\nThe industrial chemist Baron Carl von [[motif:reichenbach experiment|Reichenbach]] (1788–1869) proposed an [[motif:odic force|odic force]] (the 'Od'), a vital emanation streaming from magnets, crystals, metals, and living things, visible as a glow to nervous '[[motif:sensitive subject|sensitives]]' in a darkened room. A late, would-be-scientific descendant of Mesmer's fluid, the Od became a touchstone for theosophy and psychical research even as mainstream science rejected it.\n\n## For artists & game designers\nA 'detect aura' mechanic: special-sensitive characters who perceive otherwise invisible emanations from objects, revealing hidden properties.",
+   "citations": [
+    {"text": "Carl von Reichenbach, *Researches on Magnetism, Electricity ... in Relation to Vital Force* (Eng. trans. 1850)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Straling_Man_doet_met_zilveren_lepel_en_een_gouden_ring_aan_een_draad_onderzoek_naar_Od-stralen,_SFA022815795.jpg"}
+   ],
+   "key_concepts": ["odic force", "Reichenbach", "sensitives", "vital emanation"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__cagliostro",
+   "title": "Portrait of Alessandro Cagliostro",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Anonymous (Rijksmuseum)",
+   "date": "late 18th c.",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "cagliostro",
+    "magus",
+    "occult adventurer",
+    "egyptian masonry",
+    "engraved portrait",
+    "charlatan",
+    "elixir of life",
+    "enlightenment occultism"
+   ],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Portret_van_Alessandro_Cagliostro,_RP-P-1909-4425.jpg",
+   "summary": "An engraved portrait of Alessandro, Count Cagliostro (Giuseppe Balsamo, 1743–1795), the most notorious occult adventurer of the mesmeric age (Rijksmuseum).\n\n## Iconography\nA bust-length portrait of Cagliostro, presented with the dignity of a man of mystery and learning — the standard engraved likeness that spread his fame across Europe.\n\n## Significance\nThough not a magnetizer himself, [[motif:cagliostro|Cagliostro]] was the era's paradigmatic [[motif:magus|magus]]: healer, alchemist, founder of an 'Egyptian' rite of Freemasonry, and purveyor of elixirs and prophecy. He moved through the same fashionable, occult-hungry salons that took up [[motif:animal magnetism|animal magnetism]], and his spectacular rise and disgrace (entangled in the Affair of the Diamond Necklace, dying in a papal prison) made him the symbol of Enlightenment-age occult charlatanry.\n\n## For artists & game designers\nThe travelling-mystagogue archetype: a charismatic foreign 'count' trailing rumours of immortality, secret rites, and miraculous cures.",
+   "citations": [
+    {"text": "Iain McCalman, *The Last Alchemist: Count Cagliostro, Master of Magic in the Age of Reason* (2003)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Portret_van_Alessandro_Cagliostro,_RP-P-1909-4425.jpg"}
+   ],
+   "key_concepts": ["Cagliostro", "magus", "Egyptian Masonry", "occult charlatanry"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__lavater",
+   "title": "Portraits of the Family of Johann Caspar Lavater",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Anonymous",
+   "date": "late 18th c.",
+   "place": "Zurich / Switzerland",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "johann caspar lavater",
+    "physiognomy",
+    "silhouette portrait",
+    "character reading",
+    "swiss pastor",
+    "facial science",
+    "profile likeness",
+    "sympathetic science"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Zentralbibliothek_Z%C3%BCrich_-_Portr%C3%A4ts_der_Familie_von_Johann_Caspar_Lavater_-_000003116_2.jpg",
+   "summary": "A sheet of portraits of the family of Johann Caspar Lavater (1741–1801), the Zurich pastor whose *Physiognomy* made the reading of character from the face a science of the age (Zentralbibliothek Zürich).\n\n## Iconography\nA strip of profile likenesses of the Lavater family, the format echoing the silhouette and profile studies that filled his physiognomical works, where the line of brow, nose, and chin was scrutinised for the soul within.\n\n## Significance\n[[motif:johann caspar lavater|Lavater]]'s *Physiognomische Fragmente* (1775–78) systematised [[motif:physiognomy|physiognomy]] — the inference of inner character from outer form — and made it a craze parallel to mesmerism in the same decades. A friend of the sympathetic and 'magnetic' currents of the time, he lent the era's fascination with invisible forces a respectable, sentimental face. Physiognomy and phrenology together formed the broader 'science of the invisible self' around animal magnetism.\n\n## For artists & game designers\nA face-reading mechanic: profile portraits whose features the player learns to interpret for hidden traits, allegiance, or fate.",
+   "citations": [
+    {"text": "Johann Caspar Lavater, *Physiognomische Fragmente zur Beförderung der Menschenkenntniß und Menschenliebe* (1775–78)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Zentralbibliothek_Z%C3%BCrich_-_Portr%C3%A4ts_der_Familie_von_Johann_Caspar_Lavater_-_000003116_2.jpg"}
+   ],
+   "key_concepts": ["Johann Caspar Lavater", "physiognomy", "character reading", "silhouette"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "mesmerism_magnetism__phrenology-head",
+   "title": "The Basic Elements of Phrenology, Physiognomy and Palmistry",
+   "work": "Mesmerism, Animal Magnetism & the Invisible Fluid (1780s–1850s)",
+   "creator": "Anonymous",
+   "date": "19th c.",
+   "place": "England / Europe",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": [
+    "phrenology",
+    "phrenological head",
+    "physiognomy",
+    "palmistry",
+    "faculties of mind",
+    "skull map",
+    "character reading",
+    "popular science chart"
+   ],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_basic_elements_of_phrenology,_physiognomy_and_palmistry_Wellcome_L0074425.jpg",
+   "summary": "A composite chart of 'the basic elements of phrenology, physiognomy and palmistry', the popular sciences of reading character from head, face, and hand (Wellcome Collection).\n\n## Iconography\nThe plate gathers a mapped [[motif:phrenological head|phrenological head]] partitioned into numbered organs of the faculties, physiognomic faces, and a palm divided into its lines and mounts — a one-sheet compendium of the body read as a text.\n\n## Significance\n[[motif:phrenology|Phrenology]], devised by Gall and popularised by Spurzheim and the Fowlers, mapped mental faculties onto bumps of the skull, and readily fused with mesmerism as 'phreno-magnetism' — magnetizing a phrenological organ to excite its faculty in a sensitive subject. Together with [[motif:physiognomy|physiognomy]] and palmistry it formed the nineteenth century's confident art of reading the invisible self from visible signs.\n\n## For artists & game designers\nA character-stat overlay: a head or hand divided into labelled regions, each tappable to reveal a personality 'faculty' the player can probe.",
+   "citations": [
+    {"text": "Roger Cooter, *The Cultural Meaning of Popular Science: Phrenology and the Organization of Consent in Nineteenth-Century Britain* (1984)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_basic_elements_of_phrenology,_physiognomy_and_palmistry_Wellcome_L0074425.jpg"}
+   ],
+   "key_concepts": ["phrenology", "phreno-magnetism", "physiognomy", "character reading"],
+   "summary_status": "authored"
+  }
+ ]
+}

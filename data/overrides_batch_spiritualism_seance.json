@@ -1,0 +1,405 @@
+{
+ "_work": {
+   "key": "spiritualism_seance",
+   "short_id": "SPIR",
+   "title": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "various",
+   "date": "1840s – 1920s",
+   "century": 19,
+   "place": "Europe and North America",
+   "region": "Global",
+   "language": "English",
+   "era": "modern",
+   "tradition": "theosophy",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "spiritualism_seance",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Spiritualism",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["spiritualism", "seance", "spirit photography", "ectoplasm", "mediumship", "theosophy"],
+   "blurb": "The visual record of the modern occult revival, from the Hydesville rappings of the Fox sisters (1848) to the Cottingley fairies (1917–20): spirit photographs by Mumler and Hope, ectoplasm plates from Schrenck-Notzing's séances with Eva Carrière, the Davenport spirit cabinet and Eusapia Palladino's levitations, the Ouija board and the planchette, Theosophical thought-forms and aura plates by Besant and Leadbeater, the mediumistic art of Georgiana Houghton, and the pseudosciences of mesmerism and phrenology that fed the movement."
+ },
+ "entries": [
+  {
+   "id": "spiritualism_seance__mumler-spirit-photo",
+   "title": "Mary Todd Lincoln with the Spirit of Abraham Lincoln",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "William H. Mumler",
+   "date": "c. 1869–72",
+   "place": "Boston / New York, United States",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["spirit photography", "ghost", "mary todd lincoln", "double exposure", "mourning", "carte de visite", "mediumship", "fraud"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mumler_(Lincoln).jpg",
+   "summary": "William H. Mumler's most famous spirit photograph, showing the widowed Mary Todd Lincoln seated while the ghostly figure of her assassinated husband, Abraham Lincoln, stands behind her with hands on her shoulders.\n\n## Iconography\nThe sitter is photographed in standard cabinet-card pose; behind and above her a translucent figure with Lincoln's features hovers, hands resting on her shoulders. The 'extra' is rendered faint and luminous, the signature look of [[motif:spirit photography|spirit photography]] achieved through deliberate double exposure or an underdeveloped second plate.\n\n## Significance\nMumler pioneered commercial spirit photography in Boston around 1861, claiming his plates captured the dead. Tried for fraud in New York in 1869 (and acquitted for lack of conclusive proof), he nonetheless became the genre's defining figure. This portrait of the grieving First Lady — taken under the name 'Mrs. Lindall' — is the most celebrated example, emblematic of how spiritualism offered consolation to a generation bereaved by the American Civil War. It remains the locus classicus for debates over photography, belief, and deception.\n\n## For artists & game designers\nThe template for the 'photographed ghost': a faint translucent figure behind a solemn living sitter, instantly legible as a haunting.",
+   "citations": [
+    {"text": "L. Kaplan, *The Strange Case of William Mumler, Spirit Photographer* (2008)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mumler_(Lincoln).jpg"}
+   ],
+   "key_concepts": ["spirit photography", "William Mumler", "Mary Todd Lincoln", "Victorian mourning"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__hope-spirit-photo",
+   "title": "Spirit Photograph by William Hope",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "William Hope",
+   "date": "c. 1920s",
+   "place": "Crewe, England",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["spirit photography", "ghost", "extra", "crewe circle", "double exposure", "mediumship", "bereavement", "fraud"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_Hope_001.png",
+   "summary": "A spirit photograph by William Hope (1863–1933), the Crewe-based medium whose images of ghostly 'extras' beside living sitters made him a leading and controversial figure of post-war British spiritualism.\n\n## Iconography\nA living sitter is shown with a faint, semi-transparent face or figure — the 'extra' — superimposed nearby, often haloed in a cloudy aureole. As with all [[motif:spirit photography|spirit photographs]], the apparition is produced by exposing the plate twice or pre-loading a ghost image.\n\n## Significance\nHope founded the Crewe Circle of spirit photographers and flourished amid the wave of bereavement following the First World War, when grieving families sought contact with the dead. He was famously exposed in 1922 by Harry Price of the Society for Psychical Research, who caught him switching photographic plates — yet Hope retained ardent defenders, including Sir Arthur Conan Doyle. His career encapsulates the collision of grief, belief, and fraud at spiritualism's twentieth-century peak.\n\n## For artists & game designers\nA study in the 'manufactured apparition' — useful reference for how a faked ghost was actually staged on a photographic plate.",
+   "citations": [
+    {"text": "H. Price, *Cold Light on Spiritualistic Phenomena* (1922)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_Hope_001.png"}
+   ],
+   "key_concepts": ["spirit photography", "William Hope", "Crewe Circle", "Society for Psychical Research"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__crewe-circle",
+   "title": "Crewe Circle Spirit Photograph (Hope)",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "William Hope / Crewe Circle",
+   "date": "c. 1920s",
+   "place": "Crewe, England",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["spirit photography", "crewe circle", "extra", "ghost face", "double exposure", "mediumship", "exposure", "hoax"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Williamhopehoax5.jpg",
+   "summary": "A Crewe Circle spirit photograph associated with William Hope, one of the images later cited in the exposure of his methods as a hoax.\n\n## Iconography\nThe plate shows sitters overlaid with a ghostly [[motif:spirit photography|'extra']] — a faint superimposed face or form floating in the frame. The cloudy, luminous quality marks the deliberate secondary exposure used to produce the apparition.\n\n## Significance\nThe Crewe Circle, the group of spirit photographers around William Hope, produced large numbers of such 'extras' for grieving clients in the years around the First World War. Harry Price's 1922 investigation for the Society for Psychical Research demonstrated that Hope substituted prepared plates, and images like this became evidence in the controversy. The episode is a key case study in the history of photographic fraud and the sociology of belief, dividing even prominent spiritualists.\n\n## For artists & game designers\nA documented example of a 'haunting' built from a swapped plate — good source material for an in-game forgery puzzle.",
+   "citations": [
+    {"text": "H. Price, *Cold Light on Spiritualistic Phenomena* (1922)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Williamhopehoax5.jpg"}
+   ],
+   "key_concepts": ["Crewe Circle", "spirit photography", "William Hope", "photographic fraud"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__eva-carriere-ectoplasm",
+   "title": "Eva Carrière Producing Ectoplasm (30 November 1912)",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "Baron Albert von Schrenck-Notzing (photographer)",
+   "date": "1912",
+   "place": "Munich / Paris",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["ectoplasm", "materialisation", "medium", "seance", "eva carriere", "schrenck-notzing", "cheesecloth", "psychical research"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:EvaC-medium-30-nov-1912.jpg",
+   "summary": "A séance photograph of the medium Eva Carrière (Marthe Béraud) exuding 'ectoplasm,' taken on 30 November 1912 during the investigations of Baron Albert von Schrenck-Notzing.\n\n## Iconography\nThe entranced medium is shown with a pale, filmy substance issuing from her mouth or hands — the [[motif:ectoplasm|ectoplasm]] believed to be the raw material from which spirits formed. In several plates the 'teleplasm' resolves into faces; here it appears as a fibrous, cloth-like emanation.\n\n## Significance\nSchrenck-Notzing photographed Eva Carrière repeatedly and published the results in *Phänomene der Materialisation* (1914), presenting ectoplasm as a genuine psychic phenomenon. Sceptics, then and since, identified the 'ectoplasm' as chewed paper, cheesecloth, and cut-out magazine faces regurgitated or concealed by the medium. The Eva C. plates are the canonical images of materialisation mediumship and a central exhibit in the history of psychical research and its debunking.\n\n## For artists & game designers\nThe definitive 'ectoplasm' visual — a pale, cloth-like substance pouring from a trance medium — for any séance or possession scene.",
+   "citations": [
+    {"text": "A. von Schrenck-Notzing, *Phänomene der Materialisation* (1914)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:EvaC-medium-30-nov-1912.jpg"}
+   ],
+   "key_concepts": ["ectoplasm", "Eva Carrière", "Schrenck-Notzing", "materialisation mediumship"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__goligher-ectoplasm",
+   "title": "Kathleen Goligher and Alleged Ectoplasm",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "William Jackson Crawford (photographer)",
+   "date": "c. 1916–20",
+   "place": "Belfast, Ireland",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["ectoplasm", "medium", "seance", "kathleen goligher", "psychic structures", "levitation", "crawford", "exposure"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kathleen_Goligher_fake_ectoplasm.jpg",
+   "summary": "A photograph by W. J. Crawford of the Belfast medium Kathleen Goligher, showing the alleged ectoplasm and 'psychic structures' he believed supported séance-room levitations.\n\n## Iconography\nThe seated medium is shown with a pale mass of [[motif:ectoplasm|ectoplasm]] descending toward the floor — described by Crawford as 'cantilever' rods of psychic substance that lifted tables. To later eyes the material reads plainly as muslin or fabric concealed about the medium's person.\n\n## Significance\nWilliam Jackson Crawford, a Belfast engineer, conducted years of experiments with the Goligher Circle and published *The Reality of Psychic Phenomena* (1916), theorising ectoplasmic 'levers.' After his death his findings were discredited; the photographs are now read as evidence of fraud rather than physics. The Goligher case is a notable instance of an engineer-investigator persuaded by séance-room manipulation, and a staple of the literature on the psychology of deception.\n\n## For artists & game designers\nIllustrates the 'invisible psychic machinery' conceit — ectoplasmic struts lifting furniture — a literal mechanism behind a haunting.",
+   "citations": [
+    {"text": "W. J. Crawford, *The Reality of Psychic Phenomena* (1916)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kathleen_Goligher_fake_ectoplasm.jpg"}
+   ],
+   "key_concepts": ["ectoplasm", "Kathleen Goligher", "W. J. Crawford", "psychic structures"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__fox-sisters",
+   "title": "The Fox Sisters",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "N. Currier (lithograph after a daguerreotype by Appleby)",
+   "date": "1852",
+   "place": "New York, United States",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["fox sisters", "hydesville rappings", "mediumship", "spirit rapping", "spiritualism origins", "portrait", "lithograph", "communication"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fox_sisters_1852.jpg",
+   "summary": "An 1852 lithograph (N. Currier, after a daguerreotype) of the Fox sisters — Margaret, Kate, and their elder sister Leah — whose 'spirit rappings' launched modern spiritualism.\n\n## Iconography\nThe three young women are shown in a formal group portrait, the standard mid-century lithographic likeness sold to a public fascinated by their celebrity. The image carries none of the séance drama — it is the calm public face of the movement's founders.\n\n## Significance\nIn 1848 at Hydesville, New York, the young Fox sisters reported communicating with a spirit through coded [[motif:spirit rapping|rappings]], sparking the spiritualist movement that swept America and Europe. They became famous public mediums. In 1888 Margaret confessed the raps had been produced by cracking the joints of their toes — then partly recanted — leaving their legacy permanently contested. They remain the conventional starting point for any history of modern spiritualism.\n\n## For artists & game designers\nThe origin-story characters of spiritualism: ordinary young women whose 'knocking code' began a global movement — a strong NPC archetype.",
+   "citations": [
+    {"text": "B. Weisberg, *Talking to the Dead: Kate and Maggie Fox and the Rise of Spiritualism* (2004)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fox_sisters_1852.jpg"}
+   ],
+   "key_concepts": ["Fox sisters", "Hydesville rappings", "modern spiritualism", "spirit rapping"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__davenport-cabinet",
+   "title": "The Davenport Brothers and the Spirit Cabinet",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "Anonymous (book illustration, 1869)",
+   "date": "1869",
+   "place": "United States / Britain",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["spirit cabinet", "davenport brothers", "rope ties", "instruments", "seance", "stage mediumship", "escape", "performance"],
+   "rights": "Public domain (No restrictions). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Davenport_brothers_(1869)_(14782889462).jpg",
+   "summary": "An 1869 book illustration of the Davenport brothers, Ira and William, the American mediums famous for their 'spirit cabinet' demonstrations.\n\n## Iconography\nThe brothers are shown bound with ropes inside a wooden cabinet hung with musical instruments. Once the doors closed, the [[motif:spirit cabinet|spirit cabinet]] would erupt with floating instruments, bells, and disembodied hands — proof, the brothers claimed, of spirit agency.\n\n## Significance\nThe Davenports toured America and Europe in the 1850s–60s, presenting their rope-tied cabinet act as genuine mediumship. The escapologist's secret — slipping the ropes — was widely suspected, and a young Harry Houdini, who knew Ira late in life, regarded their act as conjuring. The spirit cabinet became a defining theatrical form of physical mediumship and a direct ancestor of stage magic's escape acts. It marks the porous boundary between séance and showmanship.\n\n## For artists & game designers\nThe original 'magic box' set piece — a person bound in a cabinet that produces impossible phenomena once closed.",
+   "citations": [
+    {"text": "T. L. Nichols, *A Biography of the Brothers Davenport* (1864)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Davenport_brothers_(1869)_(14782889462).jpg"}
+   ],
+   "key_concepts": ["Davenport brothers", "spirit cabinet", "physical mediumship", "stage magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__palladino-levitation",
+   "title": "Eusapia Palladino Levitating a Table",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "H. Mairet (photographer)",
+   "date": "c. 1890s",
+   "place": "France / Italy",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["table levitation", "eusapia palladino", "seance", "telekinesis", "medium", "psychical research", "trance", "investigation"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Eusapia-Palladino-levitation--table.jpg",
+   "summary": "A séance photograph of the Italian medium Eusapia Palladino apparently levitating a table, taken during one of the many scientific investigations of her phenomena.\n\n## Iconography\nThe medium sits at a small table that rises from the floor while sitters hold her hands and feet to control for trickery. The [[motif:table levitation|levitating table]] was the signature feat of Palladino's repertoire of telekinetic effects, along with rapping, cold breezes, and touches from unseen hands.\n\n## Significance\nEusapia Palladino (1854–1918) was the most investigated medium of her era, examined by commissions including Cesare Lombroso, Charles Richet, the Society for Psychical Research, and others. Results were notoriously mixed: she produced effects that baffled some researchers but was repeatedly caught freeing a hand or foot to fake phenomena, most damningly in the 1910 Feilding sittings and at Columbia University. Her career is the central case in the scientific scrutiny of physical mediumship.\n\n## For artists & game designers\nThe archetypal séance levitation — a table lifting under controlled hands — a clean visual for a 'controlled test of the paranormal' scene.",
+   "citations": [
+    {"text": "H. Carrington, *Eusapia Palladino and Her Phenomena* (1909)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Eusapia-Palladino-levitation--table.jpg"}
+   ],
+   "key_concepts": ["Eusapia Palladino", "table levitation", "physical mediumship", "psychical research"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__ouija-board",
+   "title": "Ouija Talking Board (Kennard Novelty Company)",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "Elijah Bond & Charles Kennard (Kennard Novelty Company)",
+   "date": "c. 1890s",
+   "place": "Baltimore, United States",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["ouija board", "talking board", "planchette", "automatism", "spirit communication", "alphabet", "yes no", "parlour game"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ouija_board_-_Kennard_Novelty_Company.jpg",
+   "summary": "An early Ouija talking board manufactured by the Kennard Novelty Company, the firm that commercialised and patented the device in 1890.\n\n## Iconography\nThe flat board is printed with the alphabet, the numerals 0–9, and the words YES, NO, and GOODBYE. A heart-shaped pointer (the [[motif:planchette|planchette]]) is moved across the surface by the sitters' resting fingers to spell out messages, ostensibly from spirits.\n\n## Significance\nThe Ouija board emerged from the spiritualist craze for spirit communication, patented by Elijah Bond and produced by Charles Kennard; the name was reputedly supplied by the board itself in a séance. Its apparent motion is now explained by the ideomotor effect — small unconscious muscular movements of the sitters. Transformed from a séance instrument into a mass-market parlour game (later a Parker Brothers / Hasbro product), it became the most enduring popular artefact of the spiritualist movement.\n\n## For artists & game designers\nThe instantly recognisable spirit-communication interface: alphabet board plus sliding planchette, a ready diegetic UI for contacting the dead.",
+   "citations": [
+    {"text": "R. Murch, on the history of the Ouija board and the Kennard Novelty Company."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ouija_board_-_Kennard_Novelty_Company.jpg"}
+   ],
+   "key_concepts": ["Ouija board", "talking board", "ideomotor effect", "spirit communication"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__planchette",
+   "title": "Spiritualist Planchette (Robert Dale Owen)",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "Kirby and Co. (maker)",
+   "date": "c. 1860s",
+   "place": "England / United States",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["planchette", "automatic writing", "spirit communication", "pencil", "castors", "mediumship", "wooden device", "automatism"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Planchette_given_to_Matthew_Wilson_by_Robert_Dale_Owen.jpg",
+   "summary": "A spiritualist planchette (this example given to Matthew Wilson by the reformer and spiritualist Robert Dale Owen), the small wheeled writing device used to receive messages from spirits.\n\n## Iconography\nThe heart-shaped wooden board rests on two small castors, with a pencil mounted through a hole at its point. Sitters lay their fingertips lightly on the [[motif:planchette|planchette]]; it rolls across paper and the pencil traces words and figures attributed to spirit control.\n\n## Significance\nThe planchette became popular in the 1850s–60s as an instrument of automatic writing, predating and later inspiring the lettered Ouija board (the Ouija's pointer is itself called a planchette). It gave physical form to the spiritualist doctrine of [[motif:automatism|automatism]] — the belief that an external intelligence could guide the hand. Like the Ouija, its motion is now attributed to the ideomotor effect. Robert Dale Owen, a prominent advocate, helped popularise such devices in America.\n\n## For artists & game designers\nThe pre-Ouija writing oracle: a wheeled board with a pencil that scrawls spirit messages — a tactile, low-tech séance prop.",
+   "citations": [
+    {"text": "R. D. Owen, *Footfalls on the Boundary of Another World* (1860)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Planchette_given_to_Matthew_Wilson_by_Robert_Dale_Owen.jpg"}
+   ],
+   "key_concepts": ["planchette", "automatic writing", "automatism", "Robert Dale Owen"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__seance-rapping",
+   "title": "Spirit Rapping Diagram (Henry Novra)",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "Henry Novra (attributed)",
+   "date": "mid-19th c.",
+   "place": "England",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["spirit rapping", "seance", "table", "knocking code", "exposure", "diagram", "mediumship", "trickery"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Spirit_Rapping_Diagram_(32)_-_Henry_Novra.png",
+   "summary": "A mid-nineteenth-century 'spirit rapping' diagram, attributed to Henry Novra, illustrating the séance phenomenon of mysterious knocks answering questions.\n\n## Iconography\nThe diagram depicts a séance table and sitters, schematising how [[motif:spirit rapping|spirit raps]] were said to occur — knocks sounding in reply to the alphabet or to yes/no questions. Such plates often doubled as exposés, showing how the sounds could be produced by concealed mechanical or bodily means.\n\n## Significance\nSpirit rapping, the phenomenon that launched the Fox sisters and modern spiritualism, became the movement's foundational 'evidence': coded knocks by which the dead supposedly communicated. A whole literature of explanation and debunking grew up around it, from toe-cracking confessions to hidden devices. Diagrams like Novra's belong to the Victorian genre of rational explanation aimed at the rapping craze, documenting both the practice and the sceptical response.\n\n## For artists & game designers\nA period schematic of how a séance 'worked' — useful reference for staging or explaining a knocking-spirit sequence.",
+   "citations": [
+    {"text": "On the rapping craze, see histories of Victorian spiritualism."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Spirit_Rapping_Diagram_(32)_-_Henry_Novra.png"}
+   ],
+   "key_concepts": ["spirit rapping", "séance", "knocking code", "debunking"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__thought-forms",
+   "title": "Thought-Form of the Music of Gounod (Besant & Leadbeater)",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "Annie Besant & C. W. Leadbeater (designers)",
+   "date": "1905",
+   "place": "London / Adyar",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["thought-forms", "theosophy", "clairvoyance", "music visualisation", "aura", "colour symbolism", "synesthesia", "astral"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Music_of_Gounod_-_Annie_Besant_Thought_Form_-_Project_Gutenberg_eText_16269.jpg",
+   "summary": "A plate from Annie Besant and Charles Leadbeater's *Thought-Forms* (1905) depicting the supposed clairvoyantly-perceived form generated by the music of Gounod.\n\n## Iconography\nSwirling bands and architectural masses of luminous colour rise above a church, rendering music as a visible [[motif:thought-forms|thought-form]]. Each hue carries a coded meaning from the book's colour key — affection, devotion, intellect — so that sound becomes a coloured edifice in the astral atmosphere.\n\n## Significance\n*Thought-Forms* claimed that thoughts and emotions produce coloured shapes perceptible to trained clairvoyants, and supplied a systematic colour-symbolism to read them. A landmark of Theosophical art theory, the book's abstract colour-forms are frequently cited as a direct influence on early abstract painters — Kandinsky, Mondrian, and others — who sought to make the spiritual visible. It bridges occult revival and modernist abstraction.\n\n## For artists & game designers\nA founding template for 'visualising sound/emotion as coloured energy' — directly applicable to synesthetic UI and aura effects.",
+   "citations": [
+    {"text": "A. Besant & C. W. Leadbeater, *Thought-Forms* (1905)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Music_of_Gounod_-_Annie_Besant_Thought_Form_-_Project_Gutenberg_eText_16269.jpg"}
+   ],
+   "key_concepts": ["thought-forms", "Theosophy", "Besant and Leadbeater", "abstraction and the occult"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__man-visible-invisible",
+   "title": "Astral Body of a Savage Man (Leadbeater)",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "Charles Webster Leadbeater (designer)",
+   "date": "1902",
+   "place": "London / Adyar",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["aura", "astral body", "theosophy", "clairvoyance", "subtle bodies", "colour symbolism", "leadbeater", "human energy field"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:LeadbeatherAstralSavageInvisibleMan.jpg",
+   "summary": "An aura plate from C. W. Leadbeater's *Man Visible and Invisible* (1902), illustrating the clairvoyantly-perceived astral body of an 'undeveloped' (so-labelled 'savage') man.\n\n## Iconography\nA human figure is surrounded by an ovoid [[motif:aura|aura]] of murky, muddied colours, each tint coded by the book's key to passions and faculties — the dull reds and browns marking, in Leadbeater's scheme, a coarse and undeveloped nature. The colours and clarity of the egg-shaped aura were held to register a person's moral and spiritual evolution.\n\n## Significance\n*Man Visible and Invisible* systematised the Theosophical doctrine of subtle bodies and the coloured aura, giving the aura its now-familiar visual form. The book's evolutionary and racial framing — ranking 'types' of humanity by aura — reflects the period's pervasive and now-rejected racial hierarchies, an uncomfortable but historically significant feature of early Theosophical literature. As image, its colour-coded aura diagrams shaped a century of New Age visualisation.\n\n## For artists & game designers\nThe canonical 'character aura' chart: an egg of coded colours around a figure, readable as an alignment or status display.",
+   "citations": [
+    {"text": "C. W. Leadbeater, *Man Visible and Invisible* (1902)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:LeadbeatherAstralSavageInvisibleMan.jpg"}
+   ],
+   "key_concepts": ["aura", "astral body", "Theosophy", "Leadbeater"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__cottingley-fairies",
+   "title": "The Cottingley Fairies",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "Elsie Wright & Frances Griffiths (published by A. Conan Doyle)",
+   "date": "1917–20 (published 1920)",
+   "place": "Cottingley, England",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["fairies", "fairy photography", "hoax", "conan doyle", "cut-out figures", "the strand magazine", "children", "belief"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cottingley_Fairies,_page_463,_The_Strand_Magazine_-_1920_-_Vol.Jul-Dec.jpg",
+   "summary": "The Cottingley fairy photographs as published in *The Strand Magazine* (1920), the images of two girls with 'fairies' that famously convinced Sir Arthur Conan Doyle.\n\n## Iconography\nA young girl is photographed gazing at a group of winged [[motif:fairies|fairies]] dancing before her — in fact cardboard cut-outs copied from a popular illustrated book and propped up with hatpins. The composition's innocent realism is precisely what gave the hoax its power.\n\n## Significance\nTaken by cousins Elsie Wright and Frances Griffiths in 1917, the photographs were championed by Conan Doyle, an ardent spiritualist, in his 1920 *Strand* article and his book *The Coming of the Fairies* (1922). They became a cause célèbre of the post-war occult enthusiasm. Only in the 1980s did the elderly cousins admit the fairies were paper cut-outs — a definitive case study in how photographic 'evidence,' wishful belief, and a famous endorser combine to sustain a hoax.\n\n## For artists & game designers\nThe textbook example of a faked wonder photograph — flat cut-out 'fairies' in a real scene — a model for in-world forged evidence.",
+   "citations": [
+    {"text": "A. Conan Doyle, *The Coming of the Fairies* (1922)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cottingley_Fairies,_page_463,_The_Strand_Magazine_-_1920_-_Vol.Jul-Dec.jpg"}
+   ],
+   "key_concepts": ["Cottingley fairies", "fairy photography", "Arthur Conan Doyle", "photographic hoax"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__houghton-spirit-drawing",
+   "title": "Georgiana Houghton, Spirit Drawing (Grand Jubilee print)",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "Georgiana Houghton (tradition); printed S. Chism, Boston",
+   "date": "19th c.",
+   "place": "London / Boston",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["spirit drawing", "mediumistic art", "automatism", "georgiana houghton", "abstraction", "sacred geometry", "watercolour", "spirit guide"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Houghton_AB85.H7375.A863n_-_Grand_Jubilee_Concert.jpg",
+   "summary": "A printed sheet in the Houghton collection associated with the spiritualist medium and artist Georgiana Houghton, whose mediumistic drawings are pioneering works of abstract art.\n\n## Iconography\nHoughton's characteristic [[motif:spirit drawing|spirit drawings]] are dense, swirling webs of fine coloured lines, often built around sacred-geometric cores and titled as the work of named spirit guides (deceased relatives, Renaissance masters, and angelic beings) who, she said, moved her hand. Each was accompanied by an explanatory text decoding its symbolism.\n\n## Significance\nGeorgiana Houghton (1814–1884) produced her swirling 'sacred symbolism' watercolours from the 1860s through automatic, spirit-guided drawing — works of pure abstraction decades before Kandinsky. Long overlooked, she is now recognised, alongside Hilma af Klint, as a key figure in the prehistory of abstract art arising directly from spiritualist practice. Her 1871 London exhibition presented these mediumistic images to a baffled public. She exemplifies the deep link between mediumship and the birth of non-representational art.\n\n## For artists & game designers\nProof that 'automatic' spirit-guided mark-making yields a distinctive dense, web-like abstract style — a usable visual language for channelled art.",
+   "citations": [
+    {"text": "Georgiana Houghton, *Evenings at Home in Spiritual Séance* (1881)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Houghton_AB85.H7375.A863n_-_Grand_Jubilee_Concert.jpg"}
+   ],
+   "key_concepts": ["Georgiana Houghton", "spirit drawing", "mediumistic art", "early abstraction"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__mesmerism",
+   "title": "Le Baquet de Mesmer (Mesmer's Magnetic Tub)",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "After Franz Anton Mesmer (tradition)",
+   "date": "late 18th c. (later reproduction)",
+   "place": "Paris, France",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["mesmerism", "animal magnetism", "baquet", "magnetic tub", "franz mesmer", "trance", "crisis", "salon"],
+   "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:%22Le_Baquet_de_Mesmer%22_Wellcome_M0006352.jpg",
+   "summary": "An illustration of *le baquet de Mesmer*, the magnetic tub around which Franz Anton Mesmer's Parisian patients gathered to receive the curative flow of 'animal magnetism' (Wellcome Collection).\n\n## Iconography\nElegant patients sit in a circle around the [[motif:baquet|baquet]] — a covered wooden tub filled with 'magnetised' water, iron filings, and bottles — gripping protruding iron rods and joined by a connecting cord. The scene captures the theatrical, salon setting in which magnetic 'crises' (convulsions, swoons) were induced.\n\n## Significance\nMesmer's doctrine of animal magnetism (1770s–80s) held that an invisible fluid pervaded the cosmos and that its blockage caused illness, treatable by the magnetiser's passes and apparatus. A 1784 French royal commission (including Franklin, Lavoisier, and Guillotin) found no such fluid, attributing the effects to imagination — an early landmark of placebo and suggestion research. Mesmerism nonetheless fed directly into hypnotism and, via its trance states and rapport, into the spiritualist and psychical movements of the next century.\n\n## For artists & game designers\nThe original group 'energy-channelling apparatus' — patients wired to a magnetic tub — a striking proto-scientific occult device.",
+   "citations": [
+    {"text": "R. Darnton, *Mesmerism and the End of the Enlightenment in France* (1968)."},
+    {"text": "Wellcome Collection (CC BY 4.0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:%22Le_Baquet_de_Mesmer%22_Wellcome_M0006352.jpg"}
+   ],
+   "key_concepts": ["mesmerism", "animal magnetism", "Franz Mesmer", "the baquet"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__mesmeric-seance",
+   "title": "Magnetism and Mesmerism (New-York Dissector, 1845)",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "Anonymous (journal illustration)",
+   "date": "1845",
+   "place": "New York, United States",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["mesmerism", "animal magnetism", "magnetic passes", "trance", "hypnotism", "rapport", "journal illustration", "collateral sciences"],
+   "rights": "Public domain (No restrictions). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:New-York_dissector_-_quarterly_journal_of_medicine,_surgery,_magnetism,_mesmerism_and_the_collateral_sciences_with_the_mysteries_and_fallacies_of_the_faculty_(1845)_(14769207351).jpg",
+   "summary": "An illustration from *The New-York Dissector* (1845), a journal of 'medicine, surgery, magnetism, mesmerism and the collateral sciences,' documenting mesmeric practice in mid-century America.\n\n## Iconography\nThe plate shows the practice of [[motif:mesmerism|mesmerism]] — a magnetiser inducing a trance in a seated subject by passes of the hands or fixed gaze. Such imagery accompanied the lectures and demonstrations through which 'magnetic' healing and clairvoyance toured the United States.\n\n## Significance\nBy the 1840s mesmerism had crossed the Atlantic and merged with phrenology ('phreno-magnetism') and incipient spiritualism, supplying the trance technique and the idea of a magnetic rapport through which a sensitive could perceive hidden things. The very journal title — joining magnetism and mesmerism to orthodox medicine while promising the 'mysteries and fallacies of the faculty' — captures the contested status of these practices. American mesmerism formed an immediate matrix for the spiritualist explosion of 1848.\n\n## For artists & game designers\nA period American depiction of 'putting someone under' by magnetic passes — useful for a hypnotist or trance-induction scene.",
+   "citations": [
+    {"text": "On American mesmerism, see R. Fuller, *Mesmerism and the American Cure of Souls* (1982)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:New-York_dissector_-_quarterly_journal_of_medicine,_surgery,_magnetism,_mesmerism_and_the_collateral_sciences_with_the_mysteries_and_fallacies_of_the_faculty_(1845)_(14769207351).jpg"}
+   ],
+   "key_concepts": ["mesmerism", "animal magnetism", "American spiritualism", "trance"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__phrenology-head",
+   "title": "Phrenological Chart of the Faculties",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "Anonymous (popular graphic arts)",
+   "date": "19th c.",
+   "place": "United States",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["phrenology", "skull", "faculties", "organs of mind", "head map", "character reading", "fowler", "chart"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Phrenological_chart_LCCN2003689349.jpg",
+   "summary": "A nineteenth-century phrenological chart mapping the regions of the skull to the mental 'faculties' or 'organs' of the mind.\n\n## Iconography\nA head in profile is divided into numbered and labelled zones — Amativeness, Benevolence, Veneration, Combativeness, and dozens more — each [[motif:phrenology|organ]] held to govern a trait whose strength could be read from the bumps of the skull above it. The chart is the standard reference image of the phrenologist's practice.\n\n## Significance\nPhrenology, founded by Franz Joseph Gall around 1800 and popularised in America by the Fowler brothers, claimed that character could be read from cranial shape. Though discredited as science, it was enormously influential, spreading a vocabulary of localised mental 'faculties' and feeding the same Victorian appetite for reading the hidden self that drove physiognomy, mesmerism, and spiritualism. 'Phreno-magnetism' explicitly fused phrenology with mesmeric trance.\n\n## For artists & game designers\nThe labelled-head diagram is a perfect diegetic 'character stat sheet' — map traits to skull regions for a pseudo-scientific UI.",
+   "citations": [
+    {"text": "J. van Wyhe, *Phrenology and the Origins of Victorian Scientific Naturalism* (2004)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Phrenological_chart_LCCN2003689349.jpg"}
+   ],
+   "key_concepts": ["phrenology", "faculties of mind", "Gall and the Fowlers", "character reading"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "spiritualism_seance__blavatsky",
+   "title": "Spiritualism and Theosophy (Hours with the Ghosts, 1897)",
+   "work": "Spiritualism & the Séance: The Occult Revival's Visual Record",
+   "creator": "Anonymous (book illustration, Internet Archive)",
+   "date": "1897",
+   "place": "Chicago / United States",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["theosophy", "spiritualism", "ghost", "investigation", "nineteenth-century witchcraft", "phenomena", "book illustration", "occult revival"],
+   "rights": "Public domain (No restrictions). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hours_with_the_ghosts,_or,_Nineteenth_century_witchcraft_-_illustrated_investigations_into_the_phenomena_of_spiritualism_and_theosophy_(1897)_(14591793778).jpg",
+   "summary": "An illustration from *Hours with the Ghosts, or, Nineteenth Century Witchcraft* (1897), an illustrated investigation into the phenomena of spiritualism and theosophy.\n\n## Iconography\nThe plate belongs to a richly illustrated exposé-cum-survey of séance-room and [[motif:theosophy|Theosophical]] phenomena — mediums, manifestations, and the apparatus of spirit communication — typical of the turn-of-century literature that catalogued and scrutinised the occult revival.\n\n## Significance\nHenry Ridgely Evans's *Hours with the Ghosts* exemplifies the sceptical-investigative genre that grew up alongside spiritualism and Theosophy, surveying their 'phenomena' with a conjuror's and debunker's eye. Theosophy, founded in 1875 by Helena Blavatsky and Henry Olcott, gave the occult revival its most ambitious doctrinal system, absorbing spiritualist phenomena into a grand scheme of subtle bodies, masters, and cosmic evolution. Works like this document the dense, contested print culture in which belief and exposure circulated together.\n\n## For artists & game designers\nA window into how the period itself illustrated and catalogued 'ghost phenomena' — a source for an in-world investigator's casebook aesthetic.",
+   "citations": [
+    {"text": "H. R. Evans, *Hours with the Ghosts, or, Nineteenth Century Witchcraft* (1897)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hours_with_the_ghosts,_or,_Nineteenth_century_witchcraft_-_illustrated_investigations_into_the_phenomena_of_spiritualism_and_theosophy_(1897)_(14591793778).jpg"}
+   ],
+   "key_concepts": ["Theosophy", "spiritualism", "occult revival", "psychical investigation"],
+   "summary_status": "authored"
+  }
+ ]
+}

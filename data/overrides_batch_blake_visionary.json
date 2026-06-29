@@ -1,0 +1,491 @@
+{
+ "_work": {
+  "key": "blake_visionary",
+  "short_id": "BLKE",
+  "title": "William Blake — Visionary & Prophetic Art",
+  "creator": "William Blake",
+  "date": "1789–1827",
+  "century": 18,
+  "place": "London, England",
+  "region": "England",
+  "language": "English",
+  "era": "modern",
+  "tradition": "hermetic",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "blake_visionary",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Paintings_by_William_Blake",
+  "rights": "Public domain / CC0 (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "fourfold vision",
+   "urizen the measurer",
+   "fallen reason",
+   "prophetic illuminated book",
+   "imagination as the divine body",
+   "contrary states of the soul"
+  ],
+  "blurb": "The supreme esoteric-visionary art of William Blake (1757–1827): the relief-etched illuminated prophecies (Urizen, Europe, The Marriage of Heaven and Hell, Jerusalem, Milton, Songs of Innocence and of Experience) and the large colour-printed designs and tempera/watercolour series (Newton, The Ancient of Days, the Great Red Dragon, Nebuchadnezzar, The Ghost of a Flea, Pity, Hecate, Elohim Creating Adam, and the illustrations to the Book of Job and Dante). Blake fused Bible, Milton, Swedenborgian and Behmenist mysticism, and his own private mythology into a self-built visionary cosmos."
+ },
+ "entries": [
+  {
+   "id": "blake_visionary__ancient-of-days",
+   "title": "The Ancient of Days (frontispiece to *Europe a Prophecy*)",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "1794 (this copy K, relief etching with watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["urizen", "the compasses", "demiurge", "act of creation", "golden sun-disc", "bearded creator", "limiting of the infinite", "wind-swept hair"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Europe_a_Prophecy_copy_K_plate_01.jpg",
+   "summary": "*The Ancient of Days*, Blake's frontispiece to *Europe a Prophecy* (1794), shows the god-figure Urizen crouching within a blazing sun-disc and reaching down with a golden compass to circumscribe the dark deep below.\n\n## Iconography\nA muscular, white-bearded old man kneels inside a solar orb, his hair and beard streaming sideways in a cosmic wind. He leans out of the disc and lowers his left hand, the two splayed fingers forming a pair of compasses that cast rays of dividing light into the formless dark. The composition is severely symmetrical and architectonic.\n\n## Significance\nThe figure is [[motif:urizen the measurer|Urizen]], Blake's embodiment of bounding reason and law, performing the act described in Proverbs 8:27, 'when he set a compass upon the face of the depth.' For Blake this is not pure creation but a fall into limitation — the imposition of measure, number, and weight upon the infinite. The image fuses the Demiurge of Gnostic thought with the geometer-God of Newtonian deism; it is the visual antithesis of [[motif:imagination as the divine body|imaginative liberty]]. Blake reportedly saw the design hovering at the top of his staircase.\n\n## For artists & game designers\nThe definitive icon of the cosmic architect / world-bounding demiurge — a god who creates by measuring rather than loving.",
+   "citations": [
+    {"text": "Kathleen Raine, *William Blake* (1970)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Europe_a_Prophecy_copy_K_plate_01.jpg"}
+   ],
+   "key_concepts": ["Urizen", "Demiurge", "compass of creation", "Europe a Prophecy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__newton",
+   "title": "*Newton*",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "1795/c.1805 (colour print finished in ink and watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["isaac newton", "single vision", "the compasses", "geometry", "sea-bed", "naked sage", "reductive reason", "scroll diagram"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Newton-WilliamBlake.jpg",
+   "summary": "*Newton* is one of Blake's twelve 'large colour prints' of 1795, showing the natural philosopher Isaac Newton as a nude figure bent double on the floor of the sea, drawing a diagram with a compass.\n\n## Iconography\nA powerful young nude crouches on a dark, encrusted rock at the bottom of the ocean. Oblivious to the living, jewel-like coral around him, he bends his whole body toward a white scroll and inscribes a geometric figure with a pair of compasses. His eye is fixed on the abstract diagram alone.\n\n## Significance\nNewton here is the personification of what Blake called 'single vision and Newton's sleep' — reason and measurement divorced from imagination. The compass links him directly to [[motif:urizen the measurer|Urizen]] in *The Ancient of Days*; both reduce the living cosmos to mechanical geometry. That Newton sits at the bottom of the sea of materialism, blind to the organic splendour behind him, is Blake's critique of Enlightenment rationalism and Lockean empiricism. The work was a touchstone for later readings of Blake by S. Foster Damon and Northrop Frye.\n\n## For artists & game designers\nThe archetype of the brilliant-but-blinkered rationalist: genius turned inward on abstraction while the living world glows ignored behind him.",
+   "citations": [
+    {"text": "Northrop Frye, *Fearful Symmetry: A Study of William Blake* (1947)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Newton-WilliamBlake.jpg"}
+   ],
+   "key_concepts": ["single vision", "Newton's sleep", "Enlightenment reason", "colour prints of 1795"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__great-red-dragon",
+   "title": "The Great Red Dragon and the Woman Clothed with the Sun",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "c.1805–1810 (watercolour and graphite)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["apocalypse", "seven-headed dragon", "woman clothed with the sun", "book of revelation", "satan", "spread wings", "crescent moon", "cosmic combat"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_The_Great_Red_Dragon_and_the_Woman_Clothed_with_the_Sun_-_Google_Art_Project.jpg",
+   "summary": "From Blake's series illustrating the Book of Revelation, this watercolour depicts the Great Red Dragon of chapter 12 looming over the Woman Clothed with the Sun.\n\n## Iconography\nA monstrous winged dragon, seen from behind, rears up with vast bat-like wings spread across the whole sheet and a serpentine tail coiling. Far below, the radiant Woman lies with the crescent moon beneath her feet, her arms flung out as the dragon prepares to devour her child. The dragon's muscular, almost heroic back dominates the design.\n\n## Significance\nThe scene illustrates Revelation 12, where the dragon — identified as Satan — waits to consume the child of the sun-crowned woman. Blake renders cosmic evil as overwhelming physical power and beauty, a tension central to his vision of the [[motif:contrary states of the soul|contraries]]. The series was commissioned by Thomas Butts. The image gained pop-cultural notoriety through Thomas Harris's *Red Dragon*; art-historically it is studied via Martin Butlin's catalogue raisonné.\n\n## For artists & game designers\nA masterclass in depicting a monster from behind, so the viewer shares its menacing vantage over a helpless victim below.",
+   "citations": [
+    {"text": "Martin Butlin, *The Paintings and Drawings of William Blake* (1981)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_The_Great_Red_Dragon_and_the_Woman_Clothed_with_the_Sun_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["Book of Revelation", "Great Red Dragon", "Woman Clothed with the Sun", "apocalyptic watercolours"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__red-dragon-woman",
+   "title": "The Great Red Dragon and the Woman Clothed with the Sun (Brooklyn variant)",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "c.1803–1805 (watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["apocalypse", "seven-headed dragon", "woman clothed with the sun", "book of revelation", "frontal dragon", "diadems", "cosmic combat", "outspread wings"],
+   "rights": "Public domain ('No restrictions'). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Great_Red_Dragon_and_the_Woman_Clothed_with_the_Sun.jpg",
+   "summary": "A second of Blake's Revelation watercolours on the Great Red Dragon theme, here showing the dragon frontally with the woman below.\n\n## Iconography\nThe seven-headed, ten-horned dragon faces the viewer with arms raised and wings outspread, crowned with diadems, hovering above the prostrate Woman Clothed with the Sun who clutches her gown amid streaming light. The frontal, cruciform pose makes the dragon a dark parody of a blessing or crucified figure.\n\n## Significance\nBlake painted several treatments of Revelation 12 for Thomas Butts; this frontal composition contrasts with the better-known rear view. The dragon's diademed heads literalise Revelation's 'seven heads and ten horns, and upon his heads seven crowns,' presenting Satanic tyranny as a counterfeit sovereignty. The image belongs to Blake's late biblical watercolour project, his most sustained engagement with [[motif:fourfold vision|apocalyptic prophecy]].\n\n## For artists & game designers\nThe frontal, arms-raised monster reads as blasphemous icon — evil posed in the body-language of worship.",
+   "citations": [
+    {"text": "Martin Butlin, *The Paintings and Drawings of William Blake* (1981)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Great_Red_Dragon_and_the_Woman_Clothed_with_the_Sun.jpg"}
+   ],
+   "key_concepts": ["Revelation 12", "seven-headed dragon", "Butts commission", "biblical watercolours"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__nebuchadnezzar",
+   "title": "*Nebuchadnezzar*",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "1795/c.1805 (colour print finished in ink and watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["nebuchadnezzar", "madness", "bestial degradation", "crawling king", "book of daniel", "long claws", "wild eyes", "fallen reason"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Nebuchadnezzar_(Minneapolis).jpg",
+   "summary": "*Nebuchadnezzar*, one of the 1795 large colour prints, shows the Babylonian king reduced to a beast crawling on all fours after God's judgement.\n\n## Iconography\nA naked, heavily muscled king crawls on hands and knees, his eyes wide with terror and madness, his hair and beard grown long and matted, his fingernails curled into talons. He stares out from a dark cavern of vegetation, more animal than man.\n\n## Significance\nThe subject is from Daniel 4: the proud king Nebuchadnezzar is driven from men 'and did eat grass as oxen' until he acknowledged heaven's rule. For Blake the image dramatises the degradation of the rational, tyrannical mind — the same fallen-reason theme as [[motif:urizen the measurer|Urizen]] and Newton — into pure bestiality. The terrified animal stare is among the most psychologically intense faces in British art. The print descends from a small design in *The Marriage of Heaven and Hell*.\n\n## For artists & game designers\nThe template for the proud ruler broken into a feral, grass-eating beast — sanity stripped to instinct.",
+   "citations": [
+    {"text": "David Bindman, *Blake as an Artist* (1977)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Nebuchadnezzar_(Minneapolis).jpg"}
+   ],
+   "key_concepts": ["Book of Daniel", "Nebuchadnezzar's madness", "bestial fall", "colour prints of 1795"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__ghost-of-a-flea",
+   "title": "*The Ghost of a Flea*",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "c.1819–1820 (tempera and gold on mahogany panel)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["visionary head", "bloodthirsty spirit", "metempsychosis", "tongue darting", "cupped bowl", "scaly reptilian skin", "starry curtain", "spirit of a flea"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_The_Ghost_of_a_Flea_-_Google_Art_Project.jpg",
+   "summary": "*The Ghost of a Flea* is a small visionary tempera depicting the soul of a flea as a muscular, reptilian humanoid striding between curtains, holding a bowl to catch blood.\n\n## Iconography\nA bald, scaly, heavily muscled creature moves across a small stage between drawn curtains spangled with stars. It carries a thorn or dagger in one hand and a cupped acorn-bowl for drinking blood in the other; its tongue darts hungrily from its mouth. The figure is bathed in an eerie spotlight.\n\n## Significance\nThe image arose from Blake's 'visionary heads,' drawn for the astrologer John Varley during late-night séance-like sessions. Blake claimed the spirit told him that fleas were inhabited by the souls of bloodthirsty men, confined to such tiny bodies lest they lay waste to humankind — a grim joke on [[motif:contrary states of the soul|metempsychosis]]. Varley recorded the encounter; the panel is glittered with gold to suggest its supernatural light.\n\n## For artists & game designers\nThe perfect 'tiny evil made monstrous' design — a microscopic predator's soul rendered as a stage-lit blood-drinking demon.",
+   "citations": [
+    {"text": "John Varley, *A Treatise on Zodiacal Physiognomy* (1828)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_The_Ghost_of_a_Flea_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["visionary heads", "John Varley", "metempsychosis", "tempera panel"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__elohim-creating-adam",
+   "title": "*Elohim Creating Adam*",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "1795/c.1805 (colour print finished in ink and watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["creation of adam", "elohim", "earthbound man", "serpent of mortality", "weary creator", "outspread wings", "fall into matter", "genesis"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Elohim_Creating_Adam_-_WGA2219.jpg",
+   "summary": "*Elohim Creating Adam*, a 1795 colour print, shows the creator-god Elohim forming Adam from the earth as a serpent already coils about the man's leg.\n\n## Iconography\nA stern, winged Elohim hovers horizontally above the prostrate Adam, pressing him into being with weary, almost grieving effort. Adam lies pinned to the soil, a serpent winding around his thigh. Both figures share an expression of suffering rather than triumph; sun and water lie at the horizon.\n\n## Significance\nFor Blake the creation of the natural, mortal body was itself a kind of fall — Adam is bound to earth and already entangled with the serpent of mortality at the very moment of his making. Elohim labours under the burden of creating fallen matter, an idea coloured by Blake's reading of Gnostic and Behmenist sources. The work belongs to the same 1795 set as [[motif:fallen reason|Newton]] and *Nebuchadnezzar*.\n\n## For artists & game designers\nA creation scene reframed as tragedy: the maker exhausted, the made already doomed and serpent-bound.",
+   "citations": [
+    {"text": "Anthony Blunt, *The Art of William Blake* (1959)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Elohim_Creating_Adam_-_WGA2219.jpg"}
+   ],
+   "key_concepts": ["Genesis creation", "Elohim", "fall into matter", "colour prints of 1795"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__pity",
+   "title": "*Pity*",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "c.1795 (colour print finished in ink and watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["pity", "macbeth simile", "naked babe striding the blast", "celestial horses", "heaven's cherubim", "outstretched mother", "swift coursers", "visual metaphor"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Pity_-_Google_Art_Project.jpg",
+   "summary": "*Pity* is a 1795 colour print that literally visualises a simile from Shakespeare's *Macbeth*, in which pity is 'like a naked new-born babe, striding the blast.'",
+   "citations": [
+    {"text": "S. Foster Damon, *A Blake Dictionary* (1965)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Pity_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["Macbeth simile", "literalised metaphor", "celestial coursers", "colour prints of 1795"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__hecate",
+   "title": "Hecate, or *The Night of Enitharmon's Joy*",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "c.1795 (colour print finished in ink and watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["triple hecate", "enitharmon", "owl of night", "ass and serpent", "grimoire book", "bat-winged creature", "lunar sorcery", "female dominion"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hecate,_or_The_Night_of_Enitharmon%27s_Joy,_Butlin_316.jpg",
+   "summary": "This 1795 colour print depicts a triple female figure — the witch-goddess Hecate, or Blake's own Enitharmon — presiding over a nocturnal world of dark creatures with her hand on an open book.\n\n## Iconography\nA seated woman rests her hand on a large open book, while two further figures press against her back, forming the triple form of Hecate. Around them lurk creatures of the night: an owl, a bat-winged reptile, a braying ass, a thistle, and a serpent. The scene is steeped in lunar gloom.\n\n## Significance\nThe classical Hecate, goddess of witchcraft, crossroads, and the moon, is here fused with [[motif:female dominion|Enitharmon]], a figure of Blake's mythology whose 'night of joy' is the eighteen-hundred-year reign of female-dominated, restrictive religion. The open book signals occult or doctrinal authority; the surrounding beasts embody fear and superstition. Scholars including Kathleen Raine read the work through Blake's ambivalence toward the feminine and toward organised religion.\n\n## For artists & game designers\nThe definitive triple-goddess / night-witch tableau: one figure, three aspects, ringed by familiars and a book of dark lore.",
+   "citations": [
+    {"text": "Kathleen Raine, *Blake and Tradition* (1968)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hecate,_or_The_Night_of_Enitharmon%27s_Joy,_Butlin_316.jpg"}
+   ],
+   "key_concepts": ["triple Hecate", "Enitharmon", "witchcraft iconography", "colour prints of 1795"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__satan-rebel-angels",
+   "title": "Satan Arousing the Rebel Angels",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "1808 (pen and watercolour, Butts set)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["satan", "rebel angels", "paradise lost", "milton illustration", "radiant tempter", "fallen host", "spear and shield", "sunburst halo"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:ParadiseLButts1.jpg",
+   "summary": "From Blake's watercolour series illustrating Milton's *Paradise Lost*, this design (the Butts set) shows Satan rallying his fallen angels.\n\n## Iconography\nA radiant, youthful Satan stands at the centre with arms outstretched, a starburst of light behind his head, holding spear and shield. Around and below him the rebel host rouses from the burning lake, their bodies surging upward in answer to his call. Satan is still beautiful, his fall not yet legible in his form.\n\n## Significance\nBlake illustrated *Paradise Lost* for Thomas Butts in 1808. His Satan is deliberately glorious — consistent with Blake's famous remark in [[motif:contrary states of the soul|The Marriage of Heaven and Hell]] that Milton 'was of the Devil's party without knowing it.' The radiant rebel embodies energy and revolt, qualities Blake prized even as he traced their tragic limits. The series is catalogued by Martin Butlin.\n\n## For artists & game designers\nThe charismatic fallen leader at the moment of rallying his army — beauty and defiance before ruin sets in.",
+   "citations": [
+    {"text": "Martin Butlin, *The Paintings and Drawings of William Blake* (1981)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:ParadiseLButts1.jpg"}
+   ],
+   "key_concepts": ["Paradise Lost", "Milton illustrations", "Satan's revolt", "Butts watercolours"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__albion-rose",
+   "title": "*Albion Rose* (Glad Day)",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "c.1793–1796 (colour-printed etching, from *A Large Book of Designs*)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["albion", "dance of liberation", "radiant nimbus", "outstretched arms", "moth and worm", "self-sacrifice", "resurrection of man", "spiritual sunrise"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Albion_Rose_-_from_A_Large_Book_of_Designs_1793-6.jpg",
+   "summary": "*Albion Rose*, also called *Glad Day*, depicts the youth Albion springing up in a radiant burst of light with arms flung wide.\n\n## Iconography\nA naked young man stands on a rocky height in a cruciform pose, arms spread and one foot lifted as if dancing, surrounded by a brilliant rainbow nimbus of light. At his feet a moth and a worm-like creature emerge. His face is rapt and joyful.\n\n## Significance\nAlbion is Blake's personification of England and of universal humanity; his rising is an emblem of spiritual awakening and liberation from materialist bondage. An inscription on one impression reads that Albion 'rose from where he labour'd at the Mill with Slaves, / Giving himself for the Nations he danc'd the dance of Eternal Death,' fusing [[motif:imagination as the divine body|self-sacrifice]] with resurrection. The pose echoes the Vitruvian man, reclaiming Renaissance proportion for visionary ends.\n\n## For artists & game designers\nThe ultimate 'awakening / ascension' pose: a figure exploding into radiance, arms wide, the instant the spirit breaks free.",
+   "citations": [
+    {"text": "Northrop Frye, *Fearful Symmetry* (1947)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Albion_Rose_-_from_A_Large_Book_of_Designs_1793-6.jpg"}
+   ],
+   "key_concepts": ["Albion", "spiritual awakening", "Glad Day", "dance of liberation"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__god-judging-adam",
+   "title": "God Judging Adam",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "1795 (colour print finished in ink and watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["judgement", "urizenic god", "fiery chariot", "law-giver", "aged adam", "flames", "scroll of law", "doubled figures"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:God_judging_adam_blake_1795.jpg",
+   "summary": "*God Judging Adam*, a 1795 colour print, shows an enthroned, flame-wreathed god pronouncing judgement on a grey, aged Adam who mirrors him.\n\n## Iconography\nA bearded god sits in a chariot ringed by flames, holding a scroll and extending his hand toward Adam, who stands before him bowed and old. The two figures strikingly resemble each other, both white-bearded; horses of fire rear behind the throne. The palette is hot and oppressive.\n\n## Significance\nLong mistitled 'God Creating Adam,' the print actually shows the giving of the law and the sentence of mortality. The near-identity of judge and judged expresses Blake's conviction that the punitive law-giving god — [[motif:urizen the measurer|Urizen]] — is a projection of fallen man, not a transcendent other. The fiery chariot recalls Ezekiel's vision turned tyrannical. It belongs to the famous 1795 colour-print group studied by Butlin and Bindman.\n\n## For artists & game designers\nJudge and condemned rendered as mirror images — the oppressor revealed as the self.",
+   "citations": [
+    {"text": "David Bindman, *Blake as an Artist* (1977)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:God_judging_adam_blake_1795.jpg"}
+   ],
+   "key_concepts": ["divine judgement", "the Law", "Urizenic god", "colour prints of 1795"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__marriage-heaven-hell",
+   "title": "*The Marriage of Heaven and Hell* (title plate)",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "c.1790–1793 (copy G; relief etching with watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["contraries", "heaven and hell", "embracing couples", "flames and clouds", "proverbs of hell", "illuminated printing", "energy and reason", "tree of life"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Blake_The_Marriage_of_Heaven_and_Hell,_copy_G,_object_3.jpg",
+   "summary": "The title plate of *The Marriage of Heaven and Hell*, Blake's prose-poem of visionary inversion, with figures embracing across the divide of cloud and flame.\n\n## Iconography\nThe title lettering arches over a scene split between an upper region of trees and clouds and a lower region of fire. Tiny couples embrace and figures stride through the flames; flowering branches and birds animate the margins. The hand-coloured plate glows in ochres, blues and reds.\n\n## Significance\n*The Marriage of Heaven and Hell* (c.1790–93) is Blake's most quoted prophetic book, home to the 'Proverbs of Hell' and the doctrine that 'Without Contraries is no progression.' It inverts conventional morality: energy is 'Eternal Delight,' and the [[motif:contrary states of the soul|contraries]] of reason and desire must wed rather than war. The book exemplifies Blake's relief-etched 'illuminated printing,' in which text and image are etched together from a single copperplate. It was produced amid the ferment of the French Revolution.\n\n## For artists & game designers\nThe foundational text of moral inversion — a world where 'hell' is creative energy and the two opposed realms must be married, not conquered.",
+   "citations": [
+    {"text": "Joseph Viscomi, *Blake and the Idea of the Book* (1993)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Blake_The_Marriage_of_Heaven_and_Hell,_copy_G,_object_3.jpg"}
+   ],
+   "key_concepts": ["Marriage of Heaven and Hell", "contraries", "Proverbs of Hell", "illuminated printing"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__book-of-urizen",
+   "title": "*The First Book of Urizen*, Plate 22",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "1794/later printing (relief etching with watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["urizen", "creation myth", "net of religion", "bound figure", "primeval priest", "fallen god", "tangled web", "prophetic book"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_The_First_Book_of_Urizen,_Plate_22_(Bentley_24)_-_Google_Art_Project.jpg",
+   "summary": "A full-page design from *The First Book of Urizen* (1794), Blake's parody of Genesis recounting the self-isolation and fall of the god Urizen.\n\n## Iconography\nA figure is shown amid Blake's characteristic flowing, organic forms — bowed bodies, enveloping nets or webs, and the dark, cavernous spaces of Urizen's self-created world. The hand-tinted plate sets a sculptural human form against swirling colour.\n\n## Significance\n*The First Book of Urizen* is Blake's mock-Bible, narrating how [[motif:urizen the measurer|Urizen]] — 'the primeval Priest' — withdraws from the Eternals, writes his iron book of laws, and falls into the divided, mortal cosmos, dragging humanity after him into the 'Net of Religion.' It is among Blake's darkest prophecies, the negative counterpart to the liberatory *Marriage of Heaven and Hell*. The relief-etched plates were printed in very few copies, each uniquely coloured; the book is central to study of Blake's private mythology.\n\n## For artists & game designers\nA ready-made fallen-creator mythology: a god who legislates the universe into existence and ensnares his creatures in nets of law.",
+   "citations": [
+    {"text": "Harold Bloom, *Blake's Apocalypse* (1963)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_The_First_Book_of_Urizen,_Plate_22_(Bentley_24)_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["Book of Urizen", "anti-Genesis", "Net of Religion", "private mythology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__behemoth-leviathan",
+   "title": "Behemoth and Leviathan (Book of Job, plate 15)",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "c.1805–1810 (watercolour, Butts set)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["behemoth", "leviathan", "book of job", "primeval beasts", "god in glory", "encircling vision", "land and sea monsters", "divine power"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Behemoth_and_Leviathan_Butts_set.jpg",
+   "summary": "From Blake's Book of Job illustrations, this design shows God displaying to Job the two primeval monsters Behemoth and Leviathan in a circular vision of earth and sea.\n\n## Iconography\nGod and angels appear above in an arc of cloud, gesturing downward to a roundel that frames Behemoth, a vast land-beast, above Leviathan, a coiling sea-serpent. Job and his companions watch from below. The encircling composition divides the cosmos into heaven, land, and the watery deep.\n\n## Significance\nThe scene illustrates God's answer from the whirlwind in Job 40–41, in which the Almighty points to Behemoth and Leviathan as proof of a power beyond human comprehension. Blake reads the two beasts as embodiments of war and tyranny — the brute forces of the fallen world — contained within God's encompassing vision. The watercolour belongs to the Butts set that Blake later engraved as the celebrated *Illustrations of the Book of Job* (1826), studied by Joseph Wicksteed.\n\n## For artists & game designers\nA cosmic 'menagerie of monsters' framing device: land-beast over sea-beast, both displayed within a divine circle.",
+   "citations": [
+    {"text": "Joseph Wicksteed, *Blake's Vision of the Book of Job* (1910)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Behemoth_and_Leviathan_Butts_set.jpg"}
+   ],
+   "key_concepts": ["Book of Job", "Behemoth and Leviathan", "answer from the whirlwind", "Butts watercolours"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__morning-stars",
+   "title": "When the Morning Stars Sang Together (Book of Job, plate 14)",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "1826 (engraving / watercolour design)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["morning stars", "sons of god", "book of job", "creation joy", "outstretched angels", "apollo and the horses", "celestial choir", "whirlwind theophany"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_The_Book_of_Job-_Pl._14,_When_the_morning_Stars_sang_together,_and_all_the_-_1963.303.15_-_Cleveland_Museum_of_Art.jpg",
+   "summary": "A central plate of Blake's *Illustrations of the Book of Job*, depicting the moment in God's whirlwind speech when 'the morning stars sang together, and all the sons of God shouted for joy.'\n\n## Iconography\nGod stretches out his arms at the centre, flanked by a row of jubilant angels with raised arms — the singing morning stars. Below, in horizontal registers, the sun-god drives his four horses, the moon-goddess rides her serpent-drawn car, and Job's family looks up. The whole forms a tiered cosmic theatre.\n\n## Significance\nThe plate illustrates Job 38:7 and stands at the spiritual climax of Blake's Job cycle, the turning from suffering to renewed vision. The 'sons of God' become a choir of angels; the personified sun and moon set the rejoicing within a fully animated, imaginative cosmos rather than a mechanical one — Blake's answer to [[motif:fallen reason|Newtonian]] astronomy. Engraved in 1826, the *Illustrations of the Book of Job* are regarded as the summit of his printmaking.\n\n## For artists & game designers\nA layered cosmic-rejoicing composition: a choir of angels above, personified sun and moon driving their chariots below.",
+   "citations": [
+    {"text": "Joseph Wicksteed, *Blake's Vision of the Book of Job* (1910)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_The_Book_of_Job-_Pl._14,_When_the_morning_Stars_sang_together,_and_all_the_-_1963.303.15_-_Cleveland_Museum_of_Art.jpg"}
+   ],
+   "key_concepts": ["Book of Job", "morning stars", "Illustrations of the Book of Job (1826)", "cosmic rejoicing"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__jerusalem-plate",
+   "title": "*Jerusalem, The Emanation of the Giant Albion*, Plate 51",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "c.1804–1820 (relief etching with watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["jerusalem", "albion", "vala", "hand and hyle", "despairing figures", "thrones of error", "prophetic epic", "emanation"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Jerusalem,_Plate_51_-_Google_Art_Project.jpg",
+   "summary": "Plate 51 of *Jerusalem*, Blake's longest and most ambitious illuminated prophecy, showing three seated figures sunk in despair beneath thrones of error.",
+   "citations": [
+    {"text": "Morton D. Paley, *The Continuing City: William Blake's Jerusalem* (1983)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Jerusalem,_Plate_51_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["Jerusalem", "Albion", "emanation", "illuminated prophecy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__milton-plate",
+   "title": "*Milton: A Poem in Two Books*, Plate 4 (copy C)",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "c.1804–1811 (relief etching with watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["milton", "the bard's song", "descent of milton", "self-annihilation", "prophetic book", "starry track", "los and enitharmon", "inspiration"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Milton_a_poem_in_2_books_-_Copy_C_plate_4_(Bentley_a,_Erdman_4,_Keynes_a).jpg",
+   "summary": "A plate from *Milton: A Poem*, in which the spirit of the dead poet John Milton descends to earth and into Blake himself to correct his own errors.\n\n## Iconography\nThe relief-etched plate combines Blake's illuminated text with marginal and interlinear figures — striding, falling, or reaching forms wreathed in flame and vine — set into the body of the verse so that words and bodies share the page.\n\n## Significance\n*Milton* (c.1804–1811) tells how the poet Milton, troubled in eternity, undertakes a journey of [[motif:imagination as the divine body|self-annihilation]] back into the world, entering Blake through the foot to redeem his Puritan misconceptions of God and gender. The book's preface contains the lyric 'And did those feet in ancient time' (later set as the hymn *Jerusalem*) with its 'dark Satanic Mills.' It is a meditation on poetic inspiration and the correction of error, exemplifying Blake's fusion of literary criticism and prophecy.\n\n## For artists & game designers\nA model for the 'mentor-spirit possesses the hero' device — a dead master returning through the living artist to undo his own mistakes.",
+   "citations": [
+    {"text": "Susan Fox, *Poetic Form in Blake's Milton* (1976)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Milton_a_poem_in_2_books_-_Copy_C_plate_4_(Bentley_a,_Erdman_4,_Keynes_a).jpg"}
+   ],
+   "key_concepts": ["Milton a Poem", "self-annihilation", "dark Satanic Mills", "poetic inspiration"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__songs-innocence",
+   "title": "*Songs of Innocence and of Experience* (combined title page)",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "1789–1794/later printing (relief etching with watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["innocence and experience", "expulsion from eden", "two contrary states", "flame-lettered title", "adam and eve", "illuminated lyric", "vine scrolls", "human soul"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Songs_of_Innocence_and_of_Experience_title_page_(Tulk-Rothschild-Blunt_copy).jpg",
+   "summary": "The combined title page of *Songs of Innocence and of Experience*, Blake's paired lyric cycle 'Shewing the Two Contrary States of the Human Soul.'\n\n## Iconography\nThe decorative title is interwoven with flame-like lettering and figures; this combined title page shows Adam and Eve, cowering beneath the flames of expulsion, set amid Blake's characteristic foliate scrolls and small human and animal forms climbing through the letters.\n\n## Significance\nThe *Songs* (Innocence 1789; combined with Experience 1794) present matched poems — 'The Lamb' against 'The Tyger,' the two 'Chimney Sweeper' and 'Nurse's Song' pairs — to dramatise the [[motif:contrary states of the soul|two contrary states]] through which the soul must pass. Innocence is not naivety to be discarded but a vision to be regained on the far side of Experience. Produced by Blake's relief-etched illuminated printing and hand-coloured, the book is his most widely loved work; mystical plates such as 'The Divine Image' make the human form itself divine.\n\n## For artists & game designers\nThe paired-states structure is a design pattern in itself: every motif rendered twice, once in innocence and once in experience.",
+   "citations": [
+    {"text": "Robert N. Essick, *William Blake, Printmaker* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Songs_of_Innocence_and_of_Experience_title_page_(Tulk-Rothschild-Blunt_copy).jpg"}
+   ],
+   "key_concepts": ["Songs of Innocence and Experience", "two contrary states", "illuminated printing", "innocence and experience"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__the-tyger",
+   "title": "The Tyger (*Songs of Experience*)",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "1794/later printing (relief etching with watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["the tyger", "fearful symmetry", "creator's forge", "contrary states", "burning bright", "starry tree", "experience", "theodicy"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Songs_of_Innocence_and_of_Experience-_The_Tyger_MET_DT992.jpg",
+   "summary": "The illuminated plate of 'The Tyger,' Blake's most famous lyric, in which the poet asks what immortal hand could frame the tiger's 'fearful symmetry.'\n\n## Iconography\nThe text of the poem fills the plate beneath a slender tree, at the foot of which stands a small, oddly mild tiger — its meekness in pointed tension with the ferocity of the verse. Foliage and a star-touched sky frame the hand-coloured page.\n\n## Significance\n'The Tyger' is the dark counterpart, in *Songs of Experience*, to 'The Lamb' of *Innocence*: 'Did he who made the Lamb make thee?' The poem poses the problem of evil and creative energy — the same maker forging both gentleness and terror — and is the lyric heart of Blake's doctrine of [[motif:contrary states of the soul|contraries]]. The almost tame depicted tiger has long provoked comment, as if the image deliberately withholds the terror the words invoke. The plate is a touchstone of English Romantic art and poetry alike.\n\n## For artists & game designers\nThe productive gap between fearsome text and meek image is itself a technique — let the words carry the dread the picture refuses.",
+   "citations": [
+    {"text": "Hazard Adams, *William Blake: A Reading of the Shorter Poems* (1963)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Songs_of_Innocence_and_of_Experience-_The_Tyger_MET_DT992.jpg"}
+   ],
+   "key_concepts": ["The Tyger", "fearful symmetry", "problem of evil", "Songs of Experience"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__sick-rose",
+   "title": "The Sick Rose (*Songs of Experience*)",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "1794/later printing (relief etching with watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["the sick rose", "invisible worm", "blighted love", "thorned stem", "caterpillar", "secret corruption", "experience", "fallen sexuality"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Songs_of_Innocence_and_of_Experience-_The_Sick_Rose_MET_DP816680.jpg",
+   "summary": "The plate of 'The Sick Rose,' a brief, dark lyric of *Songs of Experience* about an invisible worm destroying a rose's life.\n\n## Iconography\nA thorny rose-stem curves across the page; the bloom droops downward and a small human figure or worm sinks into its heart, while caterpillars and a despairing female form cling to the bending stem and thorns. The verse sits within and beside the foliage.\n\n## Significance\nThe poem — 'O Rose thou art sick. / The invisible worm... / Has found out thy bed / Of crimson joy' — compresses Blake's vision of corrupted, secretive [[motif:contrary states of the soul|love in the fallen world of Experience]] into eight lines. The 'invisible worm' has been read as jealousy, disease, concealment, and the deformation of desire by repressive morality. The integration of the figures into the literal plant is a model instance of Blake's fusion of word and design. It pairs with the open joy of *Innocence*.\n\n## For artists & game designers\nA compact emblem of hidden corruption: beauty visibly drooping while the rot works unseen at its core.",
+   "citations": [
+    {"text": "S. Foster Damon, *A Blake Dictionary* (1965)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Songs_of_Innocence_and_of_Experience-_The_Sick_Rose_MET_DP816680.jpg"}
+   ],
+   "key_concepts": ["The Sick Rose", "invisible worm", "corrupted love", "Songs of Experience"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__whirlwind-lovers",
+   "title": "The Whirlwind of Lovers (Dante, *Inferno* Canto V)",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake",
+   "date": "1824–1827 (pen and watercolour over pencil)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["paolo and francesca", "circle of the lustful", "whirlwind", "dante and virgil", "swooning poet", "sun-disc vision", "divine comedy", "carnal sinners"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Blake_Dante_Hell_V.jpg",
+   "summary": "From Blake's unfinished illustrations to Dante's *Divine Comedy*, this design shows the whirlwind of carnal sinners in the second circle of Hell, with Paolo and Francesca.\n\n## Iconography\nA great spiralling vortex of naked lovers sweeps across the upper sheet, swept on the eternal storm of the lustful. Below, Dante has swooned to the ground while Virgil supports or gestures over him; a radiant flame-bordered sun-disc enclosing the embracing Paolo and Francesca floats to one side.\n\n## Significance\nThe scene illustrates *Inferno* V, where Dante hears the tale of Paolo and Francesca and faints with pity. Blake, commissioned by John Linnell in his final years, both honoured and quietly criticised Dante's hell; the luminous disc enfolding the lovers hints at Blake's own more forgiving view of [[motif:contrary states of the soul|desire]] against Dante's damnation. The watercolours, left unfinished at Blake's death in 1827, are among his last and most freely coloured works.\n\n## For artists & game designers\nThe definitive 'storm of souls' vortex — bodies spiralling on an eternal wind, witnessed by a fainting traveller below.",
+   "citations": [
+    {"text": "Albert S. Roe, *Blake's Illustrations to the Divine Comedy* (1953)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Blake_Dante_Hell_V.jpg"}
+   ],
+   "key_concepts": ["Divine Comedy illustrations", "Paolo and Francesca", "circle of the lustful", "John Linnell commission"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "blake_visionary__dante-inferno",
+   "title": "The Circle of the Traitors: Dante's Foot Striking Bocca degli Abati",
+   "work": "William Blake — Visionary & Prophetic Art",
+   "creator": "William Blake (engraving; photograph by Daderot)",
+   "date": "1826–1827 (engraving)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["circle of traitors", "frozen cocytus", "bocca degli abati", "dante and virgil", "ice of betrayal", "divine comedy", "punishment", "lowest hell"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Circle_of_the_Traitors_-_Dante%27s_Foot_Striking_Bocca_Degli_Abati,_illustration_for_the_Divine_Comedy,_by_William_Blake,_1826-1827,_engraving_-_Montreal_Museum_of_Fine_Arts_-_Montreal,_Canada_-_DSC08890.jpg",
+   "summary": "An engraving from Blake's Dante series showing the frozen circle of traitors, where Dante's foot strikes the head of the betrayer Bocca degli Abati.\n\n## Iconography\nDante and Virgil move across the icy plain of Cocytus, where traitors are frozen to the neck. Dante's foot collides with the head of one damned soul — Bocca degli Abati — who is locked in the ice. The composition is stark, the figures sharply outlined in Blake's late linear engraving style.\n\n## Significance\nThe scene illustrates *Inferno* XXXII, set in the ninth and lowest circle, where betrayers are entombed in the ice of Cocytus. Blake undertook the Dante engravings for John Linnell in the last years of his life, completing only seven of an intended large series before his death in 1827. They represent the culmination of his career as an [[motif:prophetic illuminated book|engraver]], translating his watercolour designs into severe, expressive line.\n\n## For artists & game designers\nA frozen-hell tableau: betrayers locked neck-deep in ice, the protagonist literally stumbling over the damned.",
+   "citations": [
+    {"text": "Albert S. Roe, *Blake's Illustrations to the Divine Comedy* (1953)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Circle_of_the_Traitors_-_Dante%27s_Foot_Striking_Bocca_Degli_Abati,_illustration_for_the_Divine_Comedy,_by_William_Blake,_1826-1827,_engraving_-_Montreal_Museum_of_Fine_Arts_-_Montreal,_Canada_-_DSC08890.jpg"}
+   ],
+   "key_concepts": ["Divine Comedy engravings", "circle of traitors", "Cocytus", "John Linnell commission"],
+   "summary_status": "authored"
+  }
+ ]
+}

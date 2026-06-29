@@ -1,0 +1,381 @@
+{
+ "_work": {
+   "key": "emblemata",
+   "short_id": "EMBL",
+   "title": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "various",
+   "date": "1531–1736",
+   "century": 17,
+   "place": "Italy, German lands, the Low Countries, England, France",
+   "region": "Europe",
+   "language": "Latin, Italian, Dutch, English",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "emblemata",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Emblem_books",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["emblem motto picture epigram", "personification of abstractions", "hieroglyph and hidden meaning", "allegorical frontispiece", "impresa and device", "wheel of fortune and occasio"],
+   "blurb": "The symbolic-emblem tradition and the theory of the hidden image: from Alciato's founding Emblematum liber (1531) through Ripa's Iconologia of personified abstractions, the Renaissance 'hieroglyphics' of Horapollo and Valeriano, the Hermetic emblems of Bocchi, the love- and moral-emblems of Vaenius and Quarles, and the dense allegorical title pages of occult-philosophical books by Fludd, Kircher and Khunrath. These works built the visual grammar in which an abstract or esoteric idea could be encoded in a picture and read like a sacred sign."
+ },
+ "entries": [
+  {
+   "id": "emblemata__alciato-emblem",
+   "title": "Emblem 'Potentissimus affectus amor' (Alciato, 1531)",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Andrea Alciato; woodcut by Hans Schäufelin after Jörg Breu the Elder",
+   "date": "1531",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["emblem motto picture epigram", "love conquers all", "cupid", "lion", "personified passion", "tripartite emblem", "alciato", "woodcut"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:ALCIATO_1531_1_a4v_Potentissimus_affectus_amor.jpg",
+   "summary": "A page from the first edition of Andrea Alciato's *Emblematum liber* (Augsburg, 1531), the book that founded the entire emblem genre.\n\n## Iconography\nThe leaf carries the canonical three-part emblem structure: a Latin **motto** (*Potentissimus affectus amor*, 'love, the most powerful passion'), a **woodcut** picture, and an explanatory verse **epigram**. The image shows winged **Cupid** mastering wild beasts, the visual proof that love subdues even the strongest creatures.\n\n## Significance\nAlciato's collection assembled short Latin epigrams to which the Augsburg printer Heinrich Steyner attached woodcuts, accidentally inventing the [[motif:emblem-motto-picture-epigram|emblem]] as a fixed form of *motto + picture + poem*. The book ran to hundreds of editions across Europe and made the encoding of a moral or abstract idea in a decodable picture a central Renaissance art. Every later emblem book — sacred, amorous, Hermetic — descends from it.\n\n## For artists & game designers\nThe three-slot template (title / image / caption) is a ready-made card layout: a single icon that 'means' a virtue, vice, or power, with motto and flavour text built in.",
+   "citations": [
+    {"text": "A. Alciato, *Emblematum liber* (Augsburg, 1531)."},
+    {"text": "P. M. Daly, *Literature in the Light of the Emblem* (1998)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:ALCIATO_1531_1_a4v_Potentissimus_affectus_amor.jpg"}
+   ],
+   "key_concepts": ["Alciato", "emblem form", "motto-picture-epigram", "founding emblem book"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__alciato-tantalus",
+   "title": "Alciati Emblemata cum commentariis (Padua, 1621) — illustrated page",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Andrea Alciato, with commentary by Claude Mignault and Lorenzo Pignoria",
+   "date": "1621 (Tozzi edition)",
+   "place": "Padua, Italy",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["emblem motto picture epigram", "humanist commentary", "engraved emblem", "moral allegory", "learned apparatus", "alciato", "emblem book", "annotation"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Andre%C3%A6_Alciati_emblemata_cvm_commentariis_Clavdii_Minois...-_and_notis_Lavrentii_Pignorii_Patavini_-_nouissima_hac_editione_in_continuam_vnius_commentarij_seriem_congestis,_in_certas_quasdam_quasi_(14771272143).jpg",
+   "summary": "A page from the great annotated *Alciati Emblemata cum commentariis*, the heavily glossed Paduan edition that turned Alciato's slim emblem book into a vast scholarly encyclopedia.\n\n## Iconography\nAn engraved **emblem** picture sits within dense columns of humanist **commentary** by Claude Mignault (Minois) and Lorenzo Pignoria, surrounded by sources, parallels and moral exposition. The image proper has shrunk to a small framed scene embedded in a sea of learned text.\n\n## Significance\nBy the early 17th century the [[motif:emblem-motto-picture-epigram|Alciato]] corpus had accreted layer upon layer of commentary, treating each emblem as a riddle whose hidden meaning required scholarly decoding — the very [[motif:hieroglyph-and-hidden-meaning|theory of the hidden image]] in action. This edition shows the emblem as object of erudite interpretation, midway between poetry and the Hermetic 'hieroglyphics' of Valeriano.\n\n## For artists & game designers\nA model for layered lore: a small symbolic image surrounded by expanding tiers of annotation, where the picture is the key and the text is the unlockable codex entry.",
+   "citations": [
+    {"text": "A. Alciato, *Emblemata cum commentariis Claudii Minois* (Padua, 1621)."},
+    {"text": "D. Russell, *Emblematic Structures in Renaissance French Culture* (1995)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Andre%C3%A6_Alciati_emblemata_cvm_commentariis_Clavdii_Minois...-_and_notis_Lavrentii_Pignorii_Patavini_-_nouissima_hac_editione_in_continuam_vnius_commentarij_seriem_congestis,_in_certas_quasdam_quasi_(14771272143).jpg"}
+   ],
+   "key_concepts": ["Alciato", "humanist commentary", "emblem interpretation", "Mignault and Pignoria"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__bocchi-symbol",
+   "title": "Symbolicarum Quaestionum libri quinque (Bocchi, 1574) — engraved symbol",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Achille Bocchi; engravings by Giulio Bonasone (after Prospero Fontana)",
+   "date": "1574 (2nd edition; 1st 1555)",
+   "place": "Bologna, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["hermetic emblem", "symbolic question", "engraved device", "neoplatonic allegory", "learned riddle", "bonasone engraving", "bologna academy", "hidden wisdom"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Achillis_Bocchii_Bonon._Symbolicarum_quaestionum,_de_vniuerso_genere,_quas_serio_ludebat,_libri_quinque_(1574)_(14725712646).jpg",
+   "summary": "An engraved 'symbol' from Achille Bocchi's *Symbolicarum Quaestionum libri quinque*, one of the most intellectually ambitious and Hermetic of all Renaissance emblem books.\n\n## Iconography\nA finely engraved allegorical scene by **Giulio Bonasone** is paired with a Latin **symbolum** and verse, the whole posed as a *quaestio* — a learned 'question' whose meaning the reader must resolve. The figures and attributes are arranged as a deliberate visual puzzle of Neoplatonic and moral ideas.\n\n## Significance\nBocchi, founder of a Bolognese academy, conceived his 150 'symbolic questions' as serious philosophical play (*quas serio ludebat*), steeped in [[motif:hieroglyph-and-hidden-meaning|hieroglyphic]] and Hermetic thought of the kind associated with the Egyptian wisdom of Hermes Trismegistus. The Bonasone plates are among the finest emblem engravings of the century and place Bocchi at the esoteric, Neoplatonic end of the [[motif:emblem-motto-picture-epigram|emblem]] tradition.\n\n## For artists & game designers\nA gold standard for 'cryptic device' art: tightly composed allegorical engravings that present as solvable riddles rather than illustrations.",
+   "citations": [
+    {"text": "A. Bocchi, *Symbolicarum Quaestionum... libri quinque* (Bologna, 1555/1574)."},
+    {"text": "E. See & others on Bocchi's academy; cf. M. Watson, *Achille Bocchi and the Emblem Book as Symbolic Form* (1993)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Achillis_Bocchii_Bonon._Symbolicarum_quaestionum,_de_vniuerso_genere,_quas_serio_ludebat,_libri_quinque_(1574)_(14725712646).jpg"}
+   ],
+   "key_concepts": ["Achille Bocchi", "Hermetic emblem", "Bonasone engravings", "symbolic question"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__fludd-frontispiece",
+   "title": "Frontispiece to Robert Fludd's Utriusque Cosmi Historia (1617)",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Robert Fludd; engraved frontispiece (Theodore de Bry workshop, Oppenheim)",
+   "date": "1617–1619",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["allegorical frontispiece", "macrocosm and microcosm", "fludd", "occult title page", "cosmic harmony", "hermetic philosophy", "engraved title", "two worlds"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Frontpage_-_Robert_Fludd_-_Utriusque_cosmi_Historia_-_1617-19.png",
+   "summary": "The engraved title page of Robert Fludd's *Utriusque Cosmi... Historia* (1617–19), the encyclopedic Hermetic work on the 'two worlds', macrocosm and microcosm.\n\n## Iconography\nThe **allegorical frontispiece** frames the title in an architectural portal flanked by personified figures and emblematic devices that announce the book's theme: the correspondence of the great world (**macrocosm**) and the little world of man (**microcosm**), bound by cosmic harmony.\n\n## Significance\nFludd, English physician and Rosicrucian apologist, produced through the De Bry press at Oppenheim a series of the most spectacular [[motif:allegorical-frontispiece|occult title pages]] of the age. The frontispiece is itself a Hermetic emblem writ large: the whole argument of the book compressed into one decodable image, exemplifying the [[motif:hieroglyph-and-hidden-meaning|theory of the hidden image]] applied to the title page of a printed book.\n\n## For artists & game designers\nThe architectural title-portal: an ornate frame whose personifications and symbols pre-load the entire 'world' the reader is about to enter — a splash-screen that is also a thesis.",
+   "citations": [
+    {"text": "R. Fludd, *Utriusque Cosmi... Historia* (Oppenheim, 1617–19)."},
+    {"text": "J. Godwin, *Robert Fludd: Hermetic Philosopher and Surveyor of Two Worlds* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Frontpage_-_Robert_Fludd_-_Utriusque_cosmi_Historia_-_1617-19.png"}
+   ],
+   "key_concepts": ["Robert Fludd", "macrocosm-microcosm", "Hermetic frontispiece", "occult title page"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__kircher-frontispiece",
+   "title": "Frontispiece of Athanasius Kircher's Oedipus Aegyptiacus (1652)",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Athanasius Kircher; engraved frontispiece",
+   "date": "1652–1654",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["allegorical frontispiece", "egyptian hieroglyphs", "kircher", "occult title page", "sphinx and obelisk", "hermes trismegistus", "isis", "deciphering wisdom"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Oed-aegyp.png",
+   "summary": "The allegorical frontispiece of Athanasius Kircher's *Oedipus Aegyptiacus* (Rome, 1652–54), his vast attempt to 'decipher' Egyptian hieroglyphs as a hidden Hermetic theology.\n\n## Iconography\nThe **frontispiece** marshals Egyptianizing emblems — obelisks, sphinxes, personified figures and hieroglyphic devices — around the title, casting Kircher as the new **Oedipus** who will solve the riddle of Egyptian wisdom just as the original solved the Sphinx's.\n\n## Significance\nKircher believed the **hieroglyphs** encoded a secret philosophy descending from [[motif:hermetic|Hermes Trismegistus]], and his work is the grand Baroque monument to the Renaissance [[motif:hieroglyph-and-hidden-meaning|theory of the hidden image]] — the conviction that pictures could carry esoteric truths legible only to initiates. His decipherments were almost wholly wrong, but the frontispiece perfectly embodies the dream of the readable sacred symbol.\n\n## For artists & game designers\nThe 'cipher-puzzle world' announced visually: obelisks and sphinxes as promise of a script to be cracked — the title page as the game's central riddle in miniature.",
+   "citations": [
+    {"text": "A. Kircher, *Oedipus Aegyptiacus* (Rome, 1652–54)."},
+    {"text": "D. Stolzenberg, *Egyptian Oedipus: Athanasius Kircher and the Secrets of Antiquity* (2013)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Oed-aegyp.png"}
+   ],
+   "key_concepts": ["Athanasius Kircher", "Egyptian hieroglyphs", "Hermetic frontispiece", "Oedipus Aegyptiacus"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__khunrath-frontispiece",
+   "title": "Plate from Khunrath's Amphitheatrum Sapientiae Aeternae (1595/1609)",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Heinrich Khunrath",
+   "date": "1595/1609",
+   "place": "Hamburg / Hanau, German lands",
+   "era": "early_modern",
+   "tradition": "rosicrucian",
+   "motifs": ["allegorical frontispiece", "oratory laboratory", "amphitheatre of wisdom", "khunrath", "theosophy", "alchemical mysticism", "circular emblem", "eternal wisdom"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Plate_8_from_Amphitheatrum_Sapientiae_Aeternae,_Solius,_Verae_(Amphitheatre_of_the_Only_True_Eternal_Wisdom)_-_DPLA_-_0952df61a726436e9ae3bce827e57ec6.jpg",
+   "summary": "An engraved plate from Heinrich Khunrath's *Amphitheatrum Sapientiae Aeternae* ('Amphitheatre of Eternal Wisdom'), among the most celebrated theosophical-alchemical emblem plates of the era.\n\n## Iconography\nThe large circular composition stages an emblematic 'amphitheatre' of divine **wisdom**: figures, inscriptions, and ritual or laboratory apparatus arranged so that the whole functions as a meditative diagram uniting prayer and alchemical work (*ora et labora*).\n\n## Significance\nKhunrath's plates — most famously the 'oratory-laboratory' — fuse Christian piety, Paracelsian [[motif:alchemy|alchemy]] and proto-Rosicrucian [[motif:rosicrucian|theosophy]] into single image-arguments. They are emblems on a monumental scale, where each inscription and figure is a station in a contemplative ascent toward eternal wisdom, exemplifying how the [[motif:allegorical-frontispiece|allegorical plate]] could serve as a tool of esoteric meditation.\n\n## For artists & game designers\nA full circular 'temple of knowledge' tableau: a single ornate scene that doubles as a map of stations to be visited in order.",
+   "citations": [
+    {"text": "H. Khunrath, *Amphitheatrum Sapientiae Aeternae* (Hanau, 1609)."},
+    {"text": "U. Szulakowska, *The Alchemy of Light* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Plate_8_from_Amphitheatrum_Sapientiae_Aeternae,_Solius,_Verae_(Amphitheatre_of_the_Only_True_Eternal_Wisdom)_-_DPLA_-_0952df61a726436e9ae3bce827e57ec6.jpg"}
+   ],
+   "key_concepts": ["Heinrich Khunrath", "Amphitheatrum Sapientiae", "theosophical emblem", "ora et labora"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__valeriano-hiero",
+   "title": "Valeriano's Hieroglyphica (1556) — illustrated page",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Pierio Valeriano (Giovanni Pierio Valeriano Bolzani)",
+   "date": "1556",
+   "place": "Basel / Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["hieroglyph and hidden meaning", "egyptian sacred letters", "symbolic animal", "valeriano", "renaissance hieroglyphics", "encyclopedia of symbols", "woodcut", "sacred sign"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hieroglyphica,_siue,_De_sacris_Aegyptiorum_literis_commentarii,_Ioannis_Pierii_Valeriani_Bolzanii_Bellunensis_(1556)_(14767398113).jpg",
+   "summary": "A page from Pierio Valeriano's *Hieroglyphica, sive De sacris Aegyptiorum literis commentarii* (1556), the great Renaissance encyclopedia of symbolic meaning.\n\n## Iconography\nA woodcut **symbolic image** (typically an animal, object, or natural sign) accompanies commentary explaining its hidden significations, drawn from ancient authors and from the supposed 'sacred letters' (*sacrae literae*) of the Egyptians. Each entry treats a thing as a sign with layered meanings.\n\n## Significance\nValeriano systematized the Renaissance belief, founded on the recovery of [[motif:hieroglyph-and-hidden-meaning|Horapollo]], that the world is a book of symbols and that the Egyptian **hieroglyph** was a perfect picture-language of ideas. His vast *Hieroglyphica* supplied artists, emblematists and Hermetic philosophers with a reference work of decodable images, and stands directly behind the theory that an abstract concept can be carried by a sacred picture.\n\n## For artists & game designers\nA ready-made symbol dictionary: each creature or object keyed to a meaning, ideal for a consistent iconographic language across a project.",
+   "citations": [
+    {"text": "P. Valeriano, *Hieroglyphica* (Basel, 1556)."},
+    {"text": "K. Giehlow, *The Humanist Interpretation of Hieroglyphs in the Allegorical Studies of the Renaissance* (Eng. trans. 2015)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hieroglyphica,_siue,_De_sacris_Aegyptiorum_literis_commentarii,_Ioannis_Pierii_Valeriani_Bolzanii_Bellunensis_(1556)_(14767398113).jpg"}
+   ],
+   "key_concepts": ["Pierio Valeriano", "Renaissance hieroglyphics", "symbol encyclopedia", "Egyptian sacred letters"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__ripa-iconologia",
+   "title": "Ripa's Iconologia (1603) — illustrated page of personifications",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Cesare Ripa",
+   "date": "1603 (first illustrated edition)",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["personification of abstractions", "iconologia", "allegorical figure", "attributes and emblems", "cesare ripa", "handbook of allegory", "woodcut figure", "abstract concept"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Iconologia,_overo_Descrittione_di_diverse_imagini_cauate_dall%27antichit%C3%A0,_and_di_propria_inuentione,_(1603)_(14766371493).jpg",
+   "summary": "A page from the 1603 illustrated *Iconologia* of Cesare Ripa, the standard handbook for personifying abstract ideas in Western art.\n\n## Iconography\nA woodcut **personification** stands with its diagnostic **attributes** — the objects, animals, postures and colours by which an abstraction (a virtue, art, passion, or place) is to be recognized — beneath a heading and an explanatory description of why each attribute is chosen.\n\n## Significance\nRipa's *Iconologia* (text 1593, illustrated 1603) codified the visual vocabulary of [[motif:personification-of-abstractions|allegory]]: for two centuries painters, sculptors and designers of frontispieces consulted it to give bodily form to Wisdom, Melancholy, Alchemy, the Elements, the Liberal Arts and countless other concepts. It is the indispensable key to reading the personified figures that crowd Baroque ceilings, title pages and occult emblems.\n\n## For artists & game designers\nThe definitive 'attribute kit' for allegory: look up an abstraction and get the exact props and colours that will make it legible at a glance.",
+   "citations": [
+    {"text": "C. Ripa, *Iconologia* (Rome, 1603)."},
+    {"text": "E. Mandowsky, *Ricerche intorno all'Iconologia di Cesare Ripa* (1939)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Iconologia,_overo_Descrittione_di_diverse_imagini_cauate_dall%27antichit%C3%A0,_and_di_propria_inuentione,_(1603)_(14766371493).jpg"}
+   ],
+   "key_concepts": ["Cesare Ripa", "Iconologia", "personification", "attributes of allegory"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__ripa-magia",
+   "title": "Personification of Africa (Ripa's Iconologia, 1603)",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Cesare Ripa",
+   "date": "1603",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["personification of abstractions", "africa allegory", "continent personified", "elephant headdress", "cesare ripa", "iconologia", "attributes and emblems", "allegory of place"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:AfricaRipa1603.JPG",
+   "summary": "The personification of **Africa** from Cesare Ripa's *Iconologia* (1603), a characteristic example of how Ripa embodies an abstraction through fixed attributes.\n\n## Iconography\nAfrica appears as a woman wearing the famous **elephant-head** headdress and accompanied by attributes such as a scorpion, a lion or serpent, and a cornucopia — the signs by which Ripa's reader was to identify the continent and its supposed qualities of heat and wildness.\n\n## Significance\nThe four continents were among the most-copied of Ripa's [[motif:personification-of-abstractions|personifications]], and his Africa-with-elephant-headdress became the canonical formula, repeated on fountains, ceilings and title pages across Baroque Europe (most famously by Tiepolo). The figure shows the *Iconologia*'s method exactly: an abstract idea (a continent) made into a readable body through a checklist of emblematic attributes.\n\n## For artists & game designers\nA textbook 'faction personified' design: one figure whose headdress and companions instantly encode a whole region's identity.",
+   "citations": [
+    {"text": "C. Ripa, *Iconologia* (Rome, 1603), 's.v. Africa'."},
+    {"text": "S. Poeschel, *Studien zur Ikonographie der Erdteile* (1985)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:AfricaRipa1603.JPG"}
+   ],
+   "key_concepts": ["Cesare Ripa", "personification of Africa", "four continents", "emblematic attributes"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__ripa-alchimia",
+   "title": "Personification of 'Academy' (Ripa tradition, Wellcome plate)",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Anonymous (after Cesare Ripa's Iconologia)",
+   "date": "early modern (engraved plate; after Ripa)",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["personification of abstractions", "academy allegory", "liberal arts", "attributes and emblems", "ripa tradition", "engraved figure", "learning personified", "iconologia"],
+   "rights": "CC BY 4.0. Wellcome Collection, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Plate_illustrating_a_personification_of_%27Academy%27_Wellcome_L0035392.jpg",
+   "summary": "An engraved plate (Wellcome Collection) personifying **Academy** in the manner of Ripa's *Iconologia*, illustrating the allegory of organized learning.\n\n## Iconography\nA female **personification** of Academy is shown with attributes signifying study, the liberal arts and disciplined enquiry — books, instruments, and emblematic devices that mark her as the embodiment of an institution of learning rather than a single abstract virtue.\n\n## Significance\nThe figure belongs to the long afterlife of Cesare Ripa's [[motif:personification-of-abstractions|Iconologia]], whose method of clothing abstractions in fixed attributes was copied and extended in countless later engraved series. 'Academy' personified shows how the system reached beyond classical virtues to embody the very institutions of Renaissance and early-modern intellectual life, including those (academies, *studia*) that nurtured Hermetic and natural-philosophical pursuits.\n\n## For artists & game designers\nProof that the Ripa kit scales to institutions, not just virtues: a guild, college, or order can be given a single allegorical avatar with its own attribute set.",
+   "citations": [
+    {"text": "C. Ripa, *Iconologia* (and later illustrated derivatives)."},
+    {"text": "Wellcome Collection, catalogue record L0035392."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Plate_illustrating_a_personification_of_%27Academy%27_Wellcome_L0035392.jpg"}
+   ],
+   "key_concepts": ["Cesare Ripa", "personification of Academy", "liberal arts", "Wellcome Collection"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__vaenius-amorum",
+   "title": "'Ghewensten Strijdt / Combat Heureux' (Vaenius, Amorum Emblemata, 1608)",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Otto van Veen (Vaenius)",
+   "date": "1608",
+   "place": "Antwerp, the Low Countries",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["emblem motto picture epigram", "amorous emblem", "cupid amor", "love allegory", "vaenius", "trilingual motto", "engraved emblem", "neo-stoic love"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Otto_van_Veen%27s_Amorum_Emblemata,_1608_-_Ghewensten_Strijdt_-_Combat_Heureux.jpg",
+   "summary": "An emblem from Otto van Veen's *Amorum Emblemata* (Antwerp, 1608), the influential picture-book of secular love-emblems.\n\n## Iconography\nThe engraving shows winged **Cupid** (Amor) acting out a conceit of love — here a 'happy combat' (*Ghewensten Strijdt / Combat Heureux*) — beneath mottoes given in several languages, with verses expanding the amorous lesson.\n\n## Significance\nVaenius, Rubens's teacher, produced in his *Amorum Emblemata* the model secular [[motif:emblem-motto-picture-epigram|emblem book]] of love, in which Cupid enacts the paradoxes of desire across a hundred plates. The work was hugely popular and helped spread the emblem form into vernacular and amorous registers across Europe; it stands beside his moral *Emblemata Horatiana* as the secular wing of the tradition that Alciato founded.\n\n## For artists & game designers\nA cohesive 'recurring mascot' device: a single character (Cupid) re-posed across dozens of plates to dramatize an abstract theme, with multilingual captioning.",
+   "citations": [
+    {"text": "O. van Veen, *Amorum Emblemata* (Antwerp, 1608)."},
+    {"text": "K. Porteman & M. B. Smits-Veldt, *Een nieuw vaderland voor de muzen* (2008)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Otto_van_Veen%27s_Amorum_Emblemata,_1608_-_Ghewensten_Strijdt_-_Combat_Heureux.jpg"}
+   ],
+   "key_concepts": ["Otto van Veen", "Amorum Emblemata", "love emblem", "Cupid"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__vaenius-horatiana",
+   "title": "Moral emblem 'Socrates and Xanthippe' (Vaenius tradition)",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Otto van Veen (Vaenius)",
+   "date": "early 17th c.",
+   "place": "Antwerp, the Low Countries",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["emblem motto picture epigram", "moral emblem", "socrates and xanthippe", "neo-stoic ethics", "vaenius", "patience under provocation", "engraved emblem", "philosophical exemplum"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Socrates_and_Xanthippe.jpg",
+   "summary": "A moral emblem of **Socrates and Xanthippe** by Otto van Veen, illustrating a philosophical lesson in patience drawn from the Neo-Stoic emblem tradition.\n\n## Iconography\nThe philosopher **Socrates** endures the rage of his wife **Xanthippe**, who in the familiar anecdote drenches him with water; Socrates remains calm. The scene serves as the picture of an emblem teaching forbearance — that after thunder (scolding) comes the downpour, met with equanimity.\n\n## Significance\nVaenius's moral emblem books, above all the *Emblemata Horatiana*, translated the ethics of Horace and the Stoics into [[motif:emblem-motto-picture-epigram|picture-mottoes]] for a wide readership. The Socrates-and-Xanthippe exemplum was a stock image of the wise man's imperturbability, showing how the [[motif:emblem-motto-picture-epigram|emblem]] form carried not only love and Hermetic mystery but practical ethical instruction by visual anecdote.\n\n## For artists & game designers\nA compact 'virtue lesson' scene: a single famous anecdote staged so its moral (patience) reads instantly — useful as illustrative loading-screen wisdom.",
+   "citations": [
+    {"text": "O. van Veen, *Emblemata Horatiana* (Antwerp, 1607)."},
+    {"text": "M. Praz, *Studies in Seventeenth-Century Imagery* (2nd ed., 1964)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Socrates_and_Xanthippe.jpg"}
+   ],
+   "key_concepts": ["Otto van Veen", "moral emblem", "Neo-Stoic ethics", "Socrates and Xanthippe"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__quarles-emblem",
+   "title": "Quarles, Emblems Divine and Moral (1736 ed.) — engraved emblem",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Francis Quarles (after William Marshall / Boetius à Bolswert designs)",
+   "date": "1736 edition (work first 1635)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["emblem motto picture epigram", "religious emblem", "divina anima soul", "english emblem book", "quarles", "soul and divine love", "engraved emblem", "moral allegory"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Emblems,_divine_and_moral,_together_with_hieroglyphicks_of_the_life_of_man_(1736)_(14560486018).jpg",
+   "summary": "An engraved emblem from Francis Quarles's *Emblems, Divine and Moral* (here the 1736 edition; first published 1635), the most popular English emblem book.\n\n## Iconography\nA religious **emblem** pairs an engraved scene — often the soul (*Anima*) and Divine Love (the child Christ) acting out a spiritual conceit — with a scriptural motto and a meditative verse. The picture renders an inward, devotional truth as an outward, decodable image.\n\n## Significance\nQuarles adapted his designs from Continental Jesuit emblem books (the *Pia Desideria* of Hugo and the *Typus Mundi*), Protestantizing them for an English audience. *Emblems* became a household devotional classic, carrying the [[motif:emblem-motto-picture-epigram|emblem]] tradition deep into English religious culture and demonstrating the form's power to make the soul's hidden states visible. The full title's 'hieroglyphicks of the life of man' explicitly invokes the [[motif:hieroglyph-and-hidden-meaning|hidden-image]] theory.\n\n## For artists & game designers\nThe soul as a recurring little protagonist: an inner spiritual journey externalized as a sequence of symbolic vignettes.",
+   "citations": [
+    {"text": "F. Quarles, *Emblems, Divine and Moral* (London, 1635; 1736 ed.)."},
+    {"text": "K. J. Höltgen, *Francis Quarles 1592–1644* (1978)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Emblems,_divine_and_moral,_together_with_hieroglyphicks_of_the_life_of_man_(1736)_(14560486018).jpg"}
+   ],
+   "key_concepts": ["Francis Quarles", "English emblem book", "religious emblem", "soul and Divine Love"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__junius-emblem",
+   "title": "Hadrianus Junius, Emblemata (1565) — illustrated emblem",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Hadrianus Junius (Adriaen de Jonghe); printed by Christopher Plantin",
+   "date": "1565",
+   "place": "Antwerp, the Low Countries",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["emblem motto picture epigram", "humanist emblem", "plantin press", "engraved device", "junius", "learned allegory", "moral emblem", "neo-latin epigram"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Emblemata_(1565)_(14749526072).jpg",
+   "summary": "An emblem from the *Emblemata* of Hadrianus Junius (Antwerp, 1565), a learned humanist contribution to the genre printed by the great Plantin press.\n\n## Iconography\nA neatly engraved **device** is set beneath a Latin **motto** and above a Neo-Latin **epigram**, in the classic Alciatan arrangement. Junius's images are compact allegorical conceits, each unfolding a moral or philosophical commonplace.\n\n## Significance\nJunius, a Dutch physician and polymath, was among the humanist authors who, in the generation after [[motif:emblem-motto-picture-epigram|Alciato]], expanded the emblem into an instrument of erudite display. Issued by **Christopher Plantin**, his *Emblemata* belongs to the dense Netherlandish production of the 1560s (alongside Sambucus) that made Antwerp the European capital of the printed emblem and refined the picture-as-hidden-meaning into a polished scholarly art.\n\n## For artists & game designers\nA clean, repeatable emblem template from the genre's classic period — useful as a reference for period-accurate device design and layout.",
+   "citations": [
+    {"text": "H. Junius, *Emblemata* (Antwerp: Plantin, 1565)."},
+    {"text": "C. Heesakkers, in *The Emblem in Renaissance and Baroque Europe* (1993)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Emblemata_(1565)_(14749526072).jpg"}
+   ],
+   "key_concepts": ["Hadrianus Junius", "humanist emblem", "Plantin press", "Neo-Latin epigram"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__sambucus-emblem2",
+   "title": "Emblem 'Non dolo sed virtute' (Sambucus, Emblemata)",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Joannes Sambucus (János Zsámboky)",
+   "date": "1564 (and later Plantin editions)",
+   "place": "Antwerp, the Low Countries",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["emblem motto picture epigram", "humanist emblem", "not by guile but by virtue", "sambucus", "moral device", "plantin press", "engraved emblem", "virtue over cunning"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Non_dolo_sed_virtute.jpg",
+   "summary": "The emblem *Non dolo sed virtute* ('not by guile but by virtue') from the *Emblemata* of Joannes Sambucus, a leading humanist emblematist of the 1560s.\n\n## Iconography\nThe **device** illustrates the motto *Non dolo sed virtute* — a scene contrasting honest valour with trickery — accompanied by an epigram drawing the moral that worthy ends should be won by virtue and not by deceit.\n\n## Significance\nSambucus, a Hungarian humanist working in the orbit of the Plantin press, produced one of the most reprinted [[motif:emblem-motto-picture-epigram|emblem books]] of the century, valued for its classical learning and elegant Latin. Emblems such as this typify the genre's ethical core: a memorable picture fixing a moral maxim in the mind, the *hidden* lesson made legible through image and motto.\n\n## For artists & game designers\nA clean maxim-emblem: a single contrast-scene that locks an aphorism to an image — the model for a 'proverb card' system.",
+   "citations": [
+    {"text": "J. Sambucus, *Emblemata* (Antwerp: Plantin, 1564)."},
+    {"text": "A. S. Q. Visser, *Joannes Sambucus and the Learned Image* (2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Non_dolo_sed_virtute.jpg"}
+   ],
+   "key_concepts": ["Joannes Sambucus", "humanist emblem", "moral maxim", "Plantin press"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__melancholy-frontispiece",
+   "title": "Frontispiece to Burton's Anatomy of Melancholy (1638)",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Robert Burton; engraved frontispiece by Christian Le Blon (Christof Le Blon)",
+   "date": "1638 edition",
+   "place": "Oxford, England",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["allegorical frontispiece", "melancholy", "humoral types", "saturn", "democritus abderita", "emblematic title page", "love-melancholy", "jealousy"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Anatomy_of_Melancholy_by_Robert_Burton_frontispiece_1638_edition.jpg",
+   "summary": "The famous emblematic frontispiece to Robert Burton's *The Anatomy of Melancholy* (1638 edition), a title page that is itself a chart of the melancholic temperament.\n\n## Iconography\nThe **frontispiece** is divided into compartments, each an emblem of a melancholic type — Jealousy, Solitude, the Lover, the Hypochondriac, the superstitious and the maniac — flanked by the planet **Saturn** above and the figures of Democritus and the author below, with explanatory verses ('The Argument of the Frontispiece').\n\n## Significance\nBurton's title page is a model of the [[motif:allegorical-frontispiece|emblematic frontispiece]]: a grid of personified states that diagrams the whole book's subject before a word of text. It ties **melancholy** to its astral governor [[motif:saturn|Saturn]] in the tradition analysed by Klibansky, Panofsky and Saxl, presenting a 'hidden image' of the diseased soul that the reader decodes compartment by compartment.\n\n## For artists & game designers\nA gridded character-select screen avant la lettre: each panel a distinct 'type' with its own emblem, framed by the governing planet and presiding sages.",
+   "citations": [
+    {"text": "R. Burton, *The Anatomy of Melancholy* (Oxford, 1638)."},
+    {"text": "R. Klibansky, E. Panofsky & F. Saxl, *Saturn and Melancholy* (1964)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Anatomy_of_Melancholy_by_Robert_Burton_frontispiece_1638_edition.jpg"}
+   ],
+   "key_concepts": ["Robert Burton", "melancholy", "emblematic frontispiece", "Saturn and the humours"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "emblemata__tabula-cebetis",
+   "title": "Tabula Cebetis (Carta Vitae) — allegorical print (detail)",
+   "work": "The Emblem Tradition & the Theory of the Hidden Image",
+   "creator": "Anonymous; Rijksmuseum print",
+   "date": "16th–17th c.",
+   "place": "the Low Countries",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["allegory of life", "tabula cebetis", "concentric enclosures", "fortune and deceit", "true education", "moral pilgrimage", "pseudo-cebes", "walkable diagram"],
+   "rights": "Public domain (CC0). Rijksmuseum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Rechterbovenhoek_van_een_prent_van_het_tafereel_van_Cebes_Tabula_Cebetis_Carta_Vitae_(titel_op_object),_NG-2011-50-13.jpg",
+   "summary": "A detail (upper right corner) of an engraved *Tabula Cebetis* (*Carta Vitae*, 'map of life'), the allegorical picture-diagram of human existence (Rijksmuseum).\n\n## Iconography\nThe print lays out the **allegory of life** as nested **enclosures**: souls enter the gate of life past **Fortune** and Deceit, traverse the regions of false and **true education**, and climb toward the citadel of Happiness, each personification labelled so the whole reads as a walkable moral map.\n\n## Significance\nThe *Tabula Cebetis*, a Greek dialogue of the 1st century CE ascribed to a follower of [[motif:pythagoras|Pythagoras]], describes a votive panel mapping the soul's pilgrimage. Rediscovered and endlessly printed in the Renaissance, it became a favourite emblematic subject uniting Pythagorean-Platonic ethics with [[motif:hermetic|Hermetic]] and Stoic teaching — the supreme example of the picture that is also a readable map of the inner life.\n\n## For artists & game designers\nLiterally a level map of life: nested rings of trials and false paths leading to a final citadel — an allegory that already is a game board.",
+   "citations": [
+    {"text": "*Tabula Cebetis* (Pseudo-Cebes), ed. J. T. Fitzgerald & L. M. White (1983)."},
+    {"text": "R. Schleier, *Tabula Cebetis* (1973)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Rechterbovenhoek_van_een_prent_van_het_tafereel_van_Cebes_Tabula_Cebetis_Carta_Vitae_(titel_op_object),_NG-2011-50-13.jpg"}
+   ],
+   "key_concepts": ["Tabula Cebetis", "allegory of life", "Pythagorean ethics", "moral pilgrimage"],
+   "summary_status": "authored"
+  }
+ ]
+}

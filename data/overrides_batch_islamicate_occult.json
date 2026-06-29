@@ -1,0 +1,364 @@
+{
+ "_work": {
+   "key": "islamicate_occult",
+   "short_id": "ISLO",
+   "title": "Islamicate Occult Sciences",
+   "creator": "various",
+   "date": "10th–18th c.",
+   "century": 14,
+   "place": "Near East, Persia, Egypt, Ottoman and Mughal lands",
+   "region": "Near East",
+   "language": "Arabic",
+   "era": "medieval",
+   "tradition": "astrology",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "islamicate_occult",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Islamic_astrology",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["jinn", "zodiac", "talisman", "magic square", "planetary angels", "constellations"],
+   "blurb": "The occult sciences of the Islamicate world (10th–18th c.) — the chief conduit by which Greek and Indian astrology, alchemy and talismanic magic reached the Latin West. It gathers the demon-kings and zodiac figures of the Kitāb al-Bulhān, the angels and jinn of al-Qazwīnī's Wonders of Creation, al-Ṣūfī's constellation figures, the Falnāma divinatory paintings, Ottoman talismanic shirts and magic squares, brass astrolabes, celestial globes and geomantic instruments, and the alchemical-magical recipe books standing behind the Picatrix and Latin alchemy."
+ },
+ "entries": [
+  {
+   "id": "islamicate_occult__bulhan-jinn-king",
+   "title": "Human figure and devils, Kitāb al-Bulhān",
+   "work": "Islamicate Occult Sciences",
+   "creator": "Workshop of ʿAbd al-Ḥasan al-Iṣfāhānī (attrib.)",
+   "date": "late 14th c. (Jalayirid Baghdad), with later additions",
+   "place": "Baghdad, Iraq",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["jinn", "devils", "demon king", "astral magic", "horned figure", "fire", "talisman", "manuscript painting"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_human_figure_and_devils.jpg",
+   "summary": "A folio from the *Kitāb al-Bulhān* (Book of Wonders), an illustrated compendium of astrology, divination and the spirit-world produced in Jalayirid Baghdad.\n\n## Iconography\nA central robed figure is flanked by dark, horned and clawed **devils** (shayāṭīn) with bestial heads and flaming or smoke-like bodies. The grouping belongs to the manuscript's gallery of [[motif:jinn|jinn]] and demon-kings, each ruler associated with a day, a planet and a colour, depicted to be recognised and ritually controlled.\n\n## Significance\nThe *Kitāb al-Bulhān* (Oxford, Bodleian MS Or. 133) compiles the astrological-divinatory lore of Abū Maʿshar and others; its later Ottoman recensions systematised the demon-kings into a ruler-of-the-week scheme. Such images sit at the root of the talismanic tradition that fed, through the Picatrix, into European astral magic.\n\n## For artists & game designers\nA ready bestiary of named, colour- and planet-coded demon lords — a complete summoning roster with built-in correspondences.",
+   "citations": [
+    {"text": "Stefano Carboni, *The Wonders of Creation and the Singularities of Painting* (2015)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_human_figure_and_devils.jpg"}
+   ],
+   "key_concepts": ["Kitāb al-Bulhān", "jinn", "demon-kings", "astral magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__bulhan-zodiac",
+   "title": "Leo, Kitāb al-Bulhān",
+   "work": "Islamicate Occult Sciences",
+   "creator": "ʿAbd al-Ḥasan al-Iṣfāhānī",
+   "date": "late 14th c. (Jalayirid Baghdad)",
+   "place": "Baghdad, Iraq",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["zodiac", "leo", "lion", "sun", "planetary rulership", "astrological house", "manuscript painting", "domicile"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan,_Leo.jpg",
+   "summary": "The zodiac sign **Leo** as personified in the *Kitāb al-Bulhān*, where each sign is shown with its planetary lord and astrological dignities.\n\n## Iconography\nA striding **lion** is paired with a solar disc or enthroned figure, marking Leo as the domicile of the **Sun**. The painting follows the manuscript's habit of fusing the constellation-beast with the planet that rules it, so the image encodes both sign and rulership at a glance.\n\n## Significance\nThe sign-and-planet pairings of the *Kitāb al-Bulhān* visualise the doctrine of [[motif:domicile|planetary domiciles]] central to Arabic and, in turn, Latin judicial astrology. The leaf is attributed to the painter ʿAbd al-Ḥasan al-Iṣfāhānī and survives in Bodleian MS Or. 133.\n\n## For artists & game designers\nA clean template for a 'sign + ruling planet' card set where each zodiac beast carries its governing power as a visible attribute.",
+   "citations": [
+    {"text": "Stefano Carboni, *Il Kitāb al-Bulhān di Oxford* (1988)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan,_Leo.jpg"}
+   ],
+   "key_concepts": ["zodiac", "Leo", "planetary domicile", "Kitāb al-Bulhān"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__bulhan-angel",
+   "title": "Sagittarius (zodiac centaur), Kitāb al-Bulhān",
+   "work": "Islamicate Occult Sciences",
+   "creator": "ʿAbd al-Ḥasan al-Iṣfāhānī (attrib.)",
+   "date": "late 14th c. (Jalayirid Baghdad)",
+   "place": "Baghdad, Iraq",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["zodiac", "sagittarius", "centaur", "archer", "jupiter", "planetary rulership", "bow", "manuscript painting"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_zodiac_centaur_sagittarius.jpg",
+   "summary": "The sign **Sagittarius** rendered as the archer-centaur in the *Kitāb al-Bulhān*.\n\n## Iconography\nA **centaur** twists to draw a bow, the classical *qaws* (archer) of the zodiac. In the manuscript's scheme he is bound to **Jupiter**, lord of the sign, and set among the figures that personify the celestial houses.\n\n## Significance\nThe archer-centaur descends from Hellenistic constellation imagery transmitted through Arabic astronomy and re-coloured in the Persianate idiom of Jalayirid Baghdad. The *Kitāb al-Bulhān*'s zodiac cycle is among the most influential medieval Islamic visualisations of the signs, mediating the iconography that later reached Europe.\n\n## For artists & game designers\nThe self-aiming centaur archer is an archetype that reads instantly as a ranged-attacker class keyed to the fire element and Jupiter.",
+   "citations": [
+    {"text": "Stefano Carboni, *The Wonders of Creation and the Singularities of Painting* (2015)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_zodiac_centaur_sagittarius.jpg"}
+   ],
+   "key_concepts": ["Sagittarius", "centaur archer", "Jupiter", "Kitāb al-Bulhān"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__qazwini-angel",
+   "title": "Winged Angels (and Winged Feline and Cow), al-Qazwīnī's ʿAjāʾib al-makhlūqāt",
+   "work": "Islamicate Occult Sciences",
+   "creator": "after Zakariyyāʾ al-Qazwīnī",
+   "date": "manuscript copy, 18th c. (text 13th c.)",
+   "place": "Iran or India",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["angels", "wings", "winged beast", "celestial hierarchy", "wonders of creation", "cosmology", "manuscript painting", "malaika"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A)_Winged_Feline_and_Cow;_b)_Two_Winged_Angels,_Folio_from_a_Manuscript_of_Al-Qazwini%27s_Ajaib_Al-Makhluqat_LACMA_M.88.213.8a-b.jpg",
+   "summary": "A folio from a manuscript of al-Qazwīnī's *ʿAjāʾib al-makhlūqāt* (Wonders of Creation), showing two winged **angels** beside winged hybrid beasts.\n\n## Iconography\nTwo robed, haloed **angels** (*malāʾika*) with broad feathered wings stand in a register above (or beside) a winged feline and a winged cow. The pairing places the angelic order of creation next to the marvellous beasts, both classes of the *ʿajāʾib* — the wonders God set in the cosmos.\n\n## Significance\nal-Qazwīnī's thirteenth-century cosmography organises the universe from the celestial spheres and their angels down through the elements, plants, animals and monstrous races. Its angelic hierarchy — angels governing the planets and the throne — supplied later Islamic and even European magical lore with a populated heaven. This leaf is LACMA M.88.213.8.\n\n## For artists & game designers\nThe register layout 'angelic rank above, beast rank below' is a compact way to show a cosmic hierarchy in a single illustrated frame.",
+   "citations": [
+    {"text": "Persis Berlekamp, *Wonder, Image, and Cosmos in Medieval Islam* (2011)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:A)_Winged_Feline_and_Cow;_b)_Two_Winged_Angels,_Folio_from_a_Manuscript_of_Al-Qazwini%27s_Ajaib_Al-Makhluqat_LACMA_M.88.213.8a-b.jpg"}
+   ],
+   "key_concepts": ["ʿAjāʾib al-makhlūqāt", "angels", "celestial hierarchy", "al-Qazwīnī"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__qazwini-jinn",
+   "title": "The Singer Ibrāhīm and the Jinn",
+   "work": "Islamicate Occult Sciences",
+   "creator": "Anonymous (Persianate workshop)",
+   "date": "early modern manuscript copy",
+   "place": "Iran",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["jinn", "spirit", "musician", "encounter", "wonders of creation", "demon", "manuscript painting", "supernatural"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Singer_Ibrahim_and_the_jinn.jpg",
+   "summary": "A narrative miniature from the *ʿajāʾib* tradition depicting the singer Ibrāhīm's encounter with a **jinn**.\n\n## Iconography\nA seated musician meets a horned, fanged **jinnī** with a coloured, semi-bestial body. The composition follows the convention for human–spirit encounters: the supernatural being is marked off by horns, flame-like hair and unnatural skin tone, yet engages the human in a recognisable social scene.\n\n## Significance\nThe jinn are intelligent, fiery beings of the *ʿajāʾib* and Qurʾanic cosmology, capable of music, mischief and bargains. Tales of musicians taught or tormented by jinn dramatise the porousness between the human and spirit worlds that the occult sciences sought to manage through talismans and incantations.\n\n## For artists & game designers\nA model for the 'mortal makes a deal with a spirit' set-piece — note how only a few visual cues (horns, hue, flame) flip an otherwise human figure into a jinn.",
+   "citations": [
+    {"text": "Amira El-Zein, *Islam, Arabs, and the Intelligent World of the Jinn* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Singer_Ibrahim_and_the_jinn.jpg"}
+   ],
+   "key_concepts": ["jinn", "spirit encounter", "ʿajāʾib", "Islamic demonology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__qazwini-constellation",
+   "title": "Cepheus and Corona Borealis (Wonders of Creation)",
+   "work": "Islamicate Occult Sciences",
+   "creator": "Muḥammad ibn Muḥammad Shākir Ruzmah-ʾi Nāthānī, after al-Qazwīnī",
+   "date": "1717 (1130 AH)",
+   "place": "Ottoman lands",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["constellations", "cepheus", "corona borealis", "star map", "celestial figures", "wonders of creation", "manuscript painting", "astronomy"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Muhammad_ibn_Muhammad_Shakir_Ruzmah-%27i_Nathani_-_Cepheus_and_Corona_Borealis_-_Walters_W65917B_-_Full_Page.jpg",
+   "summary": "A constellation page from an Ottoman copy of al-Qazwīnī's *ʿAjāʾib al-makhlūqāt*, illustrating **Cepheus** and the **Corona Borealis** (Northern Crown).\n\n## Iconography\nA standing, robed figure personifies the constellation **Cepheus**, his body studded with marked stars; a jewelled crown-arc renders the **Corona Borealis**. The stars are placed on the figure to double as a usable star map and a mythic portrait.\n\n## Significance\nIslamic constellation imagery descends from al-Ṣūfī's *Book of Fixed Stars*, which reconciled Ptolemy's catalogue with indigenous Arab star-lore. Copyists such as Ruzmah-ʾi Nāthānī (this leaf dated 1717, Walters W.659) kept the tradition alive into the Ottoman period, preserving the figures that astrologers used to read celestial influence.\n\n## For artists & game designers\nThe 'human body as constellation map' device — stars fixed to anatomy — is a striking way to render a sky chart that is also a character.",
+   "citations": [
+    {"text": "Emmy Wellesz, *An Islamic Book of Constellations* (1965)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Muhammad_ibn_Muhammad_Shakir_Ruzmah-%27i_Nathani_-_Cepheus_and_Corona_Borealis_-_Walters_W65917B_-_Full_Page.jpg"}
+   ],
+   "key_concepts": ["constellations", "Cepheus", "Corona Borealis", "ʿAjāʾib al-makhlūqāt"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__falnama-omen",
+   "title": "The Seven Sleepers of Ephesus, Folio from a Falnāma (Book of Omens)",
+   "work": "Islamicate Occult Sciences",
+   "creator": "Anonymous (Safavid or Ottoman court workshop)",
+   "date": "16th–17th c.",
+   "place": "Iran or Turkey",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["divination", "omen", "bibliomancy", "seven sleepers", "cave", "fortune-telling", "manuscript painting", "fate"],
+   "rights": "Public domain (CC0, Metropolitan Museum of Art). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:%22The_Seven_Sleepers_of_Ephesus_Discovered_by_Alexander_the_Great%22,_Folio_from_a_Falnama_(Book_of_Omens)_MET_121050.jpg",
+   "summary": "A large-format divinatory painting from a *Falnāma* (Book of Omens), showing the **Seven Sleepers of Ephesus** (Aṣḥāb al-Kahf) and their dog discovered in the cave.\n\n## Iconography\nThe sleepers and the dog **Qiṭmīr** lie in a rocky cave while a royal party (here named for Alexander) arrives; the scene fills a monumental folio meant to face a page of omen-text. The brilliant palette and dramatic framing are typical of *Falnāma* divinatory paintings.\n\n## Significance\nThe *Falnāma* was used for **bibliomancy**: a seeker opened the book at random, and the priest read the image and its facing prognostication as an omen of the querent's fortune. The genre flourished in the Safavid and Ottoman courts of the 16th–17th centuries. This folio is in the Metropolitan Museum of Art.\n\n## For artists & game designers\nA fully realised 'draw-a-card-of-fate' mechanic: one striking image paired to a fortune text, designed to be opened at random.",
+   "citations": [
+    {"text": "Massumeh Farhad & Serpil Bağcı, *Falnama: The Book of Omens* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:%22The_Seven_Sleepers_of_Ephesus_Discovered_by_Alexander_the_Great%22,_Folio_from_a_Falnama_(Book_of_Omens)_MET_121050.jpg"}
+   ],
+   "key_concepts": ["Falnāma", "bibliomancy", "omen", "Seven Sleepers"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__talismanic-shirt",
+   "title": "Talismanic Shirt (jāmah)",
+   "work": "Islamicate Occult Sciences",
+   "creator": "Anonymous",
+   "date": "15th–16th c.",
+   "place": "India or Iran (Islamic world)",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["talisman", "magic square", "quranic verses", "protective garment", "calligraphy", "amulet", "war shirt", "names of god"],
+   "rights": "Public domain (CC0, Metropolitan Museum of Art). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Talismanic_Shirt_MET_DP-12712-001.jpg",
+   "summary": "A **talismanic shirt** (jāmah / *kamīṣ*) covered in protective inscriptions, worn under armour for supernatural defence.\n\n## Iconography\nThe whole surface is gridded with minute **calligraphy** — Qurʾanic verses, the ninety-nine Beautiful Names of God, prayers and **magic squares** (*wafq*) — arranged in roundels, cartouches and borders. Every field is a charged word; the garment is text made wearable.\n\n## Significance\nSuch shirts were produced across the Islamic world from the 15th century onward, especially for soldiers, who believed the divine words would turn blades and arrows. They embody the central premise of Islamicate talismanic science: that the [[motif:names of god|names of God]] and numerically potent squares channel celestial and divine power onto the body. This example is in the Metropolitan Museum of Art.\n\n## For artists & game designers\nA literal 'armour of words' — a wearable that grants protection through inscribed text, ideal for an enchanted-garment item.",
+   "citations": [
+    {"text": "Maryam Ekhtiar et al., *Masterpieces from the Department of Islamic Art* (2011)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Talismanic_Shirt_MET_DP-12712-001.jpg"}
+   ],
+   "key_concepts": ["talismanic shirt", "magic square", "Names of God", "protective magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__magic-square",
+   "title": "Shiʿi Stamped Amulet with Magic Square",
+   "work": "Islamicate Occult Sciences",
+   "creator": "Anonymous",
+   "date": "early modern",
+   "place": "Iran (Shiʿi context)",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["magic square", "wafq", "buduh", "amulet", "talisman", "numerology", "block print", "protective magic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Shi%27i_stamped_amulet.jpg",
+   "summary": "A stamped (block-printed) **amulet** carrying a **magic square** and pious inscriptions, of the kind produced for personal protection in the Shiʿi world.\n\n## Iconography\nThe sheet bears a gridded numerical or lettered **magic square** (*wafq*) framed by lines of devotional text and the names of holy figures. The square's rows, columns and diagonals each sum to the same value — the property held to bind its protective force.\n\n## Significance\nThe science of the *wafq* (magic squares) and the famous **budūḥ** square belong to *ʿilm al-ḥurūf*, the lettrist occult science systematised by al-Būnī. Squares were inscribed on paper, metal and cloth to heal, protect in childbirth, or guard against evil. Mass-stamped amulets like this democratised what had been an elite talismanic art.\n\n## For artists & game designers\nThe magic square is a self-contained 'rune of power' glyph whose internal logic (equal sums) gives an in-world rationale for why it works.",
+   "citations": [
+    {"text": "Emilie Savage-Smith (ed.), *Magic and Divination in Early Islam* (2004)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Shi%27i_stamped_amulet.jpg"}
+   ],
+   "key_concepts": ["magic square", "wafq", "budūḥ", "ʿilm al-ḥurūf"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__sufi-fixed-stars",
+   "title": "Ursa Major, al-Ṣūfī's Book of Fixed Stars",
+   "work": "Islamicate Occult Sciences",
+   "creator": "ʿAbd al-Raḥmān al-Ṣūfī",
+   "date": "manuscript copy of a 964 CE text",
+   "place": "Iran / Islamic world",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["constellations", "ursa major", "great bear", "star catalogue", "fixed stars", "celestial figures", "astronomy", "manuscript painting"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Al_Sufi_-_Book_of_Fixed_Stars_-_Ursa_Major_(The_Great_Bear)_-_Bodleian_Library_-_Marsh_144.jpg",
+   "summary": "The constellation **Ursa Major** (the Great Bear) from a copy of al-Ṣūfī's *Kitāb ṣuwar al-kawākib al-thābita* (Book of the Fixed Stars).\n\n## Iconography\nA naturalistic **bear** is drawn with its catalogued stars marked on the body, each labelled with magnitude. al-Ṣūfī characteristically shows each figure twice — as seen in the sky and as mirror-reversed on a celestial globe — fusing observation with the inherited Ptolemaic image.\n\n## Significance\nCompleted in 964 CE, al-Ṣūfī's treatise corrected and updated Ptolemy's *Almagest* with fresh observations and Arab star-names, and became the canonical source for constellation imagery across the Islamic world and, eventually, Renaissance Europe. This copy is Bodleian MS Marsh 144. Its figures underlie almost all later Islamic celestial globes and star maps.\n\n## For artists & game designers\nThe 'observed vs. mirrored' double-image is an elegant way to show the difference between the sky as seen and the sky as modelled on a globe.",
+   "citations": [
+    {"text": "Emmy Wellesz, *An Islamic Book of Constellations* (1965)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Al_Sufi_-_Book_of_Fixed_Stars_-_Ursa_Major_(The_Great_Bear)_-_Bodleian_Library_-_Marsh_144.jpg"}
+   ],
+   "key_concepts": ["Book of Fixed Stars", "al-Ṣūfī", "Ursa Major", "constellations"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__sufi-sagittarius",
+   "title": "Sagittarius, al-Ṣūfī's Book of Fixed Stars",
+   "work": "Islamicate Occult Sciences",
+   "creator": "ʿAbd al-Raḥmān al-Ṣūfī",
+   "date": "manuscript copy of a 964 CE text",
+   "place": "Iran / Islamic world",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["constellations", "sagittarius", "archer", "centaur", "star catalogue", "fixed stars", "astronomy", "manuscript painting"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Book_Al_Sufi.jpg",
+   "summary": "The constellation **Sagittarius** as figured in al-Ṣūfī's *Book of the Fixed Stars*.\n\n## Iconography\nThe archer-**centaur** draws his bow, his catalogued **stars** marked along body and weapon. As elsewhere in al-Ṣūfī, the figure follows the Ptolemaic constellation while bearing the magnitudes and Arab star-names of his updated catalogue.\n\n## Significance\nal-Ṣūfī's constellation figures, fixed in the late tenth century, became the visual standard for the zodiac and the fixed stars throughout Islamic astronomy and astrology, and passed into European celestial cartography. Sagittarius, lord-house of Jupiter, was among the most-copied of his images.\n\n## For artists & game designers\nA reference-grade archer-centaur with stars mapped onto anatomy — a sky-figure that doubles as a labelled diagram.",
+   "citations": [
+    {"text": "Emmy Wellesz, *An Islamic Book of Constellations* (1965)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Book_Al_Sufi.jpg"}
+   ],
+   "key_concepts": ["Book of Fixed Stars", "al-Ṣūfī", "Sagittarius", "constellations"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__persian-astrolabe",
+   "title": "Persian Astrolabe (brass)",
+   "work": "Islamicate Occult Sciences",
+   "creator": "Anonymous instrument-maker",
+   "date": "undated (Safavid/Qajar Iran)",
+   "place": "Iran",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["astrolabe", "instrument", "brass", "rete", "star pointers", "ecliptic", "astronomy", "horoscopy"],
+   "rights": "Public domain (CC0, Huntington Museum of Art). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Astrolabe,_Iran,_undated,_brass_-_Huntington_Museum_of_Art_-_DSC04900.JPG",
+   "summary": "A brass **astrolabe** from Iran, the master instrument of Islamicate astronomy and astrology.\n\n## Iconography\nThe disc carries a pierced **rete** — a star-map with curved **pointers** to named bright stars and a ring for the ecliptic — rotating over engraved latitude plates. Scales of degrees and hours ring the rim. Every line serves computation: time, star positions, and the casting of horoscopes.\n\n## Significance\nThe astrolabe, perfected by Islamic makers from the 9th century, let an astrologer find the **ascendant** and the positions of the planets for any moment — the indispensable first step of casting a nativity. As a portable model of the heavens it embodied the union of exact science and astral divination, and its design passed directly into medieval Europe.\n\n## For artists & game designers\nThe rotating rete is a beautiful real-world 'analog computer' UI — a turnable star-dial that can drive a time-and-fate mechanic.",
+   "citations": [
+    {"text": "Emilie Savage-Smith & others; David A. King, *In Synchrony with the Heavens* (2004–05)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Astrolabe,_Iran,_undated,_brass_-_Huntington_Museum_of_Art_-_DSC04900.JPG"}
+   ],
+   "key_concepts": ["astrolabe", "horoscopy", "ascendant", "astronomical instrument"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__celestial-globe",
+   "title": "Celestial Globe (silvered brass), Mughal India",
+   "work": "Islamicate Occult Sciences",
+   "creator": "Anonymous instrument-maker",
+   "date": "18th c. (Mughal period)",
+   "place": "India",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["celestial globe", "constellations", "fixed stars", "instrument", "brass", "ecliptic", "astronomy", "sphere"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Celestial_globe,_India,_Moghul_period,_18th_century_AD,_silvered_brass_-_Linden-Museum_-_Stuttgart,_Germany_-_DSC03849.jpg",
+   "summary": "A silvered-brass **celestial globe** of the Mughal period, modelling the sphere of the fixed stars.\n\n## Iconography\nThe globe's surface is engraved with the **constellation figures** and inlaid star-points, ringed by the great circles of the celestial sphere — equator, ecliptic and colures. The figures follow the al-Ṣūfī tradition, here rendered in metal to be turned in the hand.\n\n## Significance\nIslamicate celestial globes, often cast in a single seamless piece by the famed instrument-makers of Lahore, gave astronomers and astrologers a three-dimensional sky to model star risings and the framework of the horoscope. They are the sculptural counterpart of the star catalogue, and among the most refined scientific objects of the Mughal world.\n\n## For artists & game designers\nA hand-held star sphere is an evocative artifact — a turnable model of the whole heavens that an astrologer-character can consult.",
+   "citations": [
+    {"text": "Emilie Savage-Smith, *Islamicate Celestial Globes* (1985)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Celestial_globe,_India,_Moghul_period,_18th_century_AD,_silvered_brass_-_Linden-Museum_-_Stuttgart,_Germany_-_DSC03849.jpg"}
+   ],
+   "key_concepts": ["celestial globe", "fixed stars", "Islamicate instruments", "constellations"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__geomantic-device",
+   "title": "Geomantic Instrument of Muḥammad ibn Khutlukh al-Mawṣilī",
+   "work": "Islamicate Occult Sciences",
+   "creator": "Muḥammad ibn Khutlukh al-Mawṣilī",
+   "date": "1241–1242 CE (639 AH)",
+   "place": "Egypt or Syria",
+   "era": "medieval",
+   "tradition": "divination",
+   "motifs": ["geomancy", "ilm al-raml", "divination instrument", "brass", "inlay", "dials", "figures", "sand divination"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Geomantic_instrument_Egypt_or_Syria_1241_1242_CE_Muhammad_ibn_Khutlukh_al_Mawsuli.jpg",
+   "summary": "The earliest known **geomantic instrument**, a brass device inlaid with silver and gold for mechanically generating the figures of *ʿilm al-raml* (the science of the sand).\n\n## Iconography\nThe rectangular brass plate carries rows of rotating **dials** and sliders; turning them produces the sixteen four-line **geomantic figures** that would otherwise be made by marking dots in sand. Bands of inscription name the figures and their meanings around the apparatus.\n\n## Significance\nGeomancy (*ʿilm al-raml*) generated a chart of sixteen figures, read for divinatory answers much as a horoscope is read; it was among the most popular Islamic divinatory arts and passed to Europe as *geomantia*. Signed by Muḥammad ibn Khutlukh al-Mawṣilī and dated 639 AH (1241–42), this device (now British Museum) mechanised the casting of figures into a single elegant machine.\n\n## For artists & game designers\nA genuine 'fortune-telling machine' — turnable dials that output a fixed set of sixteen symbolic results, a ready divination minigame.",
+   "citations": [
+    {"text": "Emilie Savage-Smith & Marion B. Smith, *Islamic Geomancy and a Thirteenth-Century Divinatory Device* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Geomantic_instrument_Egypt_or_Syria_1241_1242_CE_Muhammad_ibn_Khutlukh_al_Mawsuli.jpg"}
+   ],
+   "key_concepts": ["geomancy", "ʿilm al-raml", "divination instrument", "ibn Khutlukh"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__jabir-alchemy",
+   "title": "Alchemical Folio from a Miscellany of Magical and Alchemical Recipes",
+   "work": "Islamicate Occult Sciences",
+   "creator": "Anonymous (Jābirian tradition)",
+   "date": "later medieval / early modern",
+   "place": "Islamic world",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": ["alchemy", "elixir", "transmutation", "recipe", "jabir", "balance", "manuscript", "sulphur-mercury"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Miscellany_of_Medical,_Magical,_and_Alchemical_Recipes_-_DPLA_-_1c60ee63b9d5e2a7b712e4925ecadc40_(page_101).jpg",
+   "summary": "An **alchemical** page from an Arabic recipe miscellany standing in the tradition of Jābir ibn Ḥayyān (Latin *Geber*).\n\n## Iconography\nColumns of Arabic procedural text set out an **alchemical** operation — proportions, substances and stages of the work — in the terse imperative of a laboratory recipe. Such pages rarely illustrate apparatus; the diagram is the procedure itself.\n\n## Significance\nThe Jābirian corpus founded Arabic alchemy on the **sulphur–mercury** theory of metals and the doctrine of the *mīzān* (balance), aiming at the elixir that perfects base matter. Translated into Latin, this body of work became the bedrock of European alchemy. Working miscellanies like this one carried the operative tradition through the centuries.\n\n## For artists & game designers\nProcedural alchemical text is ideal flavour for a transmutation crafting system — terse, imperative, and convincingly technical.",
+   "citations": [
+    {"text": "Syed Nomanul Haq, *Names, Natures and Things: The Alchemist Jābir ibn Ḥayyān* (1994)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Miscellany_of_Medical,_Magical,_and_Alchemical_Recipes_-_DPLA_-_1c60ee63b9d5e2a7b712e4925ecadc40_(page_101).jpg"}
+   ],
+   "key_concepts": ["alchemy", "Jābir ibn Ḥayyān", "elixir", "sulphur-mercury theory"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__zubdat-angels",
+   "title": "Ilyās (Elijah) Given a Horse to Ascend (Chester Beatty T 414)",
+   "work": "Islamicate Occult Sciences",
+   "creator": "Anonymous (Ottoman workshop)",
+   "date": "16th–17th c.",
+   "place": "Ottoman lands",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["angels", "ascension", "prophet", "ilyas", "celestial", "heaven", "manuscript painting", "wings"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Chester_Beatty_T_414_fol_189r_Ilyas_being_given_a_horse_to_ascend.jpg",
+   "summary": "An Ottoman manuscript painting (Chester Beatty MS T 414) showing the prophet **Ilyās** (Elijah) given a horse for his heavenly ascent, attended by **angels**.\n\n## Iconography\nThe robed prophet receives a mount as winged, flame-haloed **angels** hover in a gold sky. The angelic figures follow the Persianate-Ottoman convention — multicoloured wings, scarf-like sashes — that renders the celestial hierarchy mediating between heaven and earth.\n\n## Significance\nAngels (*malāʾika*) populate Islamic cosmology as governors of the spheres, bearers of revelation and conductors of souls; the seven planetary heavens each have their presiding angel. Scenes of prophetic ascent visualise the ladder of heavens that astral and visionary lore mapped onto the cosmos. The leaf belongs to a 16th–17th-century Ottoman codex in the Chester Beatty Library.\n\n## For artists & game designers\nThe 'mount granted for an ascent through the heavens' motif gives a clean visual grammar for a level-by-level vertical journey guarded by angelic figures.",
+   "citations": [
+    {"text": "Christiane Gruber, *The Praiseworthy One: The Prophet Muhammad in Islamic Texts and Images* (2019)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Chester_Beatty_T_414_fol_189r_Ilyas_being_given_a_horse_to_ascend.jpg"}
+   ],
+   "key_concepts": ["angels", "celestial ascent", "planetary heavens", "Ottoman painting"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "islamicate_occult__magic-bowl",
+   "title": "Magic Bowl (magische schaal)",
+   "work": "Islamicate Occult Sciences",
+   "creator": "Anonymous",
+   "date": "undated (traditional type)",
+   "place": "Islamic world (Tropenmuseum collection)",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["magic bowl", "talisman", "healing", "inscriptions", "quranic verses", "metalwork", "water cure", "amulet"],
+   "rights": "CC BY-SA 3.0 (Tropenmuseum / Nationaal Museum van Wereldculturen). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Magische_schaal_TMnr_674-849.jpg",
+   "summary": "A **magic-medicinal bowl** of the Islamic type, inscribed inside and out to charge water with healing power.\n\n## Iconography\nThe metal bowl is engraved with **inscriptions** — Qurʾanic verses, names, and often **magic squares** and figural or astrological signs — covering its interior. Water poured in and drunk was believed to absorb the virtue of the words and cure poisoning, fever, fright or the bite of a mad dog.\n\n## Significance\nThe so-called **poison cup** or healing bowl is one of the most widespread instruments of Islamicate practical magic, made from the medieval period onward across Syria, Egypt, Iran and India. It applies the same lettrist principle as the talismanic shirt and the magic square: sacred and numerically potent text transfers power to the body, here through ingested water.\n\n## For artists & game designers\nAn inscribed healing vessel — water charged by reading the bowl's words — is a tidy in-world potion mechanic with a clear ritual logic.",
+   "citations": [
+    {"text": "H. Henry Spoer, 'Arabic Magic Medicinal Bowls,' *Journal of the American Oriental Society* (1935)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Magische_schaal_TMnr_674-849.jpg"}
+   ],
+   "key_concepts": ["magic bowl", "healing magic", "lettrism", "Islamic talisman"],
+   "summary_status": "authored"
+  }
+ ]
+}

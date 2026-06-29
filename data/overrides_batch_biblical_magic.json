@@ -1,0 +1,344 @@
+{
+ "_work": {
+   "key": "biblical_magic",
+   "short_id": "BMAG",
+   "title": "Magic & the Supernatural in the Bible",
+   "creator": "various",
+   "date": "15th–19th c.",
+   "century": 17,
+   "place": "Europe",
+   "region": "Europe",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "reception",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "biblical_magic",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Magic_in_the_Bible",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["sorcery", "miracle contest", "divination", "necromancy", "idolatry", "angelic vision"],
+   "blurb": "Scenes of magic and the supernatural drawn from scripture and painted across art history — Simon Magus falling, Moses and Aaron's rods against Pharaoh's sorcerers, the brazen serpent, the Witch of Endor raising Samuel, Elymas struck blind, Belshazzar's writing on the wall, the Magi as astrologers, and the angelic dreams of Jacob and Christ's Transfiguration. The occult within the canonical image-world, read as a contest between licit miracle and forbidden art."
+ },
+ "entries": [
+  {
+   "id": "biblical_magic__simon-magus-batoni",
+   "title": "The Fall of Simon Magus (and the Conversion of St Paul)",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Jan Rombouts (attributed)",
+   "date": "c. 1522–1530",
+   "place": "Leuven, Southern Netherlands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["sorcery", "levitation", "fall of the magician", "saint peter", "demons", "apostolic miracle", "simon magus", "punishment"],
+   "rights": "CC0. Via Wikimedia Commons (Museum M, Leuven).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Fall_of_Simon_Magus_(left)_and_The_Conversion_of_St._Paul_(right),_by_Jan_Rombouts,_c._1522-1530,_view_4_-_Museum_M_-_Leuven,_Belgium_-_DSC05047.jpg",
+   "summary": "A Southern-Netherlandish panel attributed to Jan Rombouts pairing the Fall of Simon Magus with the Conversion of St Paul.\n\n## Iconography\nSimon, the sorcerer of Samaria, is shown crashing earthward as the demons who bore him aloft scatter; below, the apostles Peter and Paul kneel in prayer, their intercession breaking the magician's flight. The composition stages the contest as a vertical plunge from the sky.\n\n## Significance\nThe story, told in Acts 8 (where Simon offers money for the apostles' power — the origin of \"simony\") and elaborated in the apocryphal *Acts of Peter*, became the archetypal image of false [[motif:sorcery|sorcery]] overthrown by true miracle. Simon's flight before Nero, sustained by demons until Peter's prayer fells him, was read for centuries as the defeat of magic by apostolic grace.\n\n## For artists & game designers\nThe falling levitator with his demon-bearers dispersing is a compact visual for a \"power source severed\" defeat — the magician is undone not by force but by the withdrawal of his unholy support.",
+   "citations": [
+    {"text": "*Acts of the Apostles* 8:9–24; apocryphal *Acts of Peter*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Fall_of_Simon_Magus_(left)_and_The_Conversion_of_St._Paul_(right),_by_Jan_Rombouts,_c._1522-1530,_view_4_-_Museum_M_-_Leuven,_Belgium_-_DSC05047.jpg"}
+   ],
+   "key_concepts": ["Simon Magus", "simony", "Acts of Peter", "magic vs miracle"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__elymas-raphael",
+   "title": "Elymas the Sorcerer Struck Blind",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "after Raphael (Rijksmuseum print)",
+   "date": "16th–17th c. (engraving after the 1515–16 cartoon)",
+   "place": "Netherlands / Italy",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["sorcery", "blindness", "apostolic curse", "false prophet", "proconsul", "groping hands", "elymas", "judgment"],
+   "rights": "CC0. Via Wikimedia Commons (Rijksmuseum).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Elymas_door_Paulus_met_blindheid_getroffen,_RP-P-OB-70.750.jpg",
+   "summary": "An engraving after Raphael's tapestry cartoon *The Blinding of Elymas*, depicting the sorcerer struck blind by St Paul at Paphos.\n\n## Iconography\nElymas (Bar-Jesus) stands at center, arms outstretched and eyes darkened, groping in sudden blindness while the seated proconsul Sergius Paulus and his court react. Paul, at left, pronounces the judgment. The print transmits Raphael's monumental design from the Sistine tapestry series.\n\n## Significance\nIn Acts 13 the magus Bar-Jesus, attached to the Roman proconsul, opposes Paul and is struck with temporary blindness — a sign that converts the official. The scene is a touchstone for the Renaissance theme of the [[motif:false prophet|false prophet]] overthrown; Raphael's cartoons (now V&A) and the tapestries woven from them in Brussels were among the most influential images of the era.\n\n## For artists & game designers\nElymas's groping, light-deprived stance is a textbook \"blinded\" status pose — outstretched, off-balance, hands searching the air.",
+   "citations": [
+    {"text": "*Acts of the Apostles* 13:6–12."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Elymas_door_Paulus_met_blindheid_getroffen,_RP-P-OB-70.750.jpg"}
+   ],
+   "key_concepts": ["Elymas", "Bar-Jesus", "Raphael cartoons", "apostolic judgment"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__endor-rosa-louvre",
+   "title": "The Shade of Samuel Invoked by Saul (Witch of Endor)",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Salvator Rosa",
+   "date": "1668",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["necromancy", "raising the dead", "ghost", "witch", "king saul", "prophecy of doom", "shroud", "endor"],
+   "rights": "Public domain. Via Wikimedia Commons (Louvre).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Louvre_rosa_apparition.jpg",
+   "summary": "Salvator Rosa's *The Shade of Samuel Invoked by Saul at the Cave of Endor* (Louvre), one of the most famous necromancy paintings of the Baroque.\n\n## Iconography\nThe medium of Endor recoils as the shrouded ghost of the prophet Samuel rises in pale light; King Saul prostrates himself in terror on the cave floor while attendants shrink back. Rosa's signature gloom and ragged figures heighten the dread.\n\n## Significance\nIn 1 Samuel 28 the doomed Saul, having banned mediums, secretly consults the woman of Endor to raise Samuel, who foretells his death in battle. The episode is the Bible's central [[motif:necromancy|necromancy]] text and was endlessly debated — was it the true Samuel, a demon, or fraud? Rosa, himself drawn to witchcraft subjects, made it a meditation on forbidden knowledge and fate.\n\n## For artists & game designers\nThe rising shroud-wrapped revenant against a cowering king is a master template for a summoned-prophecy beat: the conjuror gets an answer, but it is a sentence of doom.",
+   "citations": [
+    {"text": "*1 Samuel* 28:3–25."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Louvre_rosa_apparition.jpg"}
+   ],
+   "key_concepts": ["Witch of Endor", "necromancy", "King Saul", "Salvator Rosa"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__moses-pharaoh-serpents",
+   "title": "The Rods of Moses and the Magicians Turned into Serpents",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Gerard Hoet",
+   "date": "c. 1700 (engraving)",
+   "place": "Netherlands",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["miracle contest", "rod to serpent", "egyptian magicians", "pharaoh", "aaron", "moses", "snakes", "court"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Rods_of_Moses_and_the_Magicians_Turned_into_Serpents_(5752932).jpg",
+   "summary": "Gerard Hoet's engraving of the contest before Pharaoh, where Aaron's rod becomes a serpent that devours those of the Egyptian sorcerers.\n\n## Iconography\nIn Pharaoh's court, rods cast to the ground writhe into serpents; Aaron's snake swallows those conjured by the magicians Jannes and Jambres, while Moses and Aaron stand before the enthroned king. The Dutch print transmits the scene as a stately courtroom confrontation.\n\n## Significance\nExodus 7 stages the plagues as a [[motif:miracle contest|magic contest]]: Pharaoh's wise men replicate the rod-to-serpent wonder \"by their secret arts,\" yet Aaron's serpent consumes theirs. Later tradition named the magicians Jannes and Jambres (cited in 2 Timothy 3:8 and a lost apocryphon). The episode was the classic proof-text for distinguishing divine miracle from demonic imitation.\n\n## For artists & game designers\nThe duel of transmuted staffs — one snake eating the others — is an elegant \"my summon beats your summon\" mechanic rendered as pure spectacle.",
+   "citations": [
+    {"text": "*Exodus* 7:8–13; cf. *2 Timothy* 3:8."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Rods_of_Moses_and_the_Magicians_Turned_into_Serpents_(5752932).jpg"}
+   ],
+   "key_concepts": ["Aaron's rod", "Jannes and Jambres", "Egyptian magicians", "Exodus plagues"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__aaron-rod-foster",
+   "title": "Aaron's Rod Becomes a Serpent before Pharaoh",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Anonymous (The Bible Panorama, 1891)",
+   "date": "1891 (book illustration)",
+   "place": "England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["miracle contest", "rod to serpent", "pharaoh", "egyptian magicians", "aaron", "moses", "snake", "throne"],
+   "rights": "No restrictions. Via Wikimedia Commons (Internet Archive Book Images).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Bible_panorama,_or_The_Holy_Scriptures_in_picture_and_story_(1891)_(14782546574).jpg",
+   "summary": "A late-Victorian book illustration of the rod-to-serpent miracle, from *The Bible Panorama* (1891).\n\n## Iconography\nMoses and Aaron stand before the enthroned Pharaoh; Aaron's cast-down rod has become a serpent on the palace floor while the court magicians prepare their answer. The engraving renders the Exodus contest in the crisp narrative style of nineteenth-century scripture-illustration.\n\n## Significance\nThe scene visualizes Exodus 7, the opening move of the plague cycle, in which the [[motif:miracle contest|sign-contest]] between Moses and Pharaoh's wise men begins. Mass-produced devotional and educational picture-Bibles like this one carried the iconography of biblical magic into Victorian households, fixing how generations imagined the showdown at the Egyptian court.\n\n## For artists & game designers\nThe popular-print clarity here — single serpent, reacting court — is useful reference for staging a magic duel readably, without Baroque clutter.",
+   "citations": [
+    {"text": "*Exodus* 7:8–13."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Bible_panorama,_or_The_Holy_Scriptures_in_picture_and_story_(1891)_(14782546574).jpg"}
+   ],
+   "key_concepts": ["Aaron's rod", "Exodus plagues", "scripture illustration", "Egyptian magicians"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__brazen-serpent-michelangelo",
+   "title": "The Brazen Serpent (Sistine Chapel pendentive)",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Michelangelo Buonarroti",
+   "date": "1511–1512",
+   "place": "Vatican, Rome",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["brazen serpent", "healing", "fiery serpents", "moses", "plague", "salvation sign", "writhing bodies", "talisman"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Buonarroti,_Michelangelo_-_The_Brazen_Serpent_(restored).png",
+   "summary": "Michelangelo's pendentive fresco of the Brazen Serpent in the Sistine Chapel, a roiling mass of bodies bitten and healed.\n\n## Iconography\nOn the right, Israelites writhe and die under an attack of fiery serpents; on the left, those who turn to gaze upon the bronze serpent raised on a pole by Moses are saved. The two halves split the composition between agony and deliverance.\n\n## Significance\nNumbers 21 recounts that God sent venomous snakes against the murmuring Israelites, then bade Moses raise a [[motif:brazen serpent|bronze serpent]] (the *Nehushtan*) whose mere sight cured the bitten — a healing image so potent it was later worshipped as an idol and destroyed (2 Kings 18). The Gospel of John reads it as a type of the Crucifixion. The episode hovers between sanctioned talisman and forbidden idol.\n\n## For artists & game designers\nThe split-field design — death on one side, salvation on the other, hinged on a single raised object — is a powerful layout for any \"look upon the relic to be cured\" set-piece.",
+   "citations": [
+    {"text": "*Numbers* 21:4–9; *2 Kings* 18:4; *John* 3:14."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Buonarroti,_Michelangelo_-_The_Brazen_Serpent_(restored).png"}
+   ],
+   "key_concepts": ["brazen serpent", "Nehushtan", "Sistine Chapel", "healing sign"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__brazen-serpent-rubens",
+   "title": "Moses and the Brazen Serpent",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Peter Paul Rubens",
+   "date": "c. 1635–1640",
+   "place": "Antwerp, Flanders",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["brazen serpent", "fiery serpents", "healing", "moses", "writhing bodies", "salvation sign", "plague", "uplifted gaze"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Moses_and_the_Brazen_Serpent.jpg",
+   "summary": "Rubens's Baroque *Moses and the Brazen Serpent* (National Gallery, London), a dramatic crowd of the stricken turning toward the raised bronze sign.\n\n## Iconography\nMoses gestures toward the serpent coiled on its pole; below, muscular figures entwined with snakes twist in pain, while others lift their faces toward the healing image. Rubens floods the scene with diagonal energy and chiaroscuro.\n\n## Significance\nThe painting renders Numbers 21, in which gazing on the [[motif:brazen serpent|bronze serpent]] cures snakebite — an image medieval and Reformation theologians treated as a type of Christ \"lifted up.\" Rubens, the great Counter-Reformation narrator, emphasizes the bodily drama of plague and rescue, making the talismanic sign the visual hinge of life and death.\n\n## For artists & game designers\nRubens's tangle of serpent-wrapped bodies is prime reference for a poison/curse outbreak crowd, with a single elevated object as the salvation focal point.",
+   "citations": [
+    {"text": "*Numbers* 21:4–9."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Moses_and_the_Brazen_Serpent.jpg"}
+   ],
+   "key_concepts": ["brazen serpent", "Rubens", "type of Christ", "healing sign"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__brazen-serpent-bourdon",
+   "title": "Moses and the Brazen Serpent",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Sébastien Bourdon",
+   "date": "1653–1654",
+   "place": "France",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["brazen serpent", "fiery serpents", "healing", "moses", "classical composition", "plague", "salvation sign", "crowd"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bourdon,_S%C3%A9bastien_-_Moses_and_the_Brazen_Serpent_-_1653-1654.jpg",
+   "summary": "Sébastien Bourdon's classicizing *Moses and the Brazen Serpent*, a measured French treatment of the healing miracle.\n\n## Iconography\nAmid a landscape strewn with serpent-bitten Israelites, Moses directs the afflicted toward the bronze serpent on its standard; the figures are arranged in Poussin-like friezes of grief and supplication. The palette is cool and the staging legible.\n\n## Significance\nBourdon, a founder of the French Académie, treats Numbers 21 with the restraint of seventeenth-century classicism, subordinating Baroque turbulence to clear narrative order. The [[motif:brazen serpent|raised serpent]] remains the contested object — at once divinely commanded cure and the future idol *Nehushtan* — here presented as a lesson in obedient faith.\n\n## For artists & game designers\nCompare with Rubens's version: Bourdon shows how the same magical-healing episode can be staged for calm legibility rather than visceral chaos.",
+   "citations": [
+    {"text": "*Numbers* 21:4–9."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bourdon,_S%C3%A9bastien_-_Moses_and_the_Brazen_Serpent_-_1653-1654.jpg"}
+   ],
+   "key_concepts": ["brazen serpent", "Sébastien Bourdon", "French classicism", "Nehushtan"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__golden-calf-poussin",
+   "title": "The Adoration of the Golden Calf",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Nicolas Poussin",
+   "date": "c. 1633–1634",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["idolatry", "golden calf", "dance", "aaron", "false worship", "ecstatic rite", "idol", "apostasy"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Adoration_of_the_Golden_Calf_%E2%80%93_Nicolas_Poussin.jpg",
+   "summary": "Nicolas Poussin's *The Adoration of the Golden Calf* (National Gallery, London), the Israelites' ecstatic idol-dance below Sinai.\n\n## Iconography\nA circle of figures dances around the gilded calf raised on a pedestal while Aaron, in white, presides; in the far distance Moses descends the mountain and hurls down the tablets. Poussin choreographs the apostasy as a frenzied bacchic round.\n\n## Significance\nExodus 32 narrates how, in Moses's absence, the people compel Aaron to cast a [[motif:golden calf|golden calf]] and worship it with revelry — the archetypal act of biblical idolatry, conflated in later art with pagan rite and magical fertility-cult. Poussin draws explicitly on antique bacchanal imagery, making the scene a study of false worship as intoxicated misrule.\n\n## For artists & game designers\nThe ring-dance around a raised idol is the definitive \"cult ritual in progress\" composition — circular motion, central effigy, a presiding officiant.",
+   "citations": [
+    {"text": "*Exodus* 32:1–20."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Adoration_of_the_Golden_Calf_%E2%80%93_Nicolas_Poussin.jpg"}
+   ],
+   "key_concepts": ["golden calf", "idolatry", "Nicolas Poussin", "Exodus 32"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__sheba-piero",
+   "title": "The Queen of Sheba Meets Solomon",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Piero della Francesca",
+   "date": "c. 1452–1466 (fresco)",
+   "place": "Arezzo, Italy",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["queen of sheba", "king solomon", "wisdom", "prophecy", "true cross", "hard questions", "court", "retinue"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_2._Procession_of_the_Queen_of_Sheba;_Meeting_between_the_Queen_of_Sheba_and_King_Solomon_-_WGA17487.jpg",
+   "summary": "Piero della Francesca's fresco of the Queen of Sheba meeting Solomon, from the *Legend of the True Cross* cycle at Arezzo.\n\n## Iconography\nThe scene splits into two: the queen's procession kneels before the wood of a future cross, then she meets the enthroned Solomon amid attendant courtiers. Piero's grave, geometric figures and clear light render the encounter as solemn ceremony.\n\n## Significance\n1 Kings 10 tells how the Queen of Sheba comes to test Solomon with \"hard questions\" — riddles and enigmas — and is awed by his God-given [[motif:wisdom|wisdom]]. In later legend (and the *True Cross* tradition Piero illustrates) she becomes a prophetess who venerates the sacred wood. Sheba accrued associations with arcane knowledge, riddle-lore, and, in some traditions, occult power.\n\n## For artists & game designers\nThe \"contest of riddles before the wise king\" is a ready quest frame: a powerful visitor arrives to test the hero's knowledge rather than fight.",
+   "citations": [
+    {"text": "*1 Kings* 10:1–13; Jacobus de Voragine, *Golden Legend* (True Cross)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_2._Procession_of_the_Queen_of_Sheba;_Meeting_between_the_Queen_of_Sheba_and_King_Solomon_-_WGA17487.jpg"}
+   ],
+   "key_concepts": ["Queen of Sheba", "Solomon", "wisdom riddles", "True Cross legend"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__daniel-nebuchadnezzar",
+   "title": "Daniel Interpreting Nebuchadnezzar's Dream",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "W. A. Spicer (illustration)",
+   "date": "early 20th c. (book illustration)",
+   "place": "United States",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["dream interpretation", "prophecy", "babylon", "daniel", "nebuchadnezzar", "wise men", "vision", "oneiromancy"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Daniel_Interpreting_Nebuchadnezzar%27s_Dream.jpg",
+   "summary": "A book illustration of Daniel revealing and interpreting King Nebuchadnezzar's dream of the great statue.\n\n## Iconography\nDaniel stands before the Babylonian king, gesturing as he expounds the dream the king's own magicians could not recover; behind or above looms the colossal image with its head of gold and feet of clay. The picture stages prophecy triumphing over court divination.\n\n## Significance\nDaniel 2 sets the Hebrew seer against the Chaldean \"magicians, enchanters, sorcerers, and astrologers\" who fail to tell the king his forgotten dream. Daniel succeeds not by [[motif:divination|divinatory art]] but by revelation, interpreting the statue as a succession of empires. The chapter became a key biblical statement that true foreknowledge comes from God, not occult technique.\n\n## For artists & game designers\nThe \"interpreter who reads the vision the court experts cannot\" is a strong NPC beat — knowledge as the decisive power in a throne-room scene.",
+   "citations": [
+    {"text": "*Daniel* 2:1–49."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Daniel_Interpreting_Nebuchadnezzar%27s_Dream.jpg"}
+   ],
+   "key_concepts": ["Daniel", "dream interpretation", "Chaldean magicians", "succession of empires"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__belshazzar-rembrandt",
+   "title": "Belshazzar's Feast",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Rembrandt van Rijn",
+   "date": "c. 1635–1638",
+   "place": "Amsterdam, Dutch Republic",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["writing on the wall", "omen", "divine hand", "babylon", "belshazzar", "feast", "terror", "hebrew letters"],
+   "rights": "Public domain. Via Wikimedia Commons (National Gallery, London).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Belshazzar%E2%80%99s_feast,_by_Rembrandt.jpg",
+   "summary": "Rembrandt's *Belshazzar's Feast* (National Gallery, London), the moment a disembodied hand writes the doom of Babylon on the wall.\n\n## Iconography\nThe Babylonian king Belshazzar lurches back from the table, eyes wide and goblet spilling, as a glowing hand inscribes Hebrew/Aramaic letters in mid-air; courtiers and a startled woman recoil. The famous inscription is set vertically, reflecting a rabbinic explanation for why the king's own sages could not read it.\n\n## Significance\nDaniel 5 recounts the *mene mene tekel upharsin* — the spectral [[motif:writing on the wall|writing on the wall]] at Belshazzar's sacrilegious banquet, which only Daniel can interpret as the kingdom's imminent fall. Rembrandt drew the inscription's unusual arrangement from his neighbour, the scholar Menasseh ben Israel. The scene is the supreme biblical image of a supernatural omen.\n\n## For artists & game designers\nThe glowing, free-floating hand writing a cryptic doom is an iconic \"prophetic omen\" effect — a single supernatural intrusion that reframes an entire scene.",
+   "citations": [
+    {"text": "*Daniel* 5:1–31."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Belshazzar%E2%80%99s_feast,_by_Rembrandt.jpg"}
+   ],
+   "key_concepts": ["Belshazzar's feast", "writing on the wall", "Rembrandt", "Daniel"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__magi-gozzoli",
+   "title": "The Journey of the Magi",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Sassetta (Stefano di Giovanni)",
+   "date": "c. 1432–1436",
+   "place": "Siena, Italy",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["magi", "star of bethlehem", "astrologers", "procession", "wise men", "celestial sign", "epiphany", "journey"],
+   "rights": "CC0. Via Wikimedia Commons (Metropolitan Museum of Art).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Journey_of_the_Magi_MET_DT2597.jpg",
+   "summary": "Sassetta's *The Journey of the Magi* (Metropolitan Museum), the wise men following the star toward Bethlehem.\n\n## Iconography\nThe Magi and their retinue wind down a hillside; above, the star of Bethlehem streaks across a gold sky, sometimes rendered as a comet. The richly dressed travellers gaze upward, guided by the celestial sign.\n\n## Significance\nMatthew 2 calls them *magoi* — the term for Persian-Zoroastrian priest-[[motif:astrologers|astrologers]] — who read a new [[motif:star of bethlehem|star]] as the sign of a king's birth. The episode is the Bible's most positive image of astral divination, and Christian tradition long debated whether it sanctioned astrology or merely used it as a vehicle of revelation. Their star inspired Giotto's comet and centuries of cometary iconography.\n\n## For artists & game designers\nThe star-led caravan is a clean \"follow the sign\" travel motif: an unmistakable celestial waypoint drawing a procession across the landscape.",
+   "citations": [
+    {"text": "*Gospel of Matthew* 2:1–12."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Journey_of_the_Magi_MET_DT2597.jpg"}
+   ],
+   "key_concepts": ["Magi", "astrology", "Star of Bethlehem", "Epiphany"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__balaam-ass-rembrandt",
+   "title": "Balaam and the Ass",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Rembrandt van Rijn",
+   "date": "1626",
+   "place": "Leiden, Dutch Republic",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["seer", "talking ass", "angel with sword", "balaam", "blocked path", "blindness to the divine", "curse", "prophet for hire"],
+   "rights": "Public domain. Via Wikimedia Commons (Musée Cognacq-Jay).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Balaam_Rembrandt_01.JPG",
+   "summary": "Rembrandt's early *Balaam and the Ass* (Musée Cognacq-Jay, Paris), the seer beating his donkey before the unseen angel.\n\n## Iconography\nThe pagan diviner Balaam raises a staff to strike his stalled donkey, which turns its head to speak; above, an angel with a drawn sword — visible to the beast but not the man — bars the road. Rembrandt heightens the comedy and terror of the moment.\n\n## Significance\nNumbers 22 tells of Balaam, a Mesopotamian [[motif:seer|seer]] hired by Moab to curse Israel, whose [[motif:talking ass|donkey]] perceives the blocking angel that the professional diviner cannot. Forced instead to bless Israel, Balaam became the ambiguous figure of the prophet-for-hire whose occult sight is humbled by a beast's. The talking ass is one of scripture's strangest supernatural moments.\n\n## For artists & game designers\nThe creature that sees the hidden threat its master cannot is a fine \"animal companion senses the unseen\" device — perception inverted between human and beast.",
+   "citations": [
+    {"text": "*Numbers* 22:21–35."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Balaam_Rembrandt_01.JPG"}
+   ],
+   "key_concepts": ["Balaam", "talking ass", "blocking angel", "prophet for hire"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__jacobs-ladder-ribera",
+   "title": "Jacob's Dream (The Ladder of Jacob)",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "after Jusepe de Ribera (Rijksmuseum photo-reproduction)",
+   "date": "1639 (original); photo-reproduction",
+   "place": "Naples, Italy (original, Museo del Prado)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["jacobs ladder", "dream vision", "ascending angels", "sleeping patriarch", "heavenly gate", "light", "stairway", "theophany"],
+   "rights": "CC0. Via Wikimedia Commons (Rijksmuseum reproduction of the Prado painting).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fotoreproductie_van_een_schilderij_door_Jusepe_Ribera,_voorstellend_de_droom_van_Jakob_RIBERA.-_L%27%C3%A9chelle_de_Jacob._(au_Mus%C3%A9e_du_Prado)._(titel_op_object),_RP-F-F01098-B.jpg",
+   "summary": "A reproduction of Jusepe de Ribera's *Jacob's Dream* (Prado), the patriarch asleep beneath a vision of angels.\n\n## Iconography\nJacob lies sleeping against a bank, head on a stone, while a soft burst of light and the dim forms of ascending angels open above him. Ribera, unusually, downplays the architectural ladder in favour of a luminous, almost mystical haze.\n\n## Significance\nGenesis 28 recounts Jacob's dream at Bethel of a [[motif:jacobs ladder|ladder]] set between earth and heaven with angels ascending and descending, and the Lord above promising the land — a [[motif:theophany|theophany]] that made the site \"the gate of heaven.\" The ladder became a central symbol in mystical and Kabbalistic thought of graded ascent between worlds. Ribera renders the revelation as inward, contemplative experience.\n\n## For artists & game designers\nThe sleeping figure beneath a vertical shaft of light and rising figures is a model for a \"dream-portal\" vision scene — the threshold between realms shown as luminance, not machinery.",
+   "citations": [
+    {"text": "*Genesis* 28:10–19."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fotoreproductie_van_een_schilderij_door_Jusepe_Ribera,_voorstellend_de_droom_van_Jakob_RIBERA.-_L%27%C3%A9chelle_de_Jacob._(au_Mus%C3%A9e_du_Prado)._(titel_op_object),_RP-F-F01098-B.jpg"}
+   ],
+   "key_concepts": ["Jacob's Ladder", "theophany", "Bethel", "angelic ascent"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "biblical_magic__transfiguration-raffaello",
+   "title": "The Transfiguration",
+   "work": "Magic & the Supernatural in the Bible",
+   "creator": "Raphael (Raffaello Sanzio)",
+   "date": "1516–1520",
+   "place": "Rome, Italy (Pinacoteca Vaticana)",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["transfiguration", "radiant light", "levitation", "vision", "demoniac boy", "christ", "moses and elijah", "exorcism"],
+   "rights": "Public domain. Via Wikimedia Commons (Vatican Museums).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Rapha%C3%ABl,_La_Transfiguration,_1518%E2%80%931520,_huile_sur_bois,_405_%C3%97_278_cm,_Mus%C3%A9es_du_Vatican,_Pinacoth%C3%A8que,_inv._4.jpg",
+   "summary": "Raphael's final masterpiece *The Transfiguration* (Vatican Museums), uniting Christ's radiant ascent with the failed exorcism below.\n\n## Iconography\nIn the upper register Christ hovers in dazzling light between Moses and Elijah while the apostles fall back blinded; in the lower, a convulsing possessed boy is brought to the helpless disciples, who point upward for aid. The two halves contrast divine glory and earthly affliction.\n\n## Significance\nThe painting fuses two adjacent Gospel episodes (Matthew 17): the [[motif:transfiguration|Transfiguration]], where Christ's nature shines forth amid the appearance of the dead prophets, and the [[motif:exorcism|exorcism]] of the demoniac boy the apostles could not cure. Together they juxtapose the supreme theophany with a demonic affliction healed only by the descending power — a meditation on the spectrum of the supernatural.\n\n## For artists & game designers\nThe two-tier composition — luminous power above, a crisis demanding it below — is a superb template for staging the relationship between a source of power and the need that calls it down.",
+   "citations": [
+    {"text": "*Gospel of Matthew* 17:1–18."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Rapha%C3%ABl,_La_Transfiguration,_1518%E2%80%931520,_huile_sur_bois,_405_%C3%97_278_cm,_Mus%C3%A9es_du_Vatican,_Pinacoth%C3%A8que,_inv._4.jpg"}
+   ],
+   "key_concepts": ["Transfiguration", "exorcism", "Raphael", "theophany"],
+   "summary_status": "authored"
+  }
+ ]
+}

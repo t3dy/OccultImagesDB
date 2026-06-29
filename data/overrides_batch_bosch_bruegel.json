@@ -1,0 +1,404 @@
+{
+ "_work": {
+   "key": "bosch_bruegel",
+   "short_id": "BOSB",
+   "title": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "various",
+   "date": "c. 1490–1565",
+   "century": 16,
+   "place": "Netherlands and Flanders",
+   "region": "Low Countries",
+   "language": "Dutch",
+   "era": "renaissance",
+   "tradition": "reception",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "bosch_bruegel",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Hieronymus_Bosch",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["hell", "demon", "hybrid monster", "temptation", "last judgement", "the monstrous"],
+   "blurb": "The supreme imagery of hell, temptation and the monstrous from Hieronymus Bosch, Pieter Bruegel the Elder and their Antwerp circle (Pieter Huys, Jan Mandijn, Frans Floris). Garden-of-Earthly-Delights torments, the Tree-Man, Dulle Griet at the mouth of hell, the Triumph of Death, the demon-filled Seven Deadly Sins engravings, and a swarm of Boschian hybrid devils — the visionary fantastic that fed centuries of European demonology."
+ },
+ "entries": [
+  {
+   "id": "bosch_bruegel__garden-treeman",
+   "title": "The Tree-Man (Garden of Earthly Delights, Hell panel detail)",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Hieronymus Bosch",
+   "date": "c. 1490–1500",
+   "place": "'s-Hertogenbosch, Duchy of Brabant",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["tree-man", "hell", "eggshell body", "hollow torso", "tavern in the body", "hybrid monster", "hat with bagpipe", "boschian fantastic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bosch,_Hieronymus_-_The_Garden_of_Earthly_Delights,_right_panel_-_Detail_Bagpipe_left_(disk_of_tree_man).jpg",
+   "summary": "A detail of the so-called *Tree-Man*, the central monster of the Hell panel of Hieronymus Bosch's *Garden of Earthly Delights* (Museo del Prado).\n\n## Iconography\nThe figure has a pale, egg-shaped, broken torso hollowed into a tavern where small naked figures sit and drink. Its limbs are two dead tree-trunks ending in boats that float on a dark lake; its face turns back over its shoulder with a sidelong, melancholy stare. On the flat disk-shaped hat balanced on its head, demons and damned souls parade around a large [[motif:hat with bagpipe|bagpipe]], the instrument long read as an emblem of lust and folly.\n\n## Significance\nThe Tree-Man is the most famous single invention of Bosch's infernal imagination and is widely thought to be a veiled self-portrait, since a related drawing survives in the Albertina. It crystallizes Bosch's method of building monsters from hybrid, hollow and broken bodies. As discussed by scholars such as Walter Bosing and Hans Belting, the Hell panel turns the instruments of pleasure into instruments of torment.\n\n## For artists & game designers\nA template for the 'environment-creature': a monster whose hollow body is itself a haunted interior space the player can enter.",
+   "citations": [
+    {"text": "Hans Belting, *Hieronymus Bosch: Garden of Earthly Delights* (2002)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bosch,_Hieronymus_-_The_Garden_of_Earthly_Delights,_right_panel_-_Detail_Bagpipe_left_(disk_of_tree_man).jpg"}
+   ],
+   "key_concepts": ["Tree-Man", "Garden of Earthly Delights", "Boschian monster", "Hell panel"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bosch-last-judgement",
+   "title": "The Last Judgement (Bosch)",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Hieronymus Bosch",
+   "date": "c. 1495–1505",
+   "place": "'s-Hertogenbosch, Duchy of Brabant",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["last judgement", "hell", "torture of the damned", "demon", "hybrid monster", "infernal furnace", "naked souls", "triptych"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_The_Last_Judgement.jpg",
+   "summary": "Hieronymus Bosch's *Last Judgement* triptych (Akademie der bildenden Künste, Vienna), among the most densely populated of his infernal visions.\n\n## Iconography\nAfter a narrow band of heaven and the Fall in the upper register, almost the entire surface is given over to a world that has become hell. Naked sinners are roasted on spits, pressed in mills, knifed, drowned and devoured by hybrid devils. Demons combining human, animal, insect and mechanical parts torment the damned in punishments tailored to their sins, amid burning towers and pools of fire.\n\n## Significance\nBosch collapses the traditional separation of judgement and damnation: the verdict has already fallen and the canvas is one vast penal landscape. The work is central to the literature on Bosch's eschatology (Bosing, Silver) and shows how the late-medieval theology of the *contrapasso* — sins punished by their own image — generated an inexhaustible bestiary of torture-demons.\n\n## For artists & game designers\nA reference sheet for a 'punishment hell' biome: each torment is a discrete, legible vignette pairing a specific sin with a bespoke demon.",
+   "citations": [
+    {"text": "Larry Silver, *Hieronymus Bosch* (2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_The_Last_Judgement.jpg"}
+   ],
+   "key_concepts": ["Last Judgement", "Bosch", "infernal torment", "contrapasso"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bosch-haywain",
+   "title": "The Haywain Triptych",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Hieronymus Bosch or workshop",
+   "date": "c. 1512–1515",
+   "place": "'s-Hertogenbosch, Duchy of Brabant",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["haywain", "greed", "demon", "hell", "hybrid monster", "procession", "vanity", "triptych"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bosch_-_Haywain_Triptych.jpg",
+   "summary": "Hieronymus Bosch's *Haywain* triptych (Museo del Prado), an allegory of worldly greed dragged toward hell.\n\n## Iconography\nIn the central panel a giant wagon of hay rolls forward while people of every estate — peasants, clerics, even the emperor and pope on horseback — claw, trample and murder one another to seize a handful. Atop the load, lovers flirt while an angel prays and a blue demon pipes. Fish-bodied and rat-snouted [[motif:demon|devils]] haul the wain toward the right panel, where they build a tower in a burning hell-landscape.\n\n## Significance\nThe picture turns a Flemish proverb — 'the world is a haystack and each man plucks what he can' — into a moving image of universal avarice. As Larry Silver and Walter Bosing note, the relentless procession from Eden (left) through greed (center) to hell (right) makes the triptych a compressed sermon on the wages of cupidity, with demons as the literal teamsters of damnation.\n\n## For artists & game designers\nThe 'doomed procession' set-piece: a slow-moving objective everyone fights over, escorted by monsters toward an inevitable infernal end.",
+   "citations": [
+    {"text": "Walter Bosing, *Hieronymus Bosch* (1973)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bosch_-_Haywain_Triptych.jpg"}
+   ],
+   "key_concepts": ["Haywain", "avarice allegory", "Bosch triptych", "procession to hell"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bosch-death-miser",
+   "title": "Death and the Miser",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Hieronymus Bosch",
+   "date": "c. 1485–1490",
+   "place": "'s-Hertogenbosch, Duchy of Brabant",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["death", "miser", "ars moriendi", "demon", "skeleton", "money", "deathbed", "guardian angel"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_Death_and_the_Miser_-_Google_Art_Project.jpg",
+   "summary": "Hieronymus Bosch's *Death and the Miser* (National Gallery of Art, Washington), a vertical panel from a dismembered triptych staging the *ars moriendi*.\n\n## Iconography\nA dying miser sits up in a tall canopied bed as skeletal [[motif:death|Death]] slips through the door with an arrow. A guardian angel steadies him and points to a crucifix in the window, but a small demon offers a bag of gold from beneath the bed-curtain, while other imps swarm the chest and money below. The man hesitates, his hand reaching between salvation and the proffered purse.\n\n## Significance\nThe panel is a direct visualization of the late-medieval handbook on *the art of dying well*, in which angels and devils contend for the soul at the last moment. Bosch localizes the cosmic struggle in a single bedroom, the imps as familiar household vermin. The work is a touchstone in studies of the deathbed contest (Silver, Marrow) and of Bosch's restrained, almost monochrome demonology.\n\n## For artists & game designers\nA model for a 'final choice' encounter: angel and demon as opposing prompts at a character's death, the outcome hinging on one reaching hand.",
+   "citations": [
+    {"text": "Larry Silver, *Hieronymus Bosch* (2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_Death_and_the_Miser_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["Death and the Miser", "ars moriendi", "deathbed contest", "Bosch"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bosch-descent-hell",
+   "title": "Christ's Descent into Hell (Harrowing of Hell)",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Follower of Hieronymus Bosch",
+   "date": "c. 1550–1560",
+   "place": "Netherlands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["harrowing of hell", "hell-mouth", "demon", "hybrid monster", "the damned", "fire", "limbo", "boschian fantastic"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons. Metropolitan Museum of Art.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Christ%27s_Descent_into_Hell_MET_DP-1207-001.jpg",
+   "summary": "*Christ's Descent into Hell* (Metropolitan Museum of Art), a Boschian panel of the Harrowing of Hell by a follower of Hieronymus Bosch.\n\n## Iconography\nA fiery cavern teems with grotesque [[motif:hybrid monster|hybrid devils]] — beaked, horned, finned and clawed — who guard and torment crowds of naked souls amid burning ruins. Christ, a small luminous figure, descends to lead the righteous of the Old Testament out of Limbo, breaking the gates of hell as monstrous fiends recoil. Toads, reptiles and broken-bodied creatures crawl through the gloom.\n\n## Significance\nThe Harrowing — Christ's descent between Crucifixion and Resurrection to free the souls of the patriarchs — gave painters license for an entire panel of hell. The picture shows how Bosch's idiom was carried by anonymous followers into the mid-16th century, the master's monster-vocabulary becoming a shared Netherlandish style for the infernal. Catalogued by the Met as a work after Bosch.\n\n## For artists & game designers\nA 'breach the underworld' scene: a single bright protagonist storming a cavern packed with diverse guardian demons.",
+   "citations": [
+    {"text": "Metropolitan Museum of Art, object record (Follower of Hieronymus Bosch)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Christ%27s_Descent_into_Hell_MET_DP-1207-001.jpg"}
+   ],
+   "key_concepts": ["Harrowing of Hell", "Bosch follower", "hell-mouth", "hybrid demons"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bosch-visions-hell",
+   "title": "Fall of the Damned into Hell (Visions of the Hereafter)",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Hieronymus Bosch",
+   "date": "c. 1505–1515",
+   "place": "'s-Hertogenbosch, Duchy of Brabant",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["fall of the damned", "hell", "demon", "fire", "darkness", "naked souls", "torment", "afterlife"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Visions_of_the_Hereafter_-_Fall_of_the_Damned_into_Hell.jpg",
+   "summary": "*Fall of the Damned into Hell*, one of four panels of Hieronymus Bosch's *Visions of the Hereafter* (Palazzo Grimani / Gallerie dell'Accademia, Venice).\n\n## Iconography\nIn a near-black void, naked souls tumble downward, seized and dragged by winged [[motif:demon|demons]] toward a smoking pit of fire at the bottom of the panel. Flames and embers rake the darkness; the damned writhe in the grip of their captors. Its companion panel, the *Ascent of the Blessed*, shows souls rising instead through a luminous tunnel of light toward heaven.\n\n## Significance\nThe four Venice panels are among Bosch's most abstract and atmospheric works, reducing the afterlife to elemental contrasts of light and dark, ascent and fall. The luminous tunnel of the *Ascent* has often been linked in popular writing to near-death 'tunnel of light' accounts. As a pair, the panels distill the medieval topography of the hereafter into pure vertical drama, as discussed by Silver and Bosing.\n\n## For artists & game designers\nA pure 'descent' visual: bodies and embers falling through darkness toward a fire-lit pit, minimal architecture, maximal atmosphere.",
+   "citations": [
+    {"text": "Walter Bosing, *Hieronymus Bosch* (1973)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Visions_of_the_Hereafter_-_Fall_of_the_Damned_into_Hell.jpg"}
+   ],
+   "key_concepts": ["Visions of the Hereafter", "Fall of the Damned", "Bosch", "afterlife topography"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bruegel-dulle-griet",
+   "title": "Dulle Griet (Mad Meg)",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Pieter Bruegel the Elder",
+   "date": "c. 1563",
+   "place": "Antwerp, Flanders",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["mad meg", "mouth of hell", "armed virago", "plunder", "demon", "hybrid monster", "apocalyptic landscape", "boschian fantastic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Dulle_Griet,_by_Pieter_Brueghel_(I).jpg",
+   "summary": "Pieter Bruegel the Elder's *Dulle Griet* ('Mad Meg', Museum Mayer van den Bergh, Antwerp), a fiery virago striding before the mouth of hell.\n\n## Iconography\nA gaunt woman in helmet and breastplate, sword in one hand and arms full of plundered goods, marches toward the left across a burning, Boschian wasteland. Behind her a literal [[motif:mouth of hell|hell-mouth]] gapes — a vast monstrous face spewing fire — while a horde of soldier-women storm a demon-held bridge and grotesque [[motif:hybrid monster|hybrids]] crawl through the ruined land.\n\n## Significance\nMad Meg embodies the Flemish proverb of the woman who 'could plunder in front of hell and return unscathed', a figure of avarice and shrewish fury. Bruegel fuses social satire with Bosch's infernal vocabulary, painting one of the great images of the world turned upside-down. The work is central to studies of Bruegel's proverb-pictures and his debt to Bosch (Gibson, Silver).\n\n## For artists & game designers\nThe 'lone raider at the gates of hell': a single armored protagonist looting across an apocalyptic battlefield with a monstrous hell-mouth as backdrop.",
+   "citations": [
+    {"text": "Walter S. Gibson, *Bruegel* (1977)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Dulle_Griet,_by_Pieter_Brueghel_(I).jpg"}
+   ],
+   "key_concepts": ["Dulle Griet", "Mad Meg", "mouth of hell", "Bruegel proverb"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bruegel-triumph-death",
+   "title": "The Triumph of Death",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Pieter Bruegel the Elder",
+   "date": "c. 1562",
+   "place": "Antwerp, Flanders",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["triumph of death", "skeleton army", "death", "the great leveller", "barren landscape", "coffin", "scythe", "danse macabre"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg",
+   "summary": "Pieter Bruegel the Elder's *The Triumph of Death* (Museo del Prado), a panoramic apocalypse of skeleton armies harvesting the living.\n\n## Iconography\nAcross a scorched, smoke-blackened landscape, legions of [[motif:skeleton army|skeletons]] drive humanity toward a great coffin-lidded trap. The dead toll bells, drag carts of skulls, slit throats and ferry souls; kings, cardinals, lovers and peasants are seized without distinction. A skeletal rider on a pale horse mows through a crowd with a scythe while fires burn on the horizon and ships sink at sea.\n\n## Significance\nBruegel universalizes the *danse macabre* into a single battlefield where Death triumphs over every estate, echoing the Italian *Trionfo della Morte* tradition (Palermo, Pisa) seen through Netherlandish eyes. The painting is read as a response to war, plague and the religious violence of the 16th-century Low Countries, and remains the canonical image of death as the great leveller (Gibson, Silver).\n\n## For artists & game designers\nThe definitive 'undead horde overruns the world' tableau: an entire society processed by an army of skeletons across a burning plain.",
+   "citations": [
+    {"text": "Larry Silver, *Pieter Bruegel* (2011)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg"}
+   ],
+   "key_concepts": ["Triumph of Death", "danse macabre", "skeleton army", "Bruegel"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bruegel-superbia",
+   "title": "Superbia (Pride), from The Seven Deadly Sins",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Pieter Bruegel the Elder (engraved by Pieter van der Heyden)",
+   "date": "1558",
+   "place": "Antwerp, Flanders",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["pride", "seven deadly sins", "peacock", "mirror", "demon", "hybrid monster", "allegory", "engraving"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons. Rijksmuseum.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hoogmoed_Superbia_(titel_op_object)_De_zeven_hoofdzonden_(serietitel),_RP-P-1887-A-12306.jpg",
+   "summary": "*Superbia* (Pride), one of the *Seven Deadly Sins* (*De zeven hoofdzonden*) engravings after Pieter Bruegel the Elder, engraved by Pieter van der Heyden and published by Hieronymus Cock (1558).\n\n## Iconography\nA crowned female personification of Pride admires herself in a mirror held by a demon, a [[motif:peacock|peacock]] beside her. Around this central allegory swarms a Bosch-inspired world of [[motif:hybrid monster|hybrid monsters]]: building-headed beasts, walking pots, beaked and finned devils, and absurd architecture, each detail glossing the sin of vanity. A Flemish-Latin inscription names the vice along the lower margin.\n\n## Significance\nBruegel's *Seven Deadly Sins* series, designed for the print publisher Hieronymus Cock, deliberately revived Bosch's monstrous fantastic for the booming Antwerp print market a generation after Bosch's death. The engravings spread the Boschian idiom across Europe in reproducible form and are foundational to studies of Bruegel as a designer of prints (Orenstein, Sellink).\n\n## For artists & game designers\nA dense 'sin-world' page: one clear allegorical figure surrounded by dozens of kitbashed micro-monsters illustrating a single theme.",
+   "citations": [
+    {"text": "Nadine Orenstein (ed.), *Pieter Bruegel the Elder: Drawings and Prints* (2001)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hoogmoed_Superbia_(titel_op_object)_De_zeven_hoofdzonden_(serietitel),_RP-P-1887-A-12306.jpg"}
+   ],
+   "key_concepts": ["Superbia", "Seven Deadly Sins", "Bruegel engraving", "Hieronymus Cock"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__huys-anthony",
+   "title": "The Temptation of Saint Anthony (Pieter Huys)",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Pieter Huys",
+   "date": "1547",
+   "place": "Antwerp, Flanders",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["temptation", "saint anthony", "demon", "hybrid monster", "desert hermit", "monstrous seductress", "hell", "boschian fantastic"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons. Metropolitan Museum of Art.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Temptation_of_Saint_Anthony_MET_ep15.133.bw.R.jpg",
+   "summary": "Pieter Huys's *The Temptation of Saint Anthony* (Metropolitan Museum of Art), a Boschian assault on the desert hermit.\n\n## Iconography\nThe aged Saint Anthony kneels at his book amid a riot of [[motif:hybrid monster|hybrid demons]] — fish-bodied, beaked, multi-limbed creatures that crawl, fly and grimace around him. A richly dressed temptress (a demon in disguise) offers worldly enticement, while monstrous heads, burning ruins and absurd vessels fill the surrounding landscape. Imps pluck at the saint and brandish grotesque instruments.\n\n## Significance\nHuys (c. 1519–1584) was among the Antwerp specialists who kept Bosch's *Temptation of St Anthony* type commercially alive through the mid-16th century. The subject — drawn from Athanasius's *Life of St Anthony* — let painters combine spiritual exemplum with virtuoso monster-invention. Huys's signed and dated versions are key documents of the Boschian revival catalogued in studies of Netherlandish demonology in art (Silver, *Peasant Scenes and Landscapes*; Met records).\n\n## For artists & game designers\nThe classic 'besieged saint' setup: a still, praying figure at the calm center of a 360-degree swirl of distinct tormentor-demons.",
+   "citations": [
+    {"text": "Metropolitan Museum of Art, object record (Pieter Huys, 1547)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Temptation_of_Saint_Anthony_MET_ep15.133.bw.R.jpg"}
+   ],
+   "key_concepts": ["Temptation of St Anthony", "Pieter Huys", "Boschian revival", "demon swarm"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__mandijn-anthony",
+   "title": "The Temptation of Saint Anthony (Workshop of Jan Mandijn)",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Workshop of Jan Mandijn",
+   "date": "c. 1535–1560",
+   "place": "Antwerp, Flanders",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["temptation", "saint anthony", "demon", "hybrid monster", "desert hermit", "fire", "monstrous procession", "boschian fantastic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Temptation_of_Saint_Anthony_(workshop_of_Jan_Mandijn).jpg",
+   "summary": "*The Temptation of Saint Anthony* from the workshop of Jan Mandijn, a Boschian panel of the hermit beset by monsters.\n\n## Iconography\nSaint Anthony endures a teeming landscape of [[motif:hybrid monster|hybrid devils]]: creatures fused from man, beast, bird and machine flock around him while fires burn in the distance and grotesque processions wind through the wasteland. Demons fly, scuttle and float on absurd contraptions, the whole forming a panoramic catalogue of the monstrous in the manner of Bosch.\n\n## Significance\nJan Mandijn (c. 1500–1560), active in Antwerp, was one of the most important transmitters of Bosch's demonic style in the generation between Bosch and Bruegel; Karel van Mander praised his 'droll' and uncanny manner. Workshop versions like this one show how the *Temptation of St Anthony* became a near-industrial Antwerp product, each painter recombining a stock of Boschian monster-motifs. Such pictures anchor the art-historical account of Bosch's reception (Unverfehrt, Silver).\n\n## For artists & game designers\nA 'monster-catalogue landscape': a wide scene whose density of distinct fantastical creatures is itself the spectacle.",
+   "citations": [
+    {"text": "Gerd Unverfehrt, *Hieronymus Bosch: die Rezeption seiner Kunst* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Temptation_of_Saint_Anthony_(workshop_of_Jan_Mandijn).jpg"}
+   ],
+   "key_concepts": ["Temptation of St Anthony", "Jan Mandijn", "Bosch reception", "Antwerp workshop"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bruegel-luxuria",
+   "title": "Luxuria (Lust), from The Seven Deadly Sins",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Pieter Bruegel the Elder (engraved by Pieter van der Heyden)",
+   "date": "1558",
+   "place": "Antwerp, Flanders",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["lust", "seven deadly sins", "demon", "hybrid monster", "embracing couple", "allegory", "engraving", "boschian fantastic"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons. Rijksmuseum.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Wellust_Luxuria_(titel_op_object)_De_zeven_hoofdzonden_(serietitel),_RP-P-1887-A-12307.jpg",
+   "summary": "*Luxuria* (Lust / *Wellust*), from the *Seven Deadly Sins* engravings after Pieter Bruegel the Elder, engraved by Pieter van der Heyden for Hieronymus Cock (1558).\n\n## Iconography\nThe personification of Lust sits caressed by a demon within a pink shell-like pavilion, while around her the landscape erupts in [[motif:hybrid monster|monstrous]] obscenity: embracing couples sheltered by lewd contraptions, beaked and finned devils, and absurd hybrid architecture, all glossing carnal sin in the Boschian manner. A Latin-Flemish motto names the vice below.\n\n## Significance\nLike the rest of the series, *Luxuria* revived Bosch's demonic fantastic for the Antwerp print trade four decades after Bosch's death, marrying moral allegory to virtuoso monster-invention. The *Seven Deadly Sins* and the companion *Seven Virtues* established Bruegel's reputation as the 'second Bosch' and are foundational to the study of his graphic work (Orenstein, Sellink).\n\n## For artists & game designers\nUse the central shell-pavilion as a 'sin shrine' motif: a tempting interior framed by escalating grotesque detail.",
+   "citations": [
+    {"text": "Manfred Sellink, *Bruegel: The Complete Paintings, Drawings and Prints* (2007)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Wellust_Luxuria_(titel_op_object)_De_zeven_hoofdzonden_(serietitel),_RP-P-1887-A-12307.jpg"}
+   ],
+   "key_concepts": ["Luxuria", "Seven Deadly Sins", "Bruegel engraving", "Hieronymus Cock"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bruegel-ira",
+   "title": "Ira (Wrath), from The Seven Deadly Sins",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Pieter Bruegel the Elder (engraved by Pieter van der Heyden)",
+   "date": "1558",
+   "place": "Antwerp, Flanders",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["wrath", "seven deadly sins", "violence", "demon", "hybrid monster", "weapons", "allegory", "engraving"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons. Rijksmuseum.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Toorn_Ira_(titel_op_object)_De_zeven_hoofdzonden_(serietitel),_RP-P-1887-A-12304.jpg",
+   "summary": "*Ira* (Wrath / *Toorn*), from the *Seven Deadly Sins* engravings after Pieter Bruegel the Elder, engraved by Pieter van der Heyden for Hieronymus Cock (1558).\n\n## Iconography\nWrath is personified amid a field of mutual slaughter: figures hack, stab and brawl with knives and improvised weapons while a giant knife and a vast cauldron-tent loom over the scene. Boschian [[motif:hybrid monster|hybrid monsters]] join the carnage, and a winged demon presides over the violence. A motto identifies the vice along the lower border.\n\n## Significance\nThe sheet visualizes wrath as a landscape that has dissolved into general warfare — an apt image for the strife-torn Low Countries on the eve of the Dutch Revolt. With the rest of the series it transmitted Bosch's monster-idiom across Europe in reproducible form and cemented Bruegel's standing as a print designer (Orenstein, Sellink).\n\n## For artists & game designers\nA 'riot biome' reference: a whole environment in which every figure is locked in localized combat, oversized weapons as set dressing.",
+   "citations": [
+    {"text": "Nadine Orenstein (ed.), *Pieter Bruegel the Elder: Drawings and Prints* (2001)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Toorn_Ira_(titel_op_object)_De_zeven_hoofdzonden_(serietitel),_RP-P-1887-A-12304.jpg"}
+   ],
+   "key_concepts": ["Ira", "Seven Deadly Sins", "Bruegel engraving", "Hieronymus Cock"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bruegel-avaritia",
+   "title": "Avaritia (Greed), from The Seven Deadly Sins",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Pieter Bruegel the Elder (engraved by Pieter van der Heyden)",
+   "date": "1558",
+   "place": "Antwerp, Flanders",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["greed", "seven deadly sins", "money", "demon", "hybrid monster", "hoarding", "allegory", "engraving"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons. Rijksmuseum.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Gierigheid_Avaritia_(titel_op_object)_De_zeven_hoofdzonden_(serietitel),_RP-P-1887-A-12301.jpg",
+   "summary": "*Avaritia* (Greed / *Gierigheid*), from the *Seven Deadly Sins* engravings after Pieter Bruegel the Elder, engraved by Pieter van der Heyden for Hieronymus Cock (1558).\n\n## Iconography\nThe personification of Avarice counts and hoards coins while all around her people scrape, dig and cheat for money. Demons and [[motif:hybrid monster|hybrid creatures]] embody the obsession — money-disgorging beasts, treasure-guarding monsters — and absurd Boschian structures fill the background. The vice is named in the lower margin.\n\n## Significance\nAvarice, the 'root of all evil' in Pauline and medieval moral theology, is here dramatized as a whole society deformed by the pursuit of coin — a resonant theme in mercantile Antwerp. The print belongs to Bruegel's hugely influential *Seven Deadly Sins*, the series that made Bosch's demonic style a renewable commodity of the Netherlandish print market (Sellink, Silver).\n\n## For artists & game designers\nA 'greed dungeon' palette: treasure-guardian monsters and coin-disgorging beasts arrayed around a single hoarder figure.",
+   "citations": [
+    {"text": "Larry Silver, *Pieter Bruegel* (2011)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Gierigheid_Avaritia_(titel_op_object)_De_zeven_hoofdzonden_(serietitel),_RP-P-1887-A-12301.jpg"}
+   ],
+   "key_concepts": ["Avaritia", "Seven Deadly Sins", "Bruegel engraving", "Hieronymus Cock"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bruegel-gula",
+   "title": "Gula (Gluttony), from The Seven Deadly Sins",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Pieter Bruegel the Elder (engraved by Pieter van der Heyden)",
+   "date": "1558",
+   "place": "Antwerp, Flanders",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["gluttony", "seven deadly sins", "feasting", "drinking", "demon", "hybrid monster", "allegory", "engraving"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons. Rijksmuseum.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Gulzigheid_Gula_(titel_op_object)_De_zeven_hoofdzonden_(serietitel),_RP-P-OB-104.437.jpg",
+   "summary": "*Gula* (Gluttony / *Gulzigheid*), from the *Seven Deadly Sins* engravings after Pieter Bruegel the Elder, engraved by Pieter van der Heyden for Hieronymus Cock (1558).\n\n## Iconography\nThe personification of Gluttony tips a jug to drink as figures around her gorge and swill. A giant tippling head, monstrous mouths and [[motif:hybrid monster|hybrid devils]] turn the whole landscape into an organism of consumption — buildings shaped like flagons, beasts vomiting and devouring — with the vice named below.\n\n## Significance\nGluttony, traditionally paired with drunkenness in Netherlandish moral imagery, here swells into an entire ingesting world. The sheet is part of Bruegel's *Seven Deadly Sins*, designed for Hieronymus Cock's press, which carried Bosch's monster-vocabulary into mass circulation and shaped European demonological imagery for generations (Orenstein, Sellink).\n\n## For artists & game designers\nThe 'devouring environment' idea: architecture and monsters built from mouths, jugs and bellies — consumption as level theme.",
+   "citations": [
+    {"text": "Manfred Sellink, *Bruegel: The Complete Paintings, Drawings and Prints* (2007)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Gulzigheid_Gula_(titel_op_object)_De_zeven_hoofdzonden_(serietitel),_RP-P-OB-104.437.jpg"}
+   ],
+   "key_concepts": ["Gula", "Seven Deadly Sins", "Bruegel engraving", "Hieronymus Cock"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bruegel-desidia",
+   "title": "Desidia (Sloth), from The Seven Deadly Sins",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Pieter Bruegel the Elder (engraved by Pieter van der Heyden)",
+   "date": "1558",
+   "place": "Antwerp, Flanders",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["sloth", "seven deadly sins", "sleep", "snail", "demon", "hybrid monster", "allegory", "engraving"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons. Rijksmuseum.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Luiheid_Desidia_(titel_op_object)_De_zeven_hoofdzonden_(serietitel),_RP-P-1887-A-12302.jpg",
+   "summary": "*Desidia* (Sloth / *Luiheid*), from the *Seven Deadly Sins* engravings after Pieter Bruegel the Elder, engraved by Pieter van der Heyden for Hieronymus Cock (1558).\n\n## Iconography\nThe personification of Sloth sleeps slumped against a snail or a great resting beast while torpid figures doze, dawdle and rot around her. Boschian [[motif:hybrid monster|hybrid creatures]] embody inertia — a giant clock-like form, a sluggish monster bearing the sleeper, dreamlike half-built structures — with the vice named in the lower margin.\n\n## Significance\n*Desidia* / *Acedia* (sloth) was the monk's besetting sin in medieval theology, the spiritual listlessness that opens the soul to the devil. Bruegel renders it as a whole landscape sunk into stupor. The sheet completes the demon-filled set of the *Seven Deadly Sins*, the series through which Bosch's fantastic was transmitted to all of Europe via Antwerp printmaking (Sellink, Orenstein).\n\n## For artists & game designers\nA 'torpor zone' reference: a sleeping environment where even the architecture sags, useful for an enchantment-of-sleep level.",
+   "citations": [
+    {"text": "Nadine Orenstein (ed.), *Pieter Bruegel the Elder: Drawings and Prints* (2001)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Luiheid_Desidia_(titel_op_object)_De_zeven_hoofdzonden_(serietitel),_RP-P-1887-A-12302.jpg"}
+   ],
+   "key_concepts": ["Desidia", "Seven Deadly Sins", "Bruegel engraving", "Hieronymus Cock"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__garden-triptych",
+   "title": "The Garden of Earthly Delights (full triptych)",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Hieronymus Bosch",
+   "date": "c. 1490–1510",
+   "place": "'s-Hertogenbosch, Duchy of Brabant",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["garden of earthly delights", "eden", "hell", "demon", "hybrid monster", "naked figures", "fantastic fountain", "triptych"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg",
+   "summary": "Hieronymus Bosch's *The Garden of Earthly Delights* (Museo del Prado), the supreme triptych of the visionary fantastic, here in the full open three-panel view.\n\n## Iconography\nThe left wing shows Eden, where God joins Adam and Eve amid strange beasts and a pink fountain of life. The vast central panel teems with nude figures cavorting with giant birds, fruit and crystalline structures in a lake-dotted garden of sensual fantasy. The right wing is a frozen, fire-lit [[motif:hell|hell]]: the [[motif:tree-man|Tree-Man]], a bird-headed devil devouring sinners, instruments of music turned to torture, and a swarm of [[motif:hybrid monster|hybrid demons]] punishing the damned.\n\n## Significance\nThe triptych's meaning remains contested — moral warning against lust, heterodox paradise, or alchemical-astrological allegory — and that very ambiguity has made it the most analyzed of all Bosch's works (Fraenger, Bosing, Belting, Silver). As a whole it maps the Christian arc from creation through sin to damnation while inventing a wholly original repertoire of the monstrous.\n\n## For artists & game designers\nThe ultimate three-act world map: paradise, pleasure and punishment as adjacent, traversable biomes, each with its own creature logic.",
+   "citations": [
+    {"text": "Hans Belting, *Hieronymus Bosch: Garden of Earthly Delights* (2002)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg"}
+   ],
+   "key_concepts": ["Garden of Earthly Delights", "Bosch triptych", "Eden to Hell", "visionary fantastic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bruegel-rebel-angels",
+   "title": "The Fall of the Rebel Angels (Bruegel)",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Pieter Bruegel the Elder",
+   "date": "1562",
+   "place": "Antwerp, Flanders",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["fall of the rebel angels", "archangel michael", "demon", "hybrid monster", "transformation", "war in heaven", "trumpet", "boschian fantastic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg",
+   "summary": "Pieter Bruegel the Elder's *The Fall of the Rebel Angels* (Royal Museums of Fine Arts of Belgium, Brussels), painted 1562 in unmistakably Boschian idiom.\n\n## Iconography\nAt the top, the golden archangel Michael in gleaming armor and his bright-robed angels drive the rebel host downward with sword and trumpet. As they fall, the rebels metamorphose mid-air into grotesque [[motif:hybrid monster|hybrids]] — fish, frogs, insects, fruit and fungus fused into writhing devils — tumbling toward the dark bottom of the panel. The composition is a vertical cascade of transformation from light into the monstrous.\n\n## Significance\nThe subject — the primal revolt of Lucifer's angels cast out of heaven (Revelation 12) — let Bruegel rival Bosch directly, and the picture was long attributed to Bosch before its 1562 monogram and date were recognized. It exemplifies how the war-in-heaven theme generated demon-imagery and stands among the masterpieces of Netherlandish fantastic painting (Gibson, Silver).\n\n## For artists & game designers\nA 'corruption-in-motion' reference: enemies that visibly mutate from angelic to monstrous as they fall, a single readable downward composition.",
+   "citations": [
+    {"text": "Walter S. Gibson, *Bruegel* (1977)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["Fall of the Rebel Angels", "Bruegel", "war in heaven", "demonic metamorphosis"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "bosch_bruegel__bosch-ship-fools",
+   "title": "The Ship of Fools",
+   "work": "Bosch, Bruegel & the Demonic Fantastic of the Low Countries",
+   "creator": "Hieronymus Bosch",
+   "date": "c. 1490–1500",
+   "place": "'s-Hertogenbosch, Duchy of Brabant",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["ship of fools", "folly", "gluttony", "drunken revel", "lute", "monk and nun", "satire", "mast-tree"],
+   "rights": "Public domain. Via Wikimedia Commons. Musée du Louvre.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:La_Nef_des_fous_-_J%C3%A9r%C3%B4me_Bosch_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2218.jpg",
+   "summary": "Hieronymus Bosch's *The Ship of Fools* (*La Nef des fous*, Musée du Louvre), a satirical panel of humanity adrift in folly.\n\n## Iconography\nA crowded little boat carries a cargo of fools — a monk and a nun singing over a lute, revellers gorging and drinking, one vomiting overboard, another climbing the mast for a roast fowl tied aloft. The mast is a living tree topped by a fool's banner and a death's-head; a jester perches apart on a branch. The vessel drifts with no helmsman toward nowhere.\n\n## Significance\nThe panel belongs to the late-medieval satire of folly that culminated in Sebastian Brant's *Das Narrenschiff* (1494). It is a fragment of a larger dismembered work, its companion (the *Allegory of Gluttony and Lust*) now at Yale. Bosch turns ecclesiastical and worldly appetite into a rudderless ship of the damned — folly as a moral and spiritual shipwreck (Bosing, Silver).\n\n## For artists & game designers\nA self-contained 'vessel of vice' tableau: a single small craft packed with distinct sinning archetypes, drifting toward doom.",
+   "citations": [
+    {"text": "Walter Bosing, *Hieronymus Bosch* (1973)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:La_Nef_des_fous_-_J%C3%A9r%C3%B4me_Bosch_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2218.jpg"}
+   ],
+   "key_concepts": ["Ship of Fools", "Narrenschiff", "folly satire", "Bosch"],
+   "summary_status": "authored"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor / tooling
+.claude/settings.local.json
+*.log
+
+# Scratch
+*.tmp
+scratch/
+
+# High-res originals: kept locally for builds, re-sourceable from provenance URLs; not published (Pages 1GB limit)
+sources_web/

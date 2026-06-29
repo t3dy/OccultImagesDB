@@ -1,0 +1,385 @@
+{
+ "_work": {
+   "key": "cosmic_machines",
+   "short_id": "COSM",
+   "title": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "various",
+   "date": "1st c. BCE – 18th c.",
+   "century": 14,
+   "place": "Greece, Italy, France, German lands, Bohemia, England, Sweden, Netherlands",
+   "region": "Europe",
+   "language": "Latin and vernacular",
+   "era": "medieval",
+   "tradition": "astrology",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "cosmic_machines",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Astronomical_clocks",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["astronomical clock", "zodiac dial", "planetary motion", "celestial mechanism", "automaton", "geocentric cosmos"],
+   "blurb": "Photographs and diagrams of the great clocks and computing instruments that modelled the heavens as a turning machine: the Prague Orloj and the cathedral clocks of Strasbourg, Wells, Lyon, Besançon, Münster, Lund, Venice and Olomouc; the Antikythera mechanism; the torquetum, nocturnal and astronomical compendium; the Eisinga planetarium; and the volvelles of Apian's Astronomicum Caesareum."
+ },
+ "entries": [
+  {
+   "id": "cosmic_machines__prague-orloj-dial",
+   "title": "The astronomical dial of the Prague Orloj",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Mikuláš of Kadaň & Jan Šindel (1410); later restorers; photograph by Godot13",
+   "date": "1410, much restored; photo 2013",
+   "place": "Old Town Hall, Prague, Bohemia",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["astronomical clock", "astrolabe dial", "zodiac ring", "geocentric cosmos", "sun and moon hands", "babylonian hours", "old czech time", "blue and gold"],
+   "rights": "CC BY-SA 4.0 (photo: Godot13). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Czech-2013-Prague-Astronomical_clock_face.jpg",
+   "summary": "The astronomical dial of the Prague Orloj, the oldest astronomical clock still in operation, mounted on the south wall of the Old Town Hall and first installed in 1410.\n\n## Iconography\nThe dial is a working **astrolabe** projected onto the clock face. A fixed background shows the Earth at the center, the blue sky, and the orange band of night; a rotating golden [[motif:zodiac-ring|zodiac ring]] carries the ecliptic. Three hands track the **Sun**, the **Moon** (a sphere that turns to show its phase), and the stars. Concentric scales give the time in several systems at once — Central European, Old Bohemian (counted from sunset), Babylonian (unequal day-hours), and sidereal star-time.\n\n## Significance\nThe Orloj is the supreme survival of the medieval conviction that the cosmos is a [[motif:celestial-mechanism|machine]] and that machine can be re-built in brass. Its design is credited to the astronomer Jan Šindel with the clockmaker Mikuláš of Kadaň; the figures of Death and the procession of the Apostles were added later. It fuses astronomy, astrology and memento-mori theatre on a single face.\n\n## For artists & game designers\nA single dial that reports four different time-systems at once is a beautiful model for an in-world clock that means different things to different cultures sharing one city.",
+   "citations": [
+    {"text": "Z. Horský, *The Prague Astronomical Clock* (1988)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Czech-2013-Prague-Astronomical_clock_face.jpg"}
+   ],
+   "key_concepts": ["Prague Orloj", "astrolabe clock", "geocentric cosmos", "unequal hours"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__prague-calendar-dial",
+   "title": "The calendar dial of the Prague Orloj",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Calendar plate after Josef Mánes (1865); photograph by George Groutas",
+   "date": "calendar plate 1865; clock 1410; photo modern",
+   "place": "Old Town Hall, Prague, Bohemia",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["calendar dial", "zodiac signs", "labours of the months", "saints' days", "rotating disc", "patron saints", "agricultural year", "civic clock"],
+   "rights": "CC BY 2.0 (photo: George Groutas). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Prazsky_orloj.jpg",
+   "summary": "The lower, calendar dial of the Prague Orloj, set beneath the astronomical face. The painted disc rotates once a year.\n\n## Iconography\nA great circular plate carries, in concentric rings, the 365 days of the year with their **saints' names**, the twelve [[motif:zodiac-signs|signs of the zodiac]], and twelve medallions of the **Labours of the Months** — agricultural and seasonal scenes (the present paintings are a 19th-century medallion cycle after the Czech painter Josef Mánes, the original now in a museum). At the very center are the arms of Prague's Old Town. Gilded figures of a chronicler, an angel, an astronomer and a philosopher flank the dial.\n\n## Significance\nWhere the upper dial maps the *sky*, the calendar dial maps the *year* as lived on Earth: the liturgical round of feast days bound to the turning of the zodiac and the rhythm of the fields. Together the two faces present the medieval cosmos as one geared whole, sacred time and star-time on a single wall.\n\n## For artists & game designers\nThe Labours-of-the-Months ring is a compact visual calendar of seasonal activity — useful shorthand for a farming or festival cycle in a game year.",
+   "citations": [
+    {"text": "Z. Horský, *The Prague Astronomical Clock* (1988)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Prazsky_orloj.jpg"}
+   ],
+   "key_concepts": ["calendar dial", "labours of the months", "zodiac of the year", "Josef Mánes"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__strasbourg-clock",
+   "title": "Detail of the Strasbourg Cathedral astronomical clock",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Jean-Baptiste Schwilgué (1842 mechanism); photograph by Tangopaso",
+   "date": "1842 (third clock); photo modern",
+   "place": "Cathedral of Notre-Dame, Strasbourg, France",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["astronomical clock", "celestial globe", "planetary dials", "automata", "ecclesiastical computus", "perpetual calendar", "death automaton", "renaissance case"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Detail_of_the_astronomical_clock_Strasbourg.jpg",
+   "summary": "Detail of the celebrated astronomical clock in the south transept of Strasbourg Cathedral — the third clock on the site, the mechanism rebuilt by Jean-Baptiste Schwilgué and completed in 1842.\n\n## Iconography\nThe towering painted Renaissance case (its decoration from the 1571–74 clock) frames a stack of indicators: a perpetual ecclesiastical **calendar** computing the movable feasts, dials for the **planets** in their geocentric order, a globe of the Moon's phases, and a small orrery. Carved and gilded **automata** perform — the Ages of Man pass before Death who strikes the hours, a cock crows, and at noon the Apostles process before Christ.\n\n## Significance\nStrasbourg's clock is the grand baroque heir to the cathedral-clock tradition: a single machine made to compute the date of Easter forever, to model the heavens, and to preach the brevity of life. Schwilgué's 1842 *comput ecclésiastique* is a famous early mechanical calculator. The clock fascinated visitors as proof that the universe could be wound up and made to run.\n\n## For artists & game designers\nA machine whose whole purpose is to compute one shifting date (Easter) forever is a wonderful quest object — a device that answers a question no human can hold in their head.",
+   "citations": [
+    {"text": "H. Bach & J.-P. Rieb, *Les Trois Horloges Astronomiques de la Cathédrale de Strasbourg* (1992)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Detail_of_the_astronomical_clock_Strasbourg.jpg"}
+   ],
+   "key_concepts": ["Strasbourg astronomical clock", "computus", "automata", "perpetual calendar"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__wells-clock",
+   "title": "The astronomical clock of Wells Cathedral",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Medieval (c. 1390, dial); photograph by Tilman2007",
+   "date": "c. 1390 (dial); photo 2023",
+   "place": "Wells Cathedral, Somerset, England",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["astronomical clock", "geocentric dial", "sun and moon", "phases of the moon", "jousting knights automaton", "ptolemaic universe", "24 hour dial", "cathedral clock"],
+   "rights": "CC BY-SA 4.0 (photo: Tilman2007). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Wells,_Cathedral_Church_of_St_Andrew,_astronomical_clock_Somerset_1382901_20230818_0143.jpg",
+   "summary": "The astronomical clock of Wells Cathedral, one of the oldest surviving clock faces in the world, the dial dating to around 1390.\n\n## Iconography\nThe great painted dial presents an explicitly **geocentric** universe. The Earth sits at the center; the Sun-hand and a separate ball showing the **phases of the Moon** travel around a 24-hour ring numbered twice (I–XII, I–XII). An inner dial counts the **minutes**, and another shows the age of the Moon in days. Above the dial, on the quarters, jousting knights spin in a tournament while a figure called **Jack Blandifers** kicks bells with his heels.\n\n## Significance\nWells embodies the late-medieval clock as a working model of the [[motif:ptolemaic-universe|Ptolemaic cosmos]] — the heavens turning about a fixed Earth, made visible and audible to a congregation. The original mechanism survives (now in the Science Museum, London) and is among the earliest geared clocks anywhere; the dial here is a faithful replacement of the medieval face.\n\n## For artists & game designers\nThe combat automaton — knights endlessly jousting on the hour — is a tidy idea: a clock whose moving parts are a frozen story replayed forever.",
+   "citations": [
+    {"text": "C.F.C. Beeson, *English Church Clocks 1280–1850* (1971)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Wells,_Cathedral_Church_of_St_Andrew,_astronomical_clock_Somerset_1382901_20230818_0143.jpg"}
+   ],
+   "key_concepts": ["Wells astronomical clock", "Ptolemaic cosmos", "phases of the moon", "jousting automaton"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__venice-orologio",
+   "title": "Zodiac and dial of the Torre dell'Orologio, Venice",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Gian Paolo & Gian Carlo Rainieri (1493–99); photograph by Zairon",
+   "date": "1493–1499; photo modern",
+   "place": "Piazza San Marco, Venice, Italy",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["zodiac dial", "blue and gold enamel", "sun and moon", "phases of the moon", "geocentric earth", "venetian clock tower", "gilded numerals", "celestial dial"],
+   "rights": "CC BY-SA 4.0 (photo: Zairon). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Venezia_Torre_dell%27Orologio_Tierkreis_7.jpg",
+   "summary": "The great enamelled clock face of the Torre dell'Orologio above the entrance to the Merceria on the Piazza San Marco, built 1493–99 by Gian Paolo and Gian Carlo Rainieri.\n\n## Iconography\nA disc of deep **blue and gold** carries an outer ring of 24 Roman hour-numerals, an inner ring of the twelve [[motif:zodiac-signs|zodiac signs]], and at the center the **Earth** with the **Sun** riding a golden pointer around it. The phase of the **Moon** is shown by a revolving half-gilt sphere. Above the dial stand a winged Lion of St Mark and, on the terrace, the two bronze **Moors** who strike the bell.\n\n## Significance\nThe Venetian clock fused civic pride, navigation and astrology: a merchant republic announcing that it kept time by the same stars its ships sailed under. The zodiacal dial let any passer-by read the Sun's place in the ecliptic — astrology as public utility. The bronze Mori striking the hours became one of Venice's signature spectacles.\n\n## For artists & game designers\nThe blue-and-gold celestial dial is an instantly readable shorthand for 'a city that measures itself against the heavens' — strong establishing-shot iconography.",
+   "citations": [
+    {"text": "G. Brusa, *L'Orologio della Torre di San Marco* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Venezia_Torre_dell%27Orologio_Tierkreis_7.jpg"}
+   ],
+   "key_concepts": ["Torre dell'Orologio", "zodiac dial", "geocentric clock", "Venice"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__besancon-clock",
+   "title": "Dials of the Besançon astronomical clock",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Auguste-Lucien Vérité (1858–60); photograph by PCouton",
+   "date": "1858–1860; photo modern",
+   "place": "Cathédrale Saint-Jean, Besançon, France",
+   "era": "modern",
+   "tradition": "astrology",
+   "motifs": ["astronomical clock", "multiple dials", "tides", "planetary positions", "perpetual calendar", "automata", "solar system", "19th century"],
+   "rights": "CC BY-SA 4.0 (photo: PCouton). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cadrans_horloge_astronomique_Besancon.jpg",
+   "summary": "An array of dials on the astronomical clock of Besançon Cathedral, built 1858–60 by Auguste-Lucien Vérité.\n\n## Iconography\nThe clock is a cabinet of some **70 dials and indicators** distributed over a tall neo-Gothic case. They report not only the hour but the **tides** at major French ports, the rising and setting of Sun and Moon, the lengths of day and night, the movements of the **planets**, eclipses, leap years and a perpetual calendar. Small **automata** representing the Resurrection and the days of the week animate at intervals.\n\n## Significance\nBesançon (Vérité also built the comparable Beauvais clock) is the 19th-century culmination of the cathedral-clock idea: an industrial-age machine that gathers astronomy, tide-tables and the liturgical calendar into one devotional instrument. It belongs to a moment when precision clockwork could finally *compute* the heavens it had long only symbolised.\n\n## For artists & game designers\nSeventy dials on one cabinet is a design lesson in information density — a single object that rewards close reading because every face tells a different truth.",
+   "citations": [
+    {"text": "A. Ungerer, *Les Horloges astronomiques et monumentales* (1931)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cadrans_horloge_astronomique_Besancon.jpg"}
+   ],
+   "key_concepts": ["Besançon astronomical clock", "Vérité", "tidal dials", "perpetual calendar"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__lyon-clock",
+   "title": "The astronomical clock of Lyon Cathedral",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Medieval, much rebuilt (14th–17th c.); photograph by Zairon",
+   "date": "14th c., rebuilt to 1660; photo modern",
+   "place": "Cathédrale Saint-Jean-Baptiste, Lyon, France",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["astronomical clock", "astrolabe dial", "ecclesiastical calendar", "rooster automaton", "annunciation automata", "gothic case", "movable feasts", "zodiac"],
+   "rights": "CC BY-SA 4.0 (photo: Zairon). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lyon_Primatiale_Saint-Jean-Baptiste_Int%C3%A9rieure_Transept_Nord_Horloge_Astronomique_7.jpg",
+   "summary": "The astronomical clock in the north transept of the Primatiale Saint-Jean-Baptiste in Lyon, one of the oldest in Europe, its origins medieval and the present case largely 17th-century.\n\n## Iconography\nWithin a tall painted Gothic case an **astrolabe dial** shows the positions of Sun, Moon and stars over Lyon and an ecclesiastical calendar good for movable feasts to the 2nd millennium's end. On the hour an **Annunciation** plays out above — God the Father, doves and angels move, a **rooster** at the summit beats its wings and crows three times.\n\n## Significance\nLyon's clock is among the earliest astronomical clocks of France, repeatedly rebuilt (notably after damage in the Wars of Religion). Like its peers it married the *computus* — the church's calculation of Easter — to an astrolabe model of the sky, turning the cathedral transept into an observatory of sacred time.\n\n## For artists & game designers\nThe crowing automaton rooster is a recurring motif across these clocks; as a sound-cue it makes a memorable, diegetic 'the hour has turned' signal.",
+   "citations": [
+    {"text": "A. Ungerer, *Les Horloges astronomiques et monumentales* (1931)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lyon_Primatiale_Saint-Jean-Baptiste_Int%C3%A9rieure_Transept_Nord_Horloge_Astronomique_7.jpg"}
+   ],
+   "key_concepts": ["Lyon astronomical clock", "astrolabe dial", "computus", "automaton rooster"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__lund-clock",
+   "title": "Model of the Lund Cathedral astronomical clock (Horologium mirabile)",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Model after the medieval clock; built under Theodor Wåhlin, c. 1913",
+   "date": "original c. 1424; model c. 1913",
+   "place": "Lund Cathedral, Scania, Sweden",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["astronomical clock", "horologium mirabile", "zodiac dial", "knights automaton", "magi procession", "calendar dial", "geocentric cosmos", "medieval clock"],
+   "rights": "CC0 (public domain dedication). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Model_of_Lund_astronomical_clock,_c._1913.jpg",
+   "summary": "A model (made c. 1913, in connection with the restoration overseen by Theodor Wåhlin) of the *Horologium mirabile Lundense*, the astronomical clock of Lund Cathedral, originally built around 1424.\n\n## Iconography\nThe clock has two faces. The upper **astronomical dial** is an astrolabe showing the hours, the [[motif:zodiac-signs|zodiac]], and the positions of Sun and Moon over a fixed Earth; mechanical **knights** clash above it. The lower **calendar dial** is a vast computus disc for finding the dates of Easter and the feasts. At noon and 3 p.m. the **Magi** process before the Virgin and Child while the organ pipes play *In dulci jubilo*.\n\n## Significance\nLund's medieval clock — rediscovered and reconstructed in the early 20th century — is the great Scandinavian survivor of the type. The byname *Horologium mirabile* ('the wonderful clock') captures the medieval reception of these machines as marvels at the edge of the miraculous.\n\n## For artists & game designers\nThe paired dials — one for the sky, one for the calendar — are a clean two-screen UI metaphor: 'where the stars are' versus 'what day it is'.",
+   "citations": [
+    {"text": "A. Ungerer, *Les Horloges astronomiques et monumentales* (1931)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Model_of_Lund_astronomical_clock,_c._1913.jpg"}
+   ],
+   "key_concepts": ["Horologium mirabile", "Lund clock", "computus dial", "Magi automata"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__munster-clock",
+   "title": "The astronomical clock of Münster Cathedral",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Dietrich Tzwyvel & Nikolaus Windemaker (1540–43); photograph by Dietmar Rabich",
+   "date": "1540–1543; photo 2019",
+   "place": "St.-Paulus-Dom, Münster, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["astronomical clock", "planetary dial", "anticlockwise dial", "zodiac", "magi automaton", "painted heavens", "geocentric system", "renaissance clock"],
+   "rights": "CC BY-SA 4.0 (photo: Dietmar Rabich). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_St.-Paulus-Dom,_Astronomische_Uhr_--_2019_--_3825.jpg",
+   "summary": "The astronomical clock in the ambulatory of St Paul's Cathedral, Münster, built 1540–43 after the destruction of an earlier clock in the 1534 Anabaptist rising.\n\n## Iconography\nThe richly painted face turns **anticlockwise**. A large central dial maps the positions of the **planets** in the zodiac on a geocentric scheme, surrounded by painted panels of the [[motif:zodiac-signs|signs]], the planetary gods and a learned border of astronomical figures. Below runs a perpetual calendar reaching to 2071. On the hour the **Three Magi** and a servant bow before the Virgin and Child while a carillon plays.\n\n## Significance\nMünster's clock is a Renaissance encyclopaedia of the sky painted in brilliant colour: a teaching machine that shows where every planet stands among the stars on any day. Its anticlockwise motion follows the apparent westward drift of the heavens — a learned choice that turns the whole face into a slow image of the turning firmament.\n\n## For artists & game designers\nAn anticlockwise clock is a small uncanny detail that signals 'this place keeps time by older, stranger rules' without a word of exposition.",
+   "citations": [
+    {"text": "E. Zinner, *Deutsche und niederländische astronomische Instrumente* (1956)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_St.-Paulus-Dom,_Astronomische_Uhr_--_2019_--_3825.jpg"}
+   ],
+   "key_concepts": ["Münster astronomical clock", "planetary dial", "anticlockwise motion", "Magi automata"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__olomouc-clock",
+   "title": "The astronomical clock of Olomouc (historical postcard)",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Anonymous (postcard); medieval clock, much altered",
+   "date": "clock 15th c., rebuilt; postcard early 20th c.",
+   "place": "Town Hall, Olomouc, Moravia",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["astronomical clock", "astrolabe dial", "civic clock tower", "zodiac", "saints and figures", "postcard", "moravian gothic", "calendar dial"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Astronomical_clock_in_Olomouc,_historical_postcard.jpg",
+   "summary": "A historical postcard of the astronomical clock set into the tower of the Town Hall of Olomouc in Moravia, showing the clock as it appeared before its 20th-century remodelling.\n\n## Iconography\nThe tall niche holds an **astrolabe-type dial** of the heavens above a **calendar dial**, framed by Gothic tracery and ranks of painted and sculpted figures — saints, allegories and craftsmen. The postcard preserves a religious, late-medieval iconography that the present clock (rebuilt in a Socialist-Realist style in 1955, with mosaic workers replacing the saints) no longer shows.\n\n## Significance\nOlomouc belongs to the Central European family of civic astronomical clocks alongside Prague, displaying the same marriage of [[motif:astrolabe-dial|astrolabe]] and calendar on a town-hall façade. The image is valuable precisely as a record of a lost state: a reminder that these 'eternal' machines are repeatedly remade in the image of the regimes that own them.\n\n## For artists & game designers\nA before/after pair (sacred clock vs. its ideological rebuild) is a ready-made environmental-storytelling device about who controls public time.",
+   "citations": [
+    {"text": "A. Ungerer, *Les Horloges astronomiques et monumentales* (1931)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Astronomical_clock_in_Olomouc,_historical_postcard.jpg"}
+   ],
+   "key_concepts": ["Olomouc astronomical clock", "civic clock", "astrolabe dial", "remodelled monument"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__antikythera",
+   "title": "The Antikythera mechanism (main fragment)",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Anonymous (Hellenistic Greek); photograph by Joyofmuseums",
+   "date": "c. 150–100 BCE; photo modern",
+   "place": "National Archaeological Museum, Athens (found off Antikythera)",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["geared mechanism", "bronze gears", "shipwreck find", "lunisolar calendar", "eclipse prediction", "metonic cycle", "ancient computer", "corroded bronze"],
+   "rights": "CC BY-SA 4.0 (photo: Joyofmuseums). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Antikythera_Mechanism_-_National_Archaeological_Museum,_Athens_by_Joy_of_Museum.jpg",
+   "summary": "The largest surviving fragment ('Fragment A') of the Antikythera mechanism, a Hellenistic geared device recovered in 1901 from a shipwreck off the island of Antikythera and now in the National Archaeological Museum, Athens.\n\n## Iconography\nWhat survives is a mass of corroded **bronze gear-wheels** fused into a lump, with the teeth of one large wheel clearly visible. X-ray and CT imaging have revealed at least thirty interlocking gears and inscriptions. Reconstructions show it as a hand-cranked box whose dials displayed the **lunisolar calendar**, the phase and position of the Moon, the dates of **eclipses** (via the Saros and Exeligmos cycles), the Metonic cycle, and probably the motions of the planets and the timing of the Panhellenic games.\n\n## Significance\nThe Antikythera mechanism is the oldest known analogue computer and the direct ancestor of the medieval astronomical clock: proof that the Greeks could embody astronomical *theory* in gearwork. Its sophistication was so unexpected that it reshaped the history of ancient technology (work by Derek de Solla Price, and the modern Antikythera Mechanism Research Project).\n\n## For artists & game designers\nA corroded green lump that turns out to be a precision computer is the perfect 'ancient impossible artefact' — its mundane ruin is exactly what makes the reveal land.",
+   "citations": [
+    {"text": "D. de Solla Price, *Gears from the Greeks* (1974)."},
+    {"text": "T. Freeth et al., 'Decoding the Antikythera Mechanism', *Nature* (2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Antikythera_Mechanism_-_National_Archaeological_Museum,_Athens_by_Joy_of_Museum.jpg"}
+   ],
+   "key_concepts": ["Antikythera mechanism", "analogue computer", "eclipse prediction", "Hellenistic astronomy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__torquetum",
+   "title": "The torquetum of Regiomontanus (engraving)",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "After Johannes Regiomontanus / Petrus Apianus tradition; engraving reproduced via DPLA",
+   "date": "instrument 15th–16th c.; engraving early modern",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["torquetum", "astronomical instrument", "coordinate conversion", "ecliptic plane", "equatorial plane", "graduated discs", "plumb line", "observational instrument"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Torquetum_of_Regiomontanus_-_DPLA_-_cbbde1375daf9068c7e13d562831f10b.jpg",
+   "summary": "An engraving of the **torquetum**, a medieval and Renaissance observing instrument here associated with the astronomer Regiomontanus.\n\n## Iconography\nThe torquetum is built as a stack of **inclined graduated discs**, each plane representing one of the great coordinate systems of the sky — the **horizon**, the **celestial equator**, and the **ecliptic** — hinged so that an observer can pass a measured position from one system to another by mechanical reading rather than calculation. A plumb-line and sighting alidades complete it. The engraving labels the parts in the manner of a Renaissance instrument-book.\n\n## Significance\nThe torquetum is a three-dimensional model of the heavens' geometry: it physically embodies the transformations between ecliptic, equatorial and horizon coordinates that astronomers otherwise did by spherical trigonometry. Described by Bernard of Verdun and Peter Apian's *Astronomicum Caesareum*, it stands between the [[motif:astrolabe-dial|astrolabe]] and the great clocks as a tool that *computes the sky's geometry* by turning brass.\n\n## For artists & game designers\nAn instrument whose nested tilted rings literally are the planes of the sky is gorgeous, legible machinery — ideal for an astronomer-character's desk or a puzzle of 'align the rings'.",
+   "citations": [
+    {"text": "E. Zinner, *Regiomontanus: His Life and Work* (trans. 1990)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Torquetum_of_Regiomontanus_-_DPLA_-_cbbde1375daf9068c7e13d562831f10b.jpg"}
+   ],
+   "key_concepts": ["torquetum", "coordinate transformation", "Regiomontanus", "observational instrument"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__nocturnal",
+   "title": "Nocturnal by Erasmus Habermel, Prague c. 1600",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Erasmus Habermel; photograph by Daderot",
+   "date": "c. 1600; photo modern",
+   "place": "Prague; now Mathematisch-Physikalischer Salon, Dresden",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["nocturnal", "telling time by stars", "pole star", "big dipper", "rotating volvelle", "brass instrument", "sighting hole", "night clock"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Nocturnal,_Erasmus_Habermel,_Prague,_c._1600,_tell_time_at_night_by_sighting_Pole_Star_through_central_hole,_then_align_pointer_with_Big_Dipper_-_Mathematisch-Physikalischer_Salon,_Dresden_-_DSC08017.JPG",
+   "summary": "A brass **nocturnal** made by the master instrument-maker Erasmus Habermel in Prague around 1600, now in the Mathematisch-Physikalischer Salon, Dresden.\n\n## Iconography\nThe nocturnal is a hand-held disc with a central **sighting hole** and a long rotating arm. To use it one sights **Polaris** through the hole, sets an outer ring to the date, then swings the arm onto the **pointer stars of the Big Dipper** (or Little Dipper); the arm's position against the hour-scale gives the time. Habermel's piece is finely engraved and pierced in the Mannerist court style of Rudolf II's Prague.\n\n## Significance\nThe nocturnal turns the slow rotation of the [[motif:celestial-mechanism|circumpolar sky]] into a clock you carry: the heavens themselves are the moving part, the instrument merely reads them. Made for Rudolf II's celebrated court of astronomers and alchemists, it links the world of practical star-time to the same milieu that produced the Prague Orloj and the imperial astrological enterprise.\n\n## For artists & game designers\nA pocket device that requires you to find a real star before it works ties an in-game tool to the actual night sky — a satisfying loop of look-up-then-read.",
+   "citations": [
+    {"text": "R.J.W. Evans, *Rudolf II and His World* (1973)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Nocturnal,_Erasmus_Habermel,_Prague,_c._1600,_tell_time_at_night_by_sighting_Pole_Star_through_central_hole,_then_align_pointer_with_Big_Dipper_-_Mathematisch-Physikalischer_Salon,_Dresden_-_DSC08017.JPG"}
+   ],
+   "key_concepts": ["nocturnal", "star-time", "Erasmus Habermel", "circumpolar rotation"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__padua-salone",
+   "title": "The Salone of the Palazzo della Ragione, Padua",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Astrological fresco cycle after Pietro d'Abano (14th c.; repainted by Niccolò Miretto, 15th c.); photograph by Armin Kleiner",
+   "date": "frescoes 14th–15th c.; photo modern",
+   "place": "Palazzo della Ragione, Padua, Italy",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["astrological ceiling", "fresco cycle", "zodiac and decans", "planetary gods", "labours of the months", "great hall", "wooden vault", "cosmological program"],
+   "rights": "CC BY-SA 4.0 (photo: Armin Kleiner). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Padua,_Palazzo_della_Ragione,_exhib%2Bhorse_2.jpg",
+   "summary": "The interior of the *Salone*, the immense first-floor hall of the Palazzo della Ragione in Padua, whose walls carry one of the largest astrological fresco cycles of the Middle Ages.\n\n## Iconography\nUnder a vast keel-shaped wooden vault the walls are divided into hundreds of panels arranged as a great **astrological calendar**: the twelve [[motif:zodiac-signs|signs]] of the zodiac, their associated **decans** and planetary rulers, the **labours of the months**, apostles and saints, all keyed to a now-lost program devised by the physician-astrologer **Pietro d'Abano**. The cycle was repainted by Niccolò Miretto and assistants after a fire of 1420.\n\n## Significance\nThe Salone is a building turned into a cosmic machine: a civic court of justice roofed over with the whole working astrology of the year, so that human law sat literally beneath the rule of the stars. With the Hall of the Months at Schifanoia (Ferrara), it is the supreme monumental survival of medieval astrological iconography, much studied since Aby Warburg.\n\n## For artists & game designers\nA single room whose walls *are* the calendar — every panel a date and its ruling power — is a model for a 'hub' space that doubles as the game's almanac.",
+   "citations": [
+    {"text": "A. Warburg, 'Italian Art and International Astrology' (1912)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Padua,_Palazzo_della_Ragione,_exhib%2Bhorse_2.jpg"}
+   ],
+   "key_concepts": ["Palazzo della Ragione", "astrological fresco cycle", "Pietro d'Abano", "decans"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__astronomicum-caesareum",
+   "title": "Volvelle from Apian's Astronomicum Caesareum (1540)",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Petrus Apianus (Peter Apian)",
+   "date": "1540",
+   "place": "Ingolstadt, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["volvelle", "paper instrument", "planetary positions", "equatorium", "hand-coloured", "rotating discs", "geocentric model", "luxury printing"],
+   "rights": "Public domain. Via Wikimedia Commons (Houghton Library).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Houghton_Typ_520.40.150_-_Astronomicum_Caesareum,_1540_-_f2r.jpg",
+   "summary": "A leaf (f. 2r) of Petrus Apianus's *Astronomicum Caesareum*, printed at Ingolstadt in 1540 — one of the most lavish scientific books ever produced, here in the Houghton Library copy.\n\n## Iconography\nThe page is dominated by a **volvelle**: layered, hand-coloured paper discs pinned at the center and fitted with silk threads and tiny seed-pearl markers, which the reader rotates to read off astronomical quantities. Apian's volvelles function as **paper equatoria** and computers — set the discs for a date and they give the geocentric longitude of a planet, the phase of the Moon, the time of an eclipse, or the position of the lunar dragon's head and tail.\n\n## Significance\nThe *Astronomicum Caesareum*, dedicated to the Emperor Charles V (hence 'Caesarean'), is the high-water mark of the printed astronomical instrument: it puts a working planetary calculator into the hands of a reader who owns no brass. It belongs to the same impulse as the great clocks — to make the [[motif:planetary-motion|motions of the planets]] mechanically obtainable — but achieves it in paper and thread.\n\n## For artists & game designers\nA book whose pages are working machines (spin the disc, read the fate) is a tactile model for an in-game grimoire that is also a tool, not just lore text.",
+   "citations": [
+    {"text": "O. Gingerich, 'Apianus's Astronomicum Caesareum', *Journal for the History of Astronomy* (1971)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Houghton_Typ_520.40.150_-_Astronomicum_Caesareum,_1540_-_f2r.jpg"}
+   ],
+   "key_concepts": ["Astronomicum Caesareum", "volvelle", "paper equatorium", "Petrus Apianus"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__eisinga-planetarium",
+   "title": "The mechanism of the Eise Eisinga Planetarium, Franeker",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Eise Eisinga (1774–1781); photograph by Vera de Kok",
+   "date": "1774–1781; photo modern",
+   "place": "Franeker, Friesland, Netherlands",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["orrery", "ceiling planetarium", "wooden gears", "heliocentric model", "driving weights", "pendulum clock", "hoops and discs", "domestic machine"],
+   "rights": "CC BY-SA 3.0 (photo: Vera de Kok). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Franeker_planetarium_mechanisme2.jpg",
+   "summary": "The driving mechanism, mounted in the attic above the living-room ceiling, of the Eise Eisinga Planetarium in Franeker — the oldest working planetarium in the world, built by the wool-comber Eise Eisinga between 1774 and 1781.\n\n## Iconography\nThe photograph shows the **wooden gear-train** of hand-cut oak wheels, driving-weights and a pendulum clock that powers the display. On the ceiling of the room below, gilded discs representing the **planets** ride in grooved tracks across a painted sky, moving in real time to scale; pointers give the date, the phase of the Moon, the signs of the zodiac and the hour.\n\n## Significance\nEisinga built his **heliocentric** orrery partly to calm neighbours panicked by a 1774 pamphlet predicting that a planetary conjunction would destroy the Earth — a machine made to answer astrological dread with Newtonian order. It is the supreme survival of the domestic planetarium and a monument to Enlightenment self-education: a labourer's living room rebuilt as a model of the solar system.\n\n## For artists & game designers\nA secret machine-room above a humble parlour, full of slowly turning wooden gears that move the painted heavens below, is an irresistible set-piece for a hidden-mechanism reveal.",
+   "citations": [
+    {"text": "A. van der Werf, *Eise Eisinga's Planetarium* (1981)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Franeker_planetarium_mechanisme2.jpg"}
+   ],
+   "key_concepts": ["Eise Eisinga Planetarium", "orrery", "heliocentric model", "1774 conjunction panic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__zodiac-dial",
+   "title": "The Hampton Court astronomical (zodiac) clock",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Nicholas Oursian (1540, for Henry VIII); photograph by Mike Cattell",
+   "date": "1540; photo modern",
+   "place": "Hampton Court Palace, England",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["zodiac dial", "astronomical clock", "phases of the moon", "pre-copernican cosmos", "high tide at london bridge", "tudor clock", "sun in zodiac", "blue and gold"],
+   "rights": "CC BY 2.0 (photo: Mike Cattell). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hampton_Court_Astrological_Clock.jpg",
+   "summary": "The astronomical clock in the Anne Boleyn Gateway of Hampton Court Palace, made in 1540 by Nicholas Oursian for Henry VIII.\n\n## Iconography\nThe great **blue-and-gold dial** shows, on a fixed Earth at the center, the **Sun** travelling through the twelve [[motif:zodiac-signs|zodiac signs]] and the 365 days of the year, the **phase and age of the Moon**, and — uniquely useful to a riverside court — the time of **high water at London Bridge**, which governed when one could travel to the city by barge. Its scheme is frankly **pre-Copernican**, the Sun circling the Earth.\n\n## Significance\nThe Hampton Court clock is a rare survival of a Tudor astronomical dial in situ, a court instrument that read at a glance both the heavens and the tides. As a practical-astrology object it shows the genre at its most worldly: the cosmos consulted not for prophecy but for catching the next boat.\n\n## For artists & game designers\nA celestial clock whose killer feature is a tide-table is a lovely reminder that 'cosmic' instruments earned their keep with mundane utility — good texture for a grounded fantasy court.",
+   "citations": [
+    {"text": "C.F.C. Beeson, *English Church Clocks 1280–1850* (1971)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hampton_Court_Astrological_Clock.jpg"}
+   ],
+   "key_concepts": ["Hampton Court clock", "zodiac dial", "pre-Copernican cosmos", "tidal indicator"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmic_machines__astronomical-compendium",
+   "title": "Brass astronomical compendium / pocket instrument",
+   "work": "Cosmic Machines: Astronomical Clocks & Planetary Mechanisms",
+   "creator": "Anonymous instrument-maker; photograph by Rosie Summers",
+   "date": "16th–17th c. type; photo modern",
+   "place": "Europe",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["astronomical compendium", "brass instrument", "compass rose", "engraved dial", "portable instrument", "sundial", "wind rose", "pocket astronomy"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:BLW_Brass_compass.jpg",
+   "summary": "A small engraved brass instrument of the kind carried as a portable **astronomical compendium** — a pocket case combining several instruments on hinged leaves.\n\n## Iconography\nThe piece is built around a finely **engraved brass dial** with a graduated rim and a magnetic compass for orientation. Compendia of this type typically fold open to reveal, on successive leaves, a portable **sundial** (often with a string gnomon), a list of city latitudes, a lunar volvelle for converting Sun-time to Moon-time at night, a wind-rose, and a table of the zodiac — the whole sky-reckoning kit of a Renaissance traveller in one brass box.\n\n## Significance\nThe astronomical compendium is the personal, portable cousin of the great fixed clocks: where the cathedral clock modelled the heavens for a whole city, the compendium let one well-off owner reckon time, latitude and the [[motif:zodiac-signs|zodiac]] anywhere. Such objects (Augsburg and Nuremberg were the great centres) blur instrument, status-symbol and curio.\n\n## For artists & game designers\nA brass box that unfolds into five different instruments is a compact 'multi-tool' object — each leaf a different mini-mechanic the player can flip to.",
+   "citations": [
+    {"text": "G. L'E. Turner, *Elizabethan Instrument Makers* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:BLW_Brass_compass.jpg"}
+   ],
+   "key_concepts": ["astronomical compendium", "portable sundial", "instrument-making", "pocket astronomy"],
+   "summary_status": "authored"
+  }
+ ]
+}

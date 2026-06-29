@@ -1,0 +1,399 @@
+{
+ "_work": {
+  "key": "seals_sigils",
+  "short_id": "SIGL",
+  "title": "Planetary Seals & Magical Sigils",
+  "creator": "after H. C. Agrippa / Francis Barrett",
+  "date": "16th–19th c.",
+  "century": 16,
+  "place": "Europe",
+  "region": "Europe",
+  "language": "Latin / symbol",
+  "era": "renaissance",
+  "tradition": "goetia_grimoire",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "seals_sigils",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Magic_squares_of_planets",
+  "rights": "Public domain (vector renderings; one CC BY-SA). Via Wikimedia Commons.",
+  "motifs": [
+   "sigil",
+   "seal",
+   "planetary magic",
+   "pentagram",
+   "kamea",
+   "goetia"
+  ],
+  "blurb": "The drawn signs of magic — the planetary seals derived from the kameas of Agrippa and Barrett, the Pentagrammaton, and the goetic sigils — the abstract characters through which spirits were named and bound."
+ },
+ "entries": [
+  {
+   "id": "seals_sigils__seal-saturn",
+   "title": "The Seal of Saturn (planetary sigil)",
+   "work": "Planetary Seals & Magical Sigils",
+   "creator": "after H. C. Agrippa / Francis Barrett",
+   "date": "design 1533; plate 1801",
+   "place": "Europe",
+   "era": "renaissance",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "seal",
+    "saturn",
+    "kamea",
+    "magic square",
+    "planetary magic",
+    "sigil",
+    "lead"
+   ],
+   "rights": "Public domain. Vector rendering via Wikimedia Commons (after Barrett, The Magus).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Barrett_Magus_-_Saturn_Seal.svg",
+   "summary": "The seal (*sigillum*) of Saturn, the geometric signature of the planet used to engrave talismans.\n\n## Iconography\nA looping line-figure traced across the 3×3 magic square (*kamea*) of Saturn, whose rows, columns and diagonals each sum to 15. The seal is the path drawn through the numbers of the spirit and intelligence; with it stand the characters of the planet and of its Intelligence (Agiel) and Spirit (Zazel).\n\n## Significance\nIn Agrippa's *De occulta philosophia* (1533), each planet has a number-square and a set of seals derived from it; a Saturn talisman engraved on lead at the right hour was held to draw down Saturnine virtue (gravity, time, melancholy, binding). Francis Barrett's *The Magus* (1801) reproduced the system for the English occult revival.\n\n## For artists & game designers\nThe archetypal 'magic sigil' — a clean line-glyph born from a number grid; ideal for an engraved-talisman or planetary-magic system.",
+   "citations": [
+    {
+     "text": "H. C. Agrippa, *De occulta philosophia libri tres* (1533), bk. II."
+    },
+    {
+     "text": "Francis Barrett, *The Magus* (London, 1801)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Barrett_Magus_-_Saturn_Seal.svg"
+    }
+   ],
+   "key_concepts": [
+    "planetary seal",
+    "magic square (kamea)",
+    "Intelligence and Spirit",
+    "talismanic engraving"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "seals_sigils__seal-jupiter",
+   "title": "The Seal of Jupiter (planetary sigil)",
+   "work": "Planetary Seals & Magical Sigils",
+   "creator": "after H. C. Agrippa / Francis Barrett",
+   "date": "design 1533; plate 1801",
+   "place": "Europe",
+   "era": "renaissance",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "seal",
+    "jupiter",
+    "kamea",
+    "magic square",
+    "planetary magic",
+    "sigil",
+    "tin"
+   ],
+   "rights": "Public domain. Vector rendering via Wikimedia Commons (after Barrett, The Magus).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Barrett_Magus_-_Jupiter_Seal.svg",
+   "summary": "The seal of Jupiter, traced from the 4×4 magic square of the planet (constant 34).\n\n## Iconography\nThe sigil winds through the *kamea* of Jupiter — a 4×4 grid whose every line sums to 34 — accompanied by the characters of Jupiter and of its Intelligence (Iophiel) and Spirit (Hismael).\n\n## Significance\nJupiter's talisman, engraved on tin or silver, was the planet of expansion, fortune, sovereignty and benevolence — the great benefic. The same square is the one Dürer set into *Melencolia I*. Agrippa codified the seal; Barrett's *The Magus* carried it into the 19th-century revival that fed the Golden Dawn.\n\n## For artists & game designers\nA 'luck/prosperity' sigil with an exact mathematical pedigree — the geometry is reproducible from the number square.",
+   "citations": [
+    {
+     "text": "H. C. Agrippa, *De occulta philosophia* (1533), bk. II."
+    },
+    {
+     "text": "Francis Barrett, *The Magus* (1801)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Barrett_Magus_-_Jupiter_Seal.svg"
+    }
+   ],
+   "key_concepts": [
+    "planetary seal",
+    "kamea of Jupiter",
+    "Intelligence Iophiel",
+    "beneficent talisman"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "seals_sigils__seal-mars",
+   "title": "The Seal of Mars (planetary sigil)",
+   "work": "Planetary Seals & Magical Sigils",
+   "creator": "after H. C. Agrippa / Francis Barrett",
+   "date": "design 1533; plate 1801",
+   "place": "Europe",
+   "era": "renaissance",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "seal",
+    "mars",
+    "kamea",
+    "magic square",
+    "planetary magic",
+    "sigil",
+    "iron"
+   ],
+   "rights": "Public domain. Vector rendering via Wikimedia Commons (after Barrett, The Magus).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Barrett_Magus_-_Mars_Seal.svg",
+   "summary": "The seal of Mars, derived from the 5×5 magic square of the planet (constant 65).\n\n## Iconography\nA sharp line-figure threaded through the *kamea* of Mars, with the characters of Mars and of its Intelligence (Graphiel) and Spirit (Barzabel).\n\n## Significance\nThe Mars talisman, engraved on iron at the planet's hour, governed war, courage, force and severance — its magic invoked for victory and protection but feared for its violence. Agrippa's seal, repeated by Barrett, became standard in ceremonial magic.\n\n## For artists & game designers\nThe 'war/aggression' sigil of the planetary set — angular and martial by design.",
+   "citations": [
+    {
+     "text": "H. C. Agrippa, *De occulta philosophia* (1533), bk. II."
+    },
+    {
+     "text": "Francis Barrett, *The Magus* (1801)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Barrett_Magus_-_Mars_Seal.svg"
+    }
+   ],
+   "key_concepts": [
+    "planetary seal",
+    "kamea of Mars",
+    "Intelligence Graphiel",
+    "martial talisman"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "seals_sigils__seal-sol",
+   "title": "The Seal of the Sun (planetary sigil)",
+   "work": "Planetary Seals & Magical Sigils",
+   "creator": "after H. C. Agrippa / Francis Barrett",
+   "date": "design 1533; plate 1801",
+   "place": "Europe",
+   "era": "renaissance",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "seal",
+    "sol",
+    "sun",
+    "kamea",
+    "magic square",
+    "planetary magic",
+    "gold"
+   ],
+   "rights": "Public domain. Vector rendering via Wikimedia Commons (after Barrett, The Magus).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Barrett_Magus_-_Sun_Seal.svg",
+   "summary": "The seal of the Sun, traced from the 6×6 solar magic square (constant 111; grand sum 666).\n\n## Iconography\nThe sigil winds through the *kamea* of the Sun, attended by the characters of Sol and of its Intelligence (Nakhiel) and Spirit (Sorath, 666).\n\n## Significance\nThe solar talisman, engraved on gold, was the seal of light, kingship, health and the heart of the cosmos — the most exalted of the seven. Its spirit-number 666 later drew apocalyptic associations. Agrippa fixed the design; Barrett transmitted it.\n\n## For artists & game designers\nThe 'sovereign/solar' sigil — the centre of any seven-planet magic system.",
+   "citations": [
+    {
+     "text": "H. C. Agrippa, *De occulta philosophia* (1533), bk. II."
+    },
+    {
+     "text": "Francis Barrett, *The Magus* (1801)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Barrett_Magus_-_Sun_Seal.svg"
+    }
+   ],
+   "key_concepts": [
+    "solar seal",
+    "kamea of the Sun",
+    "Intelligence Nakhiel",
+    "Sorath 666"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "seals_sigils__seal-mercury",
+   "title": "The Seal of Mercury (planetary sigil)",
+   "work": "Planetary Seals & Magical Sigils",
+   "creator": "after H. C. Agrippa / Francis Barrett",
+   "date": "design 1533; plate 1801",
+   "place": "Europe",
+   "era": "renaissance",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "seal",
+    "mercury",
+    "kamea",
+    "magic square",
+    "planetary magic",
+    "sigil",
+    "quicksilver"
+   ],
+   "rights": "Public domain. Vector rendering via Wikimedia Commons (after Barrett, The Magus).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Barrett_Magus_-_Mercury_Seal.svg",
+   "summary": "The seal of Mercury, derived from the 8×8 magic square of the planet (constant 260).\n\n## Iconography\nA complex line-figure across the dense *kamea* of Mercury, with the characters of Mercury and of its Intelligence (Tiriel) and Spirit (Taphthartharath).\n\n## Significance\nThe Mercury talisman, engraved on quicksilver-fixed metal, governed intellect, eloquence, commerce, writing and magic itself — Mercury being the planet of Hermes/Thoth. Agrippa's seal, via Barrett, became the magician's own planetary sign.\n\n## For artists & game designers\nThe 'knowledge/communication' sigil — the busiest and most labyrinthine of the planetary seals.",
+   "citations": [
+    {
+     "text": "H. C. Agrippa, *De occulta philosophia* (1533), bk. II."
+    },
+    {
+     "text": "Francis Barrett, *The Magus* (1801)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Barrett_Magus_-_Mercury_Seal.svg"
+    }
+   ],
+   "key_concepts": [
+    "planetary seal",
+    "kamea of Mercury",
+    "Intelligence Tiriel",
+    "Hermetic correspondence"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "seals_sigils__pentagrammaton",
+   "title": "The Pentagrammaton (YHShVH) in the flaming pentagram",
+   "work": "Planetary Seals & Magical Sigils",
+   "creator": "Christian-Cabalist tradition (modern rendering)",
+   "date": "concept 16th c.; vector modern",
+   "place": "Europe",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": [
+    "pentagrammaton",
+    "pentagram",
+    "tetragrammaton",
+    "shin",
+    "yhshvh",
+    "christian cabala",
+    "name of jesus"
+   ],
+   "rights": "CC BY-SA 4.0. Vector rendering via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Yahshuah.svg",
+   "summary": "The **Pentagrammaton** — the divine Name of five letters, YHShVH (Yeheshuah), formed by inserting the letter Shin (ש, fire/spirit) into the four-letter Tetragrammaton YHVH.\n\n## Iconography\nThe five Hebrew letters Yod-He-Shin-Vav-He set one to each point of a pentagram. The added Shin at the centre transforms the unpronounceable Name of God into the pronounceable Name read by Christian Cabalists as *Jesus*.\n\n## Significance\nA cornerstone of **Christian Cabala**: Pico della Mirandola and Johann Reuchlin (*De verbo mirifico*, 1494) argued that the Tetragrammaton, made sayable by Shin, *is* the name of the Messiah — a Kabbalistic proof of Christianity. The flaming pentagram became the master-glyph of the later magical revival.\n\n## For artists & game designers\nThe definitive 'name-of-power within the pentagram' device — sacred-word geometry.",
+   "citations": [
+    {
+     "text": "Johann Reuchlin, *De verbo mirifico* (1494)."
+    },
+    {
+     "text": "Giovanni Pico della Mirandola, *Conclusiones* (1486), the Cabalist theses."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Yahshuah.svg"
+    }
+   ],
+   "key_concepts": [
+    "Pentagrammaton",
+    "Tetragrammaton + Shin",
+    "Christian Cabala",
+    "Reuchlin",
+    "name of power"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "seals_sigils__goetia-seal-solomon",
+   "title": "The Hexagram Seal of Solomon (Goetia lamen)",
+   "work": "Planetary Seals & Magical Sigils",
+   "creator": "Lemegeton / Solomonic tradition (modern rendering)",
+   "date": "17th c. text; vector modern",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "seal of solomon",
+    "hexagram",
+    "lamen",
+    "goetia",
+    "lemegeton",
+    "divine names",
+    "sigil"
+   ],
+   "rights": "Public domain. Vector rendering via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Goetia_seal_of_solomon.svg",
+   "summary": "The hexagram **Seal of Solomon** as drawn in the *Lemegeton* (the *Ars Goetia*) — the lamen worn by the conjurer to command the seventy-two spirits.\n\n## Iconography\nA six-pointed star inside a double circle inscribed with divine names and Hebrew letters; a Tau or cross at the centre. Worn on the breast or set on the magician's ring, it protected the operator and compelled the bound spirit to obey.\n\n## Significance\nIn the Solomonic legend, God gave Solomon a seal-ring by which he mastered the demons and made them build the Temple. The hexagram-with-names became the central authority-sign of grimoire magic, distinct from the planetary pentacles of the *Key of Solomon*.\n\n## For artists & game designers\nThe canonical 'binding lamen' — the badge of authority a summoner wears to control what they call.",
+   "citations": [
+    {
+     "text": "*Lemegeton Clavicula Salomonis* (the Ars Goetia), 17th c."
+    },
+    {
+     "text": "S. L. MacGregor Mathers & A. Crowley (ed.), *The Goetia* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Goetia_seal_of_solomon.svg"
+    }
+   ],
+   "key_concepts": [
+    "Seal of Solomon",
+    "hexagram lamen",
+    "Ars Goetia",
+    "binding of spirits"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "seals_sigils__grimorium-verum-lucifer",
+   "title": "The Sigil of Lucifer (Grimorium Verum)",
+   "work": "Planetary Seals & Magical Sigils",
+   "creator": "Grimorium Verum tradition (modern rendering)",
+   "date": "18th c. text; vector modern",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "sigil of lucifer",
+    "grimorium verum",
+    "seal",
+    "spirit sigil",
+    "conjuration",
+    "goetia"
+   ],
+   "rights": "Public domain. Vector rendering via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Grimorium_Verum_Full_Sigil_of_Lucifer.svg",
+   "summary": "The **Sigil of Lucifer**, the spirit-seal given in the *Grimorium Verum* ('True Grimoire', purportedly 1517, in fact 18th-c. Italian/French).\n\n## Iconography\nAn intricate line-glyph of crossed strokes, looping curves and a small inverted-cross/chalice motif — the abstract 'signature' by which the spirit Lucifer is named and summoned. Such sigils were copied onto parchment and shown to compel the spirit's appearance.\n\n## Significance\nThe *Grimorium Verum* descends from the *Key of Solomon* but turns to the infernal hierarchy (Lucifer, Beelzebuth, Astaroth and their subordinates). Its sigils exemplify the grimoire principle that a spirit's name *as a drawn character* gives the magician a handle on the spirit itself. The glyph has had an outsized modern afterlife in popular occulture.\n\n## For artists & game designers\nOne of the most recognizable 'demon sigils' — instantly legible as forbidden-magic iconography.",
+   "citations": [
+    {
+     "text": "*Grimorium Verum* (attrib. 1517; actually 18th c.)."
+    },
+    {
+     "text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Grimorium_Verum_Full_Sigil_of_Lucifer.svg"
+    }
+   ],
+   "key_concepts": [
+    "spirit sigil",
+    "Grimorium Verum",
+    "infernal hierarchy",
+    "name as character"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "seals_sigils__seal-baphomet",
+   "title": "The Sigil of Baphomet (goat pentagram)",
+   "work": "Planetary Seals & Magical Sigils",
+   "creator": "after Stanislas de Guaita / Éliphas Lévi",
+   "date": "design 1897; vector modern",
+   "place": "France",
+   "era": "modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "baphomet",
+    "goat",
+    "inverted pentagram",
+    "sigil",
+    "leviathan",
+    "occult revival"
+   ],
+   "rights": "Public domain. Vector rendering via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Seal_of_Baphomet_bold.svg",
+   "summary": "The **Sigil of Baphomet** — the goat's head set within an inverted pentagram, ringed by the Hebrew letters of *Leviathan*.\n\n## Iconography\nA downward-pointing pentagram (two points up) frames a goat's face; the five points touch the five Hebrew letters Lamed-Vav-Yod-Tav-Nun (LVYThN, *Leviathan*) read counter-clockwise. The downward star inverts the upright human-microcosm pentagram into a sign of matter and the bestial.\n\n## Significance\nThe goat-in-pentagram derives from Stanislas de Guaita's *La Clef de la Magie Noire* (1897), itself building on Éliphas Lévi's Baphomet; the *Leviathan* lettering and the design were later adopted as the official Sigil of Baphomet of the Church of Satan (1966). It is the most widely recognized emblem of the modern Left-Hand Path.\n\n## For artists & game designers\nThe single most legible 'dark occult' sigil in popular culture — use deliberately.",
+   "citations": [
+    {
+     "text": "Stanislas de Guaita, *La Clef de la Magie Noire* (1897)."
+    },
+    {
+     "text": "Éliphas Lévi, *Dogme et Rituel de la Haute Magie* (1856)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Seal_of_Baphomet_bold.svg"
+    }
+   ],
+   "key_concepts": [
+    "Sigil of Baphomet",
+    "inverted pentagram",
+    "Leviathan",
+    "Left-Hand Path"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

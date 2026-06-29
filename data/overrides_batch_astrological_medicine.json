@@ -1,0 +1,465 @@
+{
+ "_work": {
+   "key": "astrological_medicine",
+   "short_id": "ASTM",
+   "title": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "various",
+   "date": "14th–17th c.",
+   "century": 15,
+   "place": "Western Europe (German lands, Italy, England)",
+   "region": "Europe",
+   "language": "Latin, German, English",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "astrological_medicine",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Bloodletting_man",
+   "rights": "Public domain / CC BY 4.0 (per item). Via Wikimedia Commons (Wellcome Collection, NLM, BSB).",
+   "motifs": ["zodiac man", "bloodletting man", "wound man", "uroscopy", "melothesia", "phlebotomy", "astrological medicine", "fasciculus medicinae"],
+   "blurb": "The schematic human figure of late-medieval and Renaissance medicine, mapped onto the heavens: the Zodiac Man (Homo signorum) whose every limb is ruled by a sign, the Aderlassmann / Bloodletting Man marked with the proper veins and the favourable signs for phlebotomy, the Vein Man, the weapon-pierced Wound Man (Wundenmann) of the surgical handbooks, and the uroscopy charts by which the physician read disease and prognosis from the urine-flask. Drawn largely from the woodcuts of Ketham's Fasciculus medicinae, Gersdorff's Feldtbuch der Wundartzney, and the German calendar-almanacs, with manuscript witnesses from the Wellcome Collection and the National Library of Medicine."
+ },
+ "entries": [
+  {
+   "id": "astrological_medicine__zodiac-man-diagram",
+   "title": "The Zodiac Man (Homo signorum)",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "15th century",
+   "place": "England",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["zodiac man", "homo signorum", "melothesia", "zodiac signs", "human body", "astrological medicine", "anatomy", "prognosis"],
+   "rights": "CC0. Via Wikimedia Commons (Wellcome Collection).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:P._26_%27The_Zodiac_Man%27_a_diagram_of_a_human_body_and_astrological_symbols_with_instructions_explaining_the_importance_of_astrology_from_a_medical_perspective.jpg",
+   "summary": "A diagrammatic Zodiac Man from a medical-astrological manuscript, the human body annotated with the twelve signs and instructions on the importance of astrology to the physician.\n\n## Iconography\nA standing figure is overlaid or surrounded by the twelve zodiac signs in the canonical head-to-foot order of [[motif:melothesia|melothesia]]: **Aries** ruling the head, **Taurus** the neck, **Gemini** the shoulders and arms, **Cancer** the chest, **Leo** the heart, **Virgo** the belly, **Libra** the kidneys and loins, **Scorpio** the genitals, **Sagittarius** the thighs, **Capricorn** the knees, **Aquarius** the shins, and **Pisces** the feet. Surrounding text explains the medical use of the scheme.\n\n## Significance\nThe *Homo signorum* expressed the doctrine that each part of the microcosmic body answered to a sign of the macrocosm. A physician consulting the figure judged whether the Moon stood in a sign governing the affected limb before bleeding, purging, or operating — one should not, the rule ran, 'touch with iron' a member whose sign the Moon then occupied. The scheme descends from Manilius and the *Tetrabiblos* tradition and saturated the calendars and almanacs of the later Middle Ages.\n\n## For artists & game designers\nThe head-to-foot zodiacal body is a ready-made 'status overlay' — a paper-doll whose twelve regions light up with their ruling sign, perfect for an astrology-driven medicine or affliction system.",
+   "citations": [
+    {"text": "Charles Clark, 'The Zodiac Man in Medieval Medical Astrology', *Journal of the Rocky Mountain Medieval and Renaissance Association* (1982)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:P._26_%27The_Zodiac_Man%27_a_diagram_of_a_human_body_and_astrological_symbols_with_instructions_explaining_the_importance_of_astrology_from_a_medical_perspective.jpg"}
+   ],
+   "key_concepts": ["homo signorum", "melothesia", "zodiac man", "astrological medicine"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__astrological-man-14c",
+   "title": "Nude figure of the Astrological Man (14th century)",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "14th century",
+   "place": "Europe",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["zodiac man", "homo signorum", "melothesia", "nude figure", "zodiac signs", "astrological medicine", "manuscript", "body"],
+   "rights": "CC BY 4.0. Via Wikimedia Commons (Wellcome Collection).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Nude_figure_of_%27Astrological_Man%27,_14th_C_Wellcome_L0037340.jpg",
+   "summary": "A fourteenth-century manuscript miniature of the Astrological Man, a nude figure across which the zodiacal rulership of the body is mapped.\n\n## Iconography\nThe naked body stands frontally, the twelve signs disposed along it from the ram at the brow to the fishes at the feet. Lines or labels connect each sign to the [[motif:melothesia|member]] it governs. The early date gives the figure the stiff, hieratic posture of Gothic manuscript art rather than the modelled nudes of the later woodcut tradition.\n\n## Significance\nAmong the earlier surviving witnesses to the [[motif:homo signorum|Homo signorum]], this figure shows the doctrine already fully formed in the fourteenth century, well before its mass diffusion through print. Such miniatures accompanied the prognostic and phlebotomy texts that guided a physician's calendar of safe and dangerous days for intervention on each part of the body.\n\n## For artists & game designers\nA spare Gothic line-figure reads as an 'arcane medical schematic' more convincingly than a polished anatomical plate — good reference for a hand-drawn diegetic medicine screen.",
+   "citations": [
+    {"text": "Roger French, 'Astrology in Medical Practice', in *Practical Medicine from Salerno to the Black Death* (1994)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Nude_figure_of_%27Astrological_Man%27,_14th_C_Wellcome_L0037340.jpg"}
+   ],
+   "key_concepts": ["homo signorum", "melothesia", "medieval medical astrology", "zodiac man"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__bloodletting-man-wellcome",
+   "title": "Bloodletting Man showing the influence of zodiac and planets",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "15th century",
+   "place": "Europe",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["bloodletting man", "aderlassmann", "phlebotomy", "zodiac signs", "planets", "veins", "astrological medicine", "melothesia"],
+   "rights": "CC BY 4.0. Via Wikimedia Commons (Wellcome Collection).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bloodletting_man_showing_the_influence_of_zodiac_and_planets_Wellcome_L0051271.jpg",
+   "summary": "A manuscript Bloodletting Man marking the points of phlebotomy on the body together with the zodiacal signs and planets that govern them.\n\n## Iconography\nA standing figure is ringed by the twelve signs in their head-to-foot order; lines run from the signs and from planetary roundels to the precise spots on the body at which a vein may be opened. The figure unites two schemes — the [[motif:zodiac man|Homo signorum]] of sign-rulership and the practical map of bleeding-points used by the surgeon.\n\n## Significance\nBloodletting was the central therapy of humoral medicine, and its timing was governed by the heavens: a vein should be opened when the Moon and the governing planets stood favourably and not while the Moon transited the sign ruling the affected member. Figures like this one served as bedside reference, fusing astrological prognosis with the [[motif:phlebotomy|phlebotomy]] of the practising physician.\n\n## For artists & game designers\nThe convergence of zodiac roundels, planetary glyphs and anatomical bleeding-points on one figure is an exemplary 'occult procedure diagram' — busy, labelled, and unmistakably operative.",
+   "citations": [
+    {"text": "Linda Voigts, 'The Golden Table of Pythagoras', in *Popular and Practical Science of Medieval England* (1994)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bloodletting_man_showing_the_influence_of_zodiac_and_planets_Wellcome_L0051271.jpg"}
+   ],
+   "key_concepts": ["bloodletting man", "phlebotomy", "melothesia", "humoral medicine"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__aderlassmann-1491",
+   "title": "Aderlassmann (Bloodletting Man), 1491",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous (German woodcut)",
+   "date": "1491",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["aderlassmann", "bloodletting man", "phlebotomy", "veins", "woodcut", "zodiac signs", "astrological medicine", "almanac"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Aderlassmann_1491.jpg",
+   "summary": "A 1491 German woodcut *Aderlassmann* — the Bloodletting Man — labelling the veins to be opened and the signs that govern the timing.\n\n## Iconography\nThe nude male figure stands with arms slightly raised; numerous veins are marked along the arms, legs, neck and head, each labelled or keyed to the part of the body and the ailment it serves. The surrounding apparatus ties the bleeding-points to the [[motif:zodiac man|zodiacal]] rulership of the limbs.\n\n## Significance\nThe *Aderlassmann* is the German vernacular form of the bleeding-figure, central to the *Aderlasskalender* (bloodletting calendars) printed in great numbers after Gutenberg. These cheap broadsheets and almanacs told barber-surgeons and laypeople alike which days the heavens deemed safe for [[motif:phlebotomy|letting blood]] from which vein — among the earliest mass-market applications of astrology to daily life.\n\n## For artists & game designers\nThe labelled-vein figure makes a perfect 'anatomy unlock screen': tapping each marked vein could reveal its associated humour, ailment and auspicious sign.",
+   "citations": [
+    {"text": "Peter Murray Jones, *Medieval Medicine in Illuminated Manuscripts* (1998)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Aderlassmann_1491.jpg"}
+   ],
+   "key_concepts": ["aderlassmann", "bloodletting calendar", "phlebotomy", "german almanac"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__aderlassmann-1500",
+   "title": "Aderlassmann (Bloodletting Man), c. 1500",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous (German woodcut)",
+   "date": "c. 1500",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["aderlassmann", "bloodletting man", "phlebotomy", "veins", "woodcut", "almanac", "astrological medicine", "melothesia"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Aderlassmann_1500.jpg",
+   "summary": "A turn-of-the-century German *Aderlassmann*, a more elaborate woodcut of the Bloodletting Man with its full apparatus of marked veins and labels.\n\n## Iconography\nThe figure is shown frontally, the body's surface crowded with named bleeding-points; banners or labels gloss each vein and its therapeutic use. The richer cutting and denser annotation mark the maturing of the German almanac woodcut around 1500.\n\n## Significance\nThis exemplar shows how quickly the [[motif:aderlassmann|Aderlassmann]] standardised once it entered print. Sold in the *Aderlasskalender* and the broadsheet almanacs, the figure carried the doctrine of astrologically timed [[motif:phlebotomy|bloodletting]] into ordinary households, where the laity used it without a physician. Such prints are key evidence for the popular reach of medical astrology in the Holy Roman Empire.\n\n## For artists & game designers\nCompare with the 1491 cut as an 'era progression' asset — same schematic, more ornament — useful for showing a tradition hardening into convention.",
+   "citations": [
+    {"text": "Charles Talbot, 'Astrology and Medicine', in *Medicine in Medieval England* (1967)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Aderlassmann_1500.jpg"}
+   ],
+   "key_concepts": ["aderlassmann", "bloodletting calendar", "phlebotomy", "popular astrology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__aderlassmann-cpg644",
+   "title": "Aderlassmann, Codex Palatinus germanicus 644",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "15th century",
+   "place": "German lands",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["aderlassmann", "bloodletting man", "phlebotomy", "manuscript", "veins", "astrological medicine", "heidelberg", "melothesia"],
+   "rights": "Public domain. Via Wikimedia Commons (Bibliotheca Palatina).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cpg_644_Aderlassmann.jpg",
+   "summary": "A manuscript Bloodletting Man from Codex Palatinus germanicus 644, one of the Heidelberg Bibliotheca Palatina medical codices.\n\n## Iconography\nThe figure stands with arms extended; the veins of head, neck, arms, hands, legs and feet are picked out and labelled in German, identifying which vein to open for which complaint. The hand-drawn, coloured form precedes the standardised printed *Aderlassmann*.\n\n## Significance\nThe Heidelberg *Cpg* medical manuscripts preserve the manuscript ancestry of the printed bleeding-figure. As a witness from the [[motif:aderlassmann|Aderlassmann]] tradition in its handwritten stage, this folio shows the vernacular German vein-map that the early presses would later fix and multiply, linking [[motif:phlebotomy|phlebotomy]] to the wider scheme of astrological timing.\n\n## For artists & game designers\nThe rougher manuscript hand gives a 'field-notebook' texture distinct from the crisp woodcut — good for a found-document or lore-page aesthetic.",
+   "citations": [
+    {"text": "Gundolf Keil, 'Aderlass und Aderlassregeln', in *Verfasserlexikon* (1978)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cpg_644_Aderlassmann.jpg"}
+   ],
+   "key_concepts": ["aderlassmann", "bibliotheca palatina", "phlebotomy", "vernacular medicine"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__aderlass-cgm340",
+   "title": "Bloodletting scene, Codex germanicus monacensis 340",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "15th century",
+   "place": "German lands",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["bloodletting", "aderlass", "phlebotomy", "manuscript", "surgeon", "vein", "astrological medicine", "practice"],
+   "rights": "Public domain. Via Wikimedia Commons (Bayerische Staatsbibliothek).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Aderlass_Cgm_340.jpg",
+   "summary": "A bloodletting illustration from Codex germanicus monacensis 340 in the Bayerische Staatsbibliothek, depicting the practice of *Aderlass* rather than the schematic vein-man.\n\n## Iconography\nThe scene shows the act of phlebotomy itself — a practitioner opening a vein on a seated or standing patient, the blood collected in a bowl. The image belongs to the practical apparatus of the German medical manuscript, complementing the schematic [[motif:aderlassmann|Aderlassmann]] figures with a picture of the procedure.\n\n## Significance\nWhere the vein-man is a diagram, this folio records the lived reality of [[motif:phlebotomy|letting blood]], the routine therapy of humoral medicine that the astrological calendars sought to time. Such scenes connect the abstract sign-and-planet apparatus to the barber-surgeon's daily work in the German lands.\n\n## For artists & game designers\nA depiction of the procedure (not just the chart) gives the 'cutscene' to pair with the diagram — useful for grounding an arcane medical system in visceral practice.",
+   "citations": [
+    {"text": "Gundolf Keil & Peter Assion (eds.), *Fachprosaforschung* (1974)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Aderlass_Cgm_340.jpg"}
+   ],
+   "key_concepts": ["aderlass", "phlebotomy", "humoral medicine", "german manuscript"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__vein-man",
+   "title": "Zodiac / Vein Man (National Library of Medicine)",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "15th century",
+   "place": "Europe",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["vein man", "zodiac man", "phlebotomy", "veins", "bloodletting man", "astrological medicine", "manuscript", "melothesia"],
+   "rights": "No known restrictions. Via Wikimedia Commons (U.S. National Library of Medicine, History of Medicine).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:(Zodiac_or_Vein_man)_(4647709448).jpg",
+   "summary": "A Zodiac / Vein Man from the U.S. National Library of Medicine, marking both the zodiacal rulership and the bleeding-veins of the body.\n\n## Iconography\nThe standing nude figure carries the twelve signs disposed head-to-foot and, distributed across the limbs, the network of veins indicated for phlebotomy. The 'Vein Man' designation emphasises the practical bleeding-map; the 'Zodiac Man' label its astrological frame — the two were routinely combined in one figure.\n\n## Significance\nThe NLM holds one of the richest collections of medical-astrological imagery, and this composite figure typifies the genre's double duty: the physician read off both *when* (the sign and planet then ruling) and *where* (the vein) to intervene. It belongs to the same family as the [[motif:aderlassmann|Aderlassmann]] and the [[motif:zodiac man|Homo signorum]].\n\n## For artists & game designers\nThe explicit vein network over a zodiac body is a strong 'circulatory + arcane' overlay — combine a vascular layer with a sign layer for a two-mode anatomy inspector.",
+   "citations": [
+    {"text": "U.S. National Library of Medicine, *Historical Anatomies on the Web*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:(Zodiac_or_Vein_man)_(4647709448).jpg"}
+   ],
+   "key_concepts": ["vein man", "zodiac man", "phlebotomy", "medical astrology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__planets-influence",
+   "title": "The planets and signs of the zodiac send down their influence",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "15th–16th century",
+   "place": "Europe",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["planetary influence", "zodiac signs", "melothesia", "human body", "astrological medicine", "macrocosm", "planets", "rays"],
+   "rights": "CC BY 4.0. Via Wikimedia Commons (Wellcome Collection).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_planets_and_signs_of_the_zodiac_send_down_their_influence_Wellcome_L0040386.jpg",
+   "summary": "A figure showing the planets and zodiac signs casting their influence down upon the human body, the doctrine of celestial 'influence' made literal.\n\n## Iconography\nFrom the heavens above, the seven planets and the twelve signs direct lines or rays of influence onto the parts of a human figure below, each celestial body linked to the organ or member it governs. The image visualises *influentia* — the in-flowing virtue by which the stars were thought to act on the sublunary body.\n\n## Significance\nThe picture renders the central premise of medical astrology: that the planets and signs continuously shape the [[motif:melothesia|microcosmic body]], so that health and sickness, temperament and crisis all answer to the sky. This is the macrocosm–microcosm doctrine that underwrites the [[motif:zodiac man|Zodiac Man]] and the whole apparatus of astrological prognosis.\n\n## For artists & game designers\nRays of planetary 'influence' descending onto a body is a clean status-effect metaphor — each planet a buff/debuff source streaming down onto the player's anatomy.",
+   "citations": [
+    {"text": "S. K. Heninger, *The Cosmographical Glass* (1977)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_planets_and_signs_of_the_zodiac_send_down_their_influence_Wellcome_L0040386.jpg"}
+   ],
+   "key_concepts": ["celestial influence", "macrocosm microcosm", "melothesia", "medical astrology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__wundenmann-1491",
+   "title": "Wundenmann (Wound Man), Fasciculus medicinae 1491",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Workshop of Johannes de Ketham",
+   "date": "1491",
+   "place": "Venice",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["wound man", "wundenmann", "weapons", "woodcut", "surgery", "fasciculus medicinae", "injuries", "anatomy"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Wundenmann_1491.jpg",
+   "summary": "The *Wundenmann* (Wound Man) woodcut from the 1491 Venice *Fasciculus medicinae* of Johannes de Ketham, the figure pierced by every weapon and affliction the surgeon must treat.\n\n## Iconography\nA standing man is struck simultaneously by a catalogue of injuries: swords and daggers in the torso and limbs, arrows and a spear, a club, thorns, the bites of dog, snake and scorpion, abscesses and skin lesions. Each wound keys to a passage of the surgical text explaining its treatment.\n\n## Significance\nThe [[motif:wound man|Wound Man]] is a visual index of trauma surgery, gathering on one body every case the practitioner might face. First printed in Ketham's *Fasciculus*, the figure became a fixture of the surgical handbooks of the German and Italian Renaissance. Though not itself astrological, it shares the schematic 'mapped body' logic of the [[motif:zodiac man|Homo signorum]] with which it travelled in the same volumes.\n\n## For artists & game designers\nThe Wound Man is the original 'damage diagram' — a single figure annotated with every injury type, an ideal template for an injury/affliction codex screen.",
+   "citations": [
+    {"text": "Jack Hartnell, *Medieval Bodies: Life and Death in the Middle Ages* (2018)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Wundenmann_1491.jpg"}
+   ],
+   "key_concepts": ["wound man", "fasciculus medicinae", "trauma surgery", "renaissance medicine"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__wound-man-anathomia",
+   "title": "Wound Man, Pseudo-Galen Anathomia (Wellcome MS 290)",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "15th century",
+   "place": "Europe",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["wound man", "weapons", "manuscript", "surgery", "injuries", "anatomy", "pseudo-galen", "trauma"],
+   "rights": "CC BY 4.0. Via Wikimedia Commons (Wellcome Collection, MS 290).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Wound_man,_Pseudo-Galen,_Anathomia;_WMS_290_Wellcome_L0013467.jpg",
+   "summary": "A manuscript Wound Man from a Pseudo-Galenic *Anathomia* (Wellcome MS 290), a high-resolution witness to the figure in its handwritten form.\n\n## Iconography\nThe figure bears the full repertory of wounds — bladed weapons embedded in head, chest, arms and legs, arrows, animal bites and surface lesions — each linked to the surrounding text on diagnosis and cure. The painted manuscript form gives the body colour and modelling absent from the printed cuts.\n\n## Significance\nThis [[motif:wound man|Wound Man]] shows the figure circulating in manuscript anatomies attributed to Galen, the great authority whose corpus underwrote medieval medicine. As one of the finest surviving manuscript exemplars, it documents the genre before and alongside its diffusion through Ketham's *Fasciculus*, and its place within the broader teaching of [[motif:anatomy|anatomy]] and surgery.\n\n## For artists & game designers\nThe painted, full-colour manuscript Wound Man is the premium reference for a richly illustrated injury codex — far more detailed than the line-cut versions.",
+   "citations": [
+    {"text": "Jack Hartnell, *Medieval Bodies* (2018)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Wound_man,_Pseudo-Galen,_Anathomia;_WMS_290_Wellcome_L0013467.jpg"}
+   ],
+   "key_concepts": ["wound man", "pseudo-galen anathomia", "trauma surgery", "medieval anatomy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__wound-man-german",
+   "title": "Wound Man with injuries, German legend",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "15th–16th century",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["wound man", "wundenmann", "weapons", "surgery", "injuries", "german text", "anatomy", "trauma"],
+   "rights": "CC BY 4.0. Via Wikimedia Commons (Wellcome Collection).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Wound-man_with_injuries,_legend_in_German._Wellcome_L0029304.jpg",
+   "summary": "A Wound Man with a German legend, the weapon-pierced figure surrounded by vernacular text keying each injury to its remedy.\n\n## Iconography\nThe man is shown beset by the standard catalogue of wounds — embedded blades, arrows, a spear, animal bites and lesions — with German captions naming each injury and pointing to its treatment in the surrounding surgical text.\n\n## Significance\nThe German-legended [[motif:wound man|Wundenmann]] belongs to the vernacular surgical handbooks of the German lands, where works like Gersdorff's *Feldtbuch der Wundartzney* carried the figure to barber-surgeons working in the field. The vernacular captions mark the genre's passage from learned Latin anatomy to practical, craft-level instruction.\n\n## For artists & game designers\nVernacular captions on the wounds turn the figure into a labelled tooltip sheet — a model for an in-world injury glossary written in the 'local tongue'.",
+   "citations": [
+    {"text": "Sandra Cavallo & Tessa Storey, *Healthy Living in Late Renaissance Italy* (2013)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Wound-man_with_injuries,_legend_in_German._Wellcome_L0029304.jpg"}
+   ],
+   "key_concepts": ["wound man", "vernacular surgery", "wundenmann", "trauma"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__wound-man-gersdorff",
+   "title": "Wound Man, Gersdorff Feldtbuch der Wundartzney (1517)",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Hans von Gersdorff",
+   "date": "1517",
+   "place": "Strasbourg",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["wound man", "wundenmann", "weapons", "woodcut", "field surgery", "feldtbuch", "injuries", "trauma"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Gersdorff_p21v.jpg",
+   "summary": "The Wound Man from Hans von Gersdorff's *Feldtbuch der Wundartzney* (Field Book of Wound Surgery, Strasbourg 1517), one of the most celebrated of all Wound Man woodcuts.\n\n## Iconography\nA bearded man stands transfixed by a dense array of weapons — sword, dagger, spear, arrows, a thrown club, a flail — and afflicted by animal bites and lesions. Gersdorff's cut, attributed to the Strasbourg workshop of Hans Wechtlin, is unusually crowded and energetic, the body bristling with implements.\n\n## Significance\nGersdorff was a battlefield surgeon, and his *Feldtbuch* distilled decades of practical [[motif:wound man|wound]] and amputation surgery into the most influential German surgical manual of the early sixteenth century. Its Wound Man became the canonical image of the genre, reproduced and adapted for generations. The book joined the same shelf as the astrological-medical figures, surgery and the stars sharing one body-schematic logic.\n\n## For artists & game designers\nGersdorff's exuberantly over-armed figure is the definitive 'maximum damage' diagram — the reference to reach for when an injury screen needs to feel overwhelmed.",
+   "citations": [
+    {"text": "Hans von Gersdorff, *Feldtbuch der Wundartzney* (Strasbourg, 1517)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Gersdorff_p21v.jpg"}
+   ],
+   "key_concepts": ["wound man", "gersdorff feldtbuch", "field surgery", "renaissance medicine"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__ketham-fasciculus",
+   "title": "Ketham, Fasciculus medicinae (title figure)",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Johannes de Ketham",
+   "date": "1491–1495",
+   "place": "Venice",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["fasciculus medicinae", "ketham", "woodcut", "physician", "astrological medicine", "consultation", "venice", "medical print"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ketham_Fasciculus_medicinae.png",
+   "summary": "A woodcut from the *Fasciculus medicinae* of Johannes de Ketham, the first printed medical book to contain anatomical illustrations.\n\n## Iconography\nThe plate shows one of the *Fasciculus*'s signature schematic figures or scenes — physicians, the lecturing master, or one of the diagrammatic bodies — rendered in the bold early-Venetian woodcut line of the de Gregori brothers' workshop.\n\n## Significance\nFirst printed at Venice in 1491 and famously expanded in 1493–95, the *Fasciculus medicinae* gathered the standard apparatus of late-medieval medicine — the [[motif:zodiac man|Zodiac Man]], the [[motif:bloodletting man|Bloodletting Man]], the [[motif:wound man|Wound Man]], the Disease Woman, the [[motif:uroscopy|uroscopy]] charts and the dissection scene — into one illustrated volume. It became the most widely diffused medical picture-book of the age and fixed the canonical form of these figures for European print.\n\n## For artists & game designers\nThe *Fasciculus* is the single best source-book for a Renaissance medical aesthetic: one volume supplies the zodiac body, the vein-man, the wound-man and the urine-wheel in a coherent house style.",
+   "citations": [
+    {"text": "Johannes de Ketham, *Fasciculus medicinae* (Venice, 1491/1495)."},
+    {"text": "Karl Sudhoff & Charles Singer, *The Fasciculo di Medicina, Venice 1493* (1925)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ketham_Fasciculus_medicinae.png"}
+   ],
+   "key_concepts": ["fasciculus medicinae", "johannes de ketham", "printed anatomy", "venice woodcut"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__fasciculus-scan7",
+   "title": "Fasciculus medicinae, illustrated leaf (BSB)",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Johannes de Ketham",
+   "date": "1491–1500",
+   "place": "Venice",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["fasciculus medicinae", "ketham", "woodcut", "astrological medicine", "figure", "medical print", "venice", "diagram"],
+   "rights": "Public domain. Via Wikimedia Commons (Bayerische Staatsbibliothek).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fasciculus_medicinae_Ik00017000_Scan00007.jpg",
+   "summary": "An illustrated leaf from a Bayerische Staatsbibliothek copy of Ketham's *Fasciculus medicinae*, one of the work's full-page diagrammatic figures.\n\n## Iconography\nThe page presents one of the book's schematic bodies or instructional scenes within its woodcut border and Latin text — the *Fasciculus*'s house format, in which a single emblematic figure is wrapped in explanatory letterpress.\n\n## Significance\nThe survival of multiple early printings in libraries such as the BSB lets scholars trace the *Fasciculus*'s evolving illustration across editions. Each leaf belongs to the integrated programme — [[motif:zodiac man|zodiac]], [[motif:bloodletting man|bleeding]], wound, urine — by which the volume taught the whole of practical medicine through pictures, and by which medical astrology reached its widest early-modern audience.\n\n## For artists & game designers\nThe text-wrapped full-page figure is a ready 'codex page' layout — central diagram framed by dense letterpress, ideal for an in-game tome spread.",
+   "citations": [
+    {"text": "Johannes de Ketham, *Fasciculus medicinae* (Venice, 1491–1500)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fasciculus_medicinae_Ik00017000_Scan00007.jpg"}
+   ],
+   "key_concepts": ["fasciculus medicinae", "incunabulum", "printed anatomy", "medical astrology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__ketham-l0031475",
+   "title": "Joannes de Ketham, Fasciculus medicine (Wellcome leaf)",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Johannes de Ketham",
+   "date": "1493–1500",
+   "place": "Venice",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["fasciculus medicinae", "ketham", "woodcut", "astrological medicine", "physician", "consultation", "venice", "medical print"],
+   "rights": "CC BY 4.0. Via Wikimedia Commons (Wellcome Collection).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Joannes_de_Ketham,_Fasciculus_medicine._Wellcome_L0031475.jpg",
+   "summary": "A high-resolution leaf from the Wellcome Collection's copy of Joannes de Ketham's *Fasciculus medicine*, showing one of the work's celebrated illustrations.\n\n## Iconography\nThe plate depicts one of the *Fasciculus*'s major scenes — among them the consultation of physicians, the anatomy lecture and dissection, or the diagrammatic bodies — in the strong woodcut line of the Venetian editions.\n\n## Significance\nThe Wellcome's holdings of the *Fasciculus* are among the most studied, their high-resolution digitisation underpinning modern scholarship on the birth of the illustrated medical book. The volume's union of [[motif:uroscopy|uroscopy]], [[motif:bloodletting man|phlebotomy]] and astrological prognosis in a single woodcut programme made it the template through which Renaissance Europe pictured the medicine of the [[motif:zodiac man|star-ruled body]].\n\n## For artists & game designers\nThe consultation and dissection scenes supply the human, narrative counterpart to the schematic figures — useful when an arcane-medicine setting needs people, not just diagrams.",
+   "citations": [
+    {"text": "Tiziana Pesenti, *Il 'Fasciculus medicinae' ovvero le metamorfosi del libro umanistico* (2001)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Joannes_de_Ketham,_Fasciculus_medicine._Wellcome_L0031475.jpg"}
+   ],
+   "key_concepts": ["fasciculus medicinae", "johannes de ketham", "venice woodcut", "history of medicine"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__uroscopy",
+   "title": "Constantine the African examining urine (uroscopy)",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "13th century",
+   "place": "Italy",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["uroscopy", "urine flask", "physician", "harnschau", "diagnosis", "constantine the african", "manuscript", "matula"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Konstantinderafrikaner.jpg",
+   "summary": "A manuscript miniature of Constantine the African examining a flask of urine, the archetypal image of medieval uroscopy.\n\n## Iconography\nThe physician holds a *matula* — the round-bottomed urine flask — up to the light, scrutinising its colour, clarity and contents to reach a diagnosis. The patient or an attendant stands by. The single uplifted flask became the universal emblem of the doctor.\n\n## Significance\nConstantine the African (d. c. 1099), the Monte Cassino translator who carried Arabic medicine into Latin Europe, stands here for the science of [[motif:uroscopy|uroscopy]] — diagnosis by the inspection of urine. For centuries the urine-flask defined the physician in art, and the reading of the *matula* was woven together with astrological timing and humoral theory into a complete diagnostic and prognostic system.\n\n## For artists & game designers\nThe doctor-with-flask is the instantly legible icon of the medieval healer — a single prop that signals 'physician' the way a staff signals 'mage'.",
+   "citations": [
+    {"text": "Michael McVaugh, 'Constantine the African', in *Dictionary of Scientific Biography*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Konstantinderafrikaner.jpg"}
+   ],
+   "key_concepts": ["uroscopy", "matula", "constantine the african", "humoral diagnosis"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__uroscopy-chart",
+   "title": "Western Uroscopy Chart",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "15th century",
+   "place": "Europe",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["uroscopy", "urine wheel", "harnschau", "urine flask", "diagnosis", "colour chart", "matula", "prognosis"],
+   "rights": "CC BY 4.0. Via Wikimedia Commons (Wellcome Collection).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Western_Uroscopy_Chart_Wellcome_L0005746.jpg",
+   "summary": "A Western uroscopy chart — the wheel of urine flasks ringed by their diagnostic colours, the physician's reference for reading the *matula*.\n\n## Iconography\nA circular arrangement of urine flasks, each tinted a different shade from pale to dark and keyed to a humoral condition, disease or prognosis. The colour, sediment and clarity of the urine were correlated through the wheel to the patient's state.\n\n## Significance\nThe [[motif:uroscopy|uroscopy]] wheel (the *Harnschau* chart) systematised diagnosis by urine into a colour-coded instrument. Twenty or more named shades, from *albus* to *niger*, indexed the balance of the humours and the course of an illness; combined with astrological prognosis, the wheel let the physician judge both disease and its critical days. The motif became so emblematic that the flask-wheel stands for medieval medicine itself.\n\n## For artists & game designers\nThe radial colour-coded flask-wheel is a perfect diegetic UI: a literal diagnostic dial the player rotates to match a sample's hue to a condition.",
+   "citations": [
+    {"text": "Laurence Moulinier-Brogi, *L'Uroscopie au Moyen Âge* (2012)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Western_Uroscopy_Chart_Wellcome_L0005746.jpg"}
+   ],
+   "key_concepts": ["uroscopy", "urine wheel", "harnschau", "humoral diagnosis"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__uroscopy-15c",
+   "title": "Illustration of uroscopy, 15th century",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "15th century",
+   "place": "Europe",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["uroscopy", "urine flask", "physician", "patient", "diagnosis", "matula", "manuscript", "harnschau"],
+   "rights": "CC BY 4.0. Via Wikimedia Commons (Wellcome Collection).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Illustration_of_uroscopy,_15th_century_Wellcome_L0016077.jpg",
+   "summary": "A fifteenth-century illustration of uroscopy in practice, the physician judging a flask brought by or for the patient.\n\n## Iconography\nThe scene shows the consultation around the urine-flask: the doctor examines the *matula* while the patient or a messenger looks on, the social ritual by which diagnosis was performed and a prognosis pronounced.\n\n## Significance\nUroscopy was not only a technique but a public performance of medical authority: patients sent their urine to the physician, who could (it was claimed) diagnose at a distance from the flask alone. The practice, fused with astrological and humoral reasoning, defined the late-medieval consultation — and drew satire when over-claimed. Here it is shown straight, as the central diagnostic act of [[motif:uroscopy|uroscopic]] medicine.\n\n## For artists & game designers\nThe flask-consultation is a compact 'diagnosis encounter' tableau — two figures and a prop carry an entire medical interaction.",
+   "citations": [
+    {"text": "Laurence Moulinier-Brogi, *L'Uroscopie au Moyen Âge* (2012)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Illustration_of_uroscopy,_15th_century_Wellcome_L0016077.jpg"}
+   ],
+   "key_concepts": ["uroscopy", "matula", "medical consultation", "diagnosis"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__uroscopy-ms784",
+   "title": "Uroscopy, Wellcome MS 784",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous",
+   "date": "15th century",
+   "place": "Europe",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["uroscopy", "urine wheel", "harnschau", "matula", "diagnosis", "manuscript", "colour chart", "prognosis"],
+   "rights": "CC BY 4.0. Via Wikimedia Commons (Wellcome Collection, MS 784).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Uroscopy,_MS.784_Wellcome_L0072551.jpg",
+   "summary": "A finely detailed uroscopy page from Wellcome MS 784, a high-resolution manuscript witness to the urine-diagnosis tradition.\n\n## Iconography\nThe leaf presents the apparatus of uroscopy — ranks or a wheel of tinted flasks and their diagnostic glosses — in a richly executed manuscript hand, the colours of the urine carefully differentiated for the reader.\n\n## Significance\nMS 784 belongs to the substantial body of [[motif:uroscopy|uroscopic]] manuscripts that circulated as practical reference for physicians and apothecaries. The care lavished on the colour gradations underscores how technical the art aspired to be: each shade a sign, the whole a diagnostic and prognostic code read alongside the patient's stars and humours.\n\n## For artists & game designers\nThe high-resolution manuscript flasks are excellent close-up reference for rendering convincing 'sample vials' with authentic period colour vocabulary.",
+   "citations": [
+    {"text": "Peter Murray Jones, *Medieval Medicine in Illuminated Manuscripts* (1998)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Uroscopy,_MS.784_Wellcome_L0072551.jpg"}
+   ],
+   "key_concepts": ["uroscopy", "urine wheel", "manuscript medicine", "prognosis"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__harnschau-gart",
+   "title": "Uroscopy (Harnschau), Gart der Gesundheit",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous (German woodcut)",
+   "date": "c. 1485",
+   "place": "Mainz",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["uroscopy", "harnschau", "urine flask", "physician", "woodcut", "gart der gesundheit", "diagnosis", "matula"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Gart_Harnschau.jpg",
+   "summary": "A *Harnschau* (urine-inspection) woodcut from the German herbal-medical tradition of the *Gart der Gesundheit*, the physician reading the flask.\n\n## Iconography\nA physician holds the urine-flask aloft for inspection, the woodcut rendering the *Harnschau* — the German term for uroscopy — as a discrete diagnostic act. The bold early-printed line is typical of the Mainz medical incunabula.\n\n## Significance\nThe *Gart der Gesundheit* (Mainz, 1485) was among the most influential printed herbals and household-medicine books of the German Renaissance, and its [[motif:uroscopy|Harnschau]] image carried urine-diagnosis to a broad vernacular readership. The picture shows the practice as a fixed ritual of the German physician, alongside the [[motif:bloodletting man|bloodletting]] and zodiac apparatus of the same medical culture.\n\n## For artists & game designers\nThe lone physician-with-flask in crisp woodcut line is a clean icon asset — high contrast, instantly readable as 'diagnosis'.",
+   "citations": [
+    {"text": "*Gart der Gesundheit* (Mainz: Peter Schöffer, 1485)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Gart_Harnschau.jpg"}
+   ],
+   "key_concepts": ["harnschau", "uroscopy", "gart der gesundheit", "german incunabula"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrological_medicine__uroscopy-hortus",
+   "title": "Uroscopy (Hortus sanitatis)",
+   "work": "Astrological & Occult Medicine: The Body Governed by the Stars",
+   "creator": "Anonymous (woodcut)",
+   "date": "c. 1491–1500",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["uroscopy", "urine flask", "physician", "woodcut", "hortus sanitatis", "harnschau", "diagnosis", "matula"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hortus_Uroscopie.jpg",
+   "summary": "A uroscopy woodcut from the *Hortus sanitatis* tradition, the physician inspecting urine within the late-fifteenth-century medical encyclopaedia.\n\n## Iconography\nThe scene shows the urine-flask held up for examination, the diagnostic gesture set within the bordered woodcut of the printed *Hortus*. The high-resolution scan preserves the fine cutting of the early German press.\n\n## Significance\nThe *Hortus sanitatis* (Garden of Health, Mainz 1491) was a sprawling natural-medical encyclopaedia whose woodcuts shaped how the early-modern reader imagined plants, animals and the practice of medicine. Its [[motif:uroscopy|uroscopy]] image situates urine-diagnosis within the wider compendium of healing arts, the flask once more standing as the physician's defining instrument.\n\n## For artists & game designers\nThe encyclopaedic woodcut style — figure within ruled border — is a strong template for 'bestiary/codex entry' framing applied to a medical procedure.",
+   "citations": [
+    {"text": "*Hortus sanitatis* (Mainz: Jacob Meydenbach, 1491)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hortus_Uroscopie.jpg"}
+   ],
+   "key_concepts": ["uroscopy", "hortus sanitatis", "medical encyclopaedia", "harnschau"],
+   "summary_status": "authored"
+  }
+ ]
+}

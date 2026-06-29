@@ -1,0 +1,334 @@
+{
+ "_work": {
+   "key": "astrology_earlymodern",
+   "short_id": "AEM",
+   "title": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "various",
+   "date": "1515–1690",
+   "century": 17,
+   "place": "German lands, Low Countries, Danzig, Augsburg, Nuremberg",
+   "region": "Europe",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "astrology_earlymodern",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Harmonia_Macrocosmica",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["planisphere", "zodiac", "constellation figures", "cosmological systems", "volvelle", "celestial hemisphere"],
+   "blurb": "Engraved celestial cartography and astrological imagery of the European early-modern period (1515–1690): Cellarius's baroque planispheres of the Ptolemaic, Copernican, and Tychonic world-systems and his Christianised sky; the figured constellation atlases of Bayer, Bartsch, and Hevelius; Dürer's 1515 star map; and Apianus's instrument-like astrological volvelles — the visual culture in which a learned astronomy and a practising astrology still shared one heaven."
+ },
+ "entries": [
+  {
+   "id": "astrology_earlymodern__cellarius-ptolemaic",
+   "title": "Northern stellar hemisphere, *Harmonia Macrocosmica*",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Andreas Cellarius (engraved Schenk, Valck, Van Loon)",
+   "date": "1660 (this ed. later)",
+   "place": "Amsterdam",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["planisphere", "northern hemisphere", "constellation figures", "zodiac", "putti", "ecliptic", "celestial sphere", "baroque cartouche"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Harmonia_macrocosmica,_seu,_Atlas_universalis_et_novus,_totius_universi_creati_cosmographiam_generalem,_et_novam_exhibens_-_in_qu%C3%A2_omnium_totius_mundi_orbium_harmonica_constructio,_secundum_LOC_2011589506-26.jpg",
+   "summary": "A plate from Andreas Cellarius's *Harmonia Macrocosmica* (first published Amsterdam, 1660), the most lavish celestial atlas of the Baroque age.\n\n## Iconography\nA circular **planisphere** projects the heavens onto the plane, its grid of meridians and the slanting band of the **ecliptic** crossing a field crowded with classical **constellation figures** — bears, serpents, heroes, and the twelve zodiac beasts drawn as living bodies. The disc is framed by an ornamental cartouche with **putti**, instruments, and a Latin title-banner.\n\n## Significance\nCellarius gathered the cosmology of his century into 29 hand-coloured copperplates. Though presented as astronomy, the atlas preserves the figured sky on which judicial [[motif:astrology|astrology]] still depended: the constellations and the zodiac that gave the planets their dignities. Re-issued by Schenk and Valck, it became the defining image of the early-modern heavens.\n\n## For artists & game designers\nThe figure-packed disc inside a heavy cartouche is a perfect template for a star-map UI or a 'sky atlas' inventory screen.",
+   "citations": [
+    {"text": "Robert H. van Gent, *Andreas Cellarius: Harmonia Macrocosmica of 1660* (Taschen, 2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Harmonia_macrocosmica,_seu,_Atlas_universalis_et_novus,_totius_universi_creati_cosmographiam_generalem,_et_novam_exhibens_-_in_qu%C3%A2_omnium_totius_mundi_orbium_harmonica_constructio,_secundum_LOC_2011589506-26.jpg"}
+   ],
+   "key_concepts": ["Harmonia Macrocosmica", "planisphere", "celestial cartography", "constellation figures"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__cellarius-copernican",
+   "title": "*Planisphaerium Copernicanum* — the Copernican system",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Andreas Cellarius",
+   "date": "1660 (this ed. later)",
+   "place": "Amsterdam",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["heliocentric system", "Copernican system", "planetary orbits", "Sun centre", "zodiac ring", "putti", "armillary", "world-system"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Andreas_Cellarius_-_Planisphaerium_Copernicanum_Sive_Systema_Universi_Totius_Creati_Ex_Hypothesi_Copernicana_In_Plano_Exhibitum.jpg",
+   "summary": "Cellarius's *Planisphaerium Copernicanum*, the plate of the *Harmonia Macrocosmica* depicting the Sun-centred cosmos of Copernicus.\n\n## Iconography\nThe **Sun** sits at the centre of a system of concentric **planetary orbits** — Mercury, Venus, Earth with its Moon, Mars, Jupiter, Saturn — each carrying its planetary glyph and, for Earth, the band of the seasons. The whole is encircled by a **zodiac ring** of the twelve signs and watched over by **putti** bearing astronomical instruments.\n\n## Significance\nNearly 120 years after *De revolutionibus* (1543), Cellarius gave the [[motif:heliocentric system|heliocentric model]] a place of honour beside the Ptolemaic and Tychonic plates — a visual register of a cosmos in dispute. The retained zodiac ring shows how astrological geometry survived the move of the Earth from the centre.\n\n## For artists & game designers\nClean nested-orbit diagram with a glowing centre — ideal for an orrery mechanic or a 'systems of the world' selector.",
+   "citations": [
+    {"text": "Robert H. van Gent, *Andreas Cellarius: Harmonia Macrocosmica of 1660* (Taschen, 2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Andreas_Cellarius_-_Planisphaerium_Copernicanum_Sive_Systema_Universi_Totius_Creati_Ex_Hypothesi_Copernicana_In_Plano_Exhibitum.jpg"}
+   ],
+   "key_concepts": ["Copernican system", "heliocentrism", "Harmonia Macrocosmica", "world-systems"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__cellarius-tychonic",
+   "title": "*Planisphaerium Braheum* — the Tychonic system",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Andreas Cellarius",
+   "date": "1660 (this ed. later)",
+   "place": "Amsterdam",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["Tychonic system", "geo-heliocentric", "Tycho Brahe", "planetary orbits", "Earth centre", "zodiac ring", "world-system", "putti"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cellarius_Harmonia_Macrocosmica_-_Planisphaerium_Braheum.jpg",
+   "summary": "Cellarius's *Planisphaerium Braheum*, the plate setting out the compromise cosmos of **Tycho Brahe**.\n\n## Iconography\nThe **Earth** holds the centre, circled by the Moon and Sun; the five planets are shown orbiting the **Sun** as it in turn travels around the Earth — the hybrid **geo-heliocentric** arrangement. A **zodiac ring** bounds the diagram and **putti** with instruments fill the corners.\n\n## Significance\nTycho's system (proposed 1588) kept a motionless Earth, as scripture and physics then seemed to require, while granting the elegance of Sun-centred planetary motion. Cellarius's plate enshrines it as a serious third option in the seventeenth-century debate, and its preserved [[motif:zodiac|zodiac]] frame shows astronomy and astrology still sharing one map of the sky.\n\n## For artists & game designers\nA visibly 'in-between' cosmology — useful when you want a world-model that is neither fully old nor fully new.",
+   "citations": [
+    {"text": "Robert H. van Gent, *Andreas Cellarius: Harmonia Macrocosmica of 1660* (Taschen, 2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cellarius_Harmonia_Macrocosmica_-_Planisphaerium_Braheum.jpg"}
+   ],
+   "key_concepts": ["Tychonic system", "geo-heliocentrism", "Tycho Brahe", "Harmonia Macrocosmica"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__cellarius-scenographia",
+   "title": "*Scenographia systematis mundani Ptolemaici*",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Andreas Cellarius",
+   "date": "1660 (this ed. later)",
+   "place": "Amsterdam",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["Ptolemaic system", "geocentric", "celestial spheres", "Earth centre", "zodiac", "astronomers", "armillary", "perspective scenography"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Scenographia_systematis_mundani_Ptolemaici_-_btv1b101003595.jpg",
+   "summary": "The *Scenographia systematis mundani Ptolemaici*, Cellarius's perspectival 'stage-set' rendering of the Earth-centred Ptolemaic cosmos.\n\n## Iconography\nUnlike the flat planispheres, this plate tilts the universe into **perspective**: nested transparent **celestial spheres** carry the planets in order — Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn — around a central **Earth**, the outermost sphere bearing the **zodiac** and fixed stars. Robed **astronomers** observe from the foreground.\n\n## Significance\nThe **Ptolemaic** geocentric cosmos was the frame within which classical and medieval [[motif:astrology|astrology]] had always operated: the spheres of the seven planets and the eighth of the fixed stars. Cellarius's *scenographia* presents this ancient world-picture as a grand theatrical machine, even as rival systems pressed upon it.\n\n## For artists & game designers\nThe see-through nested spheres in dramatic perspective are a ready model for a 'celestial machine' set-piece or boss arena.",
+   "citations": [
+    {"text": "Robert H. van Gent, *Andreas Cellarius: Harmonia Macrocosmica of 1660* (Taschen, 2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Scenographia_systematis_mundani_Ptolemaici_-_btv1b101003595.jpg"}
+   ],
+   "key_concepts": ["Ptolemaic system", "geocentrism", "celestial spheres", "Harmonia Macrocosmica"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__cellarius-zodiac-hemisphere",
+   "title": "Zodiac hemisphere map, *Harmonia Macrocosmica*",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Andreas Cellarius",
+   "date": "1660 (this ed. later)",
+   "place": "Amsterdam",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["zodiac", "ecliptic", "hemisphere", "signs of the zodiac", "constellation figures", "celestial latitude", "planisphere", "ram bull twins"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cellarius-map-zodiac.jpg",
+   "summary": "A Cellarius hemisphere centred on the band of the **zodiac**, isolating the twelve signs from the wider star-atlas.\n\n## Iconography\nThe disc is organised around the **ecliptic**, the Sun's annual path, along which the twelve **signs of the zodiac** are drawn as their living figures — Aries the ram, Taurus the bull, Gemini the twins, and so on around the circle — with celestial latitude lines fanning out from the ecliptic poles.\n\n## Significance\nThe zodiac was the working instrument of astrology: the twelvefold division of the ecliptic that located planets, assigned dignities, and framed the houses of a horoscope. By giving it a dedicated hemisphere, Cellarius made explicit the [[motif:zodiac|zodiacal]] backbone shared by astronomy and astrology alike.\n\n## For artists & game designers\nA clean, ready-made wheel of the twelve signs around an ecliptic — drop-in art for a calendar, sign-selector, or destiny mechanic.",
+   "citations": [
+    {"text": "Robert H. van Gent, *Andreas Cellarius: Harmonia Macrocosmica of 1660* (Taschen, 2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cellarius-map-zodiac.jpg"}
+   ],
+   "key_concepts": ["zodiac", "ecliptic", "Harmonia Macrocosmica", "signs of the zodiac"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__cellarius-christian-sky",
+   "title": "*Coeli Stellati Christiani Haemisphaerium Prius* — the Christianised sky",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Andreas Cellarius",
+   "date": "1660 (this ed. later)",
+   "place": "Amsterdam",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["Christianised constellations", "biblical sky", "hemisphere", "saints", "ark", "celestial cartography", "Schiller reception", "star map"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Coeli_Stellati_Christiani_Haemisphaerium_Prius.jpg",
+   "summary": "Cellarius's hemisphere of the **Christianised heavens**, in which the pagan constellations are replaced by biblical and saintly figures.\n\n## Iconography\nThe familiar mythological constellations give way to scriptural ones: apostles, biblical ships, and sacred objects mapped onto the same stars. The plate follows the radical scheme of Julius Schiller's *Coelum Stellatum Christianum* (Augsburg, 1627), here drawn as a full engraved **hemisphere**.\n\n## Significance\nSchiller's project — and Cellarius's homage to it — sought to baptise the sky, expelling the heroes and beasts of the [[motif:zodiac|zodiac]] in favour of a Christian iconography. It is a vivid episode in the **reception** of classical astral imagery and the Counter-Reformation impulse to sanctify even the constellations; the experiment never displaced the traditional names.\n\n## For artists & game designers\nA 'reskinned night sky' concept made literal — useful for a faction that has rewritten the heavens in its own image.",
+   "citations": [
+    {"text": "Julius Schiller, *Coelum Stellatum Christianum* (Augsburg, 1627)."},
+    {"text": "Robert H. van Gent, *Andreas Cellarius: Harmonia Macrocosmica of 1660* (Taschen, 2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Coeli_Stellati_Christiani_Haemisphaerium_Prius.jpg"}
+   ],
+   "key_concepts": ["Christianised constellations", "Julius Schiller", "celestial reception", "Coelum Stellatum Christianum"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__bayer-orion",
+   "title": "Orion, from Bayer's *Uranometria*",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Johann Bayer (plates engraved by Alexander Mair)",
+   "date": "1603 (later impression)",
+   "place": "Augsburg",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["Orion", "hunter", "constellation figure", "Bayer designations", "star magnitudes", "lion skin", "club", "coordinate grid"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Constellation-_Orion,_Hunter_with_Lion_Skin._(IA_dr_constellation-orion-hunter-with-lion-skin-12181037).jpg",
+   "summary": "The constellation **Orion** as engraved for Johann Bayer's *Uranometria* (Augsburg, 1603), the first true star atlas to cover the whole celestial sphere.\n\n## Iconography\nThe **hunter** strides across the plate, club raised and a **lion skin** over his outstretched arm, his belt and sword marked by the bright stars. A fine **coordinate grid** is laid behind the figure, and each star is sized by **magnitude** and lettered with Bayer's Greek-letter **designations**.\n\n## Significance\nBayer's *Uranometria* fused beautiful figure-drawing with the new rigour of Tycho Brahe's star positions, and introduced the **Bayer designations** (α, β, γ…) still used today. Its constellation figures, derived from the classical [[motif:zodiac|catasterisms]], carried the mythological sky into the age of precise observation.\n\n## For artists & game designers\nA museum-grade constellation hero-figure with labelled stars — perfect for a star-lore codex or an astrology talent tree.",
+   "citations": [
+    {"text": "Johann Bayer, *Uranometria* (Augsburg, 1603)."},
+    {"text": "Deborah J. Warner, *The Sky Explored: Celestial Cartography 1500–1800* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Constellation-_Orion,_Hunter_with_Lion_Skin._(IA_dr_constellation-orion-hunter-with-lion-skin-12181037).jpg"}
+   ],
+   "key_concepts": ["Uranometria", "Orion", "Bayer designations", "constellation figures"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__bayer-andromeda",
+   "title": "Andromeda, from Bayer's *Uranometria*",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Johann Bayer (plates engraved by Alexander Mair)",
+   "date": "1603 (later impression)",
+   "place": "Augsburg",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["Andromeda", "chained woman", "constellation figure", "Bayer designations", "Perseus myth", "star magnitudes", "coordinate grid", "Alpheratz"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Constellation-_Andromeda,_Chained_Woman_or_Alpheratz_and_Sirrah._(IA_dr_constellation-andromeda-chained-woman-or-alpheratz-and-sirrah-12181022).jpg",
+   "summary": "The constellation **Andromeda** as figured in Bayer's *Uranometria* (1603), the 'chained woman' of Greek myth set among her stars.\n\n## Iconography\nAndromeda is drawn as a woman with her arms bound by **chains**, the brightest stars marking her head, girdle, and feet; the star at her head, **Alpheratz** (Sirrah), is shared with Pegasus. The figure floats over a ruled **coordinate grid** with the stars graded by **magnitude** and lettered with **Bayer designations**.\n\n## Significance\nAndromeda belongs to the great Perseus cycle of catasterised myths — Cepheus, Cassiopeia, Perseus, Cetus — that fill the northern autumn sky. Bayer's elegant plate carried these ancient [[motif:zodiac|star-myths]] into a precise, lettered atlas usable by astronomer and astrologer alike.\n\n## For artists & game designers\nThe bound-figure-as-constellation is striking concept art for a 'captive star' quest or a sky-myth bestiary.",
+   "citations": [
+    {"text": "Johann Bayer, *Uranometria* (Augsburg, 1603)."},
+    {"text": "Deborah J. Warner, *The Sky Explored: Celestial Cartography 1500–1800* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Constellation-_Andromeda,_Chained_Woman_or_Alpheratz_and_Sirrah._(IA_dr_constellation-andromeda-chained-woman-or-alpheratz-and-sirrah-12181022).jpg"}
+   ],
+   "key_concepts": ["Uranometria", "Andromeda", "Bayer designations", "constellation myth"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__bayer-scorpius",
+   "title": "Scorpius, from Bayer's *Uranometria*",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Johann Bayer (plates engraved by Alexander Mair)",
+   "date": "1603 (later impression)",
+   "place": "Augsburg",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["Scorpius", "scorpion", "zodiac sign", "constellation figure", "Bayer designations", "Antares", "star magnitudes", "ecliptic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Constellation-_Scorpius,_the_Scorpion._(IA_dr_constellation-scorpius-the-scorpion-12181031).jpg",
+   "summary": "**Scorpius**, the Scorpion, one of the twelve zodiacal constellations, as engraved for Bayer's *Uranometria* (1603).\n\n## Iconography\nThe **scorpion** sprawls across the plate, claws spread and tail curling to its sting; the red heart-star **Antares** glows at its body. The figure straddles the **ecliptic**, the stars graded by **magnitude** and lettered with Bayer's Greek **designations**.\n\n## Significance\nAs a **zodiac sign**, Scorpius is one of the twelve through which the Sun, Moon, and planets pass; in astrology it governs a swathe of correspondences and was held a fixed water sign. Bayer's plate shows the working machinery of the [[motif:zodiac|zodiac]] in atlas form — a sign that is also a precisely mapped patch of sky.\n\n## For artists & game designers\nA zodiac beast rendered with real star positions — equally usable as constellation art or as a Scorpio sign emblem.",
+   "citations": [
+    {"text": "Johann Bayer, *Uranometria* (Augsburg, 1603)."},
+    {"text": "Deborah J. Warner, *The Sky Explored: Celestial Cartography 1500–1800* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Constellation-_Scorpius,_the_Scorpion._(IA_dr_constellation-scorpius-the-scorpion-12181031).jpg"}
+   ],
+   "key_concepts": ["Uranometria", "Scorpius", "zodiac", "Bayer designations"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__bayer-draco",
+   "title": "Cetus, folio 34v of Bayer's *Uranometria*",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Johann Bayer (copperplate by Alexander Mair)",
+   "date": "1603",
+   "place": "Augsburg",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["Cetus", "sea monster", "whale", "constellation figure", "Perseus myth", "Bayer designations", "star magnitudes", "coordinate grid"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Uranometria_%E2%80%94_fol._34_v,_Cetus_%E2%80%94_1603.jpg",
+   "summary": "**Cetus**, the sea-monster, on folio 34v of Johann Bayer's *Uranometria* (Augsburg, 1603).\n\n## Iconography\nA scaly **sea monster** with gaping jaws and coiling body fills the plate, its stars marking snout, body, and tail. The figure lies over a ruled **coordinate grid**, with magnitudes shown by symbol size and **Bayer designations** lettering the principal stars.\n\n## Significance\nCetus is the beast sent to devour Andromeda in the Perseus myth, and its great sprawl of faint stars dominates the watery quarter of the autumn sky. Bayer's engraving (cut by Alexander Mair) is a characteristic page of the first whole-sky atlas, carrying a classical [[motif:zodiac|catasterism]] into a precisely lettered chart.\n\n## For artists & game designers\nA ready-made celestial sea-monster — drop-in concept art for a sky leviathan or a 'devourer constellation'.",
+   "citations": [
+    {"text": "Johann Bayer, *Uranometria* (Augsburg, 1603)."},
+    {"text": "Deborah J. Warner, *The Sky Explored: Celestial Cartography 1500–1800* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Uranometria_%E2%80%94_fol._34_v,_Cetus_%E2%80%94_1603.jpg"}
+   ],
+   "key_concepts": ["Uranometria", "Cetus", "constellation figures", "Bayer designations"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__bartsch-planisphere",
+   "title": "Cancer, Leo, and Gemini — Bartsch's *Planisphaerium*",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Jacob Bartsch",
+   "date": "c. 1624",
+   "place": "Strasbourg",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["zodiac signs", "Cancer", "Leo", "Gemini", "constellation figures", "planisphere", "ecliptic", "milky way"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cancer_Leo_Gemini_Bartschius.jpg",
+   "summary": "A constellation plate by **Jacob Bartsch** (Kepler's son-in-law) showing the zodiac figures of **Cancer**, **Leo**, and **Gemini**.\n\n## Iconography\nThree **zodiac signs** share the sheet: the crab of **Cancer**, the lion of **Leo**, and the twins of **Gemini**, each drawn as its living figure with the brighter stars marked. Neighbouring constellations and the band of the Milky Way thread between them along the **ecliptic**.\n\n## Significance\nBartsch's *Planisphaerium stellatum* and *Usus astronomicus* (1624) continued the tradition of figured star-maps and introduced several new constellations. As Johannes Kepler's son-in-law and editor, he stood at the meeting point of the new astronomy and an older [[motif:zodiac|astral]] iconography that astrology still relied on.\n\n## For artists & game designers\nThree zodiac emblems on one sheet — convenient reference art for a signs-of-summer set or a multi-sign UI.",
+   "citations": [
+    {"text": "Jacob Bartsch, *Usus astronomicus planisphaerii stellati* (Strasbourg, 1624)."},
+    {"text": "Deborah J. Warner, *The Sky Explored: Celestial Cartography 1500–1800* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cancer_Leo_Gemini_Bartschius.jpg"}
+   ],
+   "key_concepts": ["Jacob Bartsch", "zodiac", "planisphere", "constellation figures"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__hevelius-constellation",
+   "title": "Scutum (Sobieski's Shield), from Hevelius",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Johannes Hevelius",
+   "date": "1687 (Firmamentum Sobiescianum)",
+   "place": "Danzig (Gdańsk)",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["Scutum", "shield", "new constellation", "Sobieski", "constellation figure", "star map", "Hevelius", "patronage"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Scutum_Hevelius.jpg",
+   "summary": "**Scutum**, the Shield, one of the new constellations introduced by **Johannes Hevelius** in his *Firmamentum Sobiescianum* (Danzig, 1687).\n\n## Iconography\nA heraldic **shield** bearing a cross is set among a sparse field of stars — the arms of King Jan III Sobieski of Poland, Hevelius's patron, raised into the heavens. The figure is drawn in the firm engraved line characteristic of Hevelius's atlas.\n\n## Significance\nHevelius mapped the sky with naked-eye instruments to the end of the telescopic age, and invented several constellations that survive — Scutum, Lynx, Sextans, Vulpecula. Naming the **Shield** for Sobieski (victor of Vienna, 1683) shows how seventeenth-century patronage literally rewrote the constellations, a late chapter in the figured-sky tradition that fed [[motif:astrology|astrology]].\n\n## For artists & game designers\nA coat-of-arms set in the stars — a neat model for a faction sigil written into the night sky.",
+   "citations": [
+    {"text": "Johannes Hevelius, *Firmamentum Sobiescianum, sive Uranographia* (Danzig, 1687)."},
+    {"text": "Deborah J. Warner, *The Sky Explored: Celestial Cartography 1500–1800* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Scutum_Hevelius.jpg"}
+   ],
+   "key_concepts": ["Hevelius", "Scutum", "new constellations", "celestial patronage"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__hevelius-sextans",
+   "title": "Southern hemisphere, Hevelius's *Firmamentum Sobiescianum*",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Johannes Hevelius",
+   "date": "1687",
+   "place": "Danzig (Gdańsk)",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["southern hemisphere", "planisphere", "constellation figures", "external view", "Hevelius", "celestial globe", "zodiac", "star map"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum,_sive_uranographia%22_-_Tavola_Emisfero_Australe.jpg",
+   "summary": "The southern celestial hemisphere (*Emisfero Australe*) from **Johannes Hevelius**'s *Firmamentum Sobiescianum, sive Uranographia* (Danzig, 1687).\n\n## Iconography\nA full **planisphere** shows the constellation figures of the southern sky drawn, in Hevelius's manner, as if seen from *outside* the celestial sphere — so the figures face away from the viewer. Beasts, ships, and mythic forms crowd the disc along the band of the **zodiac** and the southern circles.\n\n## Significance\nHevelius's posthumous atlas (edited by his widow Elisabetha) was among the last great hand-figured star maps and the last major one drawn from naked-eye observation. Its 'external' convention links it to the celestial-globe tradition, and its mythic figures preserve the [[motif:zodiac|astral iconography]] on which astrology depended.\n\n## For artists & game designers\nAn 'inside-out' sky seen from the outside of the sphere — a fresh perspective for a celestial map or a god's-eye view.",
+   "citations": [
+    {"text": "Johannes Hevelius, *Firmamentum Sobiescianum, sive Uranographia* (Danzig, 1687)."},
+    {"text": "Deborah J. Warner, *The Sky Explored: Celestial Cartography 1500–1800* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum,_sive_uranographia%22_-_Tavola_Emisfero_Australe.jpg"}
+   ],
+   "key_concepts": ["Hevelius", "southern hemisphere", "celestial cartography", "Firmamentum Sobiescianum"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__durer-celestial",
+   "title": "*Imagines coeli septentrionales* — Dürer's northern star map",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Albrecht Dürer",
+   "date": "1515",
+   "place": "Nuremberg",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["northern hemisphere", "constellation figures", "zodiac", "woodcut", "Ptolemy", "celestial map", "corner astronomers", "external view"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Imagines_coeli_septentrionales_cum_duodecim_imaginibus_zodiaci_RMG_A8201.jpg",
+   "summary": "Albrecht Dürer's *Imagines coeli septentrionales* (Nuremberg, 1515), the northern sheet of the first printed European star charts.\n\n## Iconography\nA circular map of the **northern hemisphere** is filled with classical **constellation figures** and the twelve **zodiac** signs ringing the ecliptic, drawn in Dürer's confident woodcut line. Four famous **astronomers** of antiquity — including Ptolemy and Aratus — occupy the corners as authorities for the sky depicted.\n\n## Significance\nPlanned with the astronomers Johannes Stabius and Conrad Heinfogel, Dürer's pair of charts (north and south) translated Ptolemy's catalogue into a beautiful, reproducible image and set the visual standard for two centuries of [[motif:zodiac|figured star maps]] from Bayer to Hevelius. It marks the start of printed celestial cartography.\n\n## For artists & game designers\nThe foundational 'old star chart' look — corner sages and a figure-packed disc — endlessly reusable as a lore map.",
+   "citations": [
+    {"text": "Deborah J. Warner, *The Sky Explored: Celestial Cartography 1500–1800* (1979)."},
+    {"text": "Erwin Panofsky, *The Life and Art of Albrecht Dürer* (1943)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Imagines_coeli_septentrionales_cum_duodecim_imaginibus_zodiaci_RMG_A8201.jpg"}
+   ],
+   "key_concepts": ["Dürer", "printed star map", "northern hemisphere", "Ptolemy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "astrology_earlymodern__apian-volvelle",
+   "title": "Volvelle from Apianus's *Astronomicum Caesareum*",
+   "work": "Early-Modern Celestial Cartography & Astrology",
+   "creator": "Petrus Apianus (Peter Apian)",
+   "date": "1540",
+   "place": "Ingolstadt",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["volvelle", "paper instrument", "planetary motion", "zodiac dial", "rotating disc", "thread pointer", "computus", "hand-colouring"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Houghton_Typ_520.40.150_-_Astronomicum_Caesareum,_1540_-_f2r.jpg",
+   "summary": "A **volvelle** (rotating paper instrument) from Petrus Apianus's sumptuous *Astronomicum Caesareum* (Ingolstadt, 1540).\n\n## Iconography\nConcentric **rotating discs**, hand-coloured and threaded with silk **pointers**, are layered on the page to form a working calculator. Bands of the **zodiac**, planetary glyphs, and degree-scales are printed on the moving wheels so the user can read off a planet's position by turning the dials.\n\n## Significance\nApianus's book is the masterpiece of the **volvelle** form — dozens of movable paper computers that let a reader compute planetary longitudes, eclipses, and the data an [[motif:astrology|astrologer]] needed to cast a horoscope, without tables or an astrolabe. Made for the Emperor Charles V, it stands at the luxurious height of Renaissance astronomical-astrological print.\n\n## For artists & game designers\nThe layered, thread-and-disc 'analogue computer' is irresistible UI inspiration for a craftable star-calculating gadget.",
+   "citations": [
+    {"text": "Petrus Apianus, *Astronomicum Caesareum* (Ingolstadt, 1540)."},
+    {"text": "Owen Gingerich, 'Apianus's Astronomicum Caesareum and its Leipzig Facsimile,' *Journal for the History of Astronomy* 2 (1971)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Houghton_Typ_520.40.150_-_Astronomicum_Caesareum,_1540_-_f2r.jpg"}
+   ],
+   "key_concepts": ["volvelle", "Astronomicum Caesareum", "paper instruments", "planetary computation"],
+   "summary_status": "authored"
+  }
+ ]
+}

@@ -1,0 +1,577 @@
+{
+ "_work": {
+  "key": "cosmological_diagrams",
+  "short_id": "COSM",
+  "title": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+  "creator": "various",
+  "date": "7th–17th c.",
+  "century": 13,
+  "place": "Western Europe",
+  "region": "Europe",
+  "language": "Latin",
+  "era": "medieval",
+  "tradition": "hermetic",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "cosmological_diagrams",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Cosmological_diagrams",
+  "rights": "Public domain / CC BY-SA (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "microcosm-macrocosm",
+   "cosmic man",
+   "great chain of being",
+   "four elements",
+   "celestial spheres",
+   "rota"
+  ],
+  "blurb": "Cosmological and microcosm–macrocosm diagrams of the Latin Middle Ages and early modern period (7th–17th c.): Isidore's T-O and rotae, Byrhtferth's computistic wheel, Hildegard's cosmic man, the Liber Floridus and Hortus Deliciarum, Ramon Llull's combinatorial wheels and tree of knowledge, the Great Chain of Being, Apian's and Cellarius's geocentric spheres, and Fludd's macrocosm — visual arguments that the structure of the cosmos, the elements, and the human being mirror one another."
+ },
+ "entries": [
+  {
+   "id": "cosmological_diagrams__hildegard-cosmic-man",
+   "title": "The Cosmic Man, Hildegard of Bingen, *Liber Divinorum Operum*",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "Hildegard of Bingen (school of)",
+   "date": "early 13th c. copy (text c. 1163–1174)",
+   "place": "Rhineland (Germany)",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": [
+    "cosmic man",
+    "microcosm-macrocosm",
+    "concentric spheres",
+    "winds",
+    "elements",
+    "anthropos",
+    "divine love",
+    "wheel of the cosmos"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen_Liber_Divinorum_Operum.jpg",
+   "summary": "The cosmic-man vision opening Hildegard of Bingen's *Liber Divinorum Operum* (Book of Divine Works), in which a human figure is set at the centre of the wheeling universe.\n\n## Iconography\nA standing human figure stands with arms outstretched at the centre of a series of concentric rings — bands of fire, ether, air, and water studded with stars, planets, and the heads of the winds blowing from the cosmic circumference. Above and behind, a vast red figure (Caritas, divine Love) embraces the whole wheel. The body of the inner man is dimensioned to the cosmos: its limbs reach to the elemental zones.\n\n## Significance\nThe image is the classic medieval statement of [[motif:microcosm-macrocosm|microcosm and macrocosm]] — that the human being is a 'little world' whose proportions answer to the structure of the great one. Hildegard (1098–1179) frames it theologically: the cosmos and the body are bound together in God's love. The composition descends from late-antique and Carolingian cosmic diagrams and looks forward to the Renaissance Vitruvian and Fluddian cosmic men.\n\n## For artists & game designers\nA ready cosmology screen: concentric elemental rings with a player-figure at the hub, wind-heads marking the cardinal directions.",
+   "citations": [
+    {
+     "text": "Barbara Newman, *Sister of Wisdom: St. Hildegard's Theology of the Feminine* (1987)."
+    },
+    {
+     "text": "Hildegard of Bingen, *Liber Divinorum Operum*, ed. A. Derolez & P. Dronke (CCCM 92, 1996)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen_Liber_Divinorum_Operum.jpg"
+    }
+   ],
+   "key_concepts": [
+    "microcosm-macrocosm",
+    "cosmic man",
+    "Hildegard of Bingen",
+    "medieval cosmology"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmological_diagrams__byrhtferth-diagram",
+   "title": "Byrhtferth's Diagram (the harmony of the months, elements, and seasons)",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "Byrhtferth of Ramsey",
+   "date": "early 12th c. copy (composed c. 1011)",
+   "place": "England (Ramsey / Thorney tradition)",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": [
+    "four elements",
+    "four humours",
+    "cardinal points",
+    "solstices and equinoxes",
+    "rota",
+    "computus",
+    "tetrad",
+    "microcosm-macrocosm"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Medieval_four_elements.jpg",
+   "summary": "A version of Byrhtferth's diagram, the great computistic schema correlating the four elements, four cardinal directions, four seasons, solstices and equinoxes, ages of man, and the letters of Adam's name.\n\n## Iconography\nThe page is organized as nested lozenges and circles. At the centre stand the four elements — fire, air, water, earth — each tied to its qualities (hot, cold, moist, dry) and to a cardinal point, a season, a solstice or equinox, and a humour. The outer frame carries the twelve signs and the two solstice/equinox axes, binding the year and the world into one balanced tetradic figure.\n\n## Significance\nByrhtferth of Ramsey (fl. c. 986–1016) composed his *Enchiridion* as a teaching manual for computus, the reckoning of time. The diagram is the visual heart of that work: an argument that the same fourfold harmony — the doctrine of [[motif:four elements|the four elements]] and their qualities — governs the cosmos, the year, and the human body. It is among the earliest and most influential English microcosm–macrocosm figures.\n\n## For artists & game designers\nA self-contained elemental-correspondence wheel: four elements × qualities × seasons × directions, ideal for an alchemy or affinity system.",
+   "citations": [
+    {
+     "text": "Byrhtferth, *Enchiridion*, ed. Peter S. Baker & Michael Lapidge (EETS, 1995)."
+    },
+    {
+     "text": "Faith Wallis, 'Byrhtferth's Diagram,' in *Medieval Manuscripts and the Order of Knowledge*."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Medieval_four_elements.jpg"
+    }
+   ],
+   "key_concepts": [
+    "four elements",
+    "computus",
+    "Byrhtferth",
+    "microcosm-macrocosm"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmological_diagrams__isidore-to-map",
+   "title": "Diagrammatic T-O World Map (after Isidore of Seville)",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "after Isidore of Seville",
+   "date": "12th c.",
+   "place": "Western Europe",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": [
+    "t-o map",
+    "mappa mundi",
+    "rota",
+    "three continents",
+    "noah's sons",
+    "orbis terrarum",
+    "cardinal directions",
+    "schematic cosmology"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Diagrammatic_T-O_world_map_-_12th_century.jpg",
+   "summary": "A twelfth-century *T-O* world map of the type devised by Isidore of Seville, schematizing the inhabited earth as a wheel divided by a T into three continents.\n\n## Iconography\nA circle (the *O*, the encircling Ocean) is split by a *T* of water: the horizontal bar is the Don–Nile axis, the vertical stroke the Mediterranean. The three resulting fields are labelled **Asia** (the top half), **Europe**, and **Africa**, traditionally assigned to the three sons of Noah — Shem, Japheth, and Ham. East (Asia, the site of Paradise) is placed at the top.\n\n## Significance\nIsidore of Seville (c. 560–636) set out this diagram in his *Etymologiae* and *De natura rerum*; copied for a millennium, the [[motif:t-o map|T-O scheme]] is less a geography than a cosmological *rota* — a wheel-figure asserting that the world's structure is rational, tripartite, and divinely ordered. It belongs to the same diagrammatic family as the elemental and seasonal *rotae*.\n\n## For artists & game designers\nThe minimal, instantly legible 'three-realm wheel' makes an excellent stylized world map or faction emblem.",
+   "citations": [
+    {
+     "text": "Isidore of Seville, *Etymologiae*, Book XIV; *De natura rerum*."
+    },
+    {
+     "text": "Evelyn Edson, *Mapping Time and Space: How Medieval Mapmakers Viewed Their World* (1997)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Diagrammatic_T-O_world_map_-_12th_century.jpg"
+    }
+   ],
+   "key_concepts": [
+    "T-O map",
+    "Isidore of Seville",
+    "mappa mundi",
+    "rota"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmological_diagrams__liber-floridus-spheres",
+   "title": "Cosmological folio from Lambert's *Liber Floridus*",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "Lambert of Saint-Omer",
+   "date": "after 1120 (12th c. copy)",
+   "place": "Saint-Omer (Flanders)",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": [
+    "encyclopedia",
+    "celestial spheres",
+    "scribe",
+    "cosmology",
+    "rota",
+    "planets",
+    "computus",
+    "microcosm-macrocosm"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Liber_Floridus_Scribe.png",
+   "summary": "A folio from the *Liber Floridus* (Book of Flowers), the encyclopaedic compilation assembled by Lambert, canon of Saint-Omer, around 1120.\n\n## Iconography\nThe page shows the author-scribe at work amid the diagrammatic apparatus of his book — the circular figures, spheres, and *rotae* through which the *Liber Floridus* organizes the heavens, the elements, the winds, and the ages of the world. The manuscript is famous for its wheel-diagrams of the cosmos and its planetary and zodiacal schemes.\n\n## Significance\nLambert's *Liber Floridus* is one of the great medieval visual encyclopaedias, gathering Isidore, Bede, and apocalyptic and computistic lore into an interlocking set of diagrams. Its cosmological *rotae* — concentric rings of spheres, elements, and winds — transmit the [[motif:microcosm-macrocosm|microcosm–macrocosm]] worldview to the high Middle Ages and influenced later encyclopaedic illumination. The autograph survives at Ghent University Library.\n\n## For artists & game designers\nA model 'wizard's compendium' page: a scribe surrounded by the spinning diagrams of his own cosmology.",
+   "citations": [
+    {
+     "text": "Albert Derolez, *The Autograph Manuscript of the Liber Floridus* (1998)."
+    },
+    {
+     "text": "Lambert of Saint-Omer, *Liber Floridus* (Ghent UB MS 92)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Liber_Floridus_Scribe.png"
+    }
+   ],
+   "key_concepts": [
+    "Liber Floridus",
+    "medieval encyclopedia",
+    "celestial spheres",
+    "rota"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmological_diagrams__hortus-deliciarum",
+   "title": "Philosophy and the Seven Liberal Arts, *Hortus Deliciarum*",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "Herrad of Landsberg",
+   "date": "c. 1180 (reconstruction of destroyed original)",
+   "place": "Hohenburg Abbey, Alsace",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": [
+    "seven liberal arts",
+    "philosophia",
+    "wheel diagram",
+    "wisdom",
+    "personification",
+    "concentric circles",
+    "scala",
+    "knowledge"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hortus_Deliciarum,_Die_Philosophie_mit_den_sieben_freien_K%C3%BCnsten.JPG",
+   "summary": "The wheel of Philosophy and the Seven Liberal Arts from the *Hortus Deliciarum* (Garden of Delights), compiled by Herrad of Landsberg for the nuns of Hohenburg.\n\n## Iconography\nA crowned **Philosophia** is enthroned at the centre of a great circle, with the springs of wisdom issuing from her. Around her, in seven arched compartments, sit the personified liberal arts — Grammar, Rhetoric, Dialectic, Music, Arithmetic, Geometry, Astronomy — each with her tools. Socrates and Plato write below; poets and magicians, inspired by 'unclean spirits,' are cast outside the holy circle.\n\n## Significance\nThe diagram makes knowledge itself a *cosmos*: a concentric, hierarchical wheel descending from divine Wisdom through the ordered disciplines. Herrad (d. 1195) and her community built the *Hortus Deliciarum* as an encyclopaedic teaching manuscript; the twelfth-century original burned in 1870, but careful tracings preserve its imagery. It is a key witness to the medieval ordering of the [[motif:seven liberal arts|liberal arts]] as a structured whole.\n\n## For artists & game designers\nA radial skill-tree archetype: a central authority figure ringed by seven discipline 'classes,' each with iconographic kit.",
+   "citations": [
+    {
+     "text": "Rosalie Green et al., *Herrad of Hohenbourg: Hortus Deliciarum* (1979)."
+    },
+    {
+     "text": "Fiona Griffiths, *The Garden of Delights: Reform and Renaissance for Women in the Twelfth Century* (2007)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hortus_Deliciarum,_Die_Philosophie_mit_den_sieben_freien_K%C3%BCnsten.JPG"
+    }
+   ],
+   "key_concepts": [
+    "seven liberal arts",
+    "Hortus Deliciarum",
+    "Philosophia",
+    "wheel of knowledge"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmological_diagrams__llull-arbor",
+   "title": "*Arbor Scientiae* (Tree of Knowledge), Ramon Llull",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "after Ramon Llull",
+   "date": "early-modern print (text 1295–1296)",
+   "place": "Crown of Aragon / Europe",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "tree of knowledge",
+    "arbor scientiae",
+    "llullian art",
+    "roots and branches",
+    "ordered cosmos",
+    "combinatorics",
+    "sciences",
+    "hierarchy"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Arbor-scientiae.png",
+   "summary": "The *Arbor Scientiae* (Tree of Knowledge / Tree of Science), Ramon Llull's vast botanical diagram of all the sciences, in an early-printed form.\n\n## Iconography\nA single tree carries the whole of knowledge: its roots are labelled with the nine 'divine dignities' and Llullian principles (goodness, greatness, eternity, power, wisdom…); its successive trunks and branches grow into the trees of the elements, the vegetal, the sensual, the imaginal, the human, the moral, the celestial, the angelic, the eternal, and the divine. Each level bears its leaves, flowers, and fruits of sub-topics.\n\n## Significance\nRamon Llull (c. 1232–1316) devised the *Arbor Scientiae* (1295–96) as a more accessible presentation of his *Ars* — a combinatorial, encyclopaedic system meant to derive all truths from a few divine attributes. The tree is at once a cosmology and an epistemology: the ladder of being (elemental → angelic → divine) doubles as the ladder of the sciences. Llull's diagrams shaped later Renaissance combinatorics and the art of memory.\n\n## For artists & game designers\nA literal tech/knowledge tree, rooted in 'principles' and branching into tiers of being — directly mappable to a skill or research system.",
+   "citations": [
+    {
+     "text": "Ramon Llull, *Arbor Scientiae* (1295–96)."
+    },
+    {
+     "text": "Anthony Bonner, *The Art and Logic of Ramon Llull: A User's Guide* (2007)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Arbor-scientiae.png"
+    }
+   ],
+   "key_concepts": [
+    "Ramon Llull",
+    "Arbor Scientiae",
+    "tree of knowledge",
+    "ladder of being"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmological_diagrams__llull-ars-magna",
+   "title": "Llullian Combinatorial Wheel (figure of the *Ars Magna*)",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "modern recreation after Ramon Llull",
+   "date": "modern recreation (system 13th–14th c.)",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "combinatorial wheel",
+    "volvelle",
+    "llullian art",
+    "ars magna",
+    "rotating circles",
+    "divine dignities",
+    "letters",
+    "combinatorics"
+   ],
+   "rights": "CC BY-SA 4.0 (Lliurepensactua). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ars_Magna_de_Ram%C3%B3n_Llull.png",
+   "summary": "A clean modern recreation of one of the rotating combinatorial figures of Ramon Llull's *Ars Magna* (Great Art), the volvelle-wheel that generates combinations of fundamental principles.\n\n## Iconography\nConcentric lettered circles (the letters B–K standing for the divine dignities and relational principles) can be rotated against one another so that every term is paired with every other. The diagram is a working device: by turning the inner wheel one reads off all the binary (and higher) combinations of Llull's basic concepts.\n\n## Significance\nLlull's *Ars* (from c. 1274; the *Ars Magna* / *Ars Generalis Ultima*, 1305–08) sought a universal method for demonstrating truths by mechanically combining a small alphabet of principles. Its [[motif:volvelle|rotating wheels]] are ancestors of the art of memory, of Bruno's and Kircher's combinatorial schemes, and — by a celebrated line through Leibniz — of formal logic and computation. This image is a present-day redrawing (CC BY-SA), not a historical manuscript.\n\n## For artists & game designers\nA functioning crafting/spell-combination dial: rotate lettered rings to enumerate every pairing of base 'principles.'",
+   "citations": [
+    {
+     "text": "Ramon Llull, *Ars Generalis Ultima* (1305–08)."
+    },
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966), ch. on Lull."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Ars_Magna_de_Ram%C3%B3n_Llull.png"
+    }
+   ],
+   "key_concepts": [
+    "Llullian Art",
+    "Ars Magna",
+    "combinatorics",
+    "volvelle"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmological_diagrams__great-chain-being",
+   "title": "The Great Chain of Being (*scala naturae*), Diego Valadés",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "Diego Valadés (Didacus Valades)",
+   "date": "1579",
+   "place": "Perugia (printed) / New Spain",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "great chain of being",
+    "scala naturae",
+    "ladder of creation",
+    "hierarchy",
+    "god angels man",
+    "animals plants minerals",
+    "cosmic order",
+    "degrees"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Great_Chain_of_Being_2.png",
+   "summary": "A *scala naturae* or Great Chain of Being from Diego Valadés's *Rhetorica Christiana* (1579), arranging all creation as a graded ladder.\n\n## Iconography\nA vertical ladder or chain ascends from inanimate matter at the foot — minerals and the elements — upward through plants, animals, and humankind, then through the angelic orders, to God at the summit. Each rung is a degree of being and perfection; the whole is a single continuous hierarchy from the basest body to the divine.\n\n## Significance\nThe Great Chain of Being is one of the most durable structures of Western cosmology: the idea, traced by A. O. Lovejoy, that the universe is a full, continuous, and graded hierarchy of forms. Rooted in Plato and Aristotle and elaborated by Neoplatonism and scholasticism, it dominated medieval and Renaissance thought about [[motif:hierarchy|cosmic order]]. Valadés, a Franciscan of mixed Spanish-Indigenous descent, printed this influential version to teach the order of creation.\n\n## For artists & game designers\nA literal vertical hierarchy of being — usable as a progression ladder, a moral alignment axis, or a cosmology of tiers.",
+   "citations": [
+    {
+     "text": "Arthur O. Lovejoy, *The Great Chain of Being* (1936)."
+    },
+    {
+     "text": "Diego Valadés, *Rhetorica Christiana* (Perugia, 1579)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Great_Chain_of_Being_2.png"
+    }
+   ],
+   "key_concepts": [
+    "Great Chain of Being",
+    "scala naturae",
+    "cosmic hierarchy",
+    "Diego Valadés"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmological_diagrams__apian-cosmographia",
+   "title": "Geocentric Universe of the Spheres, Apian's *Cosmographia*",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "Petrus Apianus (Peter Apian)",
+   "date": "1524 (and later eds.)",
+   "place": "Ingolstadt / Antwerp",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "geocentric universe",
+    "celestial spheres",
+    "ptolemaic system",
+    "concentric circles",
+    "empyrean",
+    "primum mobile",
+    "zodiac",
+    "elements"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Apian%E2%80%99s_Cosmographia_04.jpg",
+   "summary": "A diagram of the geocentric cosmos from Peter Apian's *Cosmographia*, the immensely popular Renaissance handbook of astronomy and geography.\n\n## Iconography\nThe earth, with its concentric shells of water, air, and fire, sits at the centre. Around it run the spheres of the seven planets (Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn), then the sphere of the fixed stars marked with the zodiac, the crystalline heavens, the *primum mobile*, and the outermost **Empyrean** of God and the elect.\n\n## Significance\nApian's *Cosmographia* (first ed. 1524), later revised by Gemma Frisius, codified the Ptolemaic [[motif:celestial spheres|sphere model]] for generations of students and was famous for its movable paper *volvelles*. The nested-spheres image is the standard Renaissance picture of the universe just before the Copernican turn — a finite, ordered, God-crowned cosmos.\n\n## For artists & game designers\nThe canonical 'orrery of nested spheres' — a clean template for a star-map UI or a layered cosmology screen.",
+   "citations": [
+    {
+     "text": "Peter Apian, *Cosmographia* (1524; rev. Gemma Frisius)."
+    },
+    {
+     "text": "S. K. Heninger, *The Cosmographical Glass: Renaissance Diagrams of the Universe* (1977)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Apian%E2%80%99s_Cosmographia_04.jpg"
+    }
+   ],
+   "key_concepts": [
+    "geocentric universe",
+    "celestial spheres",
+    "Peter Apian",
+    "Ptolemaic cosmos"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmological_diagrams__apian-volvelle",
+   "title": "Cover and volvelle apparatus, Apian's *Cosmographia* (Cosmograph.)",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "Petrus Apianus & Gemma Frisius",
+   "date": "16th c.",
+   "place": "Antwerp / Paris (Vivant Gaultherot)",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "volvelle",
+    "cosmography",
+    "title page",
+    "astronomical instrument",
+    "rotating disc",
+    "spheres",
+    "computation",
+    "printed diagram"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Covers_to)_Apiani._Cosmograph._(2_(IA_dr_covers-to-apiani-cosmograph-2-14336002).jpg",
+   "summary": "A page from an edition of Apian's *Cosmographia* (here in the Latin *Cosmograph.*, with Gemma Frisius), the cosmographic handbook celebrated for its working paper instruments.\n\n## Iconography\nThe leaf presents the cosmographic apparatus of the book — its framed title and the rotating-disc *volvelles* by which the reader computes positions of sun, moon, and stars, finds latitudes, and tells time. The printed circles are designed to be cut and pinned so the diagram becomes a literal calculating machine.\n\n## Significance\nThe [[motif:volvelle|volvelle]] — a paper instrument of nested rotating discs — was a Renaissance speciality, and Apian's *Cosmographia* is its most famous showcase. These movable diagrams turn cosmology into computation, embodying the period's conviction that the heavens are governed by a knowable, calculable order. Gemma Frisius's revisions made the work a European standard for decades.\n\n## For artists & game designers\nA paper-machine aesthetic: pinned rotating dials that turn a static diagram into an interactive astronomical computer.",
+   "citations": [
+    {
+     "text": "Peter Apian, *Cosmographia*, rev. Gemma Frisius (16th c.)."
+    },
+    {
+     "text": "Suzanne Karr Schmidt, *Interactive and Sculptural Printmaking in the Renaissance* (2017)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Covers_to)_Apiani._Cosmograph._(2_(IA_dr_covers-to-apiani-cosmograph-2-14336002).jpg"
+    }
+   ],
+   "key_concepts": [
+    "volvelle",
+    "cosmography",
+    "Gemma Frisius",
+    "astronomical instrument"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmological_diagrams__cellarius-ptolemaic",
+   "title": "The Ptolemaic System, Cellarius *Harmonia Macrocosmica*",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "Andreas Cellarius (engr. Jan van Loon)",
+   "date": "1660–1661",
+   "place": "Amsterdam",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": [
+    "ptolemaic system",
+    "geocentric universe",
+    "celestial spheres",
+    "zodiac",
+    "baroque cartography",
+    "planets",
+    "putti",
+    "harmony of cosmos"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cellarius_ptolemaic_system.jpg",
+   "summary": "The plate of the Ptolemaic (geocentric) system from Andreas Cellarius's *Harmonia Macrocosmica* (1660), the most lavish celestial atlas of the baroque age.\n\n## Iconography\nA central earth is encircled by the spheres of the Moon, the planets, and the Sun, ringed by the band of the **zodiac** and the firmament, all rendered in vivid colour and hung about with putti, astronomers, and decorative cartouches. The scheme is the classical Ptolemaic order of nested heavens, presented as a single harmonious machine.\n\n## Significance\nCellarius's atlas displays the competing world-systems of the seventeenth century — Ptolemaic, Copernican, and Tychonic — as grand allegorical plates. The geocentric plate preserves the ancient picture of [[motif:celestial spheres|concentric heavens]] even as the Copernican revolution was overtaking it; the very title, *Harmonia Macrocosmica*, asserts the old conviction that the macrocosm is an ordered harmony. Engraved by Jan van Loon, published by Johannes Janssonius.\n\n## For artists & game designers\nA richly ornamented cosmology poster — the gold standard for a 'baroque star atlas' visual treatment.",
+   "citations": [
+    {
+     "text": "Andreas Cellarius, *Harmonia Macrocosmica* (Amsterdam, 1660–61)."
+    },
+    {
+     "text": "Robert van Gent, *The Celestial Atlas of Andreas Cellarius* (2006)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Cellarius_ptolemaic_system.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Ptolemaic system",
+    "Harmonia Macrocosmica",
+    "celestial atlas",
+    "Andreas Cellarius"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmological_diagrams__fludd-macrocosm",
+   "title": "*Anima Mundi* / Integrae Naturae, Robert Fludd's macrocosm",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "Robert Fludd",
+   "date": "1617",
+   "place": "Oppenheim (printed by de Bry)",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "anima mundi",
+    "macrocosm",
+    "world soul",
+    "chain of being",
+    "ape of nature",
+    "spheres",
+    "god's hand",
+    "microcosm-macrocosm"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Anima_Mundi_(by_Robert_Fludd,_Utriusque_Cosmi_Historia,_1617).png",
+   "summary": "The famous *Integrae Naturae Speculum* / *Anima Mundi* engraving from Robert Fludd's *Utriusque Cosmi Historia* (1617), depicting the whole macrocosm as a chained order under God.\n\n## Iconography\nA naked female figure — **Natura**, the world-soul — stands upon the elemental and mineral earth, her head among the stars; one hand is chained to the cloud-borne hand of God above, the other holds a chain leading down to an ape (*ars*, art/the human) seated upon the globe. Concentric bands rise from minerals, plants, and animals through the planetary spheres and the angelic hierarchies to the divine name at the summit.\n\n## Significance\nFludd (1574–1637), the great English Paracelsian and Rosicrucian apologist, makes this the frontispiece-statement of his system: nature is God's intermediary, art is the 'ape of nature,' and the cosmos is a single chained continuum from matter to deity — a Hermetic fusion of the [[motif:great chain of being|Great Chain]] with the [[motif:anima mundi|world-soul]]. It is among the most reproduced of all esoteric cosmological images.\n\n## For artists & game designers\nA vertical 'world-soul' axis linking God, Nature, and human Art by literal chains — a striking cosmology splash or progression spine.",
+   "citations": [
+    {
+     "text": "Robert Fludd, *Utriusque Cosmi … Historia* (Oppenheim, 1617–21)."
+    },
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd: Hermetic Philosopher and Surveyor of Two Worlds* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Anima_Mundi_(by_Robert_Fludd,_Utriusque_Cosmi_Historia,_1617).png"
+    }
+   ],
+   "key_concepts": [
+    "Robert Fludd",
+    "anima mundi",
+    "macrocosm",
+    "Great Chain of Being"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "cosmological_diagrams__sacrobosco-sphaera",
+   "title": "Schematic of the Ptolemaic Geocentric System",
+   "work": "Esoteric Cosmological & Microcosm–Macrocosm Diagrams",
+   "creator": "Anonymous (modern schematic)",
+   "date": "modern schematic (system 2nd c. CE)",
+   "place": "—",
+   "era": "modern",
+   "tradition": "astrology",
+   "motifs": [
+    "ptolemaic system",
+    "geocentric universe",
+    "celestial spheres",
+    "planetary order",
+    "zodiac",
+    "concentric circles",
+    "almagest",
+    "fixed stars"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ptolemaicsystem-small.png",
+   "summary": "A simplified labelled schematic of the Ptolemaic geocentric system, showing the canonical order of the planetary spheres around a central earth.\n\n## Iconography\nConcentric rings radiate from the central earth outward through the spheres of the Moon, Mercury, Venus, Sun, Mars, Jupiter, and Saturn, to the sphere of the fixed stars (the zodiac) and the *primum mobile*. The diagram strips the cosmos to its bare geometric structure — the nested-spheres order codified in Ptolemy's *Almagest*.\n\n## Significance\nThe geocentric model of [[motif:celestial spheres|concentric heavens]] set out by Claudius Ptolemy (2nd c. CE) governed Western and Islamic astronomy for some 1,400 years and underlay all medieval and Renaissance cosmological diagrams in this collection. This clean modern redrawing makes the planetary ordering — the backbone of astrological correspondence — immediately legible; it is a present-day schematic, not a historical print.\n\n## For artists & game designers\nThe minimal reference diagram of planetary order — handy as a base layer for any astrological or cosmological UI.",
+   "citations": [
+    {
+     "text": "Claudius Ptolemy, *Almagest* (2nd c. CE)."
+    },
+    {
+     "text": "Olaf Pedersen, *A Survey of the Almagest* (1974)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Ptolemaicsystem-small.png"
+    }
+   ],
+   "key_concepts": [
+    "Ptolemaic system",
+    "geocentric universe",
+    "celestial spheres",
+    "planetary order"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

@@ -1,0 +1,414 @@
+{
+ "_work": {
+   "key": "jewish_mysticism",
+   "short_id": "JMYS",
+   "title": "Kabbalah & Jewish Magic",
+   "creator": "various",
+   "date": "13th–19th c.",
+   "century": 16,
+   "place": "Europe and the Near East",
+   "region": "Europe",
+   "language": "Hebrew",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "jewish_mysticism",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Kabbalah",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["sefirot", "tree of life", "divine names", "hebrew letters", "amulet", "merkabah"],
+   "blurb": "Diagrams, books, amulets, and reception images from the Jewish mystical and magical tradition and its Christian-Kabbalah afterlife — Sefirotic Trees of Life (Gikatilla, Ricius, Fludd, Knorr von Rosenroth), the divine-names magic of the Sefer Raziel, shiviti and mizrah devotional plates, the High Priest's breastplate, the Merkabah of Ezekiel's chariot, and the Golem and Lilith of legend, spanning the medieval Kabbalah through its early-modern print culture."
+ },
+ "entries": [
+  {
+   "id": "jewish_mysticism__portae-lucis-frontispiece",
+   "title": "Frontispiece of *Portae Lucis* (Gates of Light)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Joseph Gikatilla; Latin trans. Paulus Ricius; woodcut after Leonhard Beck",
+   "date": "1516 (Augsburg printing)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["tree of life", "sefirot", "ten emanations", "divine names", "sage holding tree", "hebrew letters", "concentric spheres", "christian kabbalah"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Portae_Lucis_1516.jpg",
+   "summary": "The woodcut frontispiece of *Portae Lucis* (1516), Paulus Ricius's Latin translation of Joseph Gikatilla's *Sha'arei Orah* — the image that fixed the now-canonical 'Tree of Life' arrangement of the sefirot in the European imagination.\n\n## Iconography\nA bearded sage holds a tree formed of ten labelled spheres — the [[motif:sefirot|sefirot]] — linked by paths and crowned by *Keter*. Each sphere carries a Hebrew divine name and attribute, descending from the hidden crown through wisdom and understanding to the kingdom (*Malkhut*) at the base. The figure presents the diagram as a map of the godhead's self-revelation.\n\n## Significance\nGikatilla's *Sha'arei Orah* (late 13th c.) is the great systematic treatise on the divine names attached to each sefirah. Ricius's 1516 Latin version made it a foundational text of Christian Kabbalah, and this woodcut — not any medieval Jewish source — is the direct ancestor of the schematic Tree of Life used by every later occultist. Gershom Scholem and Moshe Idel are the standard guides to the underlying Kabbalah.\n\n## For artists & game designers\nThe master 'skill-tree' diagram: ten labelled nodes joined by paths, instantly legible as a system of progressive emanation or attribute-unlocks.",
+   "citations": [
+    {"text": "Joseph Gikatilla, *Sha'arei Orah*; Latin *Portae Lucis*, trans. Paulus Ricius (Augsburg, 1516)."},
+    {"text": "Gershom Scholem, *Major Trends in Jewish Mysticism* (1941)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Portae_Lucis_1516.jpg"}
+   ],
+   "key_concepts": ["sefirot", "Tree of Life", "Sha'arei Orah", "Christian Kabbalah"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__ricius-sefirot",
+   "title": "The Sefirot (Paulus Ricius diagram)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Paulus Ricius (Paulus Israelita)",
+   "date": "Early 16th c.",
+   "place": "German lands / Italy",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "tree of life", "ten emanations", "divine names", "hebrew letters", "concentric structure", "christian kabbalah", "emanation"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sefirot_(Paulus_Ricius).jpg",
+   "summary": "A diagram of the ten sefirot associated with Paulus Ricius, the converted Jewish physician and Hebraist whose Latin translations carried Kabbalah into Christian learning.\n\n## Iconography\nThe ten [[motif:sefirot|sefirot]] are set out as a branching scheme of named spheres, each glossed with its Hebrew title and divine attribute, joined by connective paths that trace the flow of emanation from the infinite down into the created world.\n\n## Significance\nRicius (d. 1541), physician to Emperor Maximilian I, was among the most important transmitters of Kabbalah to Christian Europe; his *Portae Lucis* and *De arte cabalistica* dialogues gave Reuchlin, Agrippa, and later Christian Hebraists their working vocabulary of the sefirot. Diagrams in his orbit standardized the ordered list of emanations later absorbed into Renaissance occult philosophy. (Attribution and exact source edition should be confirmed against the Commons file page.)\n\n## For artists & game designers\nA clean alternate Tree layout — useful when you want the ten-node emanation system in a more austere, scholarly register.",
+   "citations": [
+    {"text": "Paulus Ricius, *Portae Lucis* (1516); *De arte cabalistica*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sefirot_(Paulus_Ricius).jpg"}
+   ],
+   "key_concepts": ["sefirot", "Paulus Ricius", "Christian Kabbalah", "emanation"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__fludd-sephiroth",
+   "title": "The Sefirot (Robert Fludd)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Robert Fludd",
+   "date": "Early 17th c. (1574–1637)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "tree of life", "en soph", "divine names", "emanation", "concentric spheres", "christian kabbalah", "cosmology"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sefirot_(Robert_Fludd).jpg",
+   "summary": "Robert Fludd's engraved diagram of the sefirot, integrating the Kabbalistic Tree into his vast Christian-Hermetic cosmology of the two worlds.\n\n## Iconography\nThe ten [[motif:sefirot|sefirot]] are arranged with their Hebrew names as a descending order of emanation from *Ein Sof* (the Infinite), often drawn as a flaming or radiant source above, down through the named powers to the material world. Fludd surrounds the scheme with Latin glosses tying each emanation to cosmological and theological correspondences.\n\n## Significance\nFludd (1574–1637), the English Paracelsian physician and defender of the Rosicrucians, folded Kabbalah into the macrocosm-microcosm system of his *Utriusque Cosmi Historia* (1617–21). His sefirotic diagrams exemplify how 17th-century Christian Kabbalah read the Tree as a universal cosmogony rather than a specifically Jewish theology. Frances Yates and Joscelyn Godwin survey Fludd's project.\n\n## For artists & game designers\nA richly engraved 'cosmic ladder' — pair the ten emanations with descending planes or realms for a vertical world-map.",
+   "citations": [
+    {"text": "Robert Fludd, *Utriusque Cosmi … Historia* (Oppenheim, 1617–21)."},
+    {"text": "Joscelyn Godwin, *Robert Fludd* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sefirot_(Robert_Fludd).jpg"}
+   ],
+   "key_concepts": ["sefirot", "Ein Sof", "Robert Fludd", "Christian Kabbalah"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__kabbala-denudata",
+   "title": "Plate from *Kabbala Denudata* (Knorr von Rosenroth)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Christian Knorr von Rosenroth",
+   "date": "1677–1684",
+   "place": "Sulzbach, German lands",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "tree of life", "partzufim", "lurianic kabbalah", "divine names", "hebrew letters", "engraved diagram", "christian kabbalah"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Christian_Knorr_von_Rosenroth,_Kabbala_denudata._Wellcome_L0004136.jpg",
+   "summary": "An engraved plate from the *Kabbala Denudata* (Kabbalah Unveiled, 1677–84), Christian Knorr von Rosenroth's monumental Latin anthology of Kabbalistic — especially Lurianic — texts.\n\n## Iconography\nThe plate diagrams the structure of the divine worlds: the [[motif:sefirot|sefirot]] and their groupings into the *partzufim* (configured 'faces' or personae of the godhead), labelled in Hebrew and Latin, mapping the Lurianic account of how the broken vessels are repaired and the divine countenance reconstituted.\n\n## Significance\nKnorr von Rosenroth (1636–1689) compiled the *Kabbala Denudata* at Sulzbach with the help of Francis Mercury van Helmont, translating the *Zohar* and Lurianic treatises of Isaac Luria and Hayyim Vital for a Christian readership. It was the single most influential channel of Jewish Kabbalah into early-modern Europe and, via 19th-century occultists, into the modern Western tradition. Allison Coudert's studies are standard.\n\n## For artists & game designers\nThe 'advanced tech-tree' version of the Tree: nested faces and worlds, ideal for a layered cosmology where each tier reveals a deeper structure.",
+   "citations": [
+    {"text": "Christian Knorr von Rosenroth, *Kabbala Denudata* (Sulzbach/Frankfurt, 1677–84)."},
+    {"text": "Allison P. Coudert, *The Impact of the Kabbalah in the Seventeenth Century* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Christian_Knorr_von_Rosenroth,_Kabbala_denudata._Wellcome_L0004136.jpg"}
+   ],
+   "key_concepts": ["Kabbala Denudata", "Lurianic Kabbalah", "partzufim", "Christian Kabbalah"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__denudata-sefirot",
+   "title": "Sefirot diagram from *Kabbala Denudata*",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Christian Knorr von Rosenroth",
+   "date": "1677–1684",
+   "place": "Sulzbach, German lands",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "tree of life", "divine names", "hebrew letters", "emanation", "engraved diagram", "lurianic kabbalah", "christian kabbalah"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kabbala_denudata_sefirot.jpg",
+   "summary": "A sefirot diagram from Knorr von Rosenroth's *Kabbala Denudata*, presenting the ten emanations as a vertical Tree of divine attributes.\n\n## Iconography\nThe ten [[motif:sefirot|sefirot]] descend in the familiar three-column arrangement — the pillars of mercy, severity, and the middle balance — each sphere labelled with its Hebrew name and joined to its neighbours by the twenty-two connective paths. The whole reads as a single articulated body of the divine emanations.\n\n## Significance\nThis plainer Tree-diagram from the *Kabbala Denudata* shows the schematic form in which Lurianic and Zoharic teaching reached Christian Europe. The three-pillar layout it transmits became the standard template for the Hermetic Order of the Golden Dawn and virtually all later Western occult Kabbalah. Gershom Scholem traces the historical Kabbalah behind such schemata.\n\n## For artists & game designers\nThe textbook three-pillar Tree — left/right/centre columns map neatly onto a balance of opposed forces with a reconciling middle path.",
+   "citations": [
+    {"text": "Christian Knorr von Rosenroth, *Kabbala Denudata* (1677–84)."},
+    {"text": "Gershom Scholem, *Kabbalah* (1974)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kabbala_denudata_sefirot.jpg"}
+   ],
+   "key_concepts": ["sefirot", "three pillars", "Kabbala Denudata", "Tree of Life"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__sephiroth-ain-soph",
+   "title": "Table of the Sephiroth and *Ain Soph* the Limitless One",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Anonymous (occult-revival compiler)",
+   "date": "19th c.",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "ain soph", "tree of life", "divine names", "correspondences", "hebrew letters", "occult revival", "emanation"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Table_showing_The_Sephiroth,_Ain_Soph_the_Limitless_One._Wellcome_L0038199.jpg",
+   "summary": "A 19th-century table laying out the sefirot and the unmanifest *Ain Soph* (the Limitless), the kind of correspondence-chart that defined occult-revival Kabbalah.\n\n## Iconography\nThe sheet tabulates the ten [[motif:sefirot|sefirot]] beneath *Ain Soph*, the boundless source above all emanation, listing for each sphere its Hebrew name, divine name, archangel, planetary or elemental correspondence, and attribute — a full grid of associations rather than a pictorial Tree.\n\n## Significance\nSuch tables crystallize the synthesis worked by the 19th-century occult revival, which drew the historical Kabbalah of the *Zohar* and Luria through Knorr von Rosenroth and recast it as a system of universal correspondences. The Hermetic Order of the Golden Dawn made these grids the backbone of their initiatory grade system and of modern ceremonial magic.\n\n## For artists & game designers\nA ready-made correspondence table — every node already keyed to a name, planet, and colour, perfect for a tightly-linked magic system.",
+   "citations": [
+    {"text": "Israel Regardie, *The Golden Dawn* (1937–40), on the sephirotic correspondences."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Table_showing_The_Sephiroth,_Ain_Soph_the_Limitless_One._Wellcome_L0038199.jpg"}
+   ],
+   "key_concepts": ["sefirot", "Ain Soph", "correspondences", "occult revival"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__72-names",
+   "title": "Diagram of the Names of God (Kircher)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Athanasius Kircher",
+   "date": "Mid-17th c.",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["divine names", "tetragrammaton", "shem hamephorash", "hebrew letters", "circular diagram", "christian kabbalah", "name magic", "radiant center"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kircher-Diagram_of_the_names_of_God.png",
+   "summary": "Athanasius Kircher's circular diagram of the divine names, radiating the Hebrew names and epithets of God outward from the Tetragrammaton.\n\n## Iconography\nA radiant centre holds the [[motif:tetragrammaton|Tetragrammaton]] (YHWH); around it concentric bands and spokes distribute the many Hebrew names and attributes of God, arranged so that the seventy-two-fold and other name-systems fan out from the single ineffable Name like rays from a sun.\n\n## Significance\nKircher (1602–1680), the Jesuit polymath, devoted parts of his *Oedipus Aegyptiacus* (1652–54) to Kabbalah, reading the divine names as a key linking Hebrew wisdom to a supposed universal Egyptian theology. His name-diagrams transmitted the Kabbalistic doctrine of the *Shem ha-Mephorash* — the explicit seventy-two-letter Name — to a wide learned audience as a centerpiece of Christian Kabbalah.\n\n## For artists & game designers\nA solar 'name-wheel' UI: a single sacred word at the hub spawning rays of lesser names, each a selectable invocation.",
+   "citations": [
+    {"text": "Athanasius Kircher, *Oedipus Aegyptiacus* (Rome, 1652–54)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kircher-Diagram_of_the_names_of_God.png"}
+   ],
+   "key_concepts": ["divine names", "Tetragrammaton", "Shem ha-Mephorash", "Athanasius Kircher"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__sefer-raziel-sigils",
+   "title": "Magical seals from the *Sefer Raziel HaMalakh* (1701)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Anonymous (attributed to the angel Raziel)",
+   "date": "Amsterdam, 1701",
+   "place": "Amsterdam (printed); Jewish tradition",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["magic seals", "divine names", "angel names", "hebrew letters", "amulet", "protective magic", "sigils", "practical kabbalah"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sefer_Raziel_1701_Sigils.png",
+   "summary": "A page of magical seals and sigils from the 1701 Amsterdam printing of the *Sefer Raziel HaMalakh* (Book of Raziel the Angel), the great compendium of practical Kabbalah.\n\n## Iconography\nThe page sets out rows of [[motif:magic seals|seals]] — circles, grids, and looped *characteres* filled with Hebrew divine and angelic names — each keyed to a specific protective or curative purpose: guarding the home, easing childbirth, warding off the evil eye. They were meant to be copied onto parchment and worn or hung as amulets.\n\n## Significance\nAttributed to the angel Raziel who supposedly gave the book to Adam, the *Sefer Raziel* gathers older Hekhalot and magical material; its 1701 Amsterdam printing made it a hugely popular protective object — owning the book itself was believed to ward off fire and harm. It is the principal Hebrew source behind the Latin *Liber Razielis*. Joshua Trachtenberg's *Jewish Magic and Superstition* is the classic study.\n\n## For artists & game designers\nA sheet of distinct, purpose-tagged seals — each one a craftable amulet whose engraved glyph determines its protective effect.",
+   "citations": [
+    {"text": "*Sefer Raziel HaMalakh* (Amsterdam, 1701)."},
+    {"text": "Joshua Trachtenberg, *Jewish Magic and Superstition* (1939)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sefer_Raziel_1701_Sigils.png"}
+   ],
+   "key_concepts": ["Sefer Raziel", "practical Kabbalah", "magical seals", "amulets"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__raziel-segulot",
+   "title": "*Segulot* (charms) from the *Sefer Raziel*",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Anonymous (Sefer Raziel tradition)",
+   "date": "Early-modern printing",
+   "place": "Jewish tradition (Europe)",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["segulot", "charms", "divine names", "hebrew letters", "amulet", "protective magic", "magic squares", "practical kabbalah"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sefer_raziel_segulot.png",
+   "summary": "A page of *segulot* — practical charms and remedies — from the *Sefer Raziel HaMalakh*, showing the everyday magic side of the Kabbalistic tradition.\n\n## Iconography\nThe leaf combines Hebrew instructions with small magical figures: grids of letters, name-squares, and seals prescribed as [[motif:segulot|segulot]] for concrete ends — healing, protection in childbirth, success, safety in travel. Each charm pairs a holy name or letter-arrangement with a directive for how and when to write and use it.\n\n## Significance\n*Segulot* (literally 'remedies' or 'efficacious things') form the operative core of practical Kabbalah (*kabbalah ma'asit*), where the manipulation of divine names is held to act directly on the world. The *Sefer Raziel* was the most widely owned handbook of such charms in Ashkenazi and Sephardi homes. Trachtenberg and, more recently, Gideon Bohak study this tradition of Jewish name-magic.\n\n## For artists & game designers\nA recipe book of micro-charms: short letter-figures each tied to a single buff — a compact, lore-grounded consumables system.",
+   "citations": [
+    {"text": "Gideon Bohak, *Ancient Jewish Magic: A History* (2008)."},
+    {"text": "*Sefer Raziel HaMalakh* (printed editions)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sefer_raziel_segulot.png"}
+   ],
+   "key_concepts": ["segulot", "practical Kabbalah", "name-magic", "charms"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__sefer-yetzirah",
+   "title": "Circle diagram of the *Sefer Yetzirah*",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Monozigote (modern diagram after the Sefer Yetzirah)",
+   "date": "Text antique/early-medieval; this diagram 21st c.",
+   "place": "Jewish tradition",
+   "era": "medieval",
+   "tradition": "kabbalah",
+   "motifs": ["sefer yetzirah", "hebrew letters", "twenty-two letters", "mother letters", "creation", "circular diagram", "linguistic mysticism", "sefirot"],
+   "rights": "CC BY-SA 4.0 (Monozigote). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sefer_Yetzirah_Circle.jpg",
+   "summary": "A circular diagram illustrating the letter-cosmology of the *Sefer Yetzirah* (Book of Formation), the earliest and most enigmatic text of Jewish speculative mysticism.\n\n## Iconography\nThe twenty-two letters of the Hebrew alphabet are arranged around a circle, divided into the three 'mother' letters (Aleph, Mem, Shin), the seven 'double' letters, and the twelve 'simple' letters, mapping the alphabet onto the elements, planets, and zodiac. The figure shows creation as a combinatorial act of [[motif:hebrew letters|letters]].\n\n## Significance\nThe *Sefer Yetzirah* (composed sometime between late antiquity and the early Middle Ages) teaches that God created the world through the ten *sefirot* and the twenty-two letters — the seed of all later Kabbalistic linguistic mysticism and of the Golem legend, in which letters animate matter. Scholem and, more recently, Tzahi Weiss study its text and reception. (This image is a modern explanatory diagram, not a historical manuscript page.)\n\n## For artists & game designers\nA combinatorial 'alphabet of creation' — letters as elemental building-blocks a player arranges to formulate spells or living constructs.",
+   "citations": [
+    {"text": "*Sefer Yetzirah*; trans. and study by Aryeh Kaplan (1990)."},
+    {"text": "Gershom Scholem, *Kabbalah* (1974)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sefer_Yetzirah_Circle.jpg"}
+   ],
+   "key_concepts": ["Sefer Yetzirah", "twenty-two letters", "linguistic mysticism", "creation"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__merkabah-vision",
+   "title": "Ezekiel's Vision of the Merkabah (Merian)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Matthäus Merian the Elder",
+   "date": "Early-mid 17th c. (1593–1650)",
+   "place": "German lands / Switzerland",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["merkabah", "ezekiel", "chariot", "four living creatures", "wheels within wheels", "tetramorph", "divine throne", "vision"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ezekiel-Vision-Merkaba.jpg",
+   "summary": "Matthäus Merian's engraving of Ezekiel's vision of the *Merkabah* — the divine chariot-throne that founds the oldest current of Jewish mysticism.\n\n## Iconography\nThe prophet beholds the four living creatures (the [[motif:tetramorph|tetramorph]] of man, lion, ox, and eagle), the gleaming 'wheels within wheels' (*ophanim*) studded with eyes, and above them the crystalline firmament bearing the sapphire throne and the radiant likeness of a human form — the *kavod*, the Glory of God.\n\n## Significance\nEzekiel 1 and 10 supplied the foundational imagery of *Ma'aseh Merkabah*, the 'work of the chariot,' the visionary throne-mysticism of the Hekhalot literature in which adepts ascend through heavenly palaces to behold the enthroned Glory. Scholem treated Merkabah mysticism as the wellspring of the whole Kabbalistic tradition. Merian's engraving, from a Bible-illustration cycle, gave the vision its enduring early-modern visual form.\n\n## For artists & game designers\nA blueprint for a divine 'boss-encounter': spinning eyed wheels, a four-faced guardian, and an unapproachable throne of light.",
+   "citations": [
+    {"text": "Gershom Scholem, *Jewish Gnosticism, Merkabah Mysticism, and Talmudic Tradition* (1960)."},
+    {"text": "Matthäus Merian, *Icones Biblicae* (1625–30)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ezekiel-Vision-Merkaba.jpg"}
+   ],
+   "key_concepts": ["Merkabah", "Ezekiel's chariot", "Hekhalot mysticism", "divine throne"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__blake-ezekiel",
+   "title": "Ezekiel's Vision (William Blake)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "William Blake",
+   "date": "ca. 1803–1805",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["merkabah", "ezekiel", "four living creatures", "wheels", "divine vision", "tetramorph", "prophet", "throne"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:William_Blake_Ezekiel%27s_Vision_ca_1803-5_Boston_Museum.jpg",
+   "summary": "William Blake's watercolour of Ezekiel's vision (ca. 1803–05, Museum of Fine Arts, Boston), a Romantic-visionary reading of the *Merkabah* chariot.\n\n## Iconography\nBlake renders the prophet beneath a great cloud of fire from which the four-faced [[motif:tetramorph|living creatures]] and the eyed wheels emerge, the human figures swept up in his characteristic flowing, energetic line. The composition fuses the biblical throne-vision with Blake's own mythology of imaginative apocalypse.\n\n## Significance\nBlake (1757–1827) read the prophets as fellow visionaries and made Ezekiel's chariot a touchstone of his art and poetry; for him the Merkabah was an emblem of the imagination's power to behold the eternal. The piece exemplifies the Romantic and later esoteric reception of Jewish throne-mysticism into Western visionary art. Kathleen Raine traced Blake's debts to the esoteric tradition.\n\n## For artists & game designers\nA reference for the 'ecstatic vision' register — chaotic fire, multiple faces, and swirling motion to depict a mind overwhelmed by the divine.",
+   "citations": [
+    {"text": "Kathleen Raine, *Blake and Tradition* (1968)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:William_Blake_Ezekiel%27s_Vision_ca_1803-5_Boston_Museum.jpg"}
+   ],
+   "key_concepts": ["Merkabah", "Ezekiel's vision", "William Blake", "visionary reception"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__hoshen-breastplate",
+   "title": "Facsimile of Aaron's Breastplate (the *Hoshen*)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Anonymous (facsimile)",
+   "date": "Modern facsimile of an antique design",
+   "place": "Jewish tradition",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["hoshen", "breastplate", "high priest", "twelve stones", "twelve tribes", "urim and thummim", "divine name", "oracle"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Facsimile_Aaron%27s_Breastplate_-_DPLA_-_08a53ffa25a3d21393cb9dcd63c40638.jpg",
+   "summary": "A facsimile of the *Hoshen*, the jewelled breastplate of the Israelite High Priest — Scripture's own oracular and protective object.\n\n## Iconography\nThe breastplate is a square panel set with twelve gemstones in four rows, each engraved with the name of one of the [[motif:twelve tribes|twelve tribes]] of Israel. Folded within it lay the *Urim and Thummim*, the lots by which the divine will was inquired; the whole was worn over the heart of the High Priest when he entered the sanctuary.\n\n## Significance\nDescribed in Exodus 28, the *Hoshen mishpat* ('breastplate of judgement') was the Bible's licit oracle, and later Jewish and esoteric tradition treated its stones and the *Shem ha-Mephorash* hidden in it as a deeply magical object — the priest's stones flashing to give God's answer. It became a key reference for esoteric correspondences of stones, tribes, and the zodiac. (Stone identifications vary across sources; this is a reconstructed facsimile.)\n\n## For artists & game designers\nA wearable 'oracle item': twelve named gems whose lighting pattern answers yes/no questions — a built-in divination mechanic.",
+   "citations": [
+    {"text": "Exodus 28:15–30 (the *Hoshen* and *Urim and Thummim*)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Facsimile_Aaron%27s_Breastplate_-_DPLA_-_08a53ffa25a3d21393cb9dcd63c40638.jpg"}
+   ],
+   "key_concepts": ["Hoshen breastplate", "Urim and Thummim", "twelve tribes", "biblical oracle"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__shiviti-ganbash",
+   "title": "Shiviti plate (Moshe Ganbash)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Moshe Ganbash",
+   "date": "19th c.",
+   "place": "Ottoman lands / Near East",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["shiviti", "menorah", "psalm 67", "tetragrammaton", "divine names", "hebrew micrography", "devotional plaque", "amulet"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Moshe_Ganbash_-_Shiviti_-_Google_Art_Project.jpg",
+   "summary": "An ornate *Shiviti* plate by Moshe Ganbash, the devotional-magical placard set before the prayer leader and hung in synagogues and homes.\n\n## Iconography\nThe plate is built around the verse *Shiviti Adonai le-negdi tamid* ('I have set the Lord always before me,' Ps. 16:8) and a great [[motif:menorah|menorah]] whose seven branches are formed from the words of Psalm 67. Around and within it cluster the [[motif:tetragrammaton|Tetragrammaton]], divine names, and protective verses, often in fine Hebrew micrography.\n\n## Significance\nThe *Shiviti*-menorah composition fuses contemplative focus with apotropaic power: gazing on the Name and the psalm-menorah was a meditative practice, while the accumulated holy names made the plate a protective amulet for the space it adorned. The form flourished in 18th–19th-century Sephardi and Ottoman Jewish communities. Such plates are studied within the literature on Jewish ritual art and *kavvanah*.\n\n## For artists & game designers\nA 'focus altar' object: a text-and-light icon that doubles as both a meditation point and a ward protecting the room.",
+   "citations": [
+    {"text": "Psalm 67 and Psalm 16:8, the textual core of the Shiviti-menorah."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Moshe_Ganbash_-_Shiviti_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["Shiviti", "menorah-psalm", "Tetragrammaton", "devotional amulet"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__mizrah-papercut",
+   "title": "Mizrah papercut (Israel Dov Rosenbaum)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Israel Dov Rosenbaum",
+   "date": "19th c.",
+   "place": "Eastern Europe",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["mizrah", "papercut", "menorah", "divine names", "hebrew letters", "lions", "symmetry", "devotional plaque"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mizrah_-_Israel_Dov_Rosenbaum.jpg",
+   "summary": "An elaborate *Mizrah* papercut by Israel Dov Rosenbaum, marking the eastern wall toward which Jews turn in prayer.\n\n## Iconography\nThe symmetrical cut-paper panel centres the word *Mizrah* ('east') amid a dense field of [[motif:hebrew letters|Hebrew]] verses, divine names, columns, crowns, and flanking lions or birds, frequently incorporating a [[motif:menorah|menorah]] and protective formulae. The intricate openwork doubles as both orientation marker and blessing for the home.\n\n## Significance\nThe *Mizrah*, like the related *Shiviti*, situates the worshipper toward Jerusalem and gathers protective verses and holy names into a devotional object hung on the eastern wall. The papercut (*reyzele*) tradition flourished in 18th–19th-century Eastern European Jewish folk art, blending kabbalistic name-magic with decorative craft. Such works are studied in the scholarship on Jewish folk and ritual art.\n\n## For artists & game designers\nA decorative 'directional ward' — an intricate wall-piece that both signals orientation and confers a passive blessing on its room.",
+   "citations": [
+    {"text": "Studies in Jewish papercut and folk art (e.g. Joseph & Yehudit Shadur, *Traditional Jewish Papercuts*, 2002)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mizrah_-_Israel_Dov_Rosenbaum.jpg"}
+   ],
+   "key_concepts": ["Mizrah", "papercut", "devotional art", "name-magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__tetragrammaton-sefardi",
+   "title": "The Tetragrammaton (Sephardi script)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Anonymous",
+   "date": "Traditional design",
+   "place": "Sephardi Jewish tradition",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["tetragrammaton", "divine name", "hebrew letters", "yhwh", "ineffable name", "name magic", "calligraphy", "shem"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Tetragrammaton_Sefardi.jpg",
+   "summary": "The Tetragrammaton — the four-letter ineffable Name of God, YHWH — rendered in a Sephardi Hebrew hand.\n\n## Iconography\nThe four [[motif:hebrew letters|letters]] *Yod–He–Vav–He* are set out in formal script. As the *Shem ha-Meforash*, the Name was never pronounced aloud, substituted in reading by *Adonai*; its written form alone carried supreme sanctity and power.\n\n## Significance\nThe [[motif:tetragrammaton|Tetragrammaton]] stands at the centre of Jewish and Kabbalistic name-mysticism: its letters were permuted, vocalized, and meditated upon (*tzeruf*) as the very engine of creation, and its derivatives — the 42-letter and 72-letter Names — underlie much of practical Kabbalah and the wider Western magical tradition that borrowed the Name as a word of power. Scholem and Moshe Idel examine the speculative mysticism of the Name.\n\n## For artists & game designers\nThe ultimate 'true name' token — a single unspeakable word that anchors an entire name-based magic system.",
+   "citations": [
+    {"text": "Moshe Idel, *Kabbalah: New Perspectives* (1988)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Tetragrammaton_Sefardi.jpg"}
+   ],
+   "key_concepts": ["Tetragrammaton", "ineffable Name", "name-magic", "tzeruf"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__golem-prague",
+   "title": "The Golem of Prague (reproduction)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Anonymous (after the Prague legend)",
+   "date": "Modern reproduction of a legendary subject",
+   "place": "Prague, Bohemia",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["golem", "clay man", "emet", "hebrew letters", "rabbi loew", "animation", "creation", "practical kabbalah"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Prague-golem-reproduction.jpg",
+   "summary": "A reproduction depicting the Golem of Prague, the clay man animated by holy letters in the most famous legend of practical Kabbalah.\n\n## Iconography\nThe Golem is shown as a hulking humanoid of clay; in the legend it is brought to life by inscribing the word *emet* ('truth') on its forehead (or placing a name-inscribed *shem* in its mouth), and deactivated by erasing the *aleph* to leave *met* ('dead'). The [[motif:hebrew letters|letters]] themselves are the source of its life.\n\n## Significance\nThe creation of a golem is rooted in the *Sefer Yetzirah*'s doctrine that letters can shape matter; medieval Ashkenazi pietists describe such rituals, and the legend later attached to Rabbi Judah Loew ben Bezalel (the Maharal) of 16th-century Prague, who supposedly made a golem to defend the Jewish community. Scholem's essay 'The Idea of the Golem' is the classic treatment; the tale became foundational for modern stories of artificial life.\n\n## For artists & game designers\nThe original 'craftable construct': a servant golem activated and deactivated by inscribing or erasing a single word.",
+   "citations": [
+    {"text": "Gershom Scholem, 'The Idea of the Golem,' in *On the Kabbalah and Its Symbolism* (1965)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Prague-golem-reproduction.jpg"}
+   ],
+   "key_concepts": ["Golem", "emet/met", "Sefer Yetzirah", "Maharal of Prague"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__maharal-golem",
+   "title": "The Golem and Rabbi Loew (Mikoláš Aleš, 1899)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "Mikoláš Aleš",
+   "date": "1899 (published 1908)",
+   "place": "Prague, Bohemia",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["golem", "rabbi loew", "maharal", "clay man", "prague legend", "animation", "practical kabbalah", "folklore"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Golem_a_Rabi_L%C3%B6w_%E2%80%93_Mikol%C3%A1%C5%A1_Ale%C5%A1,_1899_(V%C4%9Bnec_pra%C5%BEsk%C3%BDch_pov%C4%9Bst%C3%AD,_1908).jpg",
+   "summary": "Mikoláš Aleš's 1899 illustration of the Golem with Rabbi Loew, made for a collection of Prague legends.\n\n## Iconography\nThe Czech artist depicts the towering [[motif:golem|Golem]] beside or commanded by the figure of Rabbi Judah Loew (the Maharal), staging the moment of the creature's animation or service. The drawing belongs to the romantic-folkloric visual tradition that crystallized the Prague Golem as a national and literary legend.\n\n## Significance\nMikoláš Aleš (1852–1913), a central figure of the Czech national revival, illustrated the Golem for the *Věnec pražských pověstí* ('Garland of Prague Legends'). Such turn-of-the-century images — alongside Hugo Steiner-Prag's and the 1915–20 Golem films — cemented the Maharal's golem in modern culture, ancestor of every fictional artificial being from the robot to the digital homunculus. The legend's Kabbalistic root remains the letter-animation of the *Sefer Yetzirah*.\n\n## For artists & game designers\nA period-accurate 'master and construct' composition for a summoner archetype — the small maker beside the giant he commands.",
+   "citations": [
+    {"text": "*Věnec pražských pověstí* (Garland of Prague Legends, 1908), illustr. Mikoláš Aleš."},
+    {"text": "Gershom Scholem, 'The Idea of the Golem' (1965)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Golem_a_Rabi_L%C3%B6w_%E2%80%93_Mikol%C3%A1%C5%A1_Ale%C5%A1,_1899_(V%C4%9Bnec_pra%C5%BEsk%C3%BDch_pov%C4%9Bst%C3%AD,_1908).jpg"}
+   ],
+   "key_concepts": ["Golem", "Maharal of Prague", "Prague legend", "reception"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "jewish_mysticism__lilith-collier",
+   "title": "Lilith (John Collier, 1892)",
+   "work": "Kabbalah & Jewish Magic",
+   "creator": "John Collier",
+   "date": "1892",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["lilith", "serpent", "first wife of adam", "night demon", "femme fatale", "temptress", "esoteric reception", "nude"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lilith_-_John_Collier_(1892).jpg",
+   "summary": "John Collier's 1892 painting *Lilith*, the Pre-Raphaelite image of the demonic first woman entwined with a serpent.\n\n## Iconography\nA nude woman stands embraced by a great serpent coiling about her body, her eyes closed in sensual reverie. Collier renders [[motif:lilith|Lilith]] as the archetypal *femme fatale* — beautiful, dangerous, and intimate with the serpent, conflating her with the temptation of Eden.\n\n## Significance\nIn Jewish tradition — crystallized in the medieval *Alphabet of Ben Sira* — Lilith is Adam's rebellious first wife, who flees Eden and becomes a night-demon and slayer of infants, against whom childbirth amulets invoke the angels Senoy, Sansenoy, and Semangelof. The *Zohar* develops her as a queen of the demonic 'other side' (*sitra achra*). The 19th-century Romantic and esoteric revival, seen here, recast her as a symbol of dangerous female autonomy. Raphael Patai's *The Hebrew Goddess* surveys the Lilith myth.\n\n## For artists & game designers\nA ready archetype for a seductive demon-queen antagonist — beauty, serpent, and lethal allure in one figure.",
+   "citations": [
+    {"text": "Raphael Patai, *The Hebrew Goddess* (1967), ch. on Lilith."},
+    {"text": "*Alphabet of Ben Sira* (medieval), on Lilith as Adam's first wife."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lilith_-_John_Collier_(1892).jpg"}
+   ],
+   "key_concepts": ["Lilith", "Alphabet of Ben Sira", "night-demon", "esoteric reception"],
+   "summary_status": "authored"
+  }
+ ]
+}

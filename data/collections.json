@@ -1,0 +1,232 @@
+{
+  "_note": "Curated thematic collections. status 'live' = strong current image coverage; 'coming_soon' = the user's DBs hold the scholarship, images to be sourced (a visible roadmap). Images matched via match {work_keys, traditions, motif_terms, ids}. cover is optional (an image id); explore.js falls back to the first matching image.",
+  "collections": [
+    {
+      "key": "atalanta_opus",
+      "title": "The Great Work in Sequence: Atalanta Fugiens",
+      "status": "live",
+      "cover": "atalanta_fugiens__emblem-21",
+      "framing": "Michael Maier's 50-emblem masterpiece read in order — from prima materia through nigredo, albedo, and rubedo to the coniunctio and the Stone. Each emblem fuses an engraving, a Latin epigram, and a polyphonic fugue, and each carries De Jong's source-scholarship and Furnace & Fugue's digital apparatus.",
+      "match": {
+        "work_keys": [
+          "atalanta_fugiens"
+        ]
+      },
+      "figures": [
+        "michael-maier"
+      ]
+    },
+    {
+      "key": "ouroboros_eternal",
+      "title": "The Serpent That Eats Itself: The Ouroboros Across Time",
+      "status": "live",
+      "cover": "antiquity_ouroboros__chrysopoeia-cleopatra-ouroboros",
+      "framing": "The oldest alchemical sign followed through the centuries — from the Chrysopoeia of Kleopatra (the earliest surviving witness) and the 1478 Pelekanos copy, to Maier's Emblem XIV and the dragons of Lambspring. One motif, the whole history of the tradition.",
+      "match": {
+        "motif_terms": [
+          "ouroboros"
+        ]
+      },
+      "figures": [
+        "michael-maier"
+      ]
+    },
+    {
+      "key": "coniunctio",
+      "title": "The Red King & the White Queen: Coniunctio",
+      "status": "live",
+      "cover": "atalanta_fugiens__emblem-04",
+      "framing": "The union of opposites — Sol and Luna, sulphur and mercury, masculine and fixed with feminine and volatile — the pivotal operation of the Work, inherited from the Rosarium Philosophorum and re-staged across the tradition. Its offspring is the hermaphroditic Rebis.",
+      "match": {
+        "motif_terms": [
+          "coniunctio",
+          "king and queen",
+          "king",
+          "queen",
+          "marriage",
+          "two figures",
+          "union"
+        ]
+      },
+      "figures": []
+    },
+    {
+      "key": "laboratory_revealed",
+      "title": "The Laboratory Revealed: Apparatus & Furnaces",
+      "status": "live",
+      "cover": "antiquity_apparatus__zosimos-distillation-apparatus",
+      "framing": "The equipment of alchemy made visible — alembics, retorts, crucibles, athanors, and stills — from the apparatus of Zosimos and Maria the Jewess through Geber, Libavius, Glauber, and Agricola's furnaces. Practical philosophy in glass and fire.",
+      "match": {
+        "motif_terms": [
+          "furnace",
+          "vessel",
+          "apparatus",
+          "alembic",
+          "distillation",
+          "still",
+          "laboratory",
+          "machinery"
+        ]
+      },
+      "figures": [
+        "pseudo-geber",
+        "georgius-agricola"
+      ]
+    },
+    {
+      "key": "hermetic_cosmos",
+      "title": "As Above, So Below: The Hermetic Cosmos",
+      "status": "live",
+      "cover": "cosmology__fludd-integrae-naturae",
+      "framing": "The universe pictured as a hierarchy of correspondences — Fludd's Great Chain of Being and Khunrath's circular theophanies — where divine power descends, link by link, from God through the World-Soul to nature and human art.",
+      "match": {
+        "traditions": [
+          "hermetic"
+        ],
+        "work_keys": [
+          "cosmology",
+          "khunrath"
+        ]
+      },
+      "figures": [
+        "robert-fludd",
+        "heinrich-khunrath"
+      ]
+    },
+    {
+      "key": "the_rebis",
+      "title": "The Rebis: The Stone Made Whole",
+      "status": "live",
+      "cover": null,
+      "framing": "The two-headed androgyne born of the chymical wedding — the reconciled opposites and the completed Stone-in-process, often standing on a dragon or a sphere. One of the most recognizable images in the whole tradition.",
+      "match": {
+        "motif_terms": [
+          "hermaphrodite",
+          "rebis",
+          "androgyne"
+        ]
+      },
+      "figures": []
+    },
+    {
+      "key": "tarot_history",
+      "title": "Tarot — From Triumphs to the Occult Deck",
+      "status": "live",
+      "cover": "tarot__rws-magician",
+      "framing": "The trump cards across five centuries — from the gilded Visconti-Sforza triumphs of Renaissance Milan to the Hermetic-Kabbalistic Rider-Waite-Smith deck of 1909 — tracing how a courtly card game was reinterpreted as a secret book of wisdom.",
+      "match": {
+        "traditions": [
+          "divination"
+        ],
+        "work_keys": [
+          "tarot"
+        ]
+      },
+      "figures": []
+    },
+    {
+      "key": "goetic_hierarchy",
+      "title": "The Goetic Hierarchy: The 72 Spirits of the Lemegeton",
+      "status": "live",
+      "cover": "grimoire_plates__goetic-circle-lesser-key-solomon",
+      "framing": "The seventy-two spirits of the Lesser Key of Solomon — their ranks (Kings, Dukes, Presidents, Marquises…), legions, composite-animal appearances, and seals. The user's GoetiaRevEng already analyses all 72 sigils computationally.",
+      "match": {
+        "work_keys": [
+          "grimoire_plates"
+        ],
+        "motif_terms": [
+          "goetia",
+          "seal",
+          "sigil"
+        ]
+      },
+      "figures": []
+    },
+    {
+      "key": "chymical_wedding",
+      "title": "The Chymical Wedding of Christian Rosenkreutz",
+      "status": "coming_soon",
+      "cover": null,
+      "framing": "Andreae's 1616 alchemical romance — the seven-day initiation of Christian Rosenkreutz — read as the founding narrative of Rosicrucianism. The user's TheosophicalAlchemyDB holds extensive Andreae scholarship.",
+      "match": {
+        "motif_terms": [
+          "chymical wedding",
+          "rosenkreutz"
+        ]
+      },
+      "figures": [
+        "daniel-cramer"
+      ],
+      "needs": "Source the 1616 Strasbourg edition illustrations and later emblematic interpretations."
+    },
+    {
+      "key": "kabbalah_renaissance",
+      "title": "Kabbalah in the Renaissance: Pico, Reuchlin & the Tree",
+      "status": "live",
+      "cover": "kabbalah__portae-lucis",
+      "framing": "Christian Kabbalah as a Renaissance recuperation of Jewish mysticism — the Sephirotic tree, divine names, and letter-mysticism. Deeply documented in the user's PicoDB and RenMagDB.",
+      "match": {
+        "traditions": [
+          "kabbalah"
+        ],
+        "motif_terms": [
+          "sephiroth",
+          "tree of life"
+        ]
+      },
+      "figures": [
+        "john-dee"
+      ]
+    },
+    {
+      "key": "neoplatonic_cosmos",
+      "title": "The Animated Universe: Neoplatonic Cosmologies",
+      "status": "coming_soon",
+      "cover": null,
+      "framing": "The cosmos of Ficino and Pico — emanation from the One, the anima mundi, the scale of being from God to matter. The metaphysical substrate beneath all Renaissance magic.",
+      "match": {
+        "motif_terms": [
+          "anima mundi",
+          "spheres",
+          "great chain of being",
+          "emanation"
+        ]
+      },
+      "figures": [
+        "robert-fludd"
+      ],
+      "needs": "Source the celestial-spheres diagrams, Bruno's cosmologies, Ficinian scale-of-being charts."
+    },
+    {
+      "key": "medieval_grimoires",
+      "title": "From Picatrix to the Lesser Key: Medieval Grimoire Traditions",
+      "status": "coming_soon",
+      "cover": null,
+      "framing": "The long arc of grimoire culture — Islamic astrological magic (Picatrix), clerical ritual magic (Ars Notoria, Clavicula), and early-modern demonological manuals. The user's MedievalMagicDB catalogues thirteen of these texts.",
+      "match": {
+        "motif_terms": [
+          "grimoire",
+          "talisman",
+          "magic circle"
+        ]
+      },
+      "figures": [],
+      "needs": "Source Picatrix talisman figures, Ars Notoria notae, Heptameron circles, Book of Oberon diagrams."
+    },
+    {
+      "key": "witch_trials",
+      "title": "The Witches' Sabbath: Demonology & Its Skeptics",
+      "status": "live",
+      "cover": "witchcraft__baldung-witches-sabbath",
+      "framing": "The early-modern visual discourse of witchcraft — the sabbath, the pact, the trial — and the skeptics (Weyer, Scot) who fought it. Present across RenMagDB and MedievalMagicDB.",
+      "match": {
+        "motif_terms": [
+          "witch",
+          "sabbath",
+          "devil"
+        ]
+      },
+      "figures": []
+    }
+  ]
+}

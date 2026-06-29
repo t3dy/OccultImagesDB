@@ -1,0 +1,1027 @@
+{
+ "_work": {
+  "key": "portents_wonders",
+  "short_id": "PORT",
+  "title": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+  "creator": "various",
+  "date": "11th–18th c.",
+  "century": 16,
+  "place": "German lands & Europe",
+  "region": "German lands",
+  "language": "German",
+  "era": "early_modern",
+  "tradition": "astrology",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "portents_wonders",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Augsburger_Wunderzeichenbuch",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "comet",
+   "parhelion",
+   "monstrous birth",
+   "blood rain",
+   "sky battle",
+   "prodigy"
+  ],
+  "blurb": "The occult reading of signs in the heavens and on earth across the early-modern wonder-books and broadsheets: the Augsburg Book of Miracles (*Wunderzeichenbuch*, c. 1550) with its full-page paintings of comets, three suns, mock-moons, mondhalos, dragons over Bohemia, fiery sky-battles and the Tiber monster; the 1561 Nuremberg 'battle in the sky'; the 1726 aurora; Lycosthenes' *Prodigiorum chronicon*; Ambroise Paré's monsters; the Cranach Pope-Ass and Monk-Calf of Wittenberg; the Bayeux comet (Halley); and the cometary atlases of Hevelius and Lubieniecki — a gallery of celestial portents read as divine warnings."
+ },
+ "entries": [
+  {
+   "id": "portents_wonders__wunderzeichenbuch-comet",
+   "title": "Comet Prodigy (Augsburg Book of Miracles, Folio 65)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache on paper)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "blazing star",
+    "celestial portent",
+    "divine warning",
+    "wunderzeichenbuch",
+    "gouache",
+    "townscape",
+    "sky sign"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch,_Folio_65.jpg",
+   "summary": "A full-page painting from the *Augsburger Wunderzeichenbuch* (Book of Miracles, c. 1550), depicting a flaming [[motif:comet|comet]] hanging over a landscape as an omen.\n\n## Iconography\nA brilliant tailed star blazes across the upper register, its fiery hair streaming over hills and a town below where tiny figures look up in alarm. The Augsburg painter renders the apparition in luminous gouache and gold, the comet's tail sweeping the whole width of the sheet.\n\n## Significance\nThe *Book of Miracles* is an unbound album of around 170 large gouache paintings made in Augsburg about 1550, cataloguing biblical wonders, celestial signs, and contemporary prodigies. [[motif:comet|Comets]] — *Schwantzsterne* or 'tail-stars' — were universally read as portents of war, plague, or the death of princes, following the astrological maxim that the heavens warned of earthly catastrophe. The manuscript is among the most spectacular surviving visual records of Reformation-era prodigy belief.\n\n## For artists & game designers\nThe full-sky blazing comet over a sleeping town is the definitive 'ill omen' establishing shot — one bright tailed star, a hushed landscape beneath.",
+   "citations": [
+    {
+     "text": "*The Book of Miracles*, ed. Joshua P. Waterman & Till-Holger Borchert (Taschen, 2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch,_Folio_65.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Book of Miracles",
+    "comet portent",
+    "Wunderzeichenbuch",
+    "celestial omen"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__wunderzeichenbuch-monster",
+   "title": "A Monstrous Prodigy (Book of Miracles, Folio 93)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache on paper)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "monstrous birth",
+    "prodigy",
+    "divine warning",
+    "wunderzeichenbuch",
+    "gouache",
+    "wonder sign",
+    "deformity",
+    "omen"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Book-of-Miracles-folio93.jpg",
+   "summary": "A folio (f. 93) of the *Augsburg Book of Miracles* (c. 1550) recording a portentous prodigy as a sign requiring interpretation.\n\n## Iconography\nThe page presents a wonder-event in the album's vivid gouache manner — a marvel set against a plain or landscape ground with explanatory German text — one of the contemporary *Wunderzeichen* (wonder-signs) the compiler gathered alongside biblical and celestial marvels.\n\n## Significance\nReformation-era Germans read [[motif:prodigy|prodigies]] — monstrous births, freak weather, strange skies — as legible divine messages, a 'theology of signs' that Luther and Melanchthon themselves practised in their pamphlets on the Pope-Ass and Monk-Calf. The *Book of Miracles* compiles such wonders into a single luxurious album, treating the catalogue of portents as a devotional and apocalyptic call to repentance.\n\n## For artists & game designers\nA model for a 'codex of omens' artefact: each page a single strange event rendered as a discrete, captioned wonder.",
+   "citations": [
+    {
+     "text": "*The Book of Miracles*, ed. Joshua P. Waterman & Till-Holger Borchert (Taschen, 2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Book-of-Miracles-folio93.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Book of Miracles",
+    "prodigy",
+    "Wunderzeichenbuch",
+    "divine sign"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__wzb-drei-sonnen",
+   "title": "Three Suns (Book of Miracles, Folio 26)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache on paper)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "three suns",
+    "parhelion",
+    "mock suns",
+    "celestial portent",
+    "wunderzeichenbuch",
+    "gouache",
+    "atmospheric optics",
+    "sky sign"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_26%3F_%E2%80%9EDrei_Sonnen%E2%80%9C.jpg",
+   "summary": "A folio of the *Augsburg Book of Miracles* (c. 1550) showing the apparition of *Drei Sonnen* — three suns blazing together in the sky.\n\n## Iconography\nThree fiery solar discs hang in a row across the heavens above a landscape, each haloed and radiant, while observers below witness the marvel. The painter records the triple-sun apparition as a discrete celestial wonder.\n\n## Significance\nThe 'three suns' is a [[motif:parhelion|parhelion]] (sun-dog) display — refraction of sunlight through ice crystals producing mock suns flanking the true one. To the early-modern eye it was a fearful portent; the Wars of the Roses chronicles record Edward IV reading a 'sun in splendour' parhelion as a divine sign before the Battle of Mortimer's Cross (1461). The *Wunderzeichenbuch* gathers such optical prodigies as warnings woven into sacred history.\n\n## For artists & game designers\nThree suns in a row instantly signals 'the sky is wrong' — a clean visual shorthand for an omen or a fractured world.",
+   "citations": [
+    {
+     "text": "*The Book of Miracles*, ed. Joshua P. Waterman & Till-Holger Borchert (Taschen, 2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_26%3F_%E2%80%9EDrei_Sonnen%E2%80%9C.jpg"
+    }
+   ],
+   "key_concepts": [
+    "three suns",
+    "parhelion",
+    "Book of Miracles",
+    "celestial portent"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__wzb-drei-monde",
+   "title": "Three Moons (Book of Miracles, Folio 49)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache on paper)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "three moons",
+    "paraselene",
+    "mock moons",
+    "celestial portent",
+    "wunderzeichenbuch",
+    "gouache",
+    "night sky",
+    "atmospheric optics"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_49%3F_%E2%80%9EDrei_Monde%E2%80%9C.jpg",
+   "summary": "A folio of the *Augsburg Book of Miracles* (c. 1550) depicting *Drei Monde* — three moons appearing together in the night sky.\n\n## Iconography\nThree pale lunar discs glow across a darkened heaven above a sleeping landscape, the central true moon flanked by two mock-moons, rendered in the album's luminous gouache.\n\n## Significance\nThe triple moon is a [[motif:paraselene|paraselene]] (moon-dog), the lunar counterpart of the parhelion, caused by ice-crystal refraction of moonlight. Like its solar twin, it was catalogued among the *Wunderzeichen* as a heavenly warning. Such atmospheric optical phenomena formed a major class of early-modern celestial portent, recorded by chroniclers from Lycosthenes to the Zurich pastor Johann Jacob Wick.\n\n## For artists & game designers\nThe nocturnal triple-moon is an eerie, dreamlike omen — useful for signalling enchantment or a world out of joint at night.",
+   "citations": [
+    {
+     "text": "*The Book of Miracles*, ed. Joshua P. Waterman & Till-Holger Borchert (Taschen, 2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_49%3F_%E2%80%9EDrei_Monde%E2%80%9C.jpg"
+    }
+   ],
+   "key_concepts": [
+    "three moons",
+    "paraselene",
+    "Book of Miracles",
+    "lunar portent"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__wzb-sonnenring",
+   "title": "Golden Sun-Ring (Book of Miracles, Folio 24)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache on paper)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "solar halo",
+    "golden ring",
+    "celestial portent",
+    "atmospheric optics",
+    "wunderzeichenbuch",
+    "gouache",
+    "sun",
+    "sky sign"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_24%3F%E2%80%9EGoldener_Sonnenring%E2%80%9C.jpg",
+   "summary": "A folio of the *Augsburg Book of Miracles* (c. 1550) showing a *Goldener Sonnenring* — a golden ring encircling the sun.\n\n## Iconography\nA luminous gold ring or halo surrounds the sun against the sky, a circular band of light framing the solar disc, witnessed over a landscape. The painter isolates the optical apparition as a celestial wonder.\n\n## Significance\nThe solar halo — a 22-degree ring of light from ice-crystal refraction — was read as a ring 'about the sun,' a portent in the same family as the parhelia. Halos, rings, and crowns about sun and moon recur through the prodigy literature as signs of coming upheaval. The *Wunderzeichenbuch* records this [[motif:atmospheric optics|atmospheric optic]] as one more legible message in the heavens.\n\n## For artists & game designers\nA glowing ring around the sun is a subtler omen than a comet — a quiet wrongness in an otherwise normal sky.",
+   "citations": [
+    {
+     "text": "*The Book of Miracles*, ed. Joshua P. Waterman & Till-Holger Borchert (Taschen, 2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_24%3F%E2%80%9EGoldener_Sonnenring%E2%80%9C.jpg"
+    }
+   ],
+   "key_concepts": [
+    "solar halo",
+    "Book of Miracles",
+    "atmospheric optics",
+    "celestial portent"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__wzb-mondhalo",
+   "title": "Moon-Halo over Vienna (Book of Miracles, Folio 107)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache on paper)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "lunar halo",
+    "moon ring",
+    "vienna",
+    "celestial portent",
+    "wunderzeichenbuch",
+    "gouache",
+    "townscape",
+    "night sky"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_107%3F_%E2%80%9EMondhalo_%C3%BCber_Wien%E2%80%9C.jpg",
+   "summary": "A folio of the *Augsburg Book of Miracles* (c. 1550) depicting a *Mondhalo über Wien* — a great halo around the moon seen over Vienna.\n\n## Iconography\nA wide luminous ring encircles the moon above the towers and rooftops of Vienna; townsfolk gaze up at the apparition. The Augsburg painter localises the celestial sign to a recognisable city, lending the wonder documentary force.\n\n## Significance\nBy tying the [[motif:lunar halo|lunar halo]] to a named place and (in the album's text) a date, the *Wunderzeichenbuch* treats the prodigy as reportage — a sign witnessed by a whole city. This pairing of precise locale with cosmic portent is characteristic of the Reformation news-culture of wonders, in which broadsheets and chronicles competed to record God's warnings over specific towns.\n\n## For artists & game designers\nSetting an omen over a named, recognisable skyline grounds the supernatural in a real place and gives a sense of collective witness.",
+   "citations": [
+    {
+     "text": "*The Book of Miracles*, ed. Joshua P. Waterman & Till-Holger Borchert (Taschen, 2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_107%3F_%E2%80%9EMondhalo_%C3%BCber_Wien%E2%80%9C.jpg"
+    }
+   ],
+   "key_concepts": [
+    "lunar halo",
+    "Vienna prodigy",
+    "Book of Miracles",
+    "celestial portent"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__wzb-nebensonnen",
+   "title": "Mock Suns over Münster, 1533 (Book of Miracles, Folio 131)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache; recording an event of 1533)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "parhelion",
+    "mock suns",
+    "nebensonnen",
+    "munster",
+    "celestial portent",
+    "wunderzeichenbuch",
+    "gouache",
+    "halo arc"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_131_Nebensonnen_%C3%BCber_M%C3%BCnster_1533.jpg",
+   "summary": "A folio of the *Augsburg Book of Miracles* recording *Nebensonnen über Münster 1533* — a parhelic display of mock suns seen over Münster in 1533.\n\n## Iconography\nA complex halo arc spans the sky over the city of Münster, the true sun flanked by bright [[motif:parhelion|mock suns]] (*Nebensonnen*) and circling bands of light, with the townscape beneath. The painter maps the full optical display across the upper sheet.\n\n## Significance\nThe date 1533 places this apparition on the eve of the radical Anabaptist takeover of Münster (1534–35), and the prodigy literature eagerly linked such celestial portents to the city's coming catastrophe. Parhelia over Münster, Magdeburg, and other towns were among the most-reported sky-wonders of the Reformation, read as God's commentary on human strife.\n\n## For artists & game designers\nA dated, located parhelion display is a 'prophecy fulfilled' device — the strange sky that preceded a known disaster.",
+   "citations": [
+    {
+     "text": "*The Book of Miracles*, ed. Joshua P. Waterman & Till-Holger Borchert (Taschen, 2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_131_Nebensonnen_%C3%BCber_M%C3%BCnster_1533.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Nebensonnen",
+    "parhelion",
+    "Münster 1533",
+    "Book of Miracles"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__wzb-himmelsschlacht",
+   "title": "Sky-Battle of Three Children, 1536 (Book of Miracles, Folio 134)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache; recording an event of 1536)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "sky battle",
+    "himmelsschlacht",
+    "celestial apparition",
+    "armies in the air",
+    "celestial portent",
+    "wunderzeichenbuch",
+    "gouache",
+    "omen of war"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_134_Himmelsschlacht_dreier_Kinder_1536.jpg",
+   "summary": "A folio of the *Augsburg Book of Miracles* depicting a *Himmelsschlacht* (battle in the sky) reportedly witnessed in 1536.\n\n## Iconography\nApparitional forms contend in the heavens over a landscape, the air filled with figures and signs of conflict — a [[motif:sky battle|battle in the sky]] painted as a literal celestial event, with witnesses below. The album's gouache gives the aerial vision solidity and drama.\n\n## Significance\nVisions of armies, riders, and weapons fighting in the air were a recurring class of prodigy, understood as direct premonitions of earthly war. Such *Himmelsschlachten* descend from classical reports (Josephus' armies over Jerusalem) and culminate in the famous 1561 Nuremberg broadsheet. They embody the core logic of the wonder-books: the heavens rehearse, in sign, the wars to come.\n\n## For artists & game designers\nGhostly armies clashing in the clouds above a calm land is a vivid premonition motif — the future war previewed in the sky.",
+   "citations": [
+    {
+     "text": "*The Book of Miracles*, ed. Joshua P. Waterman & Till-Holger Borchert (Taschen, 2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_134_Himmelsschlacht_dreier_Kinder_1536.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Himmelsschlacht",
+    "sky battle",
+    "Book of Miracles",
+    "omen of war"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__wzb-himmelsfeuer",
+   "title": "Fire in the Sky over Augsburg, 1542 (Book of Miracles, Folio 144)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache; recording an event of 1542)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "fire in the sky",
+    "himmelsfeuer",
+    "augsburg",
+    "celestial portent",
+    "burning heaven",
+    "wunderzeichenbuch",
+    "gouache",
+    "townscape"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_144-_Himmelsfeuer_%C3%BCber_Augsburg_1542.jpg",
+   "summary": "A folio of the *Augsburg Book of Miracles* depicting *Himmelsfeuer über Augsburg 1542* — fire seen burning in the sky over Augsburg.\n\n## Iconography\nFlames and fiery streaks fill the heaven above the city of Augsburg itself; the rooftops and towers stand beneath a sky seemingly alight, witnessed by the inhabitants. The painter renders the burning air in vivid reds and golds.\n\n## Significance\nThe compiler records a prodigy over his own city, perhaps an aurora or a brilliant atmospheric glow read as 'fire from heaven.' [[motif:fire in the sky|Heavenly fire]] joined comets and sky-battles among the warnings of divine wrath. That the *Wunderzeichenbuch* dates and localises the event to Augsburg in 1542 underscores its character as a chronicle of wonders witnessed in living memory.\n\n## For artists & game designers\nA burning sky over a real town is an apocalyptic-glow effect that reads as judgement without any explicit monster or figure.",
+   "citations": [
+    {
+     "text": "*The Book of Miracles*, ed. Joshua P. Waterman & Till-Holger Borchert (Taschen, 2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_144-_Himmelsfeuer_%C3%BCber_Augsburg_1542.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Himmelsfeuer",
+    "fire in the sky",
+    "Augsburg 1542",
+    "Book of Miracles"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__wzb-drachen",
+   "title": "Dragons over Bohemia (Book of Miracles, Folio 127)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache on paper)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "dragon",
+    "bohemia",
+    "flying serpent",
+    "celestial portent",
+    "prodigy",
+    "wunderzeichenbuch",
+    "gouache",
+    "omen"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_127%3F_%E2%80%9EDrachen_%C3%BCbe_B%C3%B6hmen%E2%80%9C.jpg",
+   "summary": "A folio of the *Augsburg Book of Miracles* depicting *Drachen über Böhmen* — dragons seen flying over Bohemia.\n\n## Iconography\nWinged [[motif:dragon|dragons]] or fiery serpents course through the sky above a Bohemian landscape, their sinuous forms trailing flame, while figures below mark the apparition. The painter treats the flying dragons as a genuine sky-prodigy.\n\n## Significance\nFlying dragons and fiery serpents belonged to the standard repertoire of aerial portents, often conflated with comets, meteors, and 'fire-drakes.' Reports of dragons over a region signified plague or war to come. The *Wunderzeichenbuch* sets such creatures alongside its comets and parhelia, blurring the line between meteorology and monstrology in the period's reading of the heavens.\n\n## For artists & game designers\nFire-drakes streaking across the sky double as both 'dragon sighting' and 'meteor omen' — a flexible aerial threat or portent.",
+   "citations": [
+    {
+     "text": "*The Book of Miracles*, ed. Joshua P. Waterman & Till-Holger Borchert (Taschen, 2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_127%3F_%E2%80%9EDrachen_%C3%BCbe_B%C3%B6hmen%E2%80%9C.jpg"
+    }
+   ],
+   "key_concepts": [
+    "dragon prodigy",
+    "Bohemia",
+    "Book of Miracles",
+    "aerial portent"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__wzb-reiter",
+   "title": "Heavenly Rider over Bohemia (Book of Miracles, Folio 126)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache on paper)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "heavenly rider",
+    "horseman in the sky",
+    "bohemia",
+    "celestial apparition",
+    "celestial portent",
+    "wunderzeichenbuch",
+    "gouache",
+    "omen of war"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_126%3F_%E2%80%9EHimmlischer_Reiter_%C3%BCber_B%C3%B6hmen%E2%80%9C.jpg",
+   "summary": "A folio of the *Augsburg Book of Miracles* depicting a *Himmlischer Reiter über Böhmen* — a heavenly horseman appearing in the sky over Bohemia.\n\n## Iconography\nA mounted rider materialises in the heavens above a Bohemian landscape, a spectral horseman riding the clouds as witnesses look on from below. The painter gives the apparition the clarity of an eyewitness report.\n\n## Significance\nThe armed [[motif:heavenly rider|rider in the sky]] is kin to the *Himmelsschlacht* — a celestial horseman portending war, in a lineage reaching back to the apocalyptic riders and the angelic cavalry of 2 Maccabees. Such apparitions over Bohemia, a land of religious turmoil, were read as warnings of the conflicts that would culminate in the Thirty Years' War. The Augsburg album catalogues the rider among its prodigies of the air.\n\n## For artists & game designers\nA lone spectral horseman in the clouds is a concentrated war-omen — one figure carrying the whole weight of dread.",
+   "citations": [
+    {
+     "text": "*The Book of Miracles*, ed. Joshua P. Waterman & Till-Holger Borchert (Taschen, 2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_126%3F_%E2%80%9EHimmlischer_Reiter_%C3%BCber_B%C3%B6hmen%E2%80%9C.jpg"
+    }
+   ],
+   "key_concepts": [
+    "heavenly rider",
+    "Bohemia",
+    "Book of Miracles",
+    "war omen"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__wzb-tiber-monster",
+   "title": "The Tiber Monster (Book of Miracles, Folio 90)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache on paper)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "tiber monster",
+    "pope-ass",
+    "monstrous birth",
+    "anti-papal polemic",
+    "prodigy",
+    "wunderzeichenbuch",
+    "gouache",
+    "rome"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_90_(Tiber_Monster).jpg",
+   "summary": "A folio of the *Augsburg Book of Miracles* depicting the *Tiber Monster* — the Pope-Ass, a monstrous body reportedly found washed up in the Tiber at Rome.\n\n## Iconography\nThe creature combines incongruous parts — an ass's head, a human-scaled body with a fish-scaled belly and clawed and hoofed limbs, and a tail — the [[motif:tiber monster|Tiber Monster]] (*Roma-Esel*) standing as a single composite prodigy.\n\n## Significance\nThe Tiber Monster, said to have surfaced in 1496, was seized by the Reformers: Philipp Melanchthon and Luther interpreted it in their 1523 pamphlet as the **Pope-Ass** (*Papstesel*), every grotesque limb decoded as an emblem of the corruption of the Roman Church. Its appearance in the *Wunderzeichenbuch* shows how a 'monstrous birth' prodigy became a weapon of confessional polemic — the body of the monster read as a divine indictment of the papacy.\n\n## For artists & game designers\nA chimeric body where each mismatched part 'means' something is a template for an allegorical monster whose anatomy is a coded message.",
+   "citations": [
+    {
+     "text": "Philipp Melanchthon & Martin Luther, *Deutung der zwo grewlichen Figuren, Bapstesel und Mönchkalb* (Wittenberg, 1523)."
+    },
+    {
+     "text": "*The Book of Miracles*, ed. Waterman & Borchert (2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_90_(Tiber_Monster).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Tiber Monster",
+    "Pope-Ass",
+    "monstrous birth",
+    "Book of Miracles"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__wzb-folio35",
+   "title": "A Celestial Wonder (Book of Miracles, Folio 35)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Augsburg workshop)",
+   "date": "c. 1550 (gouache on paper)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "celestial portent",
+    "sky sign",
+    "prodigy",
+    "wunderzeichenbuch",
+    "gouache",
+    "wonder",
+    "heaven",
+    "omen"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_35.jpg",
+   "summary": "A folio (f. 35) of the *Augsburg Book of Miracles* (c. 1550) recording a celestial wonder as a divine sign.\n\n## Iconography\nThe page stages a sky-prodigy in the album's characteristic gouache, a marvel of the heavens set above a landscape with explanatory text — one of the sequence of [[motif:celestial portent|celestial signs]] that the compiler gathered between the biblical wonders and the contemporary prodigies.\n\n## Significance\nThe *Wunderzeichenbuch* organises its wonders loosely chronologically, moving from Creation and the Flood through biblical and ancient marvels to recent celestial and earthly portents. Each sky-sign is presented as a self-contained, captioned event, embodying the period's conviction that God wrote warnings across the firmament for those able to read them.\n\n## For artists & game designers\nThe album's one-wonder-per-page rhythm is a strong structural model for an omen-codex collectible, each entry a single discrete sign.",
+   "citations": [
+    {
+     "text": "*The Book of Miracles*, ed. Joshua P. Waterman & Till-Holger Borchert (Taschen, 2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_35.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Book of Miracles",
+    "celestial portent",
+    "Wunderzeichenbuch",
+    "prodigy"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__nuremberg-1561",
+   "title": "The Celestial Phenomenon over Nuremberg, 14 April 1561",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Hanns Glaser (printer)",
+   "date": "1561 (coloured woodcut broadsheet)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "battle in the sky",
+    "celestial phenomenon",
+    "globes and crosses",
+    "broadsheet",
+    "celestial portent",
+    "woodcut",
+    "nuremberg",
+    "omen of war"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg",
+   "summary": "The famous broadsheet printed by Hanns Glaser describing a *Himmelserscheinung* — a mass of objects seen battling in the sky over Nuremberg at dawn on 14 April 1561.\n\n## Iconography\nAbove the city's skyline the sky teems with shapes: blood-red, black, and blue [[motif:globes and crosses|globes, crosses, and cylindrical 'rods']], crescents and a great black spear-like form, which the text says appeared to fight one another before many fell to earth as if burning. The sun rises at the centre amid the swarming forms.\n\n## Significance\nGlaser's account, set in letterpress beneath the woodcut, reports the spectacle as a divine warning to repentance — a classic *Himmelsschlacht* broadsheet of the kind that proliferated in Reformation Germany. Most likely a sun-dog and halo display elaborated by report, it became, centuries later, a celebrated item in UFO literature. In its own context it is a supreme example of the celestial-prodigy news-print.\n\n## For artists & game designers\nA chaotic swarm of abstract geometric forms (globes, rods, crosses) reads as 'unexplained sky event' far more uncannily than recognisable creatures.",
+   "citations": [
+    {
+     "text": "Hanns Glaser, broadsheet on the Nuremberg apparition (1561); Zentralbibliothek Zürich, Wickiana."
+    },
+    {
+     "text": "Jürgen Beyer, on early-modern prodigy broadsheets."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg"
+    }
+   ],
+   "key_concepts": [
+    "1561 Nuremberg",
+    "celestial phenomenon",
+    "prodigy broadsheet",
+    "Hanns Glaser"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__bayeux-comet",
+   "title": "The Comet (Halley) in the Bayeux Tapestry",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (Anglo-Norman embroiderers)",
+   "date": "c. 1070s (wool embroidery on linen)",
+   "place": "England (probably Canterbury)",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "halleys comet",
+    "isti mirant stella",
+    "king harold",
+    "celestial portent",
+    "embroidery",
+    "omen of doom",
+    "1066"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_32-33_comet_Halley_Harold.jpg",
+   "summary": "The scene in the *Bayeux Tapestry* (c. 1070s) where a blazing comet — later identified as Halley's — appears as an omen above the newly crowned King Harold, captioned *ISTI MIRANT STELLA* ('these men wonder at the star').\n\n## Iconography\nA group of pointing men marvel at a flaming star streaming across the upper border; in the scene beneath, the enthroned Harold receives ominous news, while ghostly ships in the lower border foreshadow the Norman invasion fleet. The [[motif:comet|comet]] hangs directly over the doomed king.\n\n## Significance\nThe comet of 1066 — the apparition we now identify as Halley's — was read across Europe as a portent, and the Tapestry's designers made it the visual hinge between Harold's coronation and his fall at Hastings. It is the earliest depiction of Halley's Comet and a paradigmatic image of the comet-as-omen, fusing astrology and political prophecy in a single embroidered scene.\n\n## For artists & game designers\nA comet placed directly over a ruler, with a fleet ghosted below, compresses 'this reign is doomed' into one legible composition.",
+   "citations": [
+    {
+     "text": "David M. Wilson, *The Bayeux Tapestry* (1985)."
+    },
+    {
+     "text": "Photograph by Myrabella (public domain)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_32-33_comet_Halley_Harold.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Halley's Comet",
+    "Bayeux Tapestry",
+    "comet portent",
+    "1066"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__bapstesel",
+   "title": "The Pope-Ass and the Monk-Calf of Wittenberg (1523 broadsheet)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "After Lucas Cranach the Elder; text by Melanchthon & Luther",
+   "date": "1523 (woodcut broadsheet; this copy, BNCF Landau)",
+   "place": "Wittenberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "pope-ass",
+    "monk-calf",
+    "monstrous birth",
+    "anti-papal polemic",
+    "prodigy interpretation",
+    "woodcut broadsheet",
+    "reformation",
+    "tiber monster"
+   ],
+   "rights": "CC BY-SA 4.0. Biblioteca Nazionale Centrale di Firenze (photo Francesco Bini). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:F._melantone_e_lutero,_de%C3%BCttung_der_zwu_grewlichen_figuren_bapstesel_zu_rom_unnd_m%C3%BCnchkalbs_zu_freyberg_in_meyssen_funden,_wittenberg,_1523_(bncf,_landau_f.,_lut._10.16).jpg",
+   "summary": "The 1523 Wittenberg pamphlet-broadsheet *Deutung der zwo greulichen Figuren, Bapstesel zu Rom und Mönchskalb zu Freyberg*, by Philipp Melanchthon and Martin Luther, pairing two prodigies as anti-papal omens.\n\n## Iconography\nTwo monstrous bodies face the reader: the [[motif:pope-ass|Pope-Ass]] (*Papstesel*) — the ass-headed, scale-bellied, claw-and-hoof-limbed Tiber Monster of Rome — and the [[motif:monk-calf|Monk-Calf]] (*Mönchskalb*), a deformed calf born at Freiberg in Meissen whose loose skin suggested a friar's cowl. Cranach's woodcuts present each as a single emblematic figure.\n\n## Significance\nMelanchthon decoded the Pope-Ass limb by limb as God's verdict on the Roman Church, and Luther read the Monk-Calf as an indictment of monasticism. The pamphlet is the founding text of Reformation 'prodigy exegesis,' turning the medieval *monstrum* (a sign 'shown' by God) into confessional propaganda — the monstrous birth as a printed sermon against the papacy.\n\n## For artists & game designers\nThe paired-monster broadsheet — two grotesques captioned with their 'meaning' — is a model for propaganda-poster iconography in a setting's faction conflict.",
+   "citations": [
+    {
+     "text": "Philipp Melanchthon & Martin Luther, *Deutung der zwo grewlichen Figuren, Bapstesel und Mönchkalb* (Wittenberg, 1523)."
+    },
+    {
+     "text": "Photograph © Francesco Bini (Sailko), CC BY-SA 4.0; BNCF Florence."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:F._melantone_e_lutero,_de%C3%BCttung_der_zwu_grewlichen_figuren_bapstesel_zu_rom_unnd_m%C3%BCnchkalbs_zu_freyberg_in_meyssen_funden,_wittenberg,_1523_(bncf,_landau_f.,_lut._10.16).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Pope-Ass",
+    "Monk-Calf",
+    "Reformation prodigy",
+    "Cranach broadsheet"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__papal-ass",
+   "title": "The Pope-Ass / Tiber Monster (Rijksmuseum print)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (after Cranach prototype)",
+   "date": "16th c. (engraving / etching)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "pope-ass",
+    "tiber monster",
+    "monstrous birth",
+    "anti-papal polemic",
+    "prodigy",
+    "print",
+    "composite beast",
+    "rome"
+   ],
+   "rights": "CC0 / Public domain. Rijksmuseum. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mismaakte_ezelin,_RP-P-2019-52.jpg",
+   "summary": "A print of the *Pope-Ass* (the Tiber Monster), held by the Rijksmuseum, depicting the composite monstrous body that Reformation polemic turned against the papacy.\n\n## Iconography\nThe creature stands erect as a single full-length figure: an ass's head atop a scaly human-like torso, one hand a claw and one foot a hoof, the rump terminating in a grotesque second face and a tail. Each [[motif:pope-ass|incongruous member]] is an emblem awaiting interpretation.\n\n## Significance\nThe Tiber Monster, reportedly washed up at Rome in 1496, was reinterpreted by Melanchthon in 1523 as the *Papstesel*, every limb glossed as a sign of ecclesiastical corruption. This print belongs to the wide diffusion of the image across the sixteenth century, by which a single 'monstrous birth' became one of the most reproduced anti-papal prodigies of the Reformation — the [[motif:monstrous birth|monstrum]] as durable propaganda.\n\n## For artists & game designers\nA standing, full-figure composite beast (animal head, mismatched limbs, second face on the rump) gives a memorable silhouette for an allegorical monster.",
+   "citations": [
+    {
+     "text": "Philipp Melanchthon, on the *Papstesel* (1523)."
+    },
+    {
+     "text": "Rijksmuseum, RP-P-2019-52 (CC0)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Mismaakte_ezelin,_RP-P-2019-52.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Pope-Ass",
+    "Tiber Monster",
+    "monstrous birth",
+    "anti-papal print"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__monk-calf",
+   "title": "The Monk-Calf of Freiberg (Rijksmuseum print)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Anonymous (after Cranach prototype)",
+   "date": "16th c. (engraving / etching)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "monk-calf",
+    "monstrous birth",
+    "deformed calf",
+    "anti-monastic polemic",
+    "prodigy",
+    "print",
+    "cowl",
+    "freiberg"
+   ],
+   "rights": "CC0 / Public domain. Rijksmuseum. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mismaakt_kalf,_RP-P-2019-53.jpg",
+   "summary": "A print of the *Monk-Calf* (*Mönchskalb*), held by the Rijksmuseum — a deformed calf read by Luther as a sign against monasticism.\n\n## Iconography\nThe malformed calf is shown standing, its hanging fold of skin draped like a [[motif:cowl|monastic cowl]] over its back and head, its posture and 'tonsured' appearance suggesting a friar. The print isolates the beast as a single legible prodigy.\n\n## Significance\nA deformed calf born at Freiberg in Meissen in 1522 was interpreted by Martin Luther in the 1523 pamphlet as the [[motif:monk-calf|Monk-Calf]], its cowl-like skin a divine mockery of the monastic orders. Paired with Melanchthon's Pope-Ass, it became one of the era's most famous [[motif:monstrous birth|monstrous births]], showing how natural deformities were enlisted as omens in confessional warfare and circulated widely as prints.\n\n## For artists & game designers\nAn ordinary animal made uncanny by a single suggestive feature (skin draped like a robe) is a subtler horror than full chimerism.",
+   "citations": [
+    {
+     "text": "Martin Luther, on the *Mönchskalb* (1523)."
+    },
+    {
+     "text": "Rijksmuseum, RP-P-2019-53 (CC0)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Mismaakt_kalf,_RP-P-2019-53.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Monk-Calf",
+    "monstrous birth",
+    "anti-monastic prodigy",
+    "Reformation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__lycosthenes",
+   "title": "A Crane-Headed Prodigy (Lycosthenes, Prodigiorum chronicon)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Conrad Lycosthenes (Conrad Wolffhart)",
+   "date": "1557 (woodcut)",
+   "place": "Basel, German-speaking Switzerland",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "monstrous race",
+    "crane-headed man",
+    "prodigy",
+    "wonder book",
+    "woodcut",
+    "lycosthenes",
+    "marvel",
+    "teratology"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Crane_headed_man_Lycosthenes.jpg",
+   "summary": "A woodcut of a crane-headed man from Conrad Lycosthenes' *Prodigiorum ac ostentorum chronicon* (Basel, 1557), the great printed encyclopaedia of prodigies.\n\n## Iconography\nA standing human figure bears the long-necked, long-beaked head of a crane — one of the [[motif:monstrous race|monstrous races]] and marvels the compilation illustrates, set as an isolated woodcut emblem of a wonder.\n\n## Significance\nLycosthenes' *Chronicon* (1557) gathered every portent, monster, comet, and marvel from Creation to its own day into a single illustrated chronicle, drawing on Julius Obsequens and the broadsheet tradition and feeding directly into the *Book of Miracles* and later teratology. The crane-headed man belongs to the inherited canon of monstrous peoples (the *Plinian races*) reframed as [[motif:prodigy|prodigies]] — wonders that testify to the variety and warning-power of nature.\n\n## For artists & game designers\nThe animal-headed humanoid is the oldest 'beastfolk' template; Lycosthenes' woodcut catalogue is a ready bestiary of single-feature hybrids.",
+   "citations": [
+    {
+     "text": "Conrad Lycosthenes, *Prodigiorum ac ostentorum chronicon* (Basel, 1557)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Crane_headed_man_Lycosthenes.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Lycosthenes",
+    "Prodigiorum chronicon",
+    "monstrous races",
+    "wonder book"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__lycosthenes-wellcome",
+   "title": "A Many-Headed Hydra (Lycosthenes, 1557)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Conrad Lycosthenes (Conrad Wolffhart)",
+   "date": "1557 (woodcut)",
+   "place": "Basel, German-speaking Switzerland",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "hydra",
+    "many-headed serpent",
+    "prodigy",
+    "wonder book",
+    "woodcut",
+    "lycosthenes",
+    "marvel",
+    "monster"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Conradus_Lycosthenes_1557_Hydra.png",
+   "summary": "A woodcut of a many-headed hydra from Conrad Lycosthenes' *Prodigiorum ac ostentorum chronicon* (Basel, 1557).\n\n## Iconography\nA coiling serpent rears multiple necks and heads, the classical [[motif:hydra|hydra]] rendered as a printed wonder among the chronicle's catalogue of monsters and portents.\n\n## Significance\nLycosthenes drew freely on classical sources, presenting mythic beasts like the hydra alongside reported contemporary prodigies, so that the boundary between ancient marvel and current omen dissolved. His *Chronicon* was the most influential wonder-encyclopaedia of the age, an immediate source for the *Book of Miracles* and for later collectors of [[motif:prodigy|prodigies]]; the many-headed serpent embodies the period's fascination with monstrous multiplicity as a sign of nature's (and God's) prodigious power.\n\n## For artists & game designers\nThe multi-headed serpent is the archetypal 'cut one head, two grow back' boss — Lycosthenes shows its early printed iconography.",
+   "citations": [
+    {
+     "text": "Conrad Lycosthenes, *Prodigiorum ac ostentorum chronicon* (Basel, 1557)."
+    },
+    {
+     "text": "Wellcome Collection / Wikimedia Commons.",
+     "url": "https://commons.wikimedia.org/wiki/File:Conradus_Lycosthenes_1557_Hydra.png"
+    }
+   ],
+   "key_concepts": [
+    "Lycosthenes",
+    "hydra",
+    "Prodigiorum chronicon",
+    "wonder book"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__prodigiorum-chronicon",
+   "title": "The Köllbigk Dancers Prodigy (Lycosthenes)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Conrad Lycosthenes (Conrad Wolffhart)",
+   "date": "1557 (woodcut)",
+   "place": "Basel, German-speaking Switzerland",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "dancing mania",
+    "kollbigk",
+    "prodigy",
+    "wonder book",
+    "woodcut",
+    "lycosthenes",
+    "divine punishment",
+    "chorea"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lycosthenes_koelbigk.jpg",
+   "summary": "A woodcut from Lycosthenes' *Prodigiorum ac ostentorum chronicon* (1557) depicting the legendary cursed dancers of Köllbigk.\n\n## Iconography\nA ring of figures dances in a churchyard, locked in compulsive motion — the [[motif:dancing mania|dancers of Köllbigk]] who, by legend, were condemned to dance without rest for a year as punishment for profaning Christmas Mass.\n\n## Significance\nThe Köllbigk dancers (a medieval miracle-legend set in 1021) were absorbed into the prodigy tradition as a wonder of divine chastisement, and later read against the historical outbreaks of [[motif:dancing mania|dancing mania]] (*choreomania*) in the Rhineland. Lycosthenes catalogues it among his chronicle of marvels, illustrating how the wonder-books blended hagiographic legend, social memory, and the reading of strange events as signs of God's judgement.\n\n## For artists & game designers\nA cursed, never-ending dance is a haunting affliction-motif — a crowd trapped in motion as a visible curse.",
+   "citations": [
+    {
+     "text": "Conrad Lycosthenes, *Prodigiorum ac ostentorum chronicon* (Basel, 1557)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Lycosthenes_koelbigk.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Köllbigk dancers",
+    "dancing mania",
+    "Lycosthenes",
+    "prodigy"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__monsters-prodigies",
+   "title": "A Monstrous Birth (Ambroise Paré, Des monstres et prodiges)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Ambroise Paré",
+   "date": "16th c. (woodcut; first ed. 1573)",
+   "place": "Paris, France",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "monstrous birth",
+    "teratology",
+    "prodigy",
+    "wonder book",
+    "woodcut",
+    "ambroise pare",
+    "deformity",
+    "marvel"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Monsters_%26_Prodigies_50.jpg",
+   "summary": "A woodcut from Ambroise Paré's *Des monstres et prodiges* (first published 1573), the surgeon's celebrated treatise on monsters and marvels.\n\n## Iconography\nThe plate depicts one of Paré's [[motif:monstrous birth|monstrous births]] — a body with abnormal or doubled members, presented as an illustrative case in his catalogue of natural and preternatural wonders.\n\n## Significance\nParé, royal surgeon of France, gathered prodigies into a systematic work that hovered between the older theology of monsters-as-divine-signs and an emerging naturalistic teratology, proposing causes from the wrath of God to the imagination of the mother and 'too much' or 'too little' seed. *Des monstres et prodiges* is a hinge text in which the [[motif:prodigy|prodigy]] begins to migrate from omen toward object of medical study, even as the wonder remains.\n\n## For artists & game designers\nParé's measured, almost clinical presentation of monsters offers a 'field-guide' visual register distinct from the lurid broadsheet — useful for a scholarly bestiary.",
+   "citations": [
+    {
+     "text": "Ambroise Paré, *Des monstres et prodiges* (1573); ed. Jean Céard (1971)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Monsters_%26_Prodigies_50.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Ambroise Paré",
+    "Des monstres et prodiges",
+    "monstrous birth",
+    "teratology"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__theatrum-cometicum",
+   "title": "Cometary Observations, 1668 (Lubieniecki, Theatrum Cometicum)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Stanisław Lubieniecki",
+   "date": "1668 (engraved celestial map)",
+   "place": "Amsterdam / Hamburg",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "cometary path",
+    "celestial map",
+    "star chart",
+    "celestial portent",
+    "engraving",
+    "theatrum cometicum",
+    "constellations"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:1668_celestial_map_-_Figura_observationum_Cometicarum.jpg",
+   "summary": "An engraved plate, *Figura observationum Cometicarum* (1668), from Stanisław Lubieniecki's *Theatrum Cometicum*, charting the observed path of a comet across the constellations.\n\n## Iconography\nA detailed [[motif:celestial map|celestial map]] traces the looping track of a [[motif:comet|comet]] against engraved constellation figures and a grid of coordinates, the comet's successive positions marked across the star-field. The plate combines astronomical record with the decorative constellation imagery of the baroque atlas.\n\n## Significance\nLubieniecki's *Theatrum Cometicum* (Amsterdam, 1668) was a vast compilation of every recorded comet from antiquity onward, gathering observations and correspondence from astronomers across Europe — a monument straddling the older comet-as-omen tradition and the new mathematical astronomy that, with Halley and Newton, would soon tame the comet into a periodic body obeying gravity. It marks the transition of the comet from prodigy to predictable phenomenon.\n\n## For artists & game designers\nThe overlaid comet-path on a constellation map is an elegant way to show a portent being studied rather than merely feared — science meeting omen.",
+   "citations": [
+    {
+     "text": "Stanisław Lubieniecki, *Theatrum Cometicum* (Amsterdam, 1668)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:1668_celestial_map_-_Figura_observationum_Cometicarum.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Theatrum Cometicum",
+    "Lubieniecki",
+    "comet observation",
+    "celestial map"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__hevelius-comet",
+   "title": "Cometary Forms (Hevelius, Prodromus Cometicus)",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Johannes Hevelius",
+   "date": "1665 (engraved plate)",
+   "place": "Danzig (Gdańsk)",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "comet tail",
+    "cometary forms",
+    "celestial portent",
+    "astronomy",
+    "engraving",
+    "hevelius",
+    "scientific illustration"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hevelius_Prodromus_Cometicus_Tav_A_e_B.jpg",
+   "summary": "Engraved plates A and B from Johannes Hevelius' *Prodromus Cometicus* (1665), illustrating the observed forms and tails of comets.\n\n## Iconography\nThe plates array a series of [[motif:comet|comets]] with their heads and streaming [[motif:comet tail|tails]] shown in varied shapes, recording the changing appearance of cometary bodies as Hevelius observed them — a systematic visual taxonomy of comet-forms rather than a single omen-image.\n\n## Significance\nHevelius, the great Danzig astronomer, produced the *Prodromus Cometicus* and *Cometographia* (1668) to gather and theorise cometary observations, including the comet of 1664–65. His careful, instrument-based depictions exemplify the seventeenth-century shift from reading comets as divine [[motif:celestial portent|portents]] to measuring them as celestial objects — even as the older dread lingered in the popular broadsheets of the same years.\n\n## For artists & game designers\nA comparative plate of many comet shapes reads as a scholar's notebook — good set-dressing for an astronomer or natural-philosopher character.",
+   "citations": [
+    {
+     "text": "Johannes Hevelius, *Prodromus Cometicus* (Danzig, 1665); *Cometographia* (1668)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hevelius_Prodromus_Cometicus_Tav_A_e_B.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Hevelius",
+    "Prodromus Cometicus",
+    "comet forms",
+    "early astronomy"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "portents_wonders__aurora-1726",
+   "title": "The Aurora Borealis of 19 October 1726",
+   "work": "Portents & Wonders: Celestial Signs, Prodigies & the Wonder-Books",
+   "creator": "Philippe Simonneau (engraver)",
+   "date": "1726 (engraving)",
+   "place": "Paris, France",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": [
+    "aurora borealis",
+    "northern lights",
+    "celestial phenomenon",
+    "rays of light",
+    "celestial portent",
+    "engraving",
+    "night sky",
+    "sky fire"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lumi%C3%A8re_bor%C3%A9ale_du_19_octobre_1726_telle_qu%27elle_parut_dans_tout_l%27h%C3%A9misph%C3%A8re_sup%C3%A9rieur_du_ciel_vers_les_8_heures_du_soir_-_Ph._Simonneau,_filius_sculp_-_btv1b8490899f.jpg",
+   "summary": "An engraving by Philippe Simonneau recording the *aurora borealis* of 19 October 1726 as it appeared across the upper hemisphere of the sky around eight in the evening.\n\n## Iconography\nGreat radiant beams and curtains of light fan upward across the night sky over a landscape and observers, the [[motif:aurora borealis|northern lights]] rendered as converging rays and luminous arcs — a documentary image of the apparition with its time and date inscribed.\n\n## Significance\nThe aurora borealis, rare at lower latitudes, was long read as a fiery portent — 'burning skies,' 'armies in the heavens,' or blood-red warnings of war. By 1726 such displays were increasingly recorded as natural marvels to be observed and dated (Edmond Halley had theorised the aurora in 1716), yet the older sense of the [[motif:celestial portent|sky-sign]] persisted in popular reaction. This print sits at the meeting of wonder and natural science.\n\n## For artists & game designers\nRadiating curtains of auroral light over a small witnessing crowd is a sublime, non-threatening sky-spectacle — awe rather than dread.",
+   "citations": [
+    {
+     "text": "Bibliothèque nationale de France (Gallica), btv1b8490899f."
+    },
+    {
+     "text": "Edmond Halley, 'An Account of the late surprizing Appearance of the Lights seen in the Air' (1716)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Lumi%C3%A8re_bor%C3%A9ale_du_19_octobre_1726_telle_qu%27elle_parut_dans_tout_l%27h%C3%A9misph%C3%A8re_sup%C3%A9rieur_du_ciel_vers_les_8_heures_du_soir_-_Ph._Simonneau,_filius_sculp_-_btv1b8490899f.jpg"
+    }
+   ],
+   "key_concepts": [
+    "aurora borealis",
+    "1726",
+    "celestial phenomenon",
+    "sky portent"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

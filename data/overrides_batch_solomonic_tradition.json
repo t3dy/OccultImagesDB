@@ -1,0 +1,444 @@
+{
+ "_work": {
+   "key": "solomonic_tradition",
+   "short_id": "SOLOM",
+   "title": "The Solomonic Grimoire Tradition",
+   "creator": "various",
+   "date": "13th–19th c.",
+   "century": 18,
+   "place": "Europe and England",
+   "region": "Europe",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "solomonic_tradition",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Key_of_Solomon",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["magic circle", "pentacle", "triangle of art", "seal of solomon", "spirit sigil", "conjuration"],
+   "blurb": "Circles, pentacles, seals, and ritual apparatus of the Solomonic cycle — the Goetia circle and Triangle of Art of the Lemegeton, the seven planetary Pentacles of Solomon from Mathers's 1888 Key of Solomon, the magical circles and seals of 19th-century Clavicula manuscripts, the Cyprianus and Clavis Inferni 'black book' seals, and the black-evocation circle of the Grand Grimoire — spanning the medieval Latin tradition and its early-modern and revival afterlife."
+ },
+ "entries": [
+  {
+   "id": "solomonic_tradition__goetia-circle-triangle",
+   "title": "Circle of Solomon and Triangle of Art (Goetia)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "After the Lemegeton; Mathers & Crowley edition (1904)",
+   "date": "Lemegeton compiled 17th c.; this plate 1904",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["magic circle", "triangle of art", "goetia", "divine names", "hexagram", "conjuration", "lemegeton", "ritual diagram"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Circle_of_Solomon_and_Triangle_of_Solomon_from_The_Lesser_Key_of_Solomon.png",
+   "summary": "The protective Circle of Solomon and the external Triangle of Art from the *Ars Goetia*, first book of the *Lemegeton* (Lesser Key of Solomon), in the form printed by Mathers and Crowley.\n\n## Iconography\nThe great circle is built from concentric bands inscribed with the names of God, of the archangels, and of the spirits of the days and hours, with a hexagram and pentagram set within. Outside it stands the [[motif:triangle of art|Triangle of Art]] — a triangle ringed with the names *Michael*, *Anaphaxeton*, and *Tetragrammaton* enclosing a circle — into which the conjured spirit is compelled to appear and be bound while the magician stands safe at the centre.\n\n## Significance\nThe paired circle-and-triangle is the single most reproduced apparatus of Western ceremonial magic. The circle wards the operator; the triangle is the 'box' that constrains the evoked spirit to visible manifestation. The system descends from the Greek *Hygromanteia* and the Latin *Clavicula Salomonis* and was canonized for the modern revival by S. L. MacGregor Mathers and Aleister Crowley's 1904 *Goetia*.\n\n## For artists & game designers\nThe definitive summoning-arena layout: a warded circle for the caster plus an external bind-triangle where the entity is forced to materialize.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Circle_of_Solomon_and_Triangle_of_Solomon_from_The_Lesser_Key_of_Solomon.png"}
+   ],
+   "key_concepts": ["Triangle of Art", "magic circle", "Ars Goetia", "spirit evocation"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__goetic-circle",
+   "title": "Goetic Circle of Pacts (Lesser Key of Solomon)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "After the Lemegeton",
+   "date": "Lemegeton compiled 17th c.; this rendering modern",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["magic circle", "goetia", "divine names", "planetary hours", "conjuration", "ritual diagram", "lemegeton", "binding"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Goetic_circle_from_The_Lesser_Key_of_Solomon.jpg",
+   "summary": "A second, more elaborate goetic circle from the *Lemegeton* tradition, laying out the full ring of divine names, hours, and seasonal angels used in the conjuration of spirits.\n\n## Iconography\nThe diagram is a wheel of concentric bands: an inner cross or hexagram, then rings bearing the secret names of God, the archangels governing the four cardinal points, and the spirits of the hours and the four seasons distributed around the rim. The whole forms a closed cosmogram that fixes the operator within a complete map of celestial governance.\n\n## Significance\nWhere the simple circle-and-triangle gives the bare working frame, this fuller variant shows the doctrine behind it: that to command a spirit the magician must invoke the entire hierarchy of names — divine, angelic, planetary, and temporal — by which God orders creation. Such circles, copied and recopied in 17th–19th-century English and continental manuscripts, vary in detail but share this layered name-architecture.\n\n## For artists & game designers\nA denser, lore-rich circle variant for a high-tier ritual — readable as 'the full version' of the basic summoning glyph.",
+   "citations": [
+    {"text": "Joseph H. Peterson (ed.), *The Lesser Key of Solomon: Lemegeton Clavicula Salomonis* (2001)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Goetic_circle_from_The_Lesser_Key_of_Solomon.jpg"}
+   ],
+   "key_concepts": ["goetic circle", "Lemegeton", "divine names", "planetary hours"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__pentacles-jupiter",
+   "title": "Pentacles of Jupiter (Plate IV, Key of Solomon)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "S. L. MacGregor Mathers (ed.), after anonymous Solomonic originals",
+   "date": "1888 (after older originals)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pentacle", "jupiter", "planetary magic", "hebrew letters", "psalm verses", "magic seal", "wealth magic", "divine names"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentacles_of_Jupiter_(Plate_IV,_The_Key_of_Solomon_the_Great,_1888).png",
+   "summary": "Plate IV of MacGregor Mathers's 1888 *Key of Solomon the King*, showing the seven Pentacles of Jupiter — the planetary seals of fortune, honour, riches, and the gaining of favour.\n\n## Iconography\nEach pentacle is a disc bordered with a verse (commonly a Psalm) and filled with a geometric figure, Hebrew divine names, and the characters of the spirits of Jupiter. The Jovial seals are benevolent in purpose: to acquire wealth and dignities, to win at law, to gain visions and protection. The plate arranges the set as a grid of operative seals.\n\n## Significance\nMathers compiled his edition from several British Library *Clavicula Salomonis* manuscripts, keying each planetary set to its traditional virtues. Jupiter, the 'greater benefic' of classical [[motif:planetary magic|planetary magic]], governs expansion, prosperity, and lawful authority — so its pentacles are the grimoire's instruments of gain. The plate became a canonical reference for the modern occult revival.\n\n## For artists & game designers\nThe 'buff / fortune' branch of a planetary seal system — Jupiter for wealth, luck, and favour mechanics.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers (ed.), *The Key of Solomon the King* (London, 1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentacles_of_Jupiter_(Plate_IV,_The_Key_of_Solomon_the_Great,_1888).png"}
+   ],
+   "key_concepts": ["Pentacles of Jupiter", "planetary magic", "Clavicula Salomonis", "name-magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__pentacles-mars",
+   "title": "Pentacles of Mars (Plate VI, Key of Solomon)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "S. L. MacGregor Mathers (ed.), after anonymous Solomonic originals",
+   "date": "1888 (after older originals)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pentacle", "mars", "planetary magic", "hebrew letters", "psalm verses", "magic seal", "war magic", "protection"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentacles_of_Mars_(Plate_VI,_The_Key_of_Solomon_the_Great,_1888).png",
+   "summary": "Plate VI of MacGregor Mathers's 1888 *Key of Solomon the King*, showing the Pentacles of Mars — the planetary seals of war, courage, destruction, and resisting enemies.\n\n## Iconography\nEach disc is bordered with a Psalm verse and packed with a martial figure, Hebrew divine names, and the characters of the spirits of Mars. The Martial seals serve coercive and defensive ends: to excite ruin and discord, to render the bearer invulnerable, to terrify foes and stop bleeding. The plate ranks them as a grid of operative seals.\n\n## Significance\nMars, the 'lesser malefic,' governs the violent and forceful operations of [[motif:planetary magic|planetary magic]]. In the *Clavicula* scheme each planet's pentacles match its astrological nature, and the Martial set supplies the tradition's combat and protective magic. Mathers's plate fixed the canonical look of these seals for the Golden Dawn and the later revival.\n\n## For artists & game designers\nThe 'combat / aggression' branch of a planetary seal tree — Mars for offense, invulnerability, and fear effects.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers (ed.), *The Key of Solomon the King* (London, 1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentacles_of_Mars_(Plate_VI,_The_Key_of_Solomon_the_Great,_1888).png"}
+   ],
+   "key_concepts": ["Pentacles of Mars", "planetary magic", "Clavicula Salomonis", "protective magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__pentacles-sol",
+   "title": "Pentacles of Mars and the Sun (Plate VII, Key of Solomon)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "S. L. MacGregor Mathers (ed.), after anonymous Solomonic originals",
+   "date": "1888 (after older originals)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pentacle", "sol", "sun", "planetary magic", "hebrew letters", "magic seal", "glory", "divine names"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentacles_of_Mars_and_the_Sun_(Plate_VII,_The_Key_of_Solomon_the_Great,_1888).png",
+   "summary": "Plate VII of MacGregor Mathers's 1888 *Key of Solomon the King*, completing the Pentacles of Mars and opening the Pentacles of the Sun — the solar seals of glory, liberty, and divine vision.\n\n## Iconography\nThe plate carries the last Martial pentacles alongside the first Solar ones: discs bordered with verses and filled with radiant figures, Hebrew divine names, and the characters of the spirits of the Sun. The Solar seals serve to gain dominion and honour, to free a captive, to obtain the favour of the great, and to behold spirits and the glory of God.\n\n## Significance\nThe Sun, source and king of the seven planets, governs sovereignty, fame, and illumination in [[motif:planetary magic|planetary magic]]. Its pentacles are the grimoire's instruments of authority and spiritual vision. Mathers arranged the planetary plates so that some share a sheet — here Mars passes into Sol — reflecting the manuscript layouts he worked from.\n\n## For artists & game designers\nThe solar 'authority / revelation' seals — light-based buffs, charisma, freeing allies, and revealing hidden entities.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers (ed.), *The Key of Solomon the King* (London, 1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentacles_of_Mars_and_the_Sun_(Plate_VII,_The_Key_of_Solomon_the_Great,_1888).png"}
+   ],
+   "key_concepts": ["Pentacles of the Sun", "planetary magic", "Clavicula Salomonis", "solar magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__pentacles-venus",
+   "title": "Pentacles of the Sun and Venus (Plate IX, Key of Solomon)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "S. L. MacGregor Mathers (ed.), after anonymous Solomonic originals",
+   "date": "1888 (after older originals)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pentacle", "venus", "planetary magic", "hebrew letters", "magic seal", "love magic", "divine names", "psalm verses"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentacles_of_the_Sun_and_Venus_(Plate_IX,_The_Key_of_Solomon_the_Great,_1888).png",
+   "summary": "Plate IX of MacGregor Mathers's 1888 *Key of Solomon the King*, carrying the last Pentacles of the Sun and the Pentacles of Venus — the seals of love, grace, and concord.\n\n## Iconography\nThe sheet joins the final Solar discs to the Venusian set: pentacles bordered with verses and filled with figures, Hebrew divine names, and the characters of the spirits of Venus. The Venusian seals serve to obtain grace and honour, to incite love, to bring concord between man and woman, and to compel the spirits of Venus to friendly service.\n\n## Significance\nVenus, the 'lesser benefic,' rules attraction, beauty, and harmony in [[motif:planetary magic|planetary magic]], so her pentacles furnish the tradition's love- and favour-magic. As with Plate VII, Mathers lets two planets share a sheet, mirroring the *Clavicula* manuscripts. The plate is part of the canonical 1888 visual set adopted across the modern revival.\n\n## For artists & game designers\nThe Venusian 'charm / social' seals — attraction, persuasion, pacifying foes, and reconciliation mechanics.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers (ed.), *The Key of Solomon the King* (London, 1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentacles_of_the_Sun_and_Venus_(Plate_IX,_The_Key_of_Solomon_the_Great,_1888).png"}
+   ],
+   "key_concepts": ["Pentacles of Venus", "planetary magic", "Clavicula Salomonis", "love magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__pentacles-mercury",
+   "title": "Pentacles of Mercury and the Moon (Plate XI, Key of Solomon)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "S. L. MacGregor Mathers (ed.), after anonymous Solomonic originals",
+   "date": "1888 (after older originals)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pentacle", "mercury", "moon", "planetary magic", "hebrew letters", "magic seal", "knowledge magic", "divine names"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentacles_of_Mercury_and_the_Moon_(Plate_XI,_The_Key_of_Solomon_the_Great,_1888).png",
+   "summary": "Plate XI of MacGregor Mathers's 1888 *Key of Solomon the King*, carrying the last Pentacles of Mercury and the Pentacles of the Moon — seals of knowledge, opening, travel, and lunar mystery.\n\n## Iconography\nThe sheet joins the Mercurial discs to the Lunar set: pentacles bordered with verses and filled with figures, Hebrew divine names, and the characters of the spirits of Mercury and the Moon. The Mercurial seals confer knowledge, open locks and bindings, and command spirits of intellect; the Lunar seals govern travel, dreams, water, and the opening of doors.\n\n## Significance\nMercury rules intellect, speech, and trickery, the Moon imagination, flux, and the night-side of magic. In [[motif:planetary magic|planetary magic]] their pentacles supply the grimoire's operations of knowledge, communication, and journeying. Mathers's arrangement again lets two planets share a sheet, completing the seven-planet cycle that defined the modern Solomonic canon.\n\n## For artists & game designers\nThe Mercury/Moon 'utility' seals — unlocking, scouting, dreams, communication, and safe-travel effects.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers (ed.), *The Key of Solomon the King* (London, 1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentacles_of_Mercury_and_the_Moon_(Plate_XI,_The_Key_of_Solomon_the_Great,_1888).png"}
+   ],
+   "key_concepts": ["Pentacles of Mercury", "planetary magic", "Clavicula Salomonis", "knowledge magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__pentacles-luna",
+   "title": "First Pentacle of the Moon (Key of Solomon)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "After S. L. MacGregor Mathers's Key of Solomon",
+   "date": "1888 design (after older originals)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pentacle", "moon", "luna", "planetary magic", "hebrew letters", "magic seal", "opening", "divine names"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:First_Pentacle_of_the_Moon.png",
+   "summary": "An isolated rendering of the First Pentacle of the Moon from the *Key of Solomon*, the lunar seal whose special virtue is to open all things that are shut or barred.\n\n## Iconography\nThe disc shows a hand issuing from a cloud and holding a key, surrounded by Hebrew versicle-letters and the divine names proper to the [[motif:moon|Moon]]. The verse drawn from Psalm 107 — 'He hath broken the gates of brass, and cut the bars of iron in sunder' — frames the figure, declaring its power to break open locks, gates, and bindings.\n\n## Significance\nThe planetary pentacles of the *Clavicula Salomonis* each pair a Scriptural verse with a figure that enacts it; here the key-in-hand and the prison-breaking Psalm make the seal a master 'opener.' This single-pentacle rendering circulates widely as a clean reference image, isolating one seal from Mathers's crowded plates for clearer study.\n\n## For artists & game designers\nA literal skeleton-key glyph — the in-game 'unlock' or 'break-binding' sigil, complete with its hand-and-key icon.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers (ed.), *The Key of Solomon the King* (London, 1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:First_Pentacle_of_the_Moon.png"}
+   ],
+   "key_concepts": ["Pentacles of the Moon", "planetary magic", "Clavicula Salomonis", "opening magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__wellcome-magic-circle",
+   "title": "The Magical Circle of Solomon (19th-c. manuscript)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "Anonymous (19th-century Clavicula scribe)",
+   "date": "19th c.",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["magic circle", "divine names", "conjuration", "pentagram", "candles", "ritual diagram", "clavicula salomonis", "protection"],
+   "rights": "Public domain. Via Wikimedia Commons (Wellcome Collection).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Magical_Circle_of_Solomon,_19th_C_Wellcome_L0037445.jpg",
+   "summary": "A hand-drawn Magical Circle of Solomon from a 19th-century manuscript of the *Clavicula Salomonis*, held by the Wellcome Collection.\n\n## Iconography\nThe circle is composed of concentric rings filled with divine and angelic names, crosses, and characters, with stations marked for the operator and for ritual lamps or pentacles. The hand of the copyist is plainly visible in the slightly irregular lettering — this is a working drawing from a practitioner's book, not a printed plate.\n\n## Significance\nThe *Key of Solomon* survived less in print than in a long chain of hand-copied manuscripts, many of them 18th- and 19th-century. Such copies, like those Mathers used for his 1888 edition, preserve the circle in its lived, variable form. The Wellcome Collection's Solomonic manuscripts document this manuscript afterlife of the tradition into the modern era.\n\n## For artists & game designers\nA hand-inked circle with an authentic 'grimoire page' texture — ideal when you want a ritual that looks copied by hand rather than machine-printed.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers (ed.), *The Key of Solomon the King* (1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Magical_Circle_of_Solomon,_19th_C_Wellcome_L0037445.jpg"}
+   ],
+   "key_concepts": ["magic circle", "Clavicula Salomonis", "manuscript tradition", "Wellcome Collection"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__wellcome-circles-seals",
+   "title": "Magical Circles and Seals of Solomon (19th-c. manuscript)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "Anonymous (19th-century Clavicula scribe)",
+   "date": "19th c.",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["magic seal", "magic circle", "pentacle", "divine names", "characteres", "ritual diagram", "clavicula salomonis", "spirit sigil"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Magical_circles_and_seals_of_Solomon,_19th_C_Wellcome_L0037441.jpg",
+   "summary": "A manuscript leaf gathering several magical circles and seals of Solomon, from a 19th-century *Clavicula Salomonis* in the Wellcome Collection.\n\n## Iconography\nThe page arranges multiple discs side by side: small protective circles, planetary pentacles, and abstract spirit-seals (*characteres*), each ringed with Hebrew or pseudo-Hebrew lettering and divine names. Together they form a practitioner's reference sheet — a compact menu of the figures to be inscribed for particular operations.\n\n## Significance\nSolomonic manuscripts routinely collect the seals onto summary plates so the operator can copy the correct figure at the elected planetary hour. This sheet shows how the tradition was actually used: as a working catalogue of interchangeable [[motif:magic seal|seals]] keyed to discrete purposes. The Wellcome holdings preserve a substantial body of these late hand-copies.\n\n## For artists & game designers\nA ready-made 'sigil sheet' — a grid of distinct seals you can crop individually as collectible spell-icons.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers (ed.), *The Key of Solomon the King* (1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Magical_circles_and_seals_of_Solomon,_19th_C_Wellcome_L0037441.jpg"}
+   ],
+   "key_concepts": ["magic seals", "Clavicula Salomonis", "characteres", "Wellcome Collection"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__wellcome-seal-solomon",
+   "title": "A Magical Seal of Solomon (19th-c. manuscript)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "Anonymous (19th-century Clavicula scribe)",
+   "date": "19th c.",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["magic seal", "pentacle", "divine names", "hebrew letters", "concentric circles", "ritual diagram", "clavicula salomonis", "talisman"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A_magical_seal_of_Solomon,_19th_C_Wellcome_L0037457.jpg",
+   "summary": "A single magical seal of Solomon drawn in full on its own leaf, from a 19th-century *Clavicula Salomonis* manuscript in the Wellcome Collection.\n\n## Iconography\nThe seal is a large concentric figure: an outer ring of divine and angelic names, an inner band of Hebrew letters, and a central geometric star or character. Drawn at full page size, it is the kind of seal meant to be transferred onto virgin parchment or metal and consecrated for a specific operation.\n\n## Significance\nIsolated, full-page seals like this served as the master copies from which a working pentacle would be reproduced. The detail and care of the drawing reflect the *Clavicula*'s insistence that a pentacle be inscribed exactly, in the right colours and at the right planetary hour, or it would have no virtue. The Wellcome manuscript preserves the seal in this presentation form.\n\n## For artists & game designers\nA single clean, high-resolution seal — perfect as a focal ritual prop or a UI icon for one powerful spell.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers (ed.), *The Key of Solomon the King* (1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:A_magical_seal_of_Solomon,_19th_C_Wellcome_L0037457.jpg"}
+   ],
+   "key_concepts": ["magic seal", "pentacle", "Clavicula Salomonis", "Wellcome Collection"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__clavicules-salomon-ms",
+   "title": "Les Clavicules de R. Salomon, Vol. II (manuscript)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "Anonymous (French Clavicula scribe)",
+   "date": "18th–19th c.",
+   "place": "France",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pentacle", "magic seal", "divine names", "french manuscript", "clavicula salomonis", "ritual diagram", "hebrew letters", "talisman"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Vol._II._Les_Clavicules_de_R._Salomon_Wellcome_L0073050.jpg",
+   "summary": "A page-opening from *Les Clavicules de R. Salomon* (The Keys of Rabbi Solomon), Volume II — a French *Veritable Clavicules* manuscript held by the Wellcome Collection.\n\n## Iconography\nThe spread shows French ritual text facing finely drawn pentacles and seals, each labelled with its operation and ringed with divine names and Hebrew or pseudo-Hebrew characters. The high-resolution scan captures the inked figures, marginal notes, and the manuscript's careful bilingual presentation.\n\n## Significance\nThe French recension known as *Les Véritables Clavicules de Salomon* was among the most copied grimoires of the 18th and 19th centuries, attributing the work to 'Rabbi Solomon' and standardizing the set of planetary pentacles that Mathers later edited into English. The Wellcome's illustrated volumes are a key witness to this francophone branch of the tradition.\n\n## For artists & game designers\nAn authentic spellbook spread — facing pages of cursive incantation and hand-drawn seals, ideal as an in-game 'grimoire' asset.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers (ed.), *The Key of Solomon the King* (1888), on the French recensions."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Vol._II._Les_Clavicules_de_R._Salomon_Wellcome_L0073050.jpg"}
+   ],
+   "key_concepts": ["Véritables Clavicules", "Clavicula Salomonis", "French grimoire", "Wellcome Collection"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__dee-seal-of-god",
+   "title": "John Dee's Seal of God (Sigillum Dei Aemeth, wax disc)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "John Dee (designed); British Museum object",
+   "date": "16th c.",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "goetia_grimoire",
+   "motifs": ["sigillum dei", "wax seal", "divine names", "angel names", "heptagram", "pentagram", "scrying", "john dee"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee%27s_Seal_of_God_British_Museum_26_07_2013.jpg",
+   "summary": "John Dee's actual wax *Sigillum Dei Aemeth* — the inscribed disc on which his scrying table and crystal rested — photographed as a physical object in the British Museum.\n\n## Iconography\nThe pale wax disc is carved with concentric rings of [[motif:divine names|divine and angelic names]], an outer band of letters and numbers, an inner heptagon and heptagram, and a central pentagram, all derived from the *Liber Juratus* (Sworn Book of Honorius). Unlike the printed Sigillum Dei diagrams, this is the worn, three-dimensional ritual instrument itself.\n\n## Significance\nDee used several such wax seals in his angelic conversations with the scryer Edward Kelley in the 1580s: a large central disc and four smaller feet supported the *mensa* on which the *shew-stone* sat. The surviving British Museum examples are among the most important physical relics of Renaissance angel magic, and differ materially from the engraved Anselmi-derived prints of the same seal. Deborah Harkness's *John Dee's Conversations with Angels* is the standard study.\n\n## For artists & game designers\nThe object form of a famous magic glyph — a worn carved wax disc, showing how a ritual diagram looks as a handled, physical relic.",
+   "citations": [
+    {"text": "Deborah E. Harkness, *John Dee's Conversations with Angels* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:John_Dee%27s_Seal_of_God_British_Museum_26_07_2013.jpg"}
+   ],
+   "key_concepts": ["Sigillum Dei Aemeth", "John Dee", "Liber Juratus", "angelic scrying"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__clavis-inferni-king",
+   "title": "King of the spirits (Clavis Inferni, Sloane 3854)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "Anonymous (Cyprianus / Clavis Inferni scribe)",
+   "date": "Late 18th c.",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["four kings", "spirit king", "conjuration", "watercolour", "clavis inferni", "demon", "ritual diagram", "cardinal directions"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Homme_noir_20138252892_0dec595567_b.jpg",
+   "summary": "A coloured figure of one of the four spirit-kings from the *Clavis Inferni* (Key of Hell), the late-18th-century manuscript magical handbook associated with the *Cyprianus* tradition (British Library Sloane MS 3854).\n\n## Iconography\nThe painting shows a robed regal figure — one of the kings of the four directions — rendered in ink and watercolour with the vivid, slightly naive style typical of the manuscript. The *Clavis Inferni* pairs such figures with circles, seals, and dragons in red, black, and gold to map the spirits ruling the cardinal points.\n\n## Significance\nThe *Clavis Inferni sive magia alba et nigra approbata Metratona* is a short, richly illustrated grimoire attributed to 'Cyprianus,' organizing its magic around the four kings — Oriens, Paymon (Paimon), Egyn, and Amaymon — who govern east, west, north, and south. It is one of the most visually striking surviving ritual manuscripts and a key witness to the late Solomonic and Nordic 'black book' traditions.\n\n## For artists & game designers\nA painted 'spirit-king' boss portrait in authentic period style — colour-coded to a cardinal direction for a four-kings encounter set.",
+   "citations": [
+    {"text": "Stephen Skinner & David Rankine (eds.), *The Goetia of Dr Rudd / Clavis Inferni* studies."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Homme_noir_20138252892_0dec595567_b.jpg"}
+   ],
+   "key_concepts": ["Clavis Inferni", "four kings", "Cyprianus", "spirit hierarchy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__clavis-inferni-pentagram",
+   "title": "Pentagram seal (Clavis Inferni, Sloane 3854)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "Anonymous (Cyprianus / Clavis Inferni scribe)",
+   "date": "Late 18th c.",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pentagram", "magic seal", "clavis inferni", "divine names", "watercolour", "ritual diagram", "protection", "cyprianus"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentagramme_19523661354_1b1de1696d_c.jpg",
+   "summary": "A coloured pentagram-seal page from the *Clavis Inferni* (Key of Hell), the illustrated late-18th-century *Cyprianus* grimoire (British Library Sloane MS 3854).\n\n## Iconography\nThe page centres a [[motif:pentagram|pentagram]] within a ring of names and characters, painted in the manuscript's signature red, black, and gold. The five-pointed star anchors the protective and commanding power of the figure, surrounded by the letters and seals that bind it to a particular operation.\n\n## Significance\nThe *Clavis Inferni* is unusually pictorial for a grimoire, presenting its magic as a sequence of boldly coloured seals, circles, and emblematic figures rather than dense text. Its pentagrams and characters belong to the same Solomonic family as the *Clavicula* pentacles but in a vivid Northern-European manuscript idiom. Stephen Skinner and David Rankine have published facsimile studies of the manuscript.\n\n## For artists & game designers\nA painterly, period-authentic pentagram prop — strong reference for hand-coloured ward art in red, black, and gold.",
+   "citations": [
+    {"text": "Stephen Skinner & David Rankine, studies of the *Clavis Inferni* (Sloane MS 3854)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentagramme_19523661354_1b1de1696d_c.jpg"}
+   ],
+   "key_concepts": ["Clavis Inferni", "pentagram", "Cyprianus", "magic seal"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__clavis-inferni-dragon",
+   "title": "Dragon figure (Clavis Inferni, Sloane 3854)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "Anonymous (Cyprianus / Clavis Inferni scribe)",
+   "date": "Late 18th c.",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["dragon", "serpent", "clavis inferni", "watercolour", "emblem", "ritual diagram", "cyprianus", "demon"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Dragon_19959622709_127459ab19_c.jpg",
+   "summary": "A coloured dragon emblem from the *Clavis Inferni* (Key of Hell), the illustrated *Cyprianus* grimoire (British Library Sloane MS 3854).\n\n## Iconography\nThe figure is a coiled or rampant [[motif:dragon|dragon]], painted in the manuscript's vivid reds and golds, set among the seals and circles that structure the book. In this tradition the dragon stands for the chained infernal power the magician claims to govern through the names of God and the angel Metatron.\n\n## Significance\nThe full title — *Clavis Inferni sive magia alba et nigra approbata Metratona* ('Key of Hell, or white and black magic approved by Metatron') — frames its bold imagery as licensed by the highest angel. The dragon and serpent motifs link the manuscript to a wider Northern grimoire iconography of bound chaos, and make the *Clavis Inferni* one of the most visually memorable of all surviving ritual books.\n\n## For artists & game designers\nA period-authentic dragon sigil-emblem — a heraldic 'bound beast' device rather than a naturalistic monster.",
+   "citations": [
+    {"text": "Stephen Skinner & David Rankine, studies of the *Clavis Inferni* (Sloane MS 3854)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Dragon_19959622709_127459ab19_c.jpg"}
+   ],
+   "key_concepts": ["Clavis Inferni", "dragon emblem", "Cyprianus", "Metatron"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__cyprianus-gold-seal",
+   "title": "Gold seal from Cyprianus (18th-c. black book)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "Anonymous (Scandinavian Cyprianus scribe)",
+   "date": "18th c.",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["magic seal", "gold", "divine names", "cyprianus", "black book", "ritual diagram", "characteres", "talisman"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Gold_seal_from_Cyprianus,_18th_C_Wellcome_L0036629.jpg",
+   "summary": "A gold-painted magical seal from an 18th-century *Cyprianus* — the Scandinavian 'black book' branch of the Solomonic tradition — held by the Wellcome Collection.\n\n## Iconography\nThe seal is a circular figure brushed in gold, filled with characters, crosses, and divine names. The lavish use of gold marks it as a high-status, high-power [[motif:magic seal|seal]], to be copied for an important operation; the surrounding script names the spirits and holy powers it commands.\n\n## Significance\nThe *Cyprianus* or *Svartebok* ('black book') was the Nordic folk-magical descendant of the learned Solomonic grimoires, attributed to a legendary penitent magician 'Cyprian.' Such manuscripts mixed *Clavicula*-style seals with charms for healing, theft-detection, and treasure-finding, carrying elite ritual magic into vernacular practice. The Wellcome holds several illustrated examples.\n\n## For artists & game designers\nA gilded 'rare' seal variant — use gold to signal a higher-tier or legendary version of an otherwise ordinary sigil.",
+   "citations": [
+    {"text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Gold_seal_from_Cyprianus,_18th_C_Wellcome_L0036629.jpg"}
+   ],
+   "key_concepts": ["Cyprianus", "black book", "magic seal", "Scandinavian magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__cyprianus-pentagram-seal",
+   "title": "Pentagram seal from Cyprianus (18th-c. black book)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "Anonymous (Scandinavian Cyprianus scribe)",
+   "date": "18th c.",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pentagram", "magic seal", "divine names", "cyprianus", "black book", "ritual diagram", "protection", "characteres"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentagram_seal,_from_Cyprianus,_18th_C_Wellcome_L0036627.jpg",
+   "summary": "A pentagram seal from an 18th-century *Cyprianus* 'black book' of the Solomonic tradition, in the Wellcome Collection.\n\n## Iconography\nThe page sets a [[motif:pentagram|pentagram]] within a ring of characters and divine names, drawn in the bold, untrained hand typical of vernacular magical manuscripts. Each point and angle of the star carries letters that key it to the protective or commanding purpose of the seal.\n\n## Significance\nThe pentagram was the all-purpose ward and command-figure of the Solomonic books, and its appearance in a Nordic *Cyprianus* shows how the learned seal-magic of the *Clavicula* filtered down into folk grimoires. These black books were genuinely used — for protection, healing, and luck — and survive in numbers across Scandinavia. The Wellcome's examples document the popular reach of the tradition.\n\n## For artists & game designers\nA rougher, folk-hand pentagram — useful when you want a ward that reads as homemade or peasant-magic rather than scholarly.",
+   "citations": [
+    {"text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentagram_seal,_from_Cyprianus,_18th_C_Wellcome_L0036627.jpg"}
+   ],
+   "key_concepts": ["Cyprianus", "pentagram", "black book", "folk magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__cyprianus-metatron",
+   "title": "The Archangel Metatron from Cyprianus (18th c.)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "Anonymous (Scandinavian Cyprianus scribe)",
+   "date": "18th c.",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["metatron", "archangel", "divine names", "cyprianus", "black book", "watercolour", "angelic figure", "ritual diagram"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Archangel_Metraton,_from_Cyprianus,_18th_C_Wellcome_L0036626.jpg",
+   "summary": "A painted figure of the archangel Metatron from an 18th-century *Cyprianus* black book of the Solomonic tradition, held by the Wellcome Collection.\n\n## Iconography\nThe angel is depicted frontally with wings and robes, surrounded by his name and attendant characters in the manuscript's vivid colours. As the supreme angel of the divine presence, [[motif:metatron|Metatron]] is invoked to authorize and empower the operations of the book.\n\n## Significance\nMetatron — the 'lesser YHWH' of Jewish mystical lore who stands nearest the throne of God — was a favourite guarantor of grimoire magic; the *Clavis Inferni*, indeed, declares itself 'approved by Metatron.' His prominent portrait in a Nordic black book shows how thoroughly Kabbalistic angelology was absorbed into vernacular Solomonic practice. The Wellcome's *Cyprianus* preserves this striking angelic image.\n\n## For artists & game designers\nA folk-painted patron-angel portrait — a 'sponsor deity' figure whose presence in a spellbook licenses the player's magic.",
+   "citations": [
+    {"text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Archangel_Metraton,_from_Cyprianus,_18th_C_Wellcome_L0036626.jpg"}
+   ],
+   "key_concepts": ["Metatron", "Cyprianus", "angelic magic", "black book"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__grand-grimoire-title",
+   "title": "The Grand Grimoire (title page)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "Anonymous (attributed to 'Antonio Venitiana del Rabina')",
+   "date": "Printed editions 18th–19th c.",
+   "place": "France",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["grand grimoire", "title page", "black magic", "pact", "conjuration", "lucifuge", "printed grimoire", "infernal magic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Grand_Grigoire_(cropped).jpg",
+   "summary": "The title page of the *Grand Grimoire* (Le Grand Grimoire), the notorious early-modern French handbook of black evocation and infernal pacts.\n\n## Iconography\nThe printed title page announces the work and its false provenance — a supposed manuscript of King Solomon recovered and printed — framed in the plain typographic style of the cheap *Bibliothèque bleue* chapbooks through which it circulated. The text promises power over the infernal spirit Lucifuge Rofocale and the secret of the *clavicle* of Solomon.\n\n## Significance\nThe *Grand Grimoire*, also issued as *Le Dragon rouge* (The Red Dragon), is the darkest of the popular French grimoires: it teaches the magic circle of black evocation and the drawing up of a pact with Lucifuge Rofocale, prime minister of Hell. Though pretending to ancient Solomonic origin, it is an 18th–19th-century compilation that became infamous in folklore as the most dangerous of all magic books. Owen Davies treats its publishing history in detail.\n\n## For artists & game designers\nAn authentic 'forbidden book' cover — the title page alone signals a high-stakes, pact-with-the-devil questline.",
+   "citations": [
+    {"text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Grand_Grigoire_(cropped).jpg"}
+   ],
+   "key_concepts": ["Grand Grimoire", "Red Dragon", "infernal pact", "black evocation"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "solomonic_tradition__lucifuge-rofocale-seal",
+   "title": "Seal of Lucifuge Rofocale (Grand Grimoire)",
+   "work": "The Solomonic Grimoire Tradition",
+   "creator": "Anonymous (Grand Grimoire / Red Dragon tradition)",
+   "date": "Printed editions 18th–19th c.",
+   "place": "France",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["demon seal", "lucifuge", "pact", "sigil", "grand grimoire", "black magic", "spirit signature", "infernal magic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lucifuge_Rofocale_02.jpg",
+   "summary": "The conjuring seal of Lucifuge Rofocale, the infernal minister with whom the operator of the *Grand Grimoire* makes his pact.\n\n## Iconography\nThe sigil is an abstract linear glyph — loops, crosses, and barbs forming the 'signature' of the spirit — of the kind drawn on the pact and shown during evocation to compel the demon's appearance. Like the [[motif:demon seal|Goetic seals]], it functions as a binding true-name in graphic form.\n\n## Significance\nLucifuge Rofocale ('the one who flees the light') is named in the *Grand Grimoire* as the prime minister of Hell, controller of the world's wealth, who must be bargained with through the dread *Grand Conjuration*. His seal is among the most reproduced of the French 'black magic' sigils, central to the book's reputation as a manual for selling one's soul for treasure. The figure belongs to the same sigil-logic as the Solomonic spirit seals.\n\n## For artists & game designers\nA single 'devil's signature' glyph — the icon you stamp on an in-game pact or contract item.",
+   "citations": [
+    {"text": "Owen Davies, *Grimoires: A History of Magic Books* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lucifuge_Rofocale_02.jpg"}
+   ],
+   "key_concepts": ["Lucifuge Rofocale", "Grand Grimoire", "demon seal", "infernal pact"],
+   "summary_status": "authored"
+  }
+ ]
+}

@@ -1,0 +1,1007 @@
+{
+ "_work": {
+  "key": "apocalypse_revelation",
+  "short_id": "APOC",
+  "title": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+  "creator": "various",
+  "date": "9th–19th c.",
+  "century": 15,
+  "place": "Europe",
+  "region": "Europe",
+  "language": "Latin",
+  "era": "renaissance",
+  "tradition": "reception",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "apocalypse_revelation",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Book_of_Revelation",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "apocalypse",
+   "seven-headed beast",
+   "whore of babylon",
+   "four horsemen",
+   "dragon",
+   "last judgement"
+  ],
+  "blurb": "The supernatural imagination of the Book of Revelation across Western art — Albrecht Dürer's epoch-making Apocalypse woodcuts (the Four Horsemen, St Michael and the Dragon, the Whore of Babylon), the Mozarabic Beatus of Liébana commentaries of medieval Spain, the Angers Apocalypse Tapestry, the Carolingian Trier and Ottonian Bamberg Apocalypses, the Cloisters Apocalypse, William Blake's visionary watercolours, and Last Judgement imagery from Giotto, Memling, and Signorelli's Antichrist — a gallery of cosmic monsters, hellmouths, and the seer of Patmos."
+ },
+ "entries": [
+  {
+   "id": "apocalypse_revelation__durer-four-horsemen",
+   "title": "The Four Horsemen of the Apocalypse",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Albrecht Dürer",
+   "date": "c. 1497–98 (woodcut)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "four horsemen",
+    "conquest",
+    "war",
+    "famine",
+    "death",
+    "apocalypse",
+    "woodcut",
+    "trampled multitude"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Four_Horsemen_(CBL_WEp_0021).jpg",
+   "summary": "Albrecht Dürer's *The Four Horsemen of the Apocalypse*, the most famous sheet of his *Apocalypse* woodcut series, depicting Revelation 6's riders unleashed at the opening of the first four seals.\n\n## Iconography\nFour horsemen charge in a compressed diagonal sweep: the crowned bowman (Conquest), the swordsman (War), the rider with the merchant's scales (Famine), and gaunt Death on a sickly nag, beneath whom a hellmouth devours an emperor and the trampled multitude. An angel hovers above the surge of figures.\n\n## Significance\nDürer's *Apocalypse* (published 1498 in Latin and German) was the first book ever produced and published by an artist himself, and it transformed the [[motif:apocalypse|apocalyptic]] visual tradition. The compression of the four riders into a single thundering rank — earlier cycles spaced them across separate scenes — became the definitive image of the Horsemen and shaped doom imagery for centuries amid the millennial anxieties around the year 1500.\n\n## For artists & game designers\nThe template for an 'all four at once' charging-cavalry composition; each rider is individuated by a single attribute (bow, sword, scales, scythe) for instant legibility.",
+   "citations": [
+    {
+     "text": "Erwin Panofsky, *The Life and Art of Albrecht Dürer* (1943)."
+    },
+    {
+     "text": "Revelation 6:1–8."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:The_Four_Horsemen_(CBL_WEp_0021).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Four Horsemen",
+    "Dürer Apocalypse",
+    "Book of Revelation",
+    "woodcut series"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__durer-michael-dragon",
+   "title": "St Michael Fighting the Dragon",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Albrecht Dürer",
+   "date": "c. 1496–98 (woodcut)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "archangel michael",
+    "dragon",
+    "war in heaven",
+    "spear",
+    "fallen angels",
+    "apocalypse",
+    "woodcut",
+    "serene landscape"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:St._Michael_fighting_the_dragon)_-_AD_LCCN90707832.jpg",
+   "summary": "Dürer's *St Michael Fighting the Dragon* from the *Apocalypse* series, illustrating the War in Heaven of Revelation 12.\n\n## Iconography\nThe archangel Michael, flanked by angelic comrades, drives his long spear down into the writhing, multi-limbed [[motif:dragon|dragon]] amid a tangle of falling demonic beasts. Below the celestial battle, a serene, finely observed landscape with a town and broad river stretches in luminous calm — a deliberate contrast between cosmic violence above and earthly peace below.\n\n## Significance\nRevelation 12:7–9 describes Michael and his angels casting down 'the great dragon... that old serpent, called the Devil, and Satan.' Dürer fuses the late-medieval iconography of the dragon-slaying archangel with his new naturalism; the radiant landscape beneath the fray is one of the earliest such passages in printmaking and exemplifies how the *Apocalypse* married visionary subject to Renaissance observation.\n\n## For artists & game designers\nA masterclass in staging an aerial boss fight: chaotic massed combat above a tranquil establishing landscape grounds the supernatural scale.",
+   "citations": [
+    {
+     "text": "Erwin Panofsky, *The Life and Art of Albrecht Dürer* (1943)."
+    },
+    {
+     "text": "Revelation 12:7–9."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:St._Michael_fighting_the_dragon)_-_AD_LCCN90707832.jpg"
+    }
+   ],
+   "key_concepts": [
+    "St Michael",
+    "War in Heaven",
+    "Dürer Apocalypse",
+    "dragon"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__durer-whore-babylon",
+   "title": "The Whore of Babylon",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Albrecht Dürer",
+   "date": "c. 1496–98 (woodcut)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "whore of babylon",
+    "seven-headed beast",
+    "golden cup",
+    "fornication of kings",
+    "great city",
+    "apocalypse",
+    "woodcut",
+    "venetian courtesan"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_The_Babylonian_Whore_from_the_Apocalypse_(LACMA).jpg",
+   "summary": "Dürer's *The Whore of Babylon* from the *Apocalypse* series, illustrating Revelation 17 — the great harlot enthroned on the seven-headed beast.\n\n## Iconography\nThe richly dressed [[motif:whore of babylon|Whore of Babylon]] rides the scarlet seven-headed, ten-horned beast, raising her golden cup 'full of abominations.' A crowd of kings and worldly powers gazes up at her, while an angel above shows St John the destruction of the great city as fire consumes it in the background. Dürer reputedly modelled her costume on a Venetian courtesan he had sketched.\n\n## Significance\nThe harlot 'with whom the kings of the earth have committed fornication' (Rev. 17:2) was, in Reformation polemic that soon followed, read as a figure for corrupt worldly power and (in Protestant use) for Rome. Dürer's image fixed the visual type of the cup-bearing woman on the [[motif:seven-headed beast|seven-headed beast]] for the whole early-modern period.\n\n## For artists & game designers\nA seductive antagonist mounted on a many-headed monster — pair an alluring figure with a grotesque beast to externalise corruption.",
+   "citations": [
+    {
+     "text": "Erwin Panofsky, *The Life and Art of Albrecht Dürer* (1943)."
+    },
+    {
+     "text": "Revelation 17."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_The_Babylonian_Whore_from_the_Apocalypse_(LACMA).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Whore of Babylon",
+    "seven-headed beast",
+    "Dürer Apocalypse",
+    "Revelation 17"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__durer-seven-headed-beast",
+   "title": "The Beast with Two Horns Like a Lamb",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Albrecht Dürer",
+   "date": "c. 1496–98 (woodcut)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "beast from the earth",
+    "false prophet",
+    "two horns",
+    "seven-headed beast",
+    "worship",
+    "fire from heaven",
+    "apocalypse",
+    "woodcut"
+   ],
+   "rights": "CC0 / Public domain. National Gallery of Art. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_The_Beast_with_Two_Horns_like_a_Lamb,_probably_c._1496-1498,_NGA_6683.jpg",
+   "summary": "Dürer's *The Beast with Two Horns Like a Lamb* from the *Apocalypse* series, illustrating the second beast — the false prophet — of Revelation 13.\n\n## Iconography\nThe two-horned [[motif:beast from the earth|beast from the earth]] commands the people to worship the first, seven-headed beast (visible at the upper left), while fire falls from heaven at its bidding and martyrs are slain. The composition pairs the deceiving 'lamb-horned' beast that 'spake as a dragon' with the great wounded beast it serves.\n\n## Significance\nRevelation 13:11–18 describes a second beast 'coming up out of the earth' with 'two horns like a lamb' who works deceiving signs and enforces the mark and [[motif:number of the beast|number of the beast]], 666. Later identified with the false prophet and the Antichrist's herald, the two-horned beast supplied a key symbol for apocalyptic exegesis. Dürer's plate distils the deception-and-coerced-worship theme.\n\n## For artists & game designers\nThe 'false lamb' is a deceiver archetype — a meek-seeming herald enforcing the true monster's will, useful for a cult-enforcer NPC.",
+   "citations": [
+    {
+     "text": "Erwin Panofsky, *The Life and Art of Albrecht Dürer* (1943)."
+    },
+    {
+     "text": "Revelation 13:11–18."
+    },
+    {
+     "text": "National Gallery of Art (CC0)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_The_Beast_with_Two_Horns_like_a_Lamb,_probably_c._1496-1498,_NGA_6683.jpg"
+    }
+   ],
+   "key_concepts": [
+    "beast from the earth",
+    "false prophet",
+    "Dürer Apocalypse",
+    "Revelation 13"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__durer-seventh-seal",
+   "title": "The Opening of the Seventh Seal (The Trumpet Angels)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Albrecht Dürer",
+   "date": "1498 (woodcut, Houghton copy)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "seventh seal",
+    "seven trumpets",
+    "angels",
+    "eagle of woe",
+    "hail and fire",
+    "apocalypse",
+    "woodcut",
+    "censer"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Houghton_Typ_Inc_2121A_-_D%C3%BCrer,_Apocalypse,_29.jpg",
+   "summary": "A leaf of Dürer's *Apocalypse* (Houghton Library copy) showing the opening of the seventh seal and the seven angels with trumpets of Revelation 8.\n\n## Iconography\nAfter the [[motif:seventh seal|seventh seal]] is opened and 'there was silence in heaven,' seven angels receive their trumpets; an angel casts a censer of fire to earth, and at the first blasts hail and fire mingled with blood fall while a third of creation is struck. An eagle flies crying 'Woe, woe, woe' to the inhabitants of the earth.\n\n## Significance\nRevelation 8 marks the hinge between the seals and the trumpet-plagues, a cascade of cosmic catastrophe. Dürer's dense, swirling design conveys the escalating violence of the seven trumpets, integrating the censer-angel, the falling fire, and the woe-crying eagle into one charged sheet of his transformative woodcut cycle.\n\n## For artists & game designers\nA reference for staging escalating disaster: stacked celestial events (silence → trumpets → falling fire) read as successive 'waves' of an apocalypse sequence.",
+   "citations": [
+    {
+     "text": "Erwin Panofsky, *The Life and Art of Albrecht Dürer* (1943)."
+    },
+    {
+     "text": "Revelation 8."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Houghton_Typ_Inc_2121A_-_D%C3%BCrer,_Apocalypse,_29.jpg"
+    }
+   ],
+   "key_concepts": [
+    "seventh seal",
+    "seven trumpets",
+    "Dürer Apocalypse",
+    "Revelation 8"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__durer-woman-clothed-sun",
+   "title": "The Woman Clothed with the Sun and the Seven-Headed Dragon",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Albrecht Dürer",
+   "date": "c. 1496–98 (woodcut)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "woman clothed with the sun",
+    "crown of twelve stars",
+    "seven-headed dragon",
+    "moon underfoot",
+    "man child",
+    "apocalypse",
+    "woodcut",
+    "wings of eagle"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_A_Mulher_Revestida_de_Sol.jpg",
+   "summary": "Dürer's *The Woman Clothed with the Sun*, illustrating Revelation 12 — the celestial woman menaced by the great red dragon.\n\n## Iconography\nThe [[motif:woman clothed with the sun|Woman]] stands radiant, 'clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars,' her newborn man-child caught up to God's throne above. Below, the seven-headed, ten-horned dragon sweeps a third of the stars down with its tail and waits to devour the child; in the upper register God receives the infant while angels look on.\n\n## Significance\nThe sun-clothed woman of Revelation 12 was read both as the Church persecuted by the dragon and, in Marian devotion, as the Virgin — the source of the *Immaculata* / Apocalyptic Madonna iconography on the crescent moon. Dürer's compact design joins the cosmic-woman motif to the [[motif:dragon|seven-headed dragon]], one of the most enduring of all apocalyptic pairings.\n\n## For artists & game designers\nA luminous protagonist over a coiling many-headed dragon — a built-in vertical composition of light above, monster below.",
+   "citations": [
+    {
+     "text": "Erwin Panofsky, *The Life and Art of Albrecht Dürer* (1943)."
+    },
+    {
+     "text": "Revelation 12:1–6."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_A_Mulher_Revestida_de_Sol.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Woman Clothed with the Sun",
+    "seven-headed dragon",
+    "Dürer Apocalypse",
+    "Revelation 12"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__durer-john-devours-book",
+   "title": "St John Devouring the Book",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Albrecht Dürer",
+   "date": "c. 1496–98 (woodcut)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "john of patmos",
+    "mighty angel",
+    "little book",
+    "rainbow",
+    "pillars of fire",
+    "measuring reed",
+    "apocalypse",
+    "woodcut"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_Saint_John_Devouring_the_Book,_probably_c._1496-1498,_NGA_851.jpg",
+   "summary": "Dürer's *St John Devouring the Book* from the *Apocalypse* series, illustrating Revelation 10 — the seer eating the angel's little scroll.\n\n## Iconography\nA colossal angel, 'clothed with a cloud,' with a rainbow upon his head, a face like the sun, and feet as pillars of fire, descends with one foot on the sea and one on the land, holding open a little book. [[motif:john of patmos|St John]] kneels and takes the book to eat it — 'sweet as honey' in his mouth, bitter in his belly — while a hand gives him the measuring reed.\n\n## Significance\nThe eating of the scroll (Rev. 10:8–11) is the prophet's commissioning to 'prophesy again,' echoing Ezekiel's scroll-eating. Dürer renders the overwhelming scale of the cloud-angel with dramatic foreshortening, a tour de force of the woodcut medium that makes the act of consuming divine revelation physically vivid.\n\n## For artists & game designers\nA giant celestial NPC straddling sea and land, dwarfing the human witness — an effective scale-contrast for a revelation/quest-giving beat.",
+   "citations": [
+    {
+     "text": "Erwin Panofsky, *The Life and Art of Albrecht Dürer* (1943)."
+    },
+    {
+     "text": "Revelation 10:8–11; Ezekiel 3."
+    },
+    {
+     "text": "National Gallery of Art.",
+     "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_Saint_John_Devouring_the_Book,_probably_c._1496-1498,_NGA_851.jpg"
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_Saint_John_Devouring_the_Book,_probably_c._1496-1498,_NGA_851.jpg"
+    }
+   ],
+   "key_concepts": [
+    "St John Devouring the Book",
+    "mighty angel",
+    "Dürer Apocalypse",
+    "Revelation 10"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__facundus-beatus-beast",
+   "title": "The Flood and Noah's Ark (Gerona Beatus)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Emeterius and the nun Ende (En/Ende)",
+   "date": "975 (Mozarabic illumination)",
+   "place": "Tábara, León, Spain",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": [
+    "beatus of liebana",
+    "mozarabic",
+    "noahs ark",
+    "the flood",
+    "apocalypse commentary",
+    "manuscript illumination",
+    " raven and dove",
+    "drowned"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Gerona_Beatus,_Noahs_ark,_the_flood.jpg",
+   "summary": "A folio from the *Gerona Beatus* (975), one of the great illuminated copies of Beatus of Liébana's *Commentary on the Apocalypse*, here showing Noah's Ark and the Flood.\n\n## Iconography\nThe Ark rides a register of waves choked with the drowned and the swimming dead; Noah leans from a window to receive the returning dove (and the wandering raven), the animals housed within. The flat gold and vivid bands of [[motif:mozarabic|Mozarabic]] colour, and the schematic, frontal figures are hallmarks of the Spanish Beatus style.\n\n## Significance\nBeatus of Liébana compiled his *Commentary on the Apocalypse* c. 776 in northern Spain; its richly illustrated copies are the supreme monuments of Mozarabic art. The Gerona codex was illuminated in 975 by the painter Emeterius and the nun **Ende** (*En depintrix*), one of the earliest named women artists in Europe. The Flood here prefigures the apocalyptic deluge of judgement that the commentary expounds.\n\n## For artists & game designers\nMozarabic palette and flat banded grounds offer a distinctive non-naturalistic visual key for a 'sacred manuscript' aesthetic.",
+   "citations": [
+    {
+     "text": "John Williams, *The Illustrated Beatus*, 5 vols. (1994–2003)."
+    },
+    {
+     "text": "Beatus of Liébana, *Commentary on the Apocalypse* (Gerona codex, 975)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Gerona_Beatus,_Noahs_ark,_the_flood.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Beatus of Liébana",
+    "Gerona Beatus",
+    "Ende",
+    "Mozarabic illumination"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__morgan-beatus",
+   "title": "The Las Huelgas Beatus (Morgan MS M.429)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Anonymous (Castilian workshop)",
+   "date": "1220",
+   "place": "Castile, Spain",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": [
+    "beatus of liebana",
+    "apocalypse commentary",
+    "mozarabic survival",
+    "manuscript illumination",
+    "morgan library",
+    "visionary",
+    "gold ground",
+    "spanish"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Las_Huelgas_Beatus_-_f149.jpg",
+   "summary": "A folio (f.149) of the *Las Huelgas Beatus*, the latest and largest of the dated Beatus manuscripts, now Morgan Library & Museum MS M.429.\n\n## Iconography\nThe page carries one of the cycle's apocalyptic scenes within the strong framing bands and saturated grounds of the Beatus tradition, the figures set against fields of flat colour in the conservative Spanish style that preserved Mozarabic conventions long after Romanesque naturalism had spread elsewhere.\n\n## Significance\nMade in 1220 for the royal Cistercian convent of Santa María la Real de [[motif:beatus of liebana|Las Huelgas]] near Burgos, this is the last firmly dated illustrated Beatus and the most monumental in scale. Acquired by J. P. Morgan, it stands at the end of a four-century tradition of illuminating Beatus of Liébana's *Commentary on the Apocalypse*, the great Iberian vehicle for visualising Revelation's beasts, angels, and cosmic diagrams.\n\n## For artists & game designers\nThe persistence of an archaic, gold-grounded 'old style' into the 13th century is a model for worlds where a sacred visual idiom resists fashion.",
+   "citations": [
+    {
+     "text": "John Williams, *The Illustrated Beatus*, vol. 5 (2003)."
+    },
+    {
+     "text": "Morgan Library & Museum, MS M.429 (Las Huelgas Beatus, 1220)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Las_Huelgas_Beatus_-_f149.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Las Huelgas Beatus",
+    "Morgan MS M.429",
+    "Beatus of Liébana",
+    "Apocalypse commentary"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__saint-sever-beatus",
+   "title": "The Saint-Sever Beatus (f. 159r)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Stephanus Garsia (Stephen Garsia) and others",
+   "date": "c. 1060–70",
+   "place": "Saint-Sever, Gascony, France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": [
+    "beatus of liebana",
+    "apocalypse commentary",
+    "french beatus",
+    "manuscript illumination",
+    "visionary",
+    "angels",
+    "saint-sever",
+    "romanesque"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Saint-Sever_Beatus_f._159r_-_crop.jpg",
+   "summary": "A folio (f.159r) of the *Saint-Sever Beatus*, the only Beatus *Commentary on the Apocalypse* produced outside Spain, made in Gascony and now in the Bibliothèque nationale de France.\n\n## Iconography\nThe scene unfolds across the Beatus tradition's coloured registers, illustrating one of Revelation's visions with the energetic, expressive figure-style of its principal illuminator. The French setting introduces a distinct, more dynamic line to the inherited [[motif:mozarabic|Mozarabic]] models.\n\n## Significance\nIllustrated around 1060–70 at the Gascon abbey of Saint-Sever under abbot Gregory Muntaner, and signed in part by the painter **Stephanus Garsia**, this is the unique non-Iberian copy of Beatus of Liébana's commentary. Its hybrid of Spanish iconography and Romanesque French drawing made it famous; Picasso is reputed to have studied its grimacing faces. It transmits the apocalyptic cycle — beasts, angels, the cosmic Jerusalem — to a French audience.\n\n## For artists & game designers\nA case study in style transfer: the same iconographic program rendered in a new regional hand yields fresh energy without changing content.",
+   "citations": [
+    {
+     "text": "John Williams, *The Illustrated Beatus* (1994–2003)."
+    },
+    {
+     "text": "Bibliothèque nationale de France, MS lat. 8878 (Saint-Sever Beatus)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Saint-Sever_Beatus_f._159r_-_crop.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Saint-Sever Beatus",
+    "Stephanus Garsia",
+    "Beatus of Liébana",
+    "Romanesque illumination"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__angers-tapestry",
+   "title": "The Apocalypse Tapestry of Angers",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Designed by Jean Bondol; woven by Nicolas Bataille's workshop",
+   "date": "1377–1382",
+   "place": "Paris / Angers, France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": [
+    "apocalypse tapestry",
+    "seven-headed beast",
+    "dragon",
+    "john of patmos",
+    "monumental weaving",
+    "gothic",
+    "revelation cycle",
+    "narrative register"
+   ],
+   "rights": "CC BY 2.0. Photo Jean-Pierre Dalbéra. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:La_tenture_de_lApocalypse_(Angers)_(2).jpg",
+   "summary": "A panel of the *Apocalypse Tapestry* of Angers, the largest surviving medieval tapestry set, illustrating the visions of the Book of Revelation.\n\n## Iconography\nIn the tapestry's signature format, [[motif:john of patmos|St John]] watches each vision from a small architectural niche at the side while the main field stages the scene — here among the cycle's monsters: the seven-headed dragon, the beasts from sea and earth, and the angels of judgement, woven in red, blue, and gold wool across vast registers.\n\n## Significance\nCommissioned c. 1375 by Louis I, Duke of Anjou, designed by the court painter Jean Bondol (Hennequin de Bruges) after illuminated Apocalypse manuscripts, and woven in Paris by Nicolas Bataille's workshop (1377–82), the set originally ran some 140 metres. It is the supreme monumental rendering of Revelation and a landmark of Gothic narrative art, preserved at the Château d'Angers.\n\n## For artists & game designers\nThe 'witness in a niche beside the action' device is an elegant way to embed a point-of-view observer in every scene of a narrative cycle.",
+   "citations": [
+    {
+     "text": "Pierre-Marie Auzas et al., *L'Apocalypse d'Angers* (1985)."
+    },
+    {
+     "text": "Photograph © Jean-Pierre Dalbéra (CC BY 2.0)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:La_tenture_de_lApocalypse_(Angers)_(2).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Apocalypse Tapestry",
+    "Angers",
+    "Jean Bondol",
+    "Nicolas Bataille"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__bamberg-apocalypse",
+   "title": "The Bamberg Apocalypse (miniature, after the Ottonian manuscript)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Reichenau school (Ottonian); reproduced in a 1893 history of art",
+   "date": "c. 1000–1020 (original); 1893 reproduction",
+   "place": "Reichenau, German lands",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": [
+    "ottonian",
+    "bamberg apocalypse",
+    "gold ground",
+    "apocalypse cycle",
+    "reichenau",
+    "manuscript illumination",
+    "imperial",
+    "visionary"
+   ],
+   "rights": "No known restrictions. Via Wikimedia Commons (Internet Archive Book Images).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:History_of_medi%C3%A6val_art_(1893)_(14777216111).jpg",
+   "summary": "A reproduction (from an 1893 *History of Medieval Art*) of a miniature from the *Bamberg Apocalypse*, the great Ottonian illustrated Revelation.\n\n## Iconography\nThe image preserves the monumental, gold-ground manner of the [[motif:ottonian|Ottonian]] Reichenau school: large hieratic figures, deep saturated grounds, and a stately presentation of the apocalyptic vision, with the seer and the heavenly powers set against shimmering fields rather than landscape.\n\n## Significance\nThe *Bamberg Apocalypse* (Bamberg, Staatsbibliothek, Msc. Bibl. 140) was produced around 1000–1020 at the island monastery of Reichenau, probably for Emperor Otto III or Henry II, and is among the masterpieces of Ottonian book painting and a UNESCO 'Memory of the World' manuscript. Its grand, abstracting style gives Revelation an imperial, liturgical solemnity distinct from later narrative cycles.\n\n## For artists & game designers\nThe Ottonian preference for gold voids over landscape is a strong stylistic choice for scenes meant to feel timeless and sacred rather than located.",
+   "citations": [
+    {
+     "text": "Gude Suckale-Redlefsen & Bernhard Schemmel, *Die Bamberger Apokalypse* (2000)."
+    },
+    {
+     "text": "Bamberg, Staatsbibliothek, Msc. Bibl. 140."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:History_of_medi%C3%A6val_art_(1893)_(14777216111).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Bamberg Apocalypse",
+    "Ottonian art",
+    "Reichenau school",
+    "Apocalypse manuscript"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__trier-apocalypse",
+   "title": "The Trier Apocalypse (fol. 11v)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Anonymous (Carolingian)",
+   "date": "first half of the 9th c.",
+   "place": "northern France / German lands",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": [
+    "carolingian",
+    "trier apocalypse",
+    "oldest apocalypse cycle",
+    "john of patmos",
+    "manuscript illumination",
+    "visionary",
+    "early medieval",
+    "revelation"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Trierer_Apokalypse_fol_11v.jpg",
+   "summary": "A folio (fol. 11v) of the *Trier Apocalypse*, the earliest surviving fully illustrated cycle of the Book of Revelation.\n\n## Iconography\nThe miniature presents one of Revelation's visions in the spare, large-figured Carolingian manner, the scene laid out clearly against a plain ground so the narrative reads at a glance — an early, foundational attempt to give the Apocalypse a complete picture-cycle.\n\n## Significance\nThe *Trier Apocalypse* (Trier, Stadtbibliothek, Cod. 31) was made in the first half of the 9th century, probably in a northern French scriptorium, and is the oldest extant illustrated Apocalypse. Its 74 miniatures became a fountainhead for the medieval iconography of Revelation, transmitted through later Carolingian and Romanesque copies. It marks the beginning of the long Western tradition of [[motif:apocalypse|apocalyptic]] picture-cycles.\n\n## For artists & game designers\nThe earliest cycle shows how to establish a visual vocabulary for a complex prophetic text from scratch — one clear scene per beat, minimal background.",
+   "citations": [
+    {
+     "text": "Richard Laufner & Peter K. Klein, *Trierer Apokalypse* facsimile commentary (1975)."
+    },
+    {
+     "text": "Trier, Stadtbibliothek, Cod. 31."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Trierer_Apokalypse_fol_11v.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Trier Apocalypse",
+    "Carolingian illumination",
+    "earliest Apocalypse cycle",
+    "Revelation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__cloisters-apocalypse",
+   "title": "The Cloisters Apocalypse — John on the Island of Patmos (f. 3r)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Anonymous (Norman workshop)",
+   "date": "c. 1330",
+   "place": "Normandy, France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": [
+    "john of patmos",
+    "gothic apocalypse",
+    "cloisters apocalypse",
+    "vision",
+    "manuscript illumination",
+    "metropolitan museum",
+    "exile",
+    "revelation"
+   ],
+   "rights": "Public domain. The Metropolitan Museum of Art (The Cloisters). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cloisters_Apocalypse_-_Met_68.174_f3r_(John_on_the_Island_of_Patmos).jpg",
+   "summary": "The opening illustration (f.3r) of the *Cloisters Apocalypse*, showing John exiled on the island of Patmos at the start of his visions.\n\n## Iconography\n[[motif:john of patmos|St John]] is shown on the rocky island of Patmos, set apart by the sea, at the moment he is 'in the Spirit on the Lord's day' and hears the great voice. The elegant Gothic figure-style, delicate architecture, and tinted drawing typify the deluxe French Apocalypse manuscripts of the early 14th century.\n\n## Significance\nThe *Cloisters Apocalypse* (Metropolitan Museum, The Cloisters, MS 68.174), made in Normandy c. 1330, belongs to the rich family of illustrated Anglo-French Apocalypses that flourished after c. 1250. These books paired Revelation's text with a continuous picture-cycle for aristocratic devotional reading, making the seer's exile and visions vividly present.\n\n## For artists & game designers\nThe island-of-exile establishing shot — a lone seer set apart by water before the visions begin — is a clean way to frame a 'received prophecy' prologue.",
+   "citations": [
+    {
+     "text": "Florens Deuchler, *The Cloisters Apocalypse* (1971)."
+    },
+    {
+     "text": "The Metropolitan Museum of Art, The Cloisters, MS 68.174."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Cloisters_Apocalypse_-_Met_68.174_f3r_(John_on_the_Island_of_Patmos).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Cloisters Apocalypse",
+    "John of Patmos",
+    "Gothic Apocalypse manuscript",
+    "The Cloisters"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__tetramorph",
+   "title": "The Four Evangelist Symbols (Book of Kells, f. 27v)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Anonymous (Insular / Columban monks)",
+   "date": "c. 800",
+   "place": "Iona / Kells, Ireland",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": [
+    "tetramorph",
+    "four living creatures",
+    "evangelist symbols",
+    "man",
+    "lion",
+    "ox",
+    "eagle",
+    "insular illumination"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:KellsFol027v4Evang.jpg",
+   "summary": "The four evangelist symbols arranged as a cross-quartered page (f.27v) in the *Book of Kells* — the man, lion, ox, and eagle of the apocalyptic [[motif:tetramorph|tetramorph]].\n\n## Iconography\nWithin an interlace-bordered cross, four winged creatures occupy the quarters: the **man** (Matthew), the **lion** (Mark), the **ox/calf** (Luke), and the **eagle** (John), each haloed and bearing a book. The dense Insular ornament and gold typify the supreme Columban gospel-book.\n\n## Significance\nThe four living creatures 'full of eyes' around the throne (Revelation 4:6–8, after Ezekiel 1) were assigned by the Church Fathers — definitively by Jerome — to the four Evangelists, becoming the **tetramorph** of Christian art. The *Book of Kells* presents them as a unified emblem of the fourfold Gospel encircling Christ, one of the most influential treatments of the motif that recurs across Apocalypse imagery in the Maiestas Domini.\n\n## For artists & game designers\nThe man-lion-ox-eagle quartet is a ready-made set of four faction emblems with built-in elemental/animal symbolism.",
+   "citations": [
+    {
+     "text": "Bernard Meehan, *The Book of Kells* (2012)."
+    },
+    {
+     "text": "Revelation 4:6–8; Ezekiel 1; Jerome, prologue to the Gospels."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:KellsFol027v4Evang.jpg"
+    }
+   ],
+   "key_concepts": [
+    "tetramorph",
+    "four living creatures",
+    "evangelist symbols",
+    "Book of Kells"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__signorelli-antichrist",
+   "title": "The Sermon and Deeds of the Antichrist",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Luca Signorelli",
+   "date": "c. 1499–1502 (fresco)",
+   "place": "Orvieto, Italy",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "antichrist",
+    "false messiah",
+    "devil whispering",
+    "last days",
+    "deception",
+    "fresco",
+    "orvieto",
+    "san brizio chapel"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Luca_Signorelli_-_Sermon_and_Deeds_of_the_Antichrist_-_WGA21202.jpg",
+   "summary": "Luca Signorelli's fresco *The Sermon and Deeds of the Antichrist* in the San Brizio Chapel of Orvieto Cathedral, a rare extended depiction of the [[motif:antichrist|Antichrist]].\n\n## Iconography\nThe Antichrist — given Christ's own features — preaches to a crowd while a devil stands at his back, whispering into his ear and even guiding his hand, the very image of false revelation. Around him unfold the deceptions and atrocities of his reign: false miracles, executions, and the seduction of the faithful. Signorelli and his patron appear as onlookers at the lower left.\n\n## Significance\nPainted c. 1499–1502 amid the apocalyptic fervour stirred by Savonarola and the approaching half-millennium, the Orvieto cycle is among the most ambitious Renaissance treatments of the Last Days. The motif of Satan animating a Christ-like impostor visualises the theology of the Antichrist as counterfeit messiah, a deceiver who apes the true. The fresco profoundly impressed later artists, Michelangelo among them.\n\n## For artists & game designers\nThe 'puppet-master devil behind the charismatic leader' is a potent visual for a deceiver antagonist whose evil is hidden in plain sight.",
+   "citations": [
+    {
+     "text": "Jonathan B. Riess, *Luca Signorelli: The San Brizio Chapel, Orvieto* (1995)."
+    },
+    {
+     "text": "Orvieto Cathedral, Cappella di San Brizio."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Luca_Signorelli_-_Sermon_and_Deeds_of_the_Antichrist_-_WGA21202.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Antichrist",
+    "Signorelli",
+    "San Brizio Chapel",
+    "Last Days"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__memling-last-judgement",
+   "title": "The Last Judgement (Memling triptych)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Hans Memling",
+   "date": "c. 1467–1471",
+   "place": "Bruges, Flanders",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "last judgement",
+    "saint michael weighing souls",
+    "damned",
+    "demons",
+    "hell",
+    "resurrection of the dead",
+    "triptych",
+    "scales"
+   ],
+   "rights": "Public domain. National Museum, Gdańsk. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Gdansk_National_Museum_2019_P01_Hans_Memling_The_Last_Judgment.jpg",
+   "summary": "Hans Memling's monumental *Last Judgement* triptych (National Museum, Gdańsk), one of the great Northern Renaissance visions of the end of days.\n\n## Iconography\nChrist sits enthroned on a rainbow in glory; below, the archangel [[motif:saint michael weighing souls|Michael]] weighs naked resurrected souls in his scales. The blessed ascend a crystal stair to the gate of Heaven at the left wing, while at the right the [[motif:demons|demons]] drag, claw, and hurl the damned into a fiery, churning Hell. The risen dead climb from the earth across the central panel.\n\n## Significance\nPainted in Bruges c. 1467–71 for the Florentine banker Angelo Tani, the triptych was famously seized by a Hanseatic privateer and taken to Danzig (Gdańsk). Memling fuses the medieval Doom — the weighing of souls, the divided dead, the mouth of Hell — with the jewel-like naturalism of Early Netherlandish painting, distilling the Apocalypse's final judgement into an intimate yet vast spectacle.\n\n## For artists & game designers\nThe soul-weighing scale is a perfect interactive 'judgement' mechanic; the bifurcated stair-to-heaven / fall-to-hell layout maps cleanly to a branching outcome screen.",
+   "citations": [
+    {
+     "text": "Dirk De Vos, *Hans Memling: The Complete Works* (1994)."
+    },
+    {
+     "text": "National Museum, Gdańsk."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Gdansk_National_Museum_2019_P01_Hans_Memling_The_Last_Judgment.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Last Judgement",
+    "Memling",
+    "weighing of souls",
+    "Hell"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__giotto-last-judgement",
+   "title": "The Last Judgement (Scrovegni Chapel)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Giotto di Bondone",
+   "date": "c. 1306 (fresco)",
+   "place": "Padua, Italy",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": [
+    "last judgement",
+    "satan",
+    "hell",
+    "damned souls",
+    "blessed",
+    "christ in majesty",
+    "fresco",
+    "scrovegni chapel"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Last-judgment-scrovegni-chapel-giotto-1306.jpg",
+   "summary": "Giotto's *Last Judgement* on the west wall of the Scrovegni (Arena) Chapel in Padua, c. 1306 — the climactic vision toward which the whole fresco cycle leads.\n\n## Iconography\nChrist in Majesty sits within a great mandorla amid the apostles, raising the saved on his right and condemning the damned on his left. At the lower right a blue, monstrous [[motif:satan|Satan]] devours and excretes sinners amid the rivers of Hell, where demons torment the naked damned. The donor Enrico Scrovegni offers a model of the chapel to the Virgin below the Cross.\n\n## Significance\nGiotto's fresco is a pivotal reworking of the Byzantine and medieval Doom into the new naturalism of the early Trecento. The huge, swallowing Satan and the orderly hierarchy of the blessed give Revelation's judgement monumental form; the chapel was built in part to expiate the sin of usury, making the scene of reckoning intensely personal for its patron.\n\n## For artists & game designers\nThe colossal soul-devouring Satan at the base of a vertical judgement composition is the archetypal 'pit boss' anchoring a moral hierarchy.",
+   "citations": [
+    {
+     "text": "Anne Derbes & Mark Sandona, *The Usurer's Heart: Giotto, Enrico Scrovegni, and the Arena Chapel* (2008)."
+    },
+    {
+     "text": "Scrovegni (Arena) Chapel, Padua."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Last-judgment-scrovegni-chapel-giotto-1306.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Last Judgement",
+    "Giotto",
+    "Scrovegni Chapel",
+    "Satan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__hortus-hellmouth",
+   "title": "Hell (Hortus Deliciarum)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "After Herrad of Landsberg",
+   "date": "c. 1180 (original); 19th-c. facsimile copy",
+   "place": "Hohenburg Abbey, Alsace",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": [
+    "hellmouth",
+    "hell",
+    "damned souls",
+    "demons",
+    "torment",
+    "leviathan jaws",
+    "hortus deliciarum",
+    "herrad of landsberg"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hortus_deliciarum_Bastard_folio_20.jpg",
+   "summary": "A plate of *Hell* from the *Hortus Deliciarum* of Herrad of Landsberg, surviving through 19th-century tracings after the manuscript destroyed in 1870.\n\n## Iconography\nHell is shown as a teeming pit of torment: registers of the damned — kings, clergy, usurers, the lustful — are bound, boiled, and tormented by horned [[motif:demons|demons]], with Satan enthroned among the flames and the [[motif:hellmouth|jaws of the abyss]] gaping. Each sinner is punished according to his offence in a vivid catalogue of damnation.\n\n## Significance\nThe *Hortus Deliciarum* ('Garden of Delights') was an illustrated encyclopaedia compiled c. 1180 by Abbess **Herrad of Landsberg** for the nuns of Hohenburg — one of the earliest known works authored and illustrated by a woman. Its Hell, with the structured torments and the devouring abyss, is a key medieval witness to the apocalyptic geography of damnation. The original burned in the siege of Strasbourg (1870); the imagery survives only through earlier copies.\n\n## For artists & game designers\nA tiered catalogue of sin-specific torments is a ready bestiary/level structure — each circle keyed to a vice and its matching punishment.",
+   "citations": [
+    {
+     "text": "Rosalie Green et al., *Herrad of Hohenbourg: Hortus Deliciarum*, reconstruction (1979)."
+    },
+    {
+     "text": "Herrad of Landsberg, *Hortus Deliciarum* (c. 1180, destroyed 1870)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hortus_deliciarum_Bastard_folio_20.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Hortus Deliciarum",
+    "Herrad of Landsberg",
+    "Hellmouth",
+    "torments of Hell"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__john-patmos-vision",
+   "title": "St John on the Island of Patmos",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Anonymous (Spanish Baroque)",
+   "date": "17th c. (painting)",
+   "place": "Montilla, Andalusia, Spain",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": [
+    "john of patmos",
+    "evangelist",
+    "eagle",
+    "vision",
+    "island exile",
+    "writing the revelation",
+    "baroque",
+    "convent painting"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:San_Juan_en_la_Isla_de_Patmos,_Convento_de_Santa_Clara_(Montilla).jpg",
+   "summary": "A Spanish Baroque painting of *St John on the Island of Patmos* from the Convent of Santa Clara, Montilla, depicting the seer receiving the Apocalypse.\n\n## Iconography\n[[motif:john of patmos|St John the Evangelist]], a book and pen at hand, sits in visionary reverie on the rocky shore of Patmos, his attribute the eagle nearby. He gazes upward toward the heavenly vision he is commanded to write down — the standard Baroque formula for the inspired author of Revelation, exiled and rapt 'in the Spirit.'\n\n## Significance\nThe iconography of John writing his Revelation on Patmos, often with the Woman Clothed with the Sun or the apocalyptic heaven appearing above, was hugely popular in Counter-Reformation Spain, where it affirmed the authority of inspired Scripture. Such convent paintings made the visionary moment of the Apocalypse an object of devotional contemplation for enclosed religious communities.\n\n## For artists & game designers\nThe inspired-scribe pose — pen poised, eyes lifted to an unseen vision — is the classic way to depict a character receiving prophecy.",
+   "citations": [
+    {
+     "text": "Émile Mâle, *L'art religieux après le Concile de Trente* (1932)."
+    },
+    {
+     "text": "Convento de Santa Clara, Montilla."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:San_Juan_en_la_Isla_de_Patmos,_Convento_de_Santa_Clara_(Montilla).jpg"
+    }
+   ],
+   "key_concepts": [
+    "John of Patmos",
+    "Apocalypse",
+    "Baroque painting",
+    "inspired author"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__blake-red-dragon",
+   "title": "The Number of the Beast is 666 (The Great Red Dragon)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "William Blake",
+   "date": "c. 1805 (watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "great red dragon",
+    "number of the beast",
+    "666",
+    "seven-headed beast",
+    "sea beast",
+    "visionary watercolour",
+    "william blake",
+    "apocalypse"
+   ],
+   "rights": "Public domain. Rosenbach Museum & Library. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_number_of_the_beast_is_666_Philadelphia,_Rosenbach_Museum_and_Library.jpg",
+   "summary": "William Blake's watercolour *The Number of the Beast is 666*, from his series illustrating the Book of Revelation, showing the [[motif:number of the beast|number of the beast]] and the apocalyptic beasts.\n\n## Iconography\nThe great seven-headed beast rises from the sea while the two-horned beast of the earth gestures below the inscription of the [[motif:666|number 666]]; worshippers gather before the monsters. Blake's flame-like, muscular figures and visionary colour transform the grotesque into the sublime, part of the same cycle as his celebrated *Great Red Dragon* watercolours.\n\n## Significance\nBlake produced some eighty biblical watercolours c. 1800–1805 for his patron Thomas Butts, including a sequence on Revelation. As a visionary who claimed direct converse with angels and prophets, he read the Apocalypse less as future history than as a present spiritual drama — the war of imaginative energy against tyranny. His apocalyptic beasts are among the most powerful Romantic images of Revelation, later made famous through the 'Great Red Dragon' series.\n\n## For artists & game designers\nBlake shows how to make a monster *sublime* rather than merely ugly — muscular, flame-lit, and awe-inspiring rather than grotesque.",
+   "citations": [
+    {
+     "text": "Martin Butlin, *The Paintings and Drawings of William Blake* (1981)."
+    },
+    {
+     "text": "Revelation 13:18; Rosenbach Museum & Library."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:The_number_of_the_beast_is_666_Philadelphia,_Rosenbach_Museum_and_Library.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Great Red Dragon",
+    "number of the beast",
+    "William Blake",
+    "Revelation 13"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__whore-babylon-beast",
+   "title": "The Whore of Babylon (Blake)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "William Blake",
+   "date": "1809 (pen and watercolour)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": [
+    "whore of babylon",
+    "seven-headed beast",
+    "golden cup",
+    "kings of the earth",
+    "visionary watercolour",
+    "william blake",
+    "apocalypse",
+    "abominations"
+   ],
+   "rights": "Public domain. British Museum. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Whore-of-babylon-blake-1809.jpg",
+   "summary": "William Blake's *The Whore of Babylon* (1809, British Museum), his visionary watercolour of Revelation 17's harlot enthroned on the seven-headed beast.\n\n## Iconography\nThe [[motif:whore of babylon|Whore of Babylon]] sits high upon the scarlet seven-headed, ten-horned beast, lifting her golden cup; from the cup or her person issue the swarming forms of war and lust, and the kings and armies of the earth muster below, dwarfed by the monstrous mount. Blake's swirling, energetic line makes the abominations almost literally pour forth.\n\n## Significance\nThis sheet belongs to Blake's biblical watercolours of c. 1800–1809. For Blake the Whore embodied 'Mystery, Babylon the Great' — corrupt religion and empire, the moral and political tyranny his prophetic books opposed. His treatment intensifies the medieval and Dürer traditions into a personal mythology in which the apocalyptic harlot stands for the fallen state of 'Mystery' that the imagination must overthrow.\n\n## For artists & game designers\nLetting a figure's corruption visibly emanate as swarming forms from her cup is a striking way to externalise an antagonist's contaminating influence.",
+   "citations": [
+    {
+     "text": "Martin Butlin, *The Paintings and Drawings of William Blake* (1981)."
+    },
+    {
+     "text": "Revelation 17; British Museum, 1847,0318.155."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Whore-of-babylon-blake-1809.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Whore of Babylon",
+    "William Blake",
+    "Mystery Babylon",
+    "Revelation 17"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "apocalypse_revelation__lamb-seven-seals",
+   "title": "The Adoration of the Lamb (and the Hymn of the Chosen)",
+   "work": "The Apocalypse: Visionary & Occult Imagery of Revelation",
+   "creator": "Albrecht Dürer",
+   "date": "c. 1496–98 (woodcut)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": [
+    "lamb of god",
+    "seven seals",
+    "elders adoring",
+    "throne of god",
+    "144000",
+    "censing angels",
+    "apocalypse",
+    "woodcut"
+   ],
+   "rights": "CC0 / Public domain. National Gallery of Art. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_The_Adoration_of_the_Lamb,_probably_c._1496-1498,_NGA_849.jpg",
+   "summary": "Dürer's *The Adoration of the Lamb* from the *Apocalypse* series, illustrating the heavenly worship around the throne (Revelation 5 and 7).\n\n## Iconography\nThe slain yet living [[motif:lamb of god|Lamb]] stands on the book sealed with seven seals at the throne of God; the four-and-twenty elders cast down their crowns, the four living creatures and angels surround the throne, and the sealed multitude of the redeemed adore. Above, the censing angels and the elders' golden vials of incense rise as prayer.\n\n## Significance\nRevelation 5 presents the Lamb 'as it had been slain' as alone worthy to open the seven-sealed scroll, the pivot of the whole Apocalypse. Dürer's design organises the celestial liturgy — throne, elders, creatures, sealed saints — into a luminous hierarchy, the redemptive counterpart to the cycle's monsters and plagues.\n\n## For artists & game designers\nThe radial throne-room of adorers in concentric ranks is a strong layout for a sacred 'sanctum' hub contrasting with the apocalypse's chaos scenes.",
+   "citations": [
+    {
+     "text": "Erwin Panofsky, *The Life and Art of Albrecht Dürer* (1943)."
+    },
+    {
+     "text": "Revelation 5; 7:9–17."
+    },
+    {
+     "text": "National Gallery of Art (CC0)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_The_Adoration_of_the_Lamb,_probably_c._1496-1498,_NGA_849.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Adoration of the Lamb",
+    "seven seals",
+    "Dürer Apocalypse",
+    "Revelation 5"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

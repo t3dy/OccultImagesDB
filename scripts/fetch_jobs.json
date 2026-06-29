@@ -1,0 +1,16 @@
+[
+  {"query": "Baphomet by Éliphas Lévi", "out": "revival/levi_baphomet.jpg", "prefer": "Lévi"},
+  {"query": "Thought-Forms Besant Leadbeater music", "out": "revival/thought_forms_music.jpg", "prefer": "Thought"},
+  {"query": "Dürer Melencolia I 1514 engraving", "out": "astrology/durer_melencolia.jpg", "prefer": "Melencolia"},
+  {"query": "Children of the planets Mercury Hausbuch", "out": "astrology/children_of_mercury.jpg", "prefer": "planet"},
+  {"query": "Portae Lucis Gikatilla tree of life 1516", "out": "kabbalah/portae_lucis.jpg", "prefer": "Portae"},
+  {"query": "Rider Waite tarot Magician Pamela Colman Smith", "out": "tarot/rws_magician.jpg", "prefer": "Magician"},
+  {"query": "Rider Waite tarot High Priestess", "out": "tarot/rws_high_priestess.jpg", "prefer": "Priestess"},
+  {"query": "Visconti Sforza tarot deck", "out": "tarot/visconti_sforza.jpg", "prefer": "Visconti"},
+  {"query": "Hans Baldung Grien Witches Sabbath 1510 woodcut", "out": "witchcraft/baldung_witches_sabbath.jpg", "prefer": "Baldung"},
+  {"query": "Witch of Endor Benjamin West Saul", "out": "biblical/witch_of_endor_west.jpg", "prefer": "Endor"},
+  {"query": "Monas Hieroglyphica John Dee symbol", "out": "enochian/dee_monas_hieroglyphica.jpg", "prefer": "Monas"},
+  {"query": "Robert Fludd divine monochord tuning universe", "out": "cosmology/fludd_monochord.jpg", "prefer": "monochord"},
+  {"query": "Astaroth Dictionnaire Infernal Louis Breton", "out": "grimoire/astaroth_dictionnaire_infernal.jpg", "prefer": "Astaroth"},
+  {"query": "Geheime Figuren der Rosenkreuzer plate", "out": "rosicrucian/geheime_figuren.jpg", "prefer": "Rosenkreuzer"}
+]

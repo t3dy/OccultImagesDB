@@ -1,0 +1,307 @@
+{
+ "_work": {
+   "key": "medieval_grimoire",
+   "short_id": "MGRIM",
+   "title": "Medieval & Early Grimoire Imagery",
+   "creator": "various",
+   "date": "12th–19th c.",
+   "century": 15,
+   "place": "Europe and the Mediterranean",
+   "region": "Europe",
+   "language": "Latin",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "medieval_grimoire",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Grimoires",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["magic circle", "pentacle", "seal of solomon", "conjuration", "talisman", "magic square"],
+   "blurb": "Diagrams, seals, and figures from the European learned-magic tradition of grimoires and ritual handbooks — Solomonic pentacles, conjuration circles, planetary talismans, the Sigillum Dei, Ars Notoria notae, Picatrix astral magic, and magic squares — spanning the medieval manuscript culture and its early-modern printed afterlife."
+ },
+ "entries": [
+  {
+   "id": "medieval_grimoire__sigillum-dei-aemeth",
+   "title": "Sigillum Dei (Seal of God)",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "After Giorgio Anselmi (Georgius Parmensis)",
+   "date": "15th c. (design); later engraving",
+   "place": "Italy / German lands",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["sigillum dei", "heptagon", "pentagram", "divine names", "angel names", "concentric circles", "magic seal", "tetragrammaton"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Giorgio_Anselmi,_Sigillum_Dei.png",
+   "summary": "A version of the *Sigillum Dei* (Seal of God), the elaborate concentric talisman of divine and angelic names that crowned the Solomonic and Honorian magical traditions.\n\n## Iconography\nThe seal is built from nested geometry: an outer ring carrying the names of God and his angels, an inner heptagon or heptagram, and a five- or seven-pointed star at the centre. The interstices are packed with [[motif:divine names|divine names]], crosses, and letters, each compartment assigned to a particular spiritual power. The whole forms a closed cosmogram meant to compel obedience from spirits.\n\n## Significance\nThe Sigillum Dei descends from the *Liber Juratus* (Sworn Book of Honorius, 13th–14th c.) and reached its most famous form as the *Sigillum Dei Aemeth* used by John Dee and Edward Kelley in their angelic scrying. The design encodes the names by which God governs creation; correctly drawn, it was held to grant the operator the vision of God and authority over angels. Studies by Jan Veenstra and Julien Véronèse trace its descent through the Honorian corpus.\n\n## For artists & game designers\nThe perfect 'master ward' prop: a dense ring of names around a star, instantly readable as a high-tier protective or summoning glyph.",
+   "citations": [
+    {"text": "Julien Véronèse, *L'Almandal et l'Almadel latins au Moyen Âge* (2012)."},
+    {"text": "Jan R. Veenstra, on the *Liber Juratus* tradition."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Giorgio_Anselmi,_Sigillum_Dei.png"}
+   ],
+   "key_concepts": ["Sigillum Dei", "Liber Juratus", "divine names", "angelic magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__clavicula-magic-circle",
+   "title": "Pentacle of Solomon (The True Keys of Solomon)",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "Anonymous occultist",
+   "date": "1775–76",
+   "place": "France",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pentacle", "seal of solomon", "hexagram", "divine names", "hebrew letters", "concentric circles", "magic seal"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentacle_of_Solomon_(The_True_Keys_of_Solomon,_1775-76).png",
+   "summary": "A Pentacle of Solomon from an 18th-century manuscript of *The True Keys of Solomon* (Les Véritables Clavicules de Salomon), one of the most copied grimoires of the Solomonic cycle.\n\n## Iconography\nThe pentacle is a circular figure ringed with verses and divine names, enclosing geometric stars (hexagram and/or pentagram) and Hebrew or pseudo-Hebrew lettering. Each *Clavicula* pentacle is keyed to a specific operation — protection, treasure-finding, love, the binding of spirits — and is meant to be inscribed at the proper planetary hour on virgin parchment.\n\n## Significance\nThe *Clavicula Salomonis* circulated in Latin, Italian, and French from the late medieval period; the 18th-century French recensions standardized the now-canonical set of planetary pentacles later popularized by S. L. MacGregor Mathers in 1888. The pentacles fuse Jewish theurgic name-magic with Christian ritual framing, and were always understood as licit only when used 'in the name of God.'\n\n## For artists & game designers\nA library of ready-made spell-sigils: each pentacle is a self-contained icon you can map to a discrete in-game effect.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers (ed.), *The Key of Solomon the King* (1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentacle_of_Solomon_(The_True_Keys_of_Solomon,_1775-76).png"}
+   ],
+   "key_concepts": ["Clavicula Salomonis", "pentacle", "planetary hours", "name-magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__pentacle-of-saturn",
+   "title": "Pentacles of Saturn (The Key of Solomon the Great)",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "S. L. MacGregor Mathers (ed.), after anonymous Solomonic originals",
+   "date": "1888 (after older originals)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pentacle", "saturn", "planetary magic", "hebrew letters", "psalm verses", "magic seal", "binding"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentacles_of_Saturn_(Plate_II,_The_Key_of_Solomon_the_Great,_1888).png",
+   "summary": "Plate II of MacGregor Mathers's 1888 *Key of Solomon the King*, showing the seven Pentacles of Saturn — the planetary seals governing constraint, ruin, and the binding of spirits.\n\n## Iconography\nEach pentacle is a disc bordered with a verse (usually a Psalm) and filled with a geometric figure, Hebrew divine names, and the characters of the spirits of Saturn. Saturnine pentacles are dark in purpose: causing ruin, bringing answers in dreams, compelling refusing spirits, and protecting against earthquakes. The plate arranges them as a grid of operative seals.\n\n## Significance\nMathers compiled his edition from several British Library *Clavicula* manuscripts, attaching each planetary set to its traditional powers. Saturn, slowest and most malefic of the seven classical planets, governs the most coercive magic. The plate became the canonical visual reference for the Solomonic pentacles in the modern occult revival and Golden Dawn circles.\n\n## For artists & game designers\nUse the seven-seal grid as a planetary 'skill tree' — Saturn for curses, debuffs, and binding mechanics.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers (ed.), *The Key of Solomon the King* (London, 1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentacles_of_Saturn_(Plate_II,_The_Key_of_Solomon_the_Great,_1888).png"}
+   ],
+   "key_concepts": ["Pentacles of Saturn", "planetary magic", "Clavicula Salomonis", "spirit binding"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__heptameron-circle",
+   "title": "Magic Circle of the Heptameron",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "After Pseudo-Pietro d'Abano (Peter of Abano)",
+   "date": "Attributed text 13th–14th c.; figure after early printed editions",
+   "place": "Italy",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["magic circle", "conjuration", "pentagram", "divine names", "angel names", "candles", "seal of solomon", "ritual diagram"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:HeptameronCircle.jpg",
+   "summary": "The conjuring circle of the *Heptameron, or Magical Elements*, the compact ritual handbook attributed to Pietro d'Abano for summoning the angels of the days and hours.\n\n## Iconography\nThe diagram shows nested circles inscribed with the names of God, angels, and the ruling spirit of the day, with crosses and a [[motif:pentagram|pentagram]] at the cardinal points and candle positions marked around the perimeter. The operator stands at the centre; the design wards him while compelling the summoned angel to appear in the triangle outside.\n\n## Significance\nThe *Heptameron* (printed 1496, falsely ascribed to the physician Pietro d'Abano) supplied the practical scaffolding — circle, hours, planetary angels, conjurations — for much later European ritual magic, and was frequently bound with Agrippa's spurious *Fourth Book of Occult Philosophy*. Its day-by-day system of angelic governance made it a working manual rather than a theoretical treatise.\n\n## For artists & game designers\nA textbook summoning-circle layout: concentric name-rings, cardinal candles, central operator, external triangle for the conjured entity.",
+   "citations": [
+    {"text": "Pseudo-Pietro d'Abano, *Heptameron, seu Elementa Magica* (printed 1496)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:HeptameronCircle.jpg"}
+   ],
+   "key_concepts": ["Heptameron", "magic circle", "angels of the days", "conjuration"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__ars-notoria-nota",
+   "title": "Nota of the Ars Notoria (figure of logic)",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "Reconstruction after Bodleian MS Bodley 951, f. 10v (drawn by Haplo1990)",
+   "date": "Original tradition 12th–13th c.; this reconstruction 21st c.",
+   "place": "England / Europe",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["ars notoria", "nota", "prayer figure", "divine names", "angelic invocation", "interlace", "memory magic", "ritual diagram"],
+   "rights": "CC BY-SA 4.0 (reconstruction by Haplo1990). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:First-logic-version-b-bodley951-f.10v.jpg",
+   "summary": "A reconstruction of a *nota* — one of the intricate prayer-figures of the *Ars Notoria*, the medieval art of acquiring knowledge and memory through ritual contemplation, after Bodleian MS Bodley 951.\n\n## Iconography\nThe *nota* is a complex diagram of interlaced lines, circles, and bands filled with [[motif:divine names|divine names]], angelic names, and *verba ignota* (unknown words). Each figure corresponds to a liberal art — here a 'figure of logic' — and is gazed upon while reciting the associated orations so that the discipline is infused directly into the mind.\n\n## Significance\nThe *Ars Notoria*, circulating from the 12th–13th century and often ascribed to Solomon, promised mastery of the liberal arts, eloquence, and memory without ordinary study. Its blend of devout prayer with theurgic figures made it deeply controversial; Thomas Aquinas condemned it as illicit. Julien Véronèse's critical edition is the standard scholarly treatment. (This image is a modern redrawing of a figure in the named manuscript.)\n\n## For artists & game designers\nKnowledge-as-magic: a 'study figure' the player meditates on to unlock a skill, the diagram literally writing the ability into the character.",
+   "citations": [
+    {"text": "Julien Véronèse, *L'Ars notoria au Moyen Âge* (2007)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:First-logic-version-b-bodley951-f.10v.jpg"}
+   ],
+   "key_concepts": ["Ars Notoria", "nota", "memory magic", "theurgic prayer"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__picatrix-manuscript",
+   "title": "Picatrix (Ghāyat al-Ḥakīm) manuscript leaf",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "Anonymous (Arabic scribe)",
+   "date": "Text 10th–11th c.; this MS later (Hamidiye Library MS 852, f. 45v)",
+   "place": "Near East",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["astral magic", "planetary talisman", "arabic script", "decans", "image-magic", "ghayat al-hakim", "celestial figures"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Late_Arabic_Picatrix_manuscript_Hamidiye_Library,_MS_852_fol_45v.jpg",
+   "summary": "A leaf from a late Arabic manuscript of the *Ghāyat al-Ḥakīm* — the 'Aim of the Sage,' known in the Latin West as the *Picatrix*, the foundational handbook of astral talisman-magic.\n\n## Iconography\nThe page is dense Arabic text laying out the manufacture of talismans: the carving of planetary and decan images at elected astrological moments, the suffumigations, and the petitions addressed to planetary spirits to 'draw down' their celestial virtue into matter. Manuscripts of the work carry tables and occasional figures of the planetary spirits and zodiacal decans.\n\n## Significance\nCompiled in al-Andalus around the 11th century and translated into Castilian and Latin under Alfonso X in 1256, the *Picatrix* transmitted Hermetic and Sabian astral magic into Europe, shaping Ficino, Agrippa, and the entire Renaissance theory of talismans. David Pingree's edition of the Arabic and Latin texts is the standard reference.\n\n## For artists & game designers\nThe ur-text of 'crafting under the right stars' — tie item enchantment to astrological timing and planetary correspondences.",
+   "citations": [
+    {"text": "David Pingree (ed.), *Picatrix: The Latin Version of the Ghāyat al-Ḥakīm* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Late_Arabic_Picatrix_manuscript_Hamidiye_Library,_MS_852_fol_45v.jpg"}
+   ],
+   "key_concepts": ["Picatrix", "astral magic", "talisman", "planetary spirits"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__liber-razielis",
+   "title": "Sefer Raziel HaMalakh (Book of Raziel the Angel)",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "Anonymous (attributed to the angel Raziel)",
+   "date": "Compiled medieval; this printed edition Amsterdam 1701",
+   "place": "Amsterdam (printed); Jewish tradition",
+   "era": "medieval",
+   "tradition": "kabbalah",
+   "motifs": ["angel magic", "raziel", "magic seals", "hebrew letters", "divine names", "amulet", "protective magic", "kabbalah"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sefer_Raziel_HaMalakh_(Amsterdam).jpg",
+   "summary": "A page from the *Sefer Raziel HaMalakh* (Book of Raziel the Angel), the Hebrew compendium of angelic and protective magic that the Latin West knew as the *Liber Razielis*.\n\n## Iconography\nThe page combines Hebrew text with magical seals, divine and angelic names, and protective figures. The book is famous for its amulet-diagrams — circles and grids of holy names used to guard the home, ease childbirth, and ward off harm — which were copied onto parchment and hung as charms.\n\n## Significance\nAttributed to the angel Raziel, who supposedly gave the book to Adam, the *Sefer Raziel* gathers older Hekhalot and practical-Kabbalah material; a Latin *Liber Razielis* was assembled at the court of Alfonso X in the 13th century. The Amsterdam printing of 1701 made it a widely owned protective object in itself — the mere presence of the book in a house was thought to ward off fire and evil.\n\n## For artists & game designers\nA 'book that is itself a talisman' — an inventory item whose protective effect comes from possession, not reading.",
+   "citations": [
+    {"text": "Sophie Page, *Magic in the Cloister* (2013), on the Latin *Liber Razielis*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sefer_Raziel_HaMalakh_(Amsterdam).jpg"}
+   ],
+   "key_concepts": ["Sefer Raziel", "Liber Razielis", "angelic magic", "protective amulets"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__hygromanteia",
+   "title": "Magic seals, Harley MS 5596 (Hygromanteia tradition)",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "Anonymous (Byzantine Greek scribe)",
+   "date": "ca. 1450",
+   "place": "Eastern Mediterranean",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["magic seals", "characteres", "ring signs", "byzantine magic", "spirit sigils", "ritual diagram", "hygromanteia"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Harley_manuscript_MS_5596,_fol._31r_-_ca._1450_-_magic_seals_very_similiar_to_later_Icelandic_magical_staves_(Galdrastafir).jpg",
+   "summary": "A column of magic seals (*characteres*) from British Library Harley MS 5596, fol. 31r — a 15th-century Byzantine Greek magical manuscript central to the *Hygromanteia* (Magical Treatise of Solomon).\n\n## Iconography\nThe leaf presents a vertical series of abstract spirit-signs: looped, barred, and ringed glyphs of the kind used to name and bind individual spirits. Each [[motif:characteres|charakter]] functions as a 'signature' by which a spirit is summoned and constrained — visually akin to the later Icelandic *galdrastafir*.\n\n## Significance\nHarley 5596 is one of the principal witnesses to the *Hygromanteia*, the Greek Solomonic handbook that fed directly into the later Latin *Clavicula Salomonis* and the *Key of Solomon* cycle. Its system of planetary hours, angel/demon pairings, and seals shows the Byzantine bridge between late-antique Greek magic and the Western grimoire tradition. Ioannis Marathakis's edition translates the text.\n\n## For artists & game designers\nA palette of abstract 'true-name' glyphs — assign one per summonable spirit so players collect sigils like keys.",
+   "citations": [
+    {"text": "Ioannis Marathakis (ed.), *The Magical Treatise of Solomon, or Hygromanteia* (2011)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Harley_manuscript_MS_5596,_fol._31r_-_ca._1450_-_magic_seals_very_similiar_to_later_Icelandic_magical_staves_(Galdrastafir).jpg"}
+   ],
+   "key_concepts": ["Hygromanteia", "characteres", "Byzantine magic", "Solomonic seals"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__lemegeton-seal",
+   "title": "Seals of the Goetia (Lesser Key of Solomon)",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "Rune370, after the Lemegeton",
+   "date": "Lemegeton compiled 17th c.; this rendering modern",
+   "place": "England / Europe",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["goetia", "demon seal", "sigil", "lemegeton", "spirit signature", "binding", "magic seal", "72 demons"],
+   "rights": "CC BY-SA 4.0 (Rune370). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Goetia_seals.jpg",
+   "summary": "A sheet of demon seals from the *Ars Goetia*, the first book of the *Lemegeton* (Lesser Key of Solomon), each glyph the binding signature of one of the seventy-two spirits.\n\n## Iconography\nThe seals are abstract linear sigils — combinations of crosses, loops, dots, crowns, and barbs — one per demon (Bael, Agares, Vassago, and so on). The conjurer engraves the spirit's seal on a metal *lamen* worn on the breast; displaying it compels the spirit named to appear and obey.\n\n## Significance\nThe *Ars Goetia* lists seventy-two demons with their ranks, legions, and offices, drawn largely from Johann Weyer's *Pseudomonarchia Daemonum* (1577) and reworked in 17th-century English manuscripts. Its seals are the most reproduced demon-sigils in Western magic, canonized by Mathers and Crowley's 1904 edition. (This image is a modern clean rendering of the traditional seals.)\n\n## For artists & game designers\nSeventy-two distinct, collectible 'monster sigils' — a built-in bestiary keyed to a sigil-based summoning system.",
+   "citations": [
+    {"text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon* (1904)."},
+    {"text": "Johann Weyer, *Pseudomonarchia Daemonum* (1577)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Goetia_seals.jpg"}
+   ],
+   "key_concepts": ["Ars Goetia", "Lemegeton", "demon seals", "spirit binding"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__seal-of-solomon-ring",
+   "title": "The Seal of Solomon (Lévi)",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "Éliphas Lévi",
+   "date": "19th c. (after older traditions)",
+   "place": "France",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["seal of solomon", "hexagram", "macrocosm", "duality", "light and shadow", "talisman", "magic seal"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sealsolomon.jpg",
+   "summary": "Éliphas Lévi's drawing of the Seal of Solomon — the interlaced double triangle that became the master emblem of correspondence between the higher and lower worlds.\n\n## Iconography\nTwo overlapping equilateral triangles form a [[motif:hexagram|hexagram]], one pointing up and one down, often shaded so that light and dark interpenetrate. Lévi reads the figure as the union of the macrocosm and microcosm, spirit and matter, the active and passive principles — 'that which is above is like that which is below.'\n\n## Significance\nThe hexagram-as-Seal-of-Solomon long predates Lévi, appearing on amulets and rings in Jewish, Islamic, and Christian magic as a sign of dominion over spirits. But Éliphas Lévi's 19th-century occult synthesis (*Dogme et rituel de la haute magie*, 1854–56) recast it as a key diagram of esoteric polarity, and it is his rendering that shaped the modern occult image of the seal.\n\n## For artists & game designers\nA clean, universally legible 'balance' or 'sealing' glyph — pair the up/down triangles with light/shadow mechanics.",
+   "citations": [
+    {"text": "Éliphas Lévi, *Dogme et rituel de la haute magie* (1854–56)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sealsolomon.jpg"}
+   ],
+   "key_concepts": ["Seal of Solomon", "hexagram", "macrocosm and microcosm", "Éliphas Lévi"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__magic-square-durer",
+   "title": "Magic square in Dürer's Melencolia I",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "Albrecht Dürer",
+   "date": "1514",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["magic square", "jupiter kamea", "melancholy", "saturn", "engraving", "talisman", "numerology"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(_AGDdr3EHmNGyA).jpg",
+   "summary": "Albrecht Dürer's engraving *Melencolia I* (1514), which embeds a 4×4 magic square — the most famous talismanic number-grid in Western art.\n\n## Iconography\nThe brooding winged figure sits amid the tools of geometry and craft; on the wall hangs a 4×4 square whose rows, columns, and diagonals all sum to 34, with the date 1514 set in its bottom row. As the *kamea* (magic square) of Jupiter, it was understood to counter the malefic, melancholic influence of Saturn that grips the figure.\n\n## Significance\nRenaissance magic, drawing on the *Picatrix* and Agrippa's *De occulta philosophia* (1531), assigned each planet a numbered square engraved on metal as a planetary talisman. Dürer places Jupiter's square against Saturnine *melancholia generosa* — the inspired-but-afflicted temperament of the genius. Panofsky and Klibansky's *Saturn and Melancholy* is the classic study.\n\n## For artists & game designers\nNumber-grid as charm: surface a magic square as a puzzle whose solved state grants a planetary buff.",
+   "citations": [
+    {"text": "Klibansky, Panofsky & Saxl, *Saturn and Melancholy* (1964)."},
+    {"text": "H. C. Agrippa, *De occulta philosophia* (1531), Book II."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(_AGDdr3EHmNGyA).jpg"}
+   ],
+   "key_concepts": ["magic square", "kamea of Jupiter", "planetary talisman", "melancholy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__agrippa-pentagram",
+   "title": "Pentagram and the human body (Agrippa)",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "Heinrich Cornelius Agrippa",
+   "date": "1531",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": ["pentagram", "microcosm", "human figure", "planetary signs", "proportion", "magic seal", "correspondences"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentagram_and_human_body_(Agrippa).jpg",
+   "summary": "The pentagram inscribing the human body, from Agrippa's *De occulta philosophia* — the canonical image of man as microcosm of the five planets and the heavens.\n\n## Iconography\nA nude figure stands spread-eagled, head and four limbs touching the five points of a [[motif:pentagram|pentagram]]; planetary signs are distributed around the figure and at the cardinal points. The proportion demonstrates that the human form contains the harmonic measures of the cosmos, with each point governed by a planet.\n\n## Significance\nAgrippa's *Three Books of Occult Philosophy* (1531–33) systematized Renaissance magic into natural, celestial, and ceremonial tiers, and this woodcut became its emblem: the doctrine that man is a little world bound by *correspondences* to the great one, so that operating on the right sign or number reaches the heavens. The image anticipates later Vitruvian and occult body-diagrams.\n\n## For artists & game designers\nThe definitive 'as above, so below' diagram — map a character's five attributes to the five star-points and their planetary rulers.",
+   "citations": [
+    {"text": "H. C. Agrippa, *De occulta philosophia libri tres* (1531–33)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentagram_and_human_body_(Agrippa).jpg"}
+   ],
+   "key_concepts": ["pentagram", "microcosm", "Agrippa", "correspondences"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__hand-of-glory",
+   "title": "The Hand of Glory (Main de Gloire)",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "Modern illustration after grimoire tradition",
+   "date": "Tradition early-modern; this rendering modern",
+   "place": "France",
+   "era": "early_modern",
+   "tradition": "witchcraft",
+   "motifs": ["hand of glory", "thieves magic", "candle", "severed hand", "necromancy", "charm", "petit albert"],
+   "rights": "CC BY-SA 4.0 (Albertus Parvus Lucius). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:La_Main_de_Gloire.jpg",
+   "summary": "The *Main de Gloire* (Hand of Glory), the macabre thieves' talisman of European grimoire folklore — a dried severed hand fitted as a candle-holder.\n\n## Iconography\nThe charm is the pickled and dried hand of a hanged man, its fingers either holding or themselves serving as candles whose wax is rendered from the same corpse. Lit, the Hand of Glory was believed to freeze the inhabitants of a house motionless and to render its bearer unseen, making it the perfect burglar's aid.\n\n## Significance\nRecipes for the Hand of Glory circulate in early-modern French grimoires such as the *Petit Albert*, drawing on the older necromantic notion that the bodies of the executed retain potent magical virtue. The motif fuses learned grimoire instruction with popular witch-lore and became a fixture of folklore and gothic fiction. (This image is a modern depiction of the traditional object.)\n\n## For artists & game designers\nA grisly utility item: an equip that applies a 'sleep / unseen' status to NPCs in a room while held aloft.",
+   "citations": [
+    {"text": "*Le Petit Albert* (Secrets merveilleux de la magie naturelle et cabalistique, 18th c.)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:La_Main_de_Gloire.jpg"}
+   ],
+   "key_concepts": ["Hand of Glory", "Petit Albert", "thieves' magic", "necromantic charm"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "medieval_grimoire__talismanic-pendant",
+   "title": "Post-medieval talismanic pendant (PAS FindID 755270)",
+   "work": "Medieval & Early Grimoire Imagery",
+   "creator": "Anonymous; photo The Portable Antiquities Scheme",
+   "date": "Post-medieval / early modern",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["amulet", "talismanic pendant", "copper alloy", "inscribed charm", "protective magic", "magic seal", "personal amulet"],
+   "rights": "CC BY 2.0 (The Portable Antiquities Scheme). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Post_Medieval_or_Modern_opper_alloy_medallion_or_amulet-talismanic_pendant_(FindID_755270).jpg",
+   "summary": "A post-medieval copper-alloy medallion or amulet-pendant recorded by the Portable Antiquities Scheme — a surviving physical object from the world that grimoires describe.\n\n## Iconography\nThe pendant is a small disc of copper alloy, pierced for suspension and bearing inscribed marks — names, characters, or a seal of the sort prescribed by grimoires for protective and curative charms. Worn on the body, such a piece carried its inscribed magic continuously with its owner.\n\n## Significance\nGrimoires from the *Clavicula* to the *Petit Albert* instruct the operator to engrave seals and divine names on metal *lamens* or pendants, made at elected planetary hours, to attract or repel particular influences. Excavated and metal-detected finds like this one — catalogued through the British Museum's Portable Antiquities Scheme — show that such talismans were not merely textual but actually manufactured and worn.\n\n## For artists & game designers\nA grounded reference for craftable charm items: a plain pierced disc whose inscribed sigil determines its passive effect.",
+   "citations": [
+    {"text": "The Portable Antiquities Scheme database, FindID 755270."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Post_Medieval_or_Modern_opper_alloy_medallion_or_amulet-talismanic_pendant_(FindID_755270).jpg"}
+   ],
+   "key_concepts": ["talismanic pendant", "lamen", "protective amulet", "material magic"],
+   "summary_status": "authored"
+  }
+ ]
+}

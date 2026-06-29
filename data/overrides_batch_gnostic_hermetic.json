@@ -1,0 +1,438 @@
+{
+ "_work": {
+  "key": "gnostic_hermetic",
+  "short_id": "GNHM",
+  "title": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+  "creator": "various",
+  "date": "2nd c. CE – 1812",
+  "century": 4,
+  "place": "Egypt, Eastern Mediterranean, Central Asia & Europe",
+  "region": "Eastern Mediterranean",
+  "language": "Coptic, Greek, Latin, Middle Persian & Mandaic",
+  "era": "antiquity",
+  "tradition": "hermetic",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "gnostic_hermetic",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Gnosticism",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "gnosis",
+   "demiurge",
+   "sophia and the aeons",
+   "hermes trismegistus",
+   "emerald tablet",
+   "world soul"
+  ],
+  "blurb": "Surviving primary-source images of the Gnostic and Hermetic textual traditions: the Coptic Nag Hammadi codices and the Jung Codex, Manichaean silk paintings (the Diagram of the Universe and Bema sermons from the Chinese and Turfan corpus), Mandaean baptismal rite, depictions of Hermes Trismegistus from the Siena Cathedral pavement to printed Hermetica, Marsilio Ficino's Latin Corpus Hermeticum, the Emerald Tablet in Khunrath's Amphitheatrum, and a Holy Wisdom (Sophia) icon."
+ },
+ "entries": [
+  {
+   "id": "gnostic_hermetic__nag-hammadi-binding",
+   "title": "Nag Hammadi Codex II (leather-bound papyrus codex)",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Anonymous (Coptic scribes, Upper Egypt)",
+   "date": "mid-4th century CE",
+   "place": "Nag Hammadi, Upper Egypt",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": [
+    "coptic codex",
+    "papyrus",
+    "leather binding",
+    "gnostic gospel",
+    "apocryphon of john",
+    "gospel of thomas",
+    "buried library",
+    "scribal hand"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Nag_Hammadi_Codex_II.jpg",
+   "summary": "Nag Hammadi Codex II, one of the thirteen leather-bound papyrus books discovered near Nag Hammadi in Upper Egypt in 1945, the single richest cache of Gnostic scripture to survive from antiquity.\n\n## Iconography\nThe object itself is the icon: a thick papyrus codex in a soft tooled-leather wrapper, its quires of Coptic script opened to a written page. Codex II famously contains the *Apocryphon of John*, the *Gospel of Thomas*, the *Gospel of Philip*, and the *Hypostasis of the Archons* — the texts are unillustrated, their power lying in the surviving artefact and its cramped sloping hand.\n\n## Significance\nThe Nag Hammadi library transformed the study of [[motif:gnosis|Gnosticism]], which had previously been known almost only through the polemics of its opponents. Buried, probably by monks of the nearby Pachomian monasteries, around the time Athanasius's festal letter fixed the biblical canon, the codices preserve Sethian, Valentinian, and Hermetic works in Coptic translation. The standard edition is the Coptic Gnostic Library produced under James M. Robinson.\n\n## For artists & game designers\nThe ur-image of the 'forbidden library' trove: a jar of leather books pulled from the desert, each volume a different heresy waiting to be opened.",
+   "citations": [
+    {"text": "James M. Robinson (ed.), *The Nag Hammadi Library in English* (1977)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Nag_Hammadi_Codex_II.jpg"}
+   ],
+   "key_concepts": ["Nag Hammadi library", "Coptic Gnosticism", "Apocryphon of John", "buried codices"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__jung-codex",
+   "title": "Jung Codex (Nag Hammadi Codex I) — *Gospel of Truth* papyrus",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Anonymous (Coptic scribe)",
+   "date": "mid-4th century CE",
+   "place": "Nag Hammadi, Upper Egypt",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": [
+    "coptic papyrus",
+    "gospel of truth",
+    "valentinian",
+    "jung codex",
+    "single leaf",
+    "scribal hand",
+    "gnosis",
+    "fragment"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:%E2%80%9CPapiro_17_del_Codex_I_o_Code_Jung,_conteniendo_una_parte_del_Evangelio_de_la_Verdad_(NHC_I,3_)%E2%80%9D.png",
+   "summary": "A papyrus leaf (page 17) of Nag Hammadi Codex I — the celebrated *Jung Codex* — carrying part of the *Gospel of Truth*, a Valentinian meditation often attributed to Valentinus himself.\n\n## Iconography\nA single tall column of Coptic majuscule fills the leaf, the fibres of the papyrus running visibly behind the ink. There is no illustration; the artefact's interest is textual and material — a fragment of the most lyrical of Gnostic writings.\n\n## Significance\nCodex I acquired the name *Jung Codex* because it was purchased in 1952 and presented to C. G. Jung, whose Zürich institute first published it before it was reunited with the rest of the library in Cairo. The *Gospel of Truth* expounds [[motif:gnosis|gnosis]] as the dispelling of ignorance — error personified flees as the saving knowledge of the Father is revealed — making it a key witness to [[motif:sophia and the aeons|Valentinian]] theology.\n\n## For artists & game designers\nA lore-fragment prop: a torn page of glowing script whose recovery unlocks a faction's true creation-myth.",
+   "citations": [
+    {"text": "Harold W. Attridge (ed.), *Nag Hammadi Codex I (The Jung Codex)* (1985)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:%E2%80%9CPapiro_17_del_Codex_I_o_Code_Jung,_conteniendo_una_parte_del_Evangelio_de_la_Verdad_(NHC_I,3_)%E2%80%9D.png"}
+   ],
+   "key_concepts": ["Jung Codex", "Gospel of Truth", "Valentinianism", "C. G. Jung"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__manichaean-universe",
+   "title": "Manichaean *Diagram of the Universe* (Cosmology — Heaven Scene)",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Anonymous (Chinese Manichaean painter)",
+   "date": "13th–14th century CE (Yuan-era silk)",
+   "place": "Southern China (Cathayan Manichaean community)",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": [
+    "manichaeism",
+    "cosmology diagram",
+    "ten heavens",
+    "light and darkness",
+    "silk hanging scroll",
+    "dualism",
+    "celestial realms",
+    "redemption of light"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cathayan_Manichaean_Cosmology_-_Heaven_Scene.jpg",
+   "summary": "The upper, celestial register of the Chinese Manichaean *Diagram of the Universe*, a large Yuan-era silk hanging scroll that maps the entire Manichaean cosmos.\n\n## Iconography\nTiered bands of palatial heavens rise toward the realm of the Father of Greatness, each storey populated by enthroned light-divinities and guardian figures painted in the idiom of Chinese Buddhist temple art. The scene belongs to a vertical cosmogram that descends through the firmaments, the wheels of sun and moon, the earthly world, and the prisons of darkness below.\n\n## Significance\nManichaeism, founded by the prophet Mani in third-century Sasanian Mesopotamia, taught a thoroughgoing [[motif:dualism|dualism]] of Light and Darkness and an elaborate machinery for the [[motif:redemption of light|liberation of the light]] trapped in matter. This silk, rediscovered in Japan and studied by Zsuzsanna Gulácsi and Yutaka Yoshida, is the only known complete pictorial cosmology of the religion to survive.\n\n## For artists & game designers\nA ready-made vertical level select: ten stacked heavens above, sun-and-moon ferries in the middle, light-eating dungeons of darkness below.",
+   "citations": [
+    {"text": "Zsuzsanna Gulácsi, *Mani's Pictures* (2015)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cathayan_Manichaean_Cosmology_-_Heaven_Scene.jpg"}
+   ],
+   "key_concepts": ["Manichaeism", "cosmology", "light-dark dualism", "Chinese Manichaean painting"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__manichaean-bema",
+   "title": "Manichaean *Diagram of the Universe* (Detail) — the spheres of the cosmos",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Anonymous (Chinese Manichaean painter)",
+   "date": "13th–14th century CE (Yuan-era silk)",
+   "place": "Southern China (Cathayan Manichaean community)",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": [
+    "manichaeism",
+    "cosmology diagram",
+    "world mountain",
+    "firmaments",
+    "silk painting",
+    "sun and moon vessels",
+    "light particles",
+    "ascending souls"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Manichaean_Diagram_of_the_Universe_(Detail_9).jpg",
+   "summary": "A horizontal detail strip from the Chinese Manichaean *Diagram of the Universe*, isolating one band of the cosmic machine through which the light is purified and raised.\n\n## Iconography\nThe detail shows a register of the firmaments crowded with deities, registers of cloud, and the conduits along which redeemed light-particles travel. Figures process across the band in the conventions of Chinese religious painting, the whole forming one storey of the great vertical cosmogram.\n\n## Significance\nThe complete scroll diagrams the Manichaean myth of salvation as a cosmic apparatus: the [[motif:sun and moon vessels|sun and moon]] are ships that ferry liberated light upward toward the [[motif:redemption of light|New Paradise]]. Such painted teaching-pictures realised Mani's own claim to have illustrated his doctrine, a tradition reconstructed by Zsuzsanna Gulácsi from the dispersed Chinese and Central Asian remains.\n\n## For artists & game designers\nA conveyor-belt cosmology: a horizontal track of cloud-tiers along which collected 'light' resources flow upward to be banked.",
+   "citations": [
+    {"text": "Zsuzsanna Gulácsi, *Mani's Pictures* (2015)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Manichaean_Diagram_of_the_Universe_(Detail_9).jpg"}
+   ],
+   "key_concepts": ["Manichaeism", "cosmology diagram", "redemption of light", "Mani's Pictures"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__manichaean-sermon",
+   "title": "*Daênâ with Her Attendants*, Manichaean Sermon silk painting",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Anonymous (Chinese Manichaean painter)",
+   "date": "13th–14th century CE (Yuan-era silk)",
+   "place": "Southern China",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": [
+    "manichaeism",
+    "daena",
+    "soul-maiden",
+    "judgement of the soul",
+    "silk painting",
+    "light-divinity",
+    "attendants",
+    "afterlife"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Da%C3%AAn%C3%A2_with_Her_Attendants_(Manichaean_Sermon).jpg",
+   "summary": "A detail of *Daênâ with her attendants* from a Chinese Manichaean 'sermon' silk painting, depicting the radiant soul-maiden who meets the elect after death.\n\n## Iconography\nA crowned female light-divinity stands haloed amid smaller attendants, all in flowing robes painted in fine Chinese line and colour. She personifies the Daênâ — the heavenly self or 'Light-Maiden' — who greets the righteous soul and conducts it upward, a motif Manichaeism inherited from the Iranian religious world.\n\n## Significance\nThe Manichaean 'sermon' paintings were didactic icons used in preaching, dramatising the fate of the soul. The figure of [[motif:daena|Daênâ]], the soul's own purified image come to meet it, links Mani's church to older Zoroastrian eschatology and to the wider Gnostic theme of the heavenly twin or [[motif:soul-maiden|Light-Maiden]]. Gulácsi and Kósa have reconstructed these scenes from the surviving Japanese-held scrolls.\n\n## For artists & game designers\nA psychopomp NPC: a luminous guide-figure with a retinue who appears at the moment of death to escort or judge the player-soul.",
+   "citations": [
+    {"text": "Gábor Kósa, studies on the Chinese Manichaean silk paintings (2010s)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Da%C3%AAn%C3%A2_with_Her_Attendants_(Manichaean_Sermon).jpg"}
+   ],
+   "key_concepts": ["Manichaeism", "Daênâ", "soul's ascent", "Manichaean painting"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__mandaean-scroll",
+   "title": "Mandaean Triple Baptism (*masbuta*), photographed in Iraq, 1925",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Anonymous (E. S. Drower-era documentary photograph)",
+   "date": "c. 1925",
+   "place": "Lower Iraq (marshlands)",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "mandaeism",
+    "masbuta",
+    "baptism",
+    "living water",
+    "priest",
+    "white ritual robe",
+    "river rite",
+    "gnostic survival"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mandaeans_of_Iraq_25c_-_Triple_baptism_of_polluted_priest.jpg",
+   "summary": "An early documentary photograph of the Mandaean *masbuta* (baptism) in Iraq, here the threefold baptism by which a ritually polluted priest is purified.\n\n## Iconography\nWhite-robed Mandaeans stand in flowing river water as a priest administers the rite; the scene captures the indispensable role of [[motif:living water|living water]] (*yardna*) in Mandaean practice. Photographs of this kind were gathered in the early twentieth century during fieldwork on the community.\n\n## Significance\nThe Mandaeans of southern Iraq and Iran are the only Gnostic religion to survive continuously from antiquity, revering John the Baptist and condemning the false creator-powers. Their frequent baptism in running water enacts a cosmology of light and the World of Light against the dark. The classic studies are by E. S. Drower, who edited the Mandaean scriptures and documented the rites; the *Ginza Rabba* is their central scripture.\n\n## For artists & game designers\nA living ritual reference: white-robed celebrants and a moving-water font, the antithesis of the stagnant-pool 'corruption' trope.",
+   "citations": [
+    {"text": "E. S. Drower, *The Mandaeans of Iraq and Iran* (1937)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mandaeans_of_Iraq_25c_-_Triple_baptism_of_polluted_priest.jpg"}
+   ],
+   "key_concepts": ["Mandaeism", "masbuta", "living water", "surviving Gnosticism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__mandaean-priest",
+   "title": "Mandaean *masbuta* in the Karun River, Ahvaz, Iran (2018)",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Mehdi Pedramkhoo (photographer)",
+   "date": "2018",
+   "place": "Karun River, Ahvaz, Iran",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "mandaeism",
+    "masbuta",
+    "baptism",
+    "living water",
+    "rasta robe",
+    "river rite",
+    "priest",
+    "gnostic survival"
+   ],
+   "rights": "CC BY 4.0 (Mehdi Pedramkhoo). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Masbuta_by_Mandaeans_in_Karun_River,_Ahvaz,_Iran_-_17_July_2018_(01).jpg",
+   "summary": "A modern colour photograph of the Mandaean *masbuta* performed in the Karun River at Ahvaz, Iran, in 2018 — a living continuation of the rite shown in the 1925 image.\n\n## Iconography\nCongregants in the white *rasta* ritual garment wade into the river as a priest performs the baptism in the flowing water. The contemporary setting demonstrates that the [[motif:masbuta|masbuta]] remains the centre of Mandaean devotional life nearly a century after the early ethnographic photographs.\n\n## Significance\nThe Mandaean community, scattered by modern upheavals in Iraq and Iran, still anchors its identity in baptism in [[motif:living water|flowing water]] and in the *Ginza Rabba*. As the last surviving ancient Gnostic religion — venerating John the Baptist and rejecting the demiurgic powers — its persistence is of singular importance to the study of Gnosticism, much of which is otherwise known only from antiquity.\n\n## For artists & game designers\nA contemporary counterpoint for any 'ancient sect still practising' worldbuilding: modern dress at the riverbank, the rite unchanged.",
+   "citations": [
+    {"text": "Jorunn J. Buckley, *The Mandaeans: Ancient Texts and Modern People* (2002)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Masbuta_by_Mandaeans_in_Karun_River,_Ahvaz,_Iran_-_17_July_2018_(01).jpg"}
+   ],
+   "key_concepts": ["Mandaeism", "masbuta", "Ginza Rabba", "living Gnostic community"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__hermes-siena",
+   "title": "Hermes Trismegistus, Siena Cathedral pavement (Giovanni di Stefano)",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Giovanni di Stefano (designed by, attrib.)",
+   "date": "1488",
+   "place": "Siena Cathedral, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "hermes trismegistus",
+    "marble intarsia",
+    "contemporaneus moysi",
+    "two sages",
+    "tablet",
+    "prisca theologia",
+    "sibyls",
+    "ancient wisdom"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pavimento_di_siena,_ermete_trismegisto_(giovanni_di_stefano)_01.jpg",
+   "summary": "The marble-intarsia panel of *Hermes Trismegistus* set into the pavement of Siena Cathedral (1488), the most monumental Renaissance image of the legendary Egyptian sage.\n\n## Iconography\nA robed, bearded Hermes hands a tablet to two figures while resting his other hand on a raised book or slab inscribed in Latin. The flanking inscription hails him *Hermes Mercurius Trismegistus contemporaneus Moysi* — \"contemporary of Moses\" — and a second tablet declares that he foretold the coming of Christianity. The whole is executed in inlaid coloured marble (*commesso*).\n\n## Significance\nThe panel embodies the Renaissance doctrine of *prisca theologia*: the belief, encouraged by Ficino's translation of the [[motif:hermes trismegistus|Hermetica]], that an ancient gentile wisdom anticipated Christian truth. Placing Hermes at the very entrance of the cathedral, ahead of the Sibyls along the nave, monumentalised the conviction — only later overturned by Isaac Casaubon — that the Corpus Hermeticum was older than Moses.\n\n## For artists & game designers\nA grand foyer-floor motif: a robed lawgiver presenting a tablet, ideal for a temple threshold that frames the player's whole quest as ancient prophecy.",
+   "citations": [
+    {"text": "Frances A. Yates, *Giordano Bruno and the Hermetic Tradition* (1964)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pavimento_di_siena,_ermete_trismegisto_(giovanni_di_stefano)_01.jpg"}
+   ],
+   "key_concepts": ["Hermes Trismegistus", "prisca theologia", "Siena Cathedral pavement", "Renaissance Hermetism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__corpus-hermeticum-title",
+   "title": "Ficino's *Pimander* — title page of *De Potestate et Sapientia Dei*",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Marsilio Ficino (translator); early printed edition",
+   "date": "1471 (text) / early printed edition",
+   "place": "Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "corpus hermeticum",
+    "pimander",
+    "title page",
+    "letterpress",
+    "marsilio ficino",
+    "latin translation",
+    "ancient theology",
+    "printed book"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Marsilio_Ficino_De_Potestate_et_Sapientia_Dei_title_page.png",
+   "summary": "The title page of Marsilio Ficino's Latin *Pimander* — *Mercurii Trismegisti Liber de Potestate et Sapientia Dei* — the version through which the *Corpus Hermeticum* re-entered the Western imagination.\n\n## Iconography\nA letterpress title page declaring the work of Hermes Trismegistus 'on the power and wisdom of God', translated by Ficino. The page is typographic rather than pictorial — the artefact's importance is bibliographic, marking the printed transmission of the Hermetic dialogues.\n\n## Significance\nCosimo de' Medici had Ficino break off his Plato to translate a Greek Hermetic manuscript first; the resulting *Pimander*, completed in 1463 and first printed in 1471, was a publishing sensation that ran through dozens of editions. It cast [[motif:hermes trismegistus|Hermes Trismegistus]] as the fount of a *prisca theologia* and made the [[motif:corpus hermeticum|Corpus Hermeticum]] central to Renaissance Neoplatonism — until Casaubon redated the texts to late antiquity in 1614.\n\n## For artists & game designers\nA convincing 'forbidden translation' book-prop: the moment a lost ancient text is rendered legible and unleashed upon a culture.",
+   "citations": [
+    {"text": "Brian P. Copenhaver, *Hermetica* (1992)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Marsilio_Ficino_De_Potestate_et_Sapientia_Dei_title_page.png"}
+   ],
+   "key_concepts": ["Corpus Hermeticum", "Pimander", "Marsilio Ficino", "prisca theologia"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__hermes-boissard",
+   "title": "*Mercurius Trismegistus*, engraving from Boissard's *Tractatus posthumus*",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Johann Theodor de Bry (engraver), after J. J. Boissard",
+   "date": "1615–1616",
+   "place": "Oppenheim / German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "hermes trismegistus",
+    "engraved portrait",
+    "sage with tablet",
+    "divination",
+    "de bry workshop",
+    "emblematic frame",
+    "ancient theology",
+    "magus"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mercurius_Trismegistus-Tractatus_posthumus_de_divinatione_magicis-12.jpg",
+   "summary": "An engraved portrait of *Mercurius Trismegistus* from Jean-Jacques Boissard's posthumous *Tractatus … de divinatione et magicis praestigiis*, engraved by the de Bry workshop (c. 1615).\n\n## Iconography\nHermes appears as a dignified bearded sage in antique dress, set within an emblematic frame and identified by inscription as Mercurius Trismegistus. He is shown as the prototype magus and lawgiver, an attribute-tablet or book to hand, in the refined burin style of Johann Theodor de Bry.\n\n## Significance\nBoissard's antiquarian compendium gathered portraits and lore of the magical and divinatory traditions; its placement of [[motif:hermes trismegistus|Hermes Trismegistus]] at the head of the diviners reflects the early-modern view of him as founder of magic and *prisca theologia*. The de Bry firm at Oppenheim, also responsible for engraving Fludd and Maier, made such Hermetic portraits a staple of the learned esoteric book.\n\n## For artists & game designers\nA portrait-card template for a 'founder of the arcane arts' character: antique robes, framing cartouche, identifying scroll.",
+   "citations": [
+    {"text": "J. J. Boissard, *Tractatus posthumus de divinatione et magicis praestigiis* (Oppenheim, c. 1615)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mercurius_Trismegistus-Tractatus_posthumus_de_divinatione_magicis-12.jpg"}
+   ],
+   "key_concepts": ["Hermes Trismegistus", "Boissard", "de Bry engraving", "magus"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__hermes-book",
+   "title": "*Trismegistos* — printed depiction of Hermes Trismegistus",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Anonymous (early-modern print)",
+   "date": "early modern (printed image)",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "hermes trismegistus",
+    "thrice-great",
+    "printed figure",
+    "sage",
+    "tablet",
+    "ancient wisdom",
+    "emblematic portrait",
+    "hermetica"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Trismegistos.jpg",
+   "summary": "An early-modern printed image of *Trismegistos* — Hermes the Thrice-Great — representing the mythic author of the Hermetic corpus.\n\n## Iconography\nHermes is figured as a venerable robed sage, the conventional attributes of the Hermetic author — book or tablet and an air of ancient authority — establishing his identity. The image belongs to the dense print tradition that disseminated his likeness across early-modern learned literature.\n\n## Significance\nThe epithet *Trismegistus*, 'thrice-greatest', marked [[motif:hermes trismegistus|Hermes]] as the supposed Egyptian master of philosophy, priesthood, and kingship and the fountainhead of the [[motif:corpus hermeticum|Hermetica]]. Such portraits multiplied through the sixteenth and seventeenth centuries, cementing his role as patron of alchemy, astrology, and magic in the European esoteric imagination.\n\n## For artists & game designers\nA simple, legible 'archmage of antiquity' silhouette — robe, beard, tablet — for use as a faction emblem or lore portrait.",
+   "citations": [
+    {"text": "Brian P. Copenhaver, *Hermetica* (1992)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Trismegistos.jpg"}
+   ],
+   "key_concepts": ["Hermes Trismegistus", "Thrice-Great", "Hermetica", "esoteric reception"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__hermes-trismegistus",
+   "title": "Hermes Trismegistus and the *Table d'Émeraude*, decorated initial",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Anonymous (early printed book; Library of Congress)",
+   "date": "early modern (printed)",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "hermes trismegistus",
+    "emerald tablet",
+    "decorated initial",
+    "father of philosophy",
+    "historiated letter",
+    "portrait",
+    "alchemy",
+    "ancient theology"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Apology_by_author,_la_table_desmerade_d%27Hermes_Trimegiste,_father_of_philosophy,_and_portrait_in_decorated_initial_L_LCCN92517554.jpg",
+   "summary": "An early printed page joining a portrait of *Hermes Trismegistus*, 'father of philosophy', to the *Table d'Émeraude* (Emerald Tablet) within a decorated historiated initial L (Library of Congress).\n\n## Iconography\nA portrait of the sage is worked into an ornamented capital letter, set beside the text of the [[motif:emerald tablet|Emerald Tablet]] presented as his foundational utterance. The page weds figural portrait and decorated typography in the manner of an apologetic preface defending the Hermetic art.\n\n## Significance\nHere Hermes is explicitly cast as *father of philosophy* and author of the Emerald Tablet, the terse axiom-text ('as above, so below') that the alchemical tradition ascribed to him. The pairing typifies how early-modern printers framed alchemy with Hermetic authority, lending the practical art the dignity of a primordial revelation. The standard study of the tablet's textual history is Julius Ruska's.\n\n## For artists & game designers\nA decorated drop-cap device — a portrait nested in an illuminated letter — useful for chapter-headers in an in-game grimoire.",
+   "citations": [
+    {"text": "Julius Ruska, *Tabula Smaragdina* (1926)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Apology_by_author,_la_table_desmerade_d%27Hermes_Trimegiste,_father_of_philosophy,_and_portrait_in_decorated_initial_L_LCCN92517554.jpg"}
+   ],
+   "key_concepts": ["Hermes Trismegistus", "Emerald Tablet", "historiated initial", "Hermetic authority"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__emerald-tablet-khunrath",
+   "title": "*Tabula Smaragdina* frontispiece, Khunrath's *Amphitheatrum* (Houghton copy)",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Heinrich Khunrath (engraving in his *Amphitheatrum*)",
+   "date": "1595 / 1609",
+   "place": "Hamburg–Hanau / German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "emerald tablet",
+    "tabula smaragdina",
+    "as above so below",
+    "hermetic engraving",
+    "khunrath",
+    "divine wisdom",
+    "amphitheatrum",
+    "ouroboros"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Houghton_Typ_620.09.482_Heinrich_Khunrath,_Amphitheatrvm_sapientiae_aeternae.jpg",
+   "summary": "An engraved plate from Heinrich Khunrath's *Amphitheatrum Sapientiae Aeternae* presenting the *Tabula Smaragdina* (Emerald Tablet) within his theosophical-alchemical programme (Harvard Houghton copy).\n\n## Iconography\nThe plate sets the sentences of the Emerald Tablet amid Khunrath's characteristic apparatus of divine names, radiant geometry, and emblematic frame, expounding the Hermetic axiom that the things above answer the things below. Latin captions key the tablet's clauses to the stages of the alchemical work.\n\n## Significance\nThe *Tabula Smaragdina* — 'that which is above is as that which is below' ([[motif:as above so below|as above, so below]]) — was the compressed creed of alchemy, and Khunrath wove it into the Christian-theosophical synthesis of his *Amphitheatrum*. (This is a distinct engraving from the Deutsche-Fotothek Emerald-Tablet emblem; here the tablet appears within Khunrath's own published frame.) Peter Forshaw's studies anchor the modern reading of the work.\n\n## For artists & game designers\nA single emblem-card combining a terse axiom-text with radiant geometry — a 'law of the world' artifact the player can study to unlock correspondences.",
+   "citations": [
+    {"text": "Peter Forshaw, studies on Heinrich Khunrath (2000s)."},
+    {"text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae* (Hamburg 1595 / Hanau 1609)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Houghton_Typ_620.09.482_Heinrich_Khunrath,_Amphitheatrvm_sapientiae_aeternae.jpg"}
+   ],
+   "key_concepts": ["Emerald Tablet", "as above so below", "Heinrich Khunrath", "Amphitheatrum Sapientiae Aeternae"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "gnostic_hermetic__sophia-aeon",
+   "title": "*Holy Wisdom* (Sophia) — Russian icon, 1812",
+   "work": "Gnostic & Hermetic Primary Sources (Codices, Manichaean & Mandaean Art, Hermetica)",
+   "creator": "Anonymous (Russian icon painter)",
+   "date": "1812",
+   "place": "Russia",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "sophia",
+    "holy wisdom",
+    "winged figure",
+    "enthroned",
+    "fiery aureole",
+    "divine wisdom",
+    "aeon",
+    "russian icon"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Holy_Wisdom_(1812,_Russian_museum).jpg",
+   "summary": "A Russian icon of *Holy Wisdom* (Sophia) from 1812, depicting Divine Wisdom as a crowned, winged figure enthroned in fire — a Christian counterpart to the Gnostic Aeon Sophia.\n\n## Iconography\nSophia is enthroned at the centre as a crowned, fiery-faced winged being within a red aureole, flanked by Christ, the Virgin, and ranks of angels. The composition derives from the 'Sophia, Wisdom of God' iconographic type developed at Novgorod, in which abstract Wisdom is personified as a regal angelic presence.\n\n## Significance\nIn the Gnostic systems, [[motif:sophia|Sophia]] is the last of the [[motif:sophia and the aeons|Aeons]] whose fall and longing precipitate the material cosmos and the false creator. The Eastern Christian veneration of Holy Wisdom — and the later Russian *sophiology* of Solovyov and Bulgakov — keeps alive, in orthodox form, the image of Wisdom as a divine feminine hypostasis mediating between God and creation.\n\n## For artists & game designers\nA luminous, winged 'Wisdom' deity-portrait: enthroned, fire-faced, flanked by an angelic court — a high-tier patron figure.",
+   "citations": [
+    {"text": "Kurt Rudolph, *Gnosis: The Nature and History of Gnosticism* (1977)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Holy_Wisdom_(1812,_Russian_museum).jpg"}
+   ],
+   "key_concepts": ["Sophia", "Holy Wisdom", "Gnostic Aeons", "divine feminine"],
+   "summary_status": "authored"
+  }
+ ]
+}

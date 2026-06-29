@@ -1,0 +1,513 @@
+{
+ "_work": {
+   "key": "sacred_architecture",
+   "short_id": "SACR",
+   "title": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "various",
+   "date": "1st c. CE – 19th c.",
+   "century": 13,
+   "place": "France, Italy, England, German lands",
+   "region": "Europe",
+   "language": "Latin and vernacular",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "sacred_architecture",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Religious_architecture",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["labyrinth", "green man", "rose window", "sacred geometry", "tympanum", "apotropaic carving"],
+   "blurb": "Photographs of carved and built sacred space in which Western architecture carries an esoteric charge: the pavement labyrinths of the Gothic cathedrals, foliate Green Men and Sheela-na-gigs, Cosmati sacred-geometry floors, cosmological rose windows, zodiac portals, apotropaic gargoyles, mandorla tympana, the Externsteine, and Renaissance garden grottoes."
+ },
+ "entries": [
+  {
+   "id": "sacred_architecture__chartres-labyrinth",
+   "title": "The labyrinth of Chartres Cathedral",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Gothic masons, c. 1200); photograph by Poulpy",
+   "date": "c. 1200 (laid); photo modern",
+   "place": "Chartres, France",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": ["labyrinth", "unicursal path", "pilgrimage", "cathedral pavement", "rose center", "eleven circuits", "sacred geometry", "nave"],
+   "rights": "CC BY-SA 4.0 (photo: Poulpy). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Chartres,_Cath%C3%A9drale_Notre-Dame,_Garden,_Labyrinth.jpg",
+   "summary": "The pavement labyrinth set into the nave floor of Chartres Cathedral, the most famous and best-preserved medieval church labyrinth.\n\n## Iconography\nA single unbroken (unicursal) path of black and white stone winds through **eleven concentric circuits** to a six-lobed rosette at the center, the whole roughly 12.9 metres across. There is only one way in and out; the walker is never lost, only turned. The form is laid into the western bays of the nave so the great west [[motif:rose-window|rose window]] mirrors it on the wall above.\n\n## Significance\nMedieval labyrinths were read as figures of the Christian life and of the pilgrimage to Jerusalem — Chartres' was reputedly walked as a substitute *chemin de Jérusalem*. Later esoteric writers (notably the Hermeticist Fulcanelli in *Le Mystère des cathédrales*) treated the cathedral labyrinth as an emblem of the alchemical [[motif:sacred-geometry|work]], the turning path standing for the difficult passage to the philosophical center.\n\n## For artists & game designers\nA ready-made map: a single forced path with no dead ends generates pacing and ritual without puzzle-frustration — the journey, not the branching, is the content.",
+   "citations": [
+    {"text": "Fulcanelli, *Le Mystère des cathédrales* (1926)."},
+    {"text": "H. Kern, *Through the Labyrinth* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Chartres,_Cath%C3%A9drale_Notre-Dame,_Garden,_Labyrinth.jpg"}
+   ],
+   "key_concepts": ["Chartres labyrinth", "unicursal path", "cathedral pilgrimage", "sacred geometry"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__reims-labyrinth",
+   "title": "The Reims Cathedral labyrinth (Cellier drawing)",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Jacques Cellier (after the lost pavement)",
+   "date": "16th-c. drawing of a c. 1290 pavement",
+   "place": "Reims, France",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": ["labyrinth", "octagon", "master masons", "cathedral pavement", "lost monument", "antiquarian drawing", "four corners", "sacred geometry"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Labyrinthe_Gaucher_Jean_Lou_Jean_d%27Orbais_Bernard_de_Soissons_dessin_jacques_Cellier_XVIe_html_m7e77111d.jpg",
+   "summary": "A 16th-century drawing by Jacques Cellier recording the octagonal pavement labyrinth of Reims Cathedral, which was destroyed in 1779.\n\n## Iconography\nUnlike the round Chartres design, the Reims labyrinth was an **octagon**, its turning path inset with the figures of the cathedral's four master builders at the corners — Jean d'Orbais, Jean-le-Loup, Gaucher de Reims and Bernard de Soissons. Cellier's drawing preserves both the geometry and the masons' portraits.\n\n## Significance\nReims documents how the cathedral [[motif:labyrinth|labyrinth]] could double as a signed monument to the architects, binding the mystery of the design to the guild that laid it. The pavement was torn up because pilgrims and children treading its circuits disturbed services — a reminder that these floors were *used*, walked as devotional mazes, not merely contemplated.\n\n## For artists & game designers\nThe octagonal variant with named makers at the corners is a model for a 'signed' level — a maze that credits and characterises its builders inside the geometry itself.",
+   "citations": [
+    {"text": "H. Kern, *Through the Labyrinth* (2000)."},
+    {"text": "C. Wright, *The Maze and the Warrior* (2001)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Labyrinthe_Gaucher_Jean_Lou_Jean_d%27Orbais_Bernard_de_Soissons_dessin_jacques_Cellier_XVIe_html_m7e77111d.jpg"}
+   ],
+   "key_concepts": ["Reims labyrinth", "octagonal labyrinth", "master masons", "lost pavement"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__amiens-labyrinth",
+   "title": "Amiens Cathedral interior (stalls and pavement)",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Gothic, 13th c.); photograph by Florestan",
+   "date": "13th c. fabric; photo modern",
+   "place": "Amiens, France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["cathedral interior", "labyrinth tradition", "choir stalls", "triforium", "gothic vault", "octagonal labyrinth", "pavement", "nave"],
+   "rights": "CC BY 3.0 (photo: Florestan). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cathedrale_d%27Amiens_-_Stalles_vues_du_triforium.jpg",
+   "summary": "The interior of Amiens Cathedral seen from the triforium, the church that holds the great octagonal nave labyrinth of 1288 (re-laid 1894).\n\n## Iconography\nThe view down across choir stalls and pavement shows the vast Gothic vessel whose floor carries an **octagonal labyrinth** centred on a now-lost plaque that named the cathedral's builders and bishop. The original blue-and-grey stone maze was destroyed in 1825 and reconstructed at the end of the century.\n\n## Significance\nAmiens belongs with Chartres and Reims in the small family of great French cathedral [[motif:labyrinth|labyrinths]]. Their shared placement in the nave, on the processional axis below the [[motif:rose-window|rose window]], shows the medieval architects treating the floor as a cosmological diagram to be walked, not only a surface to be crossed.\n\n## For artists & game designers\nAn establishing 'cathedral interior' reference — vertical stone rhythm above, a patterned ritual floor below — for building awe-scaled sacred interiors.",
+   "citations": [
+    {"text": "H. Kern, *Through the Labyrinth* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cathedrale_d%27Amiens_-_Stalles_vues_du_triforium.jpg"}
+   ],
+   "key_concepts": ["Amiens Cathedral", "octagonal labyrinth", "Gothic interior", "nave pavement"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__lucca-labyrinth",
+   "title": "The Lucca Cathedral wall labyrinth (Matthews engraving)",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "after the medieval relief; plate from W. H. Matthews (1922)",
+   "date": "12th–13th c. relief; engraving 1922",
+   "place": "Lucca, Italy",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["labyrinth", "finger maze", "theseus and minotaur", "porch carving", "latin inscription", "daedalus", "wall relief", "pilgrimage"],
+   "rights": "Public domain (No restrictions). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mazes_and_labyrinths;_a_general_account_of_their_history_and_developments_(1922)_(14598091477).jpg",
+   "summary": "A plate from W. H. Matthews' *Mazes and Labyrinths* (1922) recording the small carved labyrinth on the porch pier of the cathedral of San Martino at Lucca.\n\n## Iconography\nThe Lucca labyrinth is a **finger maze** — a low relief cut into a wall pier beside the cathedral door, just large enough to trace with a fingertip. A Latin inscription beside it names the Cretan myth: *HIC QUEM CRETICUS EDIT DAEDALUS EST LABERINTHUS* — 'This is the labyrinth which the Cretan Daedalus built.' The classical [[motif:theseus-and-minotaur|Theseus and Minotaur]] story is thus written onto a Christian church.\n\n## Significance\nThe Lucca carving shows the medieval church absorbing the pagan Cretan labyrinth as an allegory of sin and salvation: to trace the path with a finger before entering was to rehearse the soul's escape from error. Matthews' survey made such carvings part of the modern study of the [[motif:labyrinth|labyrinth]] tradition.\n\n## For artists & game designers\nThe finger-maze at a threshold is a gesture mechanic in stone — a tiny interactive object that ritualizes entering a space.",
+   "citations": [
+    {"text": "W. H. Matthews, *Mazes and Labyrinths: A General Account of Their History and Developments* (1922)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mazes_and_labyrinths;_a_general_account_of_their_history_and_developments_(1922)_(14598091477).jpg"}
+   ],
+   "key_concepts": ["Lucca labyrinth", "finger maze", "Daedalus inscription", "threshold ritual"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__roman-labyrinth-mosaic",
+   "title": "Labyrinth floor, House of the Labyrinth, Pompeii",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Roman mosaicist, 1st c. CE); photos by Peter Grunwald",
+   "date": "1st c. CE",
+   "place": "Pompeii, Italy",
+   "era": "antiquity",
+   "tradition": "reception",
+   "motifs": ["labyrinth", "roman mosaic", "cocciopesto floor", "meander", "domus", "theseus", "apotropaic threshold", "geometric border"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Room_26_cocciopesto_floor_House_of_the_Labyrinth_Pompeii.jpg",
+   "summary": "The labyrinth pattern set into a *cocciopesto* (crushed-tile-and-lime) floor in the House of the Labyrinth at Pompeii, which gave the house its modern name.\n\n## Iconography\nA tight geometric **meander labyrinth** runs as a band in the pavement, the classical seven-circuit form built from interlocking right angles rather than curves. The same house preserves a famous mosaic of [[motif:theseus-and-minotaur|Theseus killing the Minotaur]] at the labyrinth's heart.\n\n## Significance\nThe labyrinth as a *floor* motif predates the cathedrals by more than a millennium: Romans laid it at doorways and in atria, where its tangling lines were felt to confuse and turn back evil — an **apotropaic** function. The Pompeian examples are the crucial evidence that the Christian church labyrinth inherited a long pavement tradition.\n\n## For artists & game designers\nProof that the maze-on-the-floor is ancient and domestic, not only ecclesiastical — useful for grounding a 'classical villa' set with a charged threshold.",
+   "citations": [
+    {"text": "H. Kern, *Through the Labyrinth* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Room_26_cocciopesto_floor_House_of_the_Labyrinth_Pompeii.jpg"}
+   ],
+   "key_concepts": ["Roman labyrinth", "Pompeii mosaic", "apotropaic threshold", "meander pattern"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__turf-maze",
+   "title": "The Mizmaze turf labyrinth, Breamore Down",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (medieval/early modern); photograph by Michael Coppins",
+   "date": "medieval–early modern (date disputed)",
+   "place": "Breamore, Hampshire, England",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["turf maze", "mizmaze", "earthwork labyrinth", "folk ritual", "penance", "unicursal path", "hilltop", "downland"],
+   "rights": "CC BY-SA 4.0 (photo: Michael Coppins). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Breamore_-_Mizmaze_on_Breamore_Down_-_20230721112800.jpg",
+   "summary": "The Mizmaze on Breamore Down, one of the few surviving English **turf mazes** — a labyrinth cut into living grass rather than laid in stone.\n\n## Iconography\nThe pattern is a unicursal labyrinth scored into the hilltop turf, its raised banks and trodden trenches forming circuits walked rather than viewed. Many English turf mazes echo the eleven-circuit Chartres design, linking the wild downland maze to the cathedral pavement.\n\n## Significance\nTurf mazes (called *mizmaze*, *Troy Town*, *Julian's Bower*) are the folk continuation of the church [[motif:labyrinth|labyrinth]] in the open landscape. Tradition holds that some were walked as penance or in spring 'maze-treading' games. Their survival on isolated hills is fragile, since they vanish if not re-cut.\n\n## For artists & game designers\nA labyrinth made of *negative space in the land* — no walls, just paths worn into ground — is a low-tech, atmospheric way to put ritual geometry into an outdoor scene.",
+   "citations": [
+    {"text": "W. H. Matthews, *Mazes and Labyrinths* (1922)."},
+    {"text": "J. Saward, *Labyrinths and Mazes* (2003)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Breamore_-_Mizmaze_on_Breamore_Down_-_20230721112800.jpg"}
+   ],
+   "key_concepts": ["turf maze", "mizmaze", "folk labyrinth", "maze-treading"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__green-man",
+   "title": "A Green Man foliate-head carving",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (medieval mason); photograph by SiGarb",
+   "date": "medieval; photo modern",
+   "place": "England",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["green man", "foliate head", "vegetation deity", "boss carving", "disgorging leaves", "fertility", "roof boss", "nature spirit"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Green_Man_carving.jpg",
+   "summary": "A carved **Green Man** — a human face sprouting and disgorging foliage — of the kind found on bosses, capitals and misericords throughout medieval churches.\n\n## Iconography\nLeaves and vine-tendrils issue from the figure's mouth, sometimes also from eyes and nostrils, so the head seems to grow into vegetation or to be devoured by it. The species (oak, hawthorn, acanthus) and the expression vary from serene to grimacing.\n\n## Significance\nThe term 'Green Man' was coined by Lady Raglan in 1939, who linked the carvings to folk fertility figures; scholars since have stressed their roots in Roman foliate masks and their ambiguous Christian setting. The motif is read as a **vegetation spirit** smuggled into the church — an emblem of nature's cyclical death and rebirth, and one of the most-discussed [[motif:apotropaic-carving|liminal]] images of medieval art.\n\n## For artists & game designers\nThe disgorging-foliage face is an instantly readable 'nature spirit' design that works at any scale, from a tiny boss to a boss-monster.",
+   "citations": [
+    {"text": "K. Basford, *The Green Man* (1978)."},
+    {"text": "Lady Raglan, 'The Green Man in Church Architecture', *Folklore* (1939)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Green_Man_carving.jpg"}
+   ],
+   "key_concepts": ["Green Man", "foliate head", "vegetation spirit", "fertility carving"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__sheela-na-gig",
+   "title": "The Kilpeck Sheela-na-gig",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Romanesque, 12th c.); photograph by SiGarb",
+   "date": "c. 1140",
+   "place": "Kilpeck, Herefordshire, England",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["sheela-na-gig", "apotropaic carving", "corbel", "exhibitionist figure", "fertility", "romanesque", "liminal threshold", "evil eye"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kilpeck_Sheelagh_na_Gig.jpg",
+   "summary": "The celebrated **Sheela-na-gig** on the corbel table of the Romanesque church of SS Mary and David at Kilpeck — a squatting female figure displaying an exaggerated vulva.\n\n## Iconography\nThe figure crouches and holds open her genitals with both hands, head oversized, body schematic. She sits among a famous series of corbels (animals, monsters, musicians) ringing the church exterior, placed high on the wall where the eye is drawn upward.\n\n## Significance\nSheela-na-gigs are concentrated in Ireland and the British Isles and provoke ongoing debate: survivals of a pagan fertility or sovereignty goddess, **apotropaic** images warding evil with shock, or Romanesque warnings against lust. Their position on thresholds and exteriors links them to the [[motif:apotropaic-carving|protective]] grotesques carved to guard a building's edges.\n\n## For artists & game designers\nA blunt apotropaic guardian: the 'shock figure on the threshold' is a real medieval device for marking a boundary as dangerous to cross with ill intent.",
+   "citations": [
+    {"text": "J. Andersen, *The Witch on the Wall* (1977)."},
+    {"text": "B. Freitag, *Sheela-na-gigs: Unravelling an Enigma* (2004)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kilpeck_Sheelagh_na_Gig.jpg"}
+   ],
+   "key_concepts": ["Sheela-na-gig", "apotropaic figure", "Kilpeck corbels", "exhibitionist carving"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__notredame-gargoyle",
+   "title": "Chimeras and gargoyles of Notre-Dame de Paris",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Viollet-le-Duc workshop (19th c., after Gothic precedent); Cornell University Library",
+   "date": "19th-c. restoration of a Gothic type",
+   "place": "Paris, France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["gargoyle", "chimera", "stryge", "apotropaic carving", "waterspout", "grotesque", "parapet", "guardian beast"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_Paris._View_from_Tower_with_Chimeras_and_Gargoyles.jpg",
+   "summary": "A view from the towers of Notre-Dame de Paris across its parapet of brooding **chimeras** above the city.\n\n## Iconography\nThe famous winged, horned figures — above all the pensive *Stryge* leaning on its hands — line the *galerie des chimères*. Strictly these contemplative monsters are *chimères* (purely decorative), distinct from the true **gargoyles**, the projecting beast-headed waterspouts that throw rain clear of the walls.\n\n## Significance\nThe chimeras are largely a 19th-century invention of Eugène Viollet-le-Duc's restoration, but they crystallise a genuine medieval idea: the church edge guarded by hybrid monsters. Gargoyles and grotesques were widely understood as **apotropaic** — frightening figures stationed at a building's boundary to repel the demonic, while practically managing water.\n\n## For artists & game designers\nThe rooftop guardian-monster overlooking a city is one of the most enduring Gothic images; note the working distinction between functional waterspout (gargoyle) and pure ornament (chimera).",
+   "citations": [
+    {"text": "M. Camille, *The Gargoyles of Notre-Dame* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_Paris._View_from_Tower_with_Chimeras_and_Gargoyles.jpg"}
+   ],
+   "key_concepts": ["gargoyle", "chimera", "Notre-Dame", "apotropaic guardian"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__rose-window-notredame",
+   "title": "North rose window of Notre-Dame de Paris",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Gothic glaziers, c. 1250); photograph by Ibex73",
+   "date": "c. 1250; photo 2024",
+   "place": "Paris, France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["rose window", "stained glass", "cosmic wheel", "tracery", "radial geometry", "virgin and prophets", "light mysticism", "mandala"],
+   "rights": "CC BY 4.0 (photo: Ibex73). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:North_rose_window_of_Notre-Dame_de_Paris,_Dec._2024_(2).jpg",
+   "summary": "The north transept **rose window** of Notre-Dame de Paris, photographed after the 2019 fire and restoration, retaining much of its 13th-century glass.\n\n## Iconography\nA great wheel of stone tracery radiates from a central medallion into concentric rings of figures — Old Testament kings, judges and prophets surrounding the Virgin — set in the deep blues and reds of medieval glass. The radial symmetry turns the whole window into a turning circle of light.\n\n## Significance\nThe rose window functions as a **cosmological mandala**: a circular diagram of order centred on a sacred figure, flooding the interior with coloured light understood, in the tradition of Abbot Suger and pseudo-Dionysian [[motif:light-mysticism|light mysticism]], as the divine made visible. Its kinship with the nave [[motif:labyrinth|labyrinth]] — wheel on the wall, wheel on the floor — was felt by medieval and esoteric readers alike.\n\n## For artists & game designers\nThe radial stained-glass wheel is the archetypal 'sacred circle' UI element — a mandala that organises figures around a luminous center.",
+   "citations": [
+    {"text": "P. Cowen, *The Rose Window* (2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:North_rose_window_of_Notre-Dame_de_Paris,_Dec._2024_(2).jpg"}
+   ],
+   "key_concepts": ["rose window", "cosmological mandala", "light mysticism", "Gothic glass"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__rose-window-chartres",
+   "title": "Rose window, Chartres Cathedral",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Gothic glaziers, 13th c.); photograph by Rama",
+   "date": "13th c.; photo modern",
+   "place": "Chartres, France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["rose window", "stained glass", "twelve-fold geometry", "tracery", "cosmic wheel", "blue glass", "radial mandala", "last judgment"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Chartres_cathedral_2857.jpg",
+   "summary": "A **rose window** of Chartres Cathedral, whose 13th-century glazing is the most complete medieval glass programme to survive.\n\n## Iconography\nStone tracery springs from a central medallion into a ring of petal-shaped lights and an outer band of small circles, each filled with figures, the whole dominated by the celebrated *bleu de Chartres*. The composition is built on twelve-fold and four-fold symmetries that radiate from the hub.\n\n## Significance\nChartres' roses are the textbook example of the window-as-cosmos: the circular, numerically ordered field of light reads as a wheel of creation or a [[motif:rose-window|mandala]] of salvation. The same cathedral's pavement [[motif:labyrinth|labyrinth]] sits directly below the west rose, so the building stages a vertical dialogue between the wheel of light above and the wheel of the path below — a pairing dear to the esoteric literature on Chartres.\n\n## For artists & game designers\nUse twelve- and four-fold radial symmetry for a window or sigil that should read as 'cosmic order' at a glance; deep blue dominance signals the medieval sacred.",
+   "citations": [
+    {"text": "P. Cowen, *The Rose Window* (2005)."},
+    {"text": "M. Miller, *Chartres Cathedral* (1996)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Chartres_cathedral_2857.jpg"}
+   ],
+   "key_concepts": ["Chartres rose window", "twelve-fold geometry", "cosmological mandala", "bleu de Chartres"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__rose-window-lausanne",
+   "title": "Rose window of Lausanne Cathedral (detail)",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "attributed to Pierre d'Arras (c. 1235); photograph by Patrickringgenberg",
+   "date": "c. 1235; photo modern",
+   "place": "Lausanne, Switzerland",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["rose window", "imago mundi", "cosmological diagram", "zodiac", "four elements", "seasons", "winds", "stained glass"],
+   "rights": "CC BY-SA 3.0 (photo: Patrickringgenberg). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lausanne_cathedral_rose_window_detail_1.JPG",
+   "summary": "Detail of the south rose window of Lausanne Cathedral, an exceptional 13th-century *imago mundi* — a stained-glass diagram of the entire created world.\n\n## Iconography\nWithin a square-and-circle frame the window arranges medallions of the **four elements**, the seasons, the months and their [[motif:zodiac|zodiac signs]], the winds, the rivers of Paradise and monstrous peoples of the earth's edges, all ordered around a central image of God/Annus. It is less a wheel of saints than a cosmographic chart.\n\n## Significance\nThe Lausanne rose is the rare medieval window that is explicitly a **cosmological encyclopedia**, materialising the *imago mundi* tradition of 12th–13th-century learning. It makes literal what other [[motif:rose-window|rose windows]] imply: that the round church window models the structure of the cosmos, elements, zodiac and all.\n\n## For artists & game designers\nA single object that diagrams an entire world-model — elements, calendar, zodiac, edges — is a perfect 'lore wheel' or codex frame for a setting.",
+   "citations": [
+    {"text": "E. Beer, *Die Rose der Kathedrale von Lausanne* (1952)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lausanne_cathedral_rose_window_detail_1.JPG"}
+   ],
+   "key_concepts": ["Lausanne rose window", "imago mundi", "cosmological diagram", "zodiac wheel"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__amiens-zodiac",
+   "title": "Zodiac quatrefoils, Amiens Cathedral west front",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Gothic sculptors, c. 1220–30); photograph by Vassil",
+   "date": "c. 1220–1230",
+   "place": "Amiens, France",
+   "era": "medieval",
+   "tradition": "astrology",
+   "motifs": ["zodiac", "labours of the months", "quatrefoil", "calendar", "portal sculpture", "agricultural year", "cosmological order", "archivolt"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Zodiaque_Amiens_03.jpg",
+   "summary": "Carved **zodiac** signs and Labours of the Months in quatrefoils on the west front of Amiens Cathedral.\n\n## Iconography\nPaired panels run along the portal socle: each month shows a seasonal **Labour** (sowing, pruning, harvesting, feasting) above or beside its corresponding **zodiac sign**. The cycle binds the agricultural year to the turning heavens in a single sculpted calendar.\n\n## Significance\nThe Zodiac-and-Labours program is one of the most widespread cosmological schemes of Gothic art, asserting that earthly time and labour are governed by the ordered motion of the stars. At Amiens it forms part of the great encyclopaedic portal sculpture that medieval viewers read as a [[motif:zodiac|stone summa]] of the world's order — astrology absorbed into Christian cosmology.\n\n## For artists & game designers\nA clean template for a 'calendar of the world': twelve paired sign-and-task panels give you a year-wheel that is both decorative and functional UI.",
+   "citations": [
+    {"text": "É. Mâle, *L'art religieux du XIIIe siècle en France* (1898)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Zodiaque_Amiens_03.jpg"}
+   ],
+   "key_concepts": ["Amiens zodiac", "Labours of the Months", "calendar portal", "cosmological order"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__vezelay-tympanum",
+   "title": "Tympanum of the Pentecost, Vézelay (engraving)",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "after the Romanesque tympanum (c. 1120–1130); plate 1913",
+   "date": "c. 1120–1130; engraving 1913",
+   "place": "Vézelay, France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["tympanum", "mandorla", "pentecost", "christ in majesty", "monstrous races", "archivolt zodiac", "rays of light", "portal"],
+   "rights": "Public domain (No restrictions). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Byzantine_and_Romanesque_architecture_(1913)_(14759394136).jpg",
+   "summary": "An engraving of the great inner tympanum of the abbey church of La Madeleine at Vézelay, one of the masterpieces of Romanesque portal sculpture.\n\n## Iconography\nAn enormous **Christ in Majesty** sits enthroned within a [[motif:mandorla|mandorla]], rays streaming from his hands to the apostles at Pentecost. Around them, on the lintel and archivolt compartments, march the **monstrous races** of the world's edges — dog-headed Cynocephali, Pygmies, giants — together with the Labours of the Months and [[motif:zodiac|zodiac]] signs, summoning all peoples and all time to the gospel.\n\n## Significance\nVézelay fuses cosmology, ethnography and mission into one doorway: the encyclopaedic Romanesque tympanum as a model of the whole world ordered around the radiant Christ. It is a touchstone for the study of medieval geographic and astrological imagination in church art.\n\n## For artists & game designers\nA single composition that frames a radiant central power, rings it with a zodiac/calendar, and populates the margins with monstrous peoples — a complete 'cosmic gate' in one tableau.",
+   "citations": [
+    {"text": "É. Mâle, *Religious Art in France: The Twelfth Century* (1922)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Byzantine_and_Romanesque_architecture_(1913)_(14759394136).jpg"}
+   ],
+   "key_concepts": ["Vézelay tympanum", "Christ in mandorla", "monstrous races", "Romanesque portal"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__mandorla-tympanum",
+   "title": "Christ in mandorla, south portal of Bourges Cathedral",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Gothic sculptors, c. 1160–70); photograph by GFreihalter",
+   "date": "c. 1160–1170",
+   "place": "Bourges, France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["mandorla", "vesica piscis", "christ in majesty", "tetramorph", "tympanum", "evangelist symbols", "almond glory", "portal"],
+   "rights": "CC BY-SA 4.0 (photo: GFreihalter). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bourges_(18)_Cath%C3%A9drale_Saint-%C3%89tienne_Portail_sud_Tympan_112.jpg",
+   "summary": "The tympanum of the south portal of Bourges Cathedral, showing **Christ in Majesty** enthroned within an almond-shaped **mandorla**.\n\n## Iconography\nThe enthroned Christ raises his hand in blessing inside a pointed oval *mandorla* (the [[motif:vesica-piscis|vesica piscis]]), surrounded by the **tetramorph** — the winged man, lion, ox and eagle of the four Evangelists. The almond of light isolates the divine figure from earthly space.\n\n## Significance\nThe mandorla is the geometric sign of glory and of the meeting of two worlds: formed by two overlapping circles, the *vesica piscis* was loaded by medieval and later esoteric writers with [[motif:sacred-geometry|sacred-geometry]] meaning (the proportion √3, the womb of forms, the union of heaven and earth). Set over a cathedral door it frames the threshold between the human and the divine.\n\n## For artists & game designers\nThe almond/vesica frame around a numinous figure is the simplest possible 'this being is holy/other' device — a portal shape that reads instantly as a gateway between realms.",
+   "citations": [
+    {"text": "É. Mâle, *L'art religieux du XIIe siècle en France* (1922)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bourges_(18)_Cath%C3%A9drale_Saint-%C3%89tienne_Portail_sud_Tympan_112.jpg"}
+   ],
+   "key_concepts": ["mandorla", "vesica piscis", "Christ in Majesty", "tetramorph"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__moissac-tympanum",
+   "title": "Apocalyptic tympanum of Saint-Pierre de Moissac",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Romanesque sculptors, c. 1115–1130); photograph by Daniel Villafruela",
+   "date": "c. 1115–1130",
+   "place": "Moissac, France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["tympanum", "apocalypse", "christ in majesty", "twenty-four elders", "tetramorph", "trumeau", "romanesque portal", "vision of revelation"],
+   "rights": "CC BY-SA 4.0 (photo: Daniel Villafruela). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Abbatiale_Saint-Pierre_de_Moissac_19820520.jpg",
+   "summary": "The south-porch tympanum of the abbey of Saint-Pierre de Moissac, a supreme Romanesque vision of the Apocalypse.\n\n## Iconography\nA colossal **Christ in Majesty** sits enthroned, crowned and surrounded by the **tetramorph** and two attendant seraphim; ranged in three tiers around him are the **twenty-four Elders of the Apocalypse**, each turning toward the Lord with crown and viol, drawn from Revelation 4. Below, the famous scalloped *trumeau* writhes with interlaced beasts.\n\n## Significance\nMoissac stages the heavenly throne-vision of Revelation as a doorway, so that to enter the church is to step into the apocalyptic court. Its sculpture is a cornerstone of the study of Romanesque visionary art and of how architecture rendered eschatological [[motif:christ-in-majesty|cosmology]] in stone.\n\n## For artists & game designers\nThe tiered throne-room — a single seated power ringed by twenty-four turning attendants — is a master template for a climactic 'court of the god' set piece.",
+   "citations": [
+    {"text": "M. Schapiro, 'The Romanesque Sculpture of Moissac', *Art Bulletin* (1931)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Abbatiale_Saint-Pierre_de_Moissac_19820520.jpg"}
+   ],
+   "key_concepts": ["Moissac tympanum", "Apocalypse vision", "twenty-four Elders", "Romanesque portal"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__cosmati-westminster",
+   "title": "The Cosmati pavement, Westminster Abbey",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Roman Cosmati workmen under Odoricus (1268)",
+   "date": "1268",
+   "place": "Westminster, London, England",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": ["cosmati pavement", "opus alexandrinum", "sacred geometry", "macrocosm", "quincunx", "porphyry roundels", "great pavement", "inscription"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cosmati_pavement,_Westminster_Abbey.jpg",
+   "summary": "The Great Pavement before the high altar of Westminster Abbey, a **Cosmati** floor laid in 1268 by Roman craftsmen for Henry III.\n\n## Iconography\nThe pavement is *opus sectile* / *opus alexandrinum*: discs of purple porphyry, green serpentine and coloured glass set in intricate interlace around a central **quincunx** of roundels. A now-fragmentary brass inscription once gave a numerological reckoning of the age of the world (the *primum mobile*, ending in 19,683 years), making the floor an explicit **cosmic diagram**.\n\n## Significance\nThe Westminster pavement is the most northerly major Cosmati work and a rare case where the inscription tells us how a [[motif:sacred-geometry|sacred-geometry]] floor was *read*: as a model of the *macrocosmus*, the structure and duration of the universe, trodden by the monarch at coronation. It welds Pythagorean number-mysticism to medieval Christian cosmology.\n\n## For artists & game designers\nA floor that is secretly a clock of the cosmos — interlocking porphyry roundels carrying a hidden numerology — is a powerful 'sacred map underfoot' device.",
+   "citations": [
+    {"text": "L. Grant & R. Mortimer (eds.), *Westminster Abbey: The Cosmati Pavements* (2002)."},
+    {"text": "R. Foster, *Patterns of Thought: The Hidden Meaning of the Great Pavement of Westminster Abbey* (1991)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cosmati_pavement,_Westminster_Abbey.jpg"}
+   ],
+   "key_concepts": ["Cosmati pavement", "opus alexandrinum", "macrocosm diagram", "sacred geometry floor"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__cosmati-rome",
+   "title": "Cosmatesque pavement, Rome",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Roman Cosmati marble-workers (12th–13th c.); photograph by MumblerJamie",
+   "date": "12th–13th c.; photo modern",
+   "place": "Rome, Italy",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": ["cosmatesque", "opus sectile", "guilloche", "interlace", "porphyry disc", "sacred geometry", "quincunx", "spolia"],
+   "rights": "CC BY-SA 2.0 (photo: MumblerJamie). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cosmatesque_Floor_01.jpg",
+   "summary": "A **Cosmatesque** church floor in Rome, of the type laid across the city's basilicas in the 12th and 13th centuries by the marble-working dynasties (Cosmati, Vassalletto) who gave the style its name.\n\n## Iconography\nBands of geometric **guilloche** and interlace frame large discs of porphyry and serpentine — much of it cut from re-used antique Roman columns (*spolia*) — arranged in repeating roundel-and-ribbon schemes that lead the eye along the nave toward the altar.\n\n## Significance\nThe Cosmatesque pavement turns the recycled stone of pagan Rome into Christian [[motif:sacred-geometry|sacred geometry]]: the porphyry once reserved for emperors becomes a path of measured circles drawing the worshipper to the sanctuary. These floors are the Italian parent of the [[motif:cosmati-pavement|Westminster pavement]] and a key chapter in medieval geometric ornament.\n\n## For artists & game designers\nGuilloche ribbons threading between porphyry discs make a tileable 'holy floor' texture that conveys both age and order; the spolia idea (old empire reused as sacred) is a strong worldbuilding note.",
+   "citations": [
+    {"text": "P. C. Claussen, *Magistri Doctissimi Romani* (1987)."},
+    {"text": "D. Glass, *Studies on Cosmatesque Pavements* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cosmatesque_Floor_01.jpg"}
+   ],
+   "key_concepts": ["Cosmatesque floor", "opus sectile", "spolia", "sacred geometry"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__tour-saint-jacques",
+   "title": "The Tour Saint-Jacques, Paris",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Flamboyant Gothic, 1509–23); photograph by Benh Lieu Song",
+   "date": "1509–1523; photo modern",
+   "place": "Paris, France",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": ["flamboyant gothic", "tower", "nicolas flamel", "alchemy", "pilgrimage", "saint james", "gargoyles", "lost church"],
+   "rights": "CC BY-SA 4.0 (photo: Benh Lieu Song). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Tour_Saint-Jacques_BLS.jpg",
+   "summary": "The **Tour Saint-Jacques**, the lone Flamboyant Gothic bell-tower (1509–23) surviving from the demolished church of Saint-Jacques-de-la-Boucherie in Paris.\n\n## Iconography\nThe richly pinnacled stone tower bristles with gargoyles and statuary and is crowned by a figure of Saint James; it once anchored a parish church on the Tower-and-shell pilgrimage route to Santiago de Compostela.\n\n## Significance\nThe church of Saint-Jacques-de-la-Boucherie is bound to the legend of **Nicolas Flamel**, the 14th-century scrivener reputed to have achieved the [[motif:alchemy|Philosopher's Stone]]; he was a benefactor of the parish and, by tradition, buried there. Esoteric Paris guidebooks (and Fulcanelli's milieu) made the surviving tower a station of the city's **alchemical** topography. It later housed a meteorological station, an apt afterlife for a tower of the heavens.\n\n## For artists & game designers\nA single surviving tower from a vanished church — dense with gargoyles and wrapped in alchemical legend — is an ideal standalone landmark for an occult-city map.",
+   "citations": [
+    {"text": "Fulcanelli, *Le Mystère des cathédrales* (1926)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Tour_Saint-Jacques_BLS.jpg"}
+   ],
+   "key_concepts": ["Tour Saint-Jacques", "Nicolas Flamel", "alchemical Paris", "Flamboyant Gothic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__rosslyn-pillar",
+   "title": "Carved foliage of Rosslyn Chapel (the 'maize' carving)",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Sinclair masons, mid-15th c.); photograph by Kjetil Bjørnsrud",
+   "date": "c. 1450–1480; photo modern",
+   "place": "Roslin, Midlothian, Scotland",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["rosslyn chapel", "carved foliage", "green men", "masonic legend", "apprentice pillar", "cubes carving", "templar myth", "ornament"],
+   "rights": "CC BY 2.5 (photo: Kjetil Bjørnsrud). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Indian_corn_rosslyn.jpg",
+   "summary": "A detail of the dense stone carving of **Rosslyn Chapel** (Collegiate Church of St Matthew), the much-mythologised 15th-century foundation of the Sinclair family near Edinburgh.\n\n## Iconography\nEvery surface of the chapel teems with foliate ornament, [[motif:green-man|Green Men]], angels, vines and the famous twisted **Apprentice Pillar**. This particular carving has been read by some as depicting New-World maize or aloe — fuel for claims of pre-Columbian voyages, though botanists dispute the identification.\n\n## Significance\nRosslyn became a magnet for **Templar**, Masonic and Grail legend, amplified in modern popular fiction. Sober scholarship treats it as an exuberant late-Gothic collegiate church whose carving — over a hundred Green Men among them — sits within ordinary medieval iconography, not a coded esoteric cipher. It is thus a key case study in how sacred architecture *accretes* esoteric reception.\n\n## For artists & game designers\nA building so over-carved that it invites pattern-seeking is itself a design lesson: maximal ornament reads as 'hidden meaning' to players whether or not any is encoded.",
+   "citations": [
+    {"text": "M. Coppins, *Rosslyn Chapel* (Historic guidebook)."},
+    {"text": "R. L. D. Cooper, *The Rosslyn Hoax?* (2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Indian_corn_rosslyn.jpg"}
+   ],
+   "key_concepts": ["Rosslyn Chapel", "Apprentice Pillar", "Masonic legend", "foliate carving"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__temple-church",
+   "title": "Knight effigies, Temple Church, London",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (13th c.); photograph by AlanFord",
+   "date": "13th c. effigies; round church consecrated 1185",
+   "place": "London, England",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["knights templar", "round church", "effigy", "holy sepulchre", "crusader", "rotunda", "masonic reception", "stone knight"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:TempleChurch-Effigies.jpg",
+   "summary": "The recumbent **knight effigies** in the round nave of the Temple Church, London — the English headquarters church of the **Knights Templar**, consecrated 1185.\n\n## Iconography\nNine worn stone effigies of mailed knights lie on the floor of the circular nave, legs crossed, hands on swords or in prayer. The **round church** itself imitates the rotunda of the Church of the Holy Sepulchre in Jerusalem, the Order's spiritual model.\n\n## Significance\nThe Templars' circular churches deliberately echoed Jerusalem, turning architecture into a portable Holy Land. After the Order's violent suppression (1307–1312) the Templars became the great seed-crystal of Western **esoteric reception** — claimed as ancestors by Freemasonry, Rosicrucianism and countless secret-society myths. The Temple Church is the most evocative surviving English monument of that real-then-legendary history.\n\n## For artists & game designers\nThe circular nave ringed with sword-clutching stone knights is a ready-made 'order of warrior-monks' shrine — round plan plus recumbent guardians equals instant Templar atmosphere.",
+   "citations": [
+    {"text": "M. Barber, *The New Knighthood: A History of the Order of the Temple* (1994)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:TempleChurch-Effigies.jpg"}
+   ],
+   "key_concepts": ["Knights Templar", "round church", "Holy Sepulchre", "esoteric reception"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__externsteine",
+   "title": "The Externsteine relief: the Descent from the Cross",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Romanesque, 12th c.); photograph (Dutch national heritage)",
+   "date": "c. 1115–1160",
+   "place": "Horn-Bad Meinberg, German lands",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["externsteine", "rock relief", "descent from the cross", "sacred rock", "nicodemus", "sol and luna", "bent tree of life", "germanic neopaganism"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Horn-Bad_Meinberg._Externsteine_Reli%C3%ABf_met_de_kruisafname,_GD020621.jpg",
+   "summary": "The monumental Romanesque rock relief of the **Descent from the Cross** carved into the natural sandstone pillars of the **Externsteine** in the Teutoburg Forest.\n\n## Iconography\nNicodemus, on a bent palm-tree, lowers the dead Christ from the cross while the figure of God receives the soul above; **Sol and Luna** weep in the corners and a strange bowed 'tree of life' fills the lower register. A small chamber at the summit has a circular window aligned, some claim, on the midsummer sunrise.\n\n## Significance\nThe relief (c. 12th c.) is genuine high-medieval art, but the Externsteine rocks became a magnet for **Germanic-nationalist and neo-pagan** speculation, especially in the early 20th century, when they were promoted as an ancient Saxon Irminsul sanctuary. The site is a textbook example of esoteric *reception* projected onto sacred stone — the scholarship of Wilhelm Teudt versus sober archaeology.\n\n## For artists & game designers\nA Christian relief carved directly into a wild rock formation, layered with later pagan legend, is a vivid model for a contested sacred site whose meaning shifts by who is looking.",
+   "citations": [
+    {"text": "U. von Roeder, studies on the Externsteine relief."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Horn-Bad_Meinberg._Externsteine_Reli%C3%ABf_met_de_kruisafname,_GD020621.jpg"}
+   ],
+   "key_concepts": ["Externsteine", "rock relief", "Descent from the Cross", "esoteric reception"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__externsteine-relief",
+   "title": "The Externsteine relief (detail)",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Anonymous (Romanesque, 12th c.); photograph by m66roepers",
+   "date": "c. 1115–1160; photo modern",
+   "place": "Horn-Bad Meinberg, German lands",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["externsteine", "rock relief", "descent from the cross", "bent palm", "tree of life", "sacred rock", "weathered sandstone", "pilgrimage"],
+   "rights": "CC BY 2.0 (photo: m66roepers). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Externsteine_Reli%C3%ABf_Kruisafname_van_Christus_(37246942191).jpg",
+   "summary": "A closer, weathered view of the **Externsteine** Descent-from-the-Cross relief, showing the texture of the living sandstone into which it is cut.\n\n## Iconography\nThe detail emphasises the deeply eroded figures and the curious **bent figure / tree** at the base of the composition, long debated as a 'bowed tree of life' or a deliberately broken Irminsul. The carving's exposure to weather has softened it into the rock itself.\n\n## Significance\nSeeing the relief at close range underlines what makes the Externsteine unique among [[motif:rock-relief|sacred-rock]] monuments: it is not a built wall but a natural crag turned into a Passion image, and its very ambiguity fed centuries of competing readings — Christian Calvary versus supposed Germanic sanctuary. It remains the most-cited German case of architecture-as-contested-myth.\n\n## For artists & game designers\nWeathered, half-legible carving on raw rock signals deep time and uncertain meaning — useful when you want a monument that the player cannot fully decode.",
+   "citations": [
+    {"text": "W. Teudt, *Germanische Heiligtümer* (1929) — superseded but historically important."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Externsteine_Reli%C3%ABf_Kruisafname_van_Christus_(37246942191).jpg"}
+   ],
+   "key_concepts": ["Externsteine relief", "sacred rock", "bent tree of life", "contested monument"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_architecture__boboli-grotto",
+   "title": "The Grotta Grande, Boboli Gardens (Buontalenti)",
+   "work": "Sacred Architecture & the Esoteric Built Environment",
+   "creator": "Bernardo Buontalenti (and others), 1583–93; photograph by Кирилл Ч.",
+   "date": "1583–1593",
+   "place": "Boboli Gardens, Florence, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["garden grotto", "buontalenti", "sponge stone", "rusticated cave", "prisoners", "primordial chaos", "fountain", "mannerist"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:BUONTALENTI.JPG",
+   "summary": "The **Grotta Grande** designed by Bernardo Buontalenti in the Boboli Gardens behind the Pitti Palace, a masterpiece of the Mannerist artificial **grotto**.\n\n## Iconography\nThe façade and chambers dissolve architecture into dripping *spugne* (sponge-stone), stalactite-like concretions and half-emerging figures, so that ordered classical forms appear to melt back into primordial rock and water. Michelangelo's unfinished *Prisoners* once stood in the first chamber as if struggling out of the living stone.\n\n## Significance\nRenaissance garden grottoes staged a **hermetic** drama of matter and form: a descent into the earth-womb where chaos is shaped into life, charged with Neoplatonic and alchemical resonance and animated by hidden hydraulics. Buontalenti's grotto is the most influential example, heir to the [[motif:sacred-geometry|sacred-space]] tradition transposed from church to garden.\n\n## For artists & game designers\nThe melting-architecture grotto — order collapsing into rock, figures trapped half-formed in the wall — is a superb template for an uncanny subterranean shrine or transformation chamber.",
+   "citations": [
+    {"text": "N. Miller, *Heavenly Caves: Reflections on the Garden Grotto* (1982)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:BUONTALENTI.JPG"}
+   ],
+   "key_concepts": ["Boboli grotto", "Buontalenti", "Mannerist grotto", "hermetic garden"],
+   "summary_status": "authored"
+  }
+ ]
+}

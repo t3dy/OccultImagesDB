@@ -1,0 +1,727 @@
+{
+ "_work": {
+  "key": "alchemy_visionary",
+  "short_id": "ALVS",
+  "title": "Visionary Alchemical Emblem-Series (1550–1785)",
+  "creator": "various",
+  "date": "1550–1785",
+  "century": 17,
+  "place": "German lands & Western Europe",
+  "region": "German lands",
+  "language": "Latin & German",
+  "era": "early_modern",
+  "tradition": "alchemy",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "alchemy_visionary",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Alchemical_illustrations",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "philosophers stone",
+   "rebis hermaphrodite",
+   "green lion",
+   "ouroboros",
+   "dragon and bird",
+   "alchemical flask"
+  ],
+  "blurb": "The great visionary emblem-series of early-modern alchemy beyond the canonical Atalanta Fugiens and Splendor Solis: the famous squared-circle Azoth of the philosophers attributed to Basilius Valentinus, the Twelve Keys with their kings, dragons and birds, the union-flask sequence of the Donum Dei, the green lion devouring the sun, the Rebis hermaphrodite standing on the dragon, the Ouroboros of Cleopatra, Hermes' Tabula Smaragdina, and the engraved emblem-books of Michael Maier, Johann Daniel Mylius and Daniel Stolcius — the iconographic backbone of the spagyric Great Work."
+ },
+ "entries": [
+  {
+   "id": "alchemy_visionary__azoth-squared-circle",
+   "title": "*Azoth* of Basilius Valentinus (1659)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Attributed to Basilius Valentinus (Basile Valentin)",
+   "date": "1659 (French edition)",
+   "place": "Paris / German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "squared circle",
+    "adept face",
+    "seven planets",
+    "vitriol acronym",
+    "philosophers stone",
+    "macrocosm-microcosm",
+    "emblematic centre",
+    "alchemical star"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Basile_Valentin--Azoth--1659.jpg",
+   "summary": "The celebrated *Azoth* frontispiece attributed to Basilius Valentinus, in which the whole alchemical cosmos is compressed into a single emblematic mandala around the adept's face.\n\n## Iconography\nA bearded adept's head sits at the centre of a square inscribed in a circle. Radiating arms, planetary signs and emblematic beasts surround the figure, and the famous acronym VITRIOL (*Visita Interiora Terrae Rectificando Invenies Occultum Lapidem* — \"Visit the interior of the earth; by rectifying you will find the hidden stone\") is distributed around the rim. The seven planets, the king and queen, and the tools of the laboratory ring the design.\n\n## Significance\n*Azoth* is the alchemists' name for the universal solvent and animating mercury, the alpha-and-omega of the work. This squared-circle emblem became one of the most reproduced images in Western [[motif:alchemy|alchemy]], condensing the doctrine of [[motif:macrocosm-microcosm|macrocosm and microcosm]] into a meditative diagram. The \"Basil Valentine\" corpus is now regarded as the work of an early-seventeenth-century author (often linked to Johann Thölde) rather than a fifteenth-century monk.\n\n## For artists & game designers\nA ready-made arcane sigil-screen: a face-centred mandala whose rim is a puzzle of planetary glyphs and a hidden Latin acrostic.",
+   "citations": [
+    {"text": "Basilius Valentinus, *Azoth, ou le moyen de faire l'or caché des philosophes* (Paris, 1659)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Basile_Valentin--Azoth--1659.jpg"}
+   ],
+   "key_concepts": ["azoth", "vitriol acronym", "squared circle", "Basilius Valentinus", "universal solvent"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__azoth-adept",
+   "title": "Alchemical Adept and the Azoth Emblem (Theosophie / Alchemie / Hermetik)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Anonymous (engraver)",
+   "date": "17th century",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "adept",
+    "squared circle",
+    "planetary signs",
+    "alchemical emblem",
+    "philosophers stone",
+    "hidden stone",
+    "meditation diagram",
+    "vitriol"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0008250_Theosophie_%5E_Alchemie_%5E_Hermetik.jpg",
+   "summary": "A second printing of the squared-circle adept emblem from the Azoth tradition, preserved in the Deutsche Fotothek's theosophy-and-alchemy series.\n\n## Iconography\nThe central adept gazes outward from a circle quartered by the planetary luminaries; emblematic figures of king, queen, sun and moon occupy the corners, with mottoes ringing the design. The composition restates the *Azoth* programme of compressing the full course of the work into one contemplative image.\n\n## Significance\nThe diffusion of the [[motif:azoth|Azoth]] emblem across many editions and copies shows how a single engraving could become a fixed icon of the tradition. Such plates were meditation aids as much as illustrations, inviting the reader to \"read\" the [[motif:philosophers stone|stone]] out of the arrangement of planets and beasts.\n\n## For artists & game designers\nUse as an alternate, weathered variant of the same arcane mandala — handy for showing a manuscript that has been copied and recopied.",
+   "citations": [
+    {"text": "Deutsche Fotothek, theosophy / alchemy / hermetic series."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0008250_Theosophie_%5E_Alchemie_%5E_Hermetik.jpg"}
+   ],
+   "key_concepts": ["azoth", "adept", "meditation diagram", "planetary correspondences"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__twelve-keys-first",
+   "title": "The First Key of Basil Valentine (*Musaeum Hermeticum*, 1678)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Engraving after Basilius Valentinus; *Musaeum Hermeticum* (Frankfurt)",
+   "date": "1678",
+   "place": "Frankfurt am Main",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "king and queen",
+    "wolf",
+    "antimony",
+    "purification",
+    "twelve keys",
+    "dragon",
+    "philosophers stone",
+    "emblematic stage"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Musaeum_Hermeticum_Reformatum_et_Amplificatum_-_DPLA_-_6a5bd595dea1c42bfc14727d15939422_(page_3).jpg",
+   "summary": "The first of the *Twelve Keys* of Basilius Valentinus, here in the high-resolution engraving from the 1678 *Musaeum Hermeticum Reformatum et Amplificatum*.\n\n## Iconography\nA crowned king and queen stand at the centre while a grey wolf — the antimony that devours and purifies the king (gold) — is consumed by fire. Subsidiary figures of sun and moon flank the scene, and a banderole carries the key's motto. Each of the twelve keys encodes one operation of the work.\n\n## Significance\nThe *Twelve Keys* (*Zwölf Schlüssel*) are among the most influential alchemical allegories of the seventeenth century, read as the sequential stages by which base metal is brought to the [[motif:philosophers stone|stone]]. The wolf-and-king image is the classic emblem of purification by antimony, dramatising the alchemical maxim that the matter must \"die\" before it is reborn.\n\n## For artists & game designers\nA twelve-step quest template: each key is one boss-stage (wolf, dragon, eagle...) with its own motto and reward.",
+   "citations": [
+    {"text": "*Musaeum Hermeticum Reformatum et Amplificatum* (Frankfurt, 1678)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Musaeum_Hermeticum_Reformatum_et_Amplificatum_-_DPLA_-_6a5bd595dea1c42bfc14727d15939422_(page_3).jpg"}
+   ],
+   "key_concepts": ["twelve keys", "antimony wolf", "purification", "Basilius Valentinus", "Musaeum Hermeticum"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__twelve-keys-second",
+   "title": "The Second Key of Basil Valentine",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Engraving after Basilius Valentinus (Wellcome Collection)",
+   "date": "1678 (Musaeum Hermeticum tradition)",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "two dragons",
+    "sun and moon",
+    "mercury",
+    "conjunction",
+    "twelve keys",
+    "winged figure",
+    "fixed and volatile",
+    "emblematic stage"
+   ],
+   "rights": "CC BY 4.0, Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Second_Key_of_Basil_Valentine._Wellcome_M0012395.jpg",
+   "summary": "The second of the *Twelve Keys* of Basilius Valentinus, in the crisp Wellcome Collection plate.\n\n## Iconography\nA winged and a wingless dragon — the volatile and fixed principles — confront one another beneath sun and moon, while Mercury (often shown with his caduceus) governs the union. The emblem represents the conjunction of opposites that must precede the work's advance.\n\n## Significance\nWhere the first key purifies, the second [[motif:conjunction|conjoins]]: the marriage of the [[motif:sun and moon|sun and moon]], of fixed and volatile, of male and female mercury. The dragon-pair is one of the oldest figures of alchemical *coniunctio*, descending from Greco-Egyptian sources through the medieval Latin tradition.\n\n## For artists & game designers\nTwo dragons, one winged one not, locked beneath a sun-moon arch — an instantly legible \"merge two opposites\" puzzle icon.",
+   "citations": [
+    {"text": "Basilius Valentinus, *The Twelve Keys*; Wellcome Collection M0012395."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Second_Key_of_Basil_Valentine._Wellcome_M0012395.jpg"}
+   ],
+   "key_concepts": ["twelve keys", "coniunctio", "fixed and volatile", "mercury", "dragon pair"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__twelve-keys-third",
+   "title": "The Third Key of Basil Valentine",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Engraving after Basilius Valentinus (Wellcome Collection)",
+   "date": "1678 (Musaeum Hermeticum tradition)",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "peacock",
+    "cauda pavonis",
+    "fire",
+    "putrefaction",
+    "twelve keys",
+    "dragon",
+    "colours of the work",
+    "emblematic stage"
+   ],
+   "rights": "CC BY 4.0, Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Third_Key_of_Basil_Valentine._Wellcome_M0012396.jpg",
+   "summary": "The third of the *Twelve Keys* of Basilius Valentinus, in the Wellcome Collection engraving.\n\n## Iconography\nA dragon, fire and emblematic birds mark the stage of dissolution and the appearance of the many-coloured *cauda pavonis* (peacock's tail). Mottoed banderoles label the operation, and the king's matter passes through fire toward renewal.\n\n## Significance\nThe third key concerns the destruction and recombination of the principles — the [[motif:putrefaction|putrefaction]] that the alchemists called the nigredo passing into the iridescent peacock's tail. The colour-sequence (black, then the rainbow, then white and red) was read as the visible proof that the work was advancing toward the [[motif:philosophers stone|stone]].\n\n## For artists & game designers\nThe \"colour-shift\" beat: a fire stage that turns a dull substance iridescent, signalling progress to the player.",
+   "citations": [
+    {"text": "Basilius Valentinus, *The Twelve Keys*; Wellcome Collection M0012396."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Third_Key_of_Basil_Valentine._Wellcome_M0012396.jpg"}
+   ],
+   "key_concepts": ["twelve keys", "cauda pavonis", "putrefaction", "colours of the work"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__twelve-keys-fourth",
+   "title": "The Fourth Key of Basil Valentine",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Engraving after Basilius Valentinus (Wellcome Collection)",
+   "date": "1678 (Musaeum Hermeticum tradition)",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "skeleton",
+    "death",
+    "nigredo",
+    "putrefaction",
+    "twelve keys",
+    "torch",
+    "rebirth",
+    "emblematic stage"
+   ],
+   "rights": "CC BY 4.0, Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Fourth_Key_of_Basil_Valentine._Wellcome_M0012397.jpg",
+   "summary": "The fourth of the *Twelve Keys* of Basilius Valentinus, in the Wellcome Collection engraving — the great death-emblem of the series.\n\n## Iconography\nA skeleton stands or reclines amid the apparatus of the work, often on a black ground with a torch or fire nearby. The image declares the *mortificatio* — the death and blackening that the matter must undergo before it can be resurrected.\n\n## Significance\nThe fourth key is the emblem of the [[motif:nigredo|nigredo]], the blackness of putrefaction in which the old form dies so a new one may arise. Carl Jung made this death-and-rebirth sequence central to his psychological reading of alchemy, but the image is rooted in centuries of laboratory allegory equating chemical decay with spiritual transformation.\n\n## For artists & game designers\nThe \"death gate\" — a memento-mori checkpoint the player must pass through (lose something) to unlock the later stages.",
+   "citations": [
+    {"text": "Basilius Valentinus, *The Twelve Keys*; Wellcome Collection M0012397."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Fourth_Key_of_Basil_Valentine._Wellcome_M0012397.jpg"}
+   ],
+   "key_concepts": ["twelve keys", "nigredo", "mortificatio", "death and rebirth"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__twelve-keys-fifth",
+   "title": "The Fifth Key of Basil Valentine",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Engraving after Basilius Valentinus (Wellcome Collection)",
+   "date": "1678 (Musaeum Hermeticum tradition)",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "winged dragon",
+    "eagle",
+    "sublimation",
+    "twelve keys",
+    "fixation",
+    "spirit and body",
+    "ascent and descent",
+    "emblematic stage"
+   ],
+   "rights": "CC BY 4.0, Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Fifth_Key_of_Basil_Valentine._Wellcome_M0012398.jpg",
+   "summary": "The fifth of the *Twelve Keys* of Basilius Valentinus, in the Wellcome Collection engraving.\n\n## Iconography\nWinged creatures — an eagle or winged dragon — embody the rising spirit, set against a grounded figure that holds the body fast. The emblem images the play of sublimation (ascent) and fixation (descent) by which the volatile is made to settle into the fixed.\n\n## Significance\nThe alternation of [[motif:ascent and descent|ascent and descent]], *solve et coagula*, is the rhythmic engine of the Great Work. The fifth key marks the binding of spirit to body — the volatile eagle brought back down to the king — a step the alchemists regarded as the securing of the gains won in the earlier dissolutions.\n\n## For artists & game designers\nAn up-down mechanic: catch the volatile bird and pin it to the body to lock in progress.",
+   "citations": [
+    {"text": "Basilius Valentinus, *The Twelve Keys*; Wellcome Collection M0012398."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Fifth_Key_of_Basil_Valentine._Wellcome_M0012398.jpg"}
+   ],
+   "key_concepts": ["twelve keys", "solve et coagula", "sublimation", "fixation"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__donum-dei-coniunctio",
+   "title": "Alchemical Union from the *Donum Dei*",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Anonymous, after Georgius Aurach (*Pretiosissimum Donum Dei*)",
+   "date": "15th–16th century (later copy)",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "coniunctio",
+    "king and queen",
+    "round flask",
+    "hermaphrodite",
+    "sun and moon",
+    "philosophers stone",
+    "flask sequence",
+    "marriage"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Alchemische_Vereinigung_aus_dem_Donum_Dei.jpg",
+   "summary": "A union (*coniunctio*) plate from the *Pretiosissimum Donum Dei* (\"Most Precious Gift of God\") of Georgius Aurach, the famous round-flask sequence of the work.\n\n## Iconography\nWithin or beside a round philosophical flask, a king and queen embrace, sometimes merging into a single two-headed body. Sun and moon attend the marriage. In the full series each flask shows a successive colour-stage of the matter sealed in the egg-shaped vessel.\n\n## Significance\nThe *Donum Dei* presents the whole opus as a sequence of flasks, each capturing one moment of the [[motif:coniunctio|chemical wedding]] of the sun-king and moon-queen. This \"flask series\" format — a strip of sealed vessels marking the colour-changes from black to white to red — became a standard way of diagramming the work and directly informs the [[motif:rebis hermaphrodite|rebis]] imagery.\n\n## For artists & game designers\nA progress bar made of sealed flasks: each vessel a save-state showing how far the transmutation has come.",
+   "citations": [
+    {"text": "Georgius Aurach, *Pretiosissimum Donum Dei* (15th c.)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Alchemische_Vereinigung_aus_dem_Donum_Dei.jpg"}
+   ],
+   "key_concepts": ["Donum Dei", "coniunctio", "flask series", "chemical wedding", "Georgius Aurach"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__lion-devouring-sun",
+   "title": "Lion Devouring the Sun",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Anonymous (alchemical engraving)",
+   "date": "17th century",
+   "place": "German lands / Europe",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "green lion",
+    "devouring the sun",
+    "fixed and volatile",
+    "vitriol",
+    "matter swallowing gold",
+    "philosophers stone",
+    "solar disc",
+    "emblematic beast"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lion_devouring_the_sun.jpg",
+   "summary": "The classic emblem of the green lion swallowing the sun — one of the most iconic images in all of alchemy.\n\n## Iconography\nA lion seizes and devours a radiant solar disc, blood or rays streaming from the wound. The beast is frequently coloured green in painted copies, and the sun stands for gold or the fixed solar principle being dissolved.\n\n## Significance\nThe [[motif:green lion|green lion]] is usually read as vitriol or a corrosive mineral acid that \"eats\" gold — the volatile, vegetative matter overcoming the fixed [[motif:sun|sun]]. The image dramatises the necessary dissolution of the perfect body so that its spirit can be freed and recombined. It is a touchstone emblem in the *Rosary of the Philosophers* and later compendia.\n\n## For artists & game designers\nA vivid combat icon: a green beast eating the sun reads instantly as \"corrosive devours the strong.\"",
+   "citations": [
+    {"text": "*Rosarium Philosophorum* and the green-lion emblem tradition (16th–17th c.)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lion_devouring_the_sun.jpg"}
+   ],
+   "key_concepts": ["green lion", "vitriol", "dissolution of gold", "fixed and volatile"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__green-lion",
+   "title": "The Green Lion (Theosophie / Alchemie)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Anonymous (engraver)",
+   "date": "17th century",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "green lion",
+    "solvent",
+    "vitriol",
+    "devouring",
+    "raw matter",
+    "philosophers stone",
+    "emblematic beast",
+    "fire"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0008196_Theosophie_%5E_Alchemie.jpg",
+   "summary": "A further green-lion emblem from the Deutsche Fotothek theosophy-and-alchemy series, restating the devouring-lion image as the raw, untamed prima materia.\n\n## Iconography\nA powerful lion dominates the plate, jaws open over the solar matter; surrounding mottoes and emblematic detail frame it as the *materia* that must be subdued before the work can proceed.\n\n## Significance\nThe green lion is the alchemists' figure of the crude, corrosive first matter — at once the [[motif:solvent|solvent]] that dissolves gold and the unrefined substance that itself needs purifying. Its greenness signals immaturity and vegetative force; mastering the lion is mastering the [[motif:prima materia|prima materia]].\n\n## For artists & game designers\nThe \"untamed reagent\" creature — dangerous raw power the player must capture and refine rather than simply defeat.",
+   "citations": [
+    {"text": "Deutsche Fotothek, theosophy / alchemy series."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0008196_Theosophie_%5E_Alchemie.jpg"}
+   ],
+   "key_concepts": ["green lion", "prima materia", "solvent", "purification"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__rebis-rosarium",
+   "title": "The Androgynous Rebis",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Anonymous (after the *Rosarium Philosophorum* tradition)",
+   "date": "16th–17th century",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "rebis hermaphrodite",
+    "two heads",
+    "dragon",
+    "sun and moon",
+    "coniunctio",
+    "winged figure",
+    "double nature",
+    "philosophers stone"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Androgynous_Rebis.jpg",
+   "summary": "The *rebis* — the two-headed alchemical hermaphrodite uniting sun-king and moon-queen in a single body.\n\n## Iconography\nA crowned figure with two heads (one male, one female) stands holding the emblems of sun and moon, frequently atop a winged dragon or a sphere of chaos. Male solar and female lunar attributes are split down the body's two halves.\n\n## Significance\nThe [[motif:rebis hermaphrodite|rebis]] (\"double thing\") is the product of the [[motif:coniunctio|coniunctio]]: the reconciled union of the opposites, the embodied [[motif:philosophers stone|philosophers' stone]] that contains both natures. Standing on the dragon, it shows spirit having mastered the chaotic first matter. The image is among the most reproduced in the whole tradition, from the *Rosarium Philosophorum* onward.\n\n## For artists & game designers\nA perfect \"fusion\" reward sprite: two characters merged into one crowned figure standing on the beast they overcame.",
+   "citations": [
+    {"text": "*Rosarium Philosophorum* (Frankfurt, 1550) and the rebis tradition."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Androgynous_Rebis.jpg"}
+   ],
+   "key_concepts": ["rebis", "hermaphrodite", "coniunctio", "philosophers stone", "union of opposites"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__viatorium-rebis",
+   "title": "Rebis from the *Viatorium Spagyricum* (1625)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Herbrandt Jamsthaler",
+   "date": "1625",
+   "place": "Frankfurt am Main",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "rebis hermaphrodite",
+    "dragon",
+    "sun and moon",
+    "compass and square",
+    "winged figure",
+    "coniunctio",
+    "double nature",
+    "spagyric path"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Rebis_from_the_Viatorium_spagyricum_(1625).png",
+   "summary": "The famous rebis engraving from Herbrandt Jamsthaler's *Viatorium Spagyricum* (Frankfurt, 1625), perhaps the single best-known image of the alchemical hermaphrodite.\n\n## Iconography\nThe two-headed crowned figure stands on a winged dragon, holding a compass and a set-square in its two hands and flanked by sun and moon. The male half bears solar attributes, the female half lunar; numbered emblematic scenes surround the central figure.\n\n## Significance\nJamsthaler's plate fixes the [[motif:rebis hermaphrodite|rebis]] standing on the [[motif:dragon|dragon]] as the canonical image of the completed *opus*: the union of opposites holding the geometer's tools that signify the measured, lawful ordering of nature. The *Viatorium Spagyricum* (\"spagyric wayfaring\") presents the work as a guided journey, and this figure is its destination.\n\n## For artists & game designers\nThe definitive end-boss-defeated tableau: crowned dual-being on a subdued dragon, tools of mastery in hand.",
+   "citations": [
+    {"text": "Herbrandt Jamsthaler, *Viatorium Spagyricum* (Frankfurt, 1625)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Rebis_from_the_Viatorium_spagyricum_(1625).png"}
+   ],
+   "key_concepts": ["rebis", "Viatorium spagyricum", "dragon", "compass and square", "Jamsthaler"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__ouroboros-chrysopoea",
+   "title": "Ouroboros, *Chrysopoeia of Cleopatra*",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Anonymous (after Cleopatra the Alchemist)",
+   "date": "Copy of an ancient Greco-Egyptian figure",
+   "place": "Eastern Mediterranean (origin); later copy",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "ouroboros",
+    "serpent eating tail",
+    "one is all",
+    "unity of matter",
+    "hen to pan",
+    "circle",
+    "eternal return",
+    "philosophers stone"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Chrysopoea_of_Cleopatra_1.png",
+   "summary": "The ouroboros from the *Chrysopoeia of Cleopatra*, the serpent biting its own tail enclosing the maxim *hen to pan* — \"one is all.\"\n\n## Iconography\nA serpent or dragon curls into a closed ring, its jaws gripping its own tail; the half-black, half-light body is often inscribed with the Greek words ἓν τὸ πᾶν (*hen to pan*). A second concentric ring and the alchemical signs accompany it.\n\n## Significance\nThe [[motif:ouroboros|ouroboros]] is the emblem of the unity and self-sufficiency of matter: the work feeds on itself, dissolution and coagulation forming one unbroken cycle. The *Chrysopoeia of Cleopatra* is one of the oldest surviving alchemical figures, transmitted through Byzantine manuscripts and endlessly copied; the \"one is all\" doctrine underlies the whole monistic worldview of the art.\n\n## For artists & game designers\nThe ultimate loop/recursion glyph — a self-consuming serpent for any cyclic mechanic or new-game-plus seal.",
+   "citations": [
+    {"text": "*Chrysopoeia of Cleopatra* (Greco-Egyptian alchemical tradition)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Chrysopoea_of_Cleopatra_1.png"}
+   ],
+   "key_concepts": ["ouroboros", "hen to pan", "Cleopatra the Alchemist", "unity of matter"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__eleazar-uraltes",
+   "title": "Illustration from Abraham Eleazar, *Uraltes Chymisches Werk* (1760)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Anonymous (attributed 'Abraham Eleazar')",
+   "date": "1760",
+   "place": "Germany (Erfurt/Leipzig)",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "serpent",
+    "ouroboros",
+    "hebrew letters",
+    "kabbalistic alchemy",
+    "dragon",
+    "philosophers stone",
+    "prophetic emblem",
+    "pseudo-ancient"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Illustration_in_Abraham_Eleazar,_Uraltes_chymisches_Werk_1760_(Phiton)_%E2%80%94_Scan_by_Mattes.jpg",
+   "summary": "A plate from Abraham Eleazar's *Uraltes Chymisches Werk* (\"Ancient Chemical Work,\" 1760), a celebrated pseudo-antique alchemical book blending Hebrew lettering with serpent-and-dragon emblems.\n\n## Iconography\nThe figure (here labelled *Phiton*) presents a serpentine or dragon emblem set among Hebrew characters and alchemical signs, in the deliberately archaic style that lent the book its claim to immense antiquity.\n\n## Significance\nThe *Uraltes Chymisches Werk* purported to descend from an ancient Jewish sage, fusing [[motif:kabbalah|kabbalistic]] motifs with the standard serpent and [[motif:ouroboros|ouroboros]] imagery of alchemy. It is a key witness to the eighteenth-century vogue for \"Hebraic\" alchemy and to the way German adepts dressed their works in borrowed antiquity to claim authority.\n\n## For artists & game designers\nA \"forbidden ancient tome\" aesthetic: serpent emblems wrapped in pseudo-Hebrew script, perfect for a lore artifact.",
+   "citations": [
+    {"text": "Abraham Eleazar, *Uraltes Chymisches Werk* (1760)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Illustration_in_Abraham_Eleazar,_Uraltes_chymisches_Werk_1760_(Phiton)_%E2%80%94_Scan_by_Mattes.jpg"}
+   ],
+   "key_concepts": ["Uraltes Chymisches Werk", "Abraham Eleazar", "kabbalistic alchemy", "serpent emblem"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__janitor-pansophus",
+   "title": "*Janitor Pansophus* (Theosophie / Alchemie)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Anonymous (engraver)",
+   "date": "17th century",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "gateway",
+    "macrocosm-microcosm",
+    "all-knowing doorkeeper",
+    "emblematic synthesis",
+    "philosophers stone",
+    "seven planets",
+    "nature's secrets",
+    "cosmic diagram"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0007163_Theosophie_%5E_Alchemie.jpg",
+   "summary": "An emblem in the manner of the *Janitor Pansophus* — the \"all-wise doorkeeper\" plate that summarises the whole of alchemical wisdom in a single synoptic image.\n\n## Iconography\nA dense emblematic composition gathers the principal figures of the work — sun and moon, the planets, beasts and vessels — around a central axis, as a doorway or threshold to universal knowledge. Mottoes label the parts of the synthesis.\n\n## Significance\nThe [[motif:janitor pansophus|Janitor Pansophus]] (\"pansophic gatekeeper\"), famously appended to the *Musaeum Hermeticum*, is a summary-emblem: it tries to show all the correspondences of [[motif:macrocosm-microcosm|macrocosm and microcosm]] at once, serving as a visual index to the entire compendium. Such synthesis-plates functioned as memory theatres of the art.\n\n## For artists & game designers\nA single 'map of everything' screen — every system in the game encoded as one symbolic gateway diagram.",
+   "citations": [
+    {"text": "*Janitor Pansophus* emblem, appended to the *Musaeum Hermeticum* tradition."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0007163_Theosophie_%5E_Alchemie.jpg"}
+   ],
+   "key_concepts": ["Janitor Pansophus", "macrocosm-microcosm", "synthesis emblem", "memory theatre"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__pelican-vessel",
+   "title": "The Pelican (Alchemical Circulatory Vessel)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Anonymous (apparatus engraving)",
+   "date": "17th–18th century",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "pelican vessel",
+    "circulation",
+    "self-feeding",
+    "distillation apparatus",
+    "reflux",
+    "philosophers stone",
+    "glassware",
+    "continuous digestion"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pelikan.png",
+   "summary": "The *pelican*, the alchemists' self-circulating glass vessel named for the bird that was believed to feed its young with its own blood.\n\n## Iconography\nA round-bellied glass flask sends two curved side-arms back into its own neck, so that condensed vapour returns continuously to the body — the form that gave the apparatus its name. The plate shows the vessel in technical profile.\n\n## Significance\nThe [[motif:pelican vessel|pelican]] enabled *circulatio*: endless reflux that \"digested\" the matter over long periods without loss. Its name carried a Christic resonance — the pelican wounding its breast to nourish its brood was a standard symbol of self-sacrifice — so the vessel fused practical chemistry with the redemptive imagery dear to the spiritual alchemists.\n\n## For artists & game designers\nA looping crafting station: a vessel that feeds its own output back in, visually signalling a slow continuous process.",
+   "citations": [
+    {"text": "Alchemical apparatus tradition; the pelican / circulatory vessel."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pelikan.png"}
+   ],
+   "key_concepts": ["pelican vessel", "circulation", "reflux", "self-sacrifice symbolism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__phoenix-basilica",
+   "title": "*Basilica Philosophica* (1618) — Phoenix Emblem",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Johann Daniel Mylius",
+   "date": "1618",
+   "place": "Frankfurt am Main",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "phoenix",
+    "rubedo",
+    "resurrection from fire",
+    "red stone",
+    "philosophers stone",
+    "rebirth",
+    "emblematic bird",
+    "completion"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Basilica_Philosophica_1618.jpg",
+   "summary": "An emblematic engraving from Johann Daniel Mylius's *Basilica Philosophica* (Frankfurt, 1618), part of his richly illustrated alchemical corpus, centred on the phoenix of the completed work.\n\n## Iconography\nThe phoenix rises from flames within an architectural emblematic frame, surrounded by the figures and mottoes of the *Basilica*. The bird burning and reborn stands at the culmination of the series.\n\n## Significance\nThe [[motif:phoenix|phoenix]] is the emblem of the [[motif:rubedo|rubedo]] — the final reddening in which the [[motif:philosophers stone|stone]] is perfected through a death-and-resurrection in fire. Mylius, drawing on Maier and the broader emblem-book vogue, made such birds the signature image of completion. The *Basilica Philosophica* belongs to the great Frankfurt flowering of illustrated alchemy around Lucas Jennis and Matthäus Merian.\n\n## For artists & game designers\nThe victory/rebirth screen incarnate: a bird reborn from fire marking the final upgrade.",
+   "citations": [
+    {"text": "Johann Daniel Mylius, *Basilica Philosophica* (Frankfurt, 1618)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Basilica_Philosophica_1618.jpg"}
+   ],
+   "key_concepts": ["phoenix", "rubedo", "Mylius", "resurrection in fire"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__musaeum-dragon",
+   "title": "Dragon Emblem, *Musaeum Hermeticum* (1678)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Matthäus Merian (engraver)",
+   "date": "1678",
+   "place": "Frankfurt am Main",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "dragon",
+    "winged and wingless",
+    "fixed and volatile",
+    "prima materia",
+    "philosophers stone",
+    "fire",
+    "emblematic beast",
+    "mercury"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Musaeum_Hermeticum_1678_p_353_Dragon_0049.JPG",
+   "summary": "A dragon emblem engraved by Matthäus Merian for the 1678 *Musaeum Hermeticum*, the great Frankfurt anthology of alchemical treatises.\n\n## Iconography\nA coiled dragon dominates the plate, breathing fire or set among the signs of the work. As so often, the dragon's winged/wingless or doubled forms encode the play of the volatile and the fixed.\n\n## Significance\nThe [[motif:dragon|dragon]] is the protean emblem of the [[motif:prima materia|prima materia]] and of mercury — fierce, poisonous, and transformative, the matter that both threatens and enables the work. Merian's engravings for the *Musaeum Hermeticum* set a visual standard for late-seventeenth-century alchemy and were copied for generations.\n\n## For artists & game designers\nA stock alchemical dragon, cleanly engraved — drop-in concept art for a 'volatile matter' guardian beast.",
+   "citations": [
+    {"text": "*Musaeum Hermeticum Reformatum et Amplificatum* (Frankfurt, 1678), engr. M. Merian."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Musaeum_Hermeticum_1678_p_353_Dragon_0049.JPG"}
+   ],
+   "key_concepts": ["dragon", "prima materia", "Musaeum Hermeticum", "Matthäus Merian"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__tabula-smaragdina",
+   "title": "*Tabula Smaragdina* (Emerald Tablet), engr. Matthäus Merian (1618)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Matthäus Merian (after Hermes Trismegistus tradition)",
+   "date": "1618",
+   "place": "Frankfurt am Main",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "emerald tablet",
+    "hermes trismegistus",
+    "as above so below",
+    "macrocosm-microcosm",
+    "sun and moon",
+    "mountain",
+    "elements",
+    "hermetic axiom"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:VM_15772-002_%E2%80%93_Tabula_Smaragdina_(Hermes_Trismegistus)_%E2%80%93_1618_%E2%80%93_Matth%C3%A4us_Merian.jpg",
+   "summary": "Matthäus Merian's famous 1618 engraving of the *Tabula Smaragdina*, the Emerald Tablet of Hermes Trismegistus, presented as a landscape emblem.\n\n## Iconography\nThe Hermetic axioms are set within an emblematic landscape: sun and moon above, a mountain or globe at centre, the four elements and the dragon below. Latin text of the tablet frames the scene, integrating word and image so the whole doctrine can be \"read\" from the picture.\n\n## Significance\nThe [[motif:emerald tablet|Tabula Smaragdina]] is the foundational text of Hermetic alchemy, source of the maxim *quod est superius est sicut quod est inferius* — \"[[motif:as above so below|as above, so below]].\" Merian's plate, made for the same Frankfurt milieu that produced Maier's *Atalanta Fugiens*, became the standard visual rendering of the tablet and circulated across Europe for centuries.\n\n## For artists & game designers\nA lore-tablet screen done right: cosmic axioms wrapped around a readable landscape of sun, moon, mountain and elements.",
+   "citations": [
+    {"text": "*Tabula Smaragdina* (Emerald Tablet of Hermes); engraving by Matthäus Merian, 1618."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:VM_15772-002_%E2%80%93_Tabula_Smaragdina_(Hermes_Trismegistus)_%E2%80%93_1618_%E2%80%93_Matth%C3%A4us_Merian.jpg"}
+   ],
+   "key_concepts": ["Tabula Smaragdina", "emerald tablet", "as above so below", "Hermes Trismegistus", "Merian"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__scrutinium-chymicum",
+   "title": "*Scrutinium Chymicum* — Emblem (Michael Maier, 1687)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Michael Maier (emblems); after Matthäus Merian",
+   "date": "1687 (Latin emblem-only edition of Atalanta Fugiens)",
+   "place": "Frankfurt am Main",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "emblem",
+    "epigram",
+    "philosophical egg",
+    "sun and moon",
+    "coniunctio",
+    "philosophers stone",
+    "engraved figure",
+    "fugitive atalanta"
+   ],
+   "rights": "Public domain (No restrictions). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Michaelis_Majeri_Secretioris_naturae_secretorum_scrutinium_chymicum_-_per_oculis_et_intellectui_accurat%C3%A8_accommodata,_figuris_cupro_appositissim%C3%A8_incisa,_ingeniosissima_emblemata,_hisque_confines,_and_(14747917471).jpg",
+   "summary": "An emblem from Michael Maier's *Scrutinium Chymicum* (Frankfurt, 1687), the later emblem-only re-issue of his celebrated *Atalanta Fugiens*.\n\n## Iconography\nA single engraved emblem pairs a motto and a Latin epigram with a figurative scene drawn from the alchemical repertoire — sun and moon, the philosophical egg, the union of king and queen — in the precise copper-plate manner of the Merian workshop.\n\n## Significance\nWhere the 1618 *Atalanta Fugiens* added music (the famous fugues) to its fifty emblems, the *Scrutinium Chymicum* distilled the same images into a purely emblematic textbook of the [[motif:philosophers stone|stone]]. It carried Maier's synthesis of myth, chemistry and music into the later seventeenth century and shows how a major emblem-series was repackaged for new readers.\n\n## For artists & game designers\nA clean motto-plus-picture card layout — a model for emblem cards that pair a one-line riddle with an illustration.",
+   "citations": [
+    {"text": "Michael Maier, *Scrutinium Chymicum* (Frankfurt, 1687)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Michaelis_Majeri_Secretioris_naturae_secretorum_scrutinium_chymicum_-_per_oculis_et_intellectui_accurat%C3%A8_accommodata,_figuris_cupro_appositissim%C3%A8_incisa,_ingeniosissima_emblemata,_hisque_confines,_and_(14747917471).jpg"}
+   ],
+   "key_concepts": ["Scrutinium Chymicum", "Michael Maier", "emblem book", "Atalanta Fugiens"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__viridarium-elements",
+   "title": "The Four Elements, *Viridarium Chymicum* (Stolcius)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Daniel Stolcius von Stolcenberg",
+   "date": "1624",
+   "place": "Frankfurt am Main",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "four elements",
+    "earth air fire water",
+    "emblem",
+    "tetrad",
+    "elemental personifications",
+    "philosophers stone",
+    "engraved figures",
+    "cosmic order"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Four_elements_in_Viridarium_chymicum.jpg",
+   "summary": "An emblem of the four elements from Daniel Stolcius's *Viridarium Chymicum* (\"Chemical Garden,\" Frankfurt, 1624), a richly illustrated anthology of alchemical figures.\n\n## Iconography\nEarth, air, fire and water appear as four personified or attribute-bearing figures arranged in a balanced emblematic field, with a motto and verse keyed to the engraving. The composition presents the elemental tetrad as the substrate of all transmutation.\n\n## Significance\nThe [[motif:four elements|four elements]] underlie the entire theory of the work: the alchemist separates and recombines them to produce the [[motif:philosophers stone|stone]]. Stolcius's *Viridarium* gathered emblems from Maier, Mylius and others into a single \"garden\" of figures, and through it many otherwise scattered images reached a wide early-modern readership.\n\n## For artists & game designers\nA clean elemental-class set: four legible personifications ready to map onto an earth/air/fire/water mechanic.",
+   "citations": [
+    {"text": "Daniel Stolcius von Stolcenberg, *Viridarium Chymicum* (Frankfurt, 1624)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Four_elements_in_Viridarium_chymicum.jpg"}
+   ],
+   "key_concepts": ["four elements", "Viridarium chymicum", "Stolcius", "emblem anthology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__mylius-philosophia",
+   "title": "Emblem from Mylius, *Philosophia Reformata* (1622)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Johann Daniel Mylius; engr. Balthazar Schwan",
+   "date": "1622",
+   "place": "Frankfurt am Main",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "emblem series",
+    "king and queen",
+    "stages of the work",
+    "sun and moon",
+    "coniunctio",
+    "philosophers stone",
+    "engraved figure",
+    "putrefaction"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mylius_Philosophia_Reformata_16.jpg",
+   "summary": "An emblem (plate 16) from Johann Daniel Mylius's *Philosophia Reformata* (Frankfurt, 1622), one of the major illustrated alchemical treatises of the period.\n\n## Iconography\nThe plate belongs to a numbered series staging the operations of the work — king and queen, sun and moon, the matter in its flask — each scene captioned and keyed to Mylius's text. Balthazar Schwan's engraving renders the figures in the dense Frankfurt emblem style.\n\n## Significance\nMylius's *Philosophia Reformata* presents a complete, ordered cycle of emblems for the [[motif:philosophers stone|opus]], from [[motif:putrefaction|putrefaction]] through [[motif:coniunctio|conjunction]] to perfection. Together with his *Anatomia Auri* and *Basilica Philosophica* it forms one of the most systematic visual programmes of early-modern alchemy and was mined by later compilers such as Stolcius.\n\n## For artists & game designers\nA numbered emblem-sequence is effectively a storyboard — lift the stage-by-stage structure for a transmutation questline.",
+   "citations": [
+    {"text": "Johann Daniel Mylius, *Philosophia Reformata* (Frankfurt, 1622)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mylius_Philosophia_Reformata_16.jpg"}
+   ],
+   "key_concepts": ["Philosophia Reformata", "Mylius", "emblem series", "stages of the work"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__anatomia-auri",
+   "title": "*Anatomia Auri* — Opus Magnum Emblem (Mylius, 1628)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "Johann Daniel Mylius",
+   "date": "1628",
+   "place": "Frankfurt am Main",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "anatomy of gold",
+    "opus magnum",
+    "dissection of metal",
+    "solar gold",
+    "philosophers stone",
+    "emblematic figure",
+    "completion",
+    "sun"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Anatomia_auri_-_opus_magnum.jpg",
+   "summary": "An \"opus magnum\" emblem from Johann Daniel Mylius's *Anatomia Auri* (\"Anatomy of Gold,\" Frankfurt, 1628), figuring the dissection and perfection of the solar metal.\n\n## Iconography\nThe plate sets the figure of gold (the sun, the king) within an emblematic scheme that \"anatomises\" it — opening the perfect metal to reveal its inner principles, surrounded by the signs and mottoes of the *opus magnum*.\n\n## Significance\nMylius's title plays on the period's anatomical sciences: to *anatomise* gold is to dissect the [[motif:philosophers stone|Great Work]] into its parts and lay bare how the [[motif:sun|solar]] perfection is composed and reconstituted. The *Anatomia Auri* rounds out Mylius's trilogy of illustrated treatises and exemplifies the early-modern fusion of emblem, chemistry and the rhetoric of dissection.\n\n## For artists & game designers\nAn 'exploded-view' codex page: the prize substance shown dissected into its component runes/principles.",
+   "citations": [
+    {"text": "Johann Daniel Mylius, *Anatomia Auri* (Frankfurt, 1628)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Anatomia_auri_-_opus_magnum.jpg"}
+   ],
+   "key_concepts": ["Anatomia Auri", "opus magnum", "Mylius", "anatomy of gold"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemy_visionary__scala-philosophorum",
+   "title": "*Scala Philosophorum* Plate (*Geheime Figuren*, 1785)",
+   "work": "Visionary Alchemical Emblem-Series (1550–1785)",
+   "creator": "After Hinricus Madathanus (Adrian von Mynsicht)",
+   "date": "1785 (Altona edition; after 1622 original)",
+   "place": "Altona / German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "ladder of the philosophers",
+    "ascent",
+    "stages of the work",
+    "rungs",
+    "philosophers stone",
+    "spiritual ascent",
+    "emblematic landscape",
+    "coloured plate"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Geheime_Figuren_der_Rosenkreuzer_1785-p13.jpg",
+   "summary": "A *Scala Philosophorum* (ladder of the philosophers) plate as reproduced in the hand-coloured *Geheime Figuren der Rosenkreuzer* (Altona, 1785), here after the emblems of Hinricus Madathanus (Adrian von Mynsicht).\n\n## Iconography\nA ladder rises through an emblematic landscape, its rungs marked as the successive degrees of the work; figures climb from the base matter toward the perfected stone at the summit. Bright transparent watercolour over the engraved line is characteristic of this luxuriant compilation.\n\n## Significance\nThe [[motif:ladder|scala philosophorum]] images the *opus* as a graded ascent — each rung a chemical operation and a spiritual degree — a cousin of the [[motif:alchemical mountain|mountain of the adepts]]. Its appearance in the *Geheime Figuren* shows how older emblem-series were absorbed into the great coloured Rosicrucian corpus that became the most widely reproduced body of alchemical imagery.\n\n## For artists & game designers\nA literal level-ladder: rungs as numbered stages the player climbs, each gated by an operation.",
+   "citations": [
+    {"text": "*Geheime Figuren der Rosenkreuzer* (Altona, 1785–88), after Hinricus Madathanus."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Geheime_Figuren_der_Rosenkreuzer_1785-p13.jpg"}
+   ],
+   "key_concepts": ["scala philosophorum", "ladder of ascent", "stages of the work", "Madathanus"],
+   "summary_status": "authored"
+  }
+ ]
+}

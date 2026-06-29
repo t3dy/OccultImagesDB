@@ -1,0 +1,252 @@
+{
+ "_work": {
+   "key": "sefer_yetzirah",
+   "short_id": "SYET",
+   "title": "Sefer Yetzirah & Letter-Combination Magic",
+   "creator": "various",
+   "date": "10th–19th c.",
+   "century": 16,
+   "place": "Europe and the Near East",
+   "region": "Europe",
+   "language": "Hebrew",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "sefer_yetzirah",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Sefer_Yetzirah",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["sefer yetzirah", "hebrew letters", "thirty-two paths", "three mother letters", "gematria", "tetragrammaton"],
+   "blurb": "Printed editions, manuscript pages, and diagrams of the *Sefer Yetzirah* (Book of Formation) and the wider tradition of Hebrew letter-combination magic — the Mantua 1562 editio princeps title page and text, the thirty-two paths of wisdom (ten sefirot + twenty-two letters), the three mothers / seven doubles / twelve simples, alphabet-and-zodiac charts, gematria and number-mysticism plates from Kircher, the Tetragrammaton and its vowel-points, and Renaissance Christian-Kabbalah witnesses such as Reuchlin's *De arte cabalistica*."
+ },
+ "entries": [
+  {
+   "id": "sefer_yetzirah__mantua-1562-title",
+   "title": "Title page of the *Sefer Yetzirah* (Mantua, 1562)",
+   "work": "Sefer Yetzirah & Letter-Combination Magic",
+   "creator": "Printed by Ya'akov ben Naphtali ha-Kohen Gazzolo (Mantua)",
+   "date": "1562",
+   "place": "Mantua, Italy",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["sefer yetzirah", "title page", "hebrew typography", "editio princeps", "book of formation", "printed kabbalah", "creation", "linguistic mysticism"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Yetzirah.png",
+   "summary": "The Hebrew title page of the *Sefer Yetzirah* (Book of Formation) as printed at Mantua in 1562, one of the foundational early printings of the text with its classic commentaries.\n\n## Iconography\nA framed Hebrew title page announcing the *Sefer Yetzirah*, set in the dense vocalized type of a 16th-century Mantua press. The layout presents the short treatise together with the cluster of commentaries (such as those attributed to Saadia Gaon, Abraham ben David, and others) that the Mantua editions gathered around the core text.\n\n## Significance\nThe *Sefer Yetzirah* teaches that God formed the cosmos through 'thirty-two wondrous paths of wisdom' — the ten [[motif:sefirot|sefirot]] and the twenty-two [[motif:hebrew letters|letters]] of the Hebrew alphabet — divided into three mothers, seven doubles, and twelve simples. The Mantua printings were decisive in fixing the text and its commentary tradition for early-modern readers and the later Christian Kabbalists who drew on it. Gershom Scholem and Tzahi Weiss are standard guides to its textual history.\n\n## For artists & game designers\nAn authentic 'arcane primer' cover: dense sacred type framed as the opening of a book of world-making.",
+   "citations": [
+    {"text": "*Sefer Yetzirah* (Mantua, 1562)."},
+    {"text": "Tzahi Weiss, *Sefer Yeṣira and Its Contexts* (2018)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Yetzirah.png"}
+   ],
+   "key_concepts": ["Sefer Yetzirah", "Mantua 1562", "thirty-two paths", "printed Kabbalah"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sefer_yetzirah__manuscript-page",
+   "title": "Text page of the *Sepher Yetzirah* (Mantua, 1562)",
+   "work": "Sefer Yetzirah & Letter-Combination Magic",
+   "creator": "Printed by Ya'akov ben Naphtali ha-Kohen Gazzolo (Mantua)",
+   "date": "1562",
+   "place": "Mantua, Italy",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["sefer yetzirah", "hebrew text", "commentary", "three mothers", "seven doubles", "twelve simples", "letter mysticism", "printed kabbalah"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sepher_yetzirah_mantua_1562.jpg",
+   "summary": "An interior text page of the *Sepher Yetzirah* in the 1562 Mantua printing, showing the treatise's terse mishnaic Hebrew surrounded by commentary.\n\n## Iconography\nVocalized Hebrew set in the column-and-gloss layout typical of the Mantua edition: the brief aphoristic chapters of the *Sefer Yetzirah* on the page, expounded by the marginal and interlinear commentaries that the edition collected. The text rehearses the doctrine of the three mother letters (Aleph, Mem, Shin), the seven doubles, and the twelve simples.\n\n## Significance\nThe body of the *Sefer Yetzirah* maps the [[motif:hebrew letters|twenty-two letters]] onto the elements, the seven planets, and the twelve signs of the zodiac, making the alphabet the combinatorial machinery of creation. This is the seed of all later Kabbalistic *tzeruf* (letter-permutation) practice and of the Golem legend, in which inscribed letters animate matter. Scholem treated the work as the bridge between late-antique cosmology and medieval Kabbalah.\n\n## For artists & game designers\nA page of 'source code' for a world: short combinatorial rules mapping letters to elements, planets, and signs.",
+   "citations": [
+    {"text": "*Sepher Yetzirah* (Mantua, 1562)."},
+    {"text": "Gershom Scholem, *Kabbalah* (1974)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sepher_yetzirah_mantua_1562.jpg"}
+   ],
+   "key_concepts": ["Sefer Yetzirah", "three mothers", "letter-combination", "Mantua 1562"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sefer_yetzirah__32-paths",
+   "title": "The Thirty-Two Paths of Wisdom",
+   "work": "Sefer Yetzirah & Letter-Combination Magic",
+   "creator": "Aviyud613 (modern diagram after the Sefer Yetzirah)",
+   "date": "Doctrine antique/medieval; this diagram 21st c.",
+   "place": "Jewish tradition",
+   "era": "medieval",
+   "tradition": "kabbalah",
+   "motifs": ["thirty-two paths", "sefer yetzirah", "ten sefirot", "twenty-two letters", "tree of life", "paths of wisdom", "hebrew letters", "creation"],
+   "rights": "CC BY-SA 4.0 (Aviyud613). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:32_Paths_wisdom.jpg",
+   "summary": "A diagram of the 'thirty-two wondrous paths of wisdom' — the ten sefirot together with the twenty-two letters of the Hebrew alphabet — that open the *Sefer Yetzirah*.\n\n## Iconography\nThe scheme enumerates the thirty-two paths: ten [[motif:sefirot|sefirot]] (the numbered emanations) and the twenty-two connective [[motif:hebrew letters|letters]] that link the nodes of the Tree of Life. Each path is labelled, displaying the combined numerical-and-alphabetic structure by which the *Sefer Yetzirah* says the world was formed.\n\n## Significance\nThe opening line of the *Sefer Yetzirah* — 'by thirty-two wondrous paths of wisdom God engraved... and created His world' — became the architectural key of later Kabbalah, where the twenty-two letters are mapped onto the twenty-two paths joining the ten sefirot of the Tree of Life. This 10+22 structure underlies the Golden Dawn's tarot-and-path system and modern Western Kabbalah. (This is a modern explanatory diagram, not a historical manuscript.)\n\n## For artists & game designers\nA literal node-and-edge graph: ten nodes, twenty-two labelled edges — a ready skill-tree topology with built-in lore.",
+   "citations": [
+    {"text": "*Sefer Yetzirah* 1:1 (the thirty-two paths of wisdom)."},
+    {"text": "Aryeh Kaplan, *Sefer Yetzirah: The Book of Creation* (1990)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:32_Paths_wisdom.jpg"}
+   ],
+   "key_concepts": ["thirty-two paths", "ten sefirot", "twenty-two letters", "Tree of Life"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sefer_yetzirah__tree-paths",
+   "title": "Tree of Life with the Twenty-Two Lettered Paths",
+   "work": "Sefer Yetzirah & Letter-Combination Magic",
+   "creator": "Eliyak (modern diagram)",
+   "date": "Doctrine medieval; this diagram 21st c.",
+   "place": "Jewish tradition",
+   "era": "medieval",
+   "tradition": "kabbalah",
+   "motifs": ["tree of life", "twenty-two paths", "hebrew letters", "ten sefirot", "three pillars", "sefer yetzirah", "emanation", "letter mysticism"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ktreewnames.png",
+   "summary": "A schematic Tree of Life in which the twenty-two connecting paths are each assigned a Hebrew letter, visualizing the *Sefer Yetzirah*'s pairing of letters with the structure of emanation.\n\n## Iconography\nTen named [[motif:sefirot|sefirot]] are arranged in the three-pillar configuration and joined by twenty-two paths, each path bearing one of the [[motif:hebrew letters|Hebrew letters]]. The diagram renders the *Sefer Yetzirah* claim that letters are the connective tissue of creation as a concrete map of nodes and lettered edges.\n\n## Significance\nThe assignment of the twenty-two letters to the twenty-two paths of the Tree of Life is the great synthesis of the *Sefer Yetzirah* with the medieval sefirotic Tree; it was systematized by the Hermetic Order of the Golden Dawn, which keyed each lettered path to a tarot trump, planet, or sign. The diagram is the everyday working tool of modern Kabbalistic magic. (Modern explanatory image.)\n\n## For artists & game designers\nThe canonical lettered skill-tree: each edge tagged with a glyph that can carry an element, planet, or card.",
+   "citations": [
+    {"text": "*Sefer Yetzirah*; Aryeh Kaplan, *Sefer Yetzirah* (1990)."},
+    {"text": "Israel Regardie, *The Golden Dawn* (1937–40), on the lettered paths."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ktreewnames.png"}
+   ],
+   "key_concepts": ["Tree of Life", "twenty-two paths", "Hebrew letters", "path assignments"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sefer_yetzirah__sefirot-letters",
+   "title": "Kabbalistic Tree of Life with Sefirot and Letters",
+   "work": "Sefer Yetzirah & Letter-Combination Magic",
+   "creator": "RootOfAllLight (modern diagram)",
+   "date": "Doctrine medieval; this diagram 21st c.",
+   "place": "Jewish tradition",
+   "era": "medieval",
+   "tradition": "kabbalah",
+   "motifs": ["tree of life", "ten sefirot", "twenty-two letters", "three pillars", "emanation", "hebrew letters", "sefer yetzirah", "paths"],
+   "rights": "CC BY-SA 4.0 (RootOfAllLight). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kabbalah_Tree_of_Life.png",
+   "summary": "A clean modern Tree of Life showing the ten sefirot and the twenty-two lettered paths in the three-column layout, illustrating the combined number-and-letter cosmology of the *Sefer Yetzirah*.\n\n## Iconography\nThe ten [[motif:sefirot|sefirot]] descend through the pillars of mercy, severity, and the reconciling middle; the connecting paths carry the [[motif:hebrew letters|twenty-two letters]]. The whole presents the 10 + 22 = 32 structure of the 'paths of wisdom' as a single articulated system.\n\n## Significance\nThe three-pillar Tree with lettered paths is the standard reference diagram of Western esoteric Kabbalah, descending through the Renaissance Christian Kabbalists and the *Kabbala Denudata* into the Golden Dawn. It visually fuses the *Sefer Yetzirah*'s letter-doctrine with the sefirotic Tree of the *Zohar* and Luria. (Modern explanatory image.)\n\n## For artists & game designers\nA polished, legible version of the lettered Tree — drop-in art for a balance-of-forces magic system with left/right/centre columns.",
+   "citations": [
+    {"text": "Gershom Scholem, *Kabbalah* (1974)."},
+    {"text": "*Sefer Yetzirah*, on the thirty-two paths."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kabbalah_Tree_of_Life.png"}
+   ],
+   "key_concepts": ["Tree of Life", "ten sefirot", "three pillars", "lettered paths"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sefer_yetzirah__alphabet-zodiac",
+   "title": "The Hebrew Alphabet (Alefbet)",
+   "work": "Sefer Yetzirah & Letter-Combination Magic",
+   "creator": "Immanuel Giel",
+   "date": "Modern reference chart",
+   "place": "Jewish tradition",
+   "era": "modern",
+   "tradition": "kabbalah",
+   "motifs": ["hebrew letters", "alphabet", "twenty-two letters", "alefbet", "letter forms", "final letters", "linguistic mysticism", "sefer yetzirah"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Alefbet_Hebrew.png",
+   "summary": "A clear chart of the twenty-two letters of the Hebrew alphabet — the raw material that the *Sefer Yetzirah* treats as the building-blocks of creation.\n\n## Iconography\nThe twenty-two [[motif:hebrew letters|letters]] from Aleph to Tav are set out in order with their forms, including the five final (sofit) variants. It is a plain alphabetic reference rather than an esoteric diagram, but it displays exactly the set of signs the *Sefer Yetzirah* divides into three mothers, seven doubles, and twelve simples.\n\n## Significance\nIn the *Sefer Yetzirah*, these twenty-two letters are not merely phonetic but cosmogonic: God 'engraved, carved, weighed, permuted, and combined' them to form all that exists. Knowing the letter-set is the precondition for *tzeruf* (permutation) and gematria, the operative techniques of Jewish letter-mysticism. The alphabet is thus the indispensable index for the whole tradition.\n\n## For artists & game designers\nThe base 'rune set': twenty-two glyphs that a letter-magic system can draw on for spells, names, and constructs.",
+   "citations": [
+    {"text": "*Sefer Yetzirah* 2:2 (engraving and combining the letters)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Alefbet_Hebrew.png"}
+   ],
+   "key_concepts": ["Hebrew alphabet", "twenty-two letters", "final letters", "letter-mysticism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sefer_yetzirah__hebrew-alphabet-chart",
+   "title": "Hebrew Letters with Traditional Pronunciations",
+   "work": "Sefer Yetzirah & Letter-Combination Magic",
+   "creator": "Squee3",
+   "date": "Modern reference chart",
+   "place": "Jewish tradition",
+   "era": "modern",
+   "tradition": "kabbalah",
+   "motifs": ["hebrew letters", "alphabet", "pronunciation", "letter names", "twenty-two letters", "numerical value", "gematria", "sefer yetzirah"],
+   "rights": "CC BY-SA 4.0 (Squee3). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hebrew_traditional_pronunciations.png",
+   "summary": "A detailed table of the Hebrew letters with their names and traditional pronunciations across Jewish communities — a key to the sounds and names the *Sefer Yetzirah* manipulates.\n\n## Iconography\nEach of the [[motif:hebrew letters|letters]] is listed with its name (Aleph, Bet, Gimel...) and its pronunciation in different reading traditions. Because every Hebrew letter is also a number, such tables implicitly carry the numerical values that underlie [[motif:gematria|gematria]].\n\n## Significance\nThe *Sefer Yetzirah* groups the letters by sound and articulation — the three mothers correspond to a triad of elements, the seven doubles to letters pronounced two ways (hard/soft), the twelve simples to single sounds. A pronunciation table thus encodes the very phonetic distinctions on which the treatise's classification of the alphabet depends. Letter-names and values are also the substrate of *notarikon* and gematria.\n\n## For artists & game designers\nA sound-and-value key: pair each glyph with a phoneme and a number to drive a spoken-name or numeric magic system.",
+   "citations": [
+    {"text": "*Sefer Yetzirah*, on the three mothers, seven doubles, twelve simples."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hebrew_traditional_pronunciations.png"}
+   ],
+   "key_concepts": ["Hebrew letters", "pronunciation", "letter-values", "seven doubles"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sefer_yetzirah__gematria",
+   "title": "Number-Mysticism Plate (Kircher, '666')",
+   "work": "Sefer Yetzirah & Letter-Combination Magic",
+   "creator": "Athanasius Kircher",
+   "date": "Mid-17th c.",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["gematria", "number mysticism", "isopsephy", "666", "letter-number", "arithmology", "christian kabbalah", "name calculation"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Athanasius_Kircher_666.jpg",
+   "summary": "An Athanasius Kircher plate engaging the number 666 through letter-number calculation, an example of the gematria/arithmology that parallels the *Sefer Yetzirah*'s numerical mysticism.\n\n## Iconography\nThe plate works the famous apocalyptic number through the equivalence of letters and numbers, displaying names and words resolved into their numerical sums. It belongs to the family of Kircher's combinatorial and number-mystical diagrams in which alphabets, names, and numbers are tabulated and computed.\n\n## Significance\n[[motif:gematria|Gematria]] — assigning numerical values to letters and reading equivalences between words of equal sum — is, with *notarikon* and *temurah*, one of the three classic techniques of Hebrew letter-mysticism rooted in the *Sefer Yetzirah*'s teaching that letters are also numbers. Kircher (1602–1680), in his *Arithmologia* and *Oedipus Aegyptiacus*, transmitted this number-mysticism to learned Christian Europe. (The Hebrew alphabet's number-values, not the Greek isopsephy of '666', are the *Sefer Yetzirah*'s concern, but the technique is the same.)\n\n## For artists & game designers\nA worked example of name-to-number magic: any word resolves to a value that can gate spells or unlock secrets.",
+   "citations": [
+    {"text": "Athanasius Kircher, *Arithmologia sive De abditis numerorum mysteriis* (1665)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Athanasius_Kircher_666.jpg"}
+   ],
+   "key_concepts": ["gematria", "number-mysticism", "Athanasius Kircher", "letter-values"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sefer_yetzirah__kircher-arithmologia",
+   "title": "Plate from Kircher's *Arithmologia* (1665)",
+   "work": "Sefer Yetzirah & Letter-Combination Magic",
+   "creator": "Athanasius Kircher",
+   "date": "1665",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["arithmology", "number mysticism", "gematria", "combinatorics", "kabbalah", "hebrew letters", "christian kabbalah", "magic squares"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kircher_-_Arithmologia_sive_De_abditis_numerorum_mysterijs_qua_origo,_antiquitas_et_fabrica_numerorum_exponitur,_1665_-_870894_A.jpg",
+   "summary": "A plate from Athanasius Kircher's *Arithmologia sive De abditis numerorum mysteriis* (Rome, 1665), his treatise on the hidden mysteries of numbers, including their Kabbalistic and magical uses.\n\n## Iconography\nThe engraving sets out number-tables, combinatorial schemes, and name-and-number figures of the kind Kircher used to expound the 'secret virtues' of numbers — magic squares, letter-number correspondences, and arithmetical diagrams that fold Hebrew [[motif:gematria|gematria]] into a universal science of number.\n\n## Significance\nKircher's *Arithmologia* is a key early-modern channel by which the Hebrew letter-mysticism behind the *Sefer Yetzirah* — the doctrine that letters are numbers and that creation is combinatorial — entered Christian learning. It sits alongside his *Oedipus Aegyptiacus* in treating Kabbalah as part of a *prisca theologia* uniting Hebrew, Egyptian, and Pythagorean number-wisdom. Daniel Stolzenberg and others survey Kircher's Kabbalistic sources.\n\n## For artists & game designers\nA period 'grimoire of numbers': tables and squares that can serve as puzzle-locks or the rule-sheet for a numeric magic system.",
+   "citations": [
+    {"text": "Athanasius Kircher, *Arithmologia* (Rome, 1665)."},
+    {"text": "Daniel Stolzenberg, *Egyptian Oedipus: Athanasius Kircher and the Secrets of Antiquity* (2013)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kircher_-_Arithmologia_sive_De_abditis_numerorum_mysterijs_qua_origo,_antiquitas_et_fabrica_numerorum_exponitur,_1665_-_870894_A.jpg"}
+   ],
+   "key_concepts": ["Arithmologia", "number-mysticism", "Athanasius Kircher", "combinatorics"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sefer_yetzirah__yhwh-permutations",
+   "title": "The Tetragrammaton with Masoretic Vowel-Points",
+   "work": "Sefer Yetzirah & Letter-Combination Magic",
+   "creator": "AnonMoos (diagram)",
+   "date": "Modern diagram of a traditional subject",
+   "place": "Jewish tradition",
+   "era": "modern",
+   "tradition": "kabbalah",
+   "motifs": ["tetragrammaton", "yhwh", "vowel points", "divine name", "hebrew letters", "ineffable name", "name permutation", "masoretic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Tetragrammaton-related-Masoretic-vowel-points.png",
+   "summary": "A diagram of the Tetragrammaton (YHWH) showing the various Masoretic vowel-pointings attached to the four sacred letters — the raw material of the name-permutation mysticism descended from the *Sefer Yetzirah*.\n\n## Iconography\nThe four letters *Yod–He–Vav–He* of the [[motif:tetragrammaton|Tetragrammaton]] are displayed with the different vowel-points the Masoretes placed on the Name (typically the vowels of *Adonai* or *Elohim*, signalling the substitute word to be read aloud). The figure makes visible how the unpronounceable Name was pointed in the written text.\n\n## Significance\nThe *Sefer Yetzirah* describes God 'permuting' the letters; later Kabbalists such as Abraham Abulafia built whole contemplative systems on permuting and vocalizing the [[motif:hebrew letters|letters]] of the divine Name (*tzeruf* and *hokhmat ha-tseruf*). The vowel-points are central to that practice, since each pointing yields a different meditative pronunciation. The Name's 42- and 72-letter expansions extend the same logic. Moshe Idel's studies of Abulafia are standard.\n\n## For artists & game designers\nA 'configurable true name': one fixed set of consonants whose changing vowel-pattern alters its power — a built-in combination lock.",
+   "citations": [
+    {"text": "Moshe Idel, *The Mystical Experience in Abraham Abulafia* (1988)."},
+    {"text": "*Sefer Yetzirah*, on permuting the letters."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Tetragrammaton-related-Masoretic-vowel-points.png"}
+   ],
+   "key_concepts": ["Tetragrammaton", "vowel-points", "name-permutation", "tzeruf"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sefer_yetzirah__reuchlin",
+   "title": "Leaf from Reuchlin's *De arte cabalistica* (1517)",
+   "work": "Sefer Yetzirah & Letter-Combination Magic",
+   "creator": "Johannes Reuchlin",
+   "date": "1517 (text); later printing",
+   "place": "Hagenau, German lands",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["christian kabbalah", "hebrew letters", "divine names", "de arte cabalistica", "tetragrammaton", "pentagrammaton", "letter mysticism", "renaissance humanism"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Leaf_from_%22De_arte_cabalistica_libri_tres_leoni...%22_Wellcome_L0074388.jpg",
+   "summary": "A leaf from Johannes Reuchlin's *De arte cabalistica* (On the Art of Kabbalah, 1517), the foundational Christian-Kabbalah treatise that brought Hebrew letter-mysticism into Renaissance humanism.\n\n## Iconography\nThe page interweaves Latin dialogue with [[motif:hebrew letters|Hebrew letters]] and divine names, in the manner Reuchlin used to expound Kabbalistic doctrine — including his famous derivation of the *Pentagrammaton* (YHSVH) from the [[motif:tetragrammaton|Tetragrammaton]] by inserting the letter *shin*. The leaf shows the textual machinery of name-and-letter speculation set into a printed humanist book.\n\n## Significance\nReuchlin (1455–1522), the great Christian Hebraist, drew on the *Sefer Yetzirah*, the *Sefer Raziel*, and Abulafian letter-mysticism to argue that the manipulation of Hebrew letters and divine names was the highest wisdom. *De arte cabalistica* and his earlier *De verbo mirifico* made the letter-magic of the Jewish tradition respectable for Renaissance scholars and shaped Agrippa and later occult philosophy. Charles Zika and Wilhelm Schmidt-Biggemann survey his project.\n\n## For artists & game designers\nA Renaissance 'cross-tradition codex': Latin learning splicing in Hebrew glyphs — a model for hybrid magical writing.",
+   "citations": [
+    {"text": "Johannes Reuchlin, *De arte cabalistica* (Hagenau, 1517)."},
+    {"text": "Wilhelm Schmidt-Biggemann, *Geschichte der christlichen Kabbala* (2012–14)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Leaf_from_%22De_arte_cabalistica_libri_tres_leoni...%22_Wellcome_L0074388.jpg"}
+   ],
+   "key_concepts": ["De arte cabalistica", "Johannes Reuchlin", "Christian Kabbalah", "Pentagrammaton"],
+   "summary_status": "authored"
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "_work": {
+   "key": "witch_prints",
+   "short_id": "WTCH",
+   "title": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "various",
+   "date": "1451–1799",
+   "century": 16,
+   "place": "Europe",
+   "region": "Europe",
+   "language": "German",
+   "era": "early_modern",
+   "tradition": "witchcraft",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "witch_prints",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Witchcraft_in_art",
+   "rights": "Public domain / CC BY-SA (per item). Via Wikimedia Commons.",
+   "motifs": ["witches sabbath", "broomstick flight", "cauldron", "night flight", "goat", "weather magic"],
+   "blurb": "The image-world of the European witch from the first illustrated demonologies to Goya — the broom-riding heretic of Le Franc's Champion des Dames, Ulrich Molitor's storm-cooking woodcuts, Baldung Grien's and Dürer's eroticized German prints, the kitchen and sabbath scenes of Francken, Teniers, Rosa and Ziarnko, the English witch-finder's familiars, and Goya's Caprichos satires of flight and credulity."
+ },
+ "entries": [
+  {
+   "id": "witch_prints__vaudoises-broom",
+   "title": "Witches Riding Brooms (Les Vaudoises)",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Martin Le Franc (text); anonymous illuminator",
+   "date": "c. 1451 (manuscript illumination)",
+   "place": "Burgundy / France",
+   "era": "medieval",
+   "tradition": "witchcraft",
+   "motifs": ["broomstick flight", "stick flight", "vaudoises", "heresy", "witches sect", "marginal illustration", "night flight", "earliest broom image"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Champion_des_dames_Vaudoises.JPG",
+   "summary": "A marginal illumination in a manuscript of Martin Le Franc's poem *Le Champion des Dames* (c. 1451), showing two women flying on a broom and a stick — among the earliest images of broomstick flight.\n\n## Iconography\nTwo women in long gowns and head-coverings are borne aloft, one astride a household broom, the other on a plain wooden staff. The marginal caption labels them *Vaudoises* — \"Waldensians\" — the heretical sect onto which the new crime of diabolical witchcraft was being projected.\n\n## Significance\nThe image predates the witch-hunt's great print era by half a century and shows the [[motif:broomstick flight|flying broom]] already fixed as the visual sign of the witch. Its identification of witches with the Waldensian heresy (*vauderie*) reflects the fifteenth-century fusion of heresy-hunting and the emerging stereotype of the night-flying sabbath, documented by historians such as Norman Cohn and Richard Kieckhefer.\n\n## For artists & game designers\nThe humble broom plus an ordinary woman in everyday dress is the most economical witch signifier there is — no warts or pointed hat required.",
+   "citations": [
+    {"text": "Martin Le Franc, *Le Champion des Dames* (c. 1440–42; ill. ms. c. 1451)."},
+    {"text": "Norman Cohn, *Europe's Inner Demons* (1975)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Champion_des_dames_Vaudoises.JPG"}
+   ],
+   "key_concepts": ["broomstick flight", "Vaudoises", "Le Champion des Dames", "witch stereotype"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__molitor-woodcut",
+   "title": "Witches in Flight (Molitor, De lamiis)",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Anonymous woodcutter, for Ulrich Molitor",
+   "date": "c. 1489–1495 (woodcut)",
+   "place": "German lands (Reutlingen / Augsburg)",
+   "era": "renaissance",
+   "tradition": "witchcraft",
+   "motifs": ["stick flight", "transformation", "animal-headed", "woodcut", "molitor", "night flight", "shape-shifting", "incunabulum"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Molitoris_Hexenflug.jpg",
+   "summary": "A woodcut from Ulrich Molitor's *De lamiis et phitonicis mulieribus* (\"On Witches and Diviner Women,\" first printed 1489), depicting witches in flight, partly transformed into animals.\n\n## Iconography\nFigures ride through the air on a forked cooking-stick; their heads have become those of beasts, illustrating the belief that witches travelled to the sabbath transformed or in animal guise. The crude woodcut line is typical of early German incunabula.\n\n## Significance\nMolitor's treatise was one of the first printed books on witchcraft and the first to be illustrated, so its woodcuts became the foundational visual vocabulary for the witch. Notably, Molitor himself was sceptical that such flights and transformations were real, treating them as diabolical illusion — yet the pictures, reprinted for decades, hardened the very stereotype the text questioned, as scholars including Charles Zika have shown.\n\n## For artists & game designers\nPartial animal transformation — a human body with a beast's head mid-flight — is a vivid, readable way to depict shapeshifting in progress.",
+   "citations": [
+    {"text": "Ulrich Molitor, *De lamiis et phitonicis mulieribus* (1489)."},
+    {"text": "Charles Zika, *The Appearance of Witchcraft* (2007)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Molitoris_Hexenflug.jpg"}
+   ],
+   "key_concepts": ["Ulrich Molitor", "De lamiis", "witch transformation", "early printed witchcraft"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__durer-four-witches",
+   "title": "The Four Witches",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Albrecht Dürer",
+   "date": "1497 (engraving)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "witchcraft",
+   "motifs": ["nude women", "four figures", "engraving", "devil", "skull", "conspiracy", "classical nudes", "1497 monogram"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Print,_Four_Nude_Women_(The_Four_Witches),_1497_(CH_18383911).jpg",
+   "summary": "Albrecht Dürer's engraving of 1497, traditionally called *The Four Witches*, showing four nude women gathered in a chamber.\n\n## Iconography\nFour idealized nude women stand in a tight circle; a small devil with flames peers through a doorway at lower left, and a skull and bone lie on the floor. A sphere overhead bears the date 1497 and Dürer's AD monogram. The women's purpose is deliberately ambiguous — the title is a later tradition rather than Dürer's own.\n\n## Significance\nThe print fuses the classical motif of the [[motif:nude women|grouped nudes]] (echoing the Three Graces or a Judgement of Paris) with the menacing devil and bones that invite a witchcraft reading. It exemplifies how Dürer translated humanist study of the nude into images charged with moral and demonic suggestion. Art historians continue to debate whether the four are witches, goddesses, or an allegory of discord.\n\n## For artists & game designers\nAmbiguity is the lesson: a single small demon and a skull reframe an otherwise classical group as something sinister.",
+   "citations": [
+    {"text": "Erwin Panofsky, *The Life and Art of Albrecht Dürer* (1943)."},
+    {"text": "Charles Zika, *The Appearance of Witchcraft* (2007)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Print,_Four_Nude_Women_(The_Four_Witches),_1497_(CH_18383911).jpg"}
+   ],
+   "key_concepts": ["Albrecht Dürer", "The Four Witches", "Renaissance nude", "engraving"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__durer-witch-goat-alt",
+   "title": "Witch Riding Backwards on a Goat",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Albrecht Dürer",
+   "date": "c. 1500–1501 (engraving)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "witchcraft",
+   "motifs": ["goat", "riding backwards", "distaff", "putti", "windswept hair", "inversion", "weather magic", "engraving"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_Witch_Riding_on_a_Goat,_c._1500-1501,_NGA_6674.jpg",
+   "summary": "Albrecht Dürer's engraving (c. 1500–01) of an old witch riding backwards on a he-goat, hair streaming against the wind, accompanied by tumbling putti.\n\n## Iconography\nA wizened, naked woman sits astride a horned goat facing its tail, brandishing a distaff. Her hair and the goat's coat blow forward — opposite to her direction of travel — signalling that she generates her own storm. Four winged putti scramble below; Dürer's monogram appears reversed, reinforcing the theme of inversion.\n\n## Significance\nThe [[motif:goat|goat]] is the Devil's beast and the witch's mount; riding it *backwards*, against the wind, encodes the world-turned-upside-down logic of witchcraft. The distaff marks the figure as a woman whose domestic tool has become an instrument of malefice. Charles Zika reads the print as crystallizing the gendered, weather-making witch of German art.\n\n## For artists & game designers\nReversed motion — hair and cloth blowing the 'wrong' way — is a subtle visual cue that a figure bends natural law.",
+   "citations": [
+    {"text": "Charles Zika, *The Appearance of Witchcraft* (2007)."},
+    {"text": "Linda C. Hults, *The Witch as Muse* (2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_Witch_Riding_on_a_Goat,_c._1500-1501,_NGA_6674.jpg"}
+   ],
+   "key_concepts": ["Albrecht Dürer", "goat mount", "inversion", "distaff"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__baldung-witches-1510",
+   "title": "The Witches (Witches' Sabbath)",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Hans Baldung Grien",
+   "date": "1510 (chiaroscuro woodcut)",
+   "place": "Strasbourg, German lands",
+   "era": "renaissance",
+   "tradition": "witchcraft",
+   "motifs": ["witches sabbath", "cauldron", "vapors", "goat flight", "nude witches", "cooking pot", "fork", "chiaroscuro woodcut"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hans_Baldung_Grien-De_Heksen-1510.jpg",
+   "summary": "Hans Baldung Grien's *The Witches* (1510), a celebrated chiaroscuro woodcut and one of the defining images of the witches' sabbath.\n\n## Iconography\nNude witches cluster around a steaming pot from which fumes and a forked stick rise; one rides a goat backwards through the air above. Bones, a raised covered dish belching vapour, and wildly streaming hair fill the scene. The tone block lends the print a lurid, nocturnal glow.\n\n## Significance\nBaldung, a pupil of Dürer, fused eroticism, the grotesque, and learned demonology into the era's most influential [[motif:witches sabbath|sabbath]] image. The cooking pot and rising vapours allude to weather magic and the ointments said to enable flight. Linda Hults and Charles Zika emphasize how Baldung's witches express anxieties about female sexuality and disorder as much as any literal belief.\n\n## For artists & game designers\nVapour as a compositional device — smoke that carries objects and figures upward — turns a static coven into a scene of active, churning magic.",
+   "citations": [
+    {"text": "Linda C. Hults, *The Witch as Muse* (2005)."},
+    {"text": "Charles Zika, *The Appearance of Witchcraft* (2007)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hans_Baldung_Grien-De_Heksen-1510.jpg"}
+   ],
+   "key_concepts": ["Hans Baldung Grien", "witches sabbath", "chiaroscuro woodcut", "weather magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__baldung-bewitched-groom",
+   "title": "The Bewitched Groom",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Hans Baldung Grien",
+   "date": "c. 1544 (woodcut)",
+   "place": "Strasbourg, German lands",
+   "era": "renaissance",
+   "tradition": "witchcraft",
+   "motifs": ["foreshortening", "fallen groom", "horse", "hag at window", "torch", "stable", "coat of arms", "woodcut"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Bewitched_Groom_MET_MM4258.jpg",
+   "summary": "Hans Baldung Grien's late woodcut *The Bewitched Groom* (c. 1544), a tour-de-force of foreshortening and one of art's most enigmatic witchcraft images.\n\n## Iconography\nA groom lies sprawled on his back in dramatic foreshortening across a stable floor, a currycomb and pitchfork beside him. A great horse looms over him, and an old hag thrusts a flaming torch through a window at upper right. Whether the man is bewitched, dead, or dreaming is left unresolved.\n\n## Significance\nThe print is read as a meditation on the artist's own mortality and on the disordering power of the [[motif:hag at window|witch]] — the hag intruding from outside the rational world. The Stocker coat of arms on the wall and Baldung's monogram have fed interpretations as a self-portrait-in-allegory. Scholars such as Linda Hults treat it as the summa of Baldung's witch imagery.\n\n## For artists & game designers\nExtreme foreshortening of a fallen figure, viewed from its feet, instantly conveys collapse, death, or supernatural defeat.",
+   "citations": [
+    {"text": "Linda C. Hults, *The Witch as Muse* (2005)."},
+    {"text": "Metropolitan Museum of Art, object record."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Bewitched_Groom_MET_MM4258.jpg"}
+   ],
+   "key_concepts": ["Hans Baldung Grien", "The Bewitched Groom", "foreshortening", "stable"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__francken-witches-kitchen",
+   "title": "A Witches' Kitchen",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Frans Francken the Younger",
+   "date": "early 17th century (oil painting)",
+   "place": "Antwerp, Flanders",
+   "era": "early_modern",
+   "tradition": "witchcraft",
+   "motifs": ["witches kitchen", "cauldron", "grimoire", "skulls", "candlelight", "potion", "departing flight up chimney", "cabinet painting"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Frans_II_Francken_%E2%80%93_A_Witches%27_Kitchen.jpg",
+   "summary": "*A Witches' Kitchen* by Frans Francken the Younger (early 17th century), a crowded cabinet painting of witches at their preparations.\n\n## Iconography\nIn a vaulted interior lit by candle and fire, witches young and old mix potions, consult open magical books, and tend a cauldron amid skulls, bones, and oddments of the occult. Demons and monstrous creatures lurk in the shadows; figures stream up toward a chimney for the flight to the sabbath.\n\n## Significance\nThe Antwerp 'witches' kitchen' became a popular cabinet-picture genre that let collectors enjoy the demonic as exotic spectacle. Francken assembles an inventory of magical apparatus — the [[motif:grimoire|book]], cauldron, and skulls — that codified what a witch's workshop should contain. The genre reflects both real demonological literature and the art market's taste for the marvelous.\n\n## For artists & game designers\nA single room packed with labelled occult props — book, cauldron, skull, candle — is an efficient way to establish a 'witch's workshop' location at a glance.",
+   "citations": [
+    {"text": "Charles Zika, *The Appearance of Witchcraft* (2007)."},
+    {"text": "Jane P. Davidson, *The Witch in Northern European Art* (1987)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Frans_II_Francken_%E2%80%93_A_Witches%27_Kitchen.jpg"}
+   ],
+   "key_concepts": ["Frans Francken", "witches kitchen", "cabinet painting", "occult apparatus"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__teniers-witches",
+   "title": "The Witches' Sabbath (after Teniers)",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Follower of David Teniers the Younger",
+   "date": "17th century (oil painting)",
+   "place": "Flanders",
+   "era": "early_modern",
+   "tradition": "witchcraft",
+   "motifs": ["witches sabbath", "monsters", "incantation", "circle", "demons", "candlelight", "grotesque", "cabinet painting"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:2012_CSK_04936_0093_follower_of_david_teniers_ii_the_witches_sabbath.jpg",
+   "summary": "*The Witches' Sabbath*, a 17th-century painting by a follower of David Teniers the Younger, in the Flemish demonic-genre tradition.\n\n## Iconography\nAn old witch reads from a magical book within a candlelit chamber swarming with grotesque hybrid demons, toads, and flying monsters. Smoke and apparitions rise around her as a conjuration unfolds, the picture given over to inventive monstrosity.\n\n## Significance\nTeniers and his circle made a speciality of demonic and witchcraft cabinet pictures, descending from Bosch and Bruegel. These scenes treat the [[motif:witches sabbath|sabbath]] as a stage for fantastical invention rather than documentary demonology, satisfying collectors' appetite for the bizarre. The 'follower of' attribution reflects how successful compositions were repeated by the workshop and imitators.\n\n## For artists & game designers\nThe lone reader at a book surrounded by swarming small monsters reads instantly as 'summoning gone large' — quantity of creatures conveys the spell's power.",
+   "citations": [
+    {"text": "Jane P. Davidson, *The Witch in Northern European Art* (1987)."},
+    {"text": "Christie's sale catalogue (2012)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:2012_CSK_04936_0093_follower_of_david_teniers_ii_the_witches_sabbath.jpg"}
+   ],
+   "key_concepts": ["David Teniers", "witches sabbath", "demonic genre", "Flemish painting"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__rosa-witches",
+   "title": "Witches at their Incantations",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Salvator Rosa",
+   "date": "c. 1646 (oil painting)",
+   "place": "Naples / Italy",
+   "era": "early_modern",
+   "tradition": "witchcraft",
+   "motifs": ["incantation", "hanged man", "necromancy", "skeleton", "torchlight", "scroll", "nocturne", "macabre"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Rosa_-_Witches_at_their_Incantations,_about_1646.jpg",
+   "summary": "Salvator Rosa's *Witches at their Incantations* (c. 1646), a horizontal nocturne of necromantic rites, now in the National Gallery, London.\n\n## Iconography\nAcross a frieze-like nocturnal landscape, witches and demons perform grisly rites: a hanged corpse, a skeleton, dismembered limbs, candles, scrolls inscribed with charms, and figures bent over books and instruments. Torchlight picks out the macabre incidents against deep shadow.\n\n## Significance\nRosa, a poet and rebel as well as painter, made witchcraft and necromancy signature themes, cultivating a reputation for the sublime and the sinister. The scattered apparatus — [[motif:scroll|charm-scrolls]], corpses, and bones — draws on classical necromancy (Lucan's Erichtho) as much as contemporary witch-belief, appealing to learned patrons' taste for the dark and erudite.\n\n## For artists & game designers\nA wide, friezelike composition lets you string many small rituals across one canvas, reading like a sequence of vignettes in a single nocturnal scene.",
+   "citations": [
+    {"text": "National Gallery, London, object record."},
+    {"text": "Jane P. Davidson, *The Witch in Northern European Art* (1987)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Rosa_-_Witches_at_their_Incantations,_about_1646.jpg"}
+   ],
+   "key_concepts": ["Salvator Rosa", "necromancy", "nocturne", "incantation"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__ziarnko-sabbat",
+   "title": "Description and Figure of the Witches' Sabbath",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Jan Ziarnko, for Pierre de Lancre",
+   "date": "1613 (engraving)",
+   "place": "France",
+   "era": "early_modern",
+   "tradition": "witchcraft",
+   "motifs": ["witches sabbath", "horned devil throne", "child offering", "banquet", "broom flight", "dancing ring", "cauldron", "numbered key engraving"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Description_et_Figure_du_Sabbat_des_Sorciers_-_Jan_Ziarnko_(1613)._Tableau_de_l%E2%80%99inconstance_des_mauvais_anges_et_demons_by_Pierre_de_Lancre.jpg",
+   "summary": "Jan Ziarnko's large engraving *Description et figure du Sabbat des Sorciers* (1613), the fold-out plate added to Pierre de Lancre's *Tableau de l'inconstance des mauvais anges et démons*.\n\n## Iconography\nA panoramic, numbered scene of the sabbath: the horned Devil enthroned receiving homage, a banquet of the damned, a ring of dancers, a queen and great lords, children offered up, cauldrons, and witches departing through the air on brooms and beasts. A printed key letters and numbers each episode.\n\n## Significance\nDe Lancre, a magistrate who conducted ferocious witch trials in the Basque Labourd, commissioned the plate to make the [[motif:witches sabbath|sabbath]] systematically visible — a near-encyclopedic catalogue of its alleged components. As Stuart Clark notes, such images lent the learned demonology of the sabbath a spurious documentary authority.\n\n## For artists & game designers\nA numbered 'map-key' overlay turns a busy scene into a legible diagram — useful when a single image must convey many simultaneous events.",
+   "citations": [
+    {"text": "Pierre de Lancre, *Tableau de l'inconstance des mauvais anges et démons* (1613)."},
+    {"text": "Stuart Clark, *Thinking with Demons* (1997)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Description_et_Figure_du_Sabbat_des_Sorciers_-_Jan_Ziarnko_(1613)._Tableau_de_l%E2%80%99inconstance_des_mauvais_anges_et_demons_by_Pierre_de_Lancre.jpg"}
+   ],
+   "key_concepts": ["Pierre de Lancre", "Jan Ziarnko", "witches sabbath", "demonology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__malleus-title",
+   "title": "The Burning of Witches (Malleus Maleficarum tradition)",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Anonymous",
+   "date": "16th century (woodcut)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "witchcraft",
+   "motifs": ["execution", "burning at the stake", "witch trial", "flames", "spectators", "malleus maleficarum", "punishment", "woodcut"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Burning_witches_Malleus_Maleficarum_Montague_Summers.jpg",
+   "summary": "A woodcut of witches being burned, reproduced in connection with the *Malleus Maleficarum* (Montague Summers's edition), representing the lethal end of the witch trial.\n\n## Iconography\nCondemned witches are consumed by flames at the stake while officials and onlookers attend. The crude woodcut belongs to the broadsheet tradition that illustrated executions for a popular audience.\n\n## Significance\nThe *Malleus Maleficarum* (\"Hammer of Witches,\" 1486/87) by Heinrich Kramer codified the procedures of witch-hunting and, with the new printing press, spread the persecuting mentality across Europe. Execution woodcuts like this one supplied the public face of that machinery — the [[motif:burning at the stake|stake]] as the inevitable conclusion of accusation. (This particular plate is a later reproduction associated with the text rather than an original 1487 title-page.)\n\n## For artists & game designers\nThe stake-and-crowd composition is the visual shorthand for institutional persecution — the human cost behind the more decorative sabbath fantasies.",
+   "citations": [
+    {"text": "Heinrich Kramer (Institoris), *Malleus Maleficarum* (1486/87)."},
+    {"text": "Montague Summers (ed.), *The Malleus Maleficarum* (1928)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Burning_witches_Malleus_Maleficarum_Montague_Summers.jpg"}
+   ],
+   "key_concepts": ["Malleus Maleficarum", "witch burning", "witch trial", "Heinrich Kramer"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__hopkins-familiars",
+   "title": "Matthew Hopkins, Witch Finder Generall",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Anonymous (publ. Richard Royston)",
+   "date": "1647 (woodcut, frontispiece)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "witchcraft",
+   "motifs": ["witch finder", "familiars", "imps", "named demons", "interrogation", "seated witches", "english witchcraft", "frontispiece"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Matthew_Hopkins_Witch_Finder_Generall_(BM_1868,0808.3233_1).jpg",
+   "summary": "The woodcut frontispiece to Matthew Hopkins's *The Discovery of Witches* (1647), in which the self-styled \"Witch Finder Generall\" presides over two confessing witches and their named familiar spirits.\n\n## Iconography\nHopkins stands at left in cloak and hat; two seated old women name their familiars, which are depicted as small animal imps with grotesque labels — \"Holt,\" \"Jarmara,\" \"Vinegar Tom\" (a greyhound with an ox's head), \"Sack & Sugar,\" \"Newes,\" \"Pyewacket,\" and others. Each creature is captioned.\n\n## Significance\nThe image documents the distinctively English theory of the witch's [[motif:familiars|familiar]] — an animal imp suckled at the witch's mark — that drove Hopkins's East Anglian campaign of 1645–47, the deadliest in English history. The labelled menagerie turned demonology into something like a folk bestiary and remains the iconic image of the English witch-hunt.\n\n## For artists & game designers\nNaming and captioning each familiar creature individualizes a coven's 'pets' and is a tidy template for a companion/summon roster.",
+   "citations": [
+    {"text": "Matthew Hopkins, *The Discovery of Witches* (1647)."},
+    {"text": "Malcolm Gaskill, *Witchfinders* (2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Matthew_Hopkins_Witch_Finder_Generall_(BM_1868,0808.3233_1).jpg"}
+   ],
+   "key_concepts": ["Matthew Hopkins", "familiars", "witch's mark", "English witch-hunt"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__goya-volaverunt",
+   "title": "Volaverunt (They Have Flown), Caprichos 61",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Francisco Goya",
+   "date": "1799 (etching and aquatint)",
+   "place": "Madrid, Spain",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["flight", "levitation", "winged figures", "satire", "los caprichos", "aquatint", "butterfly", "irony"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Plate_61_from_%27Los_Caprichos%27-_They_have_flown_(Volaverunt.)_MET_DP817118.jpg",
+   "summary": "Plate 61 of Francisco Goya's *Los Caprichos* (1799), *Volaverunt* (\"They have flown\"), a satirical etching of bewitched flight.\n\n## Iconography\nA serene young woman rises into the air, balanced on the heads of three crouching, bat-cloaked figures, a butterfly-like shape at her own head. She floats with eerie composure against a blank aquatint sky.\n\n## Significance\nGoya turns the old [[motif:flight|witch-flight]] into Enlightenment satire: the image mocks credulity, vanity, and the giddy 'flightiness' of fashionable society as much as any literal witchcraft. The *Caprichos* deploy witches and demons as instruments of social and political critique, a key moment when witch imagery is repurposed against superstition itself. Scholars read *Volaverunt* alongside Goya's other sabbath and flight plates as ironic, not credulous.\n\n## For artists & game designers\nGoya shows that supernatural levitation reads most uncannily when the figure is calm and the background empty — restraint, not spectacle.",
+   "citations": [
+    {"text": "Francisco Goya, *Los Caprichos* (1799)."},
+    {"text": "Janis Tomlinson, *Goya: A Portrait of the Artist* (2020)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Plate_61_from_%27Los_Caprichos%27-_They_have_flown_(Volaverunt.)_MET_DP817118.jpg"}
+   ],
+   "key_concepts": ["Francisco Goya", "Los Caprichos", "witch flight", "Enlightenment satire"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__goya-linda-maestra",
+   "title": "Linda maestra! (Pretty Teacher!), Caprichos 68",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Francisco Goya",
+   "date": "1799 (etching and aquatint)",
+   "place": "Madrid, Spain",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["broomstick flight", "old and young witch", "initiation", "night flight", "los caprichos", "aquatint", "nude witches", "satire"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Een_goede_leermeesteres_Linda_maestra_(titel_op_object)_Los_Caprichos_(serietitel),_RP-P-1921-2089.jpg",
+   "summary": "Plate 68 of Goya's *Los Caprichos* (1799), *Linda maestra!* (\"Pretty teacher!\"), showing an old witch and a young one flying together on a single broom.\n\n## Iconography\nTwo nude witches, one aged and one youthful, ride a broomstick through a dark sky; an owl flies alongside. The ironic title casts the hag as a 'teacher' instructing her pupil — the broom-flight as a lesson in vice.\n\n## Significance\nThe plate satirizes procuresses and the corruption of the young under the guise of [[motif:broomstick flight|witch initiation]]. Like the rest of the *Caprichos*, it uses the inherited iconography of the night-flying witch as a vehicle for moral and political commentary rather than belief. The pairing of old instructress and young initiate became one of Goya's most reproduced witch designs.\n\n## For artists & game designers\nPairing a mentor and apprentice on one mount compresses a whole relationship — teaching, corruption, lineage — into a single silhouette.",
+   "citations": [
+    {"text": "Francisco Goya, *Los Caprichos* (1799)."},
+    {"text": "Rijksmuseum, object record RP-P-1921-2089."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Een_goede_leermeesteres_Linda_maestra_(titel_op_object)_Los_Caprichos_(serietitel),_RP-P-1921-2089.jpg"}
+   ],
+   "key_concepts": ["Francisco Goya", "Los Caprichos", "broomstick flight", "witch initiation"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__goya-buen-viaje",
+   "title": "Buen viaje (Bon Voyage), Caprichos 64",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Francisco Goya",
+   "date": "1799 (etching and aquatint)",
+   "place": "Madrid, Spain",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["night flight", "winged demon", "darkness", "swarm", "los caprichos", "aquatint", "departure", "satire"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bon_Voyage_(Buen_Viage),_from_The_Caprices_(Los_Caprichos),_plate_64_MET_DP817119.jpg",
+   "summary": "Plate 64 of Goya's *Los Caprichos* (1799), *Buen viaje* (\"Bon voyage\"), depicting a winged demonic figure speeding off into the night with companions.\n\n## Iconography\nA cloaked, winged being launches through pitch darkness, trailed by a knot of indistinct flying figures. The aquatint plunges most of the sheet into black, isolating the airborne shapes against the void.\n\n## Significance\nThe plate belongs to the cluster of *Caprichos* (60–66) devoted to witches and demons departing for or returning from nocturnal mischief. Its ironic farewell salutes the [[motif:night flight|night-flight]] of malign spirits — Goya using the rich blacks of aquatint to evoke the unknowable dark into which superstition projects its terrors. As with the series generally, the target is human folly, not real demons.\n\n## For artists & game designers\nNear-total darkness with only edges of a figure catching light is a powerful way to render menace 'departing' — the unseen is scarier than the shown.",
+   "citations": [
+    {"text": "Francisco Goya, *Los Caprichos* (1799)."},
+    {"text": "Metropolitan Museum of Art, object record."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bon_Voyage_(Buen_Viage),_from_The_Caprices_(Los_Caprichos),_plate_64_MET_DP817119.jpg"}
+   ],
+   "key_concepts": ["Francisco Goya", "Los Caprichos", "night flight", "aquatint"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "witch_prints__oudewater-weighing",
+   "title": "The Witches' Weigh House, Oudewater",
+   "work": "The Visual Culture of Witchcraft, 1450–1820",
+   "creator": "Photograph (Martinvl)",
+   "date": "weigh house 16th c.; modern photograph",
+   "place": "Oudewater, Netherlands",
+   "era": "early_modern",
+   "tradition": "witchcraft",
+   "motifs": ["weighing of witches", "scales", "weigh house", "ordeal", "exoneration", "balance", "dutch witch trials", "architecture"],
+   "rights": "CC BY-SA 4.0 (photo by Martinvl). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Witches_Scale,_Oudewater.jpg",
+   "summary": "A photograph of the historic balance scale at the *Heksenwaag* (Witches' Weigh House) in Oudewater, where suspected witches were weighed to disprove accusations.\n\n## Iconography\nThe great wooden beam balance and weighing platform of the Oudewater weigh house, the institution at the centre of the Dutch 'weighing of witches'.\n\n## Significance\nFolk belief held that witches were unnaturally light — able to fly — so weighing could expose them. Uniquely, Oudewater issued official certificates that an accused person's weight was *normal*, effectively clearing them; reputedly no one weighed there was ever condemned. The [[motif:weighing of witches|weighing ordeal]] thus became, in the Dutch Republic, a tool of exoneration rather than persecution, a notable counter-current in the European witch panic. (This item is a modern photograph of the surviving site, under CC BY-SA, not a historical print.)\n\n## For artists & game designers\nA giant public balance scale is an evocative ordeal-device prop: trial by weight makes for a tense, legible game mechanic.",
+   "citations": [
+    {"text": "Hans de Waardt, on the Oudewater Heksenwaag and Dutch witch trials."},
+    {"text": "Museum de Heksenwaag, Oudewater."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Witches_Scale,_Oudewater.jpg"}
+   ],
+   "key_concepts": ["weighing of witches", "Oudewater", "Heksenwaag", "ordeal"],
+   "summary_status": "authored"
+  }
+ ]
+}

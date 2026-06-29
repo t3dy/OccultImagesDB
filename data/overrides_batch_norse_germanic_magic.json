@@ -1,0 +1,402 @@
+{
+ "_work": {
+   "key": "norse_germanic_magic",
+   "short_id": "NORS",
+   "title": "Norse, Germanic & Northern-European Magic",
+   "creator": "various",
+   "date": "5th–20th c.",
+   "century": 10,
+   "place": "Scandinavia, Iceland, England, and the Germanic North",
+   "region": "Europe",
+   "language": "Old Norse",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "norse_germanic_magic",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Galdrast%C3%B6fum",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["runes", "galdrastafir", "runestone", "amulet", "valknut", "seidr"],
+   "blurb": "The magical material culture of the Germanic and Northern-European world — Icelandic magical staves (galdrastafir) such as the Ægishjálmur and Vegvísir, runestones and curse-stones, runic amulets and gold bracteates, Thor's-hammer pendants, Odin picture-stones, the valknut and triquetra, and the Sámi shaman's drum — surviving in manuscripts, on carved stone, and as museum objects."
+ },
+ "entries": [
+  {
+   "id": "norse_germanic_magic__aegishjalmur",
+   "title": "Ægishjálmur, the Helm of Awe (Lbs 2413 8vo)",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous Icelandic scribe",
+   "date": "18th–19th c. (galdrastafir manuscript Lbs 2413 8vo)",
+   "place": "Iceland",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["aegishjalmur", "helm of awe", "galdrastafir", "magical stave", "radial symmetry", "protection", "icelandic magic", "runic charm"],
+   "rights": "Public domain. National and University Library of Iceland, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lbs_2413_8vo-65-0031v.jpg",
+   "summary": "A drawing of the *Ægishjálmur* — the 'Helm of Awe' or 'Helm of Terror' — from an Icelandic magical-stave manuscript held by the National and University Library of Iceland.\n\n## Iconography\nA radially symmetrical **stave**: from a central point project (typically eight) identical arms ending in tridents or forked, barbed terminals, the whole forming a snowflake-like figure. The design is built from repeated rune-like elements rather than written text.\n\n## Significance\nThe **Ægishjálmur** is the most famous of the Icelandic [[motif:galdrastafir|magical staves]], named from the *aegis*-helm that the dragon Fáfnir claims in the *Fáfnismál* of the Poetic Edda — a power to instil terror and turn aside harm. In the post-medieval Icelandic grimoire tradition it was worn or drawn (sometimes in lead, or pressed to the forehead) for protection and dominance. It belongs to the manuscript magic catalogued by scholars such as Matthías Viðar Sæmundsson and Stephen Flowers.\n\n## For artists & game designers\nThe eight-armed radial trident-glyph is the definitive 'protective sigil' silhouette — instantly readable as a ward and trivially scalable as a tattoo, shield boss, or HUD icon.",
+   "citations": [
+    {"text": "Stephen E. Flowers, *The Galdrabók: An Icelandic Book of Magic* (1989)."},
+    {"text": "*Fáfnismál*, in the *Poetic Edda*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lbs_2413_8vo-65-0031v.jpg"}
+   ],
+   "key_concepts": ["Ægishjálmur", "Helm of Awe", "galdrastafir", "Icelandic magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__vegvisir",
+   "title": "Vegvísir, the Icelandic 'signpost' stave (Lbs 5472 I 4to)",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Jónas Jónasson (1856–1918), copyist",
+   "date": "c. 1910 (Galdrastafir manuscript Lbs 5472 I 4to)",
+   "place": "Iceland",
+   "era": "modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["vegvisir", "galdrastafir", "magical stave", "wayfinding", "eight staves", "protection", "icelandic magic", "compass"],
+   "rights": "Public domain. National and University Library of Iceland, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Vegv%C3%ADsir_-_Icelandic_magical_stave_-_Galdrastafir_manuscript_I_by_J%C3%B3nas_J%C3%B3nasson_-_Lbs_5472_I_4to_-_ca._1910.jpg",
+   "summary": "The *Vegvísir* ('that which shows the way') as drawn in a c. 1910 Icelandic magical-stave manuscript copied by Jónas Jónasson.\n\n## Iconography\nA figure of **eight radiating staves**, each arm distinct and ending in different runic terminals (hooks, crossbars, dots), arranged around a central hub like the spokes of a wheel. Unlike the regular Helm of Awe, each of the eight branches is individually elaborated.\n\n## Significance\nThe **Vegvísir** is a wayfinding stave: the *Huld* manuscript glosses it with the promise that one who carries it 'will never lose his way in storms or bad weather, even when the way is not known.' It is a creature of the post-medieval Icelandic [[motif:galdrastafir|stave]] tradition rather than of the Viking Age, but has become a modern emblem of Norse magic. Its earliest attestations are 19th-century manuscripts such as the *Huld* (1860) and copies like this one.\n\n## For artists & game designers\nA navigation talisman with eight unique arms: a natural 'compass charm' whose asymmetry makes it more ornate and legible than the symmetrical Helm of Awe.",
+   "citations": [
+    {"text": "Justin Foster (trans.), *Huld Manuscript ÍB 383 4to* (2010)."},
+    {"text": "Stephen E. Flowers, *Icelandic Magic* (2016)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Vegv%C3%ADsir_-_Icelandic_magical_stave_-_Galdrastafir_manuscript_I_by_J%C3%B3nas_J%C3%B3nasson_-_Lbs_5472_I_4to_-_ca._1910.jpg"}
+   ],
+   "key_concepts": ["Vegvísir", "galdrastafir", "wayfinding stave", "Icelandic magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__huld-manuscript",
+   "title": "Lukkustafir (luck-staves) from the Huld manuscript",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "After Geir Vigfússon, *Huld* manuscript (ÍB 383 4to)",
+   "date": "after 1860 (Huld manuscript; this rendering later)",
+   "place": "Iceland (Akureyri)",
+   "era": "modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["lukkustafir", "luck staves", "galdrastafir", "huld manuscript", "magical stave", "good fortune", "icelandic magic", "sigil"],
+   "rights": "CC BY 3.0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lukkustafir_Huld_Ms.png",
+   "summary": "*Lukkustafir* — 'luck-staves' — after the *Huld* manuscript, a famous nineteenth-century Icelandic compilation of magical signs.\n\n## Iconography\nA small set of compact **sigils** built from crossed lines, loops, and runic strokes. Each is a self-contained device meant to be inscribed and carried; together they form a row of distinct good-fortune marks.\n\n## Significance\nThe **Huld** manuscript (ÍB 383 4to), compiled by Geir Vigfússon at Akureyri in 1860, is one of the principal late sources for Icelandic [[motif:galdrastafir|magical staves]], gathering the Vegvísir, the Helm of Awe, and dozens of *lukkustafir* and other charms from older lost exemplars. Its *lukkustafir* were drawn for luck and success. The manuscript is the single most influential channel by which Icelandic stave-magic reached the modern world.\n\n## For artists & game designers\nA palette of small, distinct luck-glyphs — ideal as collectible minor charms or as the iconography for a crafting/enchantment menu.",
+   "citations": [
+    {"text": "Justin Foster (trans.), *Huld Manuscript ÍB 383 4to* (2010)."},
+    {"text": "Stephen E. Flowers, *Icelandic Magic* (2016)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lukkustafir_Huld_Ms.png"}
+   ],
+   "key_concepts": ["lukkustafir", "Huld manuscript", "galdrastafir", "luck charm"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__rok-runestone",
+   "title": "The Rök Runestone, Östergötland",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (Viking-Age rune-carver); photograph by L'imaginaire",
+   "date": "early 9th century",
+   "place": "Rök, Östergötland, Sweden",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["runestone", "younger futhark", "rök stone", "riddle", "cipher runes", "memorial", "old norse", "inscription"],
+   "rights": "Public domain (CC0, photo: L'imaginaire). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:R%C3%B6k_runestone_(R%C3%B6k,_%C3%96desh%C3%B6g_Municipality,_%C3%96sterg%C3%B6tland,_Sweden).jpg",
+   "summary": "The Rök Runestone in Östergötland, Sweden, the longest-known runic inscription and the foundational monument of Old Norse literacy.\n\n## Iconography\nA tall granite slab covered on multiple faces with dense lines of **Younger Futhark** runes, including passages in older runes, cipher-runes, and a transposition code. Raised by Varinn in memory of his son Vámóðr, it weaves in allusions to heroes, Theodoric, and cosmic riddles.\n\n## Significance\nThe **Rök stone** (c. 800) is treated as the first piece of written Swedish literature and a key witness to early-medieval Germanic verbal magic and memory-craft. Its deliberate ciphers and riddling structure show runes used not merely to record but to encode and conjure — a learned, almost incantatory deployment of the script. Recent work (Holmberg, Gräslund et al.) reads it against a feared climate catastrophe. It stands at the head of the [[motif:runestone|runestone]] corpus.\n\n## For artists & game designers\nA monument that is itself a puzzle box: ciphered runes and riddles carved on stone — the archetype of an inscribed object the player must decode.",
+   "citations": [
+    {"text": "Bo Ralph & Per Holmberg et al., studies of the Rök inscription (2007–2020)."},
+    {"text": "Elias Wessén, *Runstenen vid Röks kyrka* (1958)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:R%C3%B6k_runestone_(R%C3%B6k,_%C3%96desh%C3%B6g_Municipality,_%C3%96sterg%C3%B6tland,_Sweden).jpg"}
+   ],
+   "key_concepts": ["Rök runestone", "Younger Futhark", "cipher runes", "runic literacy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__stentoften",
+   "title": "The Stentoften Runestone (curse-stone), Sölvesborg",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (Proto-Norse rune-carver); photograph by Helen Simonsson",
+   "date": "c. 600 CE",
+   "place": "Blekinge, Sweden",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["runestone", "curse-stone", "proto-norse", "elder futhark", "haþuwolafR", "magical formula", "blekinge", "inscription"],
+   "rights": "CC BY-SA 4.0 (photo: Helen Simonsson). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Stentoftenstenen_runsten_i_kyrkan_i_S%C3%B6lvesborg_DR357_S%C3%B6lvesborg_14_1_3_Blekinge.jpg",
+   "summary": "The Stentoften stone, one of the Blekinge curse-stones, now sheltered in the church at Sölvesborg.\n\n## Iconography\nA dark stone bearing a Proto-Norse inscription in a mix of **Elder** and transitional **runes**, recording a gift of fields/cattle by HaþuwolafR and closing with a protective curse against anyone who would break or damage the monument.\n\n## Significance\nStentoften belongs with the **Björketorp** and Gummarp stones as the Blekinge group of [[motif:runestone|curse-stones]] (c. 600 CE), among the clearest surviving examples of operative runic magic: the inscription pronounces ruin upon a violator and contains the cryptic, much-discussed magical word-formula shared with Björketorp. These stones are central evidence in the debate over whether runes carried inherent magical force, treated by Krause, McKinnell, and others.\n\n## For artists & game designers\nA literal cursed object: a stone whose carved words promise doom to whoever disturbs it — the template for a warded relic or tomb inscription.",
+   "citations": [
+    {"text": "Wolfgang Krause & Herbert Jankuhn, *Die Runeninschriften im älteren Futhark* (1966)."},
+    {"text": "John McKinnell et al., *Runes, Magic and Religion* (2004)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Stentoftenstenen_runsten_i_kyrkan_i_S%C3%B6lvesborg_DR357_S%C3%B6lvesborg_14_1_3_Blekinge.jpg"}
+   ],
+   "key_concepts": ["Stentoften stone", "curse-stone", "Proto-Norse runes", "runic magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__bjorketorp",
+   "title": "The Björketorp Runestone (curse-stone), Blekinge",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (Proto-Norse rune-carver); photograph by Harriks",
+   "date": "c. 600–700 CE",
+   "place": "Blekinge, Sweden",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["runestone", "curse-stone", "proto-norse", "elder futhark", "magical formula", "standing stone", "blekinge", "inscription"],
+   "rights": "CC BY-SA 3.0 (photo: Harriks). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bj%C3%B6rketorpstenen.jpg",
+   "summary": "The Björketorp stone, a towering Proto-Norse curse-stone standing within a stone setting in Blekinge, Sweden.\n\n## Iconography\nA tall, rough monolith carved with Elder/transitional **runes** on two faces. One face carries the cryptic word *uþarba-spá* and the warning that a 'prophecy of misfortune' lies hidden; the other pronounces that whoever breaks the monument will die by 'insidious death'.\n\n## Significance\n**Björketorp** is the most dramatic of the Blekinge [[motif:runestone|curse-stones]], sharing a near-identical magical formula with Stentoften. Its explicit threat — ruin and death to the violator — is a centerpiece of the argument that early runic writing could be a vehicle of binding magic and malediction. The standing stone's monumental scale within a ritual stone-setting reinforces its apotropaic, boundary-marking function. It is discussed at length by Krause, Antonsen, and McKinnell.\n\n## For artists & game designers\nA menhir that curses the unwary — towering, weathered, inscribed with a death-threat: a ready-made 'do not disturb' landmark for a haunted site.",
+   "citations": [
+    {"text": "Wolfgang Krause & Herbert Jankuhn, *Die Runeninschriften im älteren Futhark* (1966)."},
+    {"text": "Elmer H. Antonsen, *Runes and Germanic Linguistics* (2002)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bj%C3%B6rketorpstenen.jpg"}
+   ],
+   "key_concepts": ["Björketorp stone", "curse-stone", "Proto-Norse runes", "malediction"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__lindholm-amulet",
+   "title": "The Lindholm Amulet (runic bone charm)",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (Proto-Norse)",
+   "date": "2nd–4th century CE",
+   "place": "Skåne, Sweden",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["runic amulet", "bone amulet", "elder futhark", "alu", "proto-norse", "magical formula", "erilaz", "charm"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lindholmenamuletten.jpg",
+   "summary": "The Lindholm 'amulet' (Lindholmen), a curved piece of bone incised with one of the earliest runic magical inscriptions.\n\n## Iconography\nA long, narrow strip of **bone** carved with a single line of **Elder Futhark** runes. The text opens with the rune-master's self-declaration (*ek erilaz sa wilagaz hateka* — 'I, the eril, am called the wily one') and closes with a run of repeated runes and the magic word **alu**.\n\n## Significance\nThe **Lindholm amulet** is a key early witness to runic magic. The title *erilaz* (rune-master) and the formulaic word [[motif:alu|*alu*]] — variously linked to ale, protection, ecstasy, or taboo — recur on bracteates and amulets across the Migration-period North. The string of eight *a*-runes and three *t*-runes is widely read as a numerically charged magical sequence. It is a touchstone in the scholarship of operative runes (Krause, Flowers, MacLeod & Mees).\n\n## For artists & game designers\nA carved bone strip bearing a boast and a power-word: the prototype of the inscribed personal charm a caster carries on the body.",
+   "citations": [
+    {"text": "Mindy MacLeod & Bernard Mees, *Runic Amulets and Magic Objects* (2006)."},
+    {"text": "Stephen E. Flowers, *Runes and Magic* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lindholmenamuletten.jpg"}
+   ],
+   "key_concepts": ["Lindholm amulet", "alu formula", "erilaz", "runic magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__kvinneby-amulet",
+   "title": "The Kvinneby Amulet (copper runic charm), Öland",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (Viking Age); photograph by Ola Myrin, Statens historiska museum",
+   "date": "11th century",
+   "place": "Öland, Sweden",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["runic amulet", "copper amulet", "thor", "younger futhark", "protective charm", "fish engraving", "viking age", "incantation"],
+   "rights": "CC BY 4.0 (Ola Myrin, Statens historiska museum). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kvinneby_amulet_A_-_HST_DIG55036_original.jpg",
+   "summary": "The Kvinneby amulet, an eleventh-century copper plate from Öland incised with a runic protective spell, in the Swedish History Museum.\n\n## Iconography\nA small square **copper** plaque pierced for suspension, its faces crowded with **Younger Futhark** runes and a simple engraved image of a **fish**. The runes spell out a charm invoking the god **Thor** and his hammer to shield the bearer from a being named *þurs* (a hostile spirit) and from evil.\n\n## Significance\nThe **Kvinneby amulet** is among the richest Viking-Age verbal charms, a rare survival of explicitly pagan protective magic naming [[motif:thor|Thor]] and asking that 'lightning hold all evil away from Bófi.' It shows the continuity between runic amulets and the later Christian and folk charm traditions, and is debated for its exact reading by scholars including Lena Peterson and Bernard Mees.\n\n## For artists & game designers\nA pocket metal ward invoking a thunder-god against a named demon, complete with a little engraved fish — a vivid, specific protective talisman.",
+   "citations": [
+    {"text": "Mindy MacLeod & Bernard Mees, *Runic Amulets and Magic Objects* (2006)."},
+    {"text": "Statens historiska museum, Stockholm."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kvinneby_amulet_A_-_HST_DIG55036_original.jpg"}
+   ],
+   "key_concepts": ["Kvinneby amulet", "Thor invocation", "runic charm", "Viking-Age magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__mjolnir-amulet",
+   "title": "Thor's-hammer (Mjölnir) silver pendant",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (Viking Age); recorded by the Portable Antiquities Scheme (Dot Boughton)",
+   "date": "early medieval (Viking Age, 9th–11th c.)",
+   "place": "England (Danelaw) / Scandinavia",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["mjolnir", "thor's hammer", "silver pendant", "amulet", "apotropaic", "viking age", "pagan symbol", "protection"],
+   "rights": "CC BY-SA 2.0 (Portable Antiquities Scheme, Dot Boughton). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:LANCUM-_,_Early_Medieval_silver_pendant_%27Mjolnir%27_(FindID_211837).jpg",
+   "summary": "An early-medieval silver Thor's-hammer pendant recorded by the Portable Antiquities Scheme, a wearable emblem of the god Thor.\n\n## Iconography\nA cast **silver** pendant in the stylised shape of **Mjölnir**, Thor's hammer — a short-handled, broad-headed hammer worn inverted on a suspension loop, often decorated with punched or interlace ornament.\n\n## Significance\nThe **Thor's-hammer** amulet is the signal object of Viking-Age devotion to [[motif:thor|Thor]], worn for protection and as a marker of pagan identity, frequently in pointed contrast to the Christian cross during the conversion period (some moulds even cast both at once). Hundreds are known from across Scandinavia and the Danelaw. As an apotropaic object the hammer channelled Thor's storm-power to guard the wearer, echoing the same invocation seen on the Kvinneby amulet.\n\n## For artists & game designers\nThe hammer-pendant is the most recognisable Norse 'faith token' — a compact silver icon of divine protection and tribal identity, ideal as a quest reward or class emblem.",
+   "citations": [
+    {"text": "Jörn Staecker, 'Thor's Hammer: Symbol of Christianization and Political Delusion,' *Lund Archaeological Review* (1999)."},
+    {"text": "Portable Antiquities Scheme, FindID 211837."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:LANCUM-_,_Early_Medieval_silver_pendant_%27Mjolnir%27_(FindID_211837).jpg"}
+   ],
+   "key_concepts": ["Mjölnir", "Thor's hammer", "Viking amulet", "apotropaic pendant"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__gold-bracteate",
+   "title": "Gold bracteates from Over Hornbæk (Nationalmuseet)",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (Migration Period); photograph by Marie-Lan Nguyen",
+   "date": "5th–6th century CE",
+   "place": "Denmark",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["gold bracteate", "migration period", "odin", "runic inscription", "alu", "pendant", "stamped gold", "amulet"],
+   "rights": "Public domain (photo: Marie-Lan Nguyen). Nationalmuseet, Copenhagen, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bracteates_Over_Hornb%C3%A6k_Nationalmuseet.jpg",
+   "summary": "Migration-period gold bracteates from Over Hornbæk, Denmark, in the National Museum of Denmark — stamped gold pendants that often carry runic magical words.\n\n## Iconography\nThin discs of **gold** stamped in relief and fitted with a loop and beaded rim for wearing. The imagery typically shows a large male head over a horse or beast, widely read as **Odin** as healer, sometimes accompanied by birds and short **runic** legends.\n\n## Significance\n**Gold bracteates** (5th–6th c.) are a major corpus of early Germanic amuletic art. Many bear the magic word [[motif:alu|*alu*]] or other runic formulae, and the recurring 'rider/head-and-horse' motif is interpreted as Odin healing Baldr's foal — the same scene as the later Merseburg Charm. They fuse Roman medallion form with Northern myth and runic magic, and are catalogued in the monumental *Ikonographischer Katalog* (IK) of Hauck and colleagues.\n\n## For artists & game designers\nStamped gold pendants picturing a god and a horse, ringed with runes: luxurious wearable charms that double as miniature mythological scenes.",
+   "citations": [
+    {"text": "Karl Hauck et al., *Die Goldbrakteaten der Völkerwanderungszeit* (IK, 1985–89)."},
+    {"text": "Nationalmuseet, Copenhagen."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bracteates_Over_Hornb%C3%A6k_Nationalmuseet.jpg"}
+   ],
+   "key_concepts": ["gold bracteate", "Migration Period", "alu formula", "Odin iconography"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__franks-casket",
+   "title": "The Franks Casket — front-left panel (British Museum)",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (Anglo-Saxon Northumbria)",
+   "date": "early 8th century",
+   "place": "Northumbria, England",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["franks casket", "whalebone", "anglo-saxon runes", "wayland the smith", "carved panel", "riddle inscription", "germanic legend", "casket"],
+   "rights": "Public domain. British Museum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Franks_Casket_vorne_links.jpg",
+   "summary": "A panel of the Franks Casket (Auzon Casket), an early-eighth-century Anglo-Saxon whalebone box carved with runic inscriptions and legendary scenes, in the British Museum.\n\n## Iconography\nThe **front-left scene** shows **Wayland the Smith** at his forge amid the bodies of his vengeance, beside the Adoration of the Magi, the two flanked and framed by a border of **Anglo-Saxon (Anglo-Frisian) runes** that name the whalebone and tell its origin in alliterative verse.\n\n## Significance\nThe **Franks Casket** is the densest surviving juxtaposition of Germanic-pagan legend, Roman and Christian story, and runic writing — its inscriptions running in riddling, sometimes reversed and cipher-like script. Carved from the bone of a stranded whale, the box itself is treated almost as a charged object whose runes both narrate and, some argue, ward. It is a central monument for the study of [[motif:runes|runic]] literacy and Northumbrian visual culture, studied by Webster, Page, and others.\n\n## For artists & game designers\nA carved bone box whose every panel tells a different mythic story in pictures and runes — a model for a lore-dense artifact the player reads scene by scene.",
+   "citations": [
+    {"text": "Leslie Webster, *The Franks Casket* (British Museum Objects in Focus, 2012)."},
+    {"text": "R. I. Page, *An Introduction to English Runes* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Franks_Casket_vorne_links.jpg"}
+   ],
+   "key_concepts": ["Franks Casket", "Anglo-Saxon runes", "Wayland the Smith", "whalebone carving"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__tjangvide-stone",
+   "title": "Odin riding Sleipnir — Gotland picture stone (reconstruction)",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (Viking-Age Gotland); rendering by Becherel",
+   "date": "8th–9th century (stone); modern rendering",
+   "place": "Gotland, Sweden",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["picture stone", "odin", "sleipnir", "eight-legged horse", "valhalla", "gotland", "valkyrie", "norse myth"],
+   "rights": "CC BY-SA 3.0 (Becherel). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Vikings._Odin_Riding_his_Eight_Legs_Horse,_Sleipnir.jpg",
+   "summary": "A rendering of the Gotland picture-stone scene of Odin arriving in the otherworld on his eight-legged horse Sleipnir.\n\n## Iconography\nA rider on an **eight-legged horse** — **Sleipnir** — approaches a hall where a figure (often read as a **valkyrie**) raises a drinking horn in welcome; below, a ship under sail carries the dead. The composition is the classic upper register of the Gotland image-stones.\n\n## Significance\nThe scene depicts **Odin** and Sleipnir in a journey to **Valhalla**, the iconographic core of the Viking-Age picture stones of Gotland (Ardre VIII, Tjängvide, and others). These carved limestone slabs are primary visual evidence for the mythology that underlies Norse magic — Odin as the rune-winning, seiðr-knowing god — and for the cult of the slain. They are studied by Lindqvist's foundational *Gotlands Bildsteine* and by later scholars such as Andrén.\n\n## For artists & game designers\nThe eight-legged horse bearing a rider to a horn-bearing welcomer is the definitive 'journey to the afterworld' image — a complete mythic tableau in one silhouette.",
+   "citations": [
+    {"text": "Sune Lindqvist, *Gotlands Bildsteine* (1941–42)."},
+    {"text": "Anders Andrén, *Tracing Old Norse Cosmology* (2014)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Vikings._Odin_Riding_his_Eight_Legs_Horse,_Sleipnir.jpg"}
+   ],
+   "key_concepts": ["Gotland picture stone", "Sleipnir", "Odin", "Valhalla"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__tjangvide-detail",
+   "title": "Ardre VIII picture stone — Odin and Sleipnir (detail)",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (Viking-Age Gotland)",
+   "date": "8th–9th century",
+   "place": "Ardre, Gotland, Sweden",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["picture stone", "ardre stone", "odin", "sleipnir", "eight-legged horse", "gotland", "carved limestone", "norse myth"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ardre_Odin_Sleipnir.jpg",
+   "summary": "A detail of the Odin-and-Sleipnir scene from the Ardre VIII picture stone of Gotland, one of the actual carved monuments behind the familiar reconstruction.\n\n## Iconography\nThe weathered limestone surface shows, in low relief, the rider on the **eight-legged horse** moving toward a hall, with a welcoming figure and interlaced ornament filling the field. The carving is shallow and abraded, typical of the surviving stones.\n\n## Significance\nThe **Ardre VIII** stone (from Ardre church, Gotland) is among the most reproduced of the [[motif:picture stone|Gotland picture stones]], its Odin/Sleipnir register supplying the standard image of the god's otherworld ride. As a genuine eighth–ninth-century object it grounds the mythological iconography in real Viking-Age stone-carving, and its panels also depict scenes read as the Völund (Wayland) legend. It is documented in Lindqvist's corpus.\n\n## For artists & game designers\nThe real, eroded stone behind the clean reconstruction — useful as a weathered-relic texture reference where the myth is half-legible in the rock.",
+   "citations": [
+    {"text": "Sune Lindqvist, *Gotlands Bildsteine* (1941–42)."},
+    {"text": "Statens historiska museum, Gotland picture stones."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ardre_Odin_Sleipnir.jpg"}
+   ],
+   "key_concepts": ["Ardre VIII stone", "Gotland picture stone", "Sleipnir", "Odin"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__stora-hammars",
+   "title": "Stora Hammars picture stones, Lärbro, Gotland",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (Viking-Age Gotland); photograph by Carl Gustaf Rosenberg",
+   "date": "8th–9th century",
+   "place": "Lärbro, Gotland, Sweden",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["picture stone", "stora hammars", "valknut", "odin", "blood eagle", "human sacrifice", "gotland", "norse myth"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bildstenarna_Stora_Hammars_2-3_-_KMB_-_16001000022037.jpg",
+   "summary": "Picture stones from Stora Hammars at Lärbro, Gotland — among the most striking Viking-Age carvings, including a famous scene bearing the valknut.\n\n## Iconography\nTall limestone slabs carved in registers with **ships**, warriors, and ritual scenes. The renowned Stora Hammars I panel shows a figure being sacrificed over an altar beside a hanged man, a bird, and the three-triangle **valknut** — widely read as a scene of cultic death dedicated to Odin.\n\n## Significance\nThe **Stora Hammars** stones are key visual evidence for the darker, sacrificial side of Odinic religion and its magic: the [[motif:valknut|valknut]] appears precisely where the imagery suggests death-offering, supporting its interpretation as Odin's 'knot of the slain.' Together with the spear, the hanged figure, and the eagle, the scene connects to seiðr, war-magic, and the cult of the fallen. The stones are foundational to Lindqvist's and Andrén's work on Gotlandic cosmology.\n\n## For artists & game designers\nA carved narrative of ritual death under the valknut: the canonical reference for depicting an Odinic sacrifice or a grim battlefield rite.",
+   "citations": [
+    {"text": "Sune Lindqvist, *Gotlands Bildsteine* (1941–42)."},
+    {"text": "Anders Andrén, *Tracing Old Norse Cosmology* (2014)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bildstenarna_Stora_Hammars_2-3_-_KMB_-_16001000022037.jpg"}
+   ],
+   "key_concepts": ["Stora Hammars stones", "valknut", "Odinic sacrifice", "Gotland picture stone"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__valknut",
+   "title": "The Valknut — Odin's knot of the slain (symbol)",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (symbol diagram, after Viking-Age models)",
+   "date": "diagram after 8th–10th c. originals",
+   "place": "Scandinavia",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["valknut", "three triangles", "odin", "knot of the slain", "interlace", "apotropaic", "norse symbol", "death cult"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Valknut_Platoon.png",
+   "summary": "A clean diagram of the *valknut*, the interlocking three-triangle symbol associated with Odin and the cult of the dead.\n\n## Iconography\nThree interlocking **triangles** drawn as a single continuous (or three-linked) figure — a Borromean or unicursal knot. The form is geometric and abstract, with no figural content.\n\n## Significance\nThe **valknut** ('knot of the slain', a modern coinage) appears on Gotland picture stones such as [[motif:stora hammars|Stora Hammars]] and on the Oseberg ship's bedpost, almost always in contexts of death and sacrifice, which is why it is read as a sign of Odin's power to bind and loose the fate of the fallen. Its exact ancient meaning is unrecorded, so scholars stay cautious, but it has become one of the most widely used emblems of Norse magical religion. Its triple-triangle structure invites comparison with other knot-symbols of binding.\n\n## For artists & game designers\nA single elegant interlace glyph reading instantly as 'death/fate magic' — endlessly usable as a faction mark, ward, or rune-tattoo.",
+   "citations": [
+    {"text": "Hilda Ellis Davidson, *Gods and Myths of Northern Europe* (1964)."},
+    {"text": "Tom Hellers, *Valknútr: Das Dreiecksymbol der Wikingerzeit* (2012)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Valknut_Platoon.png"}
+   ],
+   "key_concepts": ["valknut", "knot of the slain", "Odin", "apotropaic symbol"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__triquetra",
+   "title": "The Triquetra — triple-knot Germanic symbol",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Anonymous (symbol diagram)",
+   "date": "diagram after early-medieval models",
+   "place": "Northern Europe",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["triquetra", "trinity knot", "interlace", "three", "apotropaic", "germanic symbol", "knotwork", "amulet"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Triquetra_ShadowHunter.jpg",
+   "summary": "The *triquetra* or three-cornered knot, an interlace symbol found on Germanic runestones, coins, and later as an apotropaic sign.\n\n## Iconography\nThree overlapping **vesica** arcs forming a continuous trefoil **knot**, sometimes bound by an enclosing circle. Drawn as a single unbroken line, it has no beginning or end.\n\n## Significance\nThe **triquetra** appears on Viking-Age objects and runestones (and on the Harald Bluetooth / 'Hand of God' coinage) and in insular manuscript art, where its unbroken three-fold form lent itself to ideas of completeness and protection. In the Northern context it sits alongside the [[motif:valknut|valknut]] as a triadic interlace charm, later absorbed into Christian Trinity symbolism and, more recently, into modern Norse-pagan and esoteric revival iconography. Like much knotwork its protective use is partly attested, partly reconstructed.\n\n## For artists & game designers\nA single endless three-loop knot: a versatile 'eternity/binding' glyph that reads as sacred across pagan and Christian settings alike.",
+   "citations": [
+    {"text": "Hilda Ellis Davidson, *Gods and Myths of Northern Europe* (1964)."},
+    {"text": "George Bain, *Celtic Art: The Methods of Construction* (1951)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Triquetra_ShadowHunter.jpg"}
+   ],
+   "key_concepts": ["triquetra", "trinity knot", "interlace", "apotropaic symbol"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__zaubertrommel",
+   "title": "Sámi shaman's drum (after Ernst Manker)",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "After Ernst Manker (drawing of a Sámi noaidi drum)",
+   "date": "drawing 20th c. (after pre-modern Sámi drums)",
+   "place": "Sápmi (Lapland), northern Scandinavia",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": ["sami drum", "noaidi", "shamanism", "runebomme", "drum membrane diagram", "cosmology", "divination", "trance"],
+   "rights": "Public domain (after Ernst Manker). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:S%C3%A1mi_mythology_shaman_drum_Samisk_mytologi_schamantrumma_019.png",
+   "summary": "A diagram of a Sámi shaman's drum (*goavddis* / runebomme) after the ethnographer Ernst Manker, showing the painted figures of the drumhead.\n\n## Iconography\nThe oval **drum membrane** is covered with red-painted **figures** arranged in zones — gods, the sun, animals, dwellings, and the worlds of the cosmos — over which a marker (the *árpa*) jumped as the drum was struck, its resting place read as an omen.\n\n## Significance\nThe **noaidi** (Sámi shaman) used the drum both for divination and to induce the trance in which the soul journeyed between worlds — a living Northern-European shamanic practice long compared with Norse [[motif:seidr|seiðr]]. From the 17th century missionaries confiscated and burned hundreds of drums; Manker's twentieth-century catalogue is the principal record of their painted cosmologies. The drum is the central instrument of indigenous Sámi religion and a key comparandum for reconstructing Old Norse magic.\n\n## For artists & game designers\nA painted drumhead that is itself a map of the cosmos and an oracle device — strike it and read where the marker lands: a complete divination mechanic in one object.",
+   "citations": [
+    {"text": "Ernst Manker, *Die lappische Zaubertrommel* (1938–50)."},
+    {"text": "Neil Price, *The Viking Way: Magic and Mind in Late Iron Age Scandinavia* (2002)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:S%C3%A1mi_mythology_shaman_drum_Samisk_mytologi_schamantrumma_019.png"}
+   ],
+   "key_concepts": ["Sámi drum", "noaidi", "shamanic divination", "seiðr comparison"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "norse_germanic_magic__futhark",
+   "title": "Younger Futhark runic row",
+   "work": "Norse, Germanic & Northern-European Magic",
+   "creator": "Klafui (Swedish Wikipedia), diagram",
+   "date": "diagram after Viking-Age runic rows",
+   "place": "Scandinavia",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": ["futhark", "runic alphabet", "younger futhark", "rune row", "script", "old norse", "runic magic", "diagram"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Runrad02.jpg",
+   "summary": "A diagram of a Norse runic row (futhark), the alphabet that underlies all Germanic runic magic and inscription.\n\n## Iconography\nA columned chart of **runes** with their names and sound-values — the angular characters designed for cutting into wood, bone, and stone, named in order from *fe / fehu* onward, which gives the row its name *fuþark*.\n\n## Significance\nThe **futhark** is the script-system whose very letters were credited with power: each rune bore a name and a meaning (wealth, ice, hail, the god Týr), and Old Norse texts such as *Hávamál* and *Sigrdrífumál* describe runes that heal, bind, curse, and protect. The Elder Futhark of the [[motif:runestone|early inscriptions]] gave way to the 16-character Younger Futhark of the Viking Age. Understanding the rune-row is the precondition for reading every amulet, bracteate, and curse-stone in this collection.\n\n## For artists & game designers\nThe master key: a legible rune chart for building authentic inscriptions, spell-glyphs, or a runic 'language' system in a game.",
+   "citations": [
+    {"text": "R. I. Page, *Runes* (British Museum, 1987)."},
+    {"text": "*Hávamál* and *Sigrdrífumál*, in the *Poetic Edda*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Runrad02.jpg"}
+   ],
+   "key_concepts": ["futhark", "runic alphabet", "Younger Futhark", "rune names"],
+   "summary_status": "authored"
+  }
+ ]
+}

@@ -1,0 +1,492 @@
+{
+ "_work": {
+   "key": "lot_books_oracles",
+   "short_id": "LOTB",
+   "title": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "various",
+   "date": "1st c. – 20th c.",
+   "century": 16,
+   "place": "Europe",
+   "region": "Europe",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "divination",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "lot_books_oracles",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Fortune-telling",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["lot-book", "wheel of fortune", "geomancy", "bibliomancy", "dice oracle", "fortune-telling"],
+   "blurb": "The literature and apparatus of fortune by lot, from antiquity to the modern parlour: Sigismondo Fanti's printed lot-book Triompho di Fortuna with its spinning Rotae, the German Losbuch of Konrad Bollstatter, the medieval Wheel of Fortune, the sixteen geomantic figures of 'ilm al-raml and its Malagasy cousin sikidy, the Circle of Petosiris (the prognostic Sphere of Life and Death), astragalomantic knucklebones and the Roman dodecahedron, Sibylline prophecy and the Sibyls, the I Ching's binary hexagrams, the Lenormand fortune-cards, and the spiritualist talking board."
+ },
+ "entries": [
+  {
+   "id": "lot_books_oracles__fanti-triompho-title",
+   "title": "Triompho di Fortuna — Title Page (Sigismondo Fanti)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Sigismondo Fanti (woodcut after a design attrib. Baldassare Peruzzi)",
+   "date": "1526 (printed Venice)",
+   "place": "Venice / Ferrara, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["lot-book", "wheel of fortune", "fortuna", "virtus and voluptas", "title woodcut", "globe", "clock tower", "ferrara"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Triompho-fortuna.jpg",
+   "summary": "The elaborate title-page woodcut of Sigismondo Fanti's *Triompho di Fortuna* (Venice, 1526), one of the great printed fortune-telling lot-books of the Italian Renaissance.\n\n## Iconography\nBeneath the red title a vast turning globe or drum dominates the page; the figures *Virtus* and *Voluptas* (Virtue and Pleasure) are named above, while nude genii heave at the wheel of Fortune below. At right rises an astronomical clock-tower with a zodiacal dial; an aged astrologer kneels with his instruments at lower left. The whole composition allegorises the contest of virtue, pleasure, and chance that the book proposes to read.\n\n## Significance\nFanti's *Triompho* is a sortilege book: the reader poses one of a fixed set of questions and is sent, by dice or chance, through a chain of [[motif:wheel of fortune|wheels]] (*rote*), houses, astrologers, and prophets to a versified answer. It belongs to the same family as Lorenzo Spirito's *Libro delle Sorti* but is more lavishly astrological. The design is traditionally connected to Baldassare Peruzzi, and the book is dedicated, in its grandeur, to the courts of Italy.\n\n## For artists & game designers\nA ready-made 'oracle engine' frontispiece — globe, named virtues, clockwork zodiac — perfect as the cover of an in-game book of fate.",
+   "citations": [
+    {"text": "Sigismondo Fanti, *Triompho di Fortuna* (Venice, 1526)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Triompho-fortuna.jpg"}
+   ],
+   "key_concepts": ["Triompho di Fortuna", "Sigismondo Fanti", "lot-book", "wheel of fortune"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__fanti-triompho-king",
+   "title": "Rota della Charità & Rota della Fede (Triompho di Fortuna)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Sigismondo Fanti",
+   "date": "1526",
+   "place": "Venice / Ferrara, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["lot-book", "rota", "wheel of fortune", "virtue wheels", "charity", "faith", "answer-wheel", "woodcut"],
+   "rights": "CC0 / Public domain. The Metropolitan Museum of Art. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Triompho_di_Fortuna_MET_DP108980.jpg",
+   "summary": "A double-page opening from Fanti's *Triompho di Fortuna* (1526) showing two answer-wheels, the *Rota della Charità* and the *Rota della Fede* (the Wheels of Charity and of Faith), flanked by attendant sages (Metropolitan Museum of Art).\n\n## Iconography\nEach page carries a paired set of [[motif:rota|wheels]]: an upper figured wheel with a virtue personified at its hub, and a lower dense ring of numbered or lettered cells. Worthies and prophets stand in the margins, named in cartouches. The reader, directed here from the question-tables, spins or reads off the ring to find the cell that yields the next step toward an answer.\n\n## Significance\nThe *rote* are the working machinery of the lot-book: a randomising lookup table dressed as an allegorical wheel of Fortune. By naming the wheels for the theological virtues, Fanti folds a moral cosmology into the mechanics of chance, so that consulting Fortune becomes a passage through Faith, Charity, and the rest. It is a vivid witness to how Renaissance print turned divination into an interactive, navigable system.\n\n## For artists & game designers\nA literal spin-the-wheel UI from 1526 — concentric numbered rings with a themed hub, directly usable as a randomiser interface.",
+   "citations": [
+    {"text": "Sigismondo Fanti, *Triompho di Fortuna* (1526)."},
+    {"text": "The Metropolitan Museum of Art (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Triompho_di_Fortuna_MET_DP108980.jpg"}
+   ],
+   "key_concepts": ["Triompho di Fortuna", "rota", "answer-wheel", "lot-book mechanics"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__fanti-triompho-astrologer",
+   "title": "Domanda (Question) Pages — Triompho di Fortuna",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Sigismondo Fanti",
+   "date": "1526",
+   "place": "Venice / Ferrara, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["lot-book", "question table", "domanda", "sortilege", "small woodcuts", "letter index", "fortune-telling", "typography"],
+   "rights": "CC0 / Public domain. The Metropolitan Museum of Art. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Triompho_di_Fortuna_MET_DP155744.jpg",
+   "summary": "An opening of *Domande* (questions) from Fanti's *Triompho di Fortuna* (1526), the index by which a querent enters the lot-book (Metropolitan Museum of Art).\n\n## Iconography\nThe text is set as numbered *DOMANDA* entries — 'Se il paese della donna haura victoria o sera vinta', 'Se la phisonomia de l'huomo e buona o no' — each followed by an instruction such as *Va alla Fortuna di Libico alla lettera E*, with a small marginal woodcut. The reader finds their question, then is dispatched by letter and name into the wheels and houses that follow.\n\n## Significance\nThese question-tables are the entry layer of the lot-book's algorithm: a fixed menu of fortunes (love, victory, journeys, character, life and death) cross-referenced into the [[motif:rota|wheels]]. The form descends from the medieval *Losbücher* and Lorenzo Spirito, and shows how thoroughly the genre systematised divination into a branching, page-jumping procedure long before any mechanical computer.\n\n## For artists & game designers\nA genuine 16th-century 'dialogue tree': pick a question, follow the letter, jump to the result — a dating-from-1526 template for branching oracle UX.",
+   "citations": [
+    {"text": "Sigismondo Fanti, *Triompho di Fortuna* (1526)."},
+    {"text": "The Metropolitan Museum of Art (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Triompho_di_Fortuna_MET_DP155744.jpg"}
+   ],
+   "key_concepts": ["Triompho di Fortuna", "sortilege", "question-table", "lot-book"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__fanti-triompho-zodiac",
+   "title": "Rota del Dio d'Amore — Triompho di Fortuna",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Sigismondo Fanti",
+   "date": "1526",
+   "place": "Venice / Ferrara, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["lot-book", "rota", "wheel", "god of love", "zodiac wheel", "named philosophers", "plotinus", "eusebius"],
+   "rights": "CC0 / Public domain. The Metropolitan Museum of Art. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Triompho_di_Fortuna_MET_DP155745.jpg",
+   "summary": "A page from Fanti's *Triompho di Fortuna* (1526) bearing the *Rota del Dio d'Amore* (Wheel of the God of Love) above a zodiacal wheel, attended by named sages including Plotino and Eusebio (Metropolitan Museum of Art).\n\n## Iconography\nThe upper [[motif:rota|wheel]] frames a scene of the God of Love at its hub, its rim a dense band of inscribed cells; a lower wheel is marked with the [[motif:zodiac|zodiac]] and further numbered divisions. In the corners stand authorities — Plotinus, Eusebius, and others — named to lend the oracle classical weight.\n\n## Significance\nNaming a wheel for the *Dio d'Amore* and pairing it with the zodiac shows how Fanti distributed the querent's possible fates across a cosmos of love, virtue, and the stars. The summoned philosophers act as guarantors of the answer, a print-era version of consulting the ancients. It is among the most decorative of the book's many wheels and a fine example of the lot-book as an astrological-allegorical machine.\n\n## For artists & game designers\nA themed result-wheel (Love) ringed by named 'experts' — a model for flavourful randomiser screens that cite in-world authorities.",
+   "citations": [
+    {"text": "Sigismondo Fanti, *Triompho di Fortuna* (1526)."},
+    {"text": "The Metropolitan Museum of Art (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Triompho_di_Fortuna_MET_DP155745.jpg"}
+   ],
+   "key_concepts": ["Triompho di Fortuna", "Wheel of the God of Love", "zodiac wheel", "lot-book"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__bollstatter-losbuch",
+   "title": "Bollstatter Losbuch (Cgm 312)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Konrad Bollstatter",
+   "date": "later 15th c.",
+   "place": "Augsburg, German lands",
+   "era": "medieval",
+   "tradition": "divination",
+   "motifs": ["losbuch", "lot-book", "fortune-wheel", "manuscript", "vernacular oracle", "prophet pointers", "augsburg", "rubrication"],
+   "rights": "Public domain. Bayerische Staatsbibliothek. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cgm312_bollstatter.jpg",
+   "summary": "A page of the *Losbuch* of Konrad Bollstatter (Munich, Bayerische Staatsbibliothek, Cgm 312), a German vernacular lot-book of the later fifteenth century.\n\n## Iconography\nThe leaf combines diagram and rubricated verse: pointing devices, named prophets or kings, and tables route the reader from a question through a chain of intermediaries to a rhymed German answer. The hand is Bollstatter's, a prolific Augsburg scribe who copied several such books.\n\n## Significance\nThe German *Losbücher* are the northern counterpart of the Italian printed lot-books, descending from antique and Arabic sortilege. The querent generated a number (by dice, by a spun [[motif:wheel of fortune|wheel]], or by pricking) and followed pointers — often a series of prophets, animals, or kings — to a fortune. Bollstatter's manuscripts are key witnesses to this living medieval game of chance-and-counsel, blending entertainment with quasi-prophetic authority.\n\n## For artists & game designers\nThe northern lot-book's pointer-chains (prophet → animal → answer) are a vivid model for a hand-drawn, manuscript-styled fortune mechanic.",
+   "citations": [
+    {"text": "Munich, Bayerische Staatsbibliothek, Cgm 312 (Konrad Bollstatter, *Losbuch*)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cgm312_bollstatter.jpg"}
+   ],
+   "key_concepts": ["Losbuch", "Konrad Bollstatter", "lot-book", "vernacular divination"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__losbuch-cgm252-131r",
+   "title": "Losbuch, Cgm 252 — 'Book of the Twelve Apostles' leaf",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Konrad Bollstatter (attrib.)",
+   "date": "later 15th c.",
+   "place": "Augsburg, German lands",
+   "era": "medieval",
+   "tradition": "divination",
+   "motifs": ["losbuch", "lot-book", "twelve apostles", "rubricated answers", "vernacular oracle", "manuscript", "prophecy", "fortune"],
+   "rights": "Public domain. Bayerische Staatsbibliothek. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Staatbibl.,_Cgm_252,_fol._131r.jpg",
+   "summary": "Folio 131r of a German *Losbuch* (Munich, Bayerische Staatsbibliothek, Cgm 252), with a red heading opening a new section, 'der zwölf Botten Buch' — the Book of the Twelve Apostles.\n\n## Iconography\nThe page is laid out as a column of short prose oracles, each opened by a large alternately red-and-green initial. A red rubric introduces a sub-book keyed to the [[motif:twelve apostles|twelve apostles]], one of the named 'guides' through which the querent's lot is read. The answers are practical and worldly — counsel on patience, friendship, and fortune.\n\n## Significance\nDividing a lot-book into sub-books named for apostles, prophets, or planets is characteristic of the *Losbuch* genre: the querent is routed to one 'authority,' then to a numbered answer. Cgm 252 shows the everyday, German-language face of late-medieval divination — a parlour oracle of rhymed and rubricated counsel that borrowed the prestige of sacred names while remaining a game of chance.\n\n## For artists & game designers\nRubricated, initial-led answer columns under a sacred 'guide' heading — an authentic manuscript layout for an in-world oracle book.",
+   "citations": [
+    {"text": "Munich, Bayerische Staatsbibliothek, Cgm 252, fol. 131r."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Staatbibl.,_Cgm_252,_fol._131r.jpg"}
+   ],
+   "key_concepts": ["Losbuch", "Cgm 252", "twelve apostles oracle", "lot-book"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__losbuch-cgm252-132v",
+   "title": "Losbuch, Cgm 252 — Oracle Answers leaf (132v)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Konrad Bollstatter (attrib.)",
+   "date": "later 15th c.",
+   "place": "Augsburg, German lands",
+   "era": "medieval",
+   "tradition": "divination",
+   "motifs": ["losbuch", "lot-book", "rubricated answers", "vernacular oracle", "manuscript", "fortune", "counsel", "initials"],
+   "rights": "Public domain. Bayerische Staatsbibliothek. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Staatbibl.,_Cgm_252,_fol._132v.jpg",
+   "summary": "Folio 132v of the German *Losbuch* Cgm 252 (Munich, Bayerische Staatsbibliothek), a further leaf of rhymed oracle answers.\n\n## Iconography\nAs on the facing leaves, the text runs in a single column of short German fortunes, each headed by a coloured initial. The answers offer terse worldly counsel — on undertakings, friends, and fortune — the kind of reply a querent would reach after following the book's pointers from a chosen question.\n\n## Significance\nThe leaf illustrates the bulk of any lot-book: not the diagrams but the deep reservoir of pre-written [[motif:fortune|fortunes]] the apparatus selects from. The German vernacular, the rubricated initials, and the practical tone mark this as a household oracle of the later Middle Ages, a genre that flourished in manuscript before passing into the early printed *Losbücher* and the Italian sortilege books.\n\n## For artists & game designers\nA bank of short, reusable fortune-texts — exactly the answer-pool a procedural oracle needs behind its wheels and pointers.",
+   "citations": [
+    {"text": "Munich, Bayerische Staatsbibliothek, Cgm 252, fol. 132v."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Staatbibl.,_Cgm_252,_fol._132v.jpg"}
+   ],
+   "key_concepts": ["Losbuch", "Cgm 252", "oracle answers", "lot-book"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__fortune-wheel-15c",
+   "title": "The Wheel of Fortune (15th-c. French manuscript)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Anonymous (French illuminator)",
+   "date": "15th c.",
+   "place": "France",
+   "era": "medieval",
+   "tradition": "divination",
+   "motifs": ["wheel of fortune", "rota fortunae", "fortuna", "rising and falling kings", "manuscript miniature", "boethius", "fate", "border decoration"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fortune_wheel_(15c.,_French).jpg",
+   "summary": "A fifteenth-century French manuscript miniature of the *Roue de Fortune*, the Wheel of Fortune, set in a flowered border above a column of text.\n\n## Iconography\nA great wooden [[motif:wheel of fortune|wheel]] turns at the right of a verdant scene; a small figure clings at its summit while others are raised and cast down around it. A crowd of courtiers looks on. The image personifies Fortune's indifferent turning, the ascent and ruin of the great — the visual commonplace of medieval *de casibus* literature.\n\n## Significance\nThe *Rota Fortunae* is the master-image behind every lot-book and fortune-game: Boethius's blind goddess who raises kings only to dash them, a wheel that became the engine-metaphor for divinatory wheels (Fanti's *rote*, the tarot's trump X) and for the moralised histories of fallen princes. This miniature exemplifies its luxurious courtly form in late-medieval France.\n\n## For artists & game designers\nThe canonical medieval luck-wheel with rising/falling figures — the ancestor of every spin-the-wheel and a clear 'fate turns' icon.",
+   "citations": [
+    {"text": "Boethius, *De consolatione philosophiae*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fortune_wheel_(15c.,_French).jpg"}
+   ],
+   "key_concepts": ["Wheel of Fortune", "Rota Fortunae", "Fortuna", "de casibus"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__fortune-wheel-boccaccio",
+   "title": "Wheel of Fortune (de casibus tradition)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Anonymous (manuscript illumination)",
+   "date": "15th c.",
+   "place": "France / Flanders",
+   "era": "medieval",
+   "tradition": "divination",
+   "motifs": ["wheel of fortune", "rota fortunae", "fortuna", "kings", "de casibus", "manuscript", "ascent and fall", "crown"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:FortuneWheelcropped.jpg",
+   "summary": "A cropped manuscript image of the Wheel of Fortune in the *de casibus* tradition, with crowned figures rising and falling on the turning wheel.\n\n## Iconography\nFortune's [[motif:wheel of fortune|wheel]] carries kings at its four cardinal points — one ascending (*regnabo*, 'I shall reign'), one enthroned at the top (*regno*, 'I reign'), one toppling (*regnavi*, 'I have reigned'), and one crushed beneath (*sum sine regno*, 'I am without rule') — the classic four-king scheme of the medieval Wheel.\n\n## Significance\nThis four-king *Rota Fortunae* visualises the cycle of worldly fortune that gave Boccaccio's *De casibus virorum illustrium* and Lydgate's *Fall of Princes* their theme. As the governing emblem of chance and mutability, it underwrites the whole lot-book enterprise: to consult Fortune is to step onto her wheel. The image is among the most copied of all medieval allegories.\n\n## For artists & game designers\nThe four-king wheel (regnabo / regno / regnavi / sum sine regno) is a compact, legible status-cycle device for any rise-and-fall mechanic.",
+   "citations": [
+    {"text": "Boccaccio, *De casibus virorum illustrium*; Boethius, *De consolatione*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:FortuneWheelcropped.jpg"}
+   ],
+   "key_concepts": ["Wheel of Fortune", "de casibus", "four kings", "Rota Fortunae"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__petosiris-circle",
+   "title": "The Circle of Petosiris (Sphere of Life and Death)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Anonymous (Greek; tradition ascribed to Petosiris)",
+   "date": "diagram in a manuscript (Bibliothèque nationale, Ms. grec 2419, fol. 32)",
+   "place": "Byzantine / Greek tradition",
+   "era": "medieval",
+   "tradition": "divination",
+   "motifs": ["sphere of life and death", "circle of petosiris", "onomancy", "isopsephy", "prognostic", "great and small life", "numerology", "diagram"],
+   "rights": "Public domain. Bibliothèque nationale de France. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Circle_of_Petosiris_Bibl_nat_Ms_2419_fol_32.png",
+   "summary": "The *Circle of Petosiris* (Πετοσίρου κύκλος), a prognostic diagram for predicting life or death from a patient's name and the day of falling ill (Paris, BnF, Ms. grec 2419).\n\n## Iconography\nA circle is divided by a cross into quadrants labelled in Greek: *megalē zōē* (great life) and *mikra zōē* (small life) above, *megas thanatos* (great death) and *mikros thanatos* (small death) below, with *mesē zōē* and *mesos thanatos* (middle life, middle death) on the axis. Numbers fill the four sectors. The diviner reduced the sum of the letters of the patient's name to fit one of the numbered cells.\n\n## Significance\nThis is the classic *Sphere of Life and Death*, an [[motif:onomancy|onomantic]] computus that turned the numerical value of a name (Greek isopsephy) into a verdict on survival. Ascribed to the legendary Egyptian sage Petosiris and to Pythagoras (the 'Sphere of Pythagoras'), it circulated for over a millennium in Greek, Latin, and vernacular manuscripts. It is the purest medical-divinatory lot-table: name plus date in, life or death out.\n\n## For artists & game designers\nA real algorithmic oracle — letters-to-number-to-quadrant — that implements in a few lines as a name-based fate calculator.",
+   "citations": [
+    {"text": "On the Sphere of Life and Death / Circle of Petosiris, see studies of Greek and Latin prognostic spheres."},
+    {"text": "Paris, Bibliothèque nationale de France, Ms. grec 2419, fol. 32."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Circle_of_Petosiris_Bibl_nat_Ms_2419_fol_32.png"}
+   ],
+   "key_concepts": ["Circle of Petosiris", "Sphere of Life and Death", "onomancy", "isopsephy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__geomantic-figures-arab",
+   "title": "The Sixteen Geomantic Figures (Arabic classification)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Anonymous (Arabic tradition)",
+   "date": "tradition of 'ilm al-raml (medieval; later reproduction)",
+   "place": "Near East / North Africa",
+   "era": "medieval",
+   "tradition": "divination",
+   "motifs": ["geomancy", "ilm al-raml", "sixteen figures", "tetragrams", "binary dots", "divination figures", "sand science", "classification"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Arab_geomantic_figures_classification.jpg",
+   "summary": "A classification chart of the sixteen geomantic figures of Arabic *'ilm al-raml* ('the science of the sand'), the binary tetragrams from which geomantic readings are built.\n\n## Iconography\nThe figure arranges the sixteen [[motif:geomancy|geomantic figures]] — each a stack of four rows of one or two dots (e.g. *Via*, *Populus*, *Fortuna Major*, *Acquisitio*) — into a classified table. The one-or-two pattern of each row encodes a binary value; the four rows give 2⁴ = 16 possible figures.\n\n## Significance\nGeomancy generates these tetragrams by tallying random marks made in sand (or on paper) into odd or even, then derives 'mothers,' 'daughters,' 'nieces,' and 'witnesses' to answer a question. Born in the medieval Arab world, *'ilm al-raml* passed into Latin Europe as *geomantia* (Hugh of Santalla, Pietro d'Abano), into the Renaissance via Agrippa, and into living African practice as Ifá and *sikidy*. The sixteen figures are its fixed alphabet of fate.\n\n## For artists & game designers\nThe definitive 16-symbol binary divination set — trivially generated from random bits and historically deep across three continents.",
+   "citations": [
+    {"text": "S. Skinner, *Geomancy in Theory and Practice* (2011)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Arab_geomantic_figures_classification.jpg"}
+   ],
+   "key_concepts": ["geomancy", "ilm al-raml", "sixteen figures", "tetragrams"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__geomantic-figure-types",
+   "title": "Geomantic Figure Types (the sixteen figures, named)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Phil wink (modern diagram of the traditional figures)",
+   "date": "modern diagram of a medieval system",
+   "place": "Europe (Latin tradition)",
+   "era": "medieval",
+   "tradition": "divination",
+   "motifs": ["geomancy", "sixteen figures", "via", "populus", "fortuna major", "tetragram", "binary dots", "named figures"],
+   "rights": "CC BY-SA 3.0 (Phil wink). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Geomantic_figure_types.png",
+   "summary": "A clear modern chart of the sixteen geomantic figures with their Latin names, illustrating the fixed vocabulary of Western *geomantia*.\n\n## Iconography\nEach [[motif:geomancy|figure]] is drawn as four rows of one or two dots and labelled — *Via*, *Cauda Draconis*, *Caput Draconis*, *Puella*, *Puer*, *Fortuna Major*, *Fortuna Minor*, *Acquisitio*, *Amissio*, *Carcer*, *Tristitia*, *Laetitia*, *Albus*, *Rubeus*, *Coniunctio*, *Populus*. The two 'Fortunes' and 'Via'/'Populus' pairs show the symmetry of the set.\n\n## Significance\nThis is the Latin-European canon of the sixteen figures as transmitted from Arabic *'ilm al-raml* through medieval and Renaissance geomancers. Each figure carries planetary, elemental, and zodiacal attributions and a fortune-meaning, so that a generated chart can be read like a horoscope. The diagram is a convenient reference key to the system that underlies European geomantic divination, the *Book of Fate*, and occult revivals.\n\n## For artists & game designers\nA labelled cheat-sheet of all sixteen figures and their names — drop-in reference for implementing a geomancy reading system.",
+   "citations": [
+    {"text": "S. Skinner, *Geomancy in Theory and Practice* (2011)."},
+    {"text": "Wikimedia Commons (CC BY-SA 3.0, author 'Phil wink')", "url": "https://commons.wikimedia.org/wiki/File:Geomantic_figure_types.png"}
+   ],
+   "key_concepts": ["geomancy", "sixteen figures", "Latin geomantia", "figure names"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__geomancy-wellcome-arabic",
+   "title": "Geomantic Figures in Wellcome MS Arabic 823",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Anonymous (Arabic manuscript)",
+   "date": "Arabic divinatory manuscript",
+   "place": "Near East",
+   "era": "medieval",
+   "tradition": "divination",
+   "motifs": ["geomancy", "ilm al-raml", "arabic manuscript", "geomantic figures", "dots", "divination table", "wellcome", "raml"],
+   "rights": "CC0 / Public domain. Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Detail_of_Wellcome_Library_MS_Arabic_823_showing_geomantic_figures.png",
+   "summary": "A detail from an Arabic geomantic manuscript (Wellcome Collection, MS Arabic 823) showing the dot-figures of *'ilm al-raml* set out in a working table.\n\n## Iconography\nRows and columns of [[motif:geomancy|dot-figures]] are arranged across the page, each a tetragram of single and paired dots, interspersed with Arabic captions. The layout is the practical 'shield' or table by which a geomancer derives the daughter- and resulting figures from the four 'mothers.'\n\n## Significance\nThe manuscript witnesses *'ilm al-raml* in its home tradition: a learned Arabic art of generating and combining the sixteen figures to answer questions of fortune, illness, travel, and love. Such tables are the direct ancestors of the European geomantic 'shield chart.' The Wellcome holding documents the Islamic-world geomancy that medieval Latin translators carried into Europe, where it became one of the most popular forms of bookish divination.\n\n## For artists & game designers\nAn authentic Arabic geomancy worksheet — period reference for the 'shield chart' that turns four random figures into a full reading.",
+   "citations": [
+    {"text": "London, Wellcome Collection, MS Arabic 823."},
+    {"text": "Wellcome Collection (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Detail_of_Wellcome_Library_MS_Arabic_823_showing_geomantic_figures.png"}
+   ],
+   "key_concepts": ["geomancy", "ilm al-raml", "Wellcome MS Arabic 823", "shield chart"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__sikidy-tableau",
+   "title": "Sikidy Tableau Diagram (Malagasy geomancy)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Marcia Ascher (diagram of the Malagasy system)",
+   "date": "modern diagram of a traditional practice",
+   "place": "Madagascar",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["sikidy", "geomancy", "binary figures", "tableau", "mother columns", "madagascar", "seeds", "divination grid"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sikidy_tableau_diagram.png",
+   "summary": "A diagram of the *sikidy* tableau, the grid of binary figures generated in Malagasy geomantic divination.\n\n## Iconography\nThe diagram lays out the columns and rows of the [[motif:sikidy|sikidy]] tableau: a set of 'mother' columns built from random remainders of seeds, from which 'daughter' and derived columns are computed by combining marks. Each cell holds a one- or two-dot value, exactly as in the Old-World geomantic figures.\n\n## Significance\n*Sikidy* is the East-African and Malagasy branch of the geomantic family that runs from Arabic *'ilm al-raml* through the Latin *geomantia*. The diviner reduces piles of seeds to odd-or-even remainders, builds the tableau, and reads the resulting figures for the questioner's fate. As the mathematician Marcia Ascher showed, the system is a rigorous formal algorithm — a living, non-European witness to the same binary divination Europe imported and Latinised.\n\n## For artists & game designers\nA fully specified binary-divination algorithm (seeds → remainders → derived columns) ready to implement as a deterministic oracle from random input.",
+   "citations": [
+    {"text": "M. Ascher, 'Malagasy Sikidy: A Case in Ethnomathematics,' *Historia Mathematica* (1997)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sikidy_tableau_diagram.png"}
+   ],
+   "key_concepts": ["sikidy", "Malagasy geomancy", "tableau", "ethnomathematics"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__astragalus-bronze-met",
+   "title": "Bronze Astragalus (Knucklebone)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Anonymous (Greek or Roman)",
+   "date": "Greek/Roman antiquity",
+   "place": "Eastern Mediterranean",
+   "era": "antiquity",
+   "tradition": "divination",
+   "motifs": ["astragalomancy", "knucklebone", "astragalus", "dice oracle", "lots", "bronze", "game piece", "chance"],
+   "rights": "CC0 / Public domain. The Metropolitan Museum of Art. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bronze_astragalus_(knucklebone)_MET_DP2096.jpg",
+   "summary": "A bronze *astragalus* (knucklebone) of the Greco-Roman world, the four-sided 'die' used both for games and for divination by lot (Metropolitan Museum of Art).\n\n## Iconography\nThe object is a cast-bronze copy of a sheep's or goat's ankle-bone, with its characteristic four distinguishable faces of unequal value. Real bones, and metal or stone replicas like this one, were thrown in sets; each face counted as a number (commonly 1, 3, 4, 6).\n\n## Significance\nThe knucklebone is the oldest randomiser of the Mediterranean world. Beyond the game of *astragaloi*, casting them was a recognised oracle: at certain shrines a throw was matched to a verse in an [[motif:astragalomancy|astragalomantic]] table (the *Anatolian dice-oracles*) that delivered a god-sanctioned answer. The astragalus thus stands at the root of the whole dice-and-lot tradition that the medieval and Renaissance lot-books would elaborate into wheels and printed books.\n\n## For artists & game designers\nThe original four-sided die — an authentic ancient randomiser prop, and the historical seed of every dice-oracle table.",
+   "citations": [
+    {"text": "On dice-oracles, see J. Nollé, *Kleinasiatische Losorakel* (2007)."},
+    {"text": "The Metropolitan Museum of Art (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bronze_astragalus_(knucklebone)_MET_DP2096.jpg"}
+   ],
+   "key_concepts": ["astragalomancy", "knucklebone", "dice-oracle", "lots"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__roman-dodecahedron",
+   "title": "Roman Dodecahedron (Tongeren)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Anonymous (Gallo-Roman)",
+   "date": "2nd–4th c. CE",
+   "place": "Gallo-Roman provinces",
+   "era": "antiquity",
+   "tradition": "divination",
+   "motifs": ["roman dodecahedron", "twelve faces", "bronze object", "enigmatic artefact", "dice", "oracle", "gallo-roman", "geometry"],
+   "rights": "CC BY-SA 2.5 (Wim Deprez). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Dodecahedron-tongeren.jpg",
+   "summary": "A Gallo-Roman bronze *dodecahedron*, one of the enigmatic twelve-faced objects sometimes proposed as a dice or divinatory device (example associated with Tongeren).\n\n## Iconography\nThe hollow bronze has twelve pentagonal faces, each pierced by a circular hole of differing diameter, with a knob at every vertex. Roughly a hundred such objects survive from the north-western Roman provinces. Their original purpose is genuinely unknown — proposals range from a surveying or candle-holding tool to a knitting gauge to a gaming or divinatory die.\n\n## Significance\nNo ancient text names the [[motif:roman dodecahedron|dodecahedron]], so any divinatory use is conjecture; but the twelve faces invite comparison with the twelve zodiac signs and months, and the object is often cited in popular accounts as a possible oracle die. It is included here as the most famous 'maybe-oracle' artefact of antiquity — a caution that not every twelve-fold object is a fortune-machine, and a reminder of how readily we read divination into the unexplained.\n\n## For artists & game designers\nA strikingly designed twelve-faced bronze of unknown use — an evocative 'mystery die' prop with built-in ambiguity.",
+   "citations": [
+    {"text": "On the Roman dodecahedra and the debate over their function, see B. Greiner and related archaeological surveys."},
+    {"text": "Wikimedia Commons (CC BY-SA 2.5, Wim Deprez)", "url": "https://commons.wikimedia.org/wiki/File:Dodecahedron-tongeren.jpg"}
+   ],
+   "key_concepts": ["Roman dodecahedron", "twelve faces", "enigmatic artefact", "possible dice-oracle"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__sibylline-prophecy",
+   "title": "The Sibyl Offering the Sibylline Books to Tarquin",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Dudley Heath (illustration, after the Roman legend)",
+   "date": "1912 (book illustration)",
+   "place": "England (depicting ancient Rome)",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["sibylline books", "sibyl", "tarquin", "prophecy", "oracle books", "rome", "book illustration", "fate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_story_of_Rome,_from_the_earliest_times_to_the_death_of_Augustus,_told_to_boys_and_girls_(1912)_(14753195855).jpg",
+   "summary": "A 1912 colour illustration of the legend of the Cumaean Sibyl offering her books of prophecy to the Roman king Tarquin (from *The Story of Rome*, illustrated by Dudley Heath).\n\n## Iconography\nA veiled Sibyl, her robe patterned with rosettes, kneels before the enthroned Tarquin and presents an open [[motif:sibylline books|prophetic book]], a stack of further volumes at her feet; an attendant kneels alongside. The scene stages the famous bargain in which the Sibyl burned volume after volume, raising the price until the king bought the remainder.\n\n## Significance\nThe *Libri Sibyllini* — the Sibylline Books — were Rome's official oracle: collections of Greek hexameter prophecies, consulted by a priestly college in times of crisis to find the rituals that would appease the gods. They are the supreme Roman instance of bookish, lot-like divination, where the answer to calamity was sought in a sealed canon of prophecy. The legend of their purchase from the Sibyl encapsulates the value placed on prophetic text.\n\n## For artists & game designers\nThe archetypal 'forbidden prophecy book' scene — a seer driving a hard bargain over volumes of fate the ruler dare not refuse.",
+   "citations": [
+    {"text": "On the Sibylline Books, see H. W. Parke, *Sibyls and Sibylline Prophecy in Classical Antiquity* (1988)."},
+    {"text": "Mary Macgregor, *The Story of Rome* (1912), illus. Dudley Heath."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_story_of_Rome,_from_the_earliest_times_to_the_death_of_Augustus,_told_to_boys_and_girls_(1912)_(14753195855).jpg"}
+   ],
+   "key_concepts": ["Sibylline Books", "Sibyl", "Tarquin", "Roman oracle"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__sibylla-delphica",
+   "title": "Sibylla Delphica (the Delphic Sibyl)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Published by Guillaume Rouillé (woodcut)",
+   "date": "16th c.",
+   "place": "Lyon, France",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["sibyl", "delphic sibyl", "prophecy", "oracle", "woodcut portrait", "antique seer", "rouille", "renaissance print"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sibylla-Delphica.jpg",
+   "summary": "A sixteenth-century woodcut portrait of the *Sibylla Delphica*, the Delphic Sibyl, from the kind of illustrated compendium published by Guillaume Rouillé of Lyon.\n\n## Iconography\nThe [[motif:sibyl|Sibyl]] is shown bust-length in a roundel, an emblematic seer of the antique world. In the standard iconography of the twelve Sibyls each is given an attribute and a prophecy; the Delphic Sibyl, associated with the oracle of Apollo at Delphi, is conventionally the first of the series.\n\n## Significance\nThe Sibyls — Cumaean, Delphic, Erythraean, and the rest — were pagan prophetesses whom Christian tradition adopted as foretellers of Christ, ranking them beside the Old-Testament prophets. Their image saturated Renaissance art, from Michelangelo's Sistine ceiling to printed *Sibyllarum* books. As keepers of fate-foretelling verse they belong to the deep background of the European oracle tradition that the lot-books domesticated into a parlour game.\n\n## For artists & game designers\nA clean emblematic 'prophetess' portrait in period woodcut style — a portable seer icon for an oracle interface or character card.",
+   "citations": [
+    {"text": "On the iconography of the Sibyls, see É. Mâle, *L'art religieux* and studies of the Sibylline tradition."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sibylla-Delphica.jpg"}
+   ],
+   "key_concepts": ["Sibyl", "Delphic Sibyl", "prophecy", "Renaissance woodcut"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__iching-leibniz",
+   "title": "Diagram of I Ching Hexagrams (Leibniz's copy, 1701)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Anonymous (after the Fuxi arrangement); copy owned by G. W. Leibniz",
+   "date": "1701",
+   "place": "China / Europe",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["i ching", "yijing", "hexagrams", "binary", "fuxi arrangement", "leibniz", "broken and solid lines", "oracle"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Diagram_of_I_Ching_hexagrams_owned_by_Gottfried_Wilhelm_Leibniz,_1701.jpg",
+   "summary": "The diagram of the 64 *I Ching* hexagrams in the Fuxi 'natural' order, in the copy sent to Gottfried Wilhelm Leibniz in 1701.\n\n## Iconography\nThe 64 [[motif:i ching|hexagrams]] — each six stacked lines, solid (yang) or broken (yin) — are arrayed both as a square grid and around a circle in the Fuxi sequence. Read as binary numbers (broken = 0, solid = 1), the arrangement runs in perfect numerical order, which is what so struck Leibniz.\n\n## Significance\nThe *Yijing* (Book of Changes) is the great Chinese oracle: a hexagram is produced by casting yarrow stalks or coins, then read through its line-texts for guidance. This particular diagram is famous in the West because Leibniz, who had just formulated binary arithmetic, saw in the Fuxi order a Chinese anticipation of the binary system, and corresponded about it with the Jesuit Joachim Bouvet. It is a landmark in the meeting of divinatory and mathematical thought.\n\n## For artists & game designers\nA 64-state binary oracle with a ready visual key — the hexagram grid doubles as both fortune-table and an elegant binary-number display.",
+   "citations": [
+    {"text": "On Leibniz, Bouvet and the Yijing, see studies of the binary correspondence (1701–03)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Diagram_of_I_Ching_hexagrams_owned_by_Gottfried_Wilhelm_Leibniz,_1701.jpg"}
+   ],
+   "key_concepts": ["I Ching", "hexagrams", "Fuxi order", "Leibniz binary"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__iching-fuxi-order",
+   "title": "Fuxi Order Grid and Circle of the Hexagrams",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "James Legge (engraving, Sacred Books of the East, 1882)",
+   "date": "1882 (engraving of a Chinese arrangement)",
+   "place": "China / England",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["i ching", "yijing", "hexagrams", "fuxi", "circular arrangement", "square grid", "broken and solid lines", "oracle"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fuxi_order_grid_and_circle_(SBE_vol_16,_1882).png",
+   "summary": "The Fuxi (Shao Yong) arrangement of the 64 hexagrams as both a square grid and an enclosing circle, engraved for James Legge's translation of the *Yi King* (Sacred Books of the East, vol. 16, 1882).\n\n## Iconography\nWithin a great ring of [[motif:i ching|hexagrams]] sits a square block of the same 64 figures; together they display the 'former heaven' (Fuxi) order attributed to Shao Yong. Each hexagram is six yin/yang lines, and the layout makes the binary symmetry of the sequence visible at a glance.\n\n## Significance\nThis is the diagram (the *Xiantian* or Fuxi arrangement) that underlies the binary reading of the *Yijing* and that reached Leibniz. In divinatory use the *I Ching* is consulted by building a hexagram from chance — yarrow-stalk counts or tossed coins — and interpreting its judgement, image, and changing lines. Legge's careful Victorian engraving made the classical Chinese oracle and its elegant combinatorics widely available to Western readers.\n\n## For artists & game designers\nA beautiful ring-plus-grid of all 64 states — usable directly as the selection diagram for a coin- or stalk-cast oracle minigame.",
+   "citations": [
+    {"text": "James Legge, *The Yî King* (Sacred Books of the East, vol. 16, 1882)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fuxi_order_grid_and_circle_(SBE_vol_16,_1882).png"}
+   ],
+   "key_concepts": ["I Ching", "Fuxi arrangement", "Shao Yong", "hexagram circle"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__lenormand-wahrsagekarten",
+   "title": "Wahrsagekarten der Mlle Lenormand (fortune-cards)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "After Marie-Anne Lenormand (tradition); print after the Lenormand idea",
+   "date": "19th c.",
+   "place": "Paris, France",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["lenormand", "cartomancy", "fortune-telling cards", "wahrsagekarten", "jeu divinatoire", "emblems", "petit jeu", "prophecy"],
+   "rights": "Public domain. Bibliothèque nationale de France. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Die_achten_Wahrsagekarten_des_Kartenschl%C3%A4gerin_Melle_Lenormand_in_Paris_-_jeu_divinatoire_-_estampe_-_Melle_Lenormand_-_btv1b105433047_(06_of_74).jpg",
+   "summary": "A sheet from the *Wahrsagekarten der Mlle Lenormand* (the fortune-telling cards of Mademoiselle Lenormand), a nineteenth-century *jeu divinatoire* after the famous Parisian fortune-teller (Bibliothèque nationale de France).\n\n## Iconography\nThe print presents the emblematic [[motif:lenormand|Lenormand cards]], each bearing a single concrete symbol — the Ship, the Tree, the Tower, the Scythe, the Clover, the Stars — often with a small inset playing-card or verse. The cards are read in combination, each modifying its neighbours, in the grid spread known as the *Grand Tableau*.\n\n## Significance\nMarie-Anne Lenormand (1772–1843) was the celebrated fortune-teller of Napoleonic Paris, reputed to have read for Joséphine. The decks issued under her name after her death codified a distinct, accessible system of [[motif:cartomancy|cartomancy]] — simpler and more literal than tarot — that spread across France and the German lands. As cheap printed oracle-sheets, they mark the nineteenth-century mass-marketing of card divination to a popular public.\n\n## For artists & game designers\nA compact emblem-deck (about 36 plain symbols) ideal for a readable, combinable card-oracle distinct from heavier tarot iconography.",
+   "citations": [
+    {"text": "On Lenormand cartomancy, see histories of nineteenth-century fortune-telling decks."},
+    {"text": "Bibliothèque nationale de France."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Die_achten_Wahrsagekarten_des_Kartenschl%C3%A4gerin_Melle_Lenormand_in_Paris_-_jeu_divinatoire_-_estampe_-_Melle_Lenormand_-_btv1b105433047_(06_of_74).jpg"}
+   ],
+   "key_concepts": ["Lenormand", "cartomancy", "fortune-cards", "jeu divinatoire"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__ouija-board",
+   "title": "Ouija Talking Board (Kennard Novelty Company)",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Elijah Bond & Charles Kennard (Kennard Novelty Company)",
+   "date": "patented 1891",
+   "place": "Baltimore, United States",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["ouija", "talking board", "planchette", "spiritualism", "alphabet board", "spirit communication", "automatism", "parlour oracle"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ouija_board_-_Kennard_Novelty_Company.jpg",
+   "summary": "An early *Ouija* talking board of the Kennard Novelty Company, the spiritualist alphabet-board patented in 1891.\n\n## Iconography\nThe flat board is printed with the alphabet in two arcs, the numerals 0–9, and the words YES, NO, and GOOD BYE. A heart-shaped [[motif:planchette|planchette]] glides over the surface under the sitters' fingertips, spelling out messages said to come from spirits — in fact produced by the involuntary ideomotor effect.\n\n## Significance\nThe talking board is the late, commercial flowering of the European lot-and-oracle tradition, born from the Spiritualist craze of the nineteenth century. Where the medieval *Losbuch* selected a pre-written answer by chance, the Ouija appears to compose a free answer letter by letter — a randomiser dressed as a conversation with the dead. Patented by Elijah Bond and marketed by Charles Kennard, it became the archetypal mass-market parlour oracle and a fixture of popular occulture.\n\n## For artists & game designers\nThe definitive 'spirit interface' — an alphabet board plus sliding pointer, instantly legible as supernatural communication.",
+   "citations": [
+    {"text": "On the Ouija board's history, see R. Murch and histories of American Spiritualism."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ouija_board_-_Kennard_Novelty_Company.jpg"}
+   ],
+   "key_concepts": ["Ouija", "talking board", "Spiritualism", "planchette"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "lot_books_oracles__ouija-original",
+   "title": "Original Ouija Board",
+   "work": "Lot-Books, Fortune-Games & the Oracle Tradition",
+   "creator": "Anonymous (early Ouija manufacturer)",
+   "date": "late 19th c.",
+   "place": "United States",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["ouija", "talking board", "planchette", "spiritualism", "alphabet board", "spirit communication", "yes no", "parlour oracle"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Original_ouija_board.jpg",
+   "summary": "An early example of the *Ouija* board, the alphabet-and-numbers talking board used for purported spirit communication.\n\n## Iconography\nThe board carries the full alphabet, the digits, and the words YES, NO, and GOOD BYE, with sun and moon motifs in the upper corners in the familiar period style. A [[motif:planchette|planchette]] (not always shown) is moved across the letters by the sitters to spell out messages.\n\n## Significance\nThe Ouija belongs to the family of nineteenth-century Spiritualist devices — table-tipping, the planchette, automatic writing — that claimed to give the dead a voice. Functionally it is the modern descendant of the older lot-oracles: a means of obtaining an 'answer' by a process the querent does not consciously control. Its commercial success made the talking board the popular emblem of amateur divination well into the twentieth century and beyond.\n\n## For artists & game designers\nA period-styled spirit board (sun/moon corners, yes/no, alphabet arcs) for any séance or haunted-house scene.",
+   "citations": [
+    {"text": "On Spiritualist divination devices, see histories of the planchette and talking board."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Original_ouija_board.jpg"}
+   ],
+   "key_concepts": ["Ouija", "talking board", "Spiritualism", "spirit communication"],
+   "summary_status": "authored"
+  }
+ ]
+}

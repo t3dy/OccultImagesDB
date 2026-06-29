@@ -1,0 +1,381 @@
+{
+ "_work": {
+   "key": "incantation_bowls",
+   "short_id": "INCB",
+   "title": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "various",
+   "date": "c. 7th c. BCE – 7th c. CE",
+   "century": 4,
+   "place": "Mesopotamia (Babylonia, Assyria) and the Sasanian Near East",
+   "region": "Near East",
+   "language": "Aramaic",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "incantation_bowls",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Incantation_bowls",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["incantation bowl", "bound demon", "lamashtu", "pazuzu", "apkallu", "spiral inscription"],
+   "blurb": "Late-antique Aramaic, Mandaic and Syriac magic bowls inscribed with spiralling demon-binding spells, together with the older Mesopotamian apotropaic objects — Lamashtu plaques, Pazuzu amulets, protective genii and demon masks — from which their exorcistic logic descends."
+ },
+ "entries": [
+  {
+   "id": "incantation_bowls__aramaic-incantation-bowl",
+   "title": "Incantation bowl with pseudo-Aramaic inscription (Metropolitan Museum)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Sasanian Mesopotamia)",
+   "date": "Sasanian period (c. 5th–7th c. CE)",
+   "place": "Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["incantation bowl", "aramaic script", "spiral inscription", "demon binding", "terracotta", "amulet", "household protection", "metropolitan museum"],
+   "rights": "Public domain (CC0). The Metropolitan Museum of Art, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Incantation_bowl_with_pseudo-Aramaic_inscription_MET_ME86_11_260.jpg",
+   "summary": "A terracotta incantation bowl in the Metropolitan Museum whose interior is filled with a spiral of pseudo-Aramaic writing, a clay 'demon-trap' buried beneath the floor of a Mesopotamian home.\n\n## Iconography\nThe shallow earthenware bowl is inscribed on its concave inner surface with lines of script running in a **spiral** from rim to centre. Here the characters imitate Aramaic without forming a fully legible text — a *pseudo-inscription* produced by or for an illiterate client, showing that the bowl's form and the act of spiralling words were themselves felt to be efficacious.\n\n## Significance\nMesopotamian incantation bowls (5th–7th c. CE) were inverted and set into the corners and thresholds of houses to **bind and trap** demons, the [[motif:evil-eye|evil eye]], curses, and the night-hag Lilith. The spell typically names the client, invokes divine and angelic authority, and 'seals' the demon — a domestic descendant of the older Akkadian exorcistic tradition. The standard corpus is J. A. Montgomery's *Aramaic Incantation Texts from Nippur* (1913), with later editions by Shaked, Ford and Bhayro.\n\n## For artists & game designers\nA buried bowl whose written spell only 'works' as a spiral is a perfect environmental trap object — the magic is in the geometry as much as the words.",
+   "citations": [
+    {"text": "J. A. Montgomery, *Aramaic Incantation Texts from Nippur* (1913)."},
+    {"text": "S. Shaked, J. N. Ford & S. Bhayro, *Aramaic Bowl Spells* (2013)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Incantation_bowl_with_pseudo-Aramaic_inscription_MET_ME86_11_260.jpg"}
+   ],
+   "key_concepts": ["incantation bowl", "demon binding", "spiral inscription", "Aramaic magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__demon-bowl",
+   "title": "Incantation bowl with a bound demon drawn at the centre (Metropolitan Museum)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Sasanian Mesopotamia); photograph by Marie-Lan Nguyen",
+   "date": "Sasanian period (c. 5th–7th c. CE)",
+   "place": "Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["incantation bowl", "bound demon", "shackled figure", "spiral inscription", "aramaic script", "exorcism", "terracotta", "metropolitan museum"],
+   "rights": "Public domain (photo: Marie-Lan Nguyen). The Metropolitan Museum of Art, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Incantation_bowl_demon_Met_L1999.83.3.jpg",
+   "summary": "An Aramaic incantation bowl with a crude figure of a fettered demon drawn in the centre, encircled by the binding spell — the classic 'devil-trap' bowl.\n\n## Iconography\nA schematic **demon** is sketched at the bowl's base: a frontal figure with wild hair, sometimes shown with bound hands and feet or chained at the neck. Around it the spell winds in a **spiral** of Aramaic letters. The image is not decorative but operative — the demon is depicted *already captured*, its likeness imprisoned by the surrounding text.\n\n## Significance\nThe drawn-demon bowls make the magic visible: the threatening power (Lilith, a *lilith*, a curse-demon, or the personified [[motif:evil-eye|evil eye]]) is named, depicted, and shackled, so that representation enacts capture. Such bowls were prepared by Jewish, Mandaean, Christian and pagan practitioners alike across Sasanian Babylonia, drawing on a shared repertoire of angelic names, Solomonic authority, and the formula of the *get* (writ of divorce) served on the demon.\n\n## For artists & game designers\nThe 'bind the monster by drawing it in chains' mechanic in one object — depiction *is* containment.",
+   "citations": [
+    {"text": "J. A. Montgomery, *Aramaic Incantation Texts from Nippur* (1913)."},
+    {"text": "D. Levene, *A Corpus of Magic Bowls* (2003)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Incantation_bowl_demon_Met_L1999.83.3.jpg"}
+   ],
+   "key_concepts": ["bound demon", "devil-trap bowl", "exorcism", "Lilith"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__mandaic-bowl",
+   "title": "Mandaic incantation bowl for Buktuya and household (Royal Ontario Museum)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Mandaean, Southern Mesopotamia); photograph by Daderot",
+   "date": "c. 200–600 CE",
+   "place": "Southern Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["incantation bowl", "mandaic script", "spiral inscription", "household protection", "client name", "demon binding", "terracotta", "royal ontario museum"],
+   "rights": "Public domain (CC0). Royal Ontario Museum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bowl_with_incantation_for_Buktuya_and_household,_Mandean_in_Mandaic_language_and_script,_Southern_Mesopotamia,_c._200-600_AD_-_Royal_Ontario_Museum_-_DSC09714.JPG",
+   "summary": "A Mandaic-language incantation bowl inscribed for a named client, Buktuya, and his household — a window onto the Mandaean branch of the Mesopotamian magic-bowl tradition.\n\n## Iconography\nThe bowl carries a dense **spiral** of cursive **Mandaic** script, the sacred script of the Mandaeans of southern Iraq. The text names the beneficiary (Buktuya) and his household and invokes protection over them, sealing out the demonic forces that threaten the home.\n\n## Significance\nMandaic bowls form one of the three main scriptural streams of the genre, alongside Jewish Babylonian Aramaic and Syriac. The Mandaeans — a surviving Gnostic baptismal community — produced bowls drawing on their own cosmology of light and darkness. Naming the client personalizes the charm, a feature exploited by scholars to reconstruct Sasanian-era onomastics and social history. Key editions are by E. M. Yamauchi (*Mandaic Incantation Texts*, 1967) and C. Müller-Kessler.\n\n## For artists & game designers\nA protective charm keyed to a *named* owner and their dependents — a model for binding magic that is personal, not generic.",
+   "citations": [
+    {"text": "E. M. Yamauchi, *Mandaic Incantation Texts* (1967)."},
+    {"text": "C. Müller-Kessler, *Die Zauberschalentexte in der Hilprecht-Sammlung* (2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bowl_with_incantation_for_Buktuya_and_household,_Mandean_in_Mandaic_language_and_script,_Southern_Mesopotamia,_c._200-600_AD_-_Royal_Ontario_Museum_-_DSC09714.JPG"}
+   ],
+   "key_concepts": ["Mandaic script", "incantation bowl", "Mandaeans", "named client"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__nippur-bowl",
+   "title": "Aramaic incantation bowl from Nippur (Oriental Institute, Chicago)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Sasanian Babylonia); photograph by Daderot",
+   "date": "Sasanian period (240–641 CE)",
+   "place": "Nippur, Babylonia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["incantation bowl", "nippur", "aramaic script", "spiral inscription", "demon binding", "excavated", "terracotta", "oriental institute"],
+   "rights": "Public domain (CC0). Oriental Institute Museum, University of Chicago, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Incantation_bowl_in_Aramaic_language,_Nippur,_Sasanian_period,_240-641_AD_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07285.JPG",
+   "summary": "An Aramaic incantation bowl excavated at Nippur, the site whose finds founded the modern study of the entire genre.\n\n## Iconography\nThe earthenware bowl bears the characteristic concentric **spiral** of square Aramaic letters, the binding spell coiling inward. Bowls of this type were recovered *in situ* at Nippur, often inverted and placed at the corners of rooms or beneath floors and doorways.\n\n## Significance\nNippur is the type-site: the University of Pennsylvania excavations of the 1880s–90s yielded the bowls that John A. Montgomery published in *Aramaic Incantation Texts from Nippur* (1913), the foundational corpus. The Sasanian date (240–641 CE) anchors the genre firmly in late antiquity, in a Babylonia shared by Jews, Mandaeans, Christians and Zoroastrians whose magical practices visibly intermingle on the bowls.\n\n## For artists & game designers\nAn archaeologically grounded artifact — the buried, inverted spell-bowl as found, useful reference for an excavation or dungeon-floor discovery.",
+   "citations": [
+    {"text": "J. A. Montgomery, *Aramaic Incantation Texts from Nippur* (1913)."},
+    {"text": "M. J. Geller, 'Jewish Magic in the Sasanian Period,' in *Officina Magica* (2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Incantation_bowl_in_Aramaic_language,_Nippur,_Sasanian_period,_240-641_AD_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07285.JPG"}
+   ],
+   "key_concepts": ["Nippur", "incantation bowl", "Montgomery corpus", "Sasanian Babylonia"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__spiral-bowl",
+   "title": "Protective bowl with inscription and a demon (Louvre)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Sasanian Mesopotamia)",
+   "date": "Sasanian period (c. 5th–7th c. CE)",
+   "place": "Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["incantation bowl", "spiral inscription", "demon figure", "protection spell", "aramaic script", "terracotta", "binding", "louvre"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bol_de_protection_avec_une_inscription_et_un_d%C3%A9mon.jpg",
+   "summary": "A *bol de protection* — a protective incantation bowl combining a spiral spell with a drawn demon, exemplifying the union of word and image that defines the genre.\n\n## Iconography\nThe spell spirals across the bowl's interior while a **demon** is figured within it. Text and image work together: the [[motif:bound-demon|demon]] is named in the writing and depicted in the drawing, doubly fixing it. The inward-turning spiral mimics the act of enclosing and confining the hostile power at the bowl's centre.\n\n## Significance\nProtective bowls addressed the everyday terrors of Sasanian domestic life — sickness, miscarriage, the [[motif:evil-eye|evil eye]], and night-demons such as Lilith and the *lilin*. Many invoke the same angelic and divine names found in contemporary Jewish, Christian and Mandaean magic, and some deploy the legal fiction of issuing the demon a writ of divorce. The interpenetration of traditions makes the bowls a prime source for the religious history of late-antique Babylonia.\n\n## For artists & game designers\nThe coiling text + caged figure is a ready-made 'sealing circle' visual: a spell whose very shape is a prison.",
+   "citations": [
+    {"text": "D. Levene, *A Corpus of Magic Bowls* (2003)."},
+    {"text": "S. Shaked, J. N. Ford & S. Bhayro, *Aramaic Bowl Spells* (2013)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bol_de_protection_avec_une_inscription_et_un_d%C3%A9mon.jpg"}
+   ],
+   "key_concepts": ["protective bowl", "spiral inscription", "bound demon", "Lilith"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__jewish-magic-bowl",
+   "title": "Mandaic magical bowl from Mesopotamia (Wellcome Collection)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Mandaean, Mesopotamia)",
+   "date": "Late antiquity (c. 4th–7th c. CE)",
+   "place": "Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["magic bowl", "mandaic script", "spiral inscription", "demon binding", "household protection", "terracotta", "amulet", "wellcome collection"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Magical_bowl_with_inscriptions_in_Mandaic,_Mesopotamia._Wellcome_M0003378.jpg",
+   "summary": "A magical bowl inscribed in Mandaic from the Wellcome Collection, another witness to the demon-binding bowls of late-antique Mesopotamia.\n\n## Iconography\nThe bowl's interior carries a **spiral** of Mandaic letters. As in the wider genre, the text would name the client, summon protective powers, and pronounce a binding or expulsion against demons and the [[motif:evil-eye|evil eye]] threatening the household.\n\n## Significance\nHeld in a medical-history collection, this bowl underlines that the spells were practical health-and-home magic: protection against miscarriage, disease, and malign spirits. Mandaic, Jewish Aramaic, and Syriac bowls share formulae and angelic names, evidence of a common Babylonian magical koine crossing religious lines. The corpus is edited by Yamauchi, Müller-Kessler, and the Shaked–Ford–Bhayro project.\n\n## For artists & game designers\nA museum-quality reference for a 'health charm' object whose protective intent is domestic and bodily rather than martial.",
+   "citations": [
+    {"text": "E. M. Yamauchi, *Mandaic Incantation Texts* (1967)."},
+    {"text": "S. Shaked, J. N. Ford & S. Bhayro, *Aramaic Bowl Spells* (2013)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Magical_bowl_with_inscriptions_in_Mandaic,_Mesopotamia._Wellcome_M0003378.jpg"}
+   ],
+   "key_concepts": ["Mandaic magic bowl", "Wellcome Collection", "household protection", "Babylonian magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__lamashtu-amulet",
+   "title": "Plaque of protection against Lamashtu",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Mesopotamia)",
+   "date": "Neo-Assyrian / Neo-Babylonian (c. 1st millennium BCE)",
+   "place": "Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["lamashtu", "child-snatching demon", "apotropaic plaque", "lion head", "donkey", "suckling", "exorcism", "amulet"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Plaque_de_protection_contre_Lamashtu.jpg",
+   "summary": "An apotropaic plaque directed against Lamashtu, the lion-headed female demon who menaced pregnant women and infants in Mesopotamian belief.\n\n## Iconography\n**Lamashtu** is shown with a lion's or bird's head, ass's teeth and ears, taloned bird feet, and pendulous breasts at which a piglet and a puppy suckle; she clutches **serpents** and often stands on a donkey crossing the underworld river. The plaque, hung in the home or worn, presents her image precisely in order to repel her.\n\n## Significance\nLamashtu (Akkadian *Lamaštu*) was the archetypal **child-snatching, fever-bringing demon**, blamed for miscarriage, crib-death, and puerperal disease. She was countered by incantation series and by amuletic plaques, frequently paired with [[motif:pazuzu|Pazuzu]], the only power thought able to drive her back. This Mesopotamian therapeutic-magical complex is a direct ancestor of the later Aramaic bowls' war on Lilith. F. A. M. Wiggermann and W. Farber have produced the standard studies.\n\n## For artists & game designers\nA fully realized 'plague-bringing hag' design — lion head, animal teeth, suckling beasts, serpents — terrifying and instantly legible.",
+   "citations": [
+    {"text": "W. Farber, *Lamaštu: An Edition of the Canonical Series* (2014)."},
+    {"text": "F. A. M. Wiggermann, 'Lamaštu, Daughter of Anu,' in M. Stol, *Birth in Babylonia* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Plaque_de_protection_contre_Lamashtu.jpg"}
+   ],
+   "key_concepts": ["Lamashtu", "child-snatching demon", "apotropaic plaque", "Pazuzu"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__lamashtu-plaque",
+   "title": "Plaque of conjuration against Lamashtu (Louvre, AO 22205)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Mesopotamia); photograph by Tangopaso",
+   "date": "Neo-Assyrian / Neo-Babylonian (c. 1st millennium BCE)",
+   "place": "Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["lamashtu", "conjuration plaque", "underworld river", "donkey", "registers", "pazuzu", "exorcism", "louvre"],
+   "rights": "Public domain. Musée du Louvre, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Plaque_de_conjuration_contre_la_Lamashtu_(Louvre,_AO_22205)_avec_annotations.jpg",
+   "summary": "A Louvre 'Lamashtu plaque' (AO 22205), one of the celebrated multi-register exorcism plaques showing the demon driven down to the underworld river. (The annotated overlay labels the figures.)\n\n## Iconography\nThe plaque is divided into horizontal **registers**: above, ranks of protective deities and astral symbols; in the centre, ritual acts at a sickbed; below, **Lamashtu** kneeling on her donkey as it is ferried across the river of the netherworld, surrounded by her serpents, comb, and spindle. A looming head — that of [[motif:pazuzu|Pazuzu]] — often peers over the top edge, expelling her.\n\n## Significance\nThese 'Hell plaques' or *plaques de conjuration* are among the most complex apotropaic objects of the ancient Near East, compressing a whole exorcistic ritual into a single carved scene. They visually narrate the demon's defeat and banishment, functioning as a permanent, self-renewing spell. Wiggermann's studies of the *bīt mēseri* protective rites illuminate their logic.\n\n## For artists & game designers\nA single object that storyboards an entire exorcism in stacked registers — a model for environmental art that tells a ritual narrative top-to-bottom.",
+   "citations": [
+    {"text": "F. A. M. Wiggermann, *Mesopotamian Protective Spirits* (1992)."},
+    {"text": "W. Farber, *Lamaštu* (2014)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Plaque_de_conjuration_contre_la_Lamashtu_(Louvre,_AO_22205)_avec_annotations.jpg"}
+   ],
+   "key_concepts": ["Lamashtu plaque", "exorcism registers", "underworld river", "Pazuzu"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__lamashtu-bronze",
+   "title": "Lamashtu amulet (British Museum)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Mesopotamia)",
+   "date": "Neo-Assyrian / Neo-Babylonian (c. 1st millennium BCE)",
+   "place": "Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["lamashtu", "amulet", "lion head", "serpents", "suckling animals", "donkey", "apotropaic", "british museum"],
+   "rights": "Public domain. The British Museum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Amuleto_de_Lamashtu,_British_Museum.jpg",
+   "summary": "A Lamashtu amulet in the British Museum, a portable version of the protective plaque carried to ward the child-snatching demon from mother and infant.\n\n## Iconography\nThe amulet depicts **Lamashtu** in her canonical form — leonine head, bared teeth, taloned feet, snakes in her raised hands, often suckling a piglet and pup and kneeling on her **donkey**. A perforation or loop allowed it to be worn or hung at the bedside of the vulnerable.\n\n## Significance\nWorn amulets extended the protection of the larger plaques to the body itself, especially around childbirth — the moment Lamashtu was most feared. Bearing the demon's own image turned her power against her, the same apotropaic logic that governs [[motif:pazuzu|Pazuzu]] heads and, centuries later, the drawn demons of the Aramaic [[motif:incantation-bowl|incantation bowls]]. Wiggermann and Farber remain the authorities.\n\n## For artists & game designers\nA wearable charm bearing the very monster it repels — the 'fight fire with fire' amulet, scaled down to jewelry.",
+   "citations": [
+    {"text": "F. A. M. Wiggermann, 'Lamaštu, Daughter of Anu' (2000)."},
+    {"text": "W. Farber, *Lamaštu* (2014)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Amuleto_de_Lamashtu,_British_Museum.jpg"}
+   ],
+   "key_concepts": ["Lamashtu", "amulet", "apotropaic logic", "childbirth protection"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__pazuzu-statuette",
+   "title": "Bronze statuette of the demon Pazuzu (Louvre)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Mesopotamia); photograph by Vassil",
+   "date": "Neo-Assyrian / Neo-Babylonian (c. 8th–6th c. BCE)",
+   "place": "Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pazuzu", "wind demon", "canine face", "scorpion tail", "talons", "wings", "apotropaic", "bronze"],
+   "rights": "Public domain (CC0). Musée du Louvre, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pazuzu_Profil_28122017_1.jpg",
+   "summary": "A bronze statuette of Pazuzu, king of the wind-demons, shown in profile — the apotropaic demon enlisted to fight other demons.\n\n## Iconography\n**Pazuzu** has a snarling **canine or leonine face**, bulging eyes, two pairs of bird **wings**, the **talons** of a bird of prey, a **scorpion tail**, and an erect serpent-headed phallus. One hand is raised, the other lowered — the gesture of his standard formula, 'I ascended and descended.' His grotesque ferocity is precisely what makes him protective.\n\n## Significance\nThough himself a malevolent bringer of the destructive west wind and fevers, **Pazuzu** was harnessed *against* worse evils — above all [[motif:lamashtu|Lamashtu]], whom he alone could drive back to the underworld. His image guarded homes, pregnant women, and (via small heads) was worn as an amulet. Pazuzu's modern fame owes much to *The Exorcist* (1973); the scholarly study is N. Heeßel's *Pazuzu* (2002).\n\n## For artists & game designers\nThe definitive 'monstrous protector' — assembled from dog, eagle, scorpion and snake, terrifying yet on the player's side.",
+   "citations": [
+    {"text": "N. P. Heeßel, *Pazuzu: Archäologische und philologische Studien* (2002)."},
+    {"text": "F. A. M. Wiggermann, *Mesopotamian Protective Spirits* (1992)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pazuzu_Profil_28122017_1.jpg"}
+   ],
+   "key_concepts": ["Pazuzu", "wind demon", "apotropaic demon", "anti-Lamashtu"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__pazuzu-amulet",
+   "title": "Pazuzu amulet",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Mesopotamia); photograph by Zunkir",
+   "date": "Neo-Assyrian / Neo-Babylonian (c. 8th–6th c. BCE)",
+   "place": "Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pazuzu", "amulet", "wind demon", "scorpion tail", "wings", "apotropaic", "pendant", "exorcism"],
+   "rights": "CC BY-SA 4.0 (photo: Zunkir). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pazuzu_amulet_86263.jpg",
+   "summary": "A small Pazuzu amulet, the wearable form of the wind-demon that placed his protective ferocity directly on the body of the bearer.\n\n## Iconography\nThe amulet reproduces **Pazuzu** in miniature — canine snout, four **wings**, talons, and **scorpion tail** — frequently as just the head, pierced for suspension. Pazuzu heads were hung at thresholds, on furniture, and worn at the neck, often by or for pregnant women.\n\n## Significance\nThe proliferation of cheap Pazuzu amulets shows how thoroughly his apotropaic role saturated daily life. Worn against [[motif:lamashtu|Lamashtu]] and against the diseases borne on the wind, the amulet works by the same principle as the [[motif:incantation-bowl|incantation bowls]]: confronting a demonic threat with a more terrible, allied power. Heeßel catalogues the typology of statuettes, heads, and plaques.\n\n## For artists & game designers\nA compact 'equip the lesser evil' talisman — proof that the scariest silhouette can read as a ward, not a threat.",
+   "citations": [
+    {"text": "N. P. Heeßel, *Pazuzu* (2002)."},
+    {"text": "F. A. M. Wiggermann, *Mesopotamian Protective Spirits* (1992)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pazuzu_amulet_86263.jpg"}
+   ],
+   "key_concepts": ["Pazuzu amulet", "wind demon", "apotropaic pendant", "anti-Lamashtu"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__pazuzu-head",
+   "title": "Cylinder seal with the head of Pazuzu (Louvre, AO 21111)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Mesopotamia); photograph by Zunkir",
+   "date": "Neo-Assyrian / Neo-Babylonian (c. 8th–6th c. BCE)",
+   "place": "Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["pazuzu", "cylinder seal", "demon head", "apotropaic", "engraving", "wind demon", "amulet", "louvre"],
+   "rights": "CC BY-SA 4.0 (photo: Zunkir). Musée du Louvre, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sceau_cylindre_tete_Pazuzu_AO_21111.jpg",
+   "summary": "A Louvre cylinder seal carved with the head of Pazuzu (AO 21111), combining the apotropaic demon with the administrative-magical technology of the seal.\n\n## Iconography\nThe **head of Pazuzu** — snarling canine muzzle, deep brow, bulging eyes — is engraved on the body of a **cylinder seal**, an object normally rolled across clay to authenticate documents. Here the demon's face turns the seal into a protective device as much as a signature.\n\n## Significance\nThe disembodied **Pazuzu head** was itself a potent apotropaion, believed to embody the whole demon; seals and amulets bearing it carried his warding power. The crossover of seal and amulet shows how Mesopotamian magic permeated even bureaucratic objects, and prefigures the later use of seals and signs to bind demons in the [[motif:incantation-bowl|bowl spells]] and grimoire tradition.\n\n## For artists & game designers\nA stamp/seal whose impression *is* a protective demon — a neat fusion of identity-marking and warding magic.",
+   "citations": [
+    {"text": "N. P. Heeßel, *Pazuzu* (2002)."},
+    {"text": "D. Collon, *First Impressions: Cylinder Seals in the Ancient Near East* (1987)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sceau_cylindre_tete_Pazuzu_AO_21111.jpg"}
+   ],
+   "key_concepts": ["Pazuzu head", "cylinder seal", "apotropaic seal", "wind demon"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__burney-relief",
+   "title": "The Burney Relief / Queen of the Night (British Museum)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Old Babylonian); photograph by Osama Shukir Muhammed Amin",
+   "date": "Old Babylonian period (c. 1800–1750 BCE)",
+   "place": "Southern Mesopotamia (Babylonia)",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["queen of the night", "winged goddess", "talons", "owls", "lions", "rod and ring", "underworld", "british museum"],
+   "rights": "CC BY-SA 4.0 (photo: Osama Shukir Muhammed Amin). The British Museum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Burney,_or_the_Queen_of_the_Night,_relief_inside_a_display_case._The_British_Museum,_London.jpg",
+   "summary": "The Burney Relief, also called the 'Queen of the Night' — an Old Babylonian terracotta plaque of a winged, bird-taloned goddess long debated as Ishtar, Ereshkigal, or a Lilith-figure.\n\n## Iconography\nA nude **winged** female stands frontally on the backs of two **lions**, flanked by **owls**, her feet ending in bird **talons**. She holds the **rod-and-ring** symbols of divine authority and wears the horned crown of a deity. The talons and owls give her a nocturnal, chthonic character.\n\n## Significance\nThe identity of the figure is contested: she has been read as **Ishtar/Inanna**, as her underworld sister **Ereshkigal**, or — in older and popular literature — as a *lilītu* (Lilith-type) night-demon, a reading now largely doubted by specialists. Whatever her name, the relief stands at the source of the imagery of dangerous winged female night-powers that flows down to the **Lilith** of the later [[motif:incantation-bowl|incantation bowls]]. I keep the identification open, following the British Museum and Frankfort's classic discussion.\n\n## For artists & game designers\nThe definitive 'winged night-goddess' silhouette — talons, owls, lions — endlessly reusable for an ambiguous deity who is neither wholly good nor wholly demonic.",
+   "citations": [
+    {"text": "H. Frankfort, 'The Burney Relief,' *Archiv für Orientforschung* 12 (1937–39)."},
+    {"text": "D. Collon, *The Queen of the Night* (British Museum Objects in Focus, 2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Burney,_or_the_Queen_of_the_Night,_relief_inside_a_display_case._The_British_Museum,_London.jpg"}
+   ],
+   "key_concepts": ["Burney Relief", "Queen of the Night", "winged goddess", "Lilith debate"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__apkallu-genie",
+   "title": "Assyrian winged genie, Palace of Ashurnasirpal II at Nimrud",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Neo-Assyrian); photograph by Gary Todd",
+   "date": "Neo-Assyrian (883–859 BCE)",
+   "place": "Nimrud (Kalhu), Assyria",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["apkallu", "winged genie", "purification", "cone and bucket", "protective spirit", "relief", "ashurnasirpal", "nimrud"],
+   "rights": "Public domain (CC0, photo: Gary Todd). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bas_Relief_of_Assyrian_Winged_Genie,_Palace_of_Ashurnasirpal_II,_Nimrud,_883-859_BC_(48465285282).jpg",
+   "summary": "A Neo-Assyrian relief of a winged 'genie' (apkallu) from the Northwest Palace of Ashurnasirpal II at Nimrud, performing a rite of purification and protection.\n\n## Iconography\nThe bearded, **winged** figure stands in profile holding a **cone** (a date-palm spathe) in one hand and a **bucket** (*banduddû*) in the other, the implements of a purifying, fertilizing aspersion. He wears a horned cap marking divine or semi-divine status. These are the **apkallu** — protective sages or genii.\n\n## Significance\nThe **apkallu** were the antediluvian sages of Mesopotamian lore, guardians of secret wisdom who carried out apotropaic and purificatory rites. Lined along palace walls and buried as figurines under thresholds, they protected the king and the building from demons and disease. They embody the *benign* pole of the same protective magic whose hostile targets are the demons trapped in the [[motif:incantation-bowl|incantation bowls]]. Wiggermann's *Mesopotamian Protective Spirits* (1992) is the key study.\n\n## For artists & game designers\nThe quintessential 'guardian sage' figure — winged, ritually equipped, lining the walls as a permanent protective garrison.",
+   "citations": [
+    {"text": "F. A. M. Wiggermann, *Mesopotamian Protective Spirits: The Ritual Texts* (1992)."},
+    {"text": "J. E. Reade, *Assyrian Sculpture* (1983)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bas_Relief_of_Assyrian_Winged_Genie,_Palace_of_Ashurnasirpal_II,_Nimrud,_883-859_BC_(48465285282).jpg"}
+   ],
+   "key_concepts": ["apkallu", "winged genie", "purification rite", "protective spirit"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__apkallu-fish",
+   "title": "Ea/Enki flanked by fish-cloaked apkallu, basalt basin from Assur (Pergamon Museum)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Neo-Assyrian); photograph by Osama Shukir Muhammed Amin",
+   "date": "Neo-Assyrian, reign of Sennacherib (7th c. BCE)",
+   "place": "Assur, Assyria",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["apkallu", "fish cloak", "ea enki", "water basin", "purification", "sage", "relief", "pergamon"],
+   "rights": "CC BY-SA 4.0 (photo: Osama Shukir Muhammed Amin). Pergamon Museum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:God_Ea_(Sumerian_Enki),_flanked_by_fish-cloaked_apkallus,_part_of_a_basalt_water_basin_from_Assur,_Iraq._Reign_of_Sennacherib,_7th_century_BCE._Pergamon_Museum.jpg",
+   "summary": "A basalt water-basin from Assur carved with the god Ea/Enki flanked by fish-cloaked apkallu sages — the aquatic, purifying form of Mesopotamia's protective genii.\n\n## Iconography\nThe central figure is **Ea (Sumerian Enki)**, god of the sweet waters and of wisdom and magic, identified by the streams flowing from his shoulders. He is flanked by **apkallu** wearing the whole skin of a great **fish** as a cloak, the fish-head rising above their own — the *purādu*-fish sages associated with the primordial sage Adapa/Oannes.\n\n## Significance\nThe **fish-cloaked apkallu** are the bringers of civilization and the masters of purification and exorcism, who served Ea, the divine patron of incantation. Figurines of these beings were buried under floors to ward off evil, exactly as the [[motif:incantation-bowl|incantation bowls]] would later be. The basin, used in temple purification rites, ties the apotropaic sages to the cleansing power of water that runs through Mesopotamian magic. See Wiggermann (1992) and the *Bīt Rimki* ritual.\n\n## For artists & game designers\nThe fish-cloak priest is a striking, under-used 'water-magic exorcist' design — half-man, half-fish, attendant on a god of the deep.",
+   "citations": [
+    {"text": "F. A. M. Wiggermann, *Mesopotamian Protective Spirits* (1992)."},
+    {"text": "S. Parpola, 'The Assyrian Tree of Life,' *JNES* 52 (1993)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:God_Ea_(Sumerian_Enki),_flanked_by_fish-cloaked_apkallus,_part_of_a_basalt_water_basin_from_Assur,_Iraq._Reign_of_Sennacherib,_7th_century_BCE._Pergamon_Museum.jpg"}
+   ],
+   "key_concepts": ["apkallu", "fish-cloaked sage", "Ea/Enki", "purification magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__humbaba-mask",
+   "title": "Mask of the demon Humbaba (Louvre, SB 6567)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Old Babylonian); photograph by Shonagon",
+   "date": "Old Babylonian period (c. early 2nd millennium BCE)",
+   "place": "Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["humbaba", "huwawa", "demon mask", "coiled face", "entrails", "apotropaic", "divination", "louvre"],
+   "rights": "Public domain (CC0, photo: Shonagon). Musée du Louvre, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Masque_du_d%C3%A9mon_Humbaba_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_6567.jpg",
+   "summary": "A clay mask of Humbaba (Huwawa), the monstrous guardian of the Cedar Forest slain by Gilgamesh, whose face was rendered as a single coiling line.\n\n## Iconography\nThe grimacing **Humbaba** face is formed from one continuous **coiled line**, a labyrinthine pattern that ancient sources explicitly compared to the convolutions of animal **entrails**. The result is a frontal, apotropaic grotesque — a face that menaces whoever meets its gaze.\n\n## Significance\n**Humbaba/Huwawa** is the terrible guardian-demon of the *Epic of Gilgamesh*, but his single-line face had a second life in **extispicy** (divination by entrails): omen texts state that when the coils of a sheep's intestines formed 'the face of Humbaba,' it portended revolution or a usurper. The mask thus links epic myth, [[motif:apotropaic|apotropaic]] art, and Babylonian divination. Discussed by Wiggermann and by the Gilgamesh scholarship of A. R. George.\n\n## For artists & game designers\nA monster whose entire face is one unbroken maze-line — a brilliant, instantly recognizable motif for a labyrinth-guardian or omen-sign.",
+   "citations": [
+    {"text": "A. R. George, *The Babylonian Gilgamesh Epic* (2003)."},
+    {"text": "F. A. M. Wiggermann, *Mesopotamian Protective Spirits* (1992)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Masque_du_d%C3%A9mon_Humbaba_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_6567.jpg"}
+   ],
+   "key_concepts": ["Humbaba", "demon mask", "entrails divination", "Gilgamesh"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "incantation_bowls__cylinder-seal-demon",
+   "title": "Cylinder seal with archer and winged lion-demon (Walters Art Museum)",
+   "work": "Mesopotamian Incantation Bowls & Apotropaic Demonology",
+   "creator": "Anonymous (Mesopotamia)",
+   "date": "1st millennium BCE",
+   "place": "Mesopotamia",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": ["cylinder seal", "winged lion", "demon", "archer", "combat", "engraving", "amulet", "walters"],
+   "rights": "Public domain. The Walters Art Museum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mesopotamian_-_Cylinder_Seal_with_Archer_and_Winged_Lion_-_Walters_421195_-_Top.jpg",
+   "summary": "A Mesopotamian cylinder seal engraved with an archer confronting a winged lion-demon — a contest scene that doubled as a protective device.\n\n## Iconography\nThe rolled-out design shows an **archer** drawing his bow against a **winged lion** or composite demon, a version of the ancient Near Eastern 'contest' or 'hero-vs-beast' scene. Cut into hardstone, the seal both authenticated and protected, the engraved combat charging the little cylinder with warding force.\n\n## Significance\n**Cylinder seals** were Mesopotamia's signature personal objects, worn on a cord and used to sign documents, but they were also amulets: the choice of imagery — gods, protective genii, the defeat of demons — gave them apotropaic value. Scenes of a hero or god overpowering a demonic beast assert order over chaos, the same victory dramatized in the [[motif:lamashtu|Lamashtu]] plaques and later sealed into the [[motif:incantation-bowl|incantation bowls]]. Standard reference: D. Collon, *First Impressions* (1987).\n\n## For artists & game designers\nA tiny rollable object whose imprinted scene is a frozen boss-fight — identity, signature, and protective talisman in one.",
+   "citations": [
+    {"text": "D. Collon, *First Impressions: Cylinder Seals in the Ancient Near East* (1987)."},
+    {"text": "Walters Art Museum, acc. 42.1195."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mesopotamian_-_Cylinder_Seal_with_Archer_and_Winged_Lion_-_Walters_421195_-_Top.jpg"}
+   ],
+   "key_concepts": ["cylinder seal", "contest scene", "winged demon", "apotropaic seal"],
+   "summary_status": "authored"
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "_work": {
+   "key": "fortune_fate",
+   "short_id": "FORT",
+   "title": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "various",
+   "date": "1st c.–19th c.",
+   "century": 16,
+   "place": "Italy, France, German lands, the Low Countries, Spain, Egypt",
+   "region": "Europe",
+   "language": "Latin, French, German, Italian",
+   "era": "renaissance",
+   "tradition": "reception",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "fortune_fate",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rota_Fortunae",
+   "rights": "Public domain / CC0 (per item). Via Wikimedia Commons.",
+   "motifs": ["wheel of fortune", "fortuna", "the three fates", "kairos occasio", "father time", "ages of man"],
+   "blurb": "The personified powers of destiny in esoteric and reception iconography: the turning Wheel of Fortune of medieval manuscripts (Boethius, the Hortus Deliciarum, Boccaccio, Lydgate), the Renaissance Fortuna with her wheel, rudder and globe, the three Fates (Moirai / Parcae) who spin, measure and cut the thread of life, bald-behind Kairos / Occasio the seized moment of Opportunity, Saturn-Chronos and Father Time with scythe and hourglass, the staircase Ages of Man, and the Norse Norns and city-goddess Tyche. Works are dated to the surviving artwork."
+ },
+ "entries": [
+  {
+   "id": "fortune_fate__boethius-fortune-wheel",
+   "title": "The Wheel of Fortune (Consolation of Philosophy)",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Anonymous (French illuminator)",
+   "date": "15th c.",
+   "place": "France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["wheel of fortune", "fortuna", "blindfold", "rise and fall", "kings", "regno regnabo regnavi", "boethius", "mutability"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Boethius,_Consolatio_philosophiae_(French).jpg",
+   "summary": "A French manuscript illumination of Fortune turning her wheel, illustrating Boethius's *De consolatione philosophiae*.\n\n## Iconography\n**Fortuna**, often blindfolded, stands at the hub and cranks the great **wheel** to which four crowned figures cling: one rises (*regnabo*, 'I shall reign'), one sits enthroned at the top (*regno*, 'I reign'), one tumbles head-down (*regnavi*, 'I have reigned'), and one is crushed beneath (*sum sine regno*, 'I am without a kingdom'). The cycle of rise and fall is read clockwise around the rim.\n\n## Significance\nBoethius's sixth-century *Consolation*, written in prison awaiting execution, gave the Middle Ages its master-image of [[motif:wheel-of-fortune|mutability]]: Lady Philosophy teaches that Fortune's gifts are by nature inconstant, and her turning wheel became the visual emblem of worldly instability in countless manuscripts. The blindfold marks her indifference to merit.\n\n## For artists & game designers\nA self-contained 'status wheel': four stations (rising, ruling, falling, fallen) that can drive a board, a luck mechanic, or a fate UI.",
+   "citations": [
+    {"text": "Boethius, *De consolatione philosophiae* (c. 524)."},
+    {"text": "H. R. Patch, *The Goddess Fortuna in Mediaeval Literature* (1927)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Boethius,_Consolatio_philosophiae_(French).jpg"}
+   ],
+   "key_concepts": ["Wheel of Fortune", "Boethius", "mutability", "Fortuna"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__hortus-deliciarum-wheel",
+   "title": "The Wheel of Fortune (Hortus Deliciarum)",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Herrad of Landsberg (workshop)",
+   "date": "1167–1185 (19th-c. facsimile of the lost original)",
+   "place": "Hohenburg Abbey, Alsace",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["wheel of fortune", "fortuna", "rise and fall", "king toppled", "monastic encyclopedia", "herrad of landsberg", "moralized wheel", "vanity of power"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fighting_Knight-Puppets_%26_Wheel_of_Fortune_from_Hortus_Deliciarum_by_Herrad_of_Landsberg,_1167-85_(27665671887).jpg",
+   "summary": "The Wheel of Fortune from Herrad of Landsberg's *Hortus Deliciarum*, the great twelfth-century monastic encyclopedia (known through facsimiles after the original burned in 1870).\n\n## Iconography\nA large **wheel** carries figures up one side, over a crowned **king** at the summit, and down the other as he is toppled and cast to the ground. **Fortuna** turns the mechanism, and accompanying labels moralize each stage of the ascent and fall.\n\n## Significance\nCompiled by the abbess **Herrad of Landsberg** for the nuns of Hohenburg, the *Hortus Deliciarum* ('Garden of Delights') set the [[motif:wheel-of-fortune|Wheel of Fortune]] within a Christian teaching program on the vanity of earthly power. Its destruction in the siege of Strasbourg makes the surviving copies precious witnesses to one of the earliest fully developed medieval wheels.\n\n## For artists & game designers\nThe wheel as moral diagram with captioned stages — a model for an annotated 'rise-and-ruin' sequence.",
+   "citations": [
+    {"text": "Herrad of Landsberg, *Hortus Deliciarum* (c. 1167–85)."},
+    {"text": "R. Green et al., *Herrad of Hohenbourg: Hortus Deliciarum* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fighting_Knight-Puppets_%26_Wheel_of_Fortune_from_Hortus_Deliciarum_by_Herrad_of_Landsberg,_1167-85_(27665671887).jpg"}
+   ],
+   "key_concepts": ["Wheel of Fortune", "Hortus Deliciarum", "Herrad of Landsberg", "vanity of power"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__boccaccio-fortune",
+   "title": "The Wheel of Fortune (French Boccaccio manuscript)",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Anonymous (French illuminator)",
+   "date": "15th c.",
+   "place": "France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["wheel of fortune", "fortuna", "fall of princes", "de casibus", "tumbling kings", "boccaccio", "tragedy", "rise and fall"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fortune_wheel_(15c.,_French).jpg",
+   "summary": "A fifteenth-century French illumination of Fortune's wheel in the tradition of Boccaccio's *De casibus virorum illustrium*.\n\n## Iconography\n**Fortuna** turns the **wheel** on which crowned and noble figures rise, reign, and are flung down. The mood is tragic: princes who climbed to the summit are shown in the act of falling, illustrating the *casus*—the catastrophic reversal—of the great.\n\n## Significance\nBoccaccio's *De casibus virorum illustrium* ('On the Fates of Famous Men', c. 1360) catalogued the downfalls of the illustrious as warnings against trusting [[motif:wheel-of-fortune|Fortune]]. Translated by Laurent de Premierfait and into English by Lydgate, it made the falling-prince wheel a staple of late-medieval moral illustration and a root of Renaissance tragedy.\n\n## For artists & game designers\nThe 'fall of princes' framing turns the wheel into a roster of cautionary boss-figures, each defined by the height from which they drop.",
+   "citations": [
+    {"text": "Giovanni Boccaccio, *De casibus virorum illustrium* (c. 1360)."},
+    {"text": "H. R. Patch, *The Goddess Fortuna in Mediaeval Literature* (1927)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fortune_wheel_(15c.,_French).jpg"}
+   ],
+   "key_concepts": ["Wheel of Fortune", "Boccaccio", "De casibus", "fall of princes"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__rota-fortunae-ms",
+   "title": "The Wheel of Fortune (Lydgate's Troy Book)",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Anonymous (English illuminator)",
+   "date": "15th c.",
+   "place": "England",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["wheel of fortune", "fortuna", "siege of troy", "rise and fall", "lydgate", "tumbling kings", "tragedy", "mutability"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lydgate-siege-troy-wheel-fortune-detail.jpg",
+   "summary": "A detail of Fortune's wheel from a manuscript of John Lydgate's *Troy Book*, the great English verse history of the siege of Troy.\n\n## Iconography\n**Fortuna** turns the **wheel** bearing the figures of the rising, reigning, and falling, here applied to the heroes and kings of the Trojan War whose glory is overturned. The image gathers the whole story's tragedies under the single sign of inconstant Fortune.\n\n## Significance\nLydgate, a Benedictine monk and the most prolific English poet of the fifteenth century, framed his *Troy Book* (1412–20) within the *De casibus* tradition he inherited from Boccaccio: the fall of Troy becomes the supreme exemplum of how [[motif:wheel-of-fortune|Fortune]] humbles even the greatest. The motif passed from such manuscripts into the 'Mirror for Magistrates' and Elizabethan drama.\n\n## For artists & game designers\nA literary-historical wheel—useful for showing how a single fate-icon can index an entire epic of reversals.",
+   "citations": [
+    {"text": "John Lydgate, *Troy Book* (1412–20)."},
+    {"text": "H. R. Patch, *The Goddess Fortuna in Mediaeval Literature* (1927)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lydgate-siege-troy-wheel-fortune-detail.jpg"}
+   ],
+   "key_concepts": ["Wheel of Fortune", "Lydgate Troy Book", "fall of princes", "mutability"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__durer-nemesis",
+   "title": "Nemesis (The Great Fortune)",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Albrecht Dürer",
+   "date": "c. 1501–1502",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["fortuna", "nemesis", "winged figure", "globe sphere", "bridle and goblet", "retribution", "aerial landscape", "das grosse gluck"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_Nemesis,_1501-1502.jpg",
+   "summary": "Dürer's monumental engraving known as *Nemesis* or *Das grosse Glück* ('The Great Fortune'), the winged goddess of measured retribution balanced on a sphere above the world.\n\n## Iconography\nA powerful winged **figure** stands on a floating **sphere** high above a meticulously rendered Alpine **landscape**, holding a **goblet** (reward) and a **bridle** (restraint). Her body is rendered with deliberate, unidealized realism after Vitruvian proportion. The sphere beneath her feet marks the instability of fortune.\n\n## Significance\nDürer fuses **Fortuna** with **Nemesis**, the goddess of just retribution, following Politian's Latin poem *Manto*: she rewards and punishes, dispensing the cup and the curb. Standing on the rolling [[motif:fortuna|sphere]] rather than the wheel, she is the humanist, classicized reworking of medieval Fortune into an agent of measured cosmic justice.\n\n## For artists & game designers\nThe reward-and-restraint pairing (cup vs. bridle) is a compact icon for a balancing power that both grants and reins in—a karma or luck deity.",
+   "citations": [
+    {"text": "Angelo Poliziano, *Manto*."},
+    {"text": "E. Panofsky, *The Life and Art of Albrecht Dürer* (1943)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_Nemesis,_1501-1502.jpg"}
+   ],
+   "key_concepts": ["Nemesis", "Fortuna", "Dürer engraving", "retribution"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__fortuna-beham",
+   "title": "Fortuna (Luck)",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Hans Sebald Beham",
+   "date": "1541",
+   "place": "Nuremberg / Frankfurt, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["fortuna", "sphere", "billowing sail", "nude goddess", "instability", "little master engraving", "winds of fortune", "balance"],
+   "rights": "Public domain. Statens Museum for Kunst, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hans_Sebald_Beham,_Lykke_Fortuna_,_1541,_KKSgb21897,_Statens_Museum_for_Kunst.jpg",
+   "summary": "Hans Sebald Beham's small engraving *Fortuna* of 1541, the goddess of luck poised on a sphere amid the winds.\n\n## Iconography\nThe nude **Fortuna** balances precariously on a rolling **sphere**, her hair and drapery caught by the **winds** that drive her this way and that, sometimes holding a billowing sail or cloth. Her unstable footing on the ball is the essential sign of fortune's inconstancy.\n\n## Significance\nBeham, one of the German *Kleinmeister* ('Little Masters') and a pupil-follower of Dürer, distilled [[motif:fortuna|Fortuna]] into the Renaissance emblematic type that supplanted the medieval wheel: a nude figure on a sphere or globe, blown by wind, never still. The image circulated widely as a moral commonplace on the precariousness of worldly success.\n\n## For artists & game designers\nThe 'figure on a rolling ball in the wind' is the most economical possible icon of instability—one body, one sphere, motion implied.",
+   "citations": [
+    {"text": "H. R. Patch, *The Goddess Fortuna in Mediaeval Literature* (1927)."},
+    {"text": "G. Pauli, *Hans Sebald Beham: Ein kritisches Verzeichnis seiner Kupferstiche* (1901)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hans_Sebald_Beham,_Lykke_Fortuna_,_1541,_KKSgb21897,_Statens_Museum_for_Kunst.jpg"}
+   ],
+   "key_concepts": ["Fortuna", "sphere of fortune", "Hans Sebald Beham", "instability"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__fortuna-rudder-globe",
+   "title": "Isis-Fortuna with Rudder and Cornucopia",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Anonymous (Roman Egypt)",
+   "date": "1st–2nd c. CE",
+   "place": "Egypt (Roman period)",
+   "era": "antiquity",
+   "tradition": "reception",
+   "motifs": ["fortuna", "isis-fortuna", "rudder", "cornucopia", "globe", "tyche", "syncretism", "abundance"],
+   "rights": "Public domain. Walters Art Museum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Isis-Fortuna_-_Walters_54943_-_Group.jpg",
+   "summary": "A Roman-Egyptian bronze statuette of Isis-Fortuna in the Walters Art Museum, fusing the Egyptian goddess Isis with the Roman Fortuna.\n\n## Iconography\nThe goddess holds a **rudder** (the steering of destiny) set upon a small **globe**, and cradles a **cornucopia** (the horn of plenty) in the other arm; she often wears the lunar disk and horns of **Isis**. The rudder and globe steer fate; the cornucopia pours out abundance.\n\n## Significance\nThe rudder, globe and cornucopia are the classic attributes of **Fortuna / Tyche**: she steers the course of human affairs and dispenses prosperity. In Roman Egypt she merged with **Isis** in the syncretic cult that Apuleius celebrates, making [[motif:fortuna|Fortuna]] both cosmic helmsman and giver of plenty. This is the antique root of the later Fortuna-with-rudder iconography.\n\n## For artists & game designers\nThe attribute trio—rudder, globe, cornucopia—reads instantly as 'controls destiny and grants abundance', ideal for a luck or harvest deity.",
+   "citations": [
+    {"text": "Apuleius, *Metamorphoses* (The Golden Ass) XI."},
+    {"text": "Walters Art Museum, object 54.943."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Isis-Fortuna_-_Walters_54943_-_Group.jpg"}
+   ],
+   "key_concepts": ["Isis-Fortuna", "rudder of fate", "cornucopia", "Roman Egypt"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__tyche-antioch",
+   "title": "The Tyche of Antioch",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Roman copy after Eutychides of Sicyon",
+   "date": "Roman copy (c. 1st–2nd c. CE) after a bronze of c. 300 BCE",
+   "place": "Antioch / Rome (Vatican Museums)",
+   "era": "antiquity",
+   "tradition": "reception",
+   "motifs": ["tyche", "city goddess", "mural crown", "river god orontes", "cornucopia", "fortune of the city", "eutychides", "civic fortune"],
+   "rights": "Public domain. Vatican Museums, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Tyche_Antioch_Vatican_Inv2672.jpg",
+   "summary": "A Roman marble copy (Vatican) of Eutychides's celebrated bronze *Tyche of Antioch*, the personified Fortune of the city.\n\n## Iconography\n**Tyche** sits on a rock wearing a **mural crown** (a circuit of city walls) and holding sheaves of grain or a **cornucopia**; at her feet swims the youthful **river-god Orontes**, the river of Antioch. Her seated, turning pose conveys the protective good fortune of a great city.\n\n## Significance\nCreated c. 300 BCE by **Eutychides**, a pupil of Lysippos, for the new Seleucid capital, the *Tyche of Antioch* became the model for the civic **Tyche / Fortuna** of cities throughout the Greco-Roman world. The mural crown marks her as the embodied [[motif:fortuna|Fortune]] and guardian of the polis—fate localized as the luck of a place.\n\n## For artists & game designers\nThe mural-crowned, river-god-at-the-feet formula is a ready template for a personified 'genius of the city' or settlement-guardian figure.",
+   "citations": [
+    {"text": "Pausanias on Eutychides; T. Dohrn, *Die Tyche von Antiochia* (1960)."},
+    {"text": "Vatican Museums, inv. 2672."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Tyche_Antioch_Vatican_Inv2672.jpg"}
+   ],
+   "key_concepts": ["Tyche of Antioch", "civic Fortune", "mural crown", "Eutychides"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__kairos-occasio",
+   "title": "Occasio arrepta (Opportunity Seized)",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Joannes David (Jan David), S.J.",
+   "date": "1605",
+   "place": "Antwerp, the Low Countries",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["kairos occasio", "opportunity", "forelock", "bald behind", "winged feet", "razor and wheel", "fleeting moment", "emblem"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Occasio_arrepta_1605_(152843312).jpg",
+   "summary": "An emblematic engraving from Jan David's *Occasio arrepta, neglecta* (Antwerp, 1605), depicting Occasio—Opportunity, the Latinized Kairos—as the seizable fleeting moment.\n\n## Iconography\n**Occasio** is the figure with a long **forelock** at the front of the head but **bald behind**, often poised on a rolling wheel or sphere with **winged feet** and a **razor**: she can be grasped by the hair only as she approaches, never once she has passed. The young figures who seize or miss her forelock dramatize opportunity taken and lost.\n\n## Significance\nThe image derives from the Greek **Kairos** ('the right moment'), the youthful god sculpted by Lysippos with a forelock and razor, Latinized in the Renaissance as **Occasio** and codified by Alciato's emblem *In occasionem*. Jesuit emblem books like David's used [[motif:kairos-occasio|Occasio]] as a moral lesson on seizing the fleeting chance for grace. The proverbial 'taking time by the forelock' descends directly from this figure.\n\n## For artists & game designers\nThe forelock-and-bald-back design is a perfect 'limited-time event' icon: graspable only in a narrow window, ungraspable once it has passed.",
+   "citations": [
+    {"text": "Andrea Alciato, *Emblematum liber*, 'In occasionem'."},
+    {"text": "Jan David, *Occasio arrepta, neglecta* (Antwerp, 1605)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Occasio_arrepta_1605_(152843312).jpg"}
+   ],
+   "key_concepts": ["Kairos", "Occasio", "seizing opportunity", "emblem book"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__father-time",
+   "title": "Father Time (design for a funerary monument)",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Anonymous (after a French ornament-print series)",
+   "date": "late 17th–18th c.",
+   "place": "France / the Low Countries",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["father time", "scythe", "hourglass", "wings", "old man", "vanitas", "chronos", "mortality"],
+   "rights": "Public domain (CC0). Rijksmuseum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ontwerp_met_Vader_Tijd_Ontwerpen_voor_tabernakels,_altaren_en_epitafen_(serietitel)_Nouveau_Livre_de_diverses_Desseins_(..)_pour_Tabernacles_Autels,_Epitaphes_(..)_(serietitel),_RP-P-1912-1181.jpg",
+   "summary": "A design featuring Father Time (Vader Tijd) from a printed series of patterns for tabernacles, altars and epitaphs (Rijksmuseum).\n\n## Iconography\n**Father Time** appears as a winged old man bearing a **scythe** and an **hourglass**, here incorporated into a funerary monument design. The scythe mows down life; the hourglass measures its running-out; the wings show time's flight. As a memorial ornament he presides over mortality.\n\n## Significance\n**Father Time** is the late descendant of **Chronos / Saturn**, his scythe and hourglass marking him as the devourer and measurer of all things. The conflation of Greek Chronos ('Time') with the Titan Kronos / [[motif:saturn-chronos|Saturn]] produced the familiar bearded reaper of [[motif:vanitas|vanitas]] imagery, ubiquitous on tombs and clocks from the Baroque onward.\n\n## For artists & game designers\nScythe + hourglass + wings is the irreducible 'time/death' kit—instantly legible on a clock face, a tomb, or a reaper NPC.",
+   "citations": [
+    {"text": "E. Panofsky, 'Father Time', in *Studies in Iconology* (1939)."},
+    {"text": "Rijksmuseum, RP-P-1912-1181."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ontwerp_met_Vader_Tijd_Ontwerpen_voor_tabernakels,_altaren_en_epitafen_(serietitel)_Nouveau_Livre_de_diverses_Desseins_(..)_pour_Tabernacles_Autels,_Epitaphes_(..)_(serietitel),_RP-P-1912-1181.jpg"}
+   ],
+   "key_concepts": ["Father Time", "scythe and hourglass", "vanitas", "Chronos"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__saturn-planet",
+   "title": "The Planet Saturn and His Influence on the World",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Anonymous (Netherlandish engraver)",
+   "date": "16th–17th c.",
+   "place": "the Low Countries",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": ["saturn chronos", "planet saturn", "scythe", "children of the planets", "melancholy", "capricorn aquarius", "labour and old age", "astral influence"],
+   "rights": "Public domain (CC0). Rijksmuseum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:De_planeet_Saturnus_en_zijn_invloed_op_de_wereld,_RP-P-OB-7465.jpg",
+   "summary": "A 'children of the planets' engraving showing Saturn and the human activities, ages and temperaments governed by his influence (Rijksmuseum).\n\n## Iconography\n**Saturn** rides across the sky in his chariot bearing a **scythe**, with his zodiacal houses **Capricorn** and **Aquarius**; below, the 'children of Saturn' labour at the harshest tasks—digging, tanning, imprisonment, old age and death—the melancholic, earthbound lives ruled by the planet.\n\n## Significance\nThe **Planetenkinder** ('children of the planets') series mapped each planet's astral influence onto the trades and temperaments of those born under it. As lord of [[motif:melancholy|melancholy]], cold, age and toil, [[motif:saturn-chronos|Saturn]]—simultaneously the devouring Titan Kronos and the planet of time—governed the lowest and most laborious lives, as analyzed in Klibansky, Panofsky & Saxl's *Saturn and Melancholy*.\n\n## For artists & game designers\nA single sheet that links a celestial body to a whole social stratum—useful for a planet-rules-its-people worldbuilding mechanic.",
+   "citations": [
+    {"text": "R. Klibansky, E. Panofsky & F. Saxl, *Saturn and Melancholy* (1964)."},
+    {"text": "Rijksmuseum, RP-P-OB-7465."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:De_planeet_Saturnus_en_zijn_invloed_op_de_wereld,_RP-P-OB-7465.jpg"}
+   ],
+   "key_concepts": ["Saturn", "children of the planets", "melancholy", "astral influence"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__three-fates",
+   "title": "The Three Parcae (Fates) with a Grieving Woman",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Giovanni Francesco Romanelli",
+   "date": "17th c.",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["the three fates", "moirai parcae", "spinning thread", "distaff and spindle", "shears", "thread of life", "clotho lachesis atropos", "destiny"],
+   "rights": "Public Domain Mark. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Die_drei_Parzen_mit_einer_betr%C3%BCbten_weiblichen_Gestalt_(SM_4333z).png",
+   "summary": "Giovanni Francesco Romanelli's drawing of the three Parcae (Fates) attending a grieving female figure, a Baroque treatment of the spinners of destiny.\n\n## Iconography\nThe three **Fates**—**Clotho** with the distaff who spins the thread of life, **Lachesis** who measures it, and **Atropos** with the **shears** who cuts it—work the single **thread** that is a mortal's lifespan, while a sorrowing woman looks on, her destiny in their hands.\n\n## Significance\nThe Greek **Moirai** (Roman **Parcae**)—Clotho, Lachesis and Atropos—spin, allot and sever the thread of every human life, a fate to which even the gods submit. Romanelli, a pupil of Pietro da Cortona, renders the classical [[motif:the-three-fates|trio]] in elegant Baroque line; the grieving woman makes explicit that the spinning of the thread is also the spinning of grief and mortality.\n\n## For artists & game designers\nThe spin–measure–cut division of labour gives three distinct character roles (creator, allotter, ender) for a single life-and-death mechanic.",
+   "citations": [
+    {"text": "Hesiod, *Theogony* 904–906; Plato, *Republic* X."},
+    {"text": "Staatliche Museen, drawing SM 4333z."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Die_drei_Parzen_mit_einer_betr%C3%BCbten_weiblichen_Gestalt_(SM_4333z).png"}
+   ],
+   "key_concepts": ["the three Fates", "Moirai", "Parcae", "thread of life"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__goya-atropos",
+   "title": "Atropos (The Fates)",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Francisco de Goya",
+   "date": "1819–1823",
+   "place": "Madrid, Spain",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["the three fates", "atropos", "parcae", "scissors", "flying figures", "newborn effigy", "black paintings", "destiny over a void"],
+   "rights": "Public domain. Museo del Prado, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Atropos_o_Las_Parcas.jpg",
+   "summary": "Goya's *Atropos* (*Las Parcas*), one of the Black Paintings from the Quinta del Sordo, showing the Fates hovering over a dark landscape, c. 1819–23 (Prado).\n\n## Iconography\nThree (or four) **Fates** float against a leaden sky: one holds the **scissors** of **Atropos**, one a magnifying glass, one a small effigy or newborn-like figure that may be the spun life, and a bound male figure watches helplessly. The grouping hovers weightless above a void, the thread of life reduced to nightmare.\n\n## Significance\nGoya transforms the classical [[motif:the-three-fates|Parcae]] into a hallucinatory image of inexorable destiny. Where Renaissance Fates spin elegantly, Goya's drift like specters, indifferent and grotesque; **Atropos**, 'the inflexible', with her shears, presides over a fate that cannot be appealed. The picture belongs to the despairing private murals of his late years.\n\n## For artists & game designers\nProof that the same three-Fates motif can flip from decorative allegory to pure dread—weightlessness and a dim void do the work that ornament cannot.",
+   "citations": [
+    {"text": "Hesiod, *Theogony*; on Goya, R. Hughes, *Goya* (2003)."},
+    {"text": "Museo del Prado, *Atropos (Las Parcas)*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Atropos_o_Las_Parcas.jpg"}
+   ],
+   "key_concepts": ["the three Fates", "Atropos", "Goya Black Paintings", "destiny"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__norns",
+   "title": "The Norns",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Johannes Gehrts",
+   "date": "1889",
+   "place": "German lands",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["norns", "urd verdandi skuld", "well of urd", "yggdrasil", "thread of fate", "norse fate", "world tree", "weaving destiny"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Die_Nornen.png",
+   "summary": "Johannes Gehrts's *Die Nornen* (1889), a Romantic depiction of the three Norse goddesses of fate at the foot of the world-tree.\n\n## Iconography\nThe three **Norns**—**Urd** (the past), **Verdandi** (the present) and **Skuld** (the future)—are shown by the **Well of Urd** beneath the great ash **Yggdrasil**, weaving or tending the **thread of fate** that determines the destinies of gods and men. The world-tree rises behind them.\n\n## Significance\nIn Norse cosmology the [[motif:norns|Norns]] water Yggdrasil from the Well of Urd and shape the fate of every being, the Northern counterpart to the Greek [[motif:the-three-fates|Moirai]]. Gehrts, a German history-painter active in the 19th-century Norse revival, gives them the romantic, monumental treatment that fed the Wagnerian and later fantasy imagination of the weird sisters of fate.\n\n## For artists & game designers\nA past/present/future triad bound to a sacred tree and well—a self-contained mythic site where destiny is literally cultivated.",
+   "citations": [
+    {"text": "*Völuspá* and the *Prose Edda* (Snorri Sturluson)."},
+    {"text": "H. R. Ellis Davidson, *Gods and Myths of Northern Europe* (1964)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Die_Nornen.png"}
+   ],
+   "key_concepts": ["Norns", "Urd Verdandi Skuld", "Yggdrasil", "Norse fate"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__ages-of-man",
+   "title": "The Stages of Life",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Anonymous",
+   "date": "19th c.",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["ages of man", "lebenstreppe", "staircase of life", "infancy to old age", "rise and decline", "ten decades", "memento mori", "human lifespan"],
+   "rights": "Public domain. British Museum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Stages_of_Life_BM_1992_0125_31.jpg",
+   "summary": "A popular print of *The Stages of Life*, the staircase or pyramid of the human ages from cradle to grave (British Museum).\n\n## Iconography\nThe lifespan is arranged as an ascending and descending **staircase** (*Lebenstreppe*): an infant at the lowest step, the figure rising in vigour by decades to a crowned prime at the summit (often age fifty), then declining stage by stage into stooped old age and the grave. Emblems of mortality—skeletons, an hourglass—frequently frame the scene.\n\n## Significance\nThe **Ages of Man** schema, dividing life into symmetrical rising and falling decades, descends from medieval and classical age-theory and flourished as a broadside print across Europe. The staircase form makes the lifespan a [[motif:wheel-of-fortune|rise-and-fall]] like Fortune's wheel, a [[motif:vanitas|memento mori]] reminding the viewer that ascent is inevitably followed by decline.\n\n## For artists & game designers\nThe stepped-pyramid lifespan is a ready-made progression bar: each step a decade with its own costume, vigour and emblem.",
+   "citations": [
+    {"text": "J. A. Burrow, *The Ages of Man: A Study in Medieval Writing and Thought* (1986)."},
+    {"text": "British Museum, 1992,0125.31."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Stages_of_Life_BM_1992_0125_31.jpg"}
+   ],
+   "key_concepts": ["Ages of Man", "staircase of life", "rise and decline", "memento mori"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "fortune_fate__lebenstreppe",
+   "title": "Lebenstreppe (The Staircase of Life)",
+   "work": "Fortune, Fate & Time: The Personified Powers of Destiny",
+   "creator": "Anonymous (Verlag Gustav Kühn)",
+   "date": "1886",
+   "place": "Neuruppin, German lands",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["lebenstreppe", "ages of man", "staircase of life", "decades of life", "rise and decline", "neuruppin broadside", "memento mori", "human lifespan"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lebenstreppe_Verlag_Gustav_K%C3%BChn_1886.jpg",
+   "summary": "A German *Lebenstreppe* ('staircase of life') broadside published by Gustav Kühn of Neuruppin in 1886, the German form of the Ages of Man.\n\n## Iconography\nA symmetrical **staircase** of ten steps carries a figure (or a couple) from a cradled **infant** at age ten, up through the decades to the **summit** at fifty, then down again to the bent figure of ninety and the grave at one hundred. Each decade is captioned with its character; emblems of death often close the descent.\n\n## Significance\nThe **Lebenstreppe** was a staple of the cheap, hand-coloured Neuruppiner *Bilderbogen* (picture broadsides) mass-produced for popular consumption in 19th-century Germany. It crystallized the centuries-old [[motif:ages-of-man|Ages of Man]] into a domestic moral image of the [[motif:wheel-of-fortune|rise and fall]] of a single life—a secular *memento mori* for the parlour wall.\n\n## For artists & game designers\nThe captioned ten-decade staircase is an explicit life-progression UI, each step a labelled life-stage with its own pose and mood.",
+   "citations": [
+    {"text": "J. A. Burrow, *The Ages of Man* (1986)."},
+    {"text": "On Neuruppiner Bilderbogen: K. Riha, *Bänkelsang und Moritat* (literature)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lebenstreppe_Verlag_Gustav_K%C3%BChn_1886.jpg"}
+   ],
+   "key_concepts": ["Lebenstreppe", "Ages of Man", "Neuruppin broadside", "rise and decline"],
+   "summary_status": "authored"
+  }
+ ]
+}

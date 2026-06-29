@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About — Occult Image DB</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<style>
+  .doc{max-width:760px;margin:0 auto;padding:40px 0 80px}
+  .doc h1{font-family:var(--serif);font-size:clamp(32px,4vw,48px);margin:0 0 8px}
+  .doc h2{font-family:var(--serif);color:var(--gold-bright);font-size:26px;margin:38px 0 12px}
+  .doc p,.doc li{color:var(--ink);line-height:1.7;font-size:15.5px}
+  .doc a{color:var(--gold)}
+  .doc .muted{color:var(--ink-dim)}
+  .worklist{list-style:none;padding:0;display:grid;gap:10px}
+  .worklist li{background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:12px 16px}
+  .worklist b{font-family:var(--serif);font-size:18px}
+  .worklist .src-meta{color:var(--ink-faint);font-size:13px}
+  .pill{display:inline-block;font-size:11px;border:1px solid var(--line);border-radius:999px;padding:2px 9px;color:var(--ink-dim);margin-left:6px}
+</style>
+</head>
+<body>
+<header class="site-head">
+  <div class="wrap head-inner">
+    <a class="brand" href="index.html"><span class="brand-mark">☿</span><span class="brand-name">Occult Image DB</span></a>
+    <nav class="head-nav"><a href="index.html">Explore</a><a href="gallery.html">Gallery</a><a href="browse.html">Themes</a><a href="history.html">History</a><a href="#licensing">Licensing</a></nav>
+  </div>
+</header>
+<main class="wrap">
+<article class="doc">
+  <h1>About the archive</h1>
+  <p class="muted">Occult Image DB is a browsable, scholarly-cataloged archive of <strong>whole illustrations</strong>
+     from the alchemical and occult tradition — emblems, woodcuts, engravings, diagrams, and portraits, spanning
+     late antiquity through the early modern period. It exists to put high-quality, public-domain esoteric imagery
+     in front of the people who can use it: artists, illustrators, game designers, worldbuilders, and researchers.</p>
+
+  <h2>What counts as an entry</h2>
+  <p>Each catalog record is one <em>complete</em> image as it appears in its source — a full emblem plate, an entire
+     woodcut, a whole engraved diagram, a portrait. We deliberately do <strong>not</strong> cut images into atomic
+     elements; the dragon is catalogued together with the egg, the king together with his furnace. Every record links
+     back to the page scan it came from and the institution that digitised it.</p>
+
+  <h2 id="method">Method &amp; provenance</h2>
+  <p>Images are sourced from public-domain digitisations (Internet Archive, the Bibliothèque interuniversitaire de
+     Santé, the Science History Institute, and university libraries). For each we record creator, date, place, era,
+     tradition, motif tags, rights, and a link to the source. Scholarly summaries are written from cited secondary
+     literature; where verified information is not yet in hand, the entry carries an explicit
+     <span class="ph-inline">[needs: …]</span> marker rather than invented filler. Treat un-summarised entries as
+     reliable for the image and its provenance, but pending for interpretation.</p>
+
+  <h2 id="licensing">Licensing &amp; use</h2>
+  <p>The underlying artworks are centuries old and in the <strong>public domain</strong>. The digital scans are
+     redistributed here under the rights statement recorded on each item (most are public-domain or no-known-copyright
+     library scans). For commercial work — including game assets — you are responsible for confirming the rights
+     statement on the individual item and its source institution. When in doubt, follow the “View source ↗” link and
+     check the holding library's terms.</p>
+
+  <h2 id="sources">Source works</h2>
+  <p class="muted">The current corpus draws on the following works. Counts populate from the live catalog.</p>
+  <ul class="worklist" id="worklist"><li class="muted">Loading source works…</li></ul>
+
+  <h2>Roadmap</h2>
+  <ul>
+    <li><strong>V1 (now):</strong> ~700 curated illustrations from eight flagship works, fully browsable with filters and provenance.</li>
+    <li><strong>Next:</strong> author scholarly summaries for flagship images; ingest the page-scan tier (Fludd, Khunrath, medieval &amp; grimoire manuscripts) with illustration-vs-text curation.</li>
+    <li><strong>Later:</strong> antiquity stratum (the ouroboros of Kleopatra's <em>Chrysopoeia</em>, the Theban alphabet, early furnace diagrams), grimoire seals, Victorian and modern occult revival imagery.</li>
+  </ul>
+  <p class="muted" style="margin-top:30px">Built on a foundation of public-domain scholarship. A sibling of the EmblemPrintShop and AtalantaClaudiens projects.</p>
+</article>
+</main>
+<footer class="site-foot"><div class="wrap"><p>Occult Image DB — whole-image archive of the alchemical &amp; occult tradition.</p></div></footer>
+<script>
+fetch("../data/works.json").then(r=>r.json()).then(works=>{
+  const el=document.getElementById("worklist");
+  el.innerHTML = works.sort((a,b)=> (a.date>b.date?1:-1)).map(w=>`<li>
+    <b>${w.title}</b> <span class="pill">${w.count} images</span> <span class="pill">${w.tier==="illustration"?"curated":"page scans"}</span>
+    <div class="src-meta">${w.creator} · ${w.date} · ${w.place} — ${w.tradition}</div>
+    <p style="margin:8px 0 0">${w.blurb}</p>
+    <div class="src-meta" style="margin-top:6px">${w.rights} ${w.provenance_url && !w.provenance_url.includes("PLACEHOLDER")?`· <a href="${w.provenance_url}" target="_blank" rel="noopener">source ↗</a>`:""}</div>
+  </li>`).join("");
+});
+</script>
+</body>
+</html>

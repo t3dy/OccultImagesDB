@@ -1,0 +1,421 @@
+{
+ "_work": {
+   "key": "occult_botany",
+   "short_id": "BOTA",
+   "title": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "various",
+   "date": "6th c. CE – 19th c.",
+   "century": 16,
+   "place": "Europe and the Mediterranean",
+   "region": "Europe",
+   "language": "Latin / Greek / German / vernacular",
+   "era": "renaissance",
+   "tradition": "witchcraft",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "occult_botany",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Magical_plants",
+   "rights": "Public domain / CC BY / CC0 (per item). Via Wikimedia Commons.",
+   "motifs": ["mandrake", "doctrine of signatures", "flying ointment", "poison plant", "herbal woodcut", "plant lore"],
+   "blurb": "The magical pharmacopoeia of herbalists, witches, and physicians: the anthropomorphic mandrake of the medieval herbals and the dog that uproots it, Della Porta's and Croll's doctrine of signatures, the psychoactive Solanaceae of the witches' flying ointment (henbane, belladonna, datura, monkshood, hemlock), Homer's moly against Circe, the zoophyte legends of the barnacle-goose tree and the vegetable lamb of Tartary, the apotropaic St John's wort and the flowering Glastonbury thorn, and the deadly upas tree of the Romantic imagination."
+ },
+ "entries": [
+  {
+   "id": "occult_botany__mandrake-tacuinum",
+   "title": "Fructus mandragorae (mandrake), Tacuinum Sanitatis",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Anonymous (illuminator of the Tacuinum Sanitatis)",
+   "date": "late 14th – early 15th century",
+   "place": "Northern Italy",
+   "era": "medieval",
+   "tradition": "witchcraft",
+   "motifs": ["mandrake", "mandragora", "anthropomorphic root", "tacuinum sanitatis", "health handbook", "harvest", "herbal", "humoral medicine"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fructus_mandragorae_Tacuinum_sanitatis.jpg",
+   "summary": "A page on the mandrake (*fructus mandragorae*) from a Tacuinum Sanitatis, the illustrated late-medieval handbook of health.\n\n## Iconography\nA leafy **mandrake plant** is shown with its forked, **man-shaped root** half-drawn from the earth, attended by figures harvesting it. The Tacuinum format pairs each plant or foodstuff with a note on its qualities and dangers.\n\n## Significance\nThe **Tacuinum Sanitatis**, derived from the Arabic *Taqwīm al-ṣiḥḥa* of Ibn Buṭlān, circulated in luxury illustrated copies for north-Italian courts. Its [[motif:mandrake|mandrake]] page belongs to the wider medieval tradition that read the plant's bifurcated root as a human figure — male and female — and surrounded its harvest with ritual caution. The plant's narcotic alkaloids made it a genuine anaesthetic and a staple of the witches' [[motif:flying ointment|pharmacopoeia]].\n\n## For artists & game designers\nA courtly, naturalistic mandrake set in a working garden — a gentler counterpoint to the screaming-root horror imagery.",
+   "citations": [
+    {"text": "Luisa Cogliati Arano, *The Medieval Health Handbook: Tacuinum Sanitatis* (1976)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fructus_mandragorae_Tacuinum_sanitatis.jpg"}
+   ],
+   "key_concepts": ["mandrake", "Tacuinum Sanitatis", "anthropomorphic root", "medieval herbal"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__mandrake-vienna-dioscorides",
+   "title": "Heuresis presents the mandrake to Dioscorides, Vienna Dioscorides",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Anonymous (Byzantine illuminator)",
+   "date": "c. 512 CE",
+   "place": "Constantinople",
+   "era": "antiquity",
+   "tradition": "witchcraft",
+   "motifs": ["mandrake", "mandragora", "dioscorides", "heuresis", "uprooting dog", "author portrait", "byzantine", "de materia medica"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:ViennaDioscoridesAuthorPortrait.jpg",
+   "summary": "An author portrait from the Vienna Dioscorides (*Codex medicus Graecus 1*, c. 512), showing the personification Heuresis ('Discovery') handing Dioscorides a mandrake root while the fatal dog lies at her feet.\n\n## Iconography\nThe seated physician **Dioscorides** receives a forked **mandrake root** from the standing figure of **Heuresis**; below her, a **dog** writhes in death. The image encodes the legend that the mandrake, screaming as it is torn from the earth, kills whoever pulls it — so a dog is tied to the root and made to draw it out.\n\n## Significance\nThe **Vienna Dioscorides** is the oldest and most splendid surviving illustrated copy of the *De Materia Medica*, made for the Byzantine princess Anicia Juliana. This folio is the canonical visual source for the [[motif:mandrake|mandrake]]-and-[[motif:uprooting dog|dog]] legend, repeated for a thousand years in herbals down to the early-modern witch-lore of the screaming root.\n\n## For artists & game designers\nThe origin image for 'the dog that pulls the mandrake' — a ready-made tragic mechanic in which a creature is sacrificed to harvest a deadly plant.",
+   "citations": [
+    {"text": "Pedanius Dioscorides, *De Materia Medica* (Vienna Dioscorides, Cod. med. gr. 1)."},
+    {"text": "Leslie Brubaker, 'The Vienna Dioskorides and Anicia Juliana,' in *Byzantine Garden Culture* (2002)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:ViennaDioscoridesAuthorPortrait.jpg"}
+   ],
+   "key_concepts": ["mandrake", "Vienna Dioscorides", "uprooting dog", "De Materia Medica"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__mandragora-fuchs",
+   "title": "Mandragora, from Fuchs's *De historia stirpium*",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Leonhart Fuchs (woodcut by Füllmaurer, Meyer & Speckle)",
+   "date": "1542",
+   "place": "Basel / German lands",
+   "era": "renaissance",
+   "tradition": "witchcraft",
+   "motifs": ["mandrake", "mandragora", "herbal woodcut", "leonhart fuchs", "botanical naturalism", "forked root", "renaissance herbal", "materia medica"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:De_historia_stirpium_commentarii_insignes_(Page_530)_(9367776086).jpg",
+   "summary": "The mandrake (*Mandragora*) woodcut from Leonhart Fuchs's landmark herbal *De historia stirpium commentarii insignes* (1542).\n\n## Iconography\nA finely cut **mandrake plant**: a rosette of broad leaves, bell flowers, round fruit, and the thick, **forked root** rendered with new botanical accuracy rather than as a fully human figure.\n\n## Significance\nFuchs's herbal, with its superb woodcuts by Heinrich Füllmaurer, Albrecht Meyer, and Veit Rudolph Speckle, marks the Renaissance turn toward observed, naturalistic botany. Yet the [[motif:mandrake|mandrake]] retained its occult charge: a narcotic [[motif:flying ointment|nightshade]] long tied to fertility magic, anaesthesia, and the [[motif:anthropomorphic root|man-shaped root]] of folklore. Fuchs's plate shows science and magic sharing the same plant.\n\n## For artists & game designers\nA scientifically 'real' mandrake — useful when you want the plant to read as botanically credible before its magic is revealed.",
+   "citations": [
+    {"text": "Leonhart Fuchs, *De historia stirpium commentarii insignes* (Basel, 1542)."},
+    {"text": "Frederick G. Meyer et al., *The Great Herbal of Leonhart Fuchs* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:De_historia_stirpium_commentarii_insignes_(Page_530)_(9367776086).jpg"}
+   ],
+   "key_concepts": ["mandrake", "Leonhart Fuchs", "Renaissance herbal", "botanical woodcut"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__mandrake-tractatus",
+   "title": "The man of the mandrake, *Tractatus de Herbis*",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Anonymous (medieval illuminator); photograph by Jl FilpoC",
+   "date": "medieval (Tractatus de Herbis); modern photograph",
+   "place": "Italy / British Library",
+   "era": "medieval",
+   "tradition": "witchcraft",
+   "motifs": ["mandrake", "mandragora", "anthropomorphic root", "male mandrake", "tractatus de herbis", "herbal manuscript", "humanoid plant", "folklore"],
+   "rights": "CC BY-SA 4.0 (photo: Jl FilpoC). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hombre_de_la_mandr%C3%A1gora_(Tractatus_de_Herbis,_British_Library).jpg",
+   "summary": "A 'man of the mandrake' from a *Tractatus de Herbis*, depicting the mandragora root as a fully human male figure.\n\n## Iconography\nThe **mandrake** is drawn as a **standing human figure**, leaves sprouting from the head, the body itself the root — the medieval convention that turned the forked taproot into a little man (and, in pairs, into male and female mandrakes).\n\n## Significance\nThe *Tractatus de Herbis* tradition (richly represented in British Library manuscripts) is among the chief vehicles for the [[motif:anthropomorphic root|anthropomorphic mandrake]]. The root's resemblance to the human body underwrote both the [[motif:doctrine of signatures|doctrine of signatures]] — like cures like — and the lore of the screaming, dog-harvested root. Such images blur the line between botanical illustration and the figure of a homunculus.\n\n## For artists & game designers\nA mandrake rendered as a literal little person — the purest visual form of 'the plant that is also a man'.",
+   "citations": [
+    {"text": "Minta Collins, *Medieval Herbals: The Illustrative Traditions* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hombre_de_la_mandr%C3%A1gora_(Tractatus_de_Herbis,_British_Library).jpg"}
+   ],
+   "key_concepts": ["mandrake", "anthropomorphic root", "Tractatus de Herbis", "doctrine of signatures"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__alraun",
+   "title": "Male and female mandrake (*Männliche und weibliche Alraune*)",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Anonymous (German herbal tradition)",
+   "date": "early modern (German herbal)",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "witchcraft",
+   "motifs": ["alraun", "mandrake", "male and female", "anthropomorphic root", "german folk magic", "household spirit", "fertility charm", "herbal"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnliche_und_weibliche_Alraune.png",
+   "summary": "A German herbal plate showing the male and female mandrake — the *Alraune* — as a paired human couple.\n\n## Iconography\nTwo **mandrake roots** drawn as a **man and a woman**, one bearded, one with long hair, leaves and flowers springing from their heads. The doubling into sexes is explicit, each figure rooted in the soil.\n\n## Significance\nIn German folk belief the **Alraun(e)** was more than a plant: a carved or naturally formed mandrake root kept as a household familiar, fed, clothed, and consulted, said to bring wealth, fertility, and protection to its owner. The male/female pairing reflects both the [[motif:doctrine of signatures|signature]] of the human form and the charm's role in love and fertility magic. The Alraun trade was lucrative enough to be widely faked from bryony root.\n\n## For artists & game designers\nA mandrake 'couple' that can serve as a pair of root-familiars — domestic magical beings rather than mere ingredients.",
+   "citations": [
+    {"text": "Hans Biedermann, *Dictionary of Symbolism* (1992), s.v. 'mandrake'."},
+    {"text": "Jacob Grimm, *Deutsche Mythologie* (1835), on the Alraun."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnliche_und_weibliche_Alraune.png"}
+   ],
+   "key_concepts": ["Alraun", "mandrake", "household familiar", "male and female mandrake"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__phytognomonica",
+   "title": "Della Porta, *Phytognomonica* (1588) title page",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Giambattista della Porta",
+   "date": "1588",
+   "place": "Naples",
+   "era": "renaissance",
+   "tradition": "witchcraft",
+   "motifs": ["doctrine of signatures", "phytognomonica", "della porta", "natural magic", "plant physiognomy", "sympathy", "title page", "renaissance science"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Della_Porta,_Giovan_Battista_%E2%80%93_Phytognomonica,_1588_%E2%80%93_BEIC_6468319.jpg",
+   "summary": "A page from Giambattista della Porta's *Phytognomonica* (Naples, 1588), a foundational treatise of the doctrine of signatures.\n\n## Iconography\nA printed page of the *Phytognomonica*, della Porta's work in which plants are read by their resemblances — a walnut for the brain, a scorpion-tailed seed against scorpion stings — the form of a thing disclosing its hidden virtue.\n\n## Significance\nDella Porta, the Neapolitan natural magician, systematised the [[motif:doctrine of signatures|doctrine of signatures]]: the belief that God stamped each herb with a visible 'signature' of the body part or ailment it heals. *Phytognomonica* extended his *Magia Naturalis* into a physiognomy of plants, linking macrocosm and microcosm by chains of [[motif:sympathy|sympathy]]. It is a key Renaissance bridge between magic and the emerging natural sciences.\n\n## For artists & game designers\nThe textbook of 'a plant looks like what it cures' — a clean magical logic for designing herb effects from their appearance.",
+   "citations": [
+    {"text": "Giambattista della Porta, *Phytognomonica* (Naples, 1588)."},
+    {"text": "William Eamon, *Science and the Secrets of Nature* (1994)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Della_Porta,_Giovan_Battista_%E2%80%93_Phytognomonica,_1588_%E2%80%93_BEIC_6468319.jpg"}
+   ],
+   "key_concepts": ["doctrine of signatures", "Della Porta", "natural magic", "plant physiognomy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__croll-signatures",
+   "title": "Oswald Croll, alchemical physician of signatures",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Anonymous engraver (portrait of Oswald Croll)",
+   "date": "early 17th century",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": ["doctrine of signatures", "oswald croll", "paracelsian", "alchemy", "signatura rerum", "portrait", "basilica chymica", "spagyric medicine"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Osvaldus_Crollius.jpg",
+   "summary": "A portrait of the Paracelsian physician Oswald Croll (Crollius, c. 1563–1609), author of the most influential early-modern treatise on the signatures of plants.\n\n## Iconography\nAn engraved **portrait** of **Oswaldus Crollius**, the alchemical physician shown in scholar's dress. His name is attached to the *Tractatus de signaturis internis rerum* appended to his *Basilica Chymica*.\n\n## Significance\nCroll gave the [[motif:doctrine of signatures|doctrine of signatures]] its most systematic Paracelsian formulation: the *signatura* is the outward mark by which the inner, God-given virtue of a plant may be read. Eyebright for the eyes, heart-shaped leaves for the heart — the herb's form is its label. His *Basilica Chymica* (1609) made [[motif:alchemy|spagyric]] medicine and the signature doctrine central to seventeenth-century pharmacy.\n\n## For artists & game designers\nThe alchemist-physician who codified reading cures from a plant's shape — a portrait to anchor a 'signature herbalism' system.",
+   "citations": [
+    {"text": "Oswald Croll, *Basilica Chymica* with *De signaturis internis rerum* (1609)."},
+    {"text": "Allen G. Debus, *The Chemical Philosophy* (1977)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Osvaldus_Crollius.jpg"}
+   ],
+   "key_concepts": ["doctrine of signatures", "Oswald Croll", "Paracelsian medicine", "signatura rerum"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__henbane",
+   "title": "Henbane (*Hyoscyamus niger*), Köhler's *Medizinal-Pflanzen*",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Franz Eugen Köhler (chromolithograph)",
+   "date": "1887",
+   "place": "German lands",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["henbane", "hyoscyamus", "flying ointment", "nightshade", "psychoactive plant", "witches' herb", "poison plant", "botanical plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hyoscyamus_niger_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-073.jpg",
+   "summary": "A chromolithograph of black henbane (*Hyoscyamus niger*) from Köhler's *Medizinal-Pflanzen*, one of the chief plants of the witches' flying ointment.\n\n## Iconography\nThe whole **henbane plant**: sticky, lobed leaves, and the distinctive funnel flowers — dull yellow netted with **purple veins** — with the toothed seed-capsules, drawn with botanical precision.\n\n## Significance\n**Henbane** is among the principal tropane-alkaloid nightshades (with [[motif:belladonna|belladonna]] and [[motif:datura|datura]]) of the early-modern [[motif:flying ointment|witches' flying ointment]]. Its hyoscyamine and scopolamine induce delirium, the sensation of flight, and visions — pharmacological grist for the confessions of the witch-trials. Long used too as an anaesthetic and in beer, henbane sits at the crossroads of medicine, poison, and magic.\n\n## For artists & game designers\nThe quintessential 'witch's weed': a real, deadly, vision-inducing plant with a sinister veined flower.",
+   "citations": [
+    {"text": "Franz Eugen Köhler, *Köhler's Medizinal-Pflanzen* (1887)."},
+    {"text": "Michael Pollan / Richard Rudgley, *The Encyclopedia of Psychoactive Substances* (1998)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hyoscyamus_niger_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-073.jpg"}
+   ],
+   "key_concepts": ["henbane", "flying ointment", "tropane alkaloids", "witches' herb"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__belladonna",
+   "title": "Deadly nightshade (*Atropa belladonna*), Köhler's *Medizinal-Pflanzen*",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Franz Eugen Köhler (chromolithograph)",
+   "date": "1887",
+   "place": "German lands",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["belladonna", "deadly nightshade", "atropa", "flying ointment", "poison plant", "witches' herb", "atropine", "botanical plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Atropa_belladonna_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-018.jpg",
+   "summary": "A chromolithograph of deadly nightshade (*Atropa belladonna*) from Köhler's *Medizinal-Pflanzen*, a central plant of the witches' pharmacopoeia.\n\n## Iconography\nThe **belladonna** plant with its dull purple-brown bell flowers and glossy **black berries**, drawn whole with root, leaf, flower, and fruit.\n\n## Significance\n**Atropa belladonna** takes its genus name from **Atropos**, the Fate who cuts the thread of life — a frank acknowledgment of its lethality. Its atropine and scopolamine made it a key ingredient of the [[motif:flying ointment|flying ointment]], a beautifier (Italian women dilated their pupils with it — *bella donna*), and a poison of legend. With [[motif:henbane|henbane]] and [[motif:datura|datura]] it forms the deadly trinity of magical [[motif:nightshade|Solanaceae]].\n\n## For artists & game designers\nThe glossy black berry that kills — an instantly readable poison plant with a name that already means 'fate' and 'beautiful lady'.",
+   "citations": [
+    {"text": "Franz Eugen Köhler, *Köhler's Medizinal-Pflanzen* (1887)."},
+    {"text": "Anthony John Carter, 'Myths and mandrakes,' *Journal of the Royal Society of Medicine* (2003)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Atropa_belladonna_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-018.jpg"}
+   ],
+   "key_concepts": ["belladonna", "deadly nightshade", "flying ointment", "atropine"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__datura",
+   "title": "Thornapple (*Datura stramonium*), Köhler's *Medizinal-Pflanzen*",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Franz Eugen Köhler (chromolithograph)",
+   "date": "1887",
+   "place": "German lands",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["datura", "thornapple", "jimsonweed", "flying ointment", "poison plant", "psychoactive plant", "spiny capsule", "botanical plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Datura_stramonium_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-051.jpg",
+   "summary": "A chromolithograph of thornapple (*Datura stramonium*) from Köhler's *Medizinal-Pflanzen*, the spiny-fruited nightshade of the witches' brew.\n\n## Iconography\nThe **datura** plant with its large white trumpet flowers and, most distinctively, the **spiny green seed-capsule** that gives 'thornapple' its name.\n\n## Significance\n**Datura stramonium** (thornapple, jimsonweed) is the New-World member of the magical [[motif:nightshade|Solanaceae]], rich in the same tropane alkaloids as [[motif:henbane|henbane]] and [[motif:belladonna|belladonna]] and so a natural addition to the [[motif:flying ointment|flying ointment]] and to delirium-inducing potions across many cultures. Its dramatic visions and frequent fatalities made it both a sacred entheogen and a notorious poison.\n\n## For artists & game designers\nA poison plant with a striking spiked fruit — visually distinct from the smooth berries of its nightshade cousins.",
+   "citations": [
+    {"text": "Franz Eugen Köhler, *Köhler's Medizinal-Pflanzen* (1887)."},
+    {"text": "Richard Rudgley, *The Encyclopedia of Psychoactive Substances* (1998)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Datura_stramonium_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-051.jpg"}
+   ],
+   "key_concepts": ["datura", "thornapple", "flying ointment", "entheogen"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__aconite",
+   "title": "Monkshood (*Aconitum napellus*), Köhler's *Medizinal-Pflanzen*",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Franz Eugen Köhler (chromolithograph)",
+   "date": "1887",
+   "place": "German lands",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["aconite", "monkshood", "wolfsbane", "flying ointment", "poison plant", "witches' herb", "hooded flower", "botanical plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Aconitum_napellus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-151.jpg",
+   "summary": "A chromolithograph of monkshood (*Aconitum napellus*) from Köhler's *Medizinal-Pflanzen*, the hooded poison of werewolf and witch lore.\n\n## Iconography\nThe **aconite** plant with its deeply cut leaves and tall spike of **blue-violet 'hooded' flowers**, the upper sepal forming the cowl that gives 'monkshood' its name, with the tuberous root drawn below.\n\n## Significance\n**Aconitum** ('wolfsbane') is one of the most lethal of European plants; its aconitine kills by cardiac arrest. Reputed in antiquity to have sprung from the slaver of Cerberus, it served as arrow-poison, as a charm against and a means of becoming werewolves, and — with the [[motif:nightshade|nightshades]] — as an ingredient of the witches' [[motif:flying ointment|flying ointment]], where it may have produced the numbness and racing heart read as flight.\n\n## For artists & game designers\nA beautiful blue hooded flower whose elegance hides one of nature's deadliest poisons — perfect for a deceptively pretty toxic plant.",
+   "citations": [
+    {"text": "Franz Eugen Köhler, *Köhler's Medizinal-Pflanzen* (1887)."},
+    {"text": "Michael J. Balick & Paul Alan Cox, *Plants, People, and Culture* (1996)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Aconitum_napellus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-151.jpg"}
+   ],
+   "key_concepts": ["aconite", "monkshood", "wolfsbane", "flying ointment"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__hemlock",
+   "title": "Hemlock (*Conium maculatum*), Curtis's *Flora Londinensis*",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "William Curtis & William Kilburn",
+   "date": "late 18th century",
+   "place": "London, England",
+   "era": "early_modern",
+   "tradition": "witchcraft",
+   "motifs": ["hemlock", "conium", "poison plant", "spotted stem", "witches' herb", "socrates", "umbellifer", "botanical plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Conium_maculatum_-_DPLA_-_6d4dcdf4b3f597b657bafcc391a5c984.jpg",
+   "summary": "A hand-coloured engraving of poison hemlock (*Conium maculatum*), from the circle of William Curtis's London flora.\n\n## Iconography\nThe tall **hemlock** umbellifer: finely divided fern-like leaves, flat umbels of small white flowers, and the diagnostic smooth, **purple-spotted stem**.\n\n## Significance\n**Conium maculatum** is the hemlock of Socrates' execution-cup, its coniine causing ascending paralysis. In the witches' pharmacopoeia it joins [[motif:aconite|aconite]] and the [[motif:nightshade|nightshades]] in the [[motif:flying ointment|flying ointment]] and in Shakespeare's 'root of hemlock digg'd i' the dark'. Its blotched stem was sometimes read, by the [[motif:doctrine of signatures|doctrine of signatures]], as the mark of Cain or of poison itself.\n\n## For artists & game designers\nAn innocuous-looking roadside weed — lacy white flowers, spotted stem — that is in fact a classic execution poison.",
+   "citations": [
+    {"text": "William Curtis, *Flora Londinensis* (1777–1798)."},
+    {"text": "Plato, *Phaedo*, on the death of Socrates."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Conium_maculatum_-_DPLA_-_6d4dcdf4b3f597b657bafcc391a5c984.jpg"}
+   ],
+   "key_concepts": ["hemlock", "Conium", "poison plant", "flying ointment"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__moly",
+   "title": "Moly (*Allium moly*), the herb of Hermes against Circe",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Anonymous (plant); photograph by Marie-Lan Nguyen",
+   "date": "ancient legend; modern photograph",
+   "place": "Mediterranean / Europe",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["moly", "circe", "hermes", "counter-charm", "homer", "golden garlic", "antidote herb", "odyssey"],
+   "rights": "CC BY 2.5 (photo: Marie-Lan Nguyen). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Allium_moly_JdP_2013-06-14.jpg",
+   "summary": "*Allium moly*, golden garlic — the plant long identified with the mythical *moly*, the herb Hermes gave Odysseus to resist Circe's enchantments.\n\n## Iconography\nA flowering **Allium moly**: an umbel of bright **yellow star-flowers** above strap-like leaves, rising from a white bulb — the 'golden garlic' that botanists attached to Homer's name for the magical herb.\n\n## Significance\nIn the *Odyssey*, **Hermes** plucks **moly** — 'black at the root, with a flower like milk' — and gives it to Odysseus as a counter-charm against [[motif:circe|Circe]], who has turned his men to swine. The plant 'hard for mortal men to dig' became the type of the magical antidote, debated by ancient and Renaissance botanists who variously identified it with garlic, snowdrop (whose galantamine genuinely counters anticholinergic poisons), or this golden *Allium*.\n\n## For artists & game designers\nThe original 'anti-magic herb' — a single plant that protects the hero from a witch's transformation spell.",
+   "citations": [
+    {"text": "Homer, *Odyssey* X (the herb moly)."},
+    {"text": "Andrew Dalby, *Food in the Ancient World from A to Z* (2003)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Allium_moly_JdP_2013-06-14.jpg"}
+   ],
+   "key_concepts": ["moly", "Circe", "counter-charm", "Odyssey"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__st-johns-wort",
+   "title": "St John's wort (*Hypericum perforatum*), Lindman",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Carl Axel Magnus Lindman (chromolithograph)",
+   "date": "early 20th century",
+   "place": "Sweden / Northern Europe",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["st johns wort", "hypericum", "fuga daemonum", "apotropaic herb", "midsummer", "devil-chaser", "perforated leaf", "botanical plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:230_Hypericum_perforatum.jpg",
+   "summary": "St John's wort (*Hypericum perforatum*) from Lindman's *Bilder ur Nordens Flora*, the *fuga daemonum* or 'devil-chaser' of folk magic.\n\n## Iconography\nThe **Hypericum** plant with its five-petalled **yellow flowers**, black-dotted margins, and leaves that appear **perforated** — pinpricks of translucent oil glands held up to the light.\n\n## Significance\nGathered at **Midsummer** (St John's Eve), **St John's wort** was the foremost European [[motif:apotropaic|apotropaic]] herb, hung over doors and worn to drive away the Devil, witches, storms, and the night-hag — its Latin epithet *fuga daemonum*, 'flight of demons'. The 'perforated' leaves and blood-red sap (held to be the saint's blood) gave it, by the [[motif:doctrine of signatures|doctrine of signatures]], its power over wounds and evil spirits alike.\n\n## For artists & game designers\nThe classic protective herb — a sunny midsummer flower that is in fact a ward against demons, the bright counterpart to the poison plants.",
+   "citations": [
+    {"text": "Carl Axel Magnus Lindman, *Bilder ur Nordens Flora* (1901–1905)."},
+    {"text": "Richard Folkard, *Plant Lore, Legends, and Lyrics* (1884)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:230_Hypericum_perforatum.jpg"}
+   ],
+   "key_concepts": ["St John's wort", "fuga daemonum", "apotropaic herb", "Midsummer"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__hortus-sanitatis-plant",
+   "title": "Vervain (*Verbena*), *Hortus Sanitatis* woodcut",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Anonymous (Hortus Sanitatis woodcutter)",
+   "date": "c. 1491",
+   "place": "Mainz, German lands",
+   "era": "renaissance",
+   "tradition": "witchcraft",
+   "motifs": ["vervain", "verbena", "hortus sanitatis", "herbal woodcut", "magical herb", "incunabulum", "enchanters' herb", "plant lore"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Verbena_Hortus_a.jpg",
+   "summary": "A woodcut of vervain (*Verbena*) from the *Hortus Sanitatis*, the great printed herbal of 1491.\n\n## Iconography\nA simple, bold **woodcut** of the **vervain** plant — slender spikes of small flowers on a branching stem — in the schematic, emblematic style of the early printed herbals.\n\n## Significance\nThe **Hortus Sanitatis** ('Garden of Health', Mainz, 1491) was the most comprehensive of the incunable natural encyclopaedias, treating plants, animals, and stones together. Its herb-entries preserved a wealth of magical lore: **vervain** in particular was the classical *herba sacra* and the medieval 'enchanters' herb', gathered with ritual for protection, love-magic, and the purification of altars. The Hortus's woodcuts shaped the look of the magical plant for centuries.\n\n## For artists & game designers\nA stark incunable woodcut of a magic herb — the template aesthetic for any 'old grimoire plant' illustration.",
+   "citations": [
+    {"text": "*Hortus Sanitatis* (Mainz: Jacob Meydenbach, 1491)."},
+    {"text": "Agnes Arber, *Herbals: Their Origin and Evolution* (1912)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Verbena_Hortus_a.jpg"}
+   ],
+   "key_concepts": ["vervain", "Hortus Sanitatis", "enchanters' herb", "printed herbal"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__barnacle-goose-tree",
+   "title": "The barnacle-goose tree (zoophyte legend)",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Anonymous (after early-modern sources); Wellcome Collection",
+   "date": "early modern source; later reproduction",
+   "place": "Britain / Northern Europe",
+   "era": "early_modern",
+   "tradition": "witchcraft",
+   "motifs": ["barnacle goose", "goose tree", "zoophyte", "plant-animal", "spontaneous generation", "natural wonder", "bestiary", "marvel"],
+   "rights": "CC BY 4.0. Wellcome Collection, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_%22Barnacle_Goose%22_-_showing_the_process_of_development_Wellcome_M0005646.jpg",
+   "summary": "An illustration of the barnacle-goose tree showing the legendary 'development' of geese from a tree, from the Wellcome Collection.\n\n## Iconography\nA **tree** overhanging water from which hang **goose-barnacles**; the shells open and **geese** emerge, dropping into the sea below — the supposed life-cycle of the barnacle goose, half plant, half bird.\n\n## Significance\nThe **barnacle-goose** legend held that these geese were not born of eggs but grew on trees or from rotting timber, emerging through stalked barnacles. Reported from Gerald of Wales through Gerard's *Herball*, it was a classic [[motif:zoophyte|zoophyte]] — a plant-animal — and a convenient theological loophole: a 'fish-fowl' that might be eaten in Lent. With the [[motif:vegetable lamb|vegetable lamb]] it epitomises the medieval wonder at the porous border between plant and animal.\n\n## For artists & game designers\nA tree that grows birds — a striking plant-animal hybrid straight from real medieval natural history.",
+   "citations": [
+    {"text": "Gerald of Wales, *Topographia Hibernica* (c. 1188)."},
+    {"text": "John Gerard, *The Herball* (1597), on the 'goose tree'."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_%22Barnacle_Goose%22_-_showing_the_process_of_development_Wellcome_M0005646.jpg"}
+   ],
+   "key_concepts": ["barnacle goose", "zoophyte", "spontaneous generation", "plant-animal"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__vegetable-lamb",
+   "title": "The Vegetable Lamb of Tartary (Borametz)",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Anonymous (from Henry Lee, *The Vegetable Lamb of Tartary*, 1887)",
+   "date": "1887 (illustrating an older legend)",
+   "place": "Central Asia (legend); London (printing)",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["vegetable lamb", "borametz", "barometz", "zoophyte", "plant-animal", "tartary", "natural wonder", "scythian lamb"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Vegetable_lamb_(Lee,_1887).jpg",
+   "summary": "The Vegetable Lamb of Tartary (*Borametz*), from Henry Lee's 1887 study of the legend — a plant that bore a living lamb as its fruit.\n\n## Iconography\nA stout **plant** rising on a single stalk, at whose top grows a woolly **lamb**, tethered by the stem at its navel; it grazes the grass within its reach until, exhausting it, both plant and lamb die.\n\n## Significance\nThe **vegetable lamb** (*Borametz*, *Barometz*, the 'Scythian Lamb') was a celebrated [[motif:zoophyte|zoophyte]] of medieval and early-modern travel-lore, reported by Mandeville and others as growing in Tartary. Like the [[motif:barnacle goose|barnacle goose]] it dramatised the supposed continuity between plant and animal, and was later rationalised as a garbled account of the cotton plant. Henry Lee's 1887 monograph collected its whole tangled history.\n\n## For artists & game designers\nA plant whose fruit is a tethered, grazing lamb — one of the most charming and bizarre plant-animal hybrids in the Western imagination.",
+   "citations": [
+    {"text": "Henry Lee, *The Vegetable Lamb of Tartary* (London, 1887)."},
+    {"text": "John Mandeville, *The Travels* (14th c.)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Vegetable_lamb_(Lee,_1887).jpg"}
+   ],
+   "key_concepts": ["vegetable lamb", "Borametz", "zoophyte", "Tartary"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__upas-tree",
+   "title": "*The Upas, or Poison-Tree, in the Island of Java*, Francis Danby",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Francis Danby",
+   "date": "c. 1820",
+   "place": "England (subject: Java)",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["upas tree", "poison tree", "antiaris", "death valley", "romantic landscape", "deadly plant", "java", "sublime"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Francis_Danby_-_The_Upas,_or_Poison-Tree,_in_the_Island_of_Java.jpg",
+   "summary": "Francis Danby's Romantic painting *The Upas, or Poison-Tree, in the Island of Java* (c. 1820), depicting the legendary tree that killed all who approached it.\n\n## Iconography\nA vast, blasted **landscape** strewn with bones and corpses, dominated by the solitary **upas tree** on a barren crag — a sublime vision of a poisoned valley where nothing lives.\n\n## Significance\nThe **upas** (*Antiaris toxicaria*) is a real Javanese tree with a genuinely toxic latex used for dart-poison, but eighteenth-century travellers' tales (notably a 1783 hoax account) magnified it into a tree so venomous that its exhalations killed every living thing for miles — a poisoned desert ringed with skeletons. Erasmus Darwin's verse and Danby's [[motif:sublime|sublime]] canvas fixed it in the Romantic imagination as the type of the deadly plant.\n\n## For artists & game designers\nA single tree that poisons an entire valley — a ready-made 'death-zone' biome built around one malevolent plant.",
+   "citations": [
+    {"text": "Erasmus Darwin, *The Loves of the Plants* (1789), on the upas."},
+    {"text": "Donald Beecher, 'The Legend of the Upas Tree,' in studies of early-modern marvels."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Francis_Danby_-_The_Upas,_or_Poison-Tree,_in_the_Island_of_Java.jpg"}
+   ],
+   "key_concepts": ["upas tree", "poison tree", "Antiaris", "Romantic sublime"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_botany__glastonbury-thorn",
+   "title": "The Glastonbury Thorn (*Crataegus monogyna* 'Biflora')",
+   "work": "The Occult Herbal — Magical Plants & the Doctrine of Signatures",
+   "creator": "Anonymous (living tree); photograph by Rimstone",
+   "date": "legend medieval; modern photograph",
+   "place": "Glastonbury, England",
+   "era": "modern",
+   "tradition": "witchcraft",
+   "motifs": ["glastonbury thorn", "holy thorn", "hawthorn", "joseph of arimathea", "christmas flowering", "sacred tree", "miracle plant", "relic"],
+   "rights": "Public domain (CC0, photo: Rimstone). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:St._Albans_Glastonbury_Thorn.jpg",
+   "summary": "A Glastonbury Thorn, the winter-flowering hawthorn whose legend ties it to Joseph of Arimathea and the founding of English Christianity.\n\n## Iconography\nA **hawthorn tree** of the rare 'Biflora' form, which blossoms **twice a year** — once in spring and again around **Christmas**, the midwinter flowering that made it a marvel.\n\n## Significance\nLegend held that **Joseph of Arimathea**, coming to Glastonbury, thrust his staff into the ground at Wearyall Hill, where it rooted and flowered — the original **Holy Thorn**. Its uncanny Christmas blossoming was read as a standing miracle; sprigs were sent to the monarch each year, and Puritans hacked at the tree as superstitious. It stands at the meeting point of [[motif:apotropaic|sacred plant]] lore, relic-cult, and the broader English mythology of Glastonbury as the Isle of Avalon.\n\n## For artists & game designers\nA holy tree grown from a saint's staff that flowers at midwinter — a perfect 'miracle plant' tied to a sacred site.",
+   "citations": [
+    {"text": "James P. Carley, *Glastonbury Abbey* (1988)."},
+    {"text": "Richard Folkard, *Plant Lore, Legends, and Lyrics* (1884)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:St._Albans_Glastonbury_Thorn.jpg"}
+   ],
+   "key_concepts": ["Glastonbury Thorn", "Joseph of Arimathea", "Holy Thorn", "sacred tree"],
+   "summary_status": "authored"
+  }
+ ]
+}

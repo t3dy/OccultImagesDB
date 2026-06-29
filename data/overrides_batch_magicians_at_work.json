@@ -1,0 +1,682 @@
+{
+ "_work": {
+  "key": "magicians_at_work",
+  "short_id": "MAGW",
+  "title": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+  "creator": "various",
+  "date": "15th–19th c.",
+  "century": 17,
+  "place": "Western Europe (England, France, German lands, Italy, Near East)",
+  "region": "Europe",
+  "language": "Latin",
+  "era": "early_modern",
+  "tradition": "goetia_grimoire",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "magicians_at_work",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Magicians",
+  "rights": "Public domain / CC0 / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "magic circle",
+   "evocation",
+   "necromancy",
+   "grimoire",
+   "wand and book",
+   "conjured spirit"
+  ],
+  "blurb": "Prints and paintings of ceremonial magicians, necromancers, and conjurers performing their operations — the magus in his study, the necromancer raising the dead, Faust in the circle facing Mephistopheles, John Dee at Elizabeth's court and Edward Kelley over an open grave, Solomon commanding demons, the Witch of Endor calling up Samuel, and the diviner casting his figures. The visual archive of magic as something done."
+ },
+ "entries": [
+  {
+   "id": "magicians_at_work__dee-kelley-necromancy",
+   "title": "Edward Kelley Raising a Ghost (Dee and Kelley necromancy)",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Robert Cross Smith ('Raphael')",
+   "date": "1825 (engraving)",
+   "place": "England",
+   "era": "modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "necromancy",
+    "magic circle",
+    "raising the dead",
+    "churchyard",
+    "torches",
+    "grimoire",
+    "conjured spirit",
+    "two magicians"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Edward_Kelly_raising_a_ghost.jpg",
+   "summary": "The famous necromantic scene of John Dee and Edward Kelley raising the dead in a churchyard, the most reproduced image of Elizabethan ceremonial magic in action.\n\n## Iconography\nTwo cloaked magicians stand within a protective double [[motif:magic circle|magic circle]] inscribed with names and signs, holding books and torches by night among the graves and a ruined church. A shrouded, risen corpse — the conjured shade — stands before them. The circle's perimeter is crowded with divine and angelic names that ward the operators from the spirit they have called.\n\n## Significance\nThe engraving was popularized by the astrologer Robert Cross Smith ('Raphael') in *The Astrologer of the Nineteenth Century* (1825), which mythologized Dee and his scryer Edward Kelley as graveyard necromancers — a lurid Romantic legend rather than a record of their actual angelic 'actions.' It nonetheless became the canonical picture of necromancy, fixing the iconography of two magi, a warded circle, and a risen dead. Studies of Dee's reception by Deborah Harkness and György Szőnyi trace how the historical mathematician became this folk-image of the black magician.\n\n## For artists & game designers\nThe definitive necromancer tableau: two operators, a double-warded circle, torches, graves, and a single risen shade — readable at a glance as 'raising the dead.'",
+   "citations": [
+    {
+     "text": "Robert Cross Smith, *The Astrologer of the Nineteenth Century* (1825)."
+    },
+    {
+     "text": "György E. Szőnyi, *John Dee's Occultism* (2004)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Edward_Kelly_raising_a_ghost.jpg"
+    }
+   ],
+   "key_concepts": [
+    "necromancy",
+    "magic circle",
+    "John Dee and Edward Kelley",
+    "raising the dead"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__dee-before-elizabeth",
+   "title": "John Dee Performing an Experiment before Queen Elizabeth I",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Henry Gillard Glindoni",
+   "date": "late 19th c.",
+   "place": "England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "court magician",
+    "natural philosophy",
+    "experiment",
+    "queen and courtiers",
+    "magus",
+    "brazier",
+    "demonstration",
+    "Elizabethan"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Henry_Gillard_Glindoni_-_John_Dee_performing_an_experiment_before_Queen_Elizabeth_I.jpg",
+   "summary": "Henry Gillard Glindoni's painting of John Dee demonstrating his art before Queen Elizabeth I and her court — the magus as respected royal philosopher rather than hedge-conjurer.\n\n## Iconography\nDee, robed and bearded, stands before a fire or brazier in a great chamber, gesturing as Elizabeth and her courtiers look on. He performs a 'natural experiment' — chemistry, optics, or astrology presented as wonder. Famously, an X-ray of the canvas revealed that Glindoni first painted Dee inside a ring of human skulls, which the artist or a patron later painted out, softening necromancer into natural philosopher.\n\n## Significance\nThe picture dramatizes the double reputation of John Dee (1527–1609) — Elizabeth's learned adviser on navigation, calendar reform, and astrology, and, in legend, a conjurer of spirits. The painted-over skulls literally embody the Victorian ambivalence about whether Dee was scientist or sorcerer. The work is now at the Wellcome Collection. Glindoni specialized in costume-drama historical genre scenes.\n\n## For artists & game designers\nA model for the 'court magician' set-piece: the mage performing a controlled wonder before a watching monarch, the spectacle of magic as political theatre.",
+   "citations": [
+    {
+     "text": "Benjamin Woolley, *The Queen's Conjuror: The Science and Magic of Dr John Dee* (2001)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Henry_Gillard_Glindoni_-_John_Dee_performing_an_experiment_before_Queen_Elizabeth_I.jpg"
+    }
+   ],
+   "key_concepts": [
+    "John Dee",
+    "court magician",
+    "natural philosophy",
+    "Wellcome Collection"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__rembrandt-faust",
+   "title": "Faust in His Study (Rembrandt etching)",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Rembrandt van Rijn",
+   "date": "c. 1652 (etching)",
+   "place": "Dutch Republic",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "scholar magus",
+    "study",
+    "luminous disk",
+    "anamorphic inscription",
+    "vision",
+    "etching",
+    "conjured apparition",
+    "window light"
+   ],
+   "rights": "CC0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn,_Faust,_c._1652,_NGA_49134.jpg",
+   "summary": "Rembrandt's celebrated etching traditionally called *Faust*: a scholar-magus rising from his desk before a glowing apparition of letters at the window.\n\n## Iconography\nA bearded scholar in his cluttered study turns toward a window where a radiant disk has materialized — a wheel of letters and a cabbalistic inscription (including INRI and an anagrammatic formula) hovering in light, a hand pointing within it. Books, a globe, and a skull surround him. The magus does not stand in a circle but receives a luminous vision, magic rendered as illumination rather than evocation.\n\n## Significance\nThe plate (c. 1652) was already associated with Faust in the seventeenth century and was reused as a frontispiece to an edition of Goethe's *Faust*. Its glowing anagram has been read as a magical-cabbalistic formula, making it the great Baroque image of the learned magician at the threshold of revelation. The print is held at the National Gallery of Art and elsewhere; scholarship by Christopher White and H. Perry Chapman addresses its esoteric reading.\n\n## For artists & game designers\nA gentler vocabulary for spellcasting: not a summoned demon but a hovering ring of glowing glyphs — magic as light and text breaking into the scholar's room.",
+   "citations": [
+    {
+     "text": "Christopher White, *Rembrandt as an Etcher* (1969)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn,_Faust,_c._1652,_NGA_49134.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Faust",
+    "scholar-magus",
+    "cabbalistic inscription",
+    "Rembrandt etching"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__delacroix-faust",
+   "title": "Mephistopheles Presents Himself to Martha (Delacroix, Faust)",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Eugène Delacroix",
+   "date": "1828 (lithograph)",
+   "place": "France",
+   "era": "modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "Mephistopheles",
+    "Faust legend",
+    "devil",
+    "pact",
+    "lithograph",
+    "Romantic",
+    "tempter",
+    "diabolical bargain"
+   ],
+   "rights": "CC0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mephistopheles_presents_himself_to_Martha_(Goethe,_Faust)_MET_DP852078.jpg",
+   "summary": "A lithograph from Eugène Delacroix's celebrated series illustrating Goethe's *Faust*, showing the devil Mephistopheles among mortals.\n\n## Iconography\nThe sardonic, sharp-featured Mephistopheles — feathered cap, cloak, blade — insinuates himself into a domestic scene, the diabolical intelligence moving among the human characters of the drama. Delacroix's flickering lithographic line gives the tempter a restless, predatory grace.\n\n## Significance\nDelacroix produced seventeen lithographs for the 1828 French edition of Goethe's *Faust*; Goethe himself praised them. The series fixed the Romantic image of Mephistopheles as the elegant, ironic devil with whom the magician-scholar Faust has bargained — the spirit raised and bound being the very figure who damns the conjurer. The plates are a touchstone of nineteenth-century book illustration and of the Faust legend's grip on the Romantic imagination; the Met and other museums hold impressions.\n\n## For artists & game designers\nThe template for a charismatic devil-familiar: not a monster but a witty, well-dressed spirit who is far more dangerous for being personable.",
+   "citations": [
+    {
+     "text": "Johann Wolfgang von Goethe, *Faust* (Paris ed., 1828), illustrated by Delacroix."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Mephistopheles_presents_himself_to_Martha_(Goethe,_Faust)_MET_DP852078.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Faust",
+    "Mephistopheles",
+    "Delacroix lithographs",
+    "diabolical pact"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__faust-mephistopheles",
+   "title": "Faust Title-page with the Conjuration (British Museum print)",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Anonymous engraver",
+   "date": "17th–18th c.",
+   "place": "England / German lands",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "Faust",
+    "magic circle",
+    "conjuration",
+    "title page",
+    "summoned devil",
+    "scholar magician",
+    "study",
+    "engraving"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Print,_title-page_(BM_1895,1031.924_1).jpg",
+   "summary": "An engraved title-page print (British Museum) of the Faust legend, showing the scholar conjuring within his circle as a devil appears.\n\n## Iconography\nThe magician stands inside an inscribed [[motif:magic circle|magic circle]] in his study, book and rod in hand, while a horned or grotesque spirit rises before him in answer to the conjuration. Such title-page vignettes condensed the whole Faust story — pact, evocation, damnation — into a single emblematic image of the man in the circle facing what he has called.\n\n## Significance\nThe Faust *Volksbuch* (chapbook) of 1587 and its many translations and dramatizations (including Marlowe's *Doctor Faustus*) were furnished with woodcut and engraved frontispieces of exactly this scene: the over-reaching scholar conjuring Mephistopheles inside the circle. These prints, gathered in the British Museum and elsewhere, are the popular iconographic stock from which the 'magician in the magic circle' became a fixed European image.\n\n## For artists & game designers\nThe archetypal evocation frame: one operator, one inscribed circle, one rising spirit — the minimum visual grammar for 'a magician summons a demon.'",
+   "citations": [
+    {
+     "text": "*Historia von D. Johann Fausten* (Frankfurt, 1587)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Print,_title-page_(BM_1895,1031.924_1).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Faust",
+    "magic circle",
+    "conjuration",
+    "Faustbuch"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__roger-bacon-brazen-head",
+   "title": "Friar Bacon's Brazen Head",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Anonymous woodblock engraver",
+   "date": "17th–18th c. (woodcut)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "brazen head",
+    "automaton oracle",
+    "Roger Bacon",
+    "Friar Bungay",
+    "necromancy",
+    "scholar magician",
+    "prophecy",
+    "woodcut"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Friar_Bacon%27s_Brazen_Head.png",
+   "summary": "A woodcut of the legendary Brazen Head built by Friar Roger Bacon — the prophesying brass automaton of medieval magical legend.\n\n## Iconography\nThe scene shows the bearded friar-magician with his apparatus and the speaking head of brass, the oracular automaton that, the legend says, would utter the words 'Time is,' 'Time was,' 'Time is past' before shattering. A sleeping servant misses the moment, dooming the great work. The print belongs to the chapbook tradition of *The Famous Historie of Fryer Bacon*.\n\n## Significance\nThe historical Roger Bacon (c. 1219–1292), Franciscan natural philosopher and experimenter, was transformed by later legend into a necromancer who, aided by Friar Bungay and a bound spirit, sought to build a wall of brass around England by means of a speaking head. Robert Greene's play *Friar Bacon and Friar Bungay* (c. 1589) dramatized the tale. The brazen head became the emblem of forbidden artificial knowledge — the medieval ancestor of the thinking machine.\n\n## For artists & game designers\nThe original talking-oracle automaton: a constructed head that speaks true prophecy but only at the instant its maker is unprepared.",
+   "citations": [
+    {
+     "text": "Robert Greene, *Friar Bacon and Friar Bungay* (c. 1589)."
+    },
+    {
+     "text": "William Newman, on medieval legends of artificial life."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Friar_Bacon%27s_Brazen_Head.png"
+    }
+   ],
+   "key_concepts": [
+    "Roger Bacon",
+    "brazen head",
+    "automaton oracle",
+    "necromantic legend"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__magic-circle-conjuration",
+   "title": "A Peep into Friar Bacon's Study (Rowlandson)",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Thomas Rowlandson (print), publ. William Humphrey",
+   "date": "late 18th c.",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "magician's study",
+    "conjuration",
+    "magic circle",
+    "Roger Bacon",
+    "raised spirit",
+    "satire",
+    "skull and book",
+    "etching"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A_peep_into_Friar_Bacon%27s_study._(BM_1851,0901.178).jpg",
+   "summary": "Thomas Rowlandson's print *A Peep into Friar Bacon's Study*, a view into the conjurer's cabinet with its instruments of evocation.\n\n## Iconography\nThe magician's study is crowded with the props of his art — books, skull, globe, magical apparatus — and the conjuring magician at work raising or commanding a spirit. As a Rowlandson production the image carries a satirical edge, but it faithfully assembles the standard furniture of the evocation scene: the study as the necromancer's laboratory.\n\n## Significance\nBy the late eighteenth century the figure of Friar Bacon and the conjurer's study had become stock subjects for English print satire, even as antiquarian and Romantic interest in 'the black art' revived. Rowlandson (1757–1827), the great caricaturist, here treats the magician's cabinet as a scene of wonder and mockery at once. Such prints transmitted the visual inventory of the magus — circle, skull, grimoire, apparition — to a broad popular audience. The impression is held by the British Museum.\n\n## For artists & game designers\nA complete prop list for a wizard's study in one frame: skull, globe, open grimoire, alembics, and a half-summoned shape in the air.",
+   "citations": [
+    {
+     "text": "British Museum, print collection (1851,0901.178)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:A_peep_into_Friar_Bacon%27s_study._(BM_1851,0901.178).jpg"
+    }
+   ],
+   "key_concepts": [
+    "magician's study",
+    "conjuration",
+    "Roger Bacon",
+    "Rowlandson"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__solomon-demons-temple",
+   "title": "King Solomon and Two Demons (Persian manuscript)",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "'Aliquli (illuminator)",
+   "date": "Safavid / Qajar period",
+   "place": "Near East (Persia)",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "Solomon",
+    "commanded demons",
+    "div",
+    "enthroned king",
+    "spirits in service",
+    "Persian miniature",
+    "seal of Solomon",
+    "manuscript painting"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:%60Aliquli_-_King_Solomon_and_Two_Demons_-_Walters_W62494B_-_Full_Page.jpg",
+   "summary": "A Persian manuscript painting of King Solomon enthroned with two demons (*divs*) brought into his service — the master who commands the spirits.\n\n## Iconography\nSolomon sits enthroned in royal majesty while two grotesque, horned *divs* (demons) attend or kneel before him, subdued. In the Islamicate Solomon cycle the king rules men, beasts, winds, and the *jinn* and *divs* alike, who labour at his command. The painting bears the name of the illuminator 'Aliquli and is held by the Walters Art Museum.\n\n## Significance\nBoth biblical and Qur'anic tradition make Solomon (Sulaymān) the archetypal master of spirits, whose signet ring sealed the demons and compelled them to build the Temple and serve his will. This image of the king commanding bound demons is the root of the whole Solomonic grimoire tradition — the *Key of Solomon* and *Lesser Key* claim his authority over the seventy-two spirits. The Walters W.624 manuscript is one of many Persian witnesses to the Solomon-and-the-*divs* iconography studied by Marina Tolmacheva and others.\n\n## For artists & game designers\nThe ideal 'spirit-binder king' image: a serene ruler flanked by subdued demons who do his building and his bidding.",
+   "citations": [
+    {
+     "text": "Walters Art Museum, MS W.624."
+    },
+    {
+     "text": "Qur'an, Sūrat Ṣād and Sūrat al-Anbiyāʾ (on Sulaymān and the jinn)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:%60Aliquli_-_King_Solomon_and_Two_Demons_-_Walters_W62494B_-_Full_Page.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Solomon",
+    "commanded demons",
+    "Solomonic magic",
+    "Persian manuscript"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__witch-of-endor",
+   "title": "Saul and the Witch of Endor Raising Samuel",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Anonymous engraver (Rijksmuseum)",
+   "date": "16th–17th c. (engraving)",
+   "place": "Netherlands",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "Witch of Endor",
+    "necromancy",
+    "raising the dead",
+    "prophet Samuel",
+    "King Saul",
+    "conjured shade",
+    "biblical magic",
+    "engraving"
+   ],
+   "rights": "CC0 (Rijksmuseum). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Saul_bij_de_heks_van_Endor_Saul,_te_rade_gaande_met_de_toveresse_te_Endor,_doet_Samuel_opkomen_(titel_op_object),_RP-P-1937-818.jpg",
+   "summary": "An engraving of the Witch (medium) of Endor calling up the dead prophet Samuel at the request of King Saul — the great biblical scene of necromancy.\n\n## Iconography\nThe robed woman of Endor performs her conjuration as the shade of the prophet Samuel rises, while the terrified King Saul recoils or kneels. The apparatus of necromancy — circle, smoke, gestures of summoning — frames the risen spirit, who delivers Saul's doom. The Dutch title on the Rijksmuseum print names Saul consulting 'the sorceress at Endor' to make Samuel appear.\n\n## Significance\nThe episode (1 Samuel 28), in which the desperate Saul, having banned mediums, secretly visits the woman of Endor on the eve of battle, was the single scriptural warrant most debated in early-modern arguments about whether the dead can truly be raised. It anchored treatises on witchcraft and spirits by Reginald Scot, Jean Bodin, and others, and was endlessly engraved. The Rijksmuseum holds this and many related prints of the subject.\n\n## For artists & game designers\nThe biblical proof-text for séance and necromancy alike: a medium, a frightened patron, and a risen prophet who answers only with bad news.",
+   "citations": [
+    {
+     "text": "Bible, 1 Samuel 28 (Saul and the medium at Endor)."
+    },
+    {
+     "text": "Reginald Scot, *The Discoverie of Witchcraft* (1584)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Saul_bij_de_heks_van_Endor_Saul,_te_rade_gaande_met_de_toveresse_te_Endor,_doet_Samuel_opkomen_(titel_op_object),_RP-P-1937-818.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Witch of Endor",
+    "necromancy",
+    "Samuel and Saul",
+    "biblical magic"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__prospero",
+   "title": "Miranda, Prospero, and Caliban (The Tempest)",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "George Romney",
+   "date": "late 18th c.",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "Prospero",
+    "magus",
+    "staff and book",
+    "The Tempest",
+    "island magician",
+    "Caliban",
+    "Miranda",
+    "oil painting"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:George_Romney_-_Miranda,_Prospero,_and_Caliban-_The_Tempest_-_Google_Art_Project.jpg",
+   "summary": "George Romney's painting of Prospero with his daughter Miranda and the creature Caliban, from Shakespeare's *The Tempest* — the benevolent magus who commands spirits.\n\n## Iconography\nThe robed Prospero, the deposed Duke of Milan turned island sorcerer, presides over his daughter Miranda and the monstrous Caliban. In the play his power flows from his books and his magic staff or mantle, and from the airy spirit Ariel whom he commands. Romney's Romantic treatment casts the magician as a grave, paternal figure of authority rather than a diabolist.\n\n## Significance\nProspero is the literary apotheosis of the Renaissance magus — a learned prince whose 'art' (drawn, scholars note, from the natural-magic tradition of Agrippa and John Dee) raises tempests, binds spirits, and finally renounces magic by drowning his book. The figure has been read by Frances Yates and others as Shakespeare's portrait of the Hermetic philosopher-magician. Romney (1734–1802) painted several Shakespearean subjects for Boydell's Shakespeare Gallery.\n\n## For artists & game designers\nThe 'good wizard' archetype: a robed master whose power lives in a book and a staff, and whose final act of strength is to give that power up.",
+   "citations": [
+    {
+     "text": "William Shakespeare, *The Tempest* (c. 1611)."
+    },
+    {
+     "text": "Frances A. Yates, *The Occult Philosophy in the Elizabethan Age* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:George_Romney_-_Miranda,_Prospero,_and_Caliban-_The_Tempest_-_Google_Art_Project.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Prospero",
+    "Renaissance magus",
+    "The Tempest",
+    "staff and book"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__tarot-magician",
+   "title": "Le Bateleur — The Magician (Dodal Tarot de Marseille)",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Jean Dodal",
+   "date": "c. 1701–1715",
+   "place": "France (Lyon)",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": [
+    "the magician",
+    "le bateleur",
+    "tarot trump",
+    "wand",
+    "table of implements",
+    "cups and coins",
+    "infinity gesture",
+    "woodcut card"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jean_Dodal_Tarot_trump_01.jpg",
+   "summary": "*Le Bateleur* ('the Magician' or juggler), the first trump of the Tarot de Marseille, in Jean Dodal's early-eighteenth-century Lyon pattern.\n\n## Iconography\nA standing figure in a wide brimmed hat holds a wand or baton aloft over a table strewn with implements — cups, coins, knives, dice. In the woodcut Marseille tradition he is the *bateleur*, the conjurer or sleight-of-hand showman; the four suit-tokens on his table came to be read esoterically as the magician's command of the four elements. His raised wand and the brim's lemniscate shape were later interpreted as signs of cosmic power.\n\n## Significance\nFrom the eighteenth century onward — through Court de Gébelin, Éliphas Lévi, and the Golden Dawn — the humble *Bateleur* was reinterpreted as 'The Magician,' the adept who unites the four elemental tools to channel the divine current ('as above, so below'). Dodal's deck (Lyon, c. 1701–15) is one of the canonical surviving Marseille patterns. The card became the tarot's emblem of the will-directed magician.\n\n## For artists & game designers\nThe magician's loadout in one card: wand in hand, the four elemental tools laid out on the table, ready to be combined.",
+   "citations": [
+    {
+     "text": "Michael Dummett, *The Game of Tarot* (1980)."
+    },
+    {
+     "text": "Éliphas Lévi, *Dogme et rituel de la haute magie* (1856)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jean_Dodal_Tarot_trump_01.jpg"
+    }
+   ],
+   "key_concepts": [
+    "the Magician",
+    "le bateleur",
+    "Tarot de Marseille",
+    "elemental tools"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__edward-kelly",
+   "title": "Frontispiece, The Astrologer of the Nineteenth Century (1825)",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Internet Archive Book Images (after the 1825 edition)",
+   "date": "1825",
+   "place": "England",
+   "era": "modern",
+   "tradition": "astrology",
+   "motifs": [
+    "astrologer",
+    "magus frontispiece",
+    "occult emblems",
+    "celestial science",
+    "grimoire revival",
+    "engraving",
+    "ceremonial magic",
+    "book illustration"
+   ],
+   "rights": "Public domain (No restrictions). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_astrologer_of_the_nineteenth_century_(1825)_(14763333022).jpg",
+   "summary": "An illustration from *The Astrologer of the Nineteenth Century* (1825), the lavishly engraved compendium of astrology and magic edited by 'Raphael' (Robert Cross Smith).\n\n## Iconography\nThe plate belongs to the dense emblematic apparatus of the book — magi, celestial figures, and the props of ceremonial magic and astrology assembled to advertise the 'whole art' of the stars and spirits. Such frontispieces presented the nineteenth-century magus as heir to Dee, Lilly, and Sibly.\n\n## Significance\n*The Astrologer of the Nineteenth Century* was a key vehicle of the early-Victorian occult revival, reprinting and illustrating older grimoire and astrological material for a popular market; it is the same volume that popularized the 'Edward Kelley raising a ghost' necromancy scene catalogued here. Its editor Robert Cross Smith ('Raphael') founded a lineage of *Raphael's* almanacs that ran for over a century. The work bridges the learned magic of the seventeenth century and the modern occult revival studied by Ronald Hutton and Alison Butler.\n\n## For artists & game designers\nA model for an in-world 'magician's manual' frontispiece: a crowded emblematic title plate promising mastery of stars and spirits alike.",
+   "citations": [
+    {
+     "text": "Robert Cross Smith ('Raphael'), *The Astrologer of the Nineteenth Century* (1825)."
+    },
+    {
+     "text": "Alison Butler, *Victorian Occultism and the Making of Modern Magic* (2011)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:The_astrologer_of_the_nineteenth_century_(1825)_(14763333022).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Raphael",
+    "occult revival",
+    "astrologer",
+    "grimoire reprint"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__necromancer-circle",
+   "title": "The Necromancer; or, Harlequin Doctor Faustus (pantomime fleuron)",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "John Rich (deviser)",
+   "date": "1723 (printed playbill / fleuron)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "necromancer",
+    "Doctor Faustus",
+    "pantomime",
+    "harlequin",
+    "conjuration",
+    "stage magic",
+    "printed fleuron",
+    "devil"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A_dramatick_entertainment,_called_the_Necromancer;_or,_Harlequin_Doctor_Faustus_Fleuron_T147278-6.png",
+   "summary": "A printed fleuron from *The Necromancer; or, Harlequin Doctor Faustus*, John Rich's enormously popular London pantomime of 1723.\n\n## Iconography\nThe small engraved ornament condenses the Faust-necromancer theme for the stage: the conjuring magician and the diabolical apparatus of the pantomime's plot, in which Doctor Faustus raises spirits and is finally carried off by devils. As a typographic *fleuron* it is a miniature emblem rather than a full scene.\n\n## Significance\nJohn Rich's *Necromancer* (Lincoln's Inn Fields, 1723) was one of the first great English pantomimes and helped fix the Faust legend as popular spectacle — the necromancer's conjurations turned into stage machinery, transformations, and a hellish finale. Its success drove the eighteenth-century vogue for 'Harlequin' magic entertainments. The fleuron survives in the printed text catalogued in the English Short Title Catalogue (T147278).\n\n## For artists & game designers\nA reminder that the necromancer was also pure entertainment: stage-trap conjurations and a devil's exit make magic a show as much as a threat.",
+   "citations": [
+    {
+     "text": "John O'Brien, *Harlequin Britain: Pantomime and Entertainment, 1690–1760* (2004)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:A_dramatick_entertainment,_called_the_Necromancer;_or,_Harlequin_Doctor_Faustus_Fleuron_T147278-6.png"
+    }
+   ],
+   "key_concepts": [
+    "necromancer",
+    "Harlequin Doctor Faustus",
+    "pantomime",
+    "stage conjuration"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__geomancer",
+   "title": "Sikidy: The Diviner Casting Geomantic Figures",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Anonymous (c. 1900 photograph/print)",
+   "date": "c. 1900",
+   "place": "Madagascar",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": [
+    "geomancy",
+    "sikidy",
+    "diviner at work",
+    "casting figures",
+    "seeds and grains",
+    "divinatory tableau",
+    "fate reading",
+    "ombiasy"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sikidy_1900_01.jpg",
+   "summary": "A diviner performing *sikidy*, the Malagasy form of geomancy, arranging seeds into the grid of figures from which fate is read.\n\n## Iconography\nThe *ombiasy* (diviner) sits before an array of seeds or grains laid out in columns and rows. By randomly grouping the seeds and reducing them in pairs, he generates a tableau of binary 'figures' — the same odd/even geomantic figures used across the Old World — and interprets their positions to answer the client's question. The image captures divination as a manual, deliberate operation.\n\n## Significance\n*Sikidy* is the Malagasy branch of the great geomantic family that runs from the Arabic *ʿilm al-raml* ('science of the sand') through medieval Latin *geomantia* to West African *Ifá* and European fortune-telling. All share the method of generating sixteen four-line figures from a random binary process and reading them in a chart of houses. Studies by Stephen Ellis and the anthropology of Malagasy divination document *sikidy* as a living system. It exemplifies 'the diviner at work' — magic as calculation rather than evocation.\n\n## For artists & game designers\nA tactile divination minigame: cast and pair tokens to build a binary chart, then read the resulting figures as an oracle.",
+   "citations": [
+    {
+     "text": "Stephen Ellis & Solofo Randrianja, *Madagascar: A Short History* (2009)."
+    },
+    {
+     "text": "Wim van Binsbergen, on geomantic divination systems."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Sikidy_1900_01.jpg"
+    }
+   ],
+   "key_concepts": [
+    "geomancy",
+    "sikidy",
+    "divination",
+    "diviner at work"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__albertus-magnus",
+   "title": "De secretis mulierum (pseudo-Albertus Magnus), frontispiece",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Anonymous engraver (after pseudo-Albertus Magnus)",
+   "date": "early modern (printed edition)",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "Albertus Magnus",
+    "magus frontispiece",
+    "secrets of nature",
+    "natural magic",
+    "scholar",
+    "attributed grimoire",
+    "title page",
+    "book of secrets"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:De_secretis_mulierum.jpg",
+   "summary": "A frontispiece to *De secretis mulierum* ('On the Secrets of Women'), one of the popular 'books of secrets' circulated under the name of Albertus Magnus.\n\n## Iconography\nThe printed leaf presents the work of pseudo-Albertus — a learned authority associated with the secrets of nature, generation, and natural magic. Such frontispieces lent the immense prestige of Albert the Great (c. 1200–1280), the Dominican philosopher and naturalist, to a body of pseudonymous occult and medical lore.\n\n## Significance\nThe historical Albertus Magnus was a sober scholastic and student of nature, but his fame made him a magnet for spurious magical attributions: *De secretis mulierum*, the *Book of Secrets* (of herbs, stones, and beasts), and the grimoire *Le Grand Albert / Le Petit Albert* all travelled under his name. These pseudo-Albertine 'books of secrets' were among the most widely printed sources of popular natural magic and recipe-lore in early-modern Europe, as William Eamon has shown. The genuine and legendary Albert together made him a presiding figure of the magus tradition.\n\n## For artists & game designers\nUse a respected scholar's name on the cover of a dubious magic book — the in-world 'attributed grimoire' whose authority is half borrowed.",
+   "citations": [
+    {
+     "text": "William Eamon, *Science and the Secrets of Nature* (1994)."
+    },
+    {
+     "text": "Pseudo-Albertus Magnus, *De secretis mulierum* (numerous early printings)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:De_secretis_mulierum.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Albertus Magnus",
+    "books of secrets",
+    "Le Grand Albert",
+    "natural magic"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magicians_at_work__astrologer-study",
+   "title": "Astrolabe (the astrologer's instrument)",
+   "work": "Magicians at Work: Conjurers, Necromancers & the Magic Circle",
+   "creator": "Photograph by Evan (Paris)",
+   "date": "18th-century instrument (modern photograph)",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "astrology",
+   "motifs": [
+    "astrolabe",
+    "astrologer's instrument",
+    "celestial calculation",
+    "rete and tympan",
+    "star positions",
+    "horary astrology",
+    "brass instrument",
+    "magus's tools"
+   ],
+   "rights": "CC BY 2.0 (photo by Evan, Paris). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Astrolabe,_18th_century,_assembled.jpg",
+   "summary": "An eighteenth-century brass astrolabe, the calculating instrument that stands behind every depiction of the astrologer-magus in his study.\n\n## Iconography\nThe assembled astrolabe shows its pierced *rete* (a star-map of pointers) turning over engraved plates (*tympans*) marked with the lines of altitude and the houses for a given latitude. By setting the rete to a star or the Sun, the astrologer could read the time, find the ascendant, and cast a horoscope — the physical engine of horary and natal astrology.\n\n## Significance\nThe astrolabe, perfected in the Islamic world and transmitted to Europe via Arabic learning, was for a thousand years the emblem and the tool of the astrologer. In magical practice the same instrument timed operations to the planetary hours and the favourable aspects on which talismans and conjurations depended. Where the necromancer has his circle, the astrologer-magus has his astrolabe; it is the recurring prop of the 'magus in his study' image. (Photograph licensed CC BY 2.0.)\n\n## For artists & game designers\nThe astrologer's signature device: a turning brass star-map the player aligns to compute the right hour for a spell.",
+   "citations": [
+    {
+     "text": "J. D. North, *Stars, Minds and Fate: Essays in Ancient and Medieval Cosmology* (1989)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Astrolabe,_18th_century,_assembled.jpg"
+    }
+   ],
+   "key_concepts": [
+    "astrolabe",
+    "astrologer",
+    "planetary hours",
+    "horary astrology"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

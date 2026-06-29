@@ -1,0 +1,564 @@
+{
+ "_work": {
+   "key": "theosophy_diagrams",
+   "short_id": "THEO",
+   "title": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "various",
+   "date": "1877–1925",
+   "century": 19,
+   "place": "New York / London / Adyar / Dornach",
+   "region": "Global",
+   "language": "English",
+   "era": "modern",
+   "tradition": "theosophy",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "theosophy_diagrams",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Theosophy",
+   "rights": "Public domain / CC0 (per item; several modern CC BY / CC BY-SA redrawings of PD designs). Via Wikimedia Commons.",
+   "motifs": ["aura", "root races", "planetary chain", "planes of existence", "thought-forms", "theosophical seal"],
+   "blurb": "The diagrammatic and clairvoyant imagery of the Theosophical movement and its German offshoot Anthroposophy, c. 1877–1925: the planetary-chain and root-race schemes of Blavatsky's Secret Doctrine, the colour-plates of clairvoyant emotion from Besant and Leadbeater's Thought-Forms (1905), the aura and subtle-body charts of Leadbeater's Man Visible and Invisible (1902), the syncretic seal of the Theosophical Society, portraits of Blavatsky, Besant, Leadbeater and Olcott, the Mahatma letters, and Rudolf Steiner's blackboard drawings."
+ },
+ "entries": [
+  {
+   "id": "theosophy_diagrams__secret-doctrine-diagram",
+   "title": "Theosophical Earth-Chain Diagram (Seven Globes)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "after H. P. Blavatsky / A. P. Sinnett",
+   "date": "1883–1888 (scheme; later redrawing)",
+   "place": "London / Adyar",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["planetary chain", "seven globes", "earth chain", "rounds", "planes of existence", "esoteric buddhism", "descent and ascent", "diagram"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Theosophical_Earth_Chain_Diagram.png",
+   "summary": "A diagram of the Theosophical 'Earth Chain' — the seven globes through which life-waves are said to evolve in the cosmology of Blavatsky and A. P. Sinnett's *Esoteric Buddhism*.\n\n## Iconography\nSeven labelled globes (A–G) are arranged on a curving arc, the denser physical globe D (our Earth) at the lowest point of the descent and the more subtle globes ranged symmetrically above on the descending and ascending arcs. Arrows or a serpentine line trace the [[motif:planetary chain|chain]] of incarnation across the planes of matter.\n\n## Significance\nThe planetary chain is one of the most distinctive structures of Theosophical cosmology: each 'chain' comprises seven globes existing on different [[motif:planes of existence|planes]], and a life-wave passes through them in seven great 'rounds.' Drawn from Sinnett's *Esoteric Buddhism* (1883) and elaborated in Blavatsky's *Secret Doctrine* (1888), the scheme tried to map spiritual evolution onto a quasi-scientific cosmology and shaped later esoteric models of subtle worlds.\n\n## For artists & game designers\nA seven-globe descent-and-ascent arc is a ready 'plane-shift' map for a game of worlds nested by density.",
+   "citations": [
+    {"text": "A. P. Sinnett, *Esoteric Buddhism* (1883); H. P. Blavatsky, *The Secret Doctrine* (1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Theosophical_Earth_Chain_Diagram.png"}
+   ],
+   "key_concepts": ["planetary chain", "seven globes", "rounds", "Esoteric Buddhism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__stanzas-dzyan",
+   "title": "The Root-Races of Theosophy (Evolution Diagram)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "after H. P. Blavatsky",
+   "date": "1888 (scheme; later redrawing)",
+   "place": "London",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["root races", "lemuria", "atlantis", "human evolution", "secret doctrine", "stanzas of dzyan", "cycles", "diagram"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Root_Races_in_Theosophy.png",
+   "summary": "A diagram of the seven 'Root-Races' of Theosophical anthropogenesis, the scheme of human evolution set out in the second volume of H. P. Blavatsky's *The Secret Doctrine* (1888).\n\n## Iconography\nA branching or columnar chart names the successive [[motif:root races|root-races]] and their sub-races — the Polarian, Hyperborean, Lemurian, Atlantean, and present Aryan (fifth) race, with two future races to come — keyed to the lost continents of [[motif:lemuria|Lemuria]] and [[motif:atlantis|Atlantis]]. The sequence is presented as a vast cyclic descent into matter and re-ascent into spirit.\n\n## Significance\nBlavatsky claimed to draw the root-race doctrine from the secret *Stanzas of Dzyan*, an alleged archaic text forming the armature of the *Secret Doctrine*. The scheme — vast cycles of racial and spiritual evolution across millions of years — became central to Theosophical and later esoteric thought, though its racial framing has been heavily criticised by modern scholarship (e.g. work on Theosophy and the history of race).\n\n## For artists & game designers\nA deep-time 'ages of the world' chart — lost continents and successive humanities make a sweeping backstory in one image.",
+   "citations": [
+    {"text": "H. P. Blavatsky, *The Secret Doctrine*, vol. 2 (1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Root_Races_in_Theosophy.png"}
+   ],
+   "key_concepts": ["root races", "Stanzas of Dzyan", "Atlantis", "anthropogenesis"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__planetary-chain",
+   "title": "The Planetary Chain (Seven Globes Diagram)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "modern redrawing, after Theosophical scheme",
+   "date": "Theosophical scheme 1883–88 (modern diagram)",
+   "place": "Global",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["planetary chain", "seven globes", "globes a-g", "planes of matter", "rounds", "evolution", "esoteric cosmology", "diagram"],
+   "rights": "CC BY-SA 3.0 (modern redrawing; underlying Theosophical scheme is public domain). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Planetarychain.png",
+   "summary": "A clean schematic of the Theosophical 'planetary chain' of seven globes arranged across the planes of matter, a modern redrawing of the cosmology of Sinnett and Blavatsky.\n\n## Iconography\nSeven circles labelled A through G are set at different heights to mark the [[motif:planes of matter|planes]] on which each globe exists — the most physical globe at the bottom of the arc, the subtler globes rising symmetrically to either side. The figure isolates the bare geometry of the [[motif:planetary chain|chain]] from the surrounding doctrine.\n\n## Significance\nThe planetary chain answers the Theosophical question of where the soul evolves between earthly lives: not on Earth alone but across a linked series of seven globes, traversed in seven 'rounds.' This diagrammatic form, descended from A. P. Sinnett's *Esoteric Buddhism* (1883), became a standard teaching aid in Theosophical literature and a model for later occult maps of subtle worlds.\n\n## For artists & game designers\nThe minimal seven-node chain across stacked planes works directly as a level-progression or world-map skeleton.",
+   "citations": [
+    {"text": "A. P. Sinnett, *Esoteric Buddhism* (1883); C. W. Leadbeater, *A Textbook of Theosophy* (1912)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Planetarychain.png"}
+   ],
+   "key_concepts": ["planetary chain", "seven globes", "rounds", "planes of matter"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__seven-principles",
+   "title": "The Seven Principles of Man (Theosophical Chart)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "modern diagram, after Theosophical scheme",
+   "date": "scheme c. 1889 (modern chart)",
+   "place": "Global",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["seven principles", "subtle bodies", "atma", "buddhi", "manas", "kama", "linga sharira", "diagram"],
+   "rights": "CC0 / Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Seven_Principles_of_Man_according_to_Theosophy.png",
+   "summary": "A chart of the 'seven principles of man,' the sevenfold constitution of the human being taught in Theosophy from Blavatsky's *The Key to Theosophy* (1889) onward.\n\n## Iconography\nA layered table or column names the seven [[motif:subtle bodies|principles]] — typically the physical body (*sthula sharira*), the etheric double (*linga sharira*), vitality (*prana*), the desire-body (*kama rupa*), mind (*manas*), the spiritual soul (*buddhi*), and pure spirit (*atma*) — ascending from gross matter to the divine. Sanskrit terms are paired with English glosses.\n\n## Significance\nThe sevenfold human is one of Theosophy's most influential doctrines, a synthesis of Indian terminology with Western occult anatomy. It underlies the movement's teaching on death, reincarnation, and the after-death states (*kamaloka*, *devachan*), and it fed directly into the subtle-body and aura imagery of Leadbeater's clairvoyant investigations. Blavatsky systematised it in *The Key to Theosophy*.\n\n## For artists & game designers\nA seven-layer 'character anatomy' — body, energy, desire, mind, spirit — is a tidy stat or status-effect ladder.",
+   "citations": [
+    {"text": "H. P. Blavatsky, *The Key to Theosophy* (1889)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Seven_Principles_of_Man_according_to_Theosophy.png"}
+   ],
+   "key_concepts": ["seven principles", "subtle bodies", "atma-buddhi-manas", "Theosophical anatomy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__theosophical-seal",
+   "title": "Seal of the Theosophical Society",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Theosophical Society (anonymous designer)",
+   "date": "1875–82 (emblem; vector rendering)",
+   "place": "New York / Adyar",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["theosophical seal", "ouroboros", "interlaced triangles", "star of david", "ankh", "swastika", "om", "syncretism"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Theosophicalseal.svg",
+   "summary": "The seal of the Theosophical Society, the composite badge of the movement founded by H. P. Blavatsky and Henry Steel Olcott in 1875 (vector rendering of the public-domain design).\n\n## Iconography\nAn [[motif:ouroboros|ouroboros]] — a serpent devouring its tail — rings two interlaced triangles (the hexagram or Seal of Solomon); within sits an [[motif:ankh|ankh]] (*crux ansata*), at the apex a swastika in a circle, and the syllable *Om* with the motto *Satyan nasti paro dharmah*, 'There is no religion higher than Truth.' Each glyph is taken from a different tradition.\n\n## Significance\nThe seal is a programmatic emblem of [[motif:syncretism|Theosophical syncretism]] — the claim that all religions descend from one perennial 'secret doctrine.' Theosophy carried Eastern terminology and the idea of a universal wisdom into Western esotericism and shaped early abstract art (Kandinsky, Mondrian). The badge compresses that universalising ambition into a single device.\n\n## For artists & game designers\nA syncretic order-crest: ouroboros frame plus stacked cross-cultural symbols reads instantly as 'universal mystery school.'",
+   "citations": [
+    {"text": "H. P. Blavatsky, *The Secret Doctrine* (1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Theosophicalseal.svg"}
+   ],
+   "key_concepts": ["Theosophical Society", "ouroboros", "syncretic emblem", "Blavatsky"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__theosophy-emblem",
+   "title": "Emblem of Theosophy (Ouroboros, Hexagram, Swastika, Ankh)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "modern vector rendering, after the Theosophical Society emblem",
+   "date": "1875–82 design (modern rendering)",
+   "place": "Global",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["theosophy emblem", "ouroboros", "swastika", "ankh", "hexagram", "om", "perennial wisdom", "syncretism"],
+   "rights": "CC BY-SA 4.0 (modern rendering; underlying emblem public domain). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Theosophy_emblem.svg",
+   "summary": "A clean modern rendering of the emblem of Theosophy, gathering the order's core symbols into a single coloured device.\n\n## Iconography\nThe tail-eating [[motif:ouroboros|serpent]] encircles interlaced triangles forming a hexagram; an [[motif:ankh|ankh]] stands at the centre and a swastika sits above, with *Om* below — Egyptian, Hebrew, and Indian signs braided together. The clean vector treatment makes each component legible as an independent glyph while binding them into one badge.\n\n## Significance\nThe emblem visualises the founding Theosophical thesis of a single ancient wisdom underlying all faiths. As a recognisable badge it travelled on book-covers, lodge banners, and periodicals of the worldwide society. Its assembly of symbols from distinct cultures is a textbook case of nineteenth-century esoteric syncretism — and of the appropriation of the swastika as a 'wheel of life' decades before its later notoriety.\n\n## For artists & game designers\nWhen you need a 'one wisdom, many traditions' faction logo, this stacked-symbol ouroboros is the canonical template.",
+   "citations": [
+    {"text": "On Theosophical symbolism, J. Godwin, *The Theosophical Enlightenment* (1994)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Theosophy_emblem.svg"}
+   ],
+   "key_concepts": ["Theosophy emblem", "ouroboros", "swastika", "perennial wisdom"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__blavatsky-seal",
+   "title": "Blavatsky's Personal Seal (Theosophical Monogram)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "after H. P. Blavatsky",
+   "date": "c. 1875–1885",
+   "place": "New York / India",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["seal", "monogram", "ouroboros", "interlaced triangles", "swastika", "blavatsky", "esoteric badge", "syncretism"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:TE_Blavatsky_Seal.jpg",
+   "summary": "A small impression of the Theosophical seal as associated with H. P. Blavatsky, reproduced from early Theosophical material.\n\n## Iconography\nThe compact device shows the familiar Theosophical cluster — the [[motif:ouroboros|tail-eating serpent]] enclosing interlaced triangles with the swastika and other signs — in a worn, stamp-like rendering. Its small size and rough impression suggest a printed or embossed seal used on correspondence or publications.\n\n## Significance\nHelena Petrovna Blavatsky (1831–1891), co-founder of the Theosophical Society and author of *Isis Unveiled* (1877) and *The Secret Doctrine* (1888), made the syncretic seal the public face of her movement. Variant impressions like this one circulated on the society's early documents, fixing the [[motif:theosophical seal|composite emblem]] in the visual culture of the occult revival.\n\n## For artists & game designers\nA worn wax-stamp version of an order's crest signals authenticity and age better than a crisp logo — good for letters and sealed documents.",
+   "citations": [
+    {"text": "H. P. Blavatsky, *Isis Unveiled* (1877)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:TE_Blavatsky_Seal.jpg"}
+   ],
+   "key_concepts": ["Theosophical seal", "Blavatsky", "ouroboros", "esoteric monogram"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__blavatsky-portrait",
+   "title": "Helena Petrovna Blavatsky (Portrait)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Anonymous (photograph)",
+   "date": "c. 1877–1889",
+   "place": "New York / London",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["portrait", "blavatsky", "founder", "theosophy", "photograph", "occultist", "secret doctrine", "perennial wisdom"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Blavatsky.006.jpg",
+   "summary": "A portrait photograph of Helena Petrovna Blavatsky (1831–1891), the Russian-born occultist who co-founded the Theosophical Society and authored its foundational books.\n\n## Iconography\nBlavatsky is shown in the heavy, intense manner of her best-known portraits — broad-featured, gazing directly at the viewer. The image belongs to the gallery of photographs that fixed her public persona as the movement's charismatic seer and channel of the 'Mahatmas.'\n\n## Significance\nThrough *Isis Unveiled* (1877) and *The Secret Doctrine* (1888), Blavatsky synthesised Western occultism, Spiritualism, and a romanticised Hinduism and Buddhism into the doctrine of a perennial 'secret wisdom.' She was the single most important figure of the modern Theosophical current, and her ideas reverberated through later esotericism, the New Age, and early abstract art.\n\n## For artists & game designers\nAn authentic period portrait of a 'founding seer' — useful as a faction-leader or oracle reference face.",
+   "citations": [
+    {"text": "On Blavatsky, J. Godwin, *The Theosophical Enlightenment* (1994)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Blavatsky.006.jpg"}
+   ],
+   "key_concepts": ["H. P. Blavatsky", "Theosophical Society", "Secret Doctrine", "founder portrait"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__besant-portrait",
+   "title": "Annie Besant (Portrait)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Anonymous (photograph; Library of Congress)",
+   "date": "c. 1890–1910",
+   "place": "London / Adyar",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["portrait", "annie besant", "theosophist", "thought-forms", "photograph", "reformer", "president", "clairvoyance"],
+   "rights": "Public domain. Library of Congress. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Annie_Besant,_half-length_portrait,_seated,_facing_slightly_right_LCCN91786293.jpg",
+   "summary": "A seated half-length portrait of Annie Besant (1847–1933), the social reformer who became a leading Theosophist and co-author of *Thought-Forms* (Library of Congress).\n\n## Iconography\nBesant is shown seated, facing slightly to the right, in the dignified studio manner of the period. The portrait dates from her years as a public lecturer and Theosophical leader, when she had moved from secular radicalism to occultism.\n\n## Significance\nBesant (1847–1933) was a freethinker, socialist, and birth-control campaigner before her conversion to Theosophy under Blavatsky; she later became President of the Theosophical Society and a major figure in Indian politics. With C. W. Leadbeater she produced the influential clairvoyant studies *Thought-Forms* (1905) and *Occult Chemistry*, and promoted the young Jiddu Krishnamurti as 'World Teacher.'\n\n## For artists & game designers\nA Victorian-radical-turned-mystic — a strong reference for a reformer character whose arc bends toward the esoteric.",
+   "citations": [
+    {"text": "A. Besant & C. W. Leadbeater, *Thought-Forms* (1905)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Annie_Besant,_half-length_portrait,_seated,_facing_slightly_right_LCCN91786293.jpg"}
+   ],
+   "key_concepts": ["Annie Besant", "Theosophical Society", "Thought-Forms", "social reform"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__leadbeater-portrait",
+   "title": "Six Theosophists (Group of Portraits)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Anonymous (book illustration; Internet Archive)",
+   "date": "c. 1900–1920",
+   "place": "Adyar / London",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["portraits", "theosophists", "leadbeater", "group portrait", "photograph", "clairvoyants", "society leaders", "plate"],
+   "rights": "Public domain (No restrictions; Internet Archive Book Images). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Small_portraits_of_six_theosophs._(14541240539).jpg",
+   "summary": "A composite plate of small portraits of six theosophists, scanned from an early-twentieth-century Theosophical book (Internet Archive Book Images).\n\n## Iconography\nSix oval or rectangular head-and-shoulders portraits are arranged on a single page — the gallery of leaders and clairvoyant investigators typical of the society's commemorative and biographical literature, including figures such as C. W. Leadbeater among the movement's prominent members.\n\n## Significance\nGroup-portrait plates like this documented the international leadership of the Theosophical Society in its Adyar heyday. Charles Webster Leadbeater (1854–1934), the most prolific of these clairvoyant authors, produced *Man Visible and Invisible* (1902) and *The Chakras* (1927) and co-wrote *Thought-Forms* with Annie Besant — works whose plates dominate this collection.\n\n## For artists & game designers\nA period 'cast of characters' plate — a model for presenting an order's roster of named members.",
+   "citations": [
+    {"text": "C. W. Leadbeater, *Man Visible and Invisible* (1902)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Small_portraits_of_six_theosophs._(14541240539).jpg"}
+   ],
+   "key_concepts": ["theosophists", "C. W. Leadbeater", "group portrait", "Adyar"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__olcott-portrait",
+   "title": "Henry Steel Olcott (Portrait)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Anonymous (photograph; Library of Congress)",
+   "date": "c. 1885–1900",
+   "place": "Adyar, India",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["portrait", "olcott", "co-founder", "theosophy", "photograph", "buddhist revival", "president-founder", "beard"],
+   "rights": "Public domain. Library of Congress. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Henry_S._Olcott,_head-and_shoulders_portrait,_facing_left_LCCN92507384.jpg",
+   "summary": "A head-and-shoulders portrait of Henry Steel Olcott (1832–1907), co-founder and first President of the Theosophical Society (Library of Congress).\n\n## Iconography\nOlcott faces left in a sober studio portrait, his characteristic full white beard prominent — the dignified image of the American colonel and lawyer who became an Eastern religious leader.\n\n## Significance\nOlcott met Blavatsky in 1874 while investigating Spiritualist phenomena and with her founded the Theosophical Society in New York in 1875. Moving to India, he became 'President-Founder,' established the Adyar headquarters, and played a major role in the revival of Buddhism in Ceylon, designing the Buddhist flag and writing a widely-used *Buddhist Catechism*. He embodies Theosophy's bridge between Western occultism and Asian religion.\n\n## For artists & game designers\nThe organiser-administrator to Blavatsky's seer — a reference for the practical 'institution-builder' counterpart of a charismatic mystic.",
+   "citations": [
+    {"text": "H. S. Olcott, *Old Diary Leaves* (1895–1935)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Henry_S._Olcott,_head-and_shoulders_portrait,_facing_left_LCCN92507384.jpg"}
+   ],
+   "key_concepts": ["Henry Steel Olcott", "Theosophical Society", "Buddhist revival", "co-founder"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__mahatma-letter",
+   "title": "The Mahatma Letters (Precipitated Script)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "attributed to the Mahatmas (Koot Hoomi / Morya)",
+   "date": "1880–1885",
+   "place": "India / Tibet (claimed)",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["mahatma letters", "precipitated writing", "koot hoomi", "morya", "manuscript", "adept", "esoteric correspondence", "blue script"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mahatmaletters.jpg",
+   "summary": "A page from the so-called Mahatma Letters, the correspondence said to have been received from the hidden adepts or 'Masters' behind the Theosophical movement, chiefly during 1880–1885.\n\n## Iconography\nThe image shows handwritten text — the distinctive script associated with the 'precipitated' letters attributed to the Mahatmas Koot Hoomi and Morya. The letters were reportedly produced by occult means and delivered to A. P. Sinnett and A. O. Hume, often appearing in coloured (notably blue and red) crayon-like script.\n\n## Significance\nThe [[motif:mahatma letters|Mahatma Letters]] (now in the British Library) were the documentary basis of Sinnett's *Esoteric Buddhism* and a centre of fierce controversy — the Society for Psychical Research's Hodgson Report (1885) judged them fraudulent, while Theosophists defended their authenticity. They remain a key primary source for the movement's claim to a hidden Brotherhood of Masters guiding human evolution.\n\n## For artists & game designers\nMysteriously delivered, coloured 'precipitated' handwriting is a vivid device for a message from a hidden order.",
+   "citations": [
+    {"text": "A. T. Barker (ed.), *The Mahatma Letters to A. P. Sinnett* (1923)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mahatmaletters.jpg"}
+   ],
+   "key_concepts": ["Mahatma Letters", "Koot Hoomi", "hidden Masters", "precipitated writing"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__tf-plate-0007",
+   "title": "Thought-Form Plate (Besant & Leadbeater, 1905)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Annie Besant & C. W. Leadbeater (artists: Varley, Prince, Macfarlane)",
+   "date": "1905",
+   "place": "London",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["thought-forms", "clairvoyance", "coloured aura", "emotion as form", "abstract shapes", "subtle body", "colour symbolism", "plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Thought-forms_0007.jpg",
+   "summary": "A colour plate from Annie Besant and C. W. Leadbeater's *Thought-Forms* (1905), depicting the shapes and colours that thoughts and emotions were claimed to take in the subtle 'mental' and 'astral' worlds.\n\n## Iconography\nGlowing, semi-abstract forms float on a dark ground — clouds, rays, and geometric figures in coded colours. In the book's system each [[motif:colour symbolism|colour]] carries a fixed meaning (rose for love, blue for devotion, muddy brown-grey for selfishness or fear) and the *shape* expresses the quality and direction of the thought.\n\n## Significance\n*Thought-Forms* claimed to record, by trained clairvoyance, the visible 'bodies' of feelings and ideas. Its key and plates created a complete colour-and-form vocabulary of [[motif:thought-forms|thought-forms]] that proved enormously influential on early abstract art — Kandinsky cited it, and its synaesthetic linking of colour, emotion, and music helped legitimate non-representational painting.\n\n## For artists & game designers\nA ready palette-and-shape language for visualising emotions or spells as floating coloured forms.",
+   "citations": [
+    {"text": "A. Besant & C. W. Leadbeater, *Thought-Forms* (1905)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Thought-forms_0007.jpg"}
+   ],
+   "key_concepts": ["Thought-Forms", "colour symbolism", "clairvoyance", "abstract art"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__tf-vague-affection",
+   "title": "Vague Selfish Affection (Thought-Form, Fig. 9)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Annie Besant & C. W. Leadbeater",
+   "date": "1905",
+   "place": "London",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["thought-forms", "affection", "cloud form", "muddy colour", "emotion as form", "selfishness", "clairvoyance", "plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:FIG._9._VAGUE_SELFISH_AFFECTION.jpg",
+   "summary": "*Vague Selfish Affection*, Figure 9 from Besant and Leadbeater's *Thought-Forms* (1905), illustrating the form taken by an indistinct, self-centred love.\n\n## Iconography\nA soft, ill-defined cloud of muddy or dull colour hangs without clear outline — the visual signature, in the book's code, of an [[motif:affection|affection]] that is real but cloudy and self-regarding. Its formlessness is the point: weak, hazy feeling produces weak, hazy forms, in contrast to the sharp radiant shapes of clear, unselfish thought.\n\n## Significance\nThe contrast between vague and definite forms is central to the book's argument that the moral and intellectual quality of a thought is literally legible in its [[motif:thought-forms|shape and colour]]. The named, captioned figures (Fig. 9 here) turned the work into a quasi-scientific atlas of the inner life and a touchstone for artists seeking to paint emotion directly.\n\n## For artists & game designers\nFuzzy, muddy clouds for weak or impure feeling versus crisp bright shapes for strong clear intent — an instant 'aura quality' shorthand.",
+   "citations": [
+    {"text": "A. Besant & C. W. Leadbeater, *Thought-Forms* (1905)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:FIG._9._VAGUE_SELFISH_AFFECTION.jpg"}
+   ],
+   "key_concepts": ["Thought-Forms", "affection", "form and colour", "clairvoyance"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__tf-sudden-fright",
+   "title": "Sudden Fright (Thought-Form)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Annie Besant & C. W. Leadbeater",
+   "date": "1905",
+   "place": "London",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["thought-forms", "fear", "fright", "crescent forms", "livid colour", "emotion as form", "clairvoyance", "plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sudden_fright_-_Annie_Besant_Thought_Form_-_Project_Gutenberg_eText_16269.PNG",
+   "summary": "*Sudden Fright*, a thought-form plate from Besant and Leadbeater's *Thought-Forms* (1905), recording the shape a flash of terror was said to throw off.\n\n## Iconography\nSharp, livid crescents or hooks of pale colour spring from the body — the book describes fear as producing curved, fragmented forms in a sickly grey or livid hue. The jagged, recoiling shapes convey the violence and ugliness the authors ascribed to the emotion of [[motif:fear|fright]].\n\n## Significance\nNegative emotions like fear, anger, and greed were illustrated alongside positive ones to demonstrate the book's moral-aesthetic thesis: harmful feelings make harsh, repellent forms, while noble feelings make beautiful ones. The plate exemplifies how *Thought-Forms* fused a theory of [[motif:clairvoyance|clairvoyant perception]] with a programme of self-improvement through controlling one's mental output.\n\n## For artists & game designers\nLivid crescents bursting outward = an instant 'fear/panic' status visual.",
+   "citations": [
+    {"text": "A. Besant & C. W. Leadbeater, *Thought-Forms* (1905)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sudden_fright_-_Annie_Besant_Thought_Form_-_Project_Gutenberg_eText_16269.PNG"}
+   ],
+   "key_concepts": ["Thought-Forms", "fear", "emotion as form", "clairvoyance"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__tf-greed-alcohol",
+   "title": "Greed for Alcohol (Thought-Form)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Annie Besant & C. W. Leadbeater",
+   "date": "1905",
+   "place": "London",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["thought-forms", "greed", "craving", "hooked form", "muddy colour", "emotion as form", "clairvoyance", "plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Greed_for_alcohol_-_Annie_Besant_Thought_Form_-_Project_Gutenberg_eText_16269.PNG",
+   "summary": "*Greed for Alcohol* (or *The Intention to Drink*), a thought-form plate from *Thought-Forms* (1905), illustrating the form thrown off by craving.\n\n## Iconography\nA grasping, hook-like or clutching form in a dingy brownish-red — the colour the book assigns to selfish [[motif:greed|craving]] and animal appetite. The shape reaches outward as if to seize its object, embodying the authors' claim that desire literally extends a tentacle of coloured matter toward the thing desired.\n\n## Significance\nLike the other vice-plates, this figure served the book's moralising purpose, making intemperance visible as an ugly, grasping form. *Thought-Forms* was widely read in temperance and self-culture circles as well as occult ones, and its vivid translation of [[motif:thought-forms|moral states into images]] gave it a reach far beyond the Theosophical Society.\n\n## For artists & game designers\nA hooked, grasping muddy-red form is a clear 'craving/addiction' icon — desire rendered as a reaching claw.",
+   "citations": [
+    {"text": "A. Besant & C. W. Leadbeater, *Thought-Forms* (1905)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Greed_for_alcohol_-_Annie_Besant_Thought_Form_-_Project_Gutenberg_eText_16269.PNG"}
+   ],
+   "key_concepts": ["Thought-Forms", "greed", "craving", "moral imagery"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__tf-street-accident",
+   "title": "At a Street Accident (Thought-Form)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Annie Besant & C. W. Leadbeater",
+   "date": "1905",
+   "place": "London",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["thought-forms", "sympathy", "crowd emotion", "collective form", "rays", "emotion as form", "clairvoyance", "plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:At_a_street_acident_-_Annie_Besant_Thought_Form_-_Project_Gutenberg_eText_16269.PNG",
+   "summary": "*At a Street Accident*, a thought-form plate from *Thought-Forms* (1905), showing the collective forms generated by a crowd reacting to a sudden mishap.\n\n## Iconography\nMingled forms of differing colours rise together — the book reads a street crowd at an accident as producing a mixture of [[motif:sympathy|sympathy]], curiosity, and alarm, each onlooker contributing a coloured form according to the quality of their response. The composite illustrates how a shared event yields many simultaneous thought-forms.\n\n## Significance\nThe plate is one of the book's 'situational' studies, demonstrating that thought-forms arise not only from solitary meditation but from everyday social reactions. It shows the authors extending their clairvoyant survey to ordinary urban life, reinforcing the claim that every feeling — base or noble, private or collective — leaves a visible trace in the subtle worlds.\n\n## For artists & game designers\nLayered, mixed coloured forms over a crowd are a neat way to show collective emotion or a 'mood field' in a scene.",
+   "citations": [
+    {"text": "A. Besant & C. W. Leadbeater, *Thought-Forms* (1905)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:At_a_street_acident_-_Annie_Besant_Thought_Form_-_Project_Gutenberg_eText_16269.PNG"}
+   ],
+   "key_concepts": ["Thought-Forms", "collective emotion", "sympathy", "clairvoyance"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__tf-gounod-music",
+   "title": "The Music of Gounod (Thought-Form)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Annie Besant & C. W. Leadbeater",
+   "date": "1905",
+   "place": "London",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["thought-forms", "music made visible", "gounod", "architectural form", "synaesthesia", "sound and colour", "clairvoyance", "plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Music_of_Gounod_-_Annie_Besant_Thought_Form_-_Project_Gutenberg_eText_16269.jpg",
+   "summary": "*The Music of Gounod*, one of the celebrated 'form built by music' plates closing Besant and Leadbeater's *Thought-Forms* (1905).\n\n## Iconography\nA towering, architectural edifice of coloured light rises over a church — the book depicts the [[motif:music made visible|music of Gounod]] as a buttressed, somewhat ornate structure, contrasted in the volume with the crystalline severity of Bach and the rounded masses of Wagner. Each composer's music is said to raise a characteristic edifice in the subtle worlds.\n\n## Significance\nThe music-forms are the most famous images in the book and the clearest expression of its [[motif:synaesthesia|synaesthetic]] theory that sound, colour, and form are interchangeable. They directly influenced early abstract painters and the idea of 'visual music,' linking Theosophy to the birth of abstraction in Kandinsky, Kupka, and others.\n\n## For artists & game designers\nMusic rendered as a glowing built structure is a striking template for visualising sound, spells, or sacred performance.",
+   "citations": [
+    {"text": "A. Besant & C. W. Leadbeater, *Thought-Forms* (1905)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Music_of_Gounod_-_Annie_Besant_Thought_Form_-_Project_Gutenberg_eText_16269.jpg"}
+   ],
+   "key_concepts": ["Thought-Forms", "music made visible", "synaesthesia", "visual music"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__thought-form-music",
+   "title": "The Music of Mendelssohn (Thought-Form)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Annie Besant & C. W. Leadbeater",
+   "date": "1905",
+   "place": "London",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["thought-forms", "music made visible", "mendelssohn", "balloon form", "synaesthesia", "sound and colour", "clairvoyance", "plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Annie_Besant_Thought_Forms_Mendelssohn_-_Project_Gutenberg_etext_16269.jpg",
+   "summary": "*The Music of Mendelssohn*, one of the closing music-form plates of Besant and Leadbeater's *Thought-Forms* (1905).\n\n## Iconography\nA rounded, balloon-like structure of coloured bands rises above a building, with small loops and pennants — the form the authors say a piece by [[motif:mendelssohn|Mendelssohn]] builds in the higher worlds. Its lighter, more decorative shape is set against the grander edifices the book attributes to Wagner and Gounod and the geometric precision it gives to Bach.\n\n## Significance\nWith the other music-forms, this plate dramatises the book's claim that [[motif:music made visible|music]] constructs real, persisting forms in subtle matter, each composer's style yielding a recognisable architecture. The images were among the most reproduced in early-twentieth-century occult and art-theoretical writing and stand behind the modern notion of 'visual music.'\n\n## For artists & game designers\nA second composer's 'music-edifice' — useful for showing how different sound or magic styles raise distinct glowing structures.",
+   "citations": [
+    {"text": "A. Besant & C. W. Leadbeater, *Thought-Forms* (1905)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Annie_Besant_Thought_Forms_Mendelssohn_-_Project_Gutenberg_etext_16269.jpg"}
+   ],
+   "key_concepts": ["Thought-Forms", "music made visible", "Mendelssohn", "synaesthesia"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__man-visible-aura",
+   "title": "The Aura of a Healthy Man (after Leadbeater)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "after C. W. Leadbeater",
+   "date": "1902 (scheme; later rendering)",
+   "place": "London / Adyar",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["aura", "healthy aura", "subtle body", "colour", "clairvoyance", "man visible and invisible", "egg-shaped aura", "diagram"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA_%D0%B0%D1%83%D1%80%D1%8B_%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0,_%D0%BF%D0%BE_%D0%9B%D0%B5%D0%B4%D0%B1%D0%B8%D1%82%D0%B5%D1%80%D1%83.jpg",
+   "summary": "A rendering of the aura of a healthy human being after C. W. Leadbeater's *Man Visible and Invisible* (1902), showing the egg-shaped field of subtle colour surrounding the body.\n\n## Iconography\nA standing human figure is enveloped in an ovoid [[motif:aura|aura]] of luminous colour, the bands and tints arranged according to Leadbeater's clairvoyant scheme in which each colour reports a quality of character, health, or emotion. The clarity and harmony of the colours mark this as the aura of a well-developed, healthy person.\n\n## Significance\nLeadbeater's *Man Visible and Invisible* gave the modern 'aura' much of its now-familiar form: an egg-shaped, multi-coloured field whose hues are read like a diagnostic chart of the soul. The book's colour-keyed plates standardised aura imagery for twentieth-century occultism, alternative healing, and New Age practice, distinct from the *Thought-Forms* emphasis on discrete emitted shapes.\n\n## For artists & game designers\nThe egg-shaped colour-coded aura is the canonical 'character status field' — health and mood read straight off the hues.",
+   "citations": [
+    {"text": "C. W. Leadbeater, *Man Visible and Invisible* (1902)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA_%D0%B0%D1%83%D1%80%D1%8B_%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0,_%D0%BF%D0%BE_%D0%9B%D0%B5%D0%B4%D0%B1%D0%B8%D1%82%D0%B5%D1%80%D1%83.jpg"}
+   ],
+   "key_concepts": ["aura", "C. W. Leadbeater", "subtle body", "Man Visible and Invisible"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__astral-body-average",
+   "title": "The Astral Body of the Average Man",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "after C. W. Leadbeater",
+   "date": "1902 (scheme; later plate)",
+   "place": "London / Adyar",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["astral body", "aura", "subtle body", "colour", "clairvoyance", "average man", "egg-shaped aura", "plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Astral_Body_of_the_Average_Man.jpg",
+   "summary": "A plate of 'the astral body of the average man,' after C. W. Leadbeater's clairvoyant studies of the subtle anatomy in *Man Visible and Invisible* (1902).\n\n## Iconography\nA standing figure is surrounded by an ovoid cloud of mingled colours representing the [[motif:astral body|astral (emotional) body]] of a typical, undeveloped person — the hues mottled and uneven compared with the clearer aura of the spiritually advanced. The plate is one of a graded series contrasting savage, average, and developed types.\n\n## Significance\nLeadbeater's astral plates supplied a comparative anatomy of the soul: the same figure was depicted at different stages of moral and spiritual evolution, the colours of the [[motif:aura|aura]] growing purer and more luminous with progress. This evolutionary, diagnostic use of aura-colour shaped later esoteric and therapeutic ideas of the 'energy body.'\n\n## For artists & game designers\nMottled-versus-clear auras for an 'average' versus 'advanced' character are a simple way to encode progression in a status field.",
+   "citations": [
+    {"text": "C. W. Leadbeater, *Man Visible and Invisible* (1902)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Astral_Body_of_the_Average_Man.jpg"}
+   ],
+   "key_concepts": ["astral body", "aura", "spiritual evolution", "Leadbeater"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__leadbeater-astral-savage",
+   "title": "The Astral Body of the Savage (Leadbeater)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "after C. W. Leadbeater",
+   "date": "1902 (scheme; later plate)",
+   "place": "London / Adyar",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["astral body", "aura", "subtle body", "evolutionary grade", "clairvoyance", "colour", "man visible and invisible", "plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:LeadbeatherAstralSavageInvisibleMan.jpg",
+   "summary": "A plate of the astral body of the 'savage,' the lowest grade in C. W. Leadbeater's evolutionary series of aura-types from *Man Visible and Invisible* (1902).\n\n## Iconography\nA standing figure is wrapped in a coarse, heavily clouded [[motif:aura|aura]] dominated by dark, muddy colours — the visual sign, in Leadbeater's scheme, of an undeveloped [[motif:astral body|astral body]] ruled by appetite and crude emotion. The murk contrasts sharply with the luminous, ordered auras the book gives to its 'developed' and 'spiritual' types.\n\n## Significance\nLeadbeater's graded plates ('savage,' 'average,' 'developed,' 'spiritual') express the period's evolutionary and, by modern standards, deeply problematic racial assumptions, mapping moral-spiritual hierarchy onto aura-colour. The series is historically important both for the development of modern aura imagery and as evidence of how Theosophy fused occult clairvoyance with Victorian ideas of progress and race.\n\n## For artists & game designers\nA dark, clotted aura is an immediate visual shorthand for a 'base' or unawakened state — but note the troubling assumptions baked into the original scheme.",
+   "citations": [
+    {"text": "C. W. Leadbeater, *Man Visible and Invisible* (1902)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:LeadbeatherAstralSavageInvisibleMan.jpg"}
+   ],
+   "key_concepts": ["astral body", "aura grades", "Leadbeater", "evolutionary hierarchy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__leadbeater-mental-savage",
+   "title": "The Mental Body of the Savage (Leadbeater)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "after C. W. Leadbeater",
+   "date": "1902 (scheme; later plate)",
+   "place": "London / Adyar",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["mental body", "aura", "subtle body", "evolutionary grade", "clairvoyance", "colour", "man visible and invisible", "plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:LeadbeaterMentalSavage.jpg",
+   "summary": "A plate of the 'mental body' of the savage, from C. W. Leadbeater's comparative anatomy of the subtle bodies in *Man Visible and Invisible* (1902).\n\n## Iconography\nThe figure is shown with the [[motif:mental body|mental body]] — the subtle vehicle associated with thought rather than emotion — depicted as small, dull, and sparsely coloured, signifying (in the book's scheme) a barely-active intellect. The mental aura is distinguished from the astral by its position, colour-range, and the kinds of activity it registers.\n\n## Significance\nLeadbeater treated the human being as a nest of subtle bodies — physical, etheric, astral, mental, causal — each visible to the trained clairvoyant and each evolving over many lives. The 'mental body' plates depict the growth of mind across his evolutionary grades. The series codified the Theosophical doctrine of the [[motif:subtle body|sevenfold constitution]] in vivid pictorial form.\n\n## For artists & game designers\nA faint, underdeveloped 'mind aura' versus a bright one cleanly visualises an intellect stat — separate from the emotional/astral layer.",
+   "citations": [
+    {"text": "C. W. Leadbeater, *Man Visible and Invisible* (1902)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:LeadbeaterMentalSavage.jpg"}
+   ],
+   "key_concepts": ["mental body", "subtle anatomy", "Leadbeater", "evolutionary grades"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__leadbeater-planes",
+   "title": "Astral-Body Plate (Leadbeater, Man Visible and Invisible)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "after C. W. Leadbeater",
+   "date": "1902 (scheme; later plate)",
+   "place": "London / Adyar",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["astral body", "aura", "subtle body", "colour", "clairvoyance", "man visible and invisible", "planes", "plate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Astral_003.png",
+   "summary": "A plate of the astral body and its enveloping coloured aura, from the imagery of C. W. Leadbeater's *Man Visible and Invisible* (1902).\n\n## Iconography\nA standing human figure is surrounded by a tall, ovoid [[motif:aura|aura]] divided into zones of colour, the bands keyed to Leadbeater's clairvoyant scheme of emotional and spiritual qualities. The plate isolates the [[motif:astral body|astral vehicle]] — the body of feeling and desire — as one layer in the Theosophical nest of subtle bodies, each existing on its own [[motif:planes|plane]] of matter.\n\n## Significance\nThe colour-plate is part of the influential pictorial programme by which Leadbeater made the invisible 'man' visible — a sequence of auras and subtle bodies that fixed the modern image of the energy-body. His system of correlated planes and bodies extended Blavatsky's sevenfold human into a fully illustrated occult anatomy that shaped later esoteric and New Age literature.\n\n## For artists & game designers\nA zoned, colour-banded aura over a figure is a flexible base for any 'inspect character's spiritual state' UI.",
+   "citations": [
+    {"text": "C. W. Leadbeater, *Man Visible and Invisible* (1902)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Astral_003.png"}
+   ],
+   "key_concepts": ["astral body", "aura", "subtle anatomy", "Leadbeater"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__steiner-blackboard",
+   "title": "Rudolf Steiner Blackboard Drawing",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Rudolf Steiner",
+   "date": "c. 1919–1924",
+   "place": "Dornach, Switzerland",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["blackboard drawing", "anthroposophy", "rudolf steiner", "esoteric diagram", "chalk", "lecture sketch", "spiritual science", "cosmology"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Steiner_blackboard_sketch.jpg",
+   "summary": "A blackboard drawing by Rudolf Steiner (1861–1925), made during one of his Anthroposophical lectures and preserved as an artwork in its own right.\n\n## Iconography\nColoured chalk forms — flowing curves, figures, and diagrammatic notations — fill a dark ground, drawn rapidly by Steiner to accompany spoken teaching on the spiritual worlds, human evolution, or cosmic forces. The [[motif:blackboard drawing|blackboard drawings]] combine schematic [[motif:esoteric diagram|diagram]] and expressive gesture.\n\n## Significance\nSteiner led the German Section of the Theosophical Society before breaking away in 1912–13 to found Anthroposophy, his own 'spiritual science.' From 1919 his assistants began pinning black paper over the blackboards, preserving the chalk drawings; some 1,100 survive and are now valued both as teaching documents and as a singular body of twentieth-century esoteric art exhibited in major galleries.\n\n## For artists & game designers\nRapid coloured-chalk cosmograms on black are a distinctive 'lecturing mystic' visual — diagram and artwork at once.",
+   "citations": [
+    {"text": "R. Steiner, *Blackboard Drawings 1919–1924* (exhibition catalogues)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Steiner_blackboard_sketch.jpg"}
+   ],
+   "key_concepts": ["Rudolf Steiner", "Anthroposophy", "blackboard drawings", "spiritual science"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__steiner-goetheanum-motif",
+   "title": "Goetheanum Motif (Steiner Wandtafelbild, 1924)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Rudolf Steiner",
+   "date": "1924",
+   "place": "Dornach, Switzerland",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["blackboard drawing", "goetheanum", "anthroposophy", "rudolf steiner", "organic form", "esoteric architecture", "chalk", "spiritual science"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Wandtafelbild_-_Gotheanum-Motiv_(1924).jpg",
+   "summary": "A 1924 *Wandtafelbild* (blackboard picture) by Rudolf Steiner on a Goetheanum motif, made in the final year of his teaching.\n\n## Iconography\nFlowing, organic chalk forms evoke the sculptural, plant-like architecture of the [[motif:goetheanum|Goetheanum]], the headquarters Steiner designed at Dornach. The drawing translates his architectural and metamorphic ideas — forms growing and transforming as living organisms do — into a swift coloured sketch on the black ground.\n\n## Significance\nThe Goetheanum was the physical embodiment of Anthroposophy, its curving concrete forms expressing Steiner's belief that buildings, like organisms, should grow from inner spiritual law. The first wooden Goetheanum burned on New Year's Eve 1922–23; Steiner designed a second in concrete before his death in 1925. This [[motif:blackboard drawing|blackboard drawing]] belongs to the late body of work in which teaching, art, and architecture fused.\n\n## For artists & game designers\nOrganic, metamorphic architecture sketched in chalk is a fresh reference for 'living buildings' that grow rather than are built.",
+   "citations": [
+    {"text": "On Steiner's architecture, W. Kugler, *Rudolf Steiner und das Goetheanum* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Wandtafelbild_-_Gotheanum-Motiv_(1924).jpg"}
+   ],
+   "key_concepts": ["Rudolf Steiner", "Goetheanum", "Anthroposophy", "organic architecture"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "theosophy_diagrams__steiner-planetary-stages",
+   "title": "Planetary Stages of World-Evolution (Steiner Blackboard)",
+   "work": "Theosophical & Modern-Esoteric Diagrams",
+   "creator": "Rudolf Steiner",
+   "date": "c. 1923–1924",
+   "place": "Dornach, Switzerland",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["blackboard drawing", "planetary evolution", "anthroposophy", "rudolf steiner", "saturn moon sun earth", "cosmic stages", "chalk", "spiritual science"],
+   "rights": "CC BY 3.0 (photograph of the blackboard; Steiner's drawing is public domain). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Planetarischen_Weltentwicklungsstufen,_Rudolf_Steiner.jpg",
+   "summary": "A Rudolf Steiner blackboard drawing of the *planetarischen Weltentwicklungsstufen* — the planetary stages of world-evolution in Anthroposophical cosmology.\n\n## Iconography\nColoured chalk diagrams set out the great cosmic epochs Steiner named after planets — Old Saturn, Old Sun, Old Moon, present Earth, and future Jupiter, Venus, and Vulcan stages — each a phase in the spiritual development of the cosmos and humanity. Curves, spirals, and labels map the [[motif:planetary evolution|sequence of world-conditions]] in schematic form.\n\n## Significance\nSteiner adapted and recast the Theosophical scheme of planetary 'rounds' and 'globes' into his own Anthroposophical cosmology of successive planetary 'embodiments' of the Earth, set out in *An Outline of Occult Science* (1910). This blackboard restates that vast evolutionary scheme — a direct descendant of Blavatsky's [[motif:planetary chain|planetary chain]] reworked through Steiner's Christ-centred spiritual science.\n\n## For artists & game designers\nA hand-drawn 'ages of the cosmos' chart — named planetary epochs make a rich deep-time backdrop for a world's myth.",
+   "citations": [
+    {"text": "R. Steiner, *An Outline of Occult Science* (*Die Geheimwissenschaft im Umriss*, 1910)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Planetarischen_Weltentwicklungsstufen,_Rudolf_Steiner.jpg"}
+   ],
+   "key_concepts": ["Rudolf Steiner", "planetary evolution", "Anthroposophy", "cosmic epochs"],
+   "summary_status": "authored"
+  }
+ ]
+}

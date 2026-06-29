@@ -1,0 +1,736 @@
+{
+ "_work": {
+  "key": "alchemist_laboratory",
+  "short_id": "ALAB",
+  "title": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+  "creator": "various",
+  "date": "1500–1900",
+  "century": 17,
+  "place": "Low Countries, England, German lands",
+  "region": "Low Countries",
+  "language": "Latin",
+  "era": "early_modern",
+  "tradition": "alchemy",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "alchemist_laboratory",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Alchemists",
+  "rights": "Public domain / CC0 (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "alchemist's laboratory",
+   "distillation furnace",
+   "alembic and retort",
+   "souffleur puffer",
+   "philosophers' stone",
+   "ruined household"
+  ],
+  "blurb": "Paintings and prints of the alchemist in his cluttered workshop — the human face of the Great Work. From Bruegel's ruined family and Teniers' many bearded adepts to Joseph Wright of Derby's praying alchemist amid the glowing flask, the genre weighs hope against folly, blowing the bellows over furnace and alembic in pursuit of gold and the stone."
+ },
+ "entries": [
+  {
+   "id": "alchemist_laboratory__teniers-alchemist",
+   "title": "The Alchemist (Mauritshuis)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "David Teniers the Younger",
+   "date": "c. 1640s–1650s",
+   "place": "Antwerp, Flanders",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemist's laboratory",
+    "bearded adept",
+    "distillation furnace",
+    "alembic and retort",
+    "open folio",
+    "cluttered workshop",
+    "bellows",
+    "single figure"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:David_Teniers_de_Jonge_-_The_Alchemist_-_261_-_Mauritshuis.jpg",
+   "summary": "David Teniers the Younger's *The Alchemist*, a Flemish cabinet picture of the adept absorbed in his cluttered laboratory, now in the Mauritshuis.\n\n## Iconography\nA bearded alchemist in a worn robe leans over his work amid the disorder of the lab — a brick [[motif:distillation furnace|furnace]] with glowing coals, glass [[motif:alembic and retort|alembics and retorts]], crucibles, scattered books, flasks, and a litter of papers. Light falls from a high window onto the intent face of the operator. An assistant or two may tend the fire in the gloom behind him.\n\n## Significance\nTeniers (1610–1690) painted the alchemist subject many times, and his compositions became the canonical European image of the laboratory: half scholar's study, half furnace-room, freighted with the moral question of whether the adept is sage or fool. The genre descends from Bruegel and feeds directly into the Dutch *kabinetstuk* tradition. Lawrence Principe and Lloyd DeWitt's *Transmutations* (2002) shows how accurately these pictures record real chymical apparatus even as they moralize on its costs.\n\n## For artists & game designers\nThe definitive 'wizard's laboratory' reference: one absorbed adept, a glowing furnace, ranks of glassware, and a floor strewn with books and broken vessels.",
+   "citations": [
+    {
+     "text": "Lawrence M. Principe & Lloyd DeWitt, *Transmutations: Alchemy in Art* (2002)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:David_Teniers_de_Jonge_-_The_Alchemist_-_261_-_Mauritshuis.jpg"
+    }
+   ],
+   "key_concepts": [
+    "alchemist's laboratory",
+    "David Teniers",
+    "laboratory genre",
+    "distillation furnace"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__teniers-alchemist4",
+   "title": "The Alchemist (Teniers, Cat. 689)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "David Teniers the Younger",
+   "date": "mid-17th c.",
+   "place": "Antwerp, Flanders",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemist's laboratory",
+    "adept at the furnace",
+    "alembic and retort",
+    "crucible",
+    "assistant",
+    "books and globe",
+    "bellows",
+    "cabinet picture"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:David_Teniers_-_The_Alchemist_Cat689.jpg",
+   "summary": "A second *Alchemist* by David Teniers the Younger, one of the many distinct variations he produced on the laboratory theme.\n\n## Iconography\nThe adept works among the familiar furniture of the chymical workshop — the brick furnace, glass vessels, crucibles, and folios — the figure bent to his fire. Teniers varies the staging from canvas to canvas: the number of assistants, the disposition of the apparatus, the play of light, but the core scene of the lone seeker at his furnace remains constant.\n\n## Significance\nThat Teniers returned again and again to the alchemist signals how marketable the subject was in seventeenth-century Antwerp, where collectors prized small genre pictures with a moral edge. The repetition itself became part of the iconography: the alchemist as a recognizable 'type,' instantly legible to buyers. Comparison across his versions is a standard exercise in the art history of the genre, documented in the *Transmutations* catalogue.\n\n## For artists & game designers\nUse a recurring 'lab archetype' that can be re-dressed: keep the furnace, glassware, and bent seeker constant while varying assistants and clutter for different scenes.",
+   "citations": [
+    {
+     "text": "Lawrence M. Principe & Lloyd DeWitt, *Transmutations: Alchemy in Art* (2002)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:David_Teniers_-_The_Alchemist_Cat689.jpg"
+    }
+   ],
+   "key_concepts": [
+    "David Teniers",
+    "alchemist genre",
+    "laboratory",
+    "Flemish cabinet picture"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__bruegel-alchemist",
+   "title": "The Alchemist (Alchimist), after Bruegel",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Philips Galle, after Pieter Bruegel the Elder",
+   "date": "c. 1558 (engraving)",
+   "place": "Antwerp, Flanders",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "ruined household",
+    "folly of alchemy",
+    "souffleur puffer",
+    "empty purse",
+    "starving children",
+    "distillation furnace",
+    "almshouse",
+    "engraving"
+   ],
+   "rights": "CC0 (Rijksmuseum). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Alchemist,_RP-P-1924-702X.jpg",
+   "summary": "The famous engraving *Alchimist* after Pieter Bruegel the Elder, the great moral satire of alchemy as the ruin of a family.\n\n## Iconography\nThe scene is bedlam: a deluded alchemist blows the bellows over his furnace while a fool-assistant (labelled *ALGHE MIST*, a Flemish pun on 'all is lost') empties the last coin from a purse. The wife shows an empty money-box; the hungry children rummage in a bare cupboard, one wearing a cooking-pot as a helmet. Through the window, the ruined household is led to the poorhouse — the inevitable end of the futile pursuit. The brick furnace, alembics, and crucibles fill the cluttered room.\n\n## Significance\nEngraved by Philips Galle and published by Hieronymus Cock (c. 1558), Bruegel's design is the foundational image of the anti-alchemy tradition. The Flemish inscriptions turn the whole composition into a visual proverb: the *souffleur*'s greed beggars his family. It set the template for two centuries of moralizing laboratory genre, from Teniers to Steen, as analyzed by Lawrence Principe.\n\n## For artists & game designers\nThe cautionary lab scene: render obsession through its collateral damage — the empty purse, the cold hearth, the children sent to the almshouse behind the glowing furnace.",
+   "citations": [
+    {
+     "text": "Lawrence M. Principe, *The Secrets of Alchemy* (2013)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Alchemist,_RP-P-1924-702X.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Pieter Bruegel",
+    "folly of alchemy",
+    "ruined family",
+    "souffleur"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__wright-phosphorus",
+   "title": "The Alchemist Discovering Phosphorus",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Joseph Wright of Derby",
+   "date": "1771 (reworked 1795)",
+   "place": "Derby, England",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "glowing flask",
+    "praying alchemist",
+    "discovery of phosphorus",
+    "night scene",
+    "single light source",
+    "kneeling figure",
+    "distillation apparatus",
+    "wonder"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_The_Alchemist.jpg",
+   "summary": "Joseph Wright of Derby's *The Alchemist, in Search of the Philosopher's Stone, Discovers Phosphorus*, the great Enlightenment image of the alchemist at the threshold of chemistry.\n\n## Iconography\nIn a vaulted Gothic chamber at night, the alchemist kneels before a great glass retort that blazes with a cold white light — the glow of newly isolated phosphorus rising in the flask. His arms are flung open in a posture of prayer and astonishment; the chemical glow is the picture's sole light source, illuminating his rapt face, his apparatus, and an assistant in the shadows. Moonlight enters at the window behind.\n\n## Significance\nWright (1734–1797), painter of the Enlightenment and the Lunar Society's circle, dramatizes the (legendary) 1669 discovery of phosphorus by Hennig Brand, who distilled it from urine while seeking the philosophers' stone. The picture stages the exact moment alchemy turns into chemistry — wonder shading into discovery. It hangs in Derby Museum and Art Gallery and is read alongside Wright's candlelight 'experiment' pictures as a meditation on knowledge and awe.\n\n## For artists & game designers\nThe ultimate single-source-light reveal: a kneeling figure backlit by a self-luminous flask — let the alchemical reaction itself be the only lamp in the room.",
+   "citations": [
+    {
+     "text": "Matthew Craske, *Joseph Wright of Derby: Painter of Darkness* (2020)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_The_Alchemist.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Joseph Wright of Derby",
+    "phosphorus",
+    "Hennig Brand",
+    "alchemy to chemistry"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__bega-alchemist",
+   "title": "The Alchemist (Cornelis Bega)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Cornelis Bega",
+   "date": "1663",
+   "place": "Haarlem, Dutch Republic",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemist's laboratory",
+    "squalid workshop",
+    "distillation furnace",
+    "alembic and retort",
+    "scattered vessels",
+    "lone adept",
+    "earth-toned interior",
+    "Dutch genre"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Alchemist_-_DPLA_-_7b08c3cda3a311614dd9dbc6d2173379.jpg",
+   "summary": "Cornelis Bega's *The Alchemist*, a Dutch genre picture of the adept in a dim, disordered workshop, now at the J. Paul Getty Museum.\n\n## Iconography\nThe alchemist sits in a shadowy, cluttered room thick with the gear of his craft — the brick [[motif:distillation furnace|furnace]], glass retorts and flasks, jars, books, and a litter of broken pots underfoot. Earthy browns and a single fall of light pick out the absorbed figure, conveying poverty and obsessive concentration rather than learned dignity.\n\n## Significance\nBega (c. 1631–1664), a pupil of Adriaen van Ostade, brought the low-life genre of the Haarlem school to the alchemist subject. His version emphasizes the squalor of the *souffleur* — the deluded gold-cook ruining himself at the furnace — continuing the Bruegelian moral while delighting in the textures of glass, brick, and clutter. The painting is a touchstone of the Dutch laboratory genre discussed in the Getty/Chemical Heritage *Transmutations* literature.\n\n## For artists & game designers\nFor a 'down-at-heel' magic lab: low light, earth tones, broken glassware on the floor — the alchemist as obsessive pauper rather than wealthy mage.",
+   "citations": [
+    {
+     "text": "Lawrence M. Principe & Lloyd DeWitt, *Transmutations: Alchemy in Art* (2002)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:The_Alchemist_-_DPLA_-_7b08c3cda3a311614dd9dbc6d2173379.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Cornelis Bega",
+    "Dutch genre",
+    "souffleur",
+    "laboratory"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__ostade-real",
+   "title": "An Alchemist (Adriaen van Ostade)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Adriaen van Ostade",
+   "date": "1661",
+   "place": "Haarlem, Dutch Republic",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemist's laboratory",
+    "bellows at the furnace",
+    "alembic and retort",
+    "poor household",
+    "wife and child",
+    "cluttered interior",
+    "warm lamplight",
+    "Dutch genre"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_Ostade_-_Alchemist_-_WGA16738.jpg",
+   "summary": "Adriaen van Ostade's *An Alchemist* (1661), a Dutch genre interior of the adept toiling at his furnace while his family looks on, now in the National Gallery, London.\n\n## Iconography\nThe alchemist crouches at a low brick [[motif:distillation furnace|furnace]], working the bellows over the fire, surrounded by the disorder of his trade — flasks, jars, books, and pans. Behind him, in the warm gloom of the cottage, his wife tends a child amid evidence of want. The scrap of paper on the wall is inscribed *Oleum et operam perdis* — 'you waste oil and labour' — a Latin proverb condemning the futile pursuit.\n\n## Significance\nOstade (1610–1685), the master of Haarlem peasant genre, here joins the moral tradition launched by Bruegel: the alchemist as a man squandering his household on a vain art, the inscription spelling out the lesson. The careful rendering of real apparatus sits inside a clear ethical frame. The picture is a centerpiece of the National Gallery's holdings of the subject.\n\n## For artists & game designers\nGround a magic obsession in domestic cost: the spellcaster at the fire in the foreground, the neglected family in the warm dark behind, a motto pinned to the wall.",
+   "citations": [
+    {
+     "text": "National Gallery, London, *An Alchemist* by Adriaen van Ostade (NG846)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Adriaen_van_Ostade_-_Alchemist_-_WGA16738.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Adriaen van Ostade",
+    "Dutch genre",
+    "Oleum et operam perdis",
+    "laboratory"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__wijck-alchemist",
+   "title": "Alchemist in his Study (Thomas Wijck)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Thomas Wijck",
+   "date": "mid-17th c.",
+   "place": "Haarlem, Dutch Republic",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemist's study",
+    "vaulted interior",
+    "distillation furnace",
+    "globe and books",
+    "alembic and retort",
+    "scholar-adept",
+    "raking light",
+    "Italianate architecture"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Thomas_Wijck_Alchemist_in_his_Study_FA_2000.001.280.jpg",
+   "summary": "Thomas Wijck's *Alchemist in his Study*, a Dutch picture of the adept amid books and apparatus in a lofty vaulted chamber, from the Chemical Heritage / Science History Institute collection.\n\n## Iconography\nThe alchemist sits in a grand, dimly lit interior — part library, part workshop — with a globe, heaped folios, hanging flasks, and the brick furnace with its glass [[motif:alembic and retort|retorts]]. Architectural arches and a fall of daylight lend the scene a contemplative, almost scholarly air, in contrast to the squalor of the low-genre versions.\n\n## Significance\nWijck (c. 1616–1677), who had travelled in Italy, brought a taste for grand Italianate interiors to the alchemist subject, presenting the operator as a learned natural philosopher in his cabinet rather than a ragged puffer. His many laboratory scenes are well represented in the Science History Institute's collection, the largest gathering of fine-art alchemy pictures, and figure prominently in Principe and DeWitt's study.\n\n## For artists & game designers\nThe 'high' version of the lab: vaulted stone, a great globe, towering shelves of books — the alchemist as dignified scholar in an architectural space.",
+   "citations": [
+    {
+     "text": "Lawrence M. Principe & Lloyd DeWitt, *Transmutations: Alchemy in Art* (2002)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Thomas_Wijck_Alchemist_in_his_Study_FA_2000.001.280.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Thomas Wijck",
+    "alchemist's study",
+    "Science History Institute",
+    "scholar-adept"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__heerschop-alchemist",
+   "title": "An Alchemist and his Assistant (Hendrick Heerschop)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Hendrick Heerschop",
+   "date": "1671",
+   "place": "Haarlem, Dutch Republic",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemist and assistant",
+    "tending the furnace",
+    "alembic and retort",
+    "bellows",
+    "workshop interior",
+    "two figures",
+    "warm firelight",
+    "Dutch genre"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:An_Alchemist_and_his_assistant_-_DPLA_-_1ac5f24a467d4df0c9204c9f2012d233.jpg",
+   "summary": "Hendrick Heerschop's painting of an alchemist and his assistant at work in the laboratory, from the Science History Institute collection.\n\n## Iconography\nTwo figures occupy the workshop: the master alchemist directs the operation while an assistant tends the [[motif:distillation furnace|furnace]] or works the bellows. The room holds the standard inventory — glass [[motif:alembic and retort|retorts and alembics]], crucibles, jars, and books — lit by the glow of the fire and a window. The division of labour between adept and helper is the picture's subject.\n\n## Significance\nHeerschop (1626/27–after 1672), a Haarlem painter associated with the Rembrandt circle, contributes to the Dutch laboratory genre its emphasis on collaborative practical work — alchemy as a craft with masters and journeymen, not a solitary obsession. Such pictures document the real social organization of the chymical workshop, a theme stressed by Principe and DeWitt in their account of the genre's surprising technical accuracy.\n\n## For artists & game designers\nShow the workshop as a working shop: a master and an apprentice with divided roles — one reads and directs, one sweats at the bellows.",
+   "citations": [
+    {
+     "text": "Lawrence M. Principe & Lloyd DeWitt, *Transmutations: Alchemy in Art* (2002)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:An_Alchemist_and_his_assistant_-_DPLA_-_1ac5f24a467d4df0c9204c9f2012d233.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Hendrick Heerschop",
+    "alchemist and assistant",
+    "workshop labour",
+    "Dutch genre"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__helmont-alchemist",
+   "title": "An Alchemist at Work with Assistants (Mattheus van Helmont)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Mattheus van Helmont",
+   "date": "mid-17th c.",
+   "place": "Antwerp / Brussels, Flanders",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemist at work",
+    "assistants",
+    "distillation furnace",
+    "alembic and retort",
+    "cluttered workshop",
+    "scattered books",
+    "smoke and glow",
+    "Flemish genre"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mattheus_van_Helmont_An_Alchemist_at_Work_with_assistants.jpeg",
+   "summary": "Mattheus van Helmont's *An Alchemist at Work with Assistants*, a Flemish laboratory scene in the Teniers tradition.\n\n## Iconography\nThe alchemist labours at the center of a crowded workshop while helpers tend the apparatus around him. The room overflows with the gear of the craft — the [[motif:distillation furnace|furnace]] with its coals, glass [[motif:alembic and retort|retorts]], jars, baskets, and tumbled books and papers. Van Helmont relishes the picturesque disorder and the smoky atmosphere of the working lab.\n\n## Significance\nMattheus van Helmont (1623–after 1679) was a Flemish genre painter who followed David Teniers closely in subject and handling; his alchemist scenes (sometimes confused under variant spellings 'van Hellemont' / 'von Helmont') circulate widely. They extend the Antwerp laboratory genre into the later seventeenth century, keeping the moralized image of the busy, cluttered workshop in circulation for collectors. The shared surname with the famous chymist Jan Baptist van Helmont is coincidental.\n\n## For artists & game designers\nFor a busy guild-style lab: pack the frame with assistants and apparatus so the eye reads continuous activity — a workshop in full operation.",
+   "citations": [
+    {
+     "text": "Lawrence M. Principe & Lloyd DeWitt, *Transmutations: Alchemy in Art* (2002)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Mattheus_van_Helmont_An_Alchemist_at_Work_with_assistants.jpeg"
+    }
+   ],
+   "key_concepts": [
+    "Mattheus van Helmont",
+    "Flemish genre",
+    "alchemist's workshop",
+    "Teniers tradition"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__ostade-alchemist",
+   "title": "The Alchemist (Mattheus van Helmont)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Mattheus van Helmont",
+   "date": "mid-to-late 17th c.",
+   "place": "Antwerp / Brussels, Flanders",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemist's laboratory",
+    "lone adept",
+    "distillation furnace",
+    "alembic and retort",
+    "open book",
+    "broken pots",
+    "raking light",
+    "Flemish genre"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mattheus_van_Hellemont_The_Alchemist.jpg",
+   "summary": "*The Alchemist* by Mattheus van Helmont, a Flemish cabinet picture of the adept alone in his workshop.\n\n## Iconography\nThe alchemist sits absorbed amid his apparatus — the brick [[motif:distillation furnace|furnace]], glass [[motif:alembic and retort|alembics]], crucibles, scattered folios, and broken earthenware on the floor. A shaft of light isolates the figure against the shadowy clutter. The mood is one of patient, lonely toil, the seeker bent over book and fire.\n\n## Significance\nThis is one of several closely related alchemist subjects by Mattheus van Helmont, a faithful follower of Teniers. The variations across his output — solitary adept here, crowded workshop elsewhere — show how the laboratory genre was endlessly recombined from a fixed stock of motifs. The recurrence testifies to a strong collectors' market for the moralized image of the chymist throughout the later seventeenth century.\n\n## For artists & game designers\nThe solitary-seeker variant: strip the workshop to one figure, one furnace, one open book, and a litter of failed experiments underfoot.",
+   "citations": [
+    {
+     "text": "Lawrence M. Principe & Lloyd DeWitt, *Transmutations: Alchemy in Art* (2002)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Mattheus_van_Hellemont_The_Alchemist.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Mattheus van Helmont",
+    "Flemish genre",
+    "solitary alchemist",
+    "laboratory"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__teniers-alchemist3",
+   "title": "Alchemist at Work (Mattheus van Helmont)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Mattheus van Helmont",
+   "date": "mid-to-late 17th c.",
+   "place": "Antwerp / Brussels, Flanders",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemist at work",
+    "distillation furnace",
+    "alembic and retort",
+    "bellows",
+    "cluttered workshop",
+    "books and flasks",
+    "warm interior",
+    "Flemish genre"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mattheus_von_Helmont_Alchemist_at_Work.jpg",
+   "summary": "*Alchemist at Work*, a high-resolution Flemish laboratory scene by Mattheus van Helmont (catalogued under the variant spelling 'von Helmont').\n\n## Iconography\nThe adept is shown mid-operation, attending the [[motif:distillation furnace|furnace]] and its glassware in a warmly lit, densely furnished workshop. Retorts, crucibles, jars, books, and the everyday debris of the lab fill the space. The handling and the brown tonality follow Teniers closely.\n\n## Significance\nAnother of van Helmont's many treatments of the theme, this version foregrounds the physical act of operating the furnace. Together with his other alchemist pictures it demonstrates how a single Flemish specialist could supply the collectors' market with numerous near-variants, each a recombination of the canonical laboratory motifs codified by Bruegel and Teniers. Such pictures are valued by historians of science for their accurate depiction of real distillation apparatus.\n\n## For artists & game designers\nA reference sheet for furnace operation: the adept hunched at the fire, hands busy with bellows and vessel — the verb 'distil' made visible.",
+   "citations": [
+    {
+     "text": "Lawrence M. Principe & Lloyd DeWitt, *Transmutations: Alchemy in Art* (2002)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Mattheus_von_Helmont_Alchemist_at_Work.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Mattheus van Helmont",
+    "distillation",
+    "Flemish genre",
+    "furnace operation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__steen-alchemist",
+   "title": "The Alchemist and his Crying Wife (Jan Steen)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Jan Steen",
+   "date": "c. 1668",
+   "place": "Leiden, Dutch Republic",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "weeping wife",
+    "folly of alchemy",
+    "ruined household",
+    "distillation furnace",
+    "empty larder",
+    "neglected family",
+    "moral satire",
+    "Dutch genre"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jan_Steen_-_The_Alchemist_and_his_Crying_Wife.jpg",
+   "summary": "Jan Steen's comic-moral picture of the alchemist whose obsession has reduced his family to tears and want.\n\n## Iconography\nThe alchemist works on, oblivious, at his [[motif:distillation furnace|furnace]] while his wife weeps over an empty purse or bare cupboard and the children go hungry in the disordered house. Steen, the great comedian of Dutch genre, packs the scene with telling detail — the futile apparatus, the neglected hearth, the despairing family — turning the laboratory into a stage for marital and economic ruin.\n\n## Significance\nSteen (1626–1679) folds the alchemist subject into his famous repertoire of 'household in disarray' pictures, where folly and vice upend domestic order. He inherits the moral charge of Bruegel and Ostade — *the alchemist beggars his family* — but plays it for tragicomic effect. The pairing of the absorbed husband and the weeping wife is one of the most legible statements of alchemy-as-folly in Dutch art.\n\n## For artists & game designers\nThe human cost in one diptych of expressions: the rapt obsessive at his fire, the partner in tears beside the empty cupboard.",
+   "citations": [
+    {
+     "text": "H. Perry Chapman et al., *Jan Steen: Painter and Storyteller* (1996)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jan_Steen_-_The_Alchemist_and_his_Crying_Wife.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Jan Steen",
+    "folly of alchemy",
+    "ruined household",
+    "Dutch genre"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__mieris-alchemist",
+   "title": "An Alchemist and his Assistant in a Workshop (Frans van Mieris the Elder)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Frans van Mieris the Elder",
+   "date": "later 17th c.",
+   "place": "Leiden, Dutch Republic",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemist and assistant",
+    "fijnschilder finish",
+    "distillation furnace",
+    "alembic and retort",
+    "workshop interior",
+    "fine detail",
+    "lamplight",
+    "Dutch genre"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Frans_van_Mieris_I_-_An_alchemist_and_his_assistant_in_a_workshop_5417.jpg",
+   "summary": "Frans van Mieris the Elder's finely painted *An Alchemist and his Assistant in a Workshop*, a Leiden 'fine painter' treatment of the laboratory theme.\n\n## Iconography\nMaster and assistant work together amid the apparatus of the lab — furnace, glass [[motif:alembic and retort|vessels]], jars, and books — rendered with the jewel-like precision of the Leiden *fijnschilders*. Every reflection in glass and gleam of metal is described with miniaturist care, dignifying the humble workshop through sheer refinement of touch.\n\n## Significance\nVan Mieris (1635–1681), the leading pupil of Gerrit Dou and a master of the Leiden 'fine painting' school, applies its meticulous technique to the alchemist subject, shifting the genre from coarse low-life toward precious cabinet picture. The result shows how the same iconography could be pitched to a luxury market. His alchemist scenes are documented in the Science History Institute and museum collections of the genre.\n\n## For artists & game designers\nThe luxury-finish lab: same furnace and glassware, but rendered with obsessive detail and reflection — apparatus as treasure rather than clutter.",
+   "citations": [
+    {
+     "text": "Otto Naumann, *Frans van Mieris the Elder* (1981)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Frans_van_Mieris_I_-_An_alchemist_and_his_assistant_in_a_workshop_5417.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Frans van Mieris",
+    "Leiden fijnschilders",
+    "alchemist and assistant",
+    "fine painting"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__bentum-alchemist",
+   "title": "Explosion in the Alchemist's Laboratory (Justus van Bentum)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Justus van Bentum",
+   "date": "early 18th c.",
+   "place": "Leiden, Dutch Republic",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "laboratory explosion",
+    "disaster at the furnace",
+    "alchemical accident",
+    "flying glassware",
+    "startled adept",
+    "smoke and flame",
+    "distillation apparatus",
+    "Dutch genre"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Van_Bentum_Explosion_in_the_Alchemist%E2%80%99s_Laboratory_FA_2000.001.285.jpg",
+   "summary": "Justus van Bentum's dramatic *Explosion in the Alchemist's Laboratory*, capturing the violent hazard of the chymical workshop.\n\n## Iconography\nThe operation has gone catastrophically wrong: a vessel bursts at the [[motif:distillation furnace|furnace]] in a flash of flame and smoke, glassware flies, and the startled alchemist and his assistants recoil from the blast. The picture freezes the instant of disaster — the dark side of the patient labour shown in calmer laboratory scenes.\n\n## Significance\nVan Bentum (1670–1727), a Leiden painter, turns the alchemist genre toward sensational accident, a reminder that real chymical practice with volatile reagents, hot furnaces, and sealed glass was genuinely dangerous. The exploding-laboratory subject became a minor tradition of its own, dramatizing both the physical perils and the implicit moral that the *souffleur*'s hubris invites ruin. The painting is held by the Science History Institute.\n\n## For artists & game designers\nThe lab-disaster beat: a single bursting flask, flying shards, and figures thrown back — perfect for a 'critical failure' or sabotage event.",
+   "citations": [
+    {
+     "text": "Lawrence M. Principe & Lloyd DeWitt, *Transmutations: Alchemy in Art* (2002)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Van_Bentum_Explosion_in_the_Alchemist%E2%80%99s_Laboratory_FA_2000.001.285.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Justus van Bentum",
+    "laboratory explosion",
+    "alchemical accident",
+    "hazard"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__heemskerck-alchemist",
+   "title": "An Alchemist in His Study (Egbert van Heemskerck)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Egbert van Heemskerck",
+   "date": "later 17th c.",
+   "place": "Haarlem / London",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemist's study",
+    "lone adept",
+    "distillation furnace",
+    "alembic and retort",
+    "books and skull",
+    "cluttered interior",
+    "candlelight",
+    "Dutch genre"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:An_Alchemist_in_His_Study_-_DPLA_-_5e2b78ce896fce4726927b815fc5bf22_(page_1).jpg",
+   "summary": "*An Alchemist in His Study* by Egbert van Heemskerck, a Dutch-English genre scene of the adept among books and apparatus.\n\n## Iconography\nThe alchemist sits in a dim, crowded study with the tools of his art — the [[motif:distillation furnace|furnace]], glass [[motif:alembic and retort|retorts]], jars, heaped books, and the contemplative props of the scholar. Heemskerck favours a smoky, low-toned interior and an air of obsessive solitude.\n\n## Significance\nEgbert van Heemskerck (1634/35–1704) worked in Haarlem and later in England, where he supplied a market for Dutch-style genre and tavern scenes. His alchemist subjects carried the Netherlandish laboratory genre across the Channel, feeding English taste for the moralized image of the chymist. The picture is recorded in the Science History Institute / DPLA holdings of alchemical art.\n\n## For artists & game designers\nA portable 'scholar's lab' template that reads the same in any setting: furnace, glassware, books, and one solitary seeker by candlelight.",
+   "citations": [
+    {
+     "text": "Lawrence M. Principe & Lloyd DeWitt, *Transmutations: Alchemy in Art* (2002)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:An_Alchemist_in_His_Study_-_DPLA_-_5e2b78ce896fce4726927b815fc5bf22_(page_1).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Egbert van Heemskerck",
+    "alchemist's study",
+    "Dutch genre",
+    "laboratory"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__bossche-alchemist",
+   "title": "An Alchemist in his Laboratory (after Teniers, Wellcome)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "After David Teniers the Younger",
+   "date": "17th–18th c.",
+   "place": "Low Countries",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemist's laboratory",
+    "adept at the furnace",
+    "alembic and retort",
+    "bellows",
+    "cluttered workshop",
+    "books and vessels",
+    "Teniers tradition",
+    "Wellcome collection"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:An_alchemist_in_his_laboratory._Wellcome_L0076168.jpg",
+   "summary": "*An Alchemist in his Laboratory*, a work after David Teniers the Younger from the Wellcome Collection, exemplifying how Teniers' compositions were copied and disseminated.\n\n## Iconography\nThe scene reprises the Teniers formula: the bearded adept at his [[motif:distillation furnace|furnace]] amid glass [[motif:alembic and retort|retorts and alembics]], crucibles, jars, scattered books, and the picturesque clutter of the workshop. The warm, smoky interior and the absorbed lone operator are faithful to the prototype.\n\n## Significance\nThe survival of many versions 'after Teniers' — in paint and in print — shows how thoroughly his image of the alchemist became the European standard, copied for collectors and reproduced in the medical and antiquarian print trade. The Wellcome Collection, with its deep holdings in the history of medicine and chymistry, preserves numerous such derivatives, making the Teniers laboratory the single most influential template for the genre.\n\n## For artists & game designers\nProof that a strong lab composition becomes a reusable 'asset': one Teniers design spawned countless copies — design your wizard's lab to be equally re-stageable.",
+   "citations": [
+    {
+     "text": "Lawrence M. Principe & Lloyd DeWitt, *Transmutations: Alchemy in Art* (2002)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:An_alchemist_in_his_laboratory._Wellcome_L0076168.jpg"
+    }
+   ],
+   "key_concepts": [
+    "David Teniers",
+    "after Teniers",
+    "Wellcome Collection",
+    "laboratory template"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__brunschwig-distillandi",
+   "title": "Liber de arte distillandi (Brunschwig), distillation apparatus",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Hieronymus Brunschwig",
+   "date": "1500 (Strasbourg)",
+   "place": "Strasbourg, German lands",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "distillation furnace",
+    "alembic and water-bath",
+    "spagyric apparatus",
+    "woodcut diagram",
+    "athanor",
+    "herbal distillation",
+    "instructional print",
+    "early printed book"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hieronymus_Brunschwig_Liber_de_arte_Distillandi_299_verso_AQ10_(1).jpg",
+   "summary": "A woodcut of distillation apparatus from Hieronymus Brunschwig's *Liber de arte distillandi* (the 'Big Book of Distillation'), the foundational printed manual of the distiller's art.\n\n## Iconography\nThe page diagrams the working apparatus of distillation: the brick [[motif:distillation furnace|furnace]] with its fire, the cucurbit and [[motif:alembic and retort|alembic]] (still-head) gathering vapours, the receiving flask, and the connecting tubes — sometimes a row of stills or a water-bath (*balneum mariae*) for gentle heat. The image is instructional, showing exactly how the equipment is assembled and fired.\n\n## Significance\nBrunschwig (c. 1450–1512), a Strasbourg surgeon, published his *Liber de arte distillandi de simplicibus* in 1500 and the larger *Das Buch zu Distillieren* in 1512, the first printed works to systematize distillation for medicine and the *spagyric* (Paracelsian) preparation of remedies. Its woodcuts spread practical furnace-and-alembic knowledge across Europe and stand behind the apparatus shown in every later painted laboratory, as historians of chymistry such as Bruce Moran emphasize.\n\n## For artists & game designers\nA period-accurate blueprint for the still: furnace, cucurbit, alembic head, and receiver — draw the apparatus from this to get the alchemy right.",
+   "citations": [
+    {
+     "text": "Bruce T. Moran, *Distilling Knowledge: Alchemy, Chemistry, and the Scientific Revolution* (2005)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hieronymus_Brunschwig_Liber_de_arte_Distillandi_299_verso_AQ10_(1).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Hieronymus Brunschwig",
+    "distillation",
+    "spagyric medicine",
+    "alembic"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "alchemist_laboratory__khunrath-laboratory",
+   "title": "The Alchemist's Laboratory and Oratory (Amphitheatrum sapientiae aeternae)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "creator": "Hans Vredeman de Vries (engraving), for Heinrich Khunrath",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau, German lands",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "laboratory and oratory",
+    "ora et labora",
+    "praying alchemist",
+    "distillation furnace",
+    "musical instruments",
+    "kabbalistic inscriptions",
+    "tabernacle of wisdom",
+    "engraved plate"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Amphitheatrum_sapientiae_aeternae_-_Alchemist%27s_Laboratory.jpg",
+   "summary": "The celebrated 'laboratory-oratory' plate from Heinrich Khunrath's *Amphitheatrum sapientiae aeternae*, the supreme image of alchemy as a sacred, prayerful work.\n\n## Iconography\nA vast vaulted hall is split into two halves joined as one: at left an *oratory*, a tented prayer-tent where the bearded adept kneels before an altar inscribed in Hebrew and Latin; at right a *laboratory* with its [[motif:distillation furnace|furnaces]] and apparatus. Between them a central table bears musical instruments. Inscriptions weave throughout — most famously the motto that one must not speak of God's mysteries, and the union of *ora et labora* ('pray and work'). The architectural perspective is by Hans Vredeman de Vries.\n\n## Significance\nHeinrich Khunrath (1560–1605), a Paracelsian physician and Christian theosopher, designed this engraving (first 1595, fully published 1609) to teach that the Great Work is inseparable from prayer: the laboratory *is* an oratory. It is the single most reproduced emblem of 'spiritual alchemy' and a key source for later esoteric readings, discussed by Frances Yates, Peter Forshaw, and Urszula Szulakowska.\n\n## For artists & game designers\nThe sacred-lab archetype: a room that is half chapel and half workshop, where the spell requires both furnace-work and worship — labour and prayer as one mechanic.",
+   "citations": [
+    {
+     "text": "Peter J. Forshaw, on Heinrich Khunrath and Christian Cabala."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light* (2000)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Amphitheatrum_sapientiae_aeternae_-_Alchemist%27s_Laboratory.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Heinrich Khunrath",
+    "laboratory and oratory",
+    "ora et labora",
+    "spiritual alchemy"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

@@ -1,0 +1,508 @@
+{
+ "_work": {
+   "key": "occult_revival",
+   "short_id": "OREV",
+   "title": "The Nineteenth-Century Occult Revival",
+   "creator": "various",
+   "date": "1490s; 1850–1900",
+   "century": 19,
+   "place": "France / England / Europe",
+   "region": "Europe",
+   "language": "French",
+   "era": "modern",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "occult_revival",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Occultism",
+   "rights": "Public domain / CC0 (per item; one modern CC BY-SA redrawing). Via Wikimedia Commons.",
+   "motifs": ["pentagram", "tarot trumps", "ceremonial magic", "kabbalah tree of life", "hexagram", "magical orders"],
+   "blurb": "The visual vocabulary of the nineteenth-century occult revival and the historic decks it canonised — Éliphas Lévi's pentagram and the engravings of his Transcendental Magic, Oswald Wirth's 1889 esoteric Tarot (the Magician, the Devil, the Wheel, the Star/Moon plate), Stanislas de Guaita's goat-pentagram and the illustrations to La Clef de la Magie Noire, the fifteenth-century Sola Busca and the Mantegna and Minchiate tarots that fed the revival, Kircher's kabbalistic Tree of Life, John Dee's Sigillum Dei Aemeth as inherited by the Golden Dawn, the Rose Cross lamen, and the seal of the Theosophical Society."
+ },
+ "entries": [
+  {
+   "id": "occult_revival__levi-pentagram",
+   "title": "The Pentagram of Éliphas Lévi",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Éliphas Lévi (Alphonse-Louis Constant)",
+   "date": "1855–56 (engraving)",
+   "place": "Paris, France",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["pentagram", "pentacle", "microcosm", "alpha and omega", "hebrew letters", "good and evil", "ceremonial magic", "engraving"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentagram_(Levi).jpg",
+   "summary": "Éliphas Lévi's celebrated pentagram, the diagram from *Dogme et rituel de la haute magie* (1855–56) that fixed the meaning of the five-pointed star for modern occultism.\n\n## Iconography\nA single five-pointed star is inscribed within a double circle bearing Hebrew letters and Latin words (*Alpha*, *Omega*). Within and around the star are esoteric signs — the heads of the goat and the man, the symbols of the elements and planets. The figure encodes the doctrine that the point-up star (spirit ruling the four elements) is benign, while its inversion signals the triumph of matter.\n\n## Significance\nLévi (Alphonse-Louis Constant, 1810–1875) was the pivotal figure of the French occult revival; his linking of the [[motif:pentagram|pentagram]] to the microcosmic Man and to the doctrine of moral polarity is repeated by nearly every later magician, from Papus and the Golden Dawn to Crowley. The diagram made the pentagram the master-glyph of will and the human form set against the cosmos.\n\n## For artists & game designers\nThe definitive 'magic star' diagram — point-up versus inverted reads instantly as good versus corrupt magic.",
+   "citations": [
+    {"text": "É. Lévi, *Dogme et rituel de la haute magie* (1855–56)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentagram_(Levi).jpg"}
+   ],
+   "key_concepts": ["pentagram", "Éliphas Lévi", "microcosm", "ceremonial magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__levi-pentagram-p174",
+   "title": "The Pentagram of the Microcosm (Transcendental Magic, p. 174)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Éliphas Lévi (Alphonse-Louis Constant)",
+   "date": "1896 (Waite English ed.; after 1856)",
+   "place": "London / Paris",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["pentagram", "microcosm", "vitruvian man", "human figure", "five points", "elements", "engraving", "correspondence"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Transcendental_Magic_1896_Eliphas_L%C3%A9vi_p174.jpg",
+   "summary": "The microcosmic pentagram from A. E. Waite's 1896 English edition of Lévi's *Transcendental Magic* (*Dogme et rituel*), showing the human body inscribed in a five-pointed star.\n\n## Iconography\nA nude man stands spread-eagled within a pentagram, head at the top point and limbs reaching the four lower points, surrounded by planetary and elemental signs and Hebrew letters. The image makes literal Lévi's claim that the [[motif:microcosm|human body]] is the measure of the magical universe — a Vitruvian Man recast as an occult talisman.\n\n## Significance\nThis plate is the most reproduced of Lévi's diagrams and the direct source of the modern idea that the upright pentagram 'is' Man the microcosm. Carried into English by Arthur Edward Waite's translation, it shaped the Hermetic Order of the Golden Dawn's understanding of the pentagram and the doctrine of correspondences between the human form and the cosmos.\n\n## For artists & game designers\nMan-in-the-star: a ready emblem for binding a character's body to elemental or planetary powers.",
+   "citations": [
+    {"text": "É. Lévi, trans. A. E. Waite, *Transcendental Magic* (1896)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Transcendental_Magic_1896_Eliphas_L%C3%A9vi_p174.jpg"}
+   ],
+   "key_concepts": ["pentagram", "microcosm", "Éliphas Lévi", "A. E. Waite"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__wirth-magician",
+   "title": "Le Bateleur (The Magician) — Oswald Wirth Tarot, 1889",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Oswald Wirth",
+   "date": "1889",
+   "place": "Paris, France",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["tarot", "the magician", "le bateleur", "infinity symbol", "four suits", "wand", "esoteric tarot", "kabbalah"],
+   "rights": "Public domain. Bibliothèque nationale de France. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:01_Le_Bateleur,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+   "summary": "*Le Bateleur* (The Magician), trump I of Oswald Wirth's esoteric Tarot of 1889, designed under the guidance of Stanislas de Guaita (BnF impression).\n\n## Iconography\nA standing conjuror works at a table bearing the implements of the four suits — cup, coin, sword, and wand — the tools of the four elements. His broad hat brim traces a lemniscate (the [[motif:infinity symbol|sign of infinity]]) and he raises a wand to heaven, embodying the magician who draws power from above to shape the world below.\n\n## Significance\nWirth (1860–1943), a Swiss occultist in Guaita's circle, designed twenty-two trumps that grafted Hebrew letters, planetary signs, and kabbalistic correspondences onto the Tarot de Marseille pattern — making explicit the esoteric Tarot theorised by Lévi and Papus. His 1889 deck is a foundational document of the occult Tarot and a key influence on twentieth-century esoteric design.\n\n## For artists & game designers\nThe four elemental tools laid out on a table is the clearest 'mage's workbench' icon in tarot.",
+   "citations": [
+    {"text": "O. Wirth, *Le Tarot des imagiers du Moyen Âge* (1927); deck of 1889."},
+    {"text": "Bibliothèque nationale de France."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:01_Le_Bateleur,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg"}
+   ],
+   "key_concepts": ["Oswald Wirth", "the Magician", "esoteric tarot", "four suits"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__wirth-devil",
+   "title": "Le Diable (The Devil) — Oswald Wirth Tarot, 1889",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Oswald Wirth",
+   "date": "1889",
+   "place": "Paris, France",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["tarot", "the devil", "le diable", "baphomet", "horned figure", "bound captives", "torch", "esoteric tarot"],
+   "rights": "Public domain. Bibliothèque nationale de France. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:15_Le_Diable,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+   "summary": "*Le Diable* (The Devil), trump XV of Oswald Wirth's esoteric Tarot of 1889 (BnF impression).\n\n## Iconography\nA horned, winged, hermaphroditic devil stands upon a pedestal, one hand raised, a torch or flame above the brow, while two small bound figures are chained at its feet. The design echoes Lévi's [[motif:baphomet|Baphomet]] and the Devil of the Tarot de Marseille — the principle of material bondage and the dark counterpart of the Magician.\n\n## Significance\nWirth's Devil makes the trump a deliberate occult cipher: the chained captives are loosely bound (bondage is voluntary), and the figure carries the elemental and astral signs the revival read into the card. It exemplifies how the 1889 deck re-coded the Marseille images as a kabbalistic and magical alphabet, with the Devil standing for the lower nature that the adept must master rather than a literal demon.\n\n## For artists & game designers\nA voluntary-bondage devil — captives loosely chained — is a richer 'temptation' beat than simple imprisonment.",
+   "citations": [
+    {"text": "O. Wirth, esoteric Tarot deck of 1889."},
+    {"text": "Bibliothèque nationale de France."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:15_Le_Diable,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg"}
+   ],
+   "key_concepts": ["Oswald Wirth", "the Devil", "Baphomet", "esoteric tarot"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__wirth-wheel",
+   "title": "La Roue de Fortune (Wheel of Fortune) — Oswald Wirth Tarot, 1889",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Oswald Wirth",
+   "date": "1889",
+   "place": "Paris, France",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["tarot", "wheel of fortune", "la roue de fortune", "sphinx", "typhon", "hermanubis", "rota", "esoteric tarot"],
+   "rights": "Public domain. Bibliothèque nationale de France. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:10_La_Roue_de_Fortune,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+   "summary": "*La Roue de Fortune* (The Wheel of Fortune), trump X of Oswald Wirth's esoteric Tarot of 1889 (BnF impression).\n\n## Iconography\nA great wheel turns on a stand, a sphinx couchant with a sword balanced at its summit while two animal-headed figures rise and fall on its rim — the dog-headed *Hermanubis* ascending and the monstrous *Typhon* descending, an arrangement borrowed from Lévi and Court de Gébelin. The wheel is the [[motif:wheel of fortune|Rota]] of fate and cyclic return.\n\n## Significance\nWirth follows Éliphas Lévi's esoteric reading of trump X, in which the rising and falling figures and the balancing sphinx represent the equilibrium of opposing forces and the law of cycles. The card is a key example of how the occult revival reinterpreted the medieval Wheel of Fortune as a diagram of cosmic law rather than mere chance.\n\n## For artists & game designers\nSphinx-atop-the-wheel with rising and falling beasts is a self-contained 'law of cycles' emblem.",
+   "citations": [
+    {"text": "O. Wirth, esoteric Tarot deck of 1889; É. Lévi, *Dogme et rituel* (1856)."},
+    {"text": "Bibliothèque nationale de France."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:10_La_Roue_de_Fortune,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg"}
+   ],
+   "key_concepts": ["Oswald Wirth", "Wheel of Fortune", "Hermanubis and Typhon", "esoteric tarot"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__wirth-moon",
+   "title": "Les Étoiles and La Lune (The Star and the Moon) — Oswald Wirth Tarot plate",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Oswald Wirth",
+   "date": "1889 (design; plate)",
+   "place": "Paris, France",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["tarot", "the star", "the moon", "les etoiles", "la lune", "two dogs", "crayfish", "celestial trump", "esoteric tarot"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Oswald_Wirth_tarot_plate,_featuring_Les_Etoiles_and_La_Lune.jpg",
+   "summary": "A plate from Oswald Wirth's esoteric Tarot showing two of the celestial trumps side by side — *Les Étoiles* (The Star, XVII) and *La Lune* (The Moon, XVIII).\n\n## Iconography\nOn the Star a nude maiden kneels pouring water from two vessels beneath a great star ringed by lesser stars; on the Moon a face-in-the-moon sheds drops over a landscape where two dogs bay and a [[motif:crayfish|crayfish]] crawls from a pool between two towers. The pair sets cosmic hope against nocturnal illusion.\n\n## Significance\nWirth retained the traditional Marseille imagery of the celestial triad (Star, Moon, Sun) while overlaying his esoteric correspondences. The two cards illustrate the revival's reading of the Tarot's final ascent: after the catastrophe of the Tower, the Star offers astral hope and the Moon the perils of the unconscious path. The plate is a convenient witness to Wirth's full deck.\n\n## For artists & game designers\nStar-and-Moon as a paired hope/illusion diptych — useful for a 'night journey' sequence.",
+   "citations": [
+    {"text": "O. Wirth, *Le Tarot des imagiers du Moyen Âge* (1927); deck of 1889."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Oswald_Wirth_tarot_plate,_featuring_Les_Etoiles_and_La_Lune.jpg"}
+   ],
+   "key_concepts": ["Oswald Wirth", "the Star", "the Moon", "esoteric tarot"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__guaita-goat-pentagram",
+   "title": "The Pentagrams of La Clef de la Magie Noire (Goat and Microcosm)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Stanislas de Guaita",
+   "date": "1897",
+   "place": "Paris, France",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["pentagram", "goat of mendes", "inverted pentagram", "microcosm man", "hebrew letters", "black magic", "good and evil", "sabbatic goat"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentagrams_from_La_Clef_de_la_Magie_Noire_color.jpg",
+   "summary": "The two opposed pentagrams from Stanislas de Guaita's *La Clef de la Magie Noire* (1897): the point-up star enclosing the figure of Man, and the inverted star framing the head of the Goat of Mendes.\n\n## Iconography\nLeft, an upright [[motif:pentagram|pentagram]] holds the human microcosm, head at the apex; right, an inverted pentagram is filled by the horned, bearded goat's head, with Hebrew letters around each. The colour plate makes vivid Lévi's doctrine of moral polarity — spirit-over-matter versus matter-over-spirit.\n\n## Significance\nGuaita (1861–1897), founder of the Kabbalistic Order of the Rose-Croix, gave this image its definitive form. The goat-in-inverted-pentagram with Hebrew letters spelling *Leviathan* later became, via Maurice Bessy's reproduction, the basis of the modern 'Sigil of Baphomet.' The plate is a cornerstone of the visual language of nineteenth-century ceremonial magic.\n\n## For artists & game designers\nThe paired upright-Man / inverted-Goat stars are a complete white-versus-black magic system in one image.",
+   "citations": [
+    {"text": "S. de Guaita, *La Clef de la Magie Noire* (1897)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentagrams_from_La_Clef_de_la_Magie_Noire_color.jpg"}
+   ],
+   "key_concepts": ["Stanislas de Guaita", "Goat of Mendes", "inverted pentagram", "Baphomet sigil"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__guaita-pentagram-simple",
+   "title": "Inverted Pentagram (de Guaita)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Stanislas de Guaita",
+   "date": "1897",
+   "place": "Paris, France",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["pentagram", "inverted pentagram", "point down", "black magic", "sigil", "five points", "occult diagram", "polarity"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentagram_with_one_point_down_(de_Guaita).jpg",
+   "summary": "A clean rendering of the single point-down pentagram from the diagrams of Stanislas de Guaita's *La Clef de la Magie Noire*.\n\n## Iconography\nA five-pointed star with two points raised and one point directed downward — the orientation that nineteenth-century occultism read as the [[motif:inverted pentagram|inverted pentagram]], signifying the dominance of matter over spirit and, in Lévi's and Guaita's schemes, the sign of black magic and the sabbatic goat.\n\n## Significance\nThe point-down/point-up distinction codified by Lévi and visualised by Guaita is the origin of the now-universal convention that an inverted pentagram is 'sinister.' Stripped to its bare geometry here, the figure shows how a simple change of orientation was loaded with the whole moral dualism of the occult revival.\n\n## For artists & game designers\nThe minimal 'evil star' glyph — orientation alone signals corruption, no extra ornament needed.",
+   "citations": [
+    {"text": "S. de Guaita, *La Clef de la Magie Noire* (1897); É. Lévi, *Dogme et rituel* (1856)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentagram_with_one_point_down_(de_Guaita).jpg"}
+   ],
+   "key_concepts": ["inverted pentagram", "Stanislas de Guaita", "moral polarity", "occult geometry"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__guaita-frontispiece",
+   "title": "Frontispiece to La Clef de la Magie Noire (Oswald Wirth)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Oswald Wirth (for Stanislas de Guaita)",
+   "date": "1897",
+   "place": "Paris, France",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["frontispiece", "ceremonial magic", "rose croix", "esoteric emblem", "wirth", "guaita", "black magic", "engraving"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:La_Clef_de_La_Magie_Noire_frontispiece.png",
+   "summary": "The engraved frontispiece to Stanislas de Guaita's *La Clef de la Magie Noire* (1897), drawn by Oswald Wirth.\n\n## Iconography\nA dense allegorical composition of esoteric emblems — geometric figures, symbolic beasts, and the apparatus of [[motif:ceremonial magic|ceremonial magic]] — assembled as a visual overture to Guaita's treatise on the 'serpent of Genesis' and the misuse of occult power. Wirth's confident draughtsmanship binds the symbols into a single emblematic title-page.\n\n## Significance\nThe collaboration between Guaita and his illustrator Oswald Wirth produced some of the most reproduced images of the French occult revival. As the gateway image to the second volume of Guaita's *Essais de sciences maudites*, the frontispiece advertises the book's theme — the dangers of black magic — and exemplifies the period's taste for the densely symbolic emblematic plate.\n\n## For artists & game designers\nA model 'grimoire title page': pack symbolic emblems into one frame to signal a book of dangerous knowledge.",
+   "citations": [
+    {"text": "S. de Guaita, *La Clef de la Magie Noire* (1897), ill. O. Wirth."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:La_Clef_de_La_Magie_Noire_frontispiece.png"}
+   ],
+   "key_concepts": ["Stanislas de Guaita", "Oswald Wirth", "frontispiece", "sciences maudites"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__guaita-hermit",
+   "title": "L'Ermite (The Hermit) — La Clef de la Magie Noire",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Oswald Wirth (for Stanislas de Guaita)",
+   "date": "1897",
+   "place": "Paris, France",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["the hermit", "lantern", "staff", "cloak", "serpent", "prudence", "esoteric emblem", "engraving"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:L%27Ermite_-_La_Clef_de_la_Magie_Noire.png",
+   "summary": "*L'Ermite* (The Hermit), an emblematic plate by Oswald Wirth from Stanislas de Guaita's *La Clef de la Magie Noire* (1897).\n\n## Iconography\nA cloaked old man holds a raised lantern and a staff, a serpent coiling at his feet — the [[motif:the hermit|Hermit]] of the Tarot reworked as an emblem of esoteric prudence and the solitary seeker who lights the way through occult darkness. The lantern shields its flame, suggesting wisdom guarded and shared sparingly.\n\n## Significance\nWirth, illustrator of Guaita's works and creator of the 1889 esoteric Tarot, here deploys the Hermit as a moral emblem within Guaita's treatise on black magic, where the figure stands for the cautious adept. The plate shows how the revival's authors moved fluidly between Tarot trump and book-illustration, treating each card as a portable allegory.\n\n## For artists & game designers\nThe shielded-lantern hermit is the archetypal 'guide who lights the way' NPC — wisdom offered, never forced.",
+   "citations": [
+    {"text": "S. de Guaita, *La Clef de la Magie Noire* (1897), ill. O. Wirth."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:L%27Ermite_-_La_Clef_de_la_Magie_Noire.png"}
+   ],
+   "key_concepts": ["the Hermit", "Oswald Wirth", "Stanislas de Guaita", "esoteric emblem"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__sola-busca-00",
+   "title": "Mato (The Fool) — Sola Busca Tarot",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Anonymous (North Italian engraver)",
+   "date": "c. 1491 (engraving)",
+   "place": "Ferrara or Venice, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["sola busca", "the fool", "mato", "engraved tarot", "alchemy", "classical figure", "earliest full deck", "tarocchi"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_00.jpg",
+   "summary": "*Mato*, the Fool (card 0) of the Sola Busca Tarot, the earliest surviving complete 78-card tarot deck, engraved in northern Italy c. 1491.\n\n## Iconography\nA single figure in the deck's distinctive engraved style, named *Mato* ('the madman/fool'). The Sola Busca cards are unusual in depicting named classical and Roman heroes and an alchemical symbolism rather than the standard Tarot de Marseille images. The line-engraving and hand-colouring set it apart from woodcut decks.\n\n## Significance\nThe Sola Busca is the oldest complete tarot deck known and the only fifteenth-century deck whose pip cards bear full scenic illustrations. A. E. Waite and Pamela Colman Smith studied photographs of it at the British Museum, and several Sola Busca pips directly inspired the scenic minor arcana of the 1909 Rider–Waite–Smith deck. It thus links the [[motif:earliest full deck|origins of tarot]] to the occult revival's most famous deck.\n\n## For artists & game designers\nThe original scenic-pip deck — a model for illustrating every card, not just the trumps.",
+   "citations": [
+    {"text": "S. Bartsch & others on the Sola Busca; British Museum impressions."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_00.jpg"}
+   ],
+   "key_concepts": ["Sola Busca", "the Fool", "earliest tarot deck", "scenic pips"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__sola-busca-13",
+   "title": "Catone — Sola Busca Tarot (trump XIII)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Anonymous (North Italian engraver)",
+   "date": "c. 1491 (engraving)",
+   "place": "Ferrara or Venice, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["sola busca", "catone", "cato", "roman hero", "trump", "engraved tarot", "classical figure", "tarocchi"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_13_-_Catone.jpg",
+   "summary": "*Catone* (Cato), trump XIII of the Sola Busca Tarot (c. 1491), the named-hero card that occupies the place of Death in the standard sequence.\n\n## Iconography\nA classical figure identified as [[motif:roman hero|Cato]] stands in the deck's fine engraved manner. Where the Tarot de Marseille shows a skeletal Death at trump XIII, the Sola Busca substitutes a named Roman worthy — part of its programme of replacing the conventional allegories with figures from antiquity.\n\n## Significance\nThe Sola Busca's trumps form a gallery of Greco-Roman heroes (Alexander, Catullus, Nero, Cato), an erudite humanist reworking of the tarot sequence unlike any other surviving deck. Its alchemical undercurrents and classical learning made it a touchstone for later esotericists; the British Museum's photographic set of the deck was directly consulted by the makers of the Rider–Waite–Smith tarot.\n\n## For artists & game designers\nNamed historical 'champions' standing in for abstract trumps — a template for a learned, character-driven deck.",
+   "citations": [
+    {"text": "On the Sola Busca and its classical programme, museum catalogues."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_13_-_Catone.jpg"}
+   ],
+   "key_concepts": ["Sola Busca", "Cato", "classical heroes", "humanist tarot"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__sola-busca-18",
+   "title": "Lentulo — Sola Busca Tarot (trump XVIII)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Anonymous (North Italian engraver)",
+   "date": "c. 1491 (engraving)",
+   "place": "Ferrara or Venice, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["sola busca", "lentulo", "roman figure", "trump", "engraved tarot", "classical hero", "armour", "tarocchi"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_18_-_Lentulo.jpeg",
+   "summary": "*Lentulo* (Lentulus), trump XVIII of the Sola Busca Tarot (c. 1491), one of the deck's gallery of named antique figures.\n\n## Iconography\nA standing [[motif:roman figure|Roman figure]] named Lentulo, rendered in the deck's crisp engraved line and martial costume. As with the other Sola Busca trumps, a specific historical or legendary personage replaces the generic allegory of the ordinary tarot — here in the position the Marseille deck gives to the Moon.\n\n## Significance\nThe substitution of Roman names (Lentulus among the Catilinarian conspirators or a Cornelii Lentuli) for the standard trumps reflects the deck's humanist, antiquarian conception and its likely commission for a learned North-Italian patron. The Sola Busca remains the single most important fifteenth-century deck for the history of esoteric tarot, since its scenic engravings reached the twentieth century through the British Museum and the Rider–Waite circle.\n\n## For artists & game designers\nArmoured named figures as trumps — period reference for a martial, history-themed card set.",
+   "citations": [
+    {"text": "On the Sola Busca, museum and deck-history literature."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_18_-_Lentulo.jpeg"}
+   ],
+   "key_concepts": ["Sola Busca", "Lentulus", "named trumps", "Renaissance engraving"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__sola-busca-nabuchadnezzar",
+   "title": "Nabuchodenasor (Nebuchadnezzar) — Sola Busca Tarot (trump XXI)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Anonymous (North Italian engraver)",
+   "date": "c. 1491 (engraving)",
+   "place": "Ferrara or Venice, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["sola busca", "nebuchadnezzar", "the world", "trump xxi", "king", "engraved tarot", "babylon", "tarocchi"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_21.jpg",
+   "summary": "*Nabuchodenasor* (Nebuchadnezzar), trump XXI of the Sola Busca Tarot (c. 1491) — the named king who occupies the highest trump, the place of the World.\n\n## Iconography\nThe Babylonian king [[motif:nebuchadnezzar|Nebuchadnezzar]] is shown as the deck's final and highest trump (XXI), where the ordinary tarot places *Il Mondo* (the World). The figure is engraved in the Sola Busca's elegant, slightly sinister Ferrarese manner, crowning the sequence of antique worthies.\n\n## Significance\nReplacing the cosmic World card with a specific biblical king is characteristic of the Sola Busca's idiosyncratic, learned programme. Nebuchadnezzar — builder of Babylon, dreamer of the great image, and the king humbled to beast and restored — is a rich choice for the summit of the trumps. The deck's survival and its study by the Rider–Waite–Smith circle make it a crucial bridge from the Renaissance to the modern esoteric tarot.\n\n## For artists & game designers\nA fallen-and-restored king as the 'final boss' trump — narrative weight built into a single card.",
+   "citations": [
+    {"text": "Book of Daniel (Nebuchadnezzar); Sola Busca museum literature."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_21.jpg"}
+   ],
+   "key_concepts": ["Sola Busca", "Nebuchadnezzar", "highest trump", "humanist tarot"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__mantegna-prima-causa",
+   "title": "Prima Causa and Misero — Mantegna Tarocchi (engraving plate)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Master of the E-Series Tarocchi (so-called 'Mantegna')",
+   "date": "c. 1465 (engraving; later impression)",
+   "place": "Ferrara, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["mantegna tarocchi", "prima causa", "first cause", "misero", "cosmic principles", "e-series", "didactic deck", "engraving"],
+   "rights": "Public domain. Bibliothèque nationale de France. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A_Prima_causa_XXXXX._50_;_E_Misero_I._1_-_estampe_-_Ma%C3%AEtre_de_la_S%C3%A9rie_E_-_btv1b10550744p.jpg",
+   "summary": "An engraving plate of the so-called *Mantegna Tarocchi* (c. 1465) reproducing two cards: *Prima Causa* (the First Cause, no. 50) and *Misero* (the Beggar, no. 1), the top and bottom of the fifty-card series (BnF).\n\n## Iconography\n*Prima Causa* depicts the supreme cosmological principle — the [[motif:first cause|First Cause]] of the highest decade — as a radiant emblem of the source of all being; *Misero* shows the ragged beggar at the very bottom of the ladder of estates. Together they frame the entire ascending scheme from mortal poverty to the divine origin.\n\n## Significance\nThe Mantegna Tarocchi is not a playing deck but an encyclopaedic engraved series in five decades — estates of man, Apollo and the Muses, the Liberal Arts, the cosmic principles and Virtues, and the planets and spheres. Wrongly attributed to Mantegna, it is a North-Italian humanist teaching device whose ordered cosmos profoundly shaped later esoteric image-systems and was admired and copied by Dürer.\n\n## For artists & game designers\nTop-and-bottom of a cosmic ladder on one sheet — a compact reference for a 'great chain of being' progression.",
+   "citations": [
+    {"text": "J. A. Levenson et al., *Early Italian Engravings from the National Gallery of Art* (1973)."},
+    {"text": "Bibliothèque nationale de France."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:A_Prima_causa_XXXXX._50_;_E_Misero_I._1_-_estampe_-_Ma%C3%AEtre_de_la_S%C3%A9rie_E_-_btv1b10550744p.jpg"}
+   ],
+   "key_concepts": ["Mantegna Tarocchi", "Prima Causa", "estates of man", "E-series engravings"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__mantegna-planet",
+   "title": "Mantegna Tarocchi Figures (engraving history plate)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "After the Master of the E-Series Tarocchi",
+   "date": "1908 (reproduction of c. 1465 engravings)",
+   "place": "Ferrara, Italy (original); London (reproduction)",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["mantegna tarocchi", "engraving", "muses", "liberal arts", "didactic deck", "e-series", "cosmic order", "reproduction"],
+   "rights": "Public domain (No restrictions; Internet Archive Book Images). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A_short_history_of_engraving_(and)_etching_-_for_the_use_of_collectors_and_students;_with_full_bibliography,_classified_list_and_index_of_engravers_(1908)_(14596690067).jpg",
+   "summary": "A 1908 book reproduction of figures from the so-called *Mantegna Tarocchi*, illustrating an early history of engraving (Internet Archive Book Images).\n\n## Iconography\nThe plate reproduces one or more of the fifty engraved cards of the E-series — figures from the [[motif:mantegna tarocchi|Mantegna Tarocchi]] such as a Muse, a Liberal Art, or a cosmic principle — chosen by the 1908 author as specimens of fifteenth-century Italian line-engraving.\n\n## Significance\nThe Mantegna Tarocchi was prized by early historians of engraving (Bartsch, Hind) as a landmark of the medium, and reproductions like this one carried its imagery to collectors and, indirectly, to occult writers. The series' ordered cosmos — estates, Muses, arts, virtues, planets — exemplifies the Renaissance encyclopaedic image-system that lies behind the esoteric Tarot the nineteenth century rediscovered.\n\n## For artists & game designers\nPublic-domain line-engraved figures ready to repurpose as allegorical card art.",
+   "citations": [
+    {"text": "A. M. Hind, *A History of Engraving and Etching* (1908/1923)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:A_short_history_of_engraving_(and)_etching_-_for_the_use_of_collectors_and_students;_with_full_bibliography,_classified_list_and_index_of_engravers_(1908)_(14596690067).jpg"}
+   ],
+   "key_concepts": ["Mantegna Tarocchi", "history of engraving", "E-series", "Renaissance allegory"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__minchiate-devil",
+   "title": "Il Diavolo (The Devil) — Minchiate of Florence",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "A. Baragioli (publisher), after the Minchiate pattern",
+   "date": "1860–1890 (Florence)",
+   "place": "Florence, Italy",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["minchiate", "the devil", "il diavolo", "horned figure", "florentine tarot", "97-card deck", "trump", "woodcut"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_14_-_Il_Diavolo.jpg",
+   "summary": "*Il Diavolo* (The Devil), a trump from a Florentine Minchiate deck published by A. Baragioli, 1860–1890.\n\n## Iconography\nA horned, clawed [[motif:the devil|devil]] in the simplified, brightly coloured Minchiate style. The Minchiate is an expanded Florentine tarot of 97 cards, adding the four elements, the twelve zodiac signs, and the three theological and four cardinal virtues to the standard trumps — so its Devil sits within a far larger allegorical sequence than the Marseille deck.\n\n## Significance\nThe Minchiate preserves an alternative, astrologically expanded tarot tradition that flourished in Tuscany from the sixteenth century into the nineteenth. With its zodiac and element cards it is the most cosmologically complete of historic tarots, and it interested occult writers seeking the 'original' astrological tarot. This late-nineteenth-century Baragioli edition shows the pattern still in production during the occult revival.\n\n## For artists & game designers\nA folk-bright devil from an astrological 97-card deck — a cheerier, less Gothic take on the trump.",
+   "citations": [
+    {"text": "M. Dummett, *The Game of Tarot* (1980), on the Minchiate."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_14_-_Il_Diavolo.jpg"}
+   ],
+   "key_concepts": ["Minchiate", "the Devil", "Florentine tarot", "astrological trumps"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__minchiate-tower",
+   "title": "La Casa del Diavolo (The Tower) — Minchiate of Florence",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "A. Baragioli (publisher), after the Minchiate pattern",
+   "date": "1860–1890 (Florence)",
+   "place": "Florence, Italy",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["minchiate", "the tower", "casa del diavolo", "lightning", "falling figures", "florentine tarot", "trump", "catastrophe"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_15_-_La_Casa_del_Diavolo.jpg",
+   "summary": "*La Casa del Diavolo* (the House of the Devil — the Tower), a trump from a Florentine Minchiate deck published by A. Baragioli, 1860–1890.\n\n## Iconography\nA tower or building struck from above, with figures cast down — the Minchiate's version of the [[motif:the tower|Tower]] trump, here named *La Casa del Diavolo* ('the Devil's House'). The image carries the same meaning of sudden, divinely-sent [[motif:catastrophe|catastrophe]] as the Marseille *Maison-Dieu*, in the deck's lively Florentine colouring.\n\n## Significance\nThe naming of the Tower as 'the House of the Devil' is distinctive to the Minchiate tradition and underlines how the same trump acquired different glosses across regional tarots. As part of the most astrologically elaborate historic deck, the card belongs to a sequence that, with its zodiac and element trumps, presented the period's fullest tarot cosmology. This late edition documents the Minchiate's survival into the era of the occult revival.\n\n## For artists & game designers\n'The Devil's House' as a name for the disaster card — a flavourful regional variant for a tower-collapse beat.",
+   "citations": [
+    {"text": "M. Dummett, *The Game of Tarot* (1980), on the Minchiate."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Minchiate_card_deck_-_Florence_-_1860-1890_-_Trumps_-_15_-_La_Casa_del_Diavolo.jpg"}
+   ],
+   "key_concepts": ["Minchiate", "the Tower", "Casa del Diavolo", "Florentine tarot"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__tree-of-life-kircher",
+   "title": "The Kabbalistic Tree of Life (Kircher arrangement)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "After Athanasius Kircher",
+   "date": "1652–54 design (later reproduction)",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["tree of life", "sephiroth", "ten emanations", "twenty-two paths", "hebrew", "kabbalah diagram", "kircher", "pillars"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kircher_Tree_of_Life.png",
+   "summary": "The 'Kircher' arrangement of the kabbalistic Tree of Life, the standard diagram of the ten Sephiroth and their connecting paths adopted by the Hermetic Order of the Golden Dawn.\n\n## Iconography\nTen circles (the [[motif:sephiroth|Sephiroth]], the divine emanations) are ranged in three vertical pillars and joined by twenty-two paths, each path later assigned a Hebrew letter and a Tarot trump. This particular geometry derives from the diagram in Athanasius Kircher's *Oedipus Aegyptiacus* (1652–54).\n\n## Significance\nKircher's version of the Tree became the canonical form for modern Western occultism: the Golden Dawn mapped the twenty-two Hebrew letters, the planets and signs, and the Tarot trumps onto its twenty-two paths, making the Tree the master-diagram correlating Kabbalah, astrology, and Tarot. It is arguably the single most important structural emblem of the nineteenth- and twentieth-century revival.\n\n## For artists & game designers\nA ready-made skill-tree: ten nodes, twenty-two connecting paths, each ripe for a correspondence or unlock.",
+   "citations": [
+    {"text": "A. Kircher, *Oedipus Aegyptiacus* (1652–54)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kircher_Tree_of_Life.png"}
+   ],
+   "key_concepts": ["Tree of Life", "Sephiroth", "Kircher diagram", "Golden Dawn correspondences"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__sigillum-dei-aemeth",
+   "title": "John Dee's Sigillum Dei Aemeth (wax seal, British Museum)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "John Dee (object); photograph CC0",
+   "date": "1580s (object)",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "goetia_grimoire",
+   "motifs": ["sigillum dei aemeth", "wax seal", "heptagram", "angel names", "john dee", "enochian", "magic circle", "talisman"],
+   "rights": "CC0 / Public domain. British Museum. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee%27s_Seal_of_God_British_Museum_26_07_2013.jpg",
+   "summary": "John Dee's wax *Sigillum Dei Aemeth* ('Seal of God's Truth'), the inscribed talismanic disc on which his shewstone rested during the angelic conversations (British Museum).\n\n## Iconography\nA disc of wax engraved with concentric rings of [[motif:angel names|angelic names]], a heptagon and heptagram, and a complex array of letters and numbers derived from the names of God and the angels. Dee used it, with companion seals, beneath his crystal to consecrate the field of vision for scrying.\n\n## Significance\nThe Sigillum Dei has a long medieval grimoire pedigree (the *Liber iuratus* / Sworn Book of Honorius), but Dee gave it the elaborated form preserved here, central to the [[motif:enochian|Enochian]] system he and Edward Kelley developed in the 1580s. Through Dee's manuscripts the seal passed into the Hermetic Order of the Golden Dawn and the wider occult revival, making this British Museum object one of the most important surviving instruments of Western ceremonial magic.\n\n## For artists & game designers\nAn authentic, dateable consecration-seal prop — concentric rings of angel names ready as a 'ritual focus' object.",
+   "citations": [
+    {"text": "British Museum (the Dee wax tablets); on Dee & Kelley, D. Harkness, *John Dee's Conversations with Angels* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:John_Dee%27s_Seal_of_God_British_Museum_26_07_2013.jpg"}
+   ],
+   "key_concepts": ["Sigillum Dei Aemeth", "John Dee", "Enochian magic", "talismanic seal"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__sigillum-dei-sloane",
+   "title": "Sigillum Dei Aemeth (Dee manuscript, Sloane 3188)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "John Dee",
+   "date": "1582–83 (manuscript)",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "goetia_grimoire",
+   "motifs": ["sigillum dei aemeth", "manuscript diagram", "heptagram", "angel names", "john dee", "enochian", "sloane manuscript", "scrying"],
+   "rights": "Public domain. British Library, Sloane MS 3188. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sloane3188-john_dee.png",
+   "summary": "The drawing of the *Sigillum Dei Aemeth* in John Dee's own working manuscript (British Library, Sloane MS 3188), the record of his angelic 'actions' of 1582–83.\n\n## Iconography\nDee's pen diagram lays out the [[motif:sigillum dei aemeth|seal]] as concentric rings inscribed with the names of angels and the letters of the divine names, structured around a heptagon and heptagram. It is the design from which the wax seals were cut, recorded in the diary of his scrying sessions with Edward Kelley.\n\n## Significance\nSloane MS 3188 (the *Mysteriorum Libri*) is the primary source for Dee's [[motif:enochian|Enochian]] system — the angelic language, the Great Table, and the consecrating seals. The manuscript was studied by the Hermetic Order of the Golden Dawn, whose adepts (Westcott, Mathers) reconstructed Enochian magic from Dee's papers, carrying this sixteenth-century material into the heart of the nineteenth-century revival.\n\n## For artists & game designers\nThe hand-drawn manuscript version is a more 'authentic notebook' asset than a clean printed seal — good for a found-grimoire feel.",
+   "citations": [
+    {"text": "London, British Library, Sloane MS 3188 (Dee, *Mysteriorum Libri*)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sloane3188-john_dee.png"}
+   ],
+   "key_concepts": ["Sigillum Dei Aemeth", "Sloane 3188", "John Dee", "Enochian magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__theosophical-seal",
+   "title": "Seal of the Theosophical Society",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Theosophical Society (anonymous designer)",
+   "date": "1875 (founded; emblem)",
+   "place": "New York / Adyar",
+   "era": "modern",
+   "tradition": "theosophy",
+   "motifs": ["theosophical seal", "ouroboros", "interlaced triangles", "star of david", "ankh", "swastika", "om", "syncretism"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Theosophical_Society_Seal.jpg",
+   "summary": "The seal of the Theosophical Society, the composite emblem of the movement founded by H. P. Blavatsky and Henry Steel Olcott in 1875.\n\n## Iconography\nA serpent biting its tail (the [[motif:ouroboros|ouroboros]]) encircles two interlaced triangles (the hexagram / Seal of Solomon), within which sit an ankh (*crux ansata*), and at the apex a swastika; the syllable *Om* and the motto 'There is no religion higher than Truth' complete the design. Each element is drawn from a different tradition — Egyptian, Hebrew, Indian — to assert a universal wisdom.\n\n## Significance\nThe seal is a programmatic image of [[motif:syncretism|Theosophical syncretism]]: the claim that all religions share a single 'secret doctrine.' Theosophy was a major channel of the occult revival, carrying Eastern terminology and the idea of a perennial wisdom into Western esotericism and influencing later movements and modern art (Kandinsky, Mondrian). The emblem distils that universalising ambition into one badge.\n\n## For artists & game designers\nA syncretic faction crest in one glyph — ouroboros frame plus stacked symbols reads instantly as 'universal mystery order.'",
+   "citations": [
+    {"text": "H. P. Blavatsky, *The Secret Doctrine* (1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Theosophical_Society_Seal.jpg"}
+   ],
+   "key_concepts": ["Theosophical Society", "ouroboros", "syncretic emblem", "Blavatsky"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__gd-rose-cross",
+   "title": "The Rose Cross Lamen (Golden Dawn)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Modern redrawing (RootOfAllLight), after the Golden Dawn design",
+   "date": "Golden Dawn design c. 1888 (modern vector rendering)",
+   "place": "England",
+   "era": "modern",
+   "tradition": "rosicrucian",
+   "motifs": ["rose cross", "lamen", "golden dawn", "rosicrucian", "hebrew letters", "elemental colours", "pentagram", "hexagram"],
+   "rights": "CC BY-SA 4.0 (modern rendering by RootOfAllLight; underlying Golden Dawn design is public domain). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Rose_Cross_Lamen.png",
+   "summary": "The Rose Cross Lamen of the Hermetic Order of the Golden Dawn, the breast-symbol of the Adeptus Minor grade (a modern vector redrawing of the c. 1888 design).\n\n## Iconography\nA cross of many colours bears a central rose of twenty-two petals (one for each Hebrew letter), with the elemental and zodiacal colours, a pentagram and hexagram, and the names of God arranged around the arms. The whole [[motif:lamen|lamen]] is a compressed map of the Golden Dawn's system of correspondences — letters, elements, planets, and Sephiroth in one badge.\n\n## Significance\nDesigned within the Golden Dawn (largely by S. L. MacGregor Mathers) and worn by the Adeptus Minor of the inner Second Order (the R.R. et A.C.), the Rose Cross synthesises Rosicrucian symbolism with Kabbalah and the elemental scheme. It is among the most reproduced emblems of the order and a key image of the rosicrucian strand of the revival.\n\n## For artists & game designers\nA fully encoded 'rank lamen' — colours and symbols all carry meaning, ideal for a meaningful insignia.",
+   "citations": [
+    {"text": "I. Regardie, *The Golden Dawn* (1937–40)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Rose_Cross_Lamen.png"}
+   ],
+   "key_concepts": ["Rose Cross", "Golden Dawn lamen", "Rosicrucian", "correspondences"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "occult_revival__lbrp-pentagram",
+   "title": "The Banishing Pentagram with Divine Names (Golden Dawn ritual)",
+   "work": "The Nineteenth-Century Occult Revival",
+   "creator": "Modern diagram, after the Golden Dawn ritual",
+   "date": "Golden Dawn ritual c. 1888 (modern diagram)",
+   "place": "England",
+   "era": "modern",
+   "tradition": "rosicrucian",
+   "motifs": ["pentagram", "lbrp", "banishing ritual", "hebrew divine names", "tetragrammaton", "elemental quarters", "golden dawn", "ceremonial magic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:LBRP_hebrew.PNG",
+   "summary": "A diagram of the banishing pentagram with the four Hebrew divine names, illustrating the Golden Dawn's Lesser Banishing Ritual of the Pentagram (LBRP).\n\n## Iconography\nA five-pointed [[motif:pentagram|pentagram]] is shown with the four great Hebrew names of God — *YHVH*, *ADNI* (Adonai), *AHIH* (Eheieh), *AGLA* — assigned to the four quarters, together with the directions in which the star is traced to banish or invoke. The figure encodes the gestures and vibrated names of the ritual.\n\n## Significance\nThe LBRP is the foundational practical rite of the Hermetic Order of the Golden Dawn and the most widely transmitted ceremonial-magic exercise of the modern revival. Building on Lévi's pentagram doctrine, it ties the drawing of the star at the four quarters to the divine names and the elemental cross, framing the magician's working space. The diagram is a standard teaching aid for the ritual.\n\n## For artists & game designers\nA labelled spell-circle: four quarters, four names, traced star — a literal casting-diagram for a warding mechanic.",
+   "citations": [
+    {"text": "I. Regardie, *The Golden Dawn* (1937–40); É. Lévi, *Dogme et rituel* (1856)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:LBRP_hebrew.PNG"}
+   ],
+   "key_concepts": ["pentagram ritual", "LBRP", "divine names", "Golden Dawn"],
+   "summary_status": "authored"
+  }
+ ]
+}

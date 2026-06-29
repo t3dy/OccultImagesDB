@@ -1,0 +1,331 @@
+{
+ "_work": {
+   "key": "tree_of_life",
+   "short_id": "TOL",
+   "title": "The Kabbalistic Tree of Life",
+   "creator": "various",
+   "date": "13th–20th c.",
+   "century": 17,
+   "place": "Europe and the Near East",
+   "region": "Europe",
+   "language": "Hebrew, Latin",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "tree_of_life",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Tree_of_life_(Kabbalah)",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["sefirot", "tree of life", "etz chaim", "four worlds", "adam kadmon", "ein sof"],
+   "blurb": "Images of the Kabbalistic Tree of Life (*Etz Chaim*) — the diagram of the ten *sefirot* and twenty-two connective paths through which the Infinite (*Ein Sof*) emanates the worlds. The set spans medieval and Renaissance Hebrew sources (Gikatilla's *Sha'arei Orah* / *Portae Lucis*, the *Sefer Yetzirah*), Lurianic diagrams from the school of Isaac Luria, the Christian-Hebraist trees of the Sulzbach and Württemberg circles (the Bad Teinach *Lehrtafel*), the four worlds and the cosmic-man *Adam Kadmon*, and modern scholarly reconstructions of the three-pillar tree with its divine names and Hebrew letters. Deliberately seeks editions and plates distinct from those already held under jewish_mysticism."
+ },
+ "entries": [
+  {
+   "id": "tree_of_life__gikatilla-ten-sephiroth",
+   "title": "Ten Sefirot, title-page of *Portae Lucis* (Gikatilla)",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Joseph ben Abraham Gikatilla; Latin trans. Paulus Ricius",
+   "date": "1516 (Augsburg edition)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "tree of life", "ten emanations", "sage holding tree", "divine names", "hebrew letters", "concentric spheres", "portae lucis"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:UBN11497_Gikatilla_Portaelucis_e_tp_ill_Ten-Sephiroth_c_124mb-kopie.jpg",
+   "summary": "A finely preserved copy (Radboud University, Nijmegen) of the title-page woodcut of *Portae Lucis* — the Latin *Sha'arei Orah* of Joseph Gikatilla — showing the ten sefirot held as a tree by a bearded sage.\n\n## Iconography\nA standing sage cradles a tree composed of ten labelled spheres, the [[motif:sefirot|sefirot]], linked by paths and crowned by *Keter*. Each sphere carries a Hebrew divine name and attribute, descending from the hidden crown through *Hokhmah* and *Binah* to *Malkhut* at the root. This is a different exemplar and edition-state from the *Portae Lucis 1516* plate held elsewhere in the archive.\n\n## Significance\nGikatilla's *Sha'arei Orah* (late 13th c.) is the classic treatise on the divine names assigned to each sefirah; Ricius's 1516 Latin version made it foundational for Christian Kabbalah. This woodcut is the direct ancestor of every later schematic [[motif:tree of life|Tree of Life]]. Gershom Scholem and Moshe Idel are the standard guides.\n\n## For artists & game designers\nThe canonical 'skill-tree' source image at high resolution — ten labelled nodes joined by paths, ideal as a reference for an attribute or progression diagram.",
+   "citations": [
+    {"text": "Joseph Gikatilla, *Sha'arei Orah*; Latin *Portae Lucis*, trans. Paulus Ricius (Augsburg, 1516)."},
+    {"text": "Gershom Scholem, *Major Trends in Jewish Mysticism* (1941)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:UBN11497_Gikatilla_Portaelucis_e_tp_ill_Ten-Sephiroth_c_124mb-kopie.jpg"}
+   ],
+   "key_concepts": ["sefirot", "Sha'arei Orah", "Portae Lucis", "Tree of Life"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__gikatilla-portae-alt",
+   "title": "Frontispiece of *Portae Lucis* (alternate exemplar)",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Joseph ben Abraham Gikatilla; Latin trans. Paulus Ricius",
+   "date": "1516 (Augsburg edition)",
+   "place": "Augsburg, German lands",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "tree of life", "ten emanations", "sage holding tree", "divine names", "hebrew letters", "woodcut", "christian kabbalah"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Portae_Lucis,_Joseph_Gikatilla.jpg",
+   "summary": "Another exemplar of the *Portae Lucis* (Gates of Light) frontispiece, the woodcut that fixed the now-canonical Tree-of-Life arrangement of the sefirot in European print.\n\n## Iconography\nThe bearded sage holds the tree of ten [[motif:sefirot|sefirot]], each sphere inscribed with its Hebrew divine name and joined by the connective paths of emanation. The composition presents the whole godhead's self-revelation as a single hand-held diagram. The slight differences in tone and trimming from the other held copies make this a useful comparison print.\n\n## Significance\nPaulus Ricius's 1516 Latin translation of Gikatilla's *Sha'arei Orah* carried the doctrine of the divine names attached to each sefirah into Christian learning, supplying Reuchlin, Agrippa, and later occultists their working vocabulary. This image — not any medieval Jewish source — is the visual archetype of the schematic Tree. Scholem and Idel remain standard.\n\n## For artists & game designers\nA clean high-contrast woodcut of the figure-with-tree motif — good line-art reference for a 'keeper of the system' character holding a diagram.",
+   "citations": [
+    {"text": "Joseph Gikatilla, *Portae Lucis*, trans. Paulus Ricius (Augsburg, 1516)."},
+    {"text": "Moshe Idel, *Kabbalah: New Perspectives* (1988)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Portae_Lucis,_Joseph_Gikatilla.jpg"}
+   ],
+   "key_concepts": ["Portae Lucis", "sefirot", "Christian Kabbalah", "Tree of Life"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__teinach-lehrtafel",
+   "title": "The Bad Teinach *Kabbalistische Lehrtafel* (central panel)",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Johann Friedrich Gruber (after Antonia of Württemberg)",
+   "date": "1659–1673",
+   "place": "Bad Teinach, Württemberg, German lands",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "tree of life", "christian kabbalah", "divine names", "wisdom sophia", "allegory", "altarpiece", "emanation"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Teinach_lehrtafel_hauptbild.jpg",
+   "summary": "The painted main image of the *Kabbalistische Lehrtafel* ('Kabbalistic teaching panel') commissioned by Princess Antonia of Württemberg for the church at Bad Teinach — a rare monumental Christian-Hebraist Tree of Life.\n\n## Iconography\nA towering allegorical composition arranges the divine emanations as an architecture of figures, names, and spheres rising toward a radiant crown. Hebrew divine names, the [[motif:sefirot|sefirot]], and biblical personifications of Wisdom (Sophia) are woven into a single devotional ladder ascending from the earthly bride toward the godhead, fusing Lutheran piety with the Kabbalah transmitted through the Württemberg learned circle.\n\n## Significance\nDedicated in 1673, the *Lehrtafel* is the most ambitious surviving artwork of early-modern Christian Kabbalah, the product of Antonia's circle of Hebraists and theosophers. It translates the sefirotic Tree into a Protestant theology of salvation as ascent. It is studied in the scholarship on Württemberg pietism and Christian Cabala (e.g. work by Reinhard Breymayer).\n\n## For artists & game designers\nA model for a 'painted ascent' UI: a single vertical tableau where ranks of named figures form a climbable ladder of emanations.",
+   "citations": [
+    {"text": "Reinhard Breymayer & Friedrich Häußermann, studies of Antonia von Württemberg's *Lehrtafel*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Teinach_lehrtafel_hauptbild.jpg"}
+   ],
+   "key_concepts": ["Kabbalistische Lehrtafel", "Antonia of Württemberg", "Christian Kabbalah", "sefirot"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__adam-kadmon-tree",
+   "title": "Adam Kadmon and the Tree of the Sefirot (Isaac Myer)",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Isaac Myer",
+   "date": "1888 (*Qabbalah*)",
+   "place": "Philadelphia, United States",
+   "era": "modern",
+   "tradition": "kabbalah",
+   "motifs": ["adam kadmon", "primordial man", "sefirot", "tree of life", "cosmic body", "divine names", "emanation", "hebrew letters"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Adamtree.jpg",
+   "summary": "A diagram of *Adam Kadmon*, the primordial cosmic Man, superimposed on the Tree of the sefirot, from Isaac Myer's *Qabbalah* (1888).\n\n## Iconography\nThe body of [[motif:adam kadmon|Adam Kadmon]] is mapped onto the ten [[motif:sefirot|sefirot]]: the crown at the head, wisdom and understanding at the brows, the moral powers at the shoulders and arms, beauty at the heart, and the foundation and kingdom at the loins and feet. The figure visualizes the doctrine that the divine emanations together form a single anthropic structure.\n\n## Significance\nThe identification of the sefirotic Tree with the body of a primordial Man is central to the *Zohar* and to Lurianic Kabbalah, where *Adam Kadmon* is the first emanation from *Ein Sof*. Isaac Myer (1836–1902) drew on Knorr von Rosenroth and the *Zohar* to present the scheme to a 19th-century American audience; his plate became a widely reproduced reference. Scholem and Idel treat the *Adam Kadmon* doctrine.\n\n## For artists & game designers\nThe 'body-as-map' template: nodes of a skill or anatomy system laid directly over a humanoid silhouette.",
+   "citations": [
+    {"text": "Isaac Myer, *Qabbalah: The Philosophical Writings of Solomon ben Yehudah ibn Gebirol* (1888)."},
+    {"text": "Gershom Scholem, *Kabbalah* (1974), on Adam Kadmon."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Adamtree.jpg"}
+   ],
+   "key_concepts": ["Adam Kadmon", "sefirot", "primordial man", "Lurianic Kabbalah"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__anima-mundi-adam",
+   "title": "*Anima Mundi*, Christ, and Adam Kadmon with the Four Elements",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Anonymous (early-modern engraving)",
+   "date": "17th c.",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["adam kadmon", "anima mundi", "four elements", "world soul", "cosmic man", "christ", "emanation", "macrocosm"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Anima_Mundi,_Christ,_Adam_Kadmon_with_the_four_elements.jpg",
+   "summary": "An early-modern emblematic engraving binding together the World Soul (*Anima Mundi*), Christ, and the cosmic *Adam Kadmon* amid the four elements — a Christian-Kabbalistic cosmogram.\n\n## Iconography\nA central anthropic figure stands as the [[motif:adam kadmon|Adam Kadmon]] / *Anima Mundi*, encircled or supported by the [[motif:four elements|four elements]] (earth, water, air, fire) and identified with Christ as the divine pattern of creation. Chains or rays link the macrocosmic Man to the elemental world below, expressing emanation from the divine into matter.\n\n## Significance\nThe figure fuses the Platonic World Soul, the Kabbalistic primordial Man, and Christ-Logos into one image of cosmic mediation, typical of the syncretic Christian Kabbalah and Hermetic Neoplatonism of the 17th century (the milieu of Fludd, Kircher, and Khunrath). It expresses the doctrine that the cosmos is structured as a single emanated body. Frances Yates and Joscelyn Godwin map this tradition.\n\n## For artists & game designers\nA composite 'world-as-body' cosmogram — one figure standing for the entire elemental cosmos, useful for a personified-world boss or deity.",
+   "citations": [
+    {"text": "Frances Yates, *The Occult Philosophy in the Elizabethan Age* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Anima_Mundi,_Christ,_Adam_Kadmon_with_the_four_elements.jpg"}
+   ],
+   "key_concepts": ["Adam Kadmon", "Anima Mundi", "four elements", "Christian Kabbalah"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__adam-kadmon-androgyne",
+   "title": "Adam Kadmon as Androgyne",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Anonymous (esoteric engraving)",
+   "date": "Early-modern design",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["adam kadmon", "androgyne", "primordial man", "male female", "sefirot", "union of opposites", "cosmic body", "emanation"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Adam_Kadmon_-_Androgyne.jpg",
+   "summary": "A figure of *Adam Kadmon* conceived as an androgyne — the primordial Man uniting male and female, a theme shared by Kabbalah and the wider Hermetic-alchemical tradition.\n\n## Iconography\nThe [[motif:adam kadmon|Adam Kadmon]] is shown as a single body combining masculine and feminine sides, expressing the Kabbalistic teaching that the original human and the divine configuration are bisexual before differentiation. The split or doubled figure visualizes the pairing of the right-hand (mercy) and left-hand (severity) pillars of the sefirotic Tree within one form.\n\n## Significance\nThe androgynous primordial Man draws on the rabbinic reading of Genesis 1:27 ('male and female He created them') and on the *Zohar*'s account of the sefirot as paired powers reconciled in *Tiferet*. The motif overlaps with the alchemical *Rebis* and the Platonic original androgyne, marking a point where Kabbalah meets Hermetic anthropology. (Authorship of this particular plate is uncertain and should be confirmed on the file page.)\n\n## For artists & game designers\nA 'union of opposites' character design — a single body whose two halves encode complementary forces or stats.",
+   "citations": [
+    {"text": "Gershom Scholem, *On the Mystical Shape of the Godhead* (1991)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Adam_Kadmon_-_Androgyne.jpg"}
+   ],
+   "key_concepts": ["Adam Kadmon", "androgyne", "union of opposites", "primordial man"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__ari-sefer-hakavanot",
+   "title": "Lurianic diagram from the *Sefer ha-Kavanot* of the Ari",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "School of Isaac Luria (the Ari)",
+   "date": "Text 16th c.; this printing later",
+   "place": "Safed, Galilee / Near East",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["lurianic kabbalah", "sefirot", "partzufim", "kavanot", "divine names", "hebrew letters", "emanation", "etz chaim"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ari_sefer_hakavanot.png",
+   "summary": "A diagram from the *Sefer ha-Kavanot* ('Book of Intentions') of the school of Isaac Luria, the Ari — the practical heart of Lurianic Kabbalah.\n\n## Iconography\nThe figure lays out the flow of divine emanation through the [[motif:sefirot|sefirot]] and their configured *partzufim* ('faces'), keyed to the meditative intentions (*kavanot*) a worshipper is to hold during prayer. Hebrew divine names and letter-permutations are arranged as a map for directing consciousness up the channels of the Tree.\n\n## Significance\nIsaac Luria (1534–1572) of Safed reshaped Kabbalah with his doctrines of the divine self-contraction (*tzimtzum*), the breaking of the vessels (*shevirat ha-kelim*), and their repair (*tikkun*). The *kavanot* recorded by his disciple Hayyim Vital turned the sefirotic Tree into an instrument of meditative prayer. This material underlies the whole Lurianic tradition; Scholem and Lawrence Fine are the standard guides.\n\n## For artists & game designers\nA 'spell-routing diagram': named channels and faces through which a player directs energy in a fixed sequence of intentions.",
+   "citations": [
+    {"text": "Lawrence Fine, *Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship* (2003)."},
+    {"text": "Gershom Scholem, *Major Trends in Jewish Mysticism* (1941), ch. on Lurianic Kabbalah."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ari_sefer_hakavanot.png"}
+   ],
+   "key_concepts": ["Lurianic Kabbalah", "kavanot", "Isaac Luria", "partzufim"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__hidden-sephiroth",
+   "title": "The Hidden Sephiroth (Wellcome)",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Anonymous (occult-revival compiler)",
+   "date": "19th c.",
+   "place": "England",
+   "era": "modern",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "tree of life", "hidden sefirah", "daath", "three pillars", "divine names", "correspondences", "occult revival"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Hidden_Sephiroth_Wellcome_L0038196.jpg",
+   "summary": "A 19th-century coloured plate titled 'The Hidden Sephiroth,' a high-resolution occult-revival diagram of the Tree of Life held by the Wellcome Collection.\n\n## Iconography\nThe ten [[motif:sefirot|sefirot]] are drawn in the three-column arrangement — the pillars of mercy, severity, and the reconciling middle — with the 'hidden' or non-numbered sefirah *Da'at* (Knowledge) marked on the central pillar. Each sphere is keyed with its Hebrew and divine names; the twenty-two connective paths run between them, the whole annotated with esoteric correspondences.\n\n## Significance\nThe theme of a concealed sefirah, *Da'at*, that appears when *Keter* is hidden, comes from Lurianic Kabbalah and was elaborated by the 19th-century occult revival, which recast the historical Tree as a system of universal correspondences. Such plates fed directly into the grade structure of the Hermetic Order of the Golden Dawn. Israel Regardie's compilations are the standard reference.\n\n## For artists & game designers\nA 'hidden node' mechanic made literal — a secret eleventh slot on the tree that only manifests under certain conditions.",
+   "citations": [
+    {"text": "Israel Regardie, *The Golden Dawn* (1937–40)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Hidden_Sephiroth_Wellcome_L0038196.jpg"}
+   ],
+   "key_concepts": ["sefirot", "Da'at", "three pillars", "occult revival"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__soul-formation",
+   "title": "Diagram of the Formation of the Soul in Cabbala (Wellcome)",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Anonymous (occult-revival compiler)",
+   "date": "19th c.",
+   "place": "England",
+   "era": "modern",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "tree of life", "soul levels", "nefesh ruach neshamah", "four worlds", "emanation", "divine names", "occult revival"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A_diagram_showing_formation_of_the_soul_in_Cabbala_Wellcome_L0038198.jpg",
+   "summary": "A large 19th-century plate mapping the formation of the soul onto the Kabbalistic Tree, from the same occult-revival series as 'The Hidden Sephiroth' (Wellcome Collection).\n\n## Iconography\nThe ten [[motif:sefirot|sefirot]] are correlated with the graded levels of the soul — *nefesh*, *ruach*, *neshamah*, and the higher *chayah* and *yechidah* — and with the [[motif:four worlds|four worlds]] of emanation. The diagram shows the soul descending into incarnation and ascending back through the same channels, each stage tied to a sphere and divine name on the Tree.\n\n## Significance\nThe doctrine of the soul's five levels and their alignment with the four worlds and the sefirot is rooted in the *Zohar* and systematized in Lurianic Kabbalah (notably Vital's *Sha'ar ha-Gilgulim* on transmigration). The occult revival turned it into a psychological cosmology of ascent. Scholem and Lawrence Fine discuss the underlying teaching.\n\n## For artists & game designers\nA 'levels of self' progression chart — the same node-tree doubling as a model of the soul's incarnation and ascent.",
+   "citations": [
+    {"text": "Gershom Scholem, *Kabbalah* (1974), on the parts of the soul."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:A_diagram_showing_formation_of_the_soul_in_Cabbala_Wellcome_L0038198.jpg"}
+   ],
+   "key_concepts": ["sefirot", "levels of the soul", "four worlds", "occult revival"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__four-worlds-hebrew",
+   "title": "The Four Worlds — Atziluth, Beriah, Yetzirah, Assiah",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Eliran T (modern diagram)",
+   "date": "21st c.",
+   "place": "Israel / Jewish tradition",
+   "era": "modern",
+   "tradition": "kabbalah",
+   "motifs": ["four worlds", "atziluth", "beriah", "yetzirah", "assiah", "sefirot", "emanation", "hebrew letters"],
+   "rights": "CC BY-SA 4.0 (Eliran T). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:%D7%90%D7%A8%D7%91%D7%A2_%D7%A2%D7%95%D7%9C%D7%9E%D7%95%D7%AA_%D7%90%D7%91%D7%99%D7%A2_%D7%A2%D7%A9%D7%99%D7%99%D7%94_%D7%99%D7%A6%D7%99%D7%A8%D7%94_%D7%91%D7%A8%D7%99%D7%90%D7%94_%D7%90%D7%A6%D7%99%D7%9C%D7%95%D7%AA.jpg",
+   "summary": "A modern Hebrew explanatory diagram of the four worlds of Kabbalistic emanation — *Atziluth*, *Beriah*, *Yetzirah*, and *Assiah* (abbreviated *ABiYA*).\n\n## Iconography\nFour stacked levels descend from the world of Emanation (*Atziluth*) through Creation (*Beriah*) and Formation (*Yetzirah*) to the world of Action or Making (*Assiah*), each carrying its own complement of the ten [[motif:sefirot|sefirot]]. The Hebrew labels run down the column, picturing reality as four nested planes through which divine light steps down toward the material world.\n\n## Significance\nThe doctrine of the [[motif:four worlds|four worlds]] is one of the master structures of Kabbalah, derived from the *Sefer Yetzirah* and the *Zohar* and central to Cordoveran and Lurianic systems; it maps the descent of emanation and is mirrored in the four letters of the Tetragrammaton. (This is a modern teaching diagram, not a historical manuscript.) Scholem and Moshe Idel describe the scheme.\n\n## For artists & game designers\nFour stacked planes, each a full copy of the same tree at a denser level — a ready template for layered overworld/underworld realms.",
+   "citations": [
+    {"text": "Gershom Scholem, *Kabbalah* (1974), on the four worlds."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:%D7%90%D7%A8%D7%91%D7%A2_%D7%A2%D7%95%D7%9C%D7%9E%D7%95%D7%AA_%D7%90%D7%91%D7%99%D7%A2_%D7%A2%D7%A9%D7%99%D7%99%D7%94_%D7%99%D7%A6%D7%99%D7%A8%D7%94_%D7%91%D7%A8%D7%99%D7%90%D7%94_%D7%90%D7%A6%D7%99%D7%9C%D7%95%D7%AA.jpg"}
+   ],
+   "key_concepts": ["four worlds", "ABiYA", "emanation", "sefirot"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__yetzirah-mantua-1562",
+   "title": "Title page of the *Sefer Yetzirah* (Mantua, 1562)",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Ya'akov ben Naphtali Gazolo (printer)",
+   "date": "1562 (Mantua printing)",
+   "place": "Mantua, Italy",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["sefer yetzirah", "32 paths of wisdom", "ten sefirot", "twenty-two letters", "creation", "hebrew letters", "printed title page", "linguistic mysticism"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sepher_yetzirah_mantua_1562.jpg",
+   "summary": "The decorated title page of the 1562 Mantua edition of the *Sefer Yetzirah* (Book of Formation), the foundational text behind the 'thirty-two paths of wisdom' that structure the Tree.\n\n## Iconography\nThe printed page sets the Hebrew title within an architectural or floral border typical of 16th-century Italian Hebrew printing. The text it opens declares that God created the world through 'thirty-two wondrous paths of wisdom' — the ten [[motif:sefirot|sefirot]] plus the twenty-two [[motif:hebrew letters|Hebrew letters]], the very count that gives the Tree its ten spheres and twenty-two connecting paths.\n\n## Significance\nThe *Sefer Yetzirah* (composed between late antiquity and the early Middle Ages) is the earliest text of Jewish speculative mysticism; its '32 paths' are the arithmetical seed of every later Tree-of-Life diagram and of the Golem legend, in which letters animate matter. The 1562 Mantua edition was a key Renaissance printing. Scholem and, recently, Tzahi Weiss study its text and reception.\n\n## For artists & game designers\nA period-authentic Hebrew title plate to anchor a 'book of creation' artifact — the literal source of the 10+22 = 32 system.",
+   "citations": [
+    {"text": "*Sefer Yetzirah* (Mantua, 1562); trans. and study by Aryeh Kaplan (1990)."},
+    {"text": "Tzahi Weiss, *Sefer Yeṣirah and Its Contexts* (2018)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sepher_yetzirah_mantua_1562.jpg"}
+   ],
+   "key_concepts": ["Sefer Yetzirah", "32 paths of wisdom", "ten sefirot", "twenty-two letters"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__ktree-with-names",
+   "title": "The Tree of Life with the Divine Names",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Eliyak (modern diagram)",
+   "date": "21st c.",
+   "place": "Jewish tradition",
+   "era": "modern",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "tree of life", "divine names", "three pillars", "twenty-two paths", "hebrew letters", "emanation", "etz chaim"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ktreewnames.png",
+   "summary": "A clean modern rendering of the Tree of Life with each sefirah labelled by its Hebrew divine name, useful as a legible reference for the standard three-pillar scheme.\n\n## Iconography\nThe ten [[motif:sefirot|sefirot]] are set in the three columns — mercy on the right, severity on the left, the balancing middle pillar — joined by the twenty-two paths. Each sphere is captioned with the divine Name traditionally associated with it (e.g. *Ehyeh* at *Keter*, *Yah* at *Hokhmah*, YHWH-Elohim at *Binah*, down to *Adonai* at *Malkhut*), making explicit the link between the Tree and the [[motif:divine names|names of God]].\n\n## Significance\nThe assignment of divine names to the sefirot goes back to Gikatilla's *Sha'arei Orah* and is standard in both Jewish and Hermetic Kabbalah. This labelled diagram distils that scheme into the form taught by the Golden Dawn and modern practitioners. (It is a contemporary explanatory graphic, not a historical source.) Scholem and Idel discuss the name-sefirah correspondences.\n\n## For artists & game designers\nA ready-keyed reference sheet — every node already paired with a name of power, ideal as a lookup for a name-based magic system.",
+   "citations": [
+    {"text": "Joseph Gikatilla, *Sha'arei Orah* (Gates of Light), on the divine names of the sefirot."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ktreewnames.png"}
+   ],
+   "key_concepts": ["sefirot", "divine names", "three pillars", "Tree of Life"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__22-letters-tree",
+   "title": "The Tree of Life with the 22 Hebrew Letters on the Paths",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "RootOfAllLight (modern diagram)",
+   "date": "21st c.",
+   "place": "Jewish / Hermetic tradition",
+   "era": "modern",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "tree of life", "twenty-two paths", "hebrew letters", "32 paths", "three pillars", "emanation", "hermetic qabalah"],
+   "rights": "CC BY-SA 4.0 (RootOfAllLight). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kabbalah_Tree_of_Life.png",
+   "summary": "A modern diagram of the Tree of Life with each of the twenty-two connective paths labelled by a Hebrew letter — the form basic to Hermetic Qabalah.\n\n## Iconography\nThe ten [[motif:sefirot|sefirot]] in their three pillars are joined by twenty-two paths, and each path is inscribed with one of the twenty-two [[motif:hebrew letters|Hebrew letters]]. Together with the ten spheres these make up the 'thirty-two paths of wisdom' of the *Sefer Yetzirah*. In the Hermetic tradition each lettered path is further keyed to a Tarot trump and an astrological sign.\n\n## Significance\nMapping the alphabet onto the paths turns the Tree into a complete correspondence-engine: letters, numbers, planets, and (in the Golden Dawn system) the twenty-two Major Arcana all hang on the same frame. This lettered Tree is the backbone of modern Western occult Kabbalah. (A contemporary graphic, not a historical plate.) Israel Regardie and Aryeh Kaplan explain the path-letter assignments from their respective traditions.\n\n## For artists & game designers\nThe master correspondence grid — twenty-two labelled edges connecting ten nodes, each edge a slot for a letter, card, or sign.",
+   "citations": [
+    {"text": "*Sefer Yetzirah*, on the 32 paths (10 sefirot + 22 letters)."},
+    {"text": "Israel Regardie, *A Garden of Pomegranates* (1932)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kabbalah_Tree_of_Life.png"}
+   ],
+   "key_concepts": ["twenty-two paths", "Hebrew letters", "32 paths of wisdom", "Hermetic Qabalah"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__jacobs-ladder",
+   "title": "Jacob's Ladder — the Four Worlds Configuration",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Zhomron (modern diagram)",
+   "date": "21st c.",
+   "place": "Jewish / Hermetic tradition",
+   "era": "modern",
+   "tradition": "kabbalah",
+   "motifs": ["jacobs ladder", "four worlds", "sefirot", "tree of life", "interlocking trees", "emanation", "ascent", "etz chaim"],
+   "rights": "CC BY-SA 4.0 (Zhomron). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jacobs_ladder_config.png",
+   "summary": "A diagram of the 'Jacob's Ladder' configuration, in which four Trees of Life — one for each of the four worlds — are stacked and overlapped into a single great ladder of ascent.\n\n## Iconography\nFour copies of the sefirotic [[motif:tree of life|Tree]] are aligned vertically for the worlds of [[motif:four worlds|Atziluth, Beriah, Yetzirah, and Assiah]], each tree's lower spheres interlocking with the upper spheres of the world below. The composite forms a continuous ladder of sefirot from the material world up to the divine — the rungs of Jacob's dream (Genesis 28).\n\n## Significance\nThe overlapping four-world ladder, popularized in the 20th century by the *Toledano Tradition* of Warren Kenton (Z'ev ben Shimon Halevi), systematizes the older Kabbalistic teaching that the four worlds share their boundary sefirot. It gives a single picture of how the planes of reality connect and how the soul ascends through them. The biblical image of Jacob's ladder is its scriptural anchor.\n\n## For artists & game designers\nA literal level-ladder: four identical node-trees linked end to end so the top of one world is the bottom of the next.",
+   "citations": [
+    {"text": "Z'ev ben Shimon Halevi (Warren Kenton), *Kabbalah: Tree of Life* (1972)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Jacobs_ladder_config.png"}
+   ],
+   "key_concepts": ["Jacob's Ladder", "four worlds", "interlocking trees", "ascent"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "tree_of_life__kabbalistic-creator",
+   "title": "Kabbalistic Diagram of the Creator and the Emanations",
+   "work": "The Kabbalistic Tree of Life",
+   "creator": "Anonymous (early-modern engraving)",
+   "date": "17th–18th c.",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["ein sof", "sefirot", "tree of life", "creator", "emanation", "divine names", "radiant source", "concentric circles"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kabbalistic_creator.png",
+   "summary": "An early-modern Kabbalistic diagram picturing the Creator as the source from which the sefirotic emanations unfold.\n\n## Iconography\nA radiant centre or upper source — the unmanifest [[motif:ein sof|Ein Sof]], the Infinite — issues the ten [[motif:sefirot|sefirot]] outward as concentric rings or a descending tree, each named in Hebrew. The image renders the foundational Kabbalistic claim that the hidden Godhead brings forth the worlds through a graded chain of emanation rather than a single act of making.\n\n## Significance\nThe move from the boundless *Ein Sof* to the ten numbered emanations is the central problem of Kabbalistic cosmogony, worked out in the *Zohar* and in Cordovero's *Pardes Rimonim*. Diagrams like this transmitted the doctrine of emanation to early-modern readers, Jewish and Christian alike. (Exact source edition should be confirmed on the file page.) Scholem's *Origins of the Kabbalah* traces the doctrine.\n\n## For artists & game designers\nA 'source-and-rings' cosmogram — a single hidden origin spawning numbered shells of reality, good for an emanation-based world model.",
+   "citations": [
+    {"text": "Gershom Scholem, *Origins of the Kabbalah* (1962/1987)."},
+    {"text": "Moses Cordovero, *Pardes Rimonim* (1548), on emanation from Ein Sof."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kabbalistic_creator.png"}
+   ],
+   "key_concepts": ["Ein Sof", "emanation", "sefirot", "cosmogony"],
+   "summary_status": "authored"
+  }
+ ]
+}

@@ -1,0 +1,553 @@
+{
+ "_work": {
+  "key": "freemasonry",
+  "short_id": "FMSN",
+  "title": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+  "creator": "various",
+  "date": "1750–1920",
+  "century": 18,
+  "place": "England, Western Europe & North America",
+  "region": "England",
+  "language": "English, French & Latin",
+  "era": "modern",
+  "tradition": "hermetic",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Masonic_symbols",
+  "rights": "Public domain / CC0 / CC BY (per item). Via Wikimedia Commons.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "freemasonry",
+  "motifs": [
+   "square and compasses",
+   "all-seeing eye",
+   "tracing board",
+   "two pillars",
+   "mosaic pavement",
+   "memento mori"
+  ],
+  "blurb": "Prints, regalia, and lodge furnishings of speculative Freemasonry and the allied fraternal/Rosicrucian societies, c. 1750–1920: the three degree tracing boards (Bowring's Emulation set and their kin), the Square and Compasses, the All-Seeing Eye of Providence, the Master Mason and Hiram Abiff legend, the pillars Jachin and Boaz, the 47th Problem of Euclid, the Masonic apron and officers' jewels, engraved certificates and emblematic charts, the lodge interior with its mosaic pavement, and the great anti-Masonic exposures of William Morgan and Léo Taxil. An esoteric idiom that absorbed Hermetic, Kabbalistic, and Rosicrucian symbolism into the ritual stage-craft of the lodge."
+ },
+ "entries": [
+  {
+   "id": "freemasonry__square-compasses",
+   "title": "The Square and Compasses",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Anonymous (modern rendering)",
+   "date": "symbol c. 18th c.; this rendering modern",
+   "place": "England / Global",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "square and compasses",
+    "letter g",
+    "geometry",
+    "craft tools",
+    "moral allegory",
+    "interlaced instruments",
+    "freemasonry emblem",
+    "great architect"
+   ],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sqaure-and-compass.png",
+   "summary": "The Square and Compasses, the single most recognisable emblem of speculative Freemasonry, here in a clean graphic rendering of the interlaced instruments.\n\n## Iconography\nA carpenter's square and a pair of compasses are interlocked to form a lozenge, the square opening upward and the compasses straddling it; in many versions the letter **G** sits at the centre. The two working tools — borrowed from operative stonemasonry — are arranged so that the points and arms enclose a shared field.\n\n## Significance\nThe emblem condenses the Craft's [[motif:moral allegory|moral allegory]]: the square teaches the Mason to act 'on the square' (uprightly), the compasses to circumscribe his passions within due bounds. The central **G** is glossed as both Geometry — the divine science — and God, the Great Architect of the Universe. Adopted across Anglo-American and Continental lodges by the later eighteenth century, it became the badge of the fraternity worldwide.\n\n## For artists & game designers\nA faction sigil that reads instantly at any size; the openness of the compass legs can encode rank (the degree is signalled by which limb sits above the square).",
+   "citations": [
+    {"text": "Albert G. Mackey, *An Encyclopædia of Freemasonry* (1874)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sqaure-and-compass.png"}
+   ],
+   "key_concepts": ["square and compasses", "Masonic emblem", "Great Architect", "moral allegory"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__tracing-board-1st",
+   "title": "First Degree Tracing Board (Engraving)",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Anonymous engraver",
+   "date": "1850–1900",
+   "place": "England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "tracing board",
+    "entered apprentice",
+    "jacobs ladder",
+    "two pillars",
+    "mosaic pavement",
+    "blazing star",
+    "three pillars",
+    "lodge symbolism"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:VM_16145-003_-_Engraving_of_a_Masonic_tracing_board_-_1850-1900.jpg",
+   "summary": "An engraving of a First Degree (Entered Apprentice) Masonic tracing board, the illustrated teaching-chart laid before candidates in the opening degree (c. 1850–1900).\n\n## Iconography\nThe board crowds the lodge's emblems into one scene: the two pillars at the porchway, a chequered [[motif:mosaic pavement|mosaic pavement]], Jacob's Ladder ascending to a [[motif:blazing star|blazing star]] amid clouds, the three lesser lights, and assorted working tools. A border of indented tessels frames the whole.\n\n## Significance\nTracing boards descend from the chalk designs once drawn on the lodge floor and erased after the meeting; by the nineteenth century they had become painted or engraved panels carrying the symbolic 'furniture' of each degree. The First Degree board maps the moral cosmos the [[motif:entered apprentice|Entered Apprentice]] is taught to read — ladder of virtues, pillars of strength and establishment, the pavement of light and dark.\n\n## For artists & game designers\nA single image that doubles as a level legend: every emblem on the board corresponds to a lesson or station the player will later encounter in sequence.",
+   "citations": [
+    {"text": "Julian Rees, *Tracing Boards of the Three Degrees in Craft Freemasonry Explained* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:VM_16145-003_-_Engraving_of_a_Masonic_tracing_board_-_1850-1900.jpg"}
+   ],
+   "key_concepts": ["tracing board", "Entered Apprentice", "lodge symbolism", "Jacob's Ladder"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__tracing-board-2nd",
+   "title": "Second Degree Tracing Board, Josiah Bowring",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Josiah Bowring (1757–1832)",
+   "date": "early 19th c.",
+   "place": "London / England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "tracing board",
+    "fellowcraft",
+    "winding staircase",
+    "two pillars",
+    "ear of corn",
+    "middle chamber",
+    "seven liberal arts",
+    "wages of a fellowcraft"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Josiah_Bowring_(1757-1832)_-_Second_Degree_Tracing_Board_-_D2010-4_-_Museum_of_Freemasonry.jpg",
+   "summary": "The Second Degree (Fellowcraft) tracing board painted by Josiah Bowring, whose designs became standard models for the Emulation working (Museum of Freemasonry, London).\n\n## Iconography\nA [[motif:winding staircase|winding staircase]] of fifteen steps rises between the two great pillars toward a doorway, a flow of water and an ear of corn set beside it. The stair's divisions allude to the three, five, and seven, and the porch leads to the 'Middle Chamber' where the Fellowcraft receives his wages.\n\n## Significance\nThe Fellowcraft degree dramatises the pursuit of knowledge: the ascent of the staircase past the orders of architecture and the [[motif:seven liberal arts|seven liberal arts]] toward hidden wisdom. Bowring's boards, produced in the early nineteenth century, fixed the visual canon of the English Craft so thoroughly that later lodges commissioned copies of his compositions for generations.\n\n## For artists & game designers\nThe winding stair is a ready-made progression mechanic: a numbered ascent (3-5-7) where each landing gates a new skill or revelation.",
+   "citations": [
+    {"text": "Julian Rees, *Tracing Boards of the Three Degrees in Craft Freemasonry Explained* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Josiah_Bowring_(1757-1832)_-_Second_Degree_Tracing_Board_-_D2010-4_-_Museum_of_Freemasonry.jpg"}
+   ],
+   "key_concepts": ["tracing board", "Fellowcraft", "winding staircase", "Josiah Bowring"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__tracing-board-3rd",
+   "title": "Third Degree Tracing Board (Master Mason)",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Anonymous",
+   "date": "19th c.",
+   "place": "England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "tracing board",
+    "master mason",
+    "hiram abiff",
+    "coffin",
+    "sprig of acacia",
+    "grave",
+    "skull and bones",
+    "raising"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Unknown_artist_-_Third_Degree_Tracing_Board_-_M2010.1205_-_Museum_of_Freemasonry.jpg",
+   "summary": "The Third Degree (Master Mason) tracing board, centred on the grave of Hiram Abiff and the symbols of mortality and raising (Museum of Freemasonry, London).\n\n## Iconography\nThe panel is dominated by a [[motif:coffin|coffin]] or open grave, often inscribed with emblems of mortality — [[motif:skull and bones|skull and crossbones]] — and marked by a [[motif:sprig of acacia|sprig of acacia]]. Compasses, a setting maul, and other instruments of the Hiramic legend lie about; the whole is rendered in sombre tones against a dark ground.\n\n## Significance\nThe Master Mason's degree enacts the death and raising of [[motif:hiram abiff|Hiram Abiff]], the architect of Solomon's Temple, as an allegory of fidelity, the inevitability of death, and the hope of a 'raising' to come. The acacia marking the grave signals both discovery of the body and the immortality of the soul. This board is the lodge's *memento mori*, the visual climax of the Craft system.\n\n## For artists & game designers\nA death-and-resurrection set piece: a grave scene whose scattered tools are clues to a reconstruction puzzle the player solves to be 'raised'.",
+   "citations": [
+    {"text": "Julian Rees, *Tracing Boards of the Three Degrees in Craft Freemasonry Explained* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Unknown_artist_-_Third_Degree_Tracing_Board_-_M2010.1205_-_Museum_of_Freemasonry.jpg"}
+   ],
+   "key_concepts": ["tracing board", "Master Mason", "Hiram Abiff", "memento mori"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__eye-of-providence",
+   "title": "The All-Seeing Eye of Providence (Lodge Decoration)",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Anonymous (photographed by Michael Coghlan)",
+   "date": "lodge fixture; photograph modern",
+   "place": "Adelaide / Global",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "all-seeing eye",
+    "eye of providence",
+    "radiant glory",
+    "triangle",
+    "divine omniscience",
+    "clouds and rays",
+    "lodge ornament",
+    "watchful god"
+   ],
+   "rights": "CC BY-SA 2.0 (Michael Coghlan). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_All_Seeing_Eye_Bids_You_Welcome_(32392670406).jpg",
+   "summary": "A Masonic lodge ornament of the All-Seeing Eye of Providence, the radiant single eye that watches over the assembled brethren.\n\n## Iconography\nA single human eye, set within a triangle or burst of golden rays and clouds, gazes outward; the motto bids the visitor welcome under its watch. The eye is surrounded by a 'glory' of beams, the standard emblem of divine effulgence.\n\n## Significance\nThe [[motif:all-seeing eye|All-Seeing Eye]] represents the ever-watchful providence of the Great Architect, reminding the Mason that thoughts and deeds are observed by the Most High. Though far older than the Craft — rooted in Renaissance and biblical imagery of the divine eye — it was adopted by Freemasonry in the later eighteenth century and, via the Great Seal of the United States, passed into the broadest popular iconography.\n\n## For artists & game designers\nA surveillance/conscience motif: a luminous eye that reacts to the player's moral choices, opening wider or clouding over.",
+   "citations": [
+    {"text": "Albert G. Mackey, *An Encyclopædia of Freemasonry* (1874)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_All_Seeing_Eye_Bids_You_Welcome_(32392670406).jpg"}
+   ],
+   "key_concepts": ["All-Seeing Eye", "Eye of Providence", "Great Architect", "divine omniscience"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__masonic-apron",
+   "title": "Masonic Apron of Major William Christy",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Anonymous (American lodge regalia)",
+   "date": "early 19th c.",
+   "place": "United States",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "masonic apron",
+    "lambskin",
+    "regalia",
+    "square and compasses",
+    "all-seeing eye",
+    "two pillars",
+    "painted emblems",
+    "badge of a mason"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Masonic_Apron_of_Major_William_Christy_(cropped).jpg",
+   "summary": "The personal Masonic apron of Major William Christy, a painted lambskin regalia apron crowded with the Craft's emblems.\n\n## Iconography\nThe white apron bears a flap and a square field painted with a dense programme of symbols — the [[motif:square and compasses|square and compasses]], the [[motif:all-seeing eye|All-Seeing Eye]] in its glory, the two pillars, columns, the beehive, and instruments of the work — bordered with rosettes and tassels.\n\n## Significance\nThe lambskin apron is the first and most enduring badge presented to a Mason, emblem of the innocence and labour proper to the Craft and said to be 'more ancient than the Golden Fleece.' Hand-painted aprons like this one, common in early American lodges, served as portable tracing boards, the wearer carrying the whole symbolic cosmos on his person.\n\n## For artists & game designers\nA wearable inventory of insignia — an apron whose painted emblems can be 'earned' and added one by one as the character advances.",
+   "citations": [
+    {"text": "Aimee E. Newell, *The Badge of a Freemason: Masonic Aprons from the Scottish Rite Masonic Museum* (2015)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Masonic_Apron_of_Major_William_Christy_(cropped).jpg"}
+   ],
+   "key_concepts": ["Masonic apron", "regalia", "badge of a Mason", "lambskin"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__jachin-boaz",
+   "title": "The Brazen Pillars Jachin and Boaz",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Anonymous (architectural reconstruction)",
+   "date": "19th c. illustration",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "two pillars",
+    "jachin",
+    "boaz",
+    "solomons temple",
+    "globes",
+    "lily-work",
+    "pomegranates",
+    "porchway"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:C%2BB-Temple-Fig5-BrazenPillars.PNG",
+   "summary": "A reconstruction of the two brazen pillars, Jachin and Boaz, that stood at the porch of Solomon's Temple and which Freemasonry sets at the entrance of every symbolic lodge.\n\n## Iconography\nTwo free-standing columns rise side by side, each crowned by a capital decorated with lily-work, pomegranates, and chains of network, surmounted by a terrestrial and a celestial globe. The pillars are figured exactly as described in the Books of Kings and Chronicles.\n\n## Significance\n[[motif:jachin|Jachin]] ('He shall establish') and [[motif:boaz|Boaz]] ('In strength') frame the entrance to the lodge as they framed the Temple porch; the Mason passes between establishment and strength to reach the holy place. The crowning globes, terrestrial and celestial, were read as emblems of the universality of Masonry and the comprehensiveness of its science.\n\n## For artists & game designers\nA threshold gate: two named pillars the player must pass between, each granting a paired attribute (stability vs. force) that shapes the route ahead.",
+   "citations": [
+    {"text": "1 Kings 7:15–22; Albert G. Mackey, *Encyclopædia of Freemasonry* (1874)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:C%2BB-Temple-Fig5-BrazenPillars.PNG"}
+   ],
+   "key_concepts": ["Jachin and Boaz", "two pillars", "Solomon's Temple", "lodge porchway"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__hiram-abiff",
+   "title": "Hiram Abiff and the Pillar Boaz",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Anonymous",
+   "date": "19th c.",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "hiram abiff",
+    "widows son",
+    "master builder",
+    "pillar boaz",
+    "temple of solomon",
+    "craftsman",
+    "masonic legend",
+    "fidelity unto death"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiram_Abiff_Boaz.jpg",
+   "summary": "An illustration of Hiram Abiff, the legendary master builder of Solomon's Temple, shown with one of the great pillars — the central figure of the Third Degree drama.\n\n## Iconography\nA robed craftsman stands beside the pillar Boaz, holding or gesturing toward the tools of his office. The composition identifies him as the master of the work, set against the architecture of the Temple he directs.\n\n## Significance\n[[motif:hiram abiff|Hiram Abiff]], the 'widow's son' and chief artificer of the Temple, is murdered (in the Masonic legend) for refusing to betray the secrets of a Master Mason; his death, burial, and raising form the allegorical heart of the Craft. Though the elaborated legend is a speculative-era construction built around the biblical Hiram of Tyre, it furnishes Freemasonry with its myth of fidelity, loss, and recovery.\n\n## For artists & game designers\nA tragic-mentor archetype: a master craftsman NPC whose death sets the central quest — recovering 'that which was lost' — in motion.",
+   "citations": [
+    {"text": "Albert G. Mackey, *Encyclopædia of Freemasonry* (1874)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hiram_Abiff_Boaz.jpg"}
+   ],
+   "key_concepts": ["Hiram Abiff", "master builder", "Hiramic legend", "Master Mason"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__47th-euclid",
+   "title": "Euclid I.47 (The 47th Problem) — Vatican Manuscript",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Euclid (manuscript copyist)",
+   "date": "manuscript (Euclid, *Elements* I.47)",
+   "place": "Eastern Mediterranean",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": [
+    "47th problem of euclid",
+    "pythagorean theorem",
+    "geometry",
+    "right triangle",
+    "squares on the sides",
+    "past masters jewel",
+    "windmill diagram",
+    "demonstration"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Euclid_Vat_ms_no_190_I_prop_47.jpg",
+   "summary": "A manuscript page of Euclid's *Elements*, Book I, Proposition 47 — the Pythagorean theorem — which Freemasonry venerates as the '47th Problem of Euclid' and the badge of the Past Master.\n\n## Iconography\nThe diagram shows a right-angled triangle with a square erected on each of its three sides, the classic 'windmill' figure that demonstrates the equality of the square on the hypotenuse to the sum of the squares on the other two sides, accompanied by Greek demonstrative text.\n\n## Significance\nMasonic tradition, following the legend that Pythagoras cried *Eureka!* on discovering the proof, adopted the [[motif:47th problem of euclid|47th Problem]] as the emblem of the Past Master and a symbol of the love of the arts and sciences. It encapsulates the Craft's reverence for [[motif:geometry|geometry]] as the foundational and divine science 'whereon Masonry is founded.'\n\n## For artists & game designers\nA geometry-as-power glyph: the three-square figure can serve as a craftable emblem whose correct construction unlocks a 'master' tier.",
+   "citations": [
+    {"text": "Euclid, *Elements*, Book I, Proposition 47."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Euclid_Vat_ms_no_190_I_prop_47.jpg"}
+   ],
+   "key_concepts": ["47th Problem of Euclid", "Pythagorean theorem", "geometry", "Past Master"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__masonic-certificate",
+   "title": "Masonic Certificate, Grand United Order of Odd Fellows",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Popular Graphic Arts (lithographer)",
+   "date": "19th c.",
+   "place": "United States",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "fraternal certificate",
+    "membership diploma",
+    "allegorical figures",
+    "motto",
+    "emblematic border",
+    "odd fellows",
+    "friendship love truth",
+    "engraved regalia"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Masonic_Certificate)_G.U.O._of_O.F._Amicitia_amor_et_veritas_LCCN2003671474.jpg",
+   "summary": "An engraved fraternal membership certificate of the Grand United Order of Odd Fellows, bearing the motto *Amicitia, Amor et Veritas* (Friendship, Love and Truth).\n\n## Iconography\nThe sheet frames a central text panel with allegorical personifications and dense emblematic ornament — clasped hands, hearts, the all-seeing eye, tools and regalia of the order — arranged in a symmetrical border around the motto and the member's name.\n\n## Significance\nFraternal certificates and diplomas were the portable proof of initiation across the nineteenth-century lodge societies — Masonry, Odd Fellowship, and their many affiliates — that shared a common visual vocabulary of clasped hands, mottoes, and moral emblems. The G.U.O.O.F. was a major African-American fraternal order; its handsome engraved certificates show how the [[motif:fraternal certificate|emblematic diploma]] carried the order's ideals of [[motif:friendship love truth|friendship, love, and truth]].\n\n## For artists & game designers\nAn ornate in-world credential — a printed diploma whose emblem-border can be 'read' for the bearer's affiliations and rank.",
+   "citations": [
+    {"text": "Mark A. Tabbert, *American Freemasons: Three Centuries of Building Communities* (2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Masonic_Certificate)_G.U.O._of_O.F._Amicitia_amor_et_veritas_LCCN2003671474.jpg"}
+   ],
+   "key_concepts": ["fraternal certificate", "Odd Fellows", "friendship love truth", "membership diploma"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__masonic-emblems-chart",
+   "title": "Emblematic Chart and Masonic History (Ramsey, Millett & Hudson)",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Ramsey, Millett & Hudson Steam Lith. Co.",
+   "date": "late 19th c.",
+   "place": "Kansas City / United States",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "emblematic chart",
+    "masonic history",
+    "free and accepted masons",
+    "lithograph",
+    "compendium of symbols",
+    "degree emblems",
+    "wall chart",
+    "didactic print"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Emblematic_chart_and_Masonic_history_of_F(ree)_and_A(ccepted)_M(asons)_-_Ramsey,_Millet,_%26_Hudson_Steam._Lith._Co._LCCN91784508.jpg",
+   "summary": "A large lithographed 'Emblematic Chart and Masonic History of Free and Accepted Masons,' a compendious wall print gathering the Craft's symbols into a single didactic composition.\n\n## Iconography\nThe chart arrays the working tools, degree emblems, pillars, the all-seeing eye, the ark, the beehive, and scenes of Temple history across a panelled field, each cell captioned, so that the entire symbolic system can be surveyed at a glance.\n\n## Significance\nMass-produced chromolithographs like this one, issued by commercial steam-lithography firms in the Gilded Age, democratised Masonic iconography, hanging the whole [[motif:compendium of symbols|compendium of symbols]] on lodge and parlour walls. They functioned as printed encyclopedias of the Craft, fixing a standard repertoire of emblems in the popular American imagination.\n\n## For artists & game designers\nA reference plate for an entire symbol-set: useful as an in-game 'codex' screen where each emblem is a tappable lore entry.",
+   "citations": [
+    {"text": "Mark A. Tabbert, *American Freemasons* (2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Emblematic_chart_and_Masonic_history_of_F(ree)_and_A(ccepted)_M(asons)_-_Ramsey,_Millet,_%26_Hudson_Steam._Lith._Co._LCCN91784508.jpg"}
+   ],
+   "key_concepts": ["emblematic chart", "Masonic symbols", "chromolithograph", "Free and Accepted Masons"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__masonic-chart",
+   "title": "Master Mason's Chart (Third Section)",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Anonymous",
+   "date": "19th c.",
+   "place": "United States",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "master mason chart",
+    "monitorial emblems",
+    "all-seeing eye",
+    "anchor and ark",
+    "hourglass",
+    "scythe",
+    "pot of incense",
+    "third degree symbols"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Master_Mason%27s_chart_third_section.jpg",
+   "summary": "A Master Mason's chart illustrating the monitorial emblems of the Third Degree's lecture, the moving symbols of mortality and virtue.\n\n## Iconography\nThe chart sets out the classic Third Degree emblems in sequence: the [[motif:pot of incense|pot of incense]], the beehive, the book of constitutions guarded by the Tyler's sword, the sword pointing to a naked heart, the all-seeing eye, the anchor and ark, the [[motif:hourglass|hourglass]], the scythe, and the three steps — each a 'moving image' of human life and duty.\n\n## Significance\nThese emblems derive from the monitors of Thomas Smith Webb and Jeremy Cross, who systematised the American 'monitorial' lectures around 1800. The chart compresses the degree's meditation on time, death, and moral watchfulness into a memorable visual catechism — the [[motif:hourglass|hourglass]] and scythe marking the brevity of life, the anchor and ark the hope of a well-spent one.\n\n## For artists & game designers\nA panel of status icons each tied to a virtue or mortality theme — a ready-made HUD of moral 'meters' for a contemplative game.",
+   "citations": [
+    {"text": "Jeremy L. Cross, *The True Masonic Chart, or Hieroglyphic Monitor* (1819)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Master_Mason%27s_chart_third_section.jpg"}
+   ],
+   "key_concepts": ["Master Mason's chart", "monitorial emblems", "hourglass and scythe", "Jeremy Cross"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__masonic-jewel",
+   "title": "Past Master's Jewel (Mount Anthony Lodge No. 13)",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Anonymous silversmith",
+   "date": "1899",
+   "place": "Bennington, Vermont / United States",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "past masters jewel",
+    "officers jewel",
+    "47th problem emblem",
+    "compasses and quadrant",
+    "presentation regalia",
+    "lodge office",
+    "metal pendant",
+    "engraved dedication"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Past_master%27s_jewel,_presented_to_Judge_Charles_H._Darling_upon_retirement_as_Master_of_Mount_Anthony_Lodge_13_in_1899_-_Bennington_Museum_-_Bennington,_VT_-_DSC08720.JPG",
+   "summary": "A Past Master's jewel presented to Judge Charles H. Darling on his retirement as Master of Mount Anthony Lodge No. 13, Bennington, Vermont, in 1899.\n\n## Iconography\nThe pendant jewel carries the emblem proper to the office of Past Master — a pair of compasses opened on a quadrant (or a representation of the 47th Problem of Euclid) — suspended from a ribbon and engraved with a presentation dedication.\n\n## Significance\nMasonic [[motif:officers jewel|jewels]] are the metal badges of lodge office, each office distinguished by its emblem: the square for the Master, the level for the Senior Warden, the plumb for the Junior Warden, and the [[motif:47th problem emblem|compasses-and-quadrant]] or Euclidean figure for the Past Master. Presentation jewels like this commemorated faithful service, blending the symbolic vocabulary of the Craft with the personal honour of an individual brother.\n\n## For artists & game designers\nA rank-insignia object: a pendant whose distinct emblem instantly signals an NPC's office and history within the lodge hierarchy.",
+   "citations": [
+    {"text": "Albert G. Mackey, *Encyclopædia of Freemasonry* (1874)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Past_master%27s_jewel,_presented_to_Judge_Charles_H._Darling_upon_retirement_as_Master_of_Mount_Anthony_Lodge_13_in_1899_-_Bennington_Museum_-_Bennington,_VT_-_DSC08720.JPG"}
+   ],
+   "key_concepts": ["Past Master's jewel", "officers' jewels", "lodge office", "Masonic regalia"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__masonic-symbols",
+   "title": "Masonic Triangle (Bicentennial Plate, 1789–1989)",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Jebulon",
+   "date": "design 18th–19th c.; this plate 1989",
+   "place": "France",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "masonic triangle",
+    "delta",
+    "radiant triangle",
+    "square and compasses",
+    "level and plumb",
+    "french masonry",
+    "lodge ornament",
+    "geometric emblem"
+   ],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:1789-1989_triangle_ma%C3%A7onnique.jpg",
+   "summary": "A French Masonic plate built around the luminous triangle (the *delta*), commemorating the bicentennial 1789–1989 with the symbols of the Craft.\n\n## Iconography\nA radiant triangle — often enclosing an eye or the divine name — sits at the centre, flanked and underlaid by the working tools: square, compasses, level, and plumb. The arrangement is geometric and heraldic, the triangle crowning the assembly of emblems.\n\n## Significance\nThe [[motif:masonic triangle|luminous delta]] is the Masonic figure of deity and of geometric perfection — three sides for the ternary that recurs throughout the Craft (the three degrees, three lights, three principal officers). In French Freemasonry especially, the radiant triangle over the Master's chair focuses the lodge's contemplation of the Great Architect, and its conjunction here with 1789 ties the fraternity to the Enlightenment and the Revolution.\n\n## For artists & game designers\nA glowing triangular emblem suited to a 'sanctum' marker; rotating its tools could encode different rites or factions.",
+   "citations": [
+    {"text": "Daniel Ligou (ed.), *Dictionnaire de la Franc-maçonnerie* (1987)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:1789-1989_triangle_ma%C3%A7onnique.jpg"}
+   ],
+   "key_concepts": ["Masonic triangle", "luminous delta", "French Freemasonry", "working tools"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__lodge-interior",
+   "title": "Masonic Lodge Interior with Mosaic Pavement",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Anonymous (photographed by UpdateNerd)",
+   "date": "early 20th c. interior; photograph modern",
+   "place": "Hollywood, California / United States",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "lodge room",
+    "mosaic pavement",
+    "masters chair in the east",
+    "two pillars",
+    "tessellated border",
+    "officers stations",
+    "blazing star",
+    "temple of solomon"
+   ],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hollywood_Forever_Cemetery_Masonic_Lodge_interior.jpg",
+   "summary": "The interior of a Masonic lodge room, showing the chequered floor and the arrangement of the symbolic temple in which the degrees are worked.\n\n## Iconography\nThe room is laid out as a symbolic [[motif:temple of solomon|Temple]]: a black-and-white [[motif:mosaic pavement|mosaic pavement]] underfoot, the Master's chair raised 'in the East,' the Wardens' stations to West and South, and pillars or columns marking the officers' places, the whole bordered with tessellated ornament.\n\n## Significance\nEvery Craft lodge is furnished as a microcosm of Solomon's Temple and, beyond it, of the ordered cosmos. The [[motif:mosaic pavement|mosaic pavement]] of alternating light and dark squares represents the mingling of good and evil in human life; the orientation toward the East, source of light, governs the placement of officers and the movement of ritual. The room is itself a three-dimensional tracing board.\n\n## For artists & game designers\nA ready blueprint for a ritual chamber: a checker-floored hall with cardinal stations the player circumambulates in a fixed ceremonial order.",
+   "citations": [
+    {"text": "Albert G. Mackey, *Encyclopædia of Freemasonry* (1874)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hollywood_Forever_Cemetery_Masonic_Lodge_interior.jpg"}
+   ],
+   "key_concepts": ["lodge room", "mosaic pavement", "symbolic Temple", "officers' stations"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__duncan-monitor",
+   "title": "Illustration from Duncan's Masonic Ritual and Monitor",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Malcolm C. Duncan",
+   "date": "1866",
+   "place": "New York / United States",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "ritual monitor",
+    "exposure",
+    "due guard and sign",
+    "royal arch word",
+    "jabulon",
+    "diagram",
+    "degree instruction",
+    "masonic ritual"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ducan%C2%B4s_Monitor_-_Ritual_Jabulon.png",
+   "summary": "A diagram from Malcolm C. Duncan's *Masonic Ritual and Monitor* (1866), the celebrated printed exposure that illustrated the signs, words, and ceremonies of the degrees.\n\n## Iconography\nThe figure presents ritual instruction in printed form — a hieroglyphic or word-diagram (here relating to the Royal Arch word) set among explanatory text describing the postures, grips, and passwords of a degree.\n\n## Significance\nDuncan's *Monitor* is the best-known of the nineteenth-century printed 'exposures' that, despite the Craft's secrecy, set its rituals and [[motif:ritual monitor|monitorial lectures]] in cheap, widely circulated books. Whatever their accuracy, such works fixed in popular print the gestures, mottoes, and degree-lore of Freemasonry, and remain a primary source for the form of the American ritual.\n\n## For artists & game designers\nAn 'unlocked secret' document: a diagram of signs and passwords the player can study to bluff their way past gatekeepers.",
+   "citations": [
+    {"text": "Malcolm C. Duncan, *Duncan's Masonic Ritual and Monitor* (1866)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ducan%C2%B4s_Monitor_-_Ritual_Jabulon.png"}
+   ],
+   "key_concepts": ["Masonic Monitor", "ritual exposure", "Royal Arch", "Malcolm Duncan"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__morgan-affair",
+   "title": "*Freemasonry Exposed* (William Morgan), Front Cover",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Capt. William Morgan",
+   "date": "1826 (this printing later)",
+   "place": "Batavia, New York / United States",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "anti-masonry",
+    "exposure pamphlet",
+    "morgan affair",
+    "secret revealed",
+    "title page",
+    "scandal",
+    "abduction",
+    "anti-masonic movement"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Freemasonry_Exposed_-_Front_Cover.jpg",
+   "summary": "The front cover of *Freemasonry Exposed* (often *Illustrations of Masonry*), the 1826 exposure attributed to Captain William Morgan whose suppression ignited the American anti-Masonic movement.\n\n## Iconography\nA plain printed title page announces the disclosure of the secrets of the Craft 'by one of the fraternity,' the typographic cover promising to lay bare the hidden signs, grips, and ceremonies of the order.\n\n## Significance\nMorgan's threatened publication led to his abduction and presumed murder in western New York in 1826 — the [[motif:morgan affair|Morgan affair]] — which provoked a wave of public outrage, the founding of the [[motif:anti-masonic movement|Anti-Masonic Party]] (America's first third party), and a sharp decline in lodge membership. The book and the scandal around it made Freemasonry, for a generation, the focus of a national controversy over secrecy and republican virtue.\n\n## For artists & game designers\nA forbidden book whose mere existence triggers a faction-wide manhunt — a plot device for an exposure-and-pursuit storyline.",
+   "citations": [
+    {"text": "William Morgan, *Illustrations of Masonry* (Batavia, NY, 1826)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Freemasonry_Exposed_-_Front_Cover.jpg"}
+   ],
+   "key_concepts": ["Morgan affair", "anti-Masonry", "exposure", "Anti-Masonic Party"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "freemasonry__leo-taxil",
+   "title": "Léo Taxil, *La Bible amusante* (Anti-clerical/Anti-Masonic Hoaxer)",
+   "work": "Freemasonry & Fraternal Esoteric Symbolism (18th–19th c.)",
+   "creator": "Léo Taxil (Gabriel Jogand-Pagès)",
+   "date": "1882 (this work)",
+   "place": "Paris / France",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "leo taxil",
+    "anti-masonic hoax",
+    "satire",
+    "palladism",
+    "diana vaughan",
+    "anticlericalism",
+    "caricature",
+    "devil worship myth"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Leo_Taxil_-_La_Bible_amusante.jpg",
+   "summary": "An illustration from a work by Léo Taxil (Gabriel Jogand-Pagès), the French writer notorious for the great anti-Masonic 'Palladism' hoax of the 1890s.\n\n## Iconography\nThe caricatural plate (from his anticlerical *La Bible amusante*) shows Taxil's mocking satirical manner — the same pen later turned to lurid, invented exposés of Masonic 'devil worship.'\n\n## Significance\n[[motif:leo taxil|Léo Taxil]] first attacked the Church, then publicly 'converted' and fabricated an elaborate myth of a satanic Masonic inner order, *Palladism*, complete with a fictitious priestess, [[motif:diana vaughan|Diana Vaughan]]. In 1897 he triumphantly confessed the whole thing was a hoax designed to ridicule credulous anti-Masons and clerics alike. The episode is the classic case of the [[motif:devil worship myth|satanic-Freemasonry myth]], a conspiracy fantasy whose imagery still circulates.\n\n## For artists & game designers\nThe unreliable-source trope made literal: a propaganda pamphlet whose 'revelations' the player slowly discovers were invented to manipulate them.",
+   "citations": [
+    {"text": "Eugen Weber, *Satan franc-maçon: la mystification de Léo Taxil* (1964)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Leo_Taxil_-_La_Bible_amusante.jpg"}
+   ],
+   "key_concepts": ["Léo Taxil", "Palladism hoax", "anti-Masonry", "Diana Vaughan"],
+   "summary_status": "authored"
+  }
+ ]
+}

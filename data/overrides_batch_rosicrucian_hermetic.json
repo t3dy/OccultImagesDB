@@ -1,0 +1,652 @@
+{
+ "_work": {
+  "key": "rosicrucian_hermetic",
+  "short_id": "RHRM",
+  "title": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+  "creator": "various",
+  "date": "1614–1785",
+  "century": 17,
+  "place": "German lands & Western Europe",
+  "region": "German lands",
+  "language": "Latin & German",
+  "era": "early_modern",
+  "tradition": "rosicrucian",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "rosicrucian_hermetic",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosicrucianism",
+  "rights": "Public domain / No-restrictions (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "rose cross",
+   "alchemical mountain",
+   "divine names",
+   "macrocosm-microcosm",
+   "tabula smaragdina",
+   "theosophy of light and dark"
+  ],
+  "blurb": "Engravings and coloured plates of the Rosicrucian and Hermetic current in the German lands and across Europe, 1614–1785: the manifesto literature (Fama Fraternitatis), Theophilus Schweighardt's winged Temple of the Rosy Cross, Robert Fludd's Utriusque Cosmi engravings, Michael Maier's emblem books (Atalanta Fugiens, Symbola Aureae Mensae), Heinrich Khunrath's Amphitheatrum citadel and oratory-laboratory, the wordless Mutus Liber, Daniel Cramer's heart-emblems, Jacob Böhme's theosophical globe, Comenius's emblematic primer, and the famous coloured plates of the Geheime Figuren der Rosenkreuzer (Secret Symbols of the Rosicrucians)."
+ },
+ "entries": [
+  {
+   "id": "rosicrucian_hermetic__geheime-mountain",
+   "title": "The Alchemical Mountain, *Geheime Figuren der Rosenkreuzer*",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Anonymous (Rosicrucian compiler)",
+   "date": "1785 (Altona edition)",
+   "place": "Altona / German lands",
+   "era": "early_modern",
+   "tradition": "rosicrucian",
+   "motifs": [
+    "alchemical mountain",
+    "rose cross",
+    "philosophers stone",
+    "ascent",
+    "hidden temple",
+    "blindfolded seeker",
+    "lion",
+    "emblematic landscape"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Geheime_Figuren_der_Rosenkreuzer_1785-p50.jpg",
+   "summary": "A hand-coloured emblematic plate from the *Geheime Figuren der Rosenkreuzer* (Secret Symbols of the Rosicrucians, Altona, 1785–88), depicting the alchemical work as the ascent of a hidden mountain.\n\n## Iconography\nA conical mountain rises through a wild landscape; figures toil up its slopes toward a temple or treasure concealed at the summit. Emblematic creatures and bodies — among them a blindfolded wanderer and heraldic beasts such as the lion — populate the path, while Latin and German mottoes label the stages of the journey. Bright transparent watercolour over the engraved line is characteristic of the printed plates of this compilation.\n\n## Significance\nThe [[motif:alchemical mountain|mountain of the adepts]] is one of the most enduring images of the Hermetic tradition: the long, dangerous ascent dramatises the *opus alchymicum* as a spiritual labour, the summit holding the [[motif:philosophers stone|philosophers' stone]]. The *Geheime Figuren* gathered emblems from earlier Rosicrucian and theosophical sources into a single luxuriantly coloured corpus that became, through later facsimiles, the most widely reproduced body of Rosicrucian imagery.\n\n## For artists & game designers\nA complete level map in one image: a tiered mountain whose switchbacks are stations of trial, each marked by an emblem-puzzle.",
+   "citations": [
+    {
+     "text": "*Geheime Figuren der Rosenkreuzer aus dem 16ten und 17ten Jahrhundert* (Altona, 1785–88)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Geheime_Figuren_der_Rosenkreuzer_1785-p50.jpg"
+    }
+   ],
+   "key_concepts": [
+    "alchemical mountain",
+    "Rosicrucianism",
+    "spiritual ascent",
+    "Geheime Figuren"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__geheime-divine-names",
+   "title": "The Divine Names & Sephirotic Diagram, *Geheime Figuren der Rosenkreuzer*",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Anonymous (Rosicrucian compiler)",
+   "date": "1785 (Altona edition)",
+   "place": "Altona / German lands",
+   "era": "early_modern",
+   "tradition": "rosicrucian",
+   "motifs": [
+    "divine names",
+    "tetragrammaton",
+    "concentric circles",
+    "christian kabbalah",
+    "rose cross",
+    "emanation",
+    "hebrew letters",
+    "trinity"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Geheime_Figuren_der_Rosenkreuzer_1785-p16.jpg",
+   "summary": "A coloured plate from the *Geheime Figuren der Rosenkreuzer* (1785) setting out the divine names and the order of emanation in concentric and radiating figures.\n\n## Iconography\nConcentric rings and rayed circles carry the names of God — the Hebrew Tetragrammaton and its permutations, together with German and Latin titles of the divine — arranged around a central sun or sacred monogram. The composition fans out from the unity of the Godhead through descending bands toward the created world, the whole drawn in fine engraved line and washed in transparent colour.\n\n## Significance\nThe plate condenses the [[motif:christian kabbalah|Christian-Kabbalistic]] doctrine that creation proceeds by the unfolding of the [[motif:divine names|names of God]]. Rosicrucian theosophy absorbed this from Reuchlin, Agrippa, and the Lurianic currents transmitted through Christian Hebraists, mapping the sephirotic descent onto a contemplative diagram of light radiating from the centre.\n\n## For artists & game designers\nA radial UI of nested name-rings — rotating them to align the divine names could serve as a sigil-puzzle interface.",
+   "citations": [
+    {
+     "text": "*Geheime Figuren der Rosenkreuzer* (Altona, 1785–88)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Geheime_Figuren_der_Rosenkreuzer_1785-p16.jpg"
+    }
+   ],
+   "key_concepts": [
+    "divine names",
+    "Christian Kabbalah",
+    "emanation",
+    "Geheime Figuren"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__tabula-smaragdina",
+   "title": "*Tabula Smaragdina* (Emerald Tablet of Hermes), Theosophical–Alchemical Plate",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Anonymous (after the Hermetic tradition)",
+   "date": "early modern engraving",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "tabula smaragdina",
+    "emerald tablet",
+    "as above so below",
+    "hermes trismegistus",
+    "sun and moon",
+    "macrocosm-microcosm",
+    "alchemical synthesis",
+    "hieroglyph"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006097_Theosophie_%5E_Alchemie.jpg",
+   "summary": "An emblematic engraving of the *Tabula Smaragdina*, the Emerald Tablet of Hermes Trismegistus, rendering its terse Hermetic text as a single visual hieroglyph (Deutsche Fotothek reproduction).\n\n## Iconography\nThe tablet is presented as a unified emblem: sun and moon, the heavens and the earth, and figures of the masculine and feminine principles are arranged so that the celestial above answers the terrestrial below. Latin sentences of the Tabula encircle or caption the scene, and alchemical signs knot the upper and lower worlds together at the centre.\n\n## Significance\nThe Emerald Tablet — known in the Latin West from the twelfth century and printed throughout the early-modern Hermetic corpus — furnishes the axiom \"that which is above is as that which is below\" ([[motif:as above so below|as above, so below]]). It became the compressed creed of alchemy and Rosicrucian theosophy alike; pictorial versions like this one translate its sentences into a contemplative diagram of [[motif:macrocosm-microcosm|cosmic correspondence]].\n\n## For artists & game designers\nThe sun-above / moon-below mirror layout is a natural template for a 'correspondence' mechanic where actions in one half of the screen are reflected in the other.",
+   "citations": [
+    {
+     "text": "Julius Ruska, *Tabula Smaragdina: Ein Beitrag zur Geschichte der hermetischen Literatur* (1926)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006097_Theosophie_%5E_Alchemie.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Emerald Tablet",
+    "Hermes Trismegistus",
+    "as above so below",
+    "alchemical correspondence"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__temple-rosy-cross",
+   "title": "The Temple of the Rosy Cross, *Speculum Sophicum Rhodo-Stauroticum*",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Theophilus Schweighardt (Daniel Mögling)",
+   "date": "1618",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "rosicrucian",
+   "motifs": [
+    "winged temple",
+    "rose cross",
+    "invisible college",
+    "temple on wheels",
+    "divine hand",
+    "tetragrammaton",
+    "wings",
+    "fraternity"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Templeofrosycross_highres.png",
+   "summary": "The famous winged, wheeled \"Temple of the Rosy Cross\" engraved for Theophilus Schweighardt's *Speculum Sophicum Rhodo-Stauroticum* (1618), the visual emblem of the invisible Rosicrucian fraternity.\n\n## Iconography\nA fortified collegiate building floats on wings and runs upon wheels, suspended from a divine hand reaching out of the clouds and inscribed with the name of God. Figures around it pray, study, and labour; mottoes proclaim the house mobile, hidden, and sustained from heaven. The structure is at once temple, college, and ark — a building that cannot be located or besieged.\n\n## Significance\nSchweighardt's image gives form to the central paradox of the early manifestos: the Rosicrucian Brotherhood is an [[motif:invisible college|invisible college]], present everywhere and nowhere, upheld only by God. Drawn during the manifesto furore that followed the *Fama* and *Confessio*, the winged temple became the defining icon of the movement and a touchstone for later esoteric and Masonic imagery.\n\n## For artists & game designers\nA mobile, hidden home base — a flying fortress that relocates and stays invisible to enemies until the player has earned entry.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Rosicrucian Enlightenment* (1972)."
+    },
+    {
+     "text": "Theophilus Schweighardt, *Speculum Sophicum Rhodo-Stauroticum* (1618)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Templeofrosycross_highres.png"
+    }
+   ],
+   "key_concepts": [
+    "Temple of the Rosy Cross",
+    "invisible college",
+    "Rosicrucian manifestos",
+    "Schweighardt"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__fama-fraternitatis",
+   "title": "*Fama Fraternitatis* — Rosicrucian Manifesto",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Anonymous (Tübingen circle; assoc. J. V. Andreae)",
+   "date": "1614 (text); reproduced print",
+   "place": "Kassel / German lands",
+   "era": "early_modern",
+   "tradition": "rosicrucian",
+   "motifs": [
+    "manifesto",
+    "fraternity",
+    "christian rosenkreutz",
+    "general reformation",
+    "vault",
+    "rose cross",
+    "letterpress title",
+    "hidden brotherhood"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fama_fraternitatis.jpg",
+   "summary": "A page of the *Fama Fraternitatis* (first published 1614), the founding Rosicrucian manifesto announcing the Brotherhood of the Rose Cross and the legendary Christian Rosenkreutz.\n\n## Iconography\nThe reproduction shows the letterpress text of the manifesto rather than a pictorial plate: dense black-letter or roman type setting out the call for a \"general reformation\" and the story of the order. Such printed pages were the actual medium through which the Rosicrucian furore spread across Protestant Europe.\n\n## Significance\nThe *Fama* — issued at Kassel and circulated with the *Confessio Fraternitatis* — narrates the discovery of the incorrupt body and luminous vault of [[motif:christian rosenkreutz|Christian Rosenkreutz]] and summons the learned to a reform of arts, sciences, and religion. Probably composed within the Tübingen circle around Johann Valentin Andreae, it ignited a wave of pamphlets, defences, and denunciations and stands at the head of the whole Rosicrucian tradition.\n\n## For artists & game designers\nAn in-world found document: a printed manifesto whose discovery sets the player's faction and quest in motion.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Rosicrucian Enlightenment* (1972)."
+    },
+    {
+     "text": "*Fama Fraternitatis des löblichen Ordens des Rosenkreutzes* (Kassel, 1614)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fama_fraternitatis.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Fama Fraternitatis",
+    "Christian Rosenkreutz",
+    "Rosicrucian manifestos",
+    "general reformation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__fludd-naturae2",
+   "title": "*Anima Mundi* (World Soul), Robert Fludd, *Utriusque Cosmi Historia*",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Robert Fludd (engraved by Matthäus Merian / de Bry workshop)",
+   "date": "1617–1621",
+   "place": "Oppenheim / German lands (for an English author)",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "anima mundi",
+    "world soul",
+    "great chain of being",
+    "macrocosm-microcosm",
+    "divine name",
+    "ape of nature",
+    "celestial spheres",
+    "emanation"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Anima_Mundi_(by_Robert_Fludd,_Utriusque_Cosmi_Historia,_1617).png",
+   "summary": "An engraving of the *Anima Mundi*, the World Soul, from Robert Fludd's *Utriusque Cosmi … Historia* (The History of the Two Worlds, Oppenheim, 1617–21).\n\n## Iconography\nA female figure personifying the soul of the world stands within concentric cosmic bands, linked by a chain to the divine name above and, below, to the \"ape of nature\" — the figure of Art imitating Nature. The hierarchy descends from God through the angelic, celestial, and elemental realms to the human and mechanical arts, every level bound to the next in a single graduated chain.\n\n## Significance\nFludd's engravings, produced by the de Bry / Merian workshop, are among the most ambitious diagrams of [[motif:macrocosm-microcosm|macrocosm and microcosm]] in the Hermetic tradition. The [[motif:anima mundi|World Soul]] mediates between the Creator and creation, expressing the Neoplatonic and Rosicrucian conviction that one living spirit pervades the whole graduated [[motif:great chain of being|chain of being]].\n\n## For artists & game designers\nA vertical progression diagram — divine name at the top, mechanical arts at the bottom — that doubles as a skill-tree spine linking heaven, cosmos, and craft.",
+   "citations": [
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd: Hermetic Philosopher and Surveyor of Two Worlds* (1979)."
+    },
+    {
+     "text": "Robert Fludd, *Utriusque Cosmi … Historia* (Oppenheim, 1617–21)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Anima_Mundi_(by_Robert_Fludd,_Utriusque_Cosmi_Historia,_1617).png"
+    }
+   ],
+   "key_concepts": [
+    "anima mundi",
+    "Robert Fludd",
+    "great chain of being",
+    "Neoplatonism"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__atalanta-emblem",
+   "title": "Emblem from Michael Maier, *Atalanta Fugiens*",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Michael Maier (engraved by Matthäus Merian)",
+   "date": "1617–1618",
+   "place": "Oppenheim / German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "alchemical emblem",
+    "fugue",
+    "atalanta",
+    "golden apples",
+    "epigram",
+    "musical canon",
+    "philosophical egg",
+    "nature allegory"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Atalanta_Fugiens_-_DPLA_-_010d4b4a0bc98218f8323bbd7cb8973c_(page_47).jpg",
+   "summary": "An emblem from Michael Maier's *Atalanta Fugiens* (Oppenheim, 1617–18), the celebrated alchemical emblem book that fuses image, epigram, and music (DPLA reproduction).\n\n## Iconography\nThe page pairs a finely engraved emblematic scene — an allegorical figure acting out a stage of the alchemical work in a landscape — with a Latin motto, an explanatory epigram, and, in the full book, a three-voice musical fugue. The myth of Atalanta and the golden apples supplies the governing conceit of pursuit, delay, and capture.\n\n## Significance\n*Atalanta Fugiens* is the most sophisticated of the early-modern emblem books: each of its fifty emblems is a *fuga* in which the music chases its own theme as the alchemist chases the [[motif:philosophers stone|stone]]. Maier, a physician at the court of Rudolf II and a defender of the Rosicrucian cause, here weds [[motif:alchemical emblem|emblematics]] to counterpoint, making the multimedia masterpiece of Hermetic art.\n\n## For artists & game designers\nA template for synaesthetic puzzle design: each emblem ties a picture, a motto, and a melodic line, so solving one channel hints at the others.",
+   "citations": [
+    {
+     "text": "H. M. E. de Jong, *Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (1969)."
+    },
+    {
+     "text": "Michael Maier, *Atalanta Fugiens* (Oppenheim, 1617–18)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Atalanta_Fugiens_-_DPLA_-_010d4b4a0bc98218f8323bbd7cb8973c_(page_47).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Atalanta Fugiens",
+    "Michael Maier",
+    "alchemical emblem",
+    "musical fugue"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__atalanta-squaring-circle",
+   "title": "Emblem 21 (Squaring the Circle), Michael Maier, *Atalanta Fugiens*",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Michael Maier (engraved by Matthäus Merian)",
+   "date": "1617–1618",
+   "place": "Oppenheim / German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "squaring the circle",
+    "geometric emblem",
+    "philosopher",
+    "circle square triangle",
+    "man and woman",
+    "alchemical geometry",
+    "compass",
+    "quadrature"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Michael_Maier_Atalanta_Fugiens_Emblem_21.jpeg",
+   "summary": "Emblem 21 of Michael Maier's *Atalanta Fugiens* (1617–18), the famous \"squaring of the circle\" figure of the alchemical work.\n\n## Iconography\nA philosopher with a compass inscribes a geometric construction: a man and a woman stand within a circle, around them a square, and around that a triangle, the whole enclosed again in a great circle. The motto instructs the adept to \"make of man and woman a circle, thence a square, thence a triangle, and back to a circle\" — and the philosophers' stone will arise.\n\n## Significance\nThe emblem encodes the alchemical *quadratura circuli*: the [[motif:squaring the circle|squaring of the circle]] as a figure for resolving the four elements (square), the body-soul-spirit triad (triangle), and the unity of the stone (circle). It is among the most reproduced of all Hermetic diagrams and was singled out by C. G. Jung as a key emblem of the union of opposites.\n\n## For artists & game designers\nA nested circle–square–triangle motif makes an elegant sigil or summoning-ring whose layers must be drawn in the correct order.",
+   "citations": [
+    {
+     "text": "C. G. Jung, *Psychology and Alchemy* (1944)."
+    },
+    {
+     "text": "Michael Maier, *Atalanta Fugiens*, emblem 21 (1617–18)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Michael_Maier_Atalanta_Fugiens_Emblem_21.jpeg"
+    }
+   ],
+   "key_concepts": [
+    "squaring the circle",
+    "alchemical geometry",
+    "union of opposites",
+    "Atalanta Fugiens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__symbola-aureae-mensae",
+   "title": "Engraving from Michael Maier, *Symbola Aureae Mensae Duodecim Nationum*",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt / German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "twelve adepts",
+    "golden table",
+    "alchemical authority",
+    "emblematic portrait",
+    "philosophers",
+    "nations",
+    "allegory",
+    "hermetic lineage"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Engraving_from_Michael_Maier%27s_Symbola_Aureae_Mensae_(1617).jpg",
+   "summary": "An engraving from Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Symbols of the Golden Table of the Twelve Nations, Frankfurt, 1617), his defence of alchemy through its great authorities.\n\n## Iconography\nThe plate stages an emblematic scene of philosophers or allegorical figures, captioned with Latin and ranged as if seated at a 'golden table' of the twelve nations that had produced alchemical sages. Each figure carries attributes identifying a tradition or master in the Hermetic lineage.\n\n## Significance\nThe *Symbola Aureae Mensae* assembles twelve representative adepts — one for each 'nation' of the Hermetic past, from Hermes and Maria the Jewess to Western masters — to argue the antiquity and dignity of the Art against its detractors. Written in the same Rosicrucian moment as Maier's other works, it builds a visual genealogy that legitimised early-modern alchemy by anchoring it in a continuous chain of named authorities.\n\n## For artists & game designers\nA 'hall of masters' gallery: twelve seated authority-figures, each unlockable as a mentor granting a different alchemical specialty.",
+   "citations": [
+    {
+     "text": "Karin Figala & Ulrich Neumann, studies on Michael Maier (1990s)."
+    },
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt, 1617)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Engraving_from_Michael_Maier%27s_Symbola_Aureae_Mensae_(1617).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "twelve adepts",
+    "Hermetic lineage",
+    "Michael Maier"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__khunrath-citadel",
+   "title": "The Citadel of Wisdom (Plate 8), Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae*",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Heinrich Khunrath",
+   "date": "1595 / 1609",
+   "place": "Hamburg / German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "citadel of wisdom",
+    "twenty-one gates",
+    "labyrinth",
+    "divine wisdom",
+    "fortress",
+    "monster of ignorance",
+    "concentric walls",
+    "pilgrimage"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Plate_8_from_Amphitheatrum_Sapientiae_Aeternae,_Solius,_Verae_(Amphitheatre_of_the_Only_True_Eternal_Wisdom)_-_DPLA_-_0952df61a726436e9ae3bce827e57ec6.jpg",
+   "summary": "The great fold-out \"Citadel of Wisdom\" engraving (plate 8) from Heinrich Khunrath's *Amphitheatrum Sapientiae Aeternae* (Amphitheatre of Eternal Wisdom, Hamburg 1595 / Hanau 1609), here in very high resolution.\n\n## Iconography\nA circular fortress is ringed by many concentric walls pierced by gates; at the centre stands the temple or treasure of divine Wisdom. Around the perimeter are scattered the false paths and a monstrous figure of ignorance, while inscriptions name the moral and spiritual conditions for entry. Most gates are barred; only the rightly prepared seeker finds the single true way in.\n\n## Significance\nKhunrath's [[motif:citadel of wisdom|citadel]] is a theosophical labyrinth: the many gates correspond to disciplines and virtues, and the maze warns that mere learning or alchemical greed leads only to the monster, not the centre. Bridging Paracelsian alchemy, Christian mysticism, and the dawning Rosicrucian sensibility, the *Amphitheatrum* offered one of the most influential images of wisdom as a guarded, hard-won sanctuary.\n\n## For artists & game designers\nA dungeon-as-mandala: concentric ringed walls with twenty-one gates, all but one false, and a beast guarding the wrong turnings.",
+   "citations": [
+    {
+     "text": "Peter Forshaw, work on Heinrich Khunrath and the *Amphitheatrum* (2000s)."
+    },
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae* (Hamburg 1595 / Hanau 1609)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Plate_8_from_Amphitheatrum_Sapientiae_Aeternae,_Solius,_Verae_(Amphitheatre_of_the_Only_True_Eternal_Wisdom)_-_DPLA_-_0952df61a726436e9ae3bce827e57ec6.jpg"
+    }
+   ],
+   "key_concepts": [
+    "citadel of wisdom",
+    "Heinrich Khunrath",
+    "Amphitheatrum Sapientiae Aeternae",
+    "theosophical labyrinth"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__khunrath-oratory",
+   "title": "The Oratory–Laboratory, Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae*",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Heinrich Khunrath (engraved by Paullus van der Doort)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "oratory and laboratory",
+    "prayer and work",
+    "alchemical furnace",
+    "tent of the spirit",
+    "musical instruments",
+    "ora et labora",
+    "tabernacle",
+    "adept at prayer"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Amphitheatrum_sapientiae_aeternae_-_Alchemist%27s_Laboratory.jpg",
+   "summary": "The celebrated \"Oratory–Laboratory\" plate from Khunrath's *Amphitheatrum Sapientiae Aeternae*, in which the alchemist's workroom and his place of prayer occupy a single sacred space.\n\n## Iconography\nOn the left the adept kneels before an oratory tent inscribed with prayers; on the right stands the laboratory with its furnaces and vessels. Between them a central table bears musical instruments, and an inscription proclaims that nothing succeeds without God: \"oratory and laboratory\" must be joined. The hall is filled with Latin mottoes mapping prayer onto practical work.\n\n## Significance\nThe plate is the visual creed of Khunrath's Christian alchemy: [[motif:ora et labora|ora et labora]] — pray and work — refuses any split between piety and the furnace. The union of [[motif:oratory and laboratory|oratory and laboratory]] became the emblem of the devout adept and shaped the Rosicrucian image of the laboratory as a temple, influencing later Pietist and theosophical understandings of the Great Work.\n\n## For artists & game designers\nA single room split into prayer-space and craft-space, where a 'devotion' meter and a 'craft' meter must both be tended for the operation to succeed.",
+   "citations": [
+    {
+     "text": "Peter Forshaw, \"Oratorium–Auditorium–Laboratorium,\" on Khunrath's plate (2008)."
+    },
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae* (1595 / 1609)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Amphitheatrum_sapientiae_aeternae_-_Alchemist%27s_Laboratory.jpg"
+    }
+   ],
+   "key_concepts": [
+    "oratory and laboratory",
+    "ora et labora",
+    "Christian alchemy",
+    "Heinrich Khunrath"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__mutus-liber",
+   "title": "Plate 12 of the *Mutus Liber* (The Wordless Book)",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Altus (Isaac Baulot, attrib.)",
+   "date": "1677",
+   "place": "La Rochelle / France",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "wordless book",
+    "dew collection",
+    "alchemical labour",
+    "praying adepts",
+    "sun and moon",
+    "philosophical work",
+    "angels",
+    "vessels"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mutus_Liber_-_tavola_12.jpg",
+   "summary": "A plate from the *Mutus Liber* (The Wordless Book, La Rochelle, 1677), the alchemical treatise that conveys the entire Great Work through images alone, without explanatory text.\n\n## Iconography\nThe engraving shows the adepts — typically a man and a woman — at their labour: gathering dew on cloths spread under sun and moon, tending vessels and furnaces, and praying, while angelic figures preside above. Numbers and symbols, not sentences, key the operations together across the book's fifteen plates.\n\n## Significance\nThe [[motif:wordless book|wordless book]], signed only with the pseudonym \"Altus\" (often identified with Isaac Baulot), embodies the Hermetic principle that the deepest secrets are unspeakable and must be shown, meditated, and intuited rather than read. Its imagery of [[motif:dew collection|dew-gathering]] as the capture of the celestial 'spirit' made it one of the most studied of all purely pictorial alchemical works.\n\n## For artists & game designers\nA wordless tutorial: a sequence of image-only panels the player must interpret to learn the crafting steps, with no text prompts at all.",
+   "citations": [
+    {
+     "text": "Adam McLean, commentary on the *Mutus Liber* (1991)."
+    },
+    {
+     "text": "*Mutus Liber* (La Rochelle, 1677)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Mutus_Liber_-_tavola_12.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Mutus Liber",
+    "wordless alchemy",
+    "dew collection",
+    "pictorial instruction"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__cramer-emblemata-sacra",
+   "title": "Heart Emblem from Daniel Cramer, *Emblemata Sacra*",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Daniel Cramer",
+   "date": "1624",
+   "place": "Frankfurt / German lands",
+   "era": "early_modern",
+   "tradition": "rosicrucian",
+   "motifs": [
+    "flaming heart",
+    "cross",
+    "rose",
+    "devotional emblem",
+    "scripture motto",
+    "divine hand",
+    "regeneration",
+    "pietist emblematics"
+   ],
+   "rights": "No restrictions (institutional release). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Emblemata_sacra_-_hoc_est,_decades_quinque_emblematum_ex_sacra_scriptura,_de_dulcissimo_nomine_and_cruce_Jesu_Christi,_figuris_aeneis_incisorum_(1624)_(14563515700).jpg",
+   "summary": "A heart-emblem from Daniel Cramer's *Emblemata Sacra* (Sacred Emblems, Frankfurt, 1624), fifty engraved emblems of the regenerate Christian heart.\n\n## Iconography\nA single human heart is acted upon by divine agency — pierced, refined in fire, watered, planted, or crowned — within a roundel framed by a scriptural motto in Latin. A hand or beam from heaven works upon the heart while emblematic attributes (cross, rose, anchor, flame) mark each spiritual operation.\n\n## Significance\nCramer's heart-emblems translate the alchemical refining of metals into the [[motif:devotional emblem|devotional refining]] of the soul, and his deliberate pairing of the [[motif:rose|rose]] and the [[motif:cross|cross]] resonated strongly with Rosicrucian and later Pietist piety. The *Emblemata Sacra* became one of the most reprinted Protestant emblem books, a bridge between Hermetic transmutation and Lutheran inwardness.\n\n## For artists & game designers\nA 'condition of the heart' status icon that visibly transmutes — pierced, burning, blooming — as the player's moral state changes.",
+   "citations": [
+    {
+     "text": "Peter M. Daly, studies in emblem literature (1998)."
+    },
+    {
+     "text": "Daniel Cramer, *Emblemata Sacra* (Frankfurt, 1624)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Emblemata_sacra_-_hoc_est,_decades_quinque_emblematum_ex_sacra_scriptura,_de_dulcissimo_nomine_and_cruce_Jesu_Christi,_figuris_aeneis_incisorum_(1624)_(14563515700).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Emblemata Sacra",
+    "heart emblems",
+    "rose and cross",
+    "Daniel Cramer"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__boehme-globe",
+   "title": "The Philosophic Globe (*Philosophische Kugel*), Jacob Böhme",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "after Jacob Böhme (engraving in Theosophical Works)",
+   "date": "engraving after 1682 (Böhme d. 1624)",
+   "place": "German lands / Amsterdam",
+   "era": "early_modern",
+   "tradition": "theosophy",
+   "motifs": [
+    "philosophic globe",
+    "wonder eye",
+    "light and dark worlds",
+    "ungrund",
+    "heart of god",
+    "theosophy",
+    "two hemispheres",
+    "regeneration"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:B%C3%B6hme_Philosophische_Kugel.JPG",
+   "summary": "The *Philosophische Kugel* or \"Philosophic Globe\" (also called the Wonder Eye of Eternity), the central diagram of Jacob Böhme's theosophy, engraved for his collected *Theosophical Works*.\n\n## Iconography\nTwo intersecting circles or hemispheres form an eye-like figure divided into a light world and a dark world, with the heart of God and the regenerate soul at the point where they cross. Concentric labels in German map the eternal nature: wrath and love, fire and light, the wheel of the qualities turning between the two principles.\n\n## Significance\nBöhme (1575–1624), the \"Teutonic philosopher,\" used the [[motif:philosophic globe|globe]] to picture his vision of God's self-revelation out of the unground (*Ungrund*) through opposing principles of darkness and light. The diagram condenses his difficult theosophy into a contemplative image and was hugely influential on later esotericism, Pietism, and Romantic thought, transmitted especially through the Amsterdam editions of his works.\n\n## For artists & game designers\nA two-world toggle: a single eye-shaped map whose light and dark hemispheres reconfigure the same locations into wrath and grace versions.",
+   "citations": [
+    {
+     "text": "Andrew Weeks, *Boehme: An Intellectual Biography* (1991)."
+    },
+    {
+     "text": "Jacob Böhme, *Theosophische Wercke* (Amsterdam, 1682)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:B%C3%B6hme_Philosophische_Kugel.JPG"
+    }
+   ],
+   "key_concepts": [
+    "Philosophic Globe",
+    "Jacob Böhme",
+    "light and dark worlds",
+    "theosophy"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "rosicrucian_hermetic__comenius-orbis",
+   "title": "Emblematic Plate from Comenius, *Orbis Sensualium Pictus*",
+   "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
+   "creator": "Johann Amos Comenius (Jan Komenský)",
+   "date": "1658 (and later editions)",
+   "place": "Nuremberg / German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "illustrated primer",
+    "word and image",
+    "creation",
+    "pansophia",
+    "god and cosmos",
+    "encyclopedic emblem",
+    "numbered keys",
+    "universal knowledge"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Orbis-pictus-002.jpg",
+   "summary": "A plate from Johann Amos Comenius's *Orbis Sensualium Pictus* (The Visible World in Pictures, Nuremberg, 1658), the first widely used illustrated schoolbook.\n\n## Iconography\nThe page sets a woodcut or engraved scene over a bilingual caption, each object in the picture keyed by a small number to its name in the surrounding text. Opening plates move from God and the cosmos down through the elements and creatures, building a visual encyclopedia of the world.\n\n## Significance\nComenius (1592–1670), a Bohemian Brethren bishop linked to Andreae's reforming circle, designed the *Orbis Pictus* as the seed of his [[motif:pansophia|pansophia]] — a universal, divinely ordered knowledge in which word and image together restore the harmony of creation. Though a children's primer, its program of [[motif:word and image|picture-and-word]] correspondence belongs to the same emblematic and Rosicrucian-reformist impulse that shaped seventeenth-century Hermetic thought.\n\n## For artists & game designers\nA numbered hotspot codex: an illustrated world-page where every object is a clickable, named lexicon entry.",
+   "citations": [
+    {
+     "text": "Daniel Murphy, *Comenius: A Critical Reassessment of his Life and Work* (1995)."
+    },
+    {
+     "text": "J. A. Comenius, *Orbis Sensualium Pictus* (Nuremberg, 1658)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Orbis-pictus-002.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Orbis Pictus",
+    "Comenius",
+    "pansophia",
+    "word and image"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

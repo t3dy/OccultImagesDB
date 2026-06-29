@@ -1,0 +1,423 @@
+{
+ "_work": {
+   "key": "death_macabre",
+   "short_id": "MORS",
+   "title": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "various",
+   "date": "c. 1338–1732",
+   "century": 15,
+   "place": "Europe",
+   "region": "Europe",
+   "language": "Latin",
+   "era": "renaissance",
+   "tradition": "reception",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "death_macabre",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Danse_macabre",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["memento mori", "danse macabre", "triumph of death", "skeleton", "skull", "vanitas"],
+   "blurb": "The medieval and early-modern imagery of death and the great leveller: the Danse Macabre of Paris, Lübeck, Basel and Holbein; the Triumph of Death from Palermo and Pisa to Bruegel; the deathbed contests of the Ars moriendi; transi tombs and vanitas still-lifes; the Three Living and Three Dead; the Wheel of Fortune; plague, pestilence and the Apocalyptic horseman — the visual culture in which the alchemical nigredo and the apotropaic skull are rooted."
+ },
+ "entries": [
+  {
+   "id": "death_macabre__holbein-dance-of-death",
+   "title": "The Expulsion from Paradise (Holbein, Dance of Death series)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Hans Holbein the Younger (designer); Hans Lützelburger (cutter)",
+   "date": "designed c. 1526; published 1538",
+   "place": "Basel / Lyon",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["danse macabre", "skeleton", "expulsion from paradise", "adam and eve", "woodcut", "memento mori", "origin of death", "scythe"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger,_V%C3%9Ftribung_Ade_Eue,_NGA_7770.jpg",
+   "summary": "An opening woodcut from Hans Holbein the Younger's *Les simulachres & historiees faces de la mort* (the \"Dance of Death\"), designed in Basel around 1526 and first published at Lyon in 1538, here showing the Expulsion from Paradise that brings death into the world.\n\n## Iconography\nAn angel drives Adam and Eve from Eden while a skeletal figure of Death, already accompanying them, plays a stringed instrument — situating the entire series as the consequence of the Fall. The German caption *Vßtribung Ade Eue* names the scene.\n\n## Significance\nHolbein's miniature woodcuts, cut by Hans Lützelburger, transformed the older mural *Danse Macabre* into a portable book in which Death seizes each estate — pope, emperor, merchant, ploughman — at its daily business. The series became the most influential treatment of the theme; scholars from Werner Gundersheimer to the editors of the Dover facsimile trace its diffusion across confessional Europe. Beginning with the Fall frames death as universal punishment rather than mere chance.\n\n## For artists & game designers\nOpening a death-themed sequence with origin-of-death imagery, rather than a generic skeleton, gives the whole set a narrative spine.",
+   "citations": [
+    {"text": "Hans Holbein the Younger, *Les simulachres & historiees faces de la mort* (Lyon, 1538)."},
+    {"text": "Werner L. Gundersheimer (ed.), *The Dance of Death by Hans Holbein the Younger* (1971)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger,_V%C3%9Ftribung_Ade_Eue,_NGA_7770.jpg"}
+   ],
+   "key_concepts": ["Dance of Death", "Hans Holbein", "memento mori", "origin of death"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__holbein-knight",
+   "title": "Death and the Knight (Holbein, Dance of Death)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "after Hans Holbein the Younger",
+   "date": "after 1538 (woodcut series)",
+   "place": "Lyon / German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["danse macabre", "skeleton", "knight", "armour", "leveller", "woodcut", "memento mori", "estates of society"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Holbein_Danse_Macabre_31.jpg",
+   "summary": "A plate from Holbein's *Dance of Death* in which Death overcomes an armoured knight, one of the social estates seized in turn throughout the series.\n\n## Iconography\nA skeleton attacks a fully armoured nobleman, running him through despite his plate and weapons; the soldier's martial strength is shown to be useless against the universal leveller. The composition continues the book's procession through every rank of society.\n\n## Significance\nThe *Danse Macabre* asserts that death erases the hierarchy of estates — emperor, bishop, knight, peasant fall alike. The knight's plate, the ultimate sign of worldly power and protection, is pierced as easily as a beggar's rags, dramatising the medieval commonplace [[motif:memento mori|*memento mori*]]. Holbein's individualised, action-filled scenes broke from the static earlier mural tradition and fixed the leveller motif in the European imagination.\n\n## For artists & game designers\nDefeating the most heavily armoured archetype with the cheapest enemy is a compact way to signal that ordinary rules no longer apply.",
+   "citations": [
+    {"text": "Hans Holbein the Younger, *The Dance of Death* (Lyon, 1538)."},
+    {"text": "James M. Clark, *The Dance of Death in the Middle Ages and the Renaissance* (1950)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Holbein_Danse_Macabre_31.jpg"}
+   ],
+   "key_concepts": ["Dance of Death", "death the leveller", "estates of society", "Hans Holbein"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__lubeck-totentanz",
+   "title": "The Lübeck Totentanz (Marienkirche Dance of Death)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "after Bernt Notke (1701 copy by Anton Wortmann)",
+   "date": "original 1463; surviving copy 1701",
+   "place": "Lübeck, German lands",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["danse macabre", "totentanz", "skeleton", "procession", "estates of society", "leveller", "mural", "dance"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Totentanz_L%C3%BCbeckR.jpg",
+   "summary": "A panoramic record of the *Totentanz* (Dance of Death) once in the Marienkirche at Lübeck, originally painted by Bernt Notke in 1463 and known through a 1701 repainting by Anton Wortmann; the medieval original was destroyed in 1942.\n\n## Iconography\nA long frieze shows skeletal figures of Death leading an alternating chain of the living — pope, emperor, cardinal, king, down to the peasant and the infant — each clasped by a corpse in a grim dance. Verse dialogues once accompanied each pairing.\n\n## Significance\nThe Lübeck mural was among the most celebrated north-German *Totentänze* and a key witness to the genre that flourished after the Black Death. Its alternation of the powerful and the humble embodies death as the great leveller; the dancing dead are not the deceased themselves but Death personified, summoning each estate. The loss of Notke's original in the wartime bombing makes such copies the principal evidence, as art historians of the *Totentanz* tradition emphasise.\n\n## For artists & game designers\nA horizontal procession alternating finely dressed figures with identical corpses reads instantly as \"everyone, no exceptions.\"",
+   "citations": [
+    {"text": "Hartmut Freytag (ed.), *Der Totentanz der Marienkirche in Lübeck* (1993)."},
+    {"text": "James M. Clark, *The Dance of Death in the Middle Ages and the Renaissance* (1950)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Totentanz_L%C3%BCbeckR.jpg"}
+   ],
+   "key_concepts": ["Totentanz", "Bernt Notke", "Lübeck", "death the leveller"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__guyot-marchant-danse",
+   "title": "The Bishop and the Squire (Danse Macabre, Marchant tradition)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "after Guyot Marchant (anonymous woodcutter)",
+   "date": "after 1485 (woodcut tradition)",
+   "place": "Paris, France",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["danse macabre", "skeleton", "bishop", "squire", "woodcut", "estates of society", "leveller", "cimetiere des innocents"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Waning_of_the_Middle_Ages_plate_3_-_%22The_Bishop_and_the_Squire%22.png",
+   "summary": "A *Danse Macabre* woodcut in the tradition of Guyot Marchant's Parisian editions (first printed 1485), reproducing the pairing of the Bishop and the Squire; this plate appears in Johan Huizinga's *The Waning of the Middle Ages*.\n\n## Iconography\nTwo cavorting corpses lead a mitred bishop and a young squire into the dance. Each living figure is partnered by a lively skeleton, and a verse exchange (in the original) has Death address the victim and the victim lament his fate.\n\n## Significance\nMarchant's 1485 *Danse Macabre*, drawn from the lost mural painted around 1424–25 in the cemetery of the Saints-Innocents in Paris, was the first printed edition of the theme and spread it across Europe. The procession descends the social ladder, insisting that office and youth alike are powerless before death — the central lesson Huizinga made famous in his account of late-medieval mortuary culture.\n\n## For artists & game designers\nPairing each victim with an animated, almost gleeful corpse turns a grim subject into a darkly comic dance — tone as much as theme.",
+   "citations": [
+    {"text": "Guyot Marchant, *Danse Macabre* (Paris, 1485)."},
+    {"text": "Johan Huizinga, *The Waning of the Middle Ages* (1919; Eng. trans. 1924)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Waning_of_the_Middle_Ages_plate_3_-_%22The_Bishop_and_the_Squire%22.png"}
+   ],
+   "key_concepts": ["Danse Macabre", "Guyot Marchant", "Cimetière des Innocents", "estates of society"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__danse-femmes",
+   "title": "La grande danse macabre des hommes et des femmes",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Anonymous (popular print tradition)",
+   "date": "1862 reissue of an early-modern woodcut series",
+   "place": "France",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["danse macabre", "danse macabre of women", "skeleton", "estates of women", "woodcut", "memento mori", "leveller", "popular print"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:La_grande_danse_macabre_des_hommes_et_des_femmes_1862_(127117328).jpg",
+   "summary": "A page from *La grande danse macabre des hommes et des femmes*, a long-lived French popular-print version of the Dance of Death (this copy an 1862 reissue) that extends the procession to the female estates.\n\n## Iconography\nWoodcut figures of Death lead women of differing ranks — queen, abbess, bourgeoise, bride, nurse — alongside the men, each accompanied by verses. The *danse macabre des femmes* gives the genre its full social and gendered range.\n\n## Significance\nThe Dance of Death of women, developed in the later fifteenth century (notably in editions following Marchant), added the estates of women to a tradition that had begun with men only. These cheap, repeatedly reprinted *bibliothèque bleue*-style chapbooks kept the medieval *memento mori* alive into the nineteenth century, long after elite art had moved on, as historians of popular print have shown.\n\n## For artists & game designers\nExtending an archetype-procession to a parallel cast (here, women's estates) is a low-cost way to double a roster while keeping one coherent visual system.",
+   "citations": [
+    {"text": "*La danse macabre des femmes* (Paris, late 15th c.; many later reissues)."},
+    {"text": "Ann Tukey Harrison (ed.), *The Danse Macabre of Women* (1994)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:La_grande_danse_macabre_des_hommes_et_des_femmes_1862_(127117328).jpg"}
+   ],
+   "key_concepts": ["Danse Macabre", "danse macabre of women", "popular print", "estates of women"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__triumph-death-palermo",
+   "title": "The Triumph of Death (Palazzo Sclafani / Palazzo Abatellis, Palermo)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Anonymous (Maestro del Trionfo della Morte)",
+   "date": "c. 1446 (detached fresco)",
+   "place": "Palermo, Sicily",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["triumph of death", "death on horseback", "skeletal archer", "arrows", "leveller", "fresco", "memento mori", "court figures"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Trionfo_della_morte,_gi%C3%A0_a_palazzo_sclafani,_galleria_regionale_di_Palazzo_Abbatellis,_palermo_(1446)_,_affresco_staccato.jpg",
+   "summary": "A large detached fresco of *Il Trionfo della Morte* (the Triumph of Death), painted around 1446 for the courtyard of the Palazzo Sclafani in Palermo and now in the Galleria Regionale di Palazzo Abatellis.\n\n## Iconography\nA skeletal Death rides a gaunt, ghostly horse, loosing arrows into a company of the rich, young and powerful — courtiers, lovers, a pope and emperor — while the poor and infirm at the left, who beg for death, are pointedly spared. The composition is among the most powerful realisations of the theme.\n\n## Significance\nThe *Triumph of Death*, a theme spread by Petrarch's *Trionfi* and the trauma of the Black Death, shows Death conquering all earthly estates at once rather than in sequence. The Palermo fresco's mounted archer became iconic; its modern fame was amplified when Picasso is said to have studied it. It belongs to the same fifteenth-century mortuary culture as the danse macabre and the transi tomb.\n\n## For artists & game designers\nA mounted skeletal archer who spares the suffering and strikes the fortunate inverts the usual logic of mercy — an unsettling, memorable rule.",
+   "citations": [
+    {"text": "Alberto Tenenti, *Il senso della morte e l'amore della vita nel Rinascimento* (1957)."},
+    {"text": "Joël Saugnieux, *Les danses macabres de France et d'Espagne* (1972)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Trionfo_della_morte,_gi%C3%A0_a_palazzo_sclafani,_galleria_regionale_di_Palazzo_Abbatellis,_palermo_(1446)_,_affresco_staccato.jpg"}
+   ],
+   "key_concepts": ["Triumph of Death", "Petrarch Trionfi", "Death on horseback", "Palazzo Abatellis"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__camposanto-pisa",
+   "title": "The Triumph of Death (Camposanto, Pisa — fragment)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Buonamico Buffalmacco (attributed)",
+   "date": "c. 1336–1341 (fresco)",
+   "place": "Pisa, Italy",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["triumph of death", "three living and three dead", "fresco", "corpses", "decay", "memento mori", "hunting party", "leveller"],
+   "rights": "Public domain (CC0, Rijksmuseum reproduction). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pisa_Frammento_nel_trionfo_della_morte,_RP-F-F16903.jpg",
+   "summary": "A fragment of the great *Trionfo della Morte* fresco in the Camposanto Monumentale at Pisa, generally attributed to Buonamico Buffalmacco and dated to around 1336–1341 — before the Black Death — and badly damaged by fire in 1944.\n\n## Iconography\nThe cycle combines several mortuary themes: an elegant hunting party recoils before three open coffins of decaying corpses (the [[motif:three living and three dead|Three Living and the Three Dead]]); a scythe-bearing Death swoops over heaps of the dead; and beggars vainly implore Death to take them. This reproduction preserves a portion of the composition.\n\n## Significance\nThe Pisan *Triumph of Death* is one of the earliest and most ambitious survivals of the theme and a touchstone for its iconography, influencing later treatments down to Bruegel. Its early date shows that the meditation on universal mortality predates the plague, though the epidemic intensified it. Scholars such as Millard Meiss read such frescoes as expressions of a penitential, death-haunted Tuscan piety.\n\n## For artists & game designers\nStacking three death-motifs in one scene — the corpse-confrontation, the reaping figure, the unanswered plea — builds a single image that rewards close reading.",
+   "citations": [
+    {"text": "Millard Meiss, *Painting in Florence and Siena after the Black Death* (1951)."},
+    {"text": "Luciano Bellosi, *Buffalmacco e il Trionfo della Morte* (1974)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pisa_Frammento_nel_trionfo_della_morte,_RP-F-F16903.jpg"}
+   ],
+   "key_concepts": ["Triumph of Death", "Camposanto Pisa", "Buffalmacco", "Three Living and Three Dead"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__bruegel-triumph-death",
+   "title": "The Triumph of Death (Pieter Bruegel the Elder)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Pieter Bruegel the Elder",
+   "date": "c. 1562 (oil on panel)",
+   "place": "Antwerp / Brussels, Low Countries",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["triumph of death", "skeleton army", "scythe", "coffins", "apocalypse", "memento mori", "landscape of death", "leveller"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg",
+   "summary": "Pieter Bruegel the Elder's panoramic panel *The Triumph of Death* (c. 1562, Museo del Prado), a vast apocalyptic landscape in which armies of skeletons overwhelm the living.\n\n## Iconography\nLegions of the dead drive humanity toward a great coffin-trap; a skeleton on a pale horse mows the crowd with a scythe, bells toll, a king's treasure is plundered, lovers play on oblivious. Every social rank — cardinal, soldier, peasant, gambler — is engulfed in a blasted, fire-lit world.\n\n## Significance\nBruegel fuses the medieval *Triumph of Death* and *danse macabre* into a single eschatological panorama, drawing on the Italian frescoes and on Netherlandish print culture. The work reads both as universal *memento mori* and, many scholars argue, as a coded response to the religious violence of the sixteenth-century Low Countries. It is the most ambitious painted version of the theme.\n\n## For artists & game designers\nMassing identical skeletons as a relentless army — rather than a single reaper — converts a moral emblem into a horror set-piece of overwhelming scale.",
+   "citations": [
+    {"text": "Walter S. Gibson, *Bruegel* (1977)."},
+    {"text": "Pilar Silva Maroto (ed.), *Bruegel: The Triumph of Death* (Prado, 2018)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg"}
+   ],
+   "key_concepts": ["Triumph of Death", "Pieter Bruegel", "apocalypse", "death the leveller"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__ars-moriendi",
+   "title": "Ars moriendi (block-book woodcut)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Anonymous (printed by Conrad Kachelofen)",
+   "date": "late 15th century (incunabulum)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["ars moriendi", "deathbed", "demons", "angels", "temptation", "good death", "woodcut", "psychomachia"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Houghton_Typ_Inc_2924_-_Ars_moriendi_A.jpg",
+   "summary": "A woodcut from the *Ars moriendi* (\"The Art of Dying\"), the immensely popular fifteenth-century manual on the good death, here in an edition printed by Conrad Kachelofen.\n\n## Iconography\nA dying man lies on his bed surrounded by the unseen combatants for his soul: demons crowd in with temptations — to despair, impatience, pride, avarice and loss of faith — while angels, saints and Christ offer consolation. The deathbed becomes the stage of a final spiritual contest.\n\n## Significance\nThe *Ars moriendi*, circulating both as a blockbook and in typeset editions from the 1450s onward, taught the laity to die well by resisting the five temptations and embracing their consoling counter-images. It is a cornerstone of late-medieval death culture, complementing the danse macabre's communal *memento mori* with a private, dramatised psychomachia at the bedside, as studied by Mary Catharine O'Connor and others.\n\n## For artists & game designers\nStaging an invisible tug-of-war of demons and angels around a single vulnerable figure is a clean template for a \"contest for the soul\" encounter.",
+   "citations": [
+    {"text": "Mary Catharine O'Connor, *The Art of Dying Well: The Development of the Ars Moriendi* (1942)."},
+    {"text": "*Ars moriendi* (German lands, late 15th c., printed Conrad Kachelofen)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Houghton_Typ_Inc_2924_-_Ars_moriendi_A.jpg"}
+   ],
+   "key_concepts": ["Ars moriendi", "good death", "deathbed temptations", "psychomachia"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__three-living-three-dead",
+   "title": "The Three Living and the Three Dead (Master of the Dresden Prayer Book)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Master of the Dresden Prayer Book (or workshop)",
+   "date": "c. 1480–1515 (Flemish manuscript illumination)",
+   "place": "Flanders, Low Countries",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["three living and three dead", "encounter", "corpses", "noblemen", "manuscript", "memento mori", "decay", "hunting"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Master_of_the_Dresden_Prayer_Book_or_workshop_(Flemish,_active_about_1480_-_1515)_-_The_Three_Living_and_the_Three_Dead_-_Google_Art_Project.jpg",
+   "summary": "A Flemish manuscript illumination of *The Three Living and the Three Dead*, attributed to the Master of the Dresden Prayer Book or his workshop (active c. 1480–1515).\n\n## Iconography\nThree richly dressed young noblemen, often out hunting, come face to face with three corpses in varying stages of decay, who warn them: *\"As you are, so once were we; as we are, so shall you be.\"* The living recoil at the mirror of their own future.\n\n## Significance\nThis *exemplum*, current in Europe from the thirteenth century in poetry and wall-painting, is a direct ancestor of the danse macabre: it confronts youth, rank and vitality with their inevitable corruption. The encounter-of-three structure, frequently placed in Books of Hours beside the Office of the Dead, drives home the personal *memento mori*. The motif is documented across French, English and Italian art by scholars of medieval death imagery.\n\n## For artists & game designers\nThe mirror-encounter — confronting the player-character with rotting versions of themselves — is a stark, economical way to deliver a mortality theme without exposition.",
+   "citations": [
+    {"text": "Ashby Kinch, *Imago Mortis: Mediating Images of Death in Late Medieval Culture* (2013)."},
+    {"text": "Paul Binski, *Medieval Death: Ritual and Representation* (1996)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Master_of_the_Dresden_Prayer_Book_or_workshop_(Flemish,_active_about_1480_-_1515)_-_The_Three_Living_and_the_Three_Dead_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["Three Living and Three Dead", "memento mori", "Books of Hours", "decay"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__transi-tomb",
+   "title": "Le Transi de René de Chalon (Ligier Richier)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Ligier Richier",
+   "date": "c. 1545–1547 (stone sculpture)",
+   "place": "Bar-le-Duc, Lorraine, France",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["transi tomb", "cadaver effigy", "decay", "flayed corpse", "memento mori", "sculpture", "heart offering", "funerary monument"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ligier_Richier._Le_Transi_de_Ren%C3%A9_de_Chalon_Detail_Middel_en_kop_van_beeld,_GD011992.jpg",
+   "summary": "Ligier Richier's *transi* (cadaver effigy) of René de Chalon, Prince of Orange, carved around 1545–1547 for the church of Saint-Étienne at Bar-le-Duc — one of the supreme *memento mori* sculptures.\n\n## Iconography\nIn place of a serene recumbent effigy, the prince is shown as a partly decomposed, flayed standing corpse, skin hanging in tatters, who raises his left hand to offer his own withered heart heavenward. The figure is upright and almost defiant, gazing toward God.\n\n## Significance\nThe *transi* or cadaver tomb, which flourished from the late fourteenth century, depicts the deceased not in idealised repose but in graphic decay, fusing aristocratic commemoration with the universal lesson of bodily corruption. Richier's masterpiece pushes the type to a sculptural extreme; Erwin Panofsky and Kathleen Cohen treat such monuments as the funerary counterpart of the danse macabre. The offered heart converts horror into an act of devotion.\n\n## For artists & game designers\nA standing, active corpse that performs a gesture of devotion is far more unsettling — and characterful — than a passive skeleton lying down.",
+   "citations": [
+    {"text": "Kathleen Cohen, *Metamorphosis of a Death Symbol: The Transi Tomb in the Late Middle Ages and the Renaissance* (1973)."},
+    {"text": "Erwin Panofsky, *Tomb Sculpture* (1964)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ligier_Richier._Le_Transi_de_Ren%C3%A9_de_Chalon_Detail_Middel_en_kop_van_beeld,_GD011992.jpg"}
+   ],
+   "key_concepts": ["transi tomb", "cadaver effigy", "Ligier Richier", "memento mori"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__vanitas-skull",
+   "title": "Vanitas Still Life with Skull, Hourglass and Globe (Gijsbrechts)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Cornelis Norbertus Gijsbrechts",
+   "date": "c. 1660–1675 (oil on canvas)",
+   "place": "Flanders / Denmark",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["vanitas", "skull", "hourglass", "candle", "globe", "memento mori", "transience", "still life"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cornelis_Norbertus_Gijsbrechts_-_Vanitas_still_life_with_a_skull,_sheet_music,_violin,_globe,_candle,_hourglass_and_playing_cards,_all_on_a_draped_table.jpg",
+   "summary": "A *vanitas* still life by the Flemish painter Cornelis Norbertus Gijsbrechts, assembling a skull, hourglass, guttering candle, violin, globe, sheet music and playing cards on a draped table.\n\n## Iconography\nEach object is an emblem of transience: the skull and extinguished candle for death, the hourglass for fleeting time, the bubble-like instruments, music and cards for fragile worldly pleasure and chance. Together they preach the vanity of earthly things — *vanitas vanitatum*.\n\n## Significance\nThe Dutch and Flemish *vanitas* of the seventeenth century translated the medieval *memento mori* into the language of the bourgeois still life, where the skull beside the hourglass distils centuries of death-imagery into a single contemplative arrangement. The genre is rooted in Ecclesiastes' \"all is vanity\" and studied as a meditation on mortality and the futility of accumulation. Gijsbrechts was a noted specialist of the type and of *trompe-l'œil*.\n\n## For artists & game designers\nThe skull-plus-hourglass pairing is the most compact, universally legible death symbol in Western art — instant shorthand for \"time is running out.\"",
+   "citations": [
+    {"text": "Alberto Veca, *Vanitas: il simbolismo del tempo* (1981)."},
+    {"text": "Ingvar Bergström, *Dutch Still-Life Painting in the Seventeenth Century* (1956)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cornelis_Norbertus_Gijsbrechts_-_Vanitas_still_life_with_a_skull,_sheet_music,_violin,_globe,_candle,_hourglass_and_playing_cards,_all_on_a_draped_table.jpg"}
+   ],
+   "key_concepts": ["vanitas", "memento mori", "hourglass", "transience"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__death-scythe",
+   "title": "Death with the Scythe (allegorical engraving, Pufendorf title-page)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Anonymous engraver (Rijksmuseum impression)",
+   "date": "1732 (engraving)",
+   "place": "Netherlands",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["death personified", "scythe", "skeleton", "hourglass", "allegory", "memento mori", "clio", "title-page"],
+   "rights": "Public domain (CC0, Rijksmuseum). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Allegorische_titelpagina_met_Clio_Titelpagina_voor_S._von_Pufendorf,_Introduction_a_l%27histoire_generale_et_politique_de_l%27univers,_1732,_RP-P-OB-51.332.jpg",
+   "summary": "An allegorical engraved title-page (1732) for an edition of Samuel von Pufendorf's *Introduction à l'histoire générale et politique de l'univers*, in which Death appears as a skeleton with scythe beside the muse of history, Clio.\n\n## Iconography\nA skeletal figure of Death wields the great scythe, the agricultural reaping-tool that became its standard attribute, set in an allegorical assembly with the personified muse who records the deeds and falls of nations. Time and mortality frame the writing of history.\n\n## Significance\nThe skeleton with the scythe — and often an hourglass — is the fully crystallised early-modern personification of Death, the \"Grim Reaper,\" descended from the reaping Death of the *Triumph* and the *danse macabre*. Its appearance on a history book's frontispiece shows how thoroughly the *memento mori* had entered the visual grammar of learned culture, reminding readers that empires too are mown down.\n\n## For artists & game designers\nThe scythe reads instantly as \"Death\" even in silhouette — the single most recognisable attribute for personifying mortality.",
+   "citations": [
+    {"text": "Samuel von Pufendorf, *Introduction à l'histoire générale et politique de l'univers* (1732 ed.)."},
+    {"text": "Karl Guthke, *The Gender of Death* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Allegorische_titelpagina_met_Clio_Titelpagina_voor_S._von_Pufendorf,_Introduction_a_l%27histoire_generale_et_politique_de_l%27univers,_1732,_RP-P-OB-51.332.jpg"}
+   ],
+   "key_concepts": ["Death personified", "scythe", "Grim Reaper", "allegory"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__wheel-fortune2",
+   "title": "The Wheel of Fortune (Carmina Burana manuscript)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Anonymous (Carmina Burana illuminator)",
+   "date": "c. 1230 (manuscript illumination)",
+   "place": "Bavaria / South Tyrol, German lands",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["wheel of fortune", "rota fortunae", "fortuna", "rise and fall", "kingship", "mutability", "manuscript", "fate"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Carmina_Burana_Wheel_of_Fortune_(detail).jpg",
+   "summary": "The celebrated *Rota Fortunae* (Wheel of Fortune) illumination from the *Carmina Burana* manuscript (c. 1230), illustrating the goddess Fortuna turning her wheel.\n\n## Iconography\nFour figures ride the rim, each labelled: *regnabo* (\"I shall reign\"), *regno* (\"I reign\"), *regnavi* (\"I have reigned\") and *sum sine regno* (\"I am without a kingdom\"). A crowned king rides the summit while another tumbles headlong, as blind Fortune spins all from glory to ruin.\n\n## Significance\nThe Wheel of Fortune, given its enduring form by Boethius's *Consolation of Philosophy*, became the medieval emblem of worldly mutability and a close kin of the *memento mori*: like Death, Fortune levels the proud and reminds the mighty of their fall. The *Carmina Burana* image is the genre's most reproduced witness, opening a manuscript whose verses lament fate's caprice — the same fatalism that underlies the danse macabre.\n\n## For artists & game designers\nA rotating wheel whose four stations spell rise, rule, fall and ruin is a ready-made visual loop for systems about fortune, status, or impermanence.",
+   "citations": [
+    {"text": "Boethius, *De consolatione philosophiae* (c. 524)."},
+    {"text": "Howard R. Patch, *The Goddess Fortuna in Mediaeval Literature* (1927)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Carmina_Burana_Wheel_of_Fortune_(detail).jpg"}
+   ],
+   "key_concepts": ["Wheel of Fortune", "Rota Fortunae", "Boethius", "mutability"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__death-pale-horse",
+   "title": "The Four Horsemen of the Apocalypse (Dürer)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Albrecht Dürer",
+   "date": "c. 1497–1498 (woodcut)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["death on a pale horse", "apocalypse", "four horsemen", "pestilence", "famine", "war", "woodcut", "revelation"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Four_Horsemen_(CBL_WEp_0021).jpg",
+   "summary": "Albrecht Dürer's woodcut *The Four Horsemen of the Apocalypse* from his *Apocalypse* series (c. 1498), the defining image of the riders of Revelation, with Death on the pale horse at the front.\n\n## Iconography\nFour riders — Conquest, War, Famine and, lowest and gauntest, Death astride a pale horse and brandishing nothing but a pitchfork — trample humanity, from emperor to commoner, beneath their hooves; the maw of Hell opens to swallow the fallen. The riders surge diagonally with terrifying momentum.\n\n## Significance\nDürer's *Apocalypse*, published in 1498 amid pre-millennial anxiety, gave Revelation 6 its most powerful visual form and made the [[motif:death on a pale horse|pale-horse rider]] a permanent fixture of Western death-imagery. The series fused the eschatological horseman with the leveller of the *Triumph of Death*: emperors and peasants perish together. Its technical brilliance also marked the woodcut's arrival as a vehicle for ambitious art.\n\n## For artists & game designers\nGiving the most lethal rider the meanest weapon — a farm pitchfork, not a sword — makes Death's inevitability feel casual and therefore more chilling.",
+   "citations": [
+    {"text": "Albrecht Dürer, *Apocalipsis cum figuris* (Nuremberg, 1498)."},
+    {"text": "Erwin Panofsky, *The Life and Art of Albrecht Dürer* (1943)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Four_Horsemen_(CBL_WEp_0021).jpg"}
+   ],
+   "key_concepts": ["Four Horsemen", "Death on a pale horse", "Albrecht Dürer", "Apocalypse"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__durer-knight-death-devil",
+   "title": "Knight, Death and the Devil (Dürer)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Albrecht Dürer",
+   "date": "1513 (engraving)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["death personified", "hourglass", "knight", "devil", "memento mori", "engraving", "christian soldier", "decay"],
+   "rights": "Public domain (CC0, Metropolitan Museum). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Knight,_Death_and_the_Devil_MET_MM4560.jpg",
+   "summary": "Albrecht Dürer's master engraving *Ritter, Tod und Teufel* (Knight, Death and the Devil, 1513), one of his three *Meisterstiche*, in which a mounted knight rides resolutely past Death and a swinish devil.\n\n## Iconography\nA Christian knight in full armour advances through a gloomy ravine. Death, a crowned, snake-wreathed corpse on a pale nag, raises an hourglass to remind him his time is short; a horned, hog-snouted devil shambles behind. The knight neither flinches nor looks aside, fixed on the distant fortress.\n\n## Significance\nUsually read in light of Erasmus's *Enchiridion militis Christiani* (the \"Handbook of the Christian Soldier\"), the print shows steadfast faith riding unmoved through the terrors of death and temptation. The hourglass-bearing corpse is a quintessential *memento mori*, but here the lesson is turned to courage rather than despair. Panofsky's reading of the engraving remains classic.\n\n## For artists & game designers\nDeath as a heckler holding up an hourglass — present but powerless against a resolute hero — flips the usual dynamic and characterises the protagonist through what he ignores.",
+   "citations": [
+    {"text": "Albrecht Dürer, *Ritter, Tod und Teufel* (engraving, 1513)."},
+    {"text": "Erwin Panofsky, *The Life and Art of Albrecht Dürer* (1943)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Knight,_Death_and_the_Devil_MET_MM4560.jpg"}
+   ],
+   "key_concepts": ["Knight Death and the Devil", "Albrecht Dürer", "memento mori", "Christian soldier"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__death-maiden",
+   "title": "Death and the Maiden (Hans Baldung Grien)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Hans Baldung Grien",
+   "date": "c. 1518–1520 (oil on panel)",
+   "place": "Strasbourg / Freiburg, German lands",
+   "era": "renaissance",
+   "tradition": "reception",
+   "motifs": ["death and the maiden", "decay", "nude", "vanity", "memento mori", "transience of beauty", "skeleton", "eros and thanatos"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hans_Baldung_-_Death_and_the_Maiden_-_WGA01190.jpg",
+   "summary": "Hans Baldung Grien's panel *Death and the Maiden* (c. 1518–1520), one of several treatments by the artist of a young woman seized by a putrefying corpse.\n\n## Iconography\nA beautiful nude young woman, often with mirror or flowing hair, is grasped from behind by a decaying cadaver who pulls her toward the grave; she recoils in dread. Youth, sensuality and vanity are confronted directly by physical corruption.\n\n## Significance\n*Death and the Maiden* is a German Renaissance offshoot of the *danse macabre*, narrowing the universal dance to a single, erotically charged pairing of *Eros* and *Thanatos*. Baldung, a pupil of Dürer, made the theme his own, using the contrast of flawless flesh and rotting body to preach the transience of beauty — a gendered intensification of the *memento mori* that scholars such as Joseph Koerner have analysed at length.\n\n## For artists & game designers\nThe beauty-and-corpse embrace compresses an entire mortality sermon into a single two-figure tableau charged with dread and desire.",
+   "citations": [
+    {"text": "Joseph Leo Koerner, *The Moment of Self-Portraiture in German Renaissance Art* (1993)."},
+    {"text": "Karl Guthke, *The Gender of Death* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Hans_Baldung_-_Death_and_the_Maiden_-_WGA01190.jpg"}
+   ],
+   "key_concepts": ["Death and the Maiden", "Hans Baldung Grien", "transience of beauty", "Eros and Thanatos"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__plague-doctor",
+   "title": "Doctor Schnabel von Rom (the Plague Doctor)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Paul Fürst (publisher); after 'I. Columbina'",
+   "date": "c. 1656 (engraving)",
+   "place": "Rome / Nuremberg, German lands",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["plague doctor", "beak mask", "pestilence", "miasma", "satire", "engraving", "epidemic", "memento mori"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Paul_F%C3%BCrst,_Der_Doctor_Schnabel_von_Rom_(Holl%C3%A4nder_version).png",
+   "summary": "*Der Doctor Schnabel von Rom* (\"Doctor Beak of Rome\"), an engraving published by Paul Fürst of Nuremberg around 1656, the most famous image of the beaked plague doctor.\n\n## Iconography\nA gowned physician is encased head to foot in a waxed leather costume with a long bird-like beak (packed with aromatics against miasma), gloves, hat and a pointing wand. A mocking macaronic verse surrounds him, deriding doctors who profit from the dead while doing little for the living.\n\n## Significance\nThe costume responded to the miasma theory of contagion during the great seventeenth-century plagues, the beak filled with herbs to filter \"corrupt air.\" The print is at once documentary and satirical, a grim joke on the impotence of medicine before pestilence — a recurring partner of the *memento mori*, since the plague was the great quickener of death-imagery from the danse macabre onward. Astrological and divine causes of pestilence were debated alongside such remedies.\n\n## For artists & game designers\nThe beaked silhouette is one of the most instantly evocative period costumes in existence — pure mood with a built-in story of fear and quackery.",
+   "citations": [
+    {"text": "Christine M. Boeckl, *Images of Plague and Pestilence* (2000)."},
+    {"text": "Paul Fürst, *Der Doctor Schnabel von Rom* (Nuremberg, c. 1656)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Paul_F%C3%BCrst,_Der_Doctor_Schnabel_von_Rom_(Holl%C3%A4nder_version).png"}
+   ],
+   "key_concepts": ["plague doctor", "miasma", "pestilence", "memento mori"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "death_macabre__plague-florence",
+   "title": "The Plague of Florence in 1348 (after Boccaccio)",
+   "work": "Memento Mori: The Art of Death, the Danse Macabre & the Triumph of Death",
+   "creator": "Anonymous (Wellcome Collection impression)",
+   "date": "19th century (etching after a Boccaccio scene)",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["plague", "black death", "decameron", "pestilence", "corpses", "epidemic", "memento mori", "florence"],
+   "rights": "CC BY 4.0, Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Boccaccio%27s_%27The_plague_of_Florence_in_1348%27_Wellcome_L0072144.jpg",
+   "summary": "An etching depicting *The Plague of Florence in 1348* as described in the introduction to Boccaccio's *Decameron*, from the Wellcome Collection.\n\n## Iconography\nThe streets and interiors of Florence are strewn with the dead and dying; the living flee, mourn or carry off corpses while the social order collapses under the Black Death. The scene visualises Boccaccio's harrowing account of the epidemic that frames his hundred tales.\n\n## Significance\nThe Black Death of 1347–1351 killed perhaps a third of Europe and is the historical engine behind the whole macabre tradition — the danse macabre, the *Triumph of Death* and the transi tomb all intensify in its wake. Boccaccio's eyewitness preface became the canonical literary description, repeatedly illustrated. Contemporaries sought causes in divine wrath, corrupt air and adverse planetary conjunctions, binding pestilence to the astrology of disaster.\n\n## For artists & game designers\nA city scene of collapsing social order — not just individual death — conveys catastrophe at a scale that a single skeleton cannot.",
+   "citations": [
+    {"text": "Giovanni Boccaccio, *Decameron* (c. 1353), Introduction."},
+    {"text": "Christine M. Boeckl, *Images of Plague and Pestilence* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Boccaccio%27s_%27The_plague_of_Florence_in_1348%27_Wellcome_L0072144.jpg"}
+   ],
+   "key_concepts": ["Black Death", "Decameron", "plague", "astrology of pestilence"],
+   "summary_status": "authored"
+  }
+ ]
+}

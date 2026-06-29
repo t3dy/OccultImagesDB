@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gallery — Occult Image DB</title>
+<meta name="description" content="A browsable, scholarly-cataloged archive of whole illustrations from the alchemical and occult tradition. Public-domain visual assets for artists, game developers, and researchers.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site-head">
+  <div class="wrap head-inner">
+    <a class="brand" href="index.html">
+      <span class="brand-mark">☿</span>
+      <span class="brand-name">Occult Image DB</span>
+    </a>
+    <nav class="head-nav">
+      <a href="index.html">Explore</a>
+      <a href="browse.html">Themes</a>
+      <a href="history.html">History</a>
+      <a href="about.html">About</a>
+      <a class="ghost" href="about.html#licensing">Licensing</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <h1>The visual language of the <em>Great Work</em>.</h1>
+    <p class="lede">A scholarly-cataloged archive of <strong>whole illustrations</strong> from the
+      alchemical and occult tradition — emblems, woodcuts, diagrams, and portraits, from late
+      antiquity to the early modern age. Public-domain imagery for artists, game designers, and researchers.</p>
+    <div class="searchbar">
+      <input id="q" type="search" placeholder="Search dragons, furnaces, kings, ouroboros, Maier…" autocomplete="off">
+    </div>
+    <p class="hero-stats" id="heroStats">Loading the archive…</p>
+  </div>
+</section>
+
+<main class="wrap layout">
+  <aside class="filters" id="filters">
+    <div class="filter-group">
+      <h3>Era</h3>
+      <div class="chips" data-facet="era"></div>
+    </div>
+    <div class="filter-group">
+      <h3>Tradition</h3>
+      <div class="chips" data-facet="tradition"></div>
+    </div>
+    <div class="filter-group">
+      <h3>Source work</h3>
+      <div class="chips scroll" data-facet="work"></div>
+    </div>
+    <div class="filter-group">
+      <h3>Motif</h3>
+      <div class="chips scroll" data-facet="motif"></div>
+    </div>
+    <label class="toggle">
+      <input type="checkbox" id="showScans"> show unfiltered page-scans
+    </label>
+    <button class="clear" id="clearFilters">Clear all filters</button>
+  </aside>
+
+  <section class="results">
+    <div class="results-head">
+      <span id="count" class="count"></span>
+      <select id="sort">
+        <option value="chrono">Sort: chronological</option>
+        <option value="work">Sort: by source work</option>
+        <option value="title">Sort: A–Z</option>
+      </select>
+    </div>
+    <div id="grid" class="grid"></div>
+    <div id="empty" class="empty" hidden>No images match these filters. <button id="resetEmpty">Reset</button></div>
+    <div id="sentinel" class="sentinel"></div>
+  </section>
+</main>
+
+<footer class="site-foot">
+  <div class="wrap">
+    <p>Occult Image DB — whole-image archive of the alchemical &amp; occult tradition.
+       Imagery is public domain; verify rights per item before commercial use.
+       <a href="about.html">About &amp; method →</a></p>
+  </div>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>

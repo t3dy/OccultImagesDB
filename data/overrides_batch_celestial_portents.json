@@ -1,0 +1,772 @@
+{
+ "_work": {
+  "key": "celestial_portents",
+  "short_id": "CPOR",
+  "title": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+  "creator": "various",
+  "date": "1492–1882",
+  "century": 16,
+  "place": "German lands & Europe",
+  "region": "German lands",
+  "language": "German",
+  "era": "early_modern",
+  "tradition": "astrology",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "celestial_portents",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Comets_in_art",
+  "rights": "Public domain / CC0 (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "comet",
+   "eclipse",
+   "sun-dogs",
+   "conjunction",
+   "prognostication",
+   "celestial omen"
+  ],
+  "blurb": "The astrological reading of the sky in early-modern print and painting: the Great Comet of 1577 (the Tübingen / Daščický broadsheet over Prague, Tycho Brahe's diagram, the Istanbul sighting), the comet-form atlases of Hevelius (*Cometographia*, *Prodromus Cometicus*) and Lubieniecki (*Theatrum Cometicum*), the 1556 comet-and-earthquake over Constantinople, the 1680 comet over Rotterdam, the Kometenbuch comet-book, solar and lunar eclipses (Apian's volvelle, the Florentine Codex, the 1566 and 1832 eclipses), the Vädersolstavlan sun-dogs of 1535 Stockholm, Sebastian Brant's Ensisheim meteorite of 1492, and Lichtenberger's *Prognosticatio* — comets and eclipses read as warnings written in the heavens."
+ },
+ "entries": [
+  {
+   "id": "celestial_portents__comet-1577-prague",
+   "title": "The Great Comet of 1577 over Prague (Daščický broadsheet)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Jiří Jakubův Daščický (Daschitzský)",
+   "date": "1577 (woodcut broadsheet, hand-coloured)",
+   "place": "Prague, Bohemia",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "great comet of 1577",
+    "blazing star",
+    "broadsheet",
+    "celestial portent",
+    "townscape",
+    "prague",
+    "divine warning"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Von_einem_Schrecklichen_vnd_Wunderbarlichen_Cometen_so_sich_den_Dienstag_nach_Martini_dieses_lauffenden_M._D._Lxxvij._Jahrs_am_Himmel_erzeiget_hat.png",
+   "summary": "The broadsheet *Von einem schrecklichen und wunderbarlichen Cometen* — Jiří Daščický's woodcut of the [[motif:great comet of 1577|Great Comet of 1577]] blazing over Prague on the Tuesday after Martinmas.\n\n## Iconography\nA huge yellow comet with a long curving tail arcs across the sky above the towers and bridges of Prague, the city laid out beneath while citizens point upward in alarm. Letterpress German text below narrates the apparition and its meaning as a fearful sign.\n\n## Significance\nThe comet of November 1577 was the most observed of the century: Tycho Brahe used its parallax to prove it lay beyond the Moon, shattering the Aristotelian crystalline spheres. Yet for the broadsheet public it remained a [[motif:celestial portent|portent]] of war, plague, and divine wrath. Daščický's sheet, preserved in the Zurich Wickiana, is the iconic image of the comet read simultaneously as new science and old omen.\n\n## For artists & game designers\nA vast curving comet-tail sweeping over a detailed real skyline is the definitive 'the heavens have spoken' establishing shot.",
+   "citations": [
+    {
+     "text": "C. Doris Hellman, *The Comet of 1577: Its Place in the History of Astronomy* (1944)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Von_einem_Schrecklichen_vnd_Wunderbarlichen_Cometen_so_sich_den_Dienstag_nach_Martini_dieses_lauffenden_M._D._Lxxvij._Jahrs_am_Himmel_erzeiget_hat.png"
+    }
+   ],
+   "key_concepts": [
+    "Great Comet of 1577",
+    "comet portent",
+    "broadsheet",
+    "Prague"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__brahe-comet-1577",
+   "title": "Tycho Brahe's Diagram of the Comet of 1577",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Tycho Brahe",
+   "date": "1588 (engraving, from De mundi aetherei recentioribus phaenomenis)",
+   "place": "Uraniborg, Denmark",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "great comet of 1577",
+    "orbit diagram",
+    "celestial spheres",
+    "parallax",
+    "astronomy",
+    "tycho brahe",
+    "cometary path"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Tychonis_Brahe_De_mundi_aetherei_recentioribus_phaenomenis_liber_secundus.png",
+   "summary": "Tycho Brahe's diagram of the [[motif:great comet of 1577|Comet of 1577]] from *De mundi aetherei recentioribus phaenomenis liber secundus* (1588), plotting the comet's path among the planetary spheres.\n\n## Iconography\nA geometric cosmographic diagram centres the Earth, with the orbits of Sun, planets, and the comet traced as circles and a looping cometary track. The image is a schematic of the heavens rather than a landscape — the comet rendered as a measurable celestial body.\n\n## Significance\nBrahe's parallax measurements showed the comet lay far beyond the Moon, in the supposedly immutable aether, helping to dismantle the Aristotelian-Ptolemaic [[motif:celestial spheres|crystalline spheres]]. The same comet that broadsheets read as an omen of doom became, in Brahe's hands, a key instrument of the scientific revolution — astrology and the new astronomy meeting in a single apparition.\n\n## For artists & game designers\nThe orbit-diagram look — nested circles with a looping comet track — signals 'learned astronomy' as opposed to the popular omen-broadsheet idiom.",
+   "citations": [
+    {
+     "text": "Tycho Brahe, *De mundi aetherei recentioribus phaenomenis* (Uraniborg, 1588)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Tychonis_Brahe_De_mundi_aetherei_recentioribus_phaenomenis_liber_secundus.png"
+    }
+   ],
+   "key_concepts": [
+    "Tycho Brahe",
+    "Great Comet of 1577",
+    "cometary parallax",
+    "celestial spheres"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__comet-1577-istanbul",
+   "title": "The Comet of 1577 over Istanbul",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Anonymous (Ottoman miniature)",
+   "date": "16th c. (Ottoman manuscript illustration)",
+   "place": "Istanbul, Ottoman Empire",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "great comet of 1577",
+    "ottoman astronomy",
+    "city plan",
+    "celestial portent",
+    "istanbul",
+    "tailed star",
+    "observatory"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:1577%27de_%C4%B0stanbul%27dan_izlenen_kuyruklu_y%C4%B1ld%C4%B1z_ve_istanbul_plan%C4%B1.png",
+   "summary": "An Ottoman illustration of the [[motif:great comet of 1577|Comet of 1577]] (*kuyruklu yıldız*, 'tailed star') as seen from Istanbul, paired with a plan of the city.\n\n## Iconography\nA bright tailed star streaks above a schematic plan of Istanbul with its walls and waterways. The comet is shown as a fiery body trailing a long tail across the sky over the Ottoman capital.\n\n## Significance\nThe 1577 comet was observed across the world, including by Taqī al-Dīn at the Istanbul Observatory, whose readings the Sultan's astrologers tied to political fortune. The observatory was demolished soon after, partly because the comet's promised omens were read as ill. The image shows that the astrological reading of comets was a shared Eurasian practice, not a European monopoly.\n\n## For artists & game designers\nPairing a comet with a stylised city map shows an omen 'addressed to' a specific place — a device for tying a sign to a polity's fate.",
+   "citations": [
+    {
+     "text": "Avner Ben-Zaken, on Taqī al-Dīn and the Istanbul Observatory."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:1577%27de_%C4%B0stanbul%27dan_izlenen_kuyruklu_y%C4%B1ld%C4%B1z_ve_istanbul_plan%C4%B1.png"
+    }
+   ],
+   "key_concepts": [
+    "Great Comet of 1577",
+    "Ottoman astronomy",
+    "Istanbul Observatory",
+    "comet portent"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__comet-1556-constantinople",
+   "title": "Comet and Earthquake at Constantinople, 1556",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Herman Gall (broadsheet)",
+   "date": "1556 (woodcut broadsheet)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "earthquake",
+    "constantinople",
+    "broadsheet",
+    "celestial portent",
+    "disaster",
+    "tailed star",
+    "divine warning"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Istanbul_comet_and_earthquake_1556.jpg",
+   "summary": "A 1556 broadsheet by Herman Gall linking a [[motif:comet|comet]] to a destructive earthquake at Constantinople, presenting both as a single divine warning.\n\n## Iconography\nA tailed comet blazes over a walled city while buildings topple and the ground splits in an earthquake; figures flee amid collapsing towers. The print yokes the sky-sign and the earth-disaster in one composition.\n\n## Significance\nThe comet of 1556 (sometimes linked to the abdication of Charles V) was read as a portent, and broadsheets eagerly coupled it with contemporary catastrophes such as earthquakes to demonstrate the heavens' predictive power. The pairing of [[motif:comet|comet]] above and [[motif:earthquake|earthquake]] below is a compressed argument that celestial signs cause or foretell terrestrial ruin — the core logic of judicial astrology in print.\n\n## For artists & game designers\nStacking a sky-omen over an unfolding disaster in one frame is a strong 'cause and effect' layout for a prophecy panel.",
+   "citations": [
+    {
+     "text": "Roberta J. M. Olson & Jay M. Pasachoff, *Fire in the Sky: Comets and Meteors* (1998)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Istanbul_comet_and_earthquake_1556.jpg"
+    }
+   ],
+   "key_concepts": [
+    "comet of 1556",
+    "earthquake omen",
+    "Constantinople",
+    "prodigy broadsheet"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__comet-1680-rotterdam",
+   "title": "The Great Comet of 1680 over Rotterdam (Verschuier)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Lieve Verschuier",
+   "date": "c. 1680 (oil on canvas)",
+   "place": "Rotterdam, Dutch Republic",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "great comet of 1680",
+    "tailed star",
+    "townscape",
+    "celestial portent",
+    "rotterdam",
+    "night sky",
+    "crowd of witnesses"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lieve_Verschuier_-_Staartster_(komeet)_boven_Rotterdam_-_11028-A-B_-_Museum_Rotterdam.jpg",
+   "summary": "Lieve Verschuier's painting of the [[motif:great comet of 1680|Great Comet of 1680]] (*Staartster*, 'tail-star') hanging over Rotterdam as crowds gather to watch.\n\n## Iconography\nA brilliant vertical comet with a long upright tail dominates the twilight sky above the rooftops and harbour of Rotterdam, while throngs of townsfolk on the quay and rooftops gaze up, some kneeling. The painter records the collective experience of witnessing the apparition.\n\n## Significance\nThe comet of 1680 (Kirch's Comet) was the first discovered by telescope and was tracked by Newton and Halley as a test case for cometary orbits. Yet Verschuier's canvas captures the popular reaction — awe, dread, and prayer — showing how a [[motif:celestial portent|celestial sign]] still gripped the public imagination even at the dawn of Newtonian astronomy.\n\n## For artists & game designers\nA crowd of upturned faces beneath a towering vertical comet conveys collective wonder more powerfully than the comet alone.",
+   "citations": [
+    {
+     "text": "Sara J. Schechner, *Comets, Popular Culture, and the Birth of Modern Cosmology* (1997)."
+    },
+    {
+     "text": "Museum Rotterdam / Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Lieve_Verschuier_-_Staartster_(komeet)_boven_Rotterdam_-_11028-A-B_-_Museum_Rotterdam.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Great Comet of 1680",
+    "Kirch's Comet",
+    "comet portent",
+    "Rotterdam"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__hevelius-cometographia",
+   "title": "Notable Comets 1577–1652 (Hevelius, Cometographia)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Johannes Hevelius",
+   "date": "1668 (engraving, Cometographia)",
+   "place": "Danzig (Gdańsk)",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "comet catalogue",
+    "cometary forms",
+    "engraving",
+    "hevelius",
+    "tailed star",
+    "astronomy",
+    "celestial atlas"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Notable_comets_of_the_period_1577-1652_LCCN97506766.jpg",
+   "summary": "An engraved plate of notable [[motif:comet|comets]] of 1577–1652 from Johannes Hevelius' *Cometographia* (Danzig, 1668), the first comprehensive comet-atlas.\n\n## Iconography\nRows of comets float against blank ground, each shown as a distinct head-and-tail form — straight, curved, fan-shaped, or beard-like — catalogued like specimens. The plate compares the varied shapes of historic comets side by side.\n\n## Significance\nHevelius' *Cometographia* gathered every recorded comet into a systematic illustrated treatise, attempting (with a parabolic-path theory) to bring comets under natural law. The very act of cataloguing [[motif:cometary forms|comet forms]] marks the transition from comet-as-omen to comet-as-object, though the period's astrological dread still shadowed the enterprise. It set the template for the comet atlases of Lubieniecki and after.\n\n## For artists & game designers\nA grid of distinct comet silhouettes is a ready 'specimen chart' aesthetic — useful for a bestiary, spell-catalogue, or arcane reference page.",
+   "citations": [
+    {
+     "text": "Johannes Hevelius, *Cometographia* (Danzig, 1668)."
+    },
+    {
+     "text": "Library of Congress / Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Notable_comets_of_the_period_1577-1652_LCCN97506766.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Hevelius",
+    "Cometographia",
+    "comet catalogue",
+    "cometary forms"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__prodromus-cometicus",
+   "title": "Comet Plates (Hevelius, Prodromus Cometicus)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Johannes Hevelius",
+   "date": "1665 (engraving, Prodromus Cometicus)",
+   "place": "Danzig (Gdańsk)",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "comet of 1664",
+    "cometary path",
+    "engraving",
+    "hevelius",
+    "tailed star",
+    "observation plate",
+    "astronomy"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Hevelius_Prodromus_Cometicus_Tav_A_e_B.jpg",
+   "summary": "Plates A and B from Johannes Hevelius' *Prodromus Cometicus* (1665), his observational study of the [[motif:comet of 1664|comet of 1664–65]].\n\n## Iconography\nTwo engraved plates chart the comet's nightly positions and changing tail against star fields and reference grids, the comet head drawn at successive points along its track. The images are precise observational records rather than ominous broadsheets.\n\n## Significance\nThe *Prodromus Cometicus* preceded Hevelius' larger *Cometographia* and documented the bright comet of 1664, one of a pair (1664 and 1665) that triggered a wave of [[motif:celestial portent|portent]] literature across Europe. Hevelius' careful plotting represents the astronomical response to the same comets that the broadsheets read as harbingers of plague — the Great Plague of London (1665) was widely blamed on them.\n\n## For artists & game designers\nA multi-position 'time-lapse' of a comet across a star chart shows motion and study — a scholarly counterpoint to the single dramatic omen image.",
+   "citations": [
+    {
+     "text": "Johannes Hevelius, *Prodromus Cometicus* (Danzig, 1665)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hevelius_Prodromus_Cometicus_Tav_A_e_B.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Hevelius",
+    "Prodromus Cometicus",
+    "comet of 1664",
+    "comet observation"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__lubieniecki-theatrum",
+   "title": "Theatrum Cometicum Title Page (Lubieniecki)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Stanisław Lubieniecki (Stanislaus Lubienietzki)",
+   "date": "1668 (engraved title page, Theatrum Cometicum)",
+   "place": "Amsterdam / Leiden",
+   "era": "early_modern",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "comet catalogue",
+    "frontispiece",
+    "theatrum cometicum",
+    "celestial portent",
+    "engraving",
+    "allegory",
+    "astronomy"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Theatrum_Cometicum_Title.png",
+   "summary": "The engraved title page of Stanisław Lubieniecki's *Theatrum Cometicum* (1668), the monumental catalogue of all comets recorded in history.\n\n## Iconography\nAn ornate allegorical frontispiece frames the title with figures of astronomy and history, comets streaking through the upper register. The architecture of the 'theatre' presents the comet-catalogue as a grand stage of cosmic history.\n\n## Significance\nLubieniecki, a Socinian exile, compiled the *Theatrum Cometicum* as an exhaustive [[motif:comet catalogue|comet catalogue]] — over 400 comets back to the Flood — soliciting observations of the 1664–65 comets from astronomers across Europe by letter. The work straddles the era's tension: a quasi-scientific census of comets that still treats them within a framework of historical and theological meaning. Together with Hevelius it defines the great age of the printed comet-atlas.\n\n## For artists & game designers\nAn allegorical 'theatre' frontispiece — figures, architecture, and comets framing a title — is a model for an in-world tome's grand opening page.",
+   "citations": [
+    {
+     "text": "Stanisław Lubieniecki, *Theatrum Cometicum* (Amsterdam, 1668)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Theatrum_Cometicum_Title.png"
+    }
+   ],
+   "key_concepts": [
+    "Lubieniecki",
+    "Theatrum Cometicum",
+    "comet catalogue",
+    "frontispiece"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__kometenbuch",
+   "title": "Comet 'Rosa' (Kometenbuch, 1587)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Anonymous",
+   "date": "1587 (manuscript illustration, Kometenbuch)",
+   "place": "German lands / Flanders",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "comet book",
+    "cometary forms",
+    "named comets",
+    "celestial portent",
+    "kometenbuch",
+    "rose comet",
+    "manuscript"
+   ],
+   "rights": "CC0 / Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Comet_Rosa_(Kometenbuch_1587).png",
+   "summary": "An illustration of the comet named *Rosa* ('the Rose') from a *Kometenbuch* (comet-book) of 1587, a typology of comet-shapes and their meanings.\n\n## Iconography\nA stylised comet is rendered as a glowing rose-like head trailing a tail, set against a plain ground with explanatory text. The comet is presented as a named type with its own distinctive form and astrological signification.\n\n## Significance\nThe *Kometenbücher* were illustrated treatises, descended from the Arabic-Latin astrological tradition (via the *Liber de significatione cometarum* attributed to 'Ptolemy'/Ali ibn Ridwan), that classified comets into named kinds — *Rosa*, *Veru*, *Pertica*, *Miles* and others — each foretelling specific events such as the death of a king or the coming of war. The book makes explicit the [[motif:comet|comet]]'s role as a coded message whose shape determines its prophecy.\n\n## For artists & game designers\nA bestiary of named comet-types, each a distinct glowing form with a fixed prophecy, is a ready system for an in-world omen-classification mechanic.",
+   "citations": [
+    {
+     "text": "Roberta J. M. Olson & Jay M. Pasachoff, *Fire in the Sky* (1998)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Comet_Rosa_(Kometenbuch_1587).png"
+    }
+   ],
+   "key_concepts": [
+    "Kometenbuch",
+    "named comets",
+    "comet typology",
+    "cometary prophecy"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__cometographia-1578",
+   "title": "Cometographia Title Page (London, 1578)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Anonymous (London printer; Houghton STC 1416)",
+   "date": "1578 (woodcut title page)",
+   "place": "London, England",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "comet",
+    "great comet of 1577",
+    "title page",
+    "blazing star",
+    "celestial portent",
+    "woodcut",
+    "england",
+    "divine warning"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Houghton_STC_1416_-_Cometographia,_1578.jpg",
+   "summary": "The title page of an English *Cometographia* (London, 1578), a tract on the [[motif:great comet of 1577|comet of 1577]] and the meaning of comets.\n\n## Iconography\nA woodcut title page frames the text, typically with a blazing comet device, presenting the pamphlet as an authoritative discourse on the apparition's astrological and religious significance.\n\n## Significance\nThe 1577 comet provoked a flood of pamphlets across Europe, England included, debating whether comets were natural exhalations or divine signs. English tracts of 1577–78 typically argued, with John of Damascus and the broadsheet tradition, that [[motif:comet|comets]] presaged the death of princes, dearth, and war — a conviction Shakespeare would echo. The printed *Cometographia* shows the comet-omen entering the vernacular English press.\n\n## For artists & game designers\nAn ornamented title page announcing a treatise 'on the blazing star' models how an in-world book frames an omen as a subject of learned study.",
+   "citations": [
+    {
+     "text": "Sara J. Schechner, *Comets, Popular Culture, and the Birth of Modern Cosmology* (1997)."
+    },
+    {
+     "text": "Houghton Library (STC 1416) / Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Houghton_STC_1416_-_Cometographia,_1578.jpg"
+    }
+   ],
+   "key_concepts": [
+    "comet pamphlet",
+    "Great Comet of 1577",
+    "English astrology",
+    "title page"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__astronomicum-eclipse",
+   "title": "Eclipse Volvelle (Apian, Astronomicum Caesareum)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Petrus Apianus (Peter Apian)",
+   "date": "1540 (hand-coloured woodcut volvelle)",
+   "place": "Ingolstadt, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "eclipse",
+    "volvelle",
+    "paper instrument",
+    "sun and moon",
+    "astronomy",
+    "astronomicum caesareum",
+    "apian",
+    "computus"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Eclipse_Volvelle,_Petrus_Apianus.jpg",
+   "summary": "An eclipse [[motif:volvelle|volvelle]] — a rotating paper instrument — from Petrus Apianus' luxurious *Astronomicum Caesareum* (1540).\n\n## Iconography\nConcentric rotating discs in jewel-like colour are calibrated to compute solar and lunar [[motif:eclipse|eclipses]]; a central disc shows the sun and moon, the dragon's head and tail (the lunar nodes) marked around the rim. The volvelle is both instrument and ornament.\n\n## Significance\nApian's *Astronomicum Caesareum*, dedicated to Charles V, used ingenious movable volvelles to predict planetary positions and eclipses without calculation. Eclipses were prime astrological events — their timing and the zodiacal sign affected fed directly into nativities and mundane prognostication. The 'dragon' nodes that cause eclipses preserve the ancient myth of the eclipse-devouring serpent within a precision instrument.\n\n## For artists & game designers\nLayered rotating discs with celestial symbols are the archetypal 'magical computing device' — an analog astrolabe-machine for casting or predicting.",
+   "citations": [
+    {
+     "text": "Petrus Apianus, *Astronomicum Caesareum* (Ingolstadt, 1540)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Eclipse_Volvelle,_Petrus_Apianus.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Apian",
+    "Astronomicum Caesareum",
+    "eclipse prediction",
+    "volvelle"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__astronomicum-f18",
+   "title": "Volvelle Plate f.18 (Apian, Astronomicum Caesareum)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Petrus Apianus (Peter Apian)",
+   "date": "1540 (hand-coloured woodcut)",
+   "place": "Ingolstadt, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "volvelle",
+    "planetary motion",
+    "paper instrument",
+    "zodiac",
+    "astronomy",
+    "astronomicum caesareum",
+    "apian",
+    "celestial computation"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Astronomicum_Caesareum_(1540).f18.jpg",
+   "summary": "A volvelle plate (folio 18) from Petrus Apianus' *Astronomicum Caesareum* (1540), a movable disc for computing celestial positions.\n\n## Iconography\nA large, vividly coloured [[motif:volvelle|volvelle]] of nested rotating discs is ringed by zodiacal signs and degree scales, with a thread and pointer for reading off positions. Coats of arms and ornament frame the instrument-page.\n\n## Significance\nEach of the *Astronomicum*'s volvelles models the motion of a planet or the eclipse cycle, turning the book into a working astronomical computer. Apian designed it for astrological practice at the imperial court — casting horoscopes and predicting the eclipses and conjunctions that mundane [[motif:prognostication|prognostication]] required. It is the most sumptuous printed book of the Renaissance and a high point of the marriage of art, instrument, and astrology.\n\n## For artists & game designers\nThe heraldic-framed, multi-disc instrument page is a lavish template for a 'court astrologer's apparatus' prop.",
+   "citations": [
+    {
+     "text": "Petrus Apianus, *Astronomicum Caesareum* (Ingolstadt, 1540)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Astronomicum_Caesareum_(1540).f18.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Apian",
+    "Astronomicum Caesareum",
+    "volvelle",
+    "court astrology"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__moon-eclipse-1566",
+   "title": "Lunar Eclipse of 1566 (Facial Chronicle)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Anonymous (Russian manuscript illuminators)",
+   "date": "1560s–70s (manuscript illumination)",
+   "place": "Muscovy (Russia)",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "lunar eclipse",
+    "blood moon",
+    "celestial portent",
+    "chronicle",
+    "manuscript",
+    "facial chronicle",
+    "russia",
+    "omen"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Facial_Chronicle_-_b.23,_p._477_-_Moon_eclipse_in_1566.jpg",
+   "summary": "A miniature recording the [[motif:lunar eclipse|lunar eclipse]] of 1566 from the *Illustrated (Facial) Chronicle of Ivan the Terrible*.\n\n## Iconography\nWithin the chronicle's stacked-architecture style, figures observe a darkened or reddened moon above a city, the eclipse marked as a noted event in the historical narrative. The composition embeds the celestial sign into the flow of recorded history.\n\n## Significance\nThe *Litsevoy letopisny svod* (Facial Chronicle), compiled in the 1560s–70s for Ivan IV, is one of the largest illustrated manuscripts ever made, with some 16,000 miniatures. Its inclusion of an [[motif:lunar eclipse|eclipse]] among wars and coronations shows the Muscovite court, like the Latin West, reading celestial events as part of providential history — eclipses as signs woven into the chronicle of the realm.\n\n## For artists & game designers\nAn eclipse slotted between battle scenes in a chronicle shows how to treat a sky-omen as one entry in a running historical record.",
+   "citations": [
+    {
+     "text": "*Litsevoy letopisny svod* (Illustrated Chronicle of Ivan the Terrible), 1560s–70s."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Facial_Chronicle_-_b.23,_p._477_-_Moon_eclipse_in_1566.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Facial Chronicle",
+    "lunar eclipse",
+    "Muscovite astrology",
+    "providential history"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__florentine-eclipse",
+   "title": "Lunar Eclipse (Florentine Codex, Book 7)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Bernardino de Sahagún and Nahua artists",
+   "date": "c. 1577 (manuscript illustration)",
+   "place": "Mexico (New Spain)",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "lunar eclipse",
+    "aztec cosmology",
+    "celestial portent",
+    "codex",
+    "manuscript",
+    "florentine codex",
+    "mesoamerica",
+    "omen"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lunar_eclipse_in_Book_7_of_the_Florentine_Codex,_1577.jpg",
+   "summary": "An illustration of a [[motif:lunar eclipse|lunar eclipse]] from Book 7 (on astronomy) of the *Florentine Codex* (c. 1577), Bernardino de Sahagún's encyclopaedia of Nahua knowledge.\n\n## Iconography\nThe moon is shown eclipsed in the codex's hybrid Nahua-European style, set among the book's account of the sun, moon, stars, and the calendar. The image accompanies the Nahuatl text describing what the Mexica believed an eclipse portended.\n\n## Significance\nBook 7 of the *Florentine Codex* records that the Mexica feared a [[motif:lunar eclipse|lunar eclipse]] as a dangerous omen — pregnant women especially were thought at risk of monstrous birth — paralleling Old World eclipse-dread. Compiled by Sahagún with Nahua scholars and artists, it is a rare record of an indigenous astrology of the sky meeting European cosmology, both treating the eclipse as a fearful sign.\n\n## For artists & game designers\nA cross-cultural eclipse image shows that 'the moon is devoured / corrupted' reads as a portent across very different visual traditions.",
+   "citations": [
+    {
+     "text": "Bernardino de Sahagún, *Historia general de las cosas de Nueva España* (Florentine Codex), Book 7, c. 1577."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Lunar_eclipse_in_Book_7_of_the_Florentine_Codex,_1577.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Florentine Codex",
+    "Nahua astronomy",
+    "lunar eclipse",
+    "eclipse omen"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__eclipse-london-1832",
+   "title": "An Eclipse over London, 1832 (British Museum)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Anonymous (British Museum print)",
+   "date": "1832 (print)",
+   "place": "London, England",
+   "era": "modern",
+   "tradition": "astrology",
+   "motifs": [
+    "solar eclipse",
+    "townscape",
+    "celestial event",
+    "crowd of witnesses",
+    "london",
+    "print",
+    "darkened sun",
+    "spectacle"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:An_eclipse_as_seen_over_London_in_1832._(BM_1893,0612.241).jpg",
+   "summary": "A print depicting a [[motif:solar eclipse|solar eclipse]] as seen over London in 1832, held by the British Museum.\n\n## Iconography\nThe darkened sun hangs over a recognisable London skyline as crowds in the streets observe the eclipse, some through smoked glass. The image treats the eclipse as a public urban spectacle rather than a dread omen.\n\n## Significance\nBy 1832 the eclipse had largely passed from [[motif:celestial portent|portent]] to popular astronomy and entertainment, observed by crowds as a predictable wonder. The print marks the long arc from the eclipse-as-omen of the chronicles to the eclipse-as-public-science of the nineteenth century — even as almanac astrology and residual superstition lingered. It documents the secularisation of a once-fearful sign.\n\n## For artists & game designers\nThe same eclipse motif, set amid a casually watching modern crowd, reads as 'spectacle' rather than 'omen' — a useful contrast to the dread broadsheets.",
+   "citations": [
+    {
+     "text": "British Museum, 1893,0612.241."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:An_eclipse_as_seen_over_London_in_1832._(BM_1893,0612.241).jpg"
+    }
+   ],
+   "key_concepts": [
+    "solar eclipse",
+    "London 1832",
+    "public astronomy",
+    "celestial spectacle"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__eclipse-and-comet",
+   "title": "Eclipse of the Sun with Unknown Comet, 1882",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "George Frederick Chambers",
+   "date": "1882 (engraving, The Story of the Comets)",
+   "place": "England",
+   "era": "modern",
+   "tradition": "astrology",
+   "motifs": [
+    "solar eclipse",
+    "comet",
+    "corona",
+    "sungrazer",
+    "astronomy",
+    "engraving",
+    "celestial event",
+    "sky phenomenon"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_story_of_the_comets_-_Eclipse_of_the_sun_of_May_17,_1882,_showing_an_unknown_comet.jpg",
+   "summary": "An engraving of the total [[motif:solar eclipse|solar eclipse]] of 17 May 1882 with an unexpected [[motif:comet|comet]] visible beside the eclipsed sun, from G. F. Chambers' *The Story of the Comets*.\n\n## Iconography\nThe black disc of the eclipsed sun blazes with its corona while a bright sungrazing comet streaks nearby — a rare conjunction of two celestial spectacles captured in one observation, set against the darkened sky.\n\n## Significance\nThe 1882 eclipse coincided with the appearance of a comet (a Kreutz sungrazer, 'Tewfik') seen only during totality — a celebrated moment of observational astronomy. By this date the comet-and-eclipse were objects of scientific record, yet the image's drama recalls the older fusion of [[motif:comet|comet]] and [[motif:eclipse|eclipse]] as twinned celestial signs that earlier centuries would have read as a double portent.\n\n## For artists & game designers\nA comet beside a corona'd black sun is a striking 'two omens at once' image — maximal celestial drama in a single sky.",
+   "citations": [
+    {
+     "text": "George F. Chambers, *The Story of the Comets* (Oxford, 1909)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:The_story_of_the_comets_-_Eclipse_of_the_sun_of_May_17,_1882,_showing_an_unknown_comet.jpg"
+    }
+   ],
+   "key_concepts": [
+    "1882 eclipse",
+    "sungrazing comet",
+    "solar corona",
+    "celestial conjunction"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__vadersolstavlan",
+   "title": "Vädersolstavlan: The Sun-Dogs over Stockholm, 1535",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Urban målare (copy after); attributed",
+   "date": "1535 / 1636 copy (oil on panel)",
+   "place": "Stockholm, Sweden",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "sun-dogs",
+    "parhelion",
+    "halo display",
+    "celestial portent",
+    "townscape",
+    "stockholm",
+    "atmospheric optics",
+    "omen"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:V%C3%A4dersolstavlan_1535.jpg",
+   "summary": "The *Vädersolstavlan* ('Sun-Dog Painting'), depicting the [[motif:parhelion|parhelic]] halo display of mock-suns seen over Stockholm on 20 April 1535.\n\n## Iconography\nAbove a meticulous early panorama of Stockholm, a complex of glowing rings, arcs, and [[motif:sun-dogs|mock-suns]] (*vädersolar*, 'weather-suns') fills the sky — multiple bright suns linked by haloes encircling the true sun. The city below is the oldest surviving image of Stockholm.\n\n## Significance\nThe sun-dog display was read in the tense politics of the Swedish Reformation: opponents of King Gustav Vasa interpreted the apparition as a divine warning against him, prompting the king to commission a recording of the [[motif:celestial portent|portent]] partly to neutralise it. The surviving 1636 copy preserves the lost original. It is a paradigmatic case of an [[motif:atmospheric optics|atmospheric optical]] phenomenon read as a political omen.\n\n## For artists & game designers\nA full halo-complex (multiple suns, rings, tangent arcs) over a detailed cityscape is the richest possible 'wrong sky' set-piece.",
+   "citations": [
+    {
+     "text": "Sven Lidman & others on the *Vädersolstavlan*; Storkyrkan, Stockholm."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:V%C3%A4dersolstavlan_1535.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Vädersolstavlan",
+    "sun-dogs",
+    "parhelion",
+    "political omen"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__brant-donnerstein",
+   "title": "The Ensisheim Meteorite of 1492 (Sebastian Brant broadsheet)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Sebastian Brant (text); Johannes Prüss (printer)",
+   "date": "1492 (woodcut broadsheet)",
+   "place": "Strasbourg, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "meteorite",
+    "thunderstone",
+    "falling star",
+    "broadsheet",
+    "celestial portent",
+    "sebastian brant",
+    "ensisheim",
+    "divine sign"
+   ],
+   "rights": "CC0 / Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Von_dem_Donnerstein_gefallen_zu_Ensisheim,_J._Pr%C3%BCss.png",
+   "summary": "Sebastian Brant's broadsheet *Von dem Donnerstein gefallen zu Ensisheim* (1492), recording the fall of the [[motif:meteorite|Ensisheim meteorite]] as a heaven-sent sign.\n\n## Iconography\nA woodcut shows the great stone hurtling from the sky and striking a field outside the town of Ensisheim, with figures reacting to the *Donnerstein* ('thunderstone'). Letterpress verse by Brant interprets the event.\n\n## Significance\nThe Ensisheim meteorite fell on 7 November 1492 — the oldest meteorite fall with a preserved date and the actual stone still surviving. Sebastian Brant, soon famous for the *Ship of Fools*, seized on it as a [[motif:celestial portent|portent]] favouring King Maximilian against the French, in one of the earliest single-leaf news broadsheets. The 'thunderstone' thus became propaganda, a [[motif:falling star|falling star]] read as divine endorsement.\n\n## For artists & game designers\nA stone trailing fire as it crashes into a field is the original 'star fell to earth' event — a portent that leaves a tangible relic behind.",
+   "citations": [
+    {
+     "text": "Ursula B. Marvin, on the Ensisheim meteorite of 1492."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Von_dem_Donnerstein_gefallen_zu_Ensisheim,_J._Pr%C3%BCss.png"
+    }
+   ],
+   "key_concepts": [
+    "Ensisheim meteorite",
+    "Sebastian Brant",
+    "thunderstone",
+    "news broadsheet"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "celestial_portents__lichtenberger-1492",
+   "title": "The Three Estates under the Stars (Lichtenberger, Prognosticatio, 1492)",
+   "work": "Celestial Portents: Comets, Eclipses & the Astrological Reading of the Sky",
+   "creator": "Johannes Lichtenberger",
+   "date": "1492 (woodcut, Prognosticatio, Mainz)",
+   "place": "Mainz, German lands",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "motifs": [
+    "prognostication",
+    "conjunction",
+    "three estates",
+    "astrological prophecy",
+    "celestial portent",
+    "woodcut",
+    "saturn and jupiter",
+    "prophecy"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Three-estates-prognosticatio-lichtenberger-mainz-1492.jpg",
+   "summary": "A woodcut of the three estates beneath a planetary conjunction from Johannes Lichtenberger's *Prognosticatio* (Mainz, 1492), the most influential astrological prophecy of the age.\n\n## Iconography\nThe [[motif:three estates|three estates]] — clergy, emperor, and commons — stand beneath the heavens where a [[motif:conjunction|planetary conjunction]] (Saturn and Jupiter) presides, the celestial alignment hanging over the social order as its determining sign.\n\n## Significance\nLichtenberger's *Prognosticatio* (first issued 1488) built its prophecies on the great [[motif:conjunction|Saturn–Jupiter conjunction]] of 1484, foretelling upheaval, a false prophet, and reform; it ran through scores of editions and was reprinted by Luther himself with a preface. It is the archetype of the printed [[motif:prognostication|prognostication]] — astrology mobilised as political and religious prophecy, the conjunction read as the engine of history.\n\n## For artists & game designers\nSocial ranks arrayed beneath a ruling planetary conjunction is a clean visual thesis that 'the stars govern the fate of the realm.'",
+   "citations": [
+    {
+     "text": "Dietrich Kurze, *Johannes Lichtenberger* (1960)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Three-estates-prognosticatio-lichtenberger-mainz-1492.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Lichtenberger",
+    "Prognosticatio",
+    "Saturn-Jupiter conjunction",
+    "astrological prophecy"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

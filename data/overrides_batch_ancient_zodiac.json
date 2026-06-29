@@ -1,0 +1,332 @@
+{
+ "_work": {
+   "key": "ancient_zodiac",
+   "short_id": "AZOD",
+   "title": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "various",
+   "date": "15th c. BCE – 4th c. CE",
+   "century": 2,
+   "place": "Egypt, the Roman Empire, and the Eastern Mediterranean",
+   "region": "Mediterranean",
+   "language": "Greek",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "ancient_zodiac",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Zodiac_in_ancient_art",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["zodiac", "tauroctony", "celestial globe", "synagogue mosaic", "helios", "planetary deities"],
+   "blurb": "Astronomical and astrological imagery from antiquity — the Dendera zodiac, late-antique synagogue zodiac mosaics, Mithraic tauroctony and leontocephaline cosmology, the Farnese Atlas, Egyptian tomb ceilings, and the Antikythera mechanism — recording how Egyptian, Greco-Roman, Jewish, and Persian-derived traditions mapped the heavens onto stone, mosaic, and bronze."
+ },
+ "entries": [
+  {
+   "id": "ancient_zodiac__dendera-zodiac",
+   "title": "The Dendera Zodiac (Hathor Temple ceiling, Louvre)",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Anonymous (Ptolemaic Egypt)",
+   "date": "c. 50 BCE",
+   "place": "Temple of Hathor, Dendera, Egypt (now Musée du Louvre, Paris)",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["zodiac", "egyptian decans", "planisphere", "constellations", "hathor temple", "celestial sphere", "ptolemaic egypt", "sky goddess"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ancient_Egypt_Zodiac_of_Dendera_(28306172802).jpg",
+   "summary": "A bas-relief ceiling from the Temple of Hathor at Dendera, the only complete map of the ancient sky surviving from Egypt, fusing the Egyptian decans with the imported Greek zodiac.\n\n## Iconography\nThe circular planisphere is upheld by four standing goddesses and eight kneeling falcon-headed figures. Within the disc the twelve [[motif:zodiac|zodiacal]] constellations appear in their classic Greek forms (Ram, Bull, Scorpion, etc.) interwoven with native Egyptian constellations and the 36 [[motif:egyptian decans|decans]] — ten-degree star-segments that governed the hours of the night. Planets are shown as deities in their positions of exaltation.\n\n## Significance\nCarved around 50 BCE, the relief documents the moment when Babylonian-Greek astrology was absorbed into Egyptian temple religion. It was removed from the temple in 1821 and is now in the Louvre. Jean-Baptiste Biot and later Otto Neugebauer used the planetary configuration to argue a 1st-century-BCE date; the eclipse and planetary positions remain a touchstone of *Hellenistic astronomy* studies.\n\n## For artists & game designers\nThe upheld star-disc is a perfect 'cosmic map' prop — a circular relief that doubles as a navigable star chart.",
+   "citations": [
+    {"text": "Otto Neugebauer & Richard Parker, *Egyptian Astronomical Texts* (1960–69)."},
+    {"text": "Sylvie Cauville, *Le zodiaque d'Osiris* (1997)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ancient_Egypt_Zodiac_of_Dendera_(28306172802).jpg"}
+   ],
+   "key_concepts": ["Dendera zodiac", "Egyptian decans", "Hellenistic astrology", "celestial planisphere"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__beth-alpha-zodiac",
+   "title": "Beth Alpha synagogue zodiac mosaic with Helios",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Marianos and Hanina (mosaicists)",
+   "date": "6th c. CE",
+   "place": "Beth Alpha synagogue, Jezreel Valley, Israel",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["zodiac", "synagogue mosaic", "helios", "sun chariot", "four seasons", "jewish art", "byzantine mosaic", "celestial wheel"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:140931_kibbutz_beit_alfa_PikiWiki_Israel.jpg",
+   "summary": "The best-preserved of the late-antique synagogue zodiac floors, signed by the artisans Marianos and his son Hanina, placing the sun god Helios at the centre of a Jewish house of worship.\n\n## Iconography\nThe central panel is a wheel: an inner medallion shows [[motif:helios|Helios]] driving his four-horse chariot across a starry ground, ringed by the twelve [[motif:zodiac|zodiac]] signs each labelled in Hebrew, with personifications of the four seasons in the corners. Adjacent panels depict the Binding of Isaac and a Torah-shrine flanked by menorot and lions.\n\n## Significance\nThe juxtaposition of a pagan solar deity with biblical scenes has driven decades of scholarship on Jewish accommodation of Greco-Roman astral imagery. Rachel Hachlili and others read the zodiac as a liturgical calendar marking the agricultural year and the priestly courses rather than as astrological worship. The floor was excavated by E. L. Sukenik in 1929.\n\n## For artists & game designers\nA labelled zodiac wheel with a charioteer hub is an instantly readable 'calendar of the heavens' motif for menus or time-of-day mechanics.",
+   "citations": [
+    {"text": "Eleazar L. Sukenik, *The Ancient Synagogue of Beth Alpha* (1932)."},
+    {"text": "Rachel Hachlili, *Ancient Synagogues — Archaeology and Art* (2013)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:140931_kibbutz_beit_alfa_PikiWiki_Israel.jpg"}
+   ],
+   "key_concepts": ["Beth Alpha", "synagogue zodiac", "Helios", "Marianos and Hanina"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__hammat-tiberias-zodiac",
+   "title": "Hammat Tiberias synagogue zodiac mosaic with Helios",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Anonymous (Roman-Byzantine Palestine)",
+   "date": "4th c. CE",
+   "place": "Hammat Tiberias synagogue, Sea of Galilee, Israel",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["zodiac", "synagogue mosaic", "helios", "sun chariot", "four seasons", "jewish art", "sol invictus", "celestial wheel"],
+   "rights": "CC BY-SA 3.0 (photo: Praisethelorne). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mosaic_Floor_in_Synagogue_at_Hammat_Tiberias_02.JPG",
+   "summary": "The earliest and most finely executed of the Galilean synagogue zodiac floors, where Helios appears in full classical style at the hub of the celestial wheel.\n\n## Iconography\nThe mosaic centres on [[motif:helios|Helios]]-Sol crowned with a solar nimbus and rays, holding the celestial globe and whip, riding his quadriga. Around him run the twelve [[motif:zodiac|zodiac]] signs with Hebrew names, and the four seasons occupy the spandrels as winged busts. The naturalistic modelling reflects a high-quality urban workshop.\n\n## Significance\nDated to the 4th century, the floor belongs to a synagogue associated with the patriarchal house at Tiberias. Its sophistication argues that the zodiac scheme entered synagogue art at the top of the social scale. Scholars such as Lee Levine and Zeev Weiss treat the Helios-zodiac as a cosmological emblem of divine order and the calendar rather than literal sun worship.\n\n## For artists & game designers\nThe radiant charioteer with globe and whip is a compact icon of 'the sun as ruler of time' — useful for solar-themed UI or deities.",
+   "citations": [
+    {"text": "Moshe Dothan, *Hammath Tiberias* (1983)."},
+    {"text": "Lee I. Levine, *Visual Judaism in Late Antiquity* (2012)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mosaic_Floor_in_Synagogue_at_Hammat_Tiberias_02.JPG"}
+   ],
+   "key_concepts": ["Hammat Tiberias", "synagogue zodiac", "Helios-Sol", "late-antique mosaic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__sepphoris-zodiac",
+   "title": "Sepphoris (Tzippori) synagogue zodiac mosaic",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Anonymous (Roman-Byzantine Palestine)",
+   "date": "early 5th c. CE",
+   "place": "Sepphoris (Tzippori) synagogue, Galilee, Israel",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["zodiac", "synagogue mosaic", "sun chariot", "four seasons", "jewish art", "hebrew labels", "celestial wheel", "helios"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:ZodiacMosaicTzippori.jpg",
+   "summary": "The zodiac band from the synagogue floor at Sepphoris, unusual for replacing the figure of Helios with the sun-disc and chariot alone.\n\n## Iconography\nThe wheel preserves the twelve [[motif:zodiac|zodiac]] signs, each named in both Hebrew and the corresponding month, with the four seasons in the corners. At the centre, rather than an anthropomorphic [[motif:helios|Helios]], the mosaicists set the radiant sun-disc and quadriga without a driver — a notable aniconic adaptation. The signs are paired with their Hebrew month names, reinforcing a calendrical reading.\n\n## Significance\nExcavated by Zeev Weiss and Ehud Netzer in the 1990s, the Sepphoris floor is the most richly programmatic of the synagogue mosaics, integrating the zodiac into a larger cycle of biblical and Temple imagery. The omission of Helios' body is read as a deliberate softening of the pagan model while keeping its cosmic-calendar function.\n\n## For artists & game designers\nThe driverless solar chariot shows how to keep a recognizable sun-icon while avoiding a deity figure — handy for abstract or aniconic design constraints.",
+   "citations": [
+    {"text": "Zeev Weiss, *The Sepphoris Synagogue* (2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:ZodiacMosaicTzippori.jpg"}
+   ],
+   "key_concepts": ["Sepphoris", "synagogue zodiac", "aniconic sun", "Hebrew month labels"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__naaran-zodiac",
+   "title": "Na'aran synagogue zodiac mosaic",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Anonymous (Roman-Byzantine Palestine)",
+   "date": "6th c. CE",
+   "place": "Na'aran synagogue, near Jericho, West Bank",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["zodiac", "synagogue mosaic", "helios", "four seasons", "jewish art", "iconoclasm", "hebrew labels", "celestial wheel"],
+   "rights": "CC BY 4.0 (photo: Bukvoed). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jericho-2-152-naaran-synagogue.jpg",
+   "summary": "The damaged zodiac floor of the Na'aran synagogue near Jericho, whose figural imagery was systematically defaced in antiquity.\n\n## Iconography\nThe surviving outlines show the familiar wheel of twelve [[motif:zodiac|zodiac]] signs around a central [[motif:helios|Helios]] medallion, with seasons in the corners and Hebrew labels. Crucially, the animal and human figures have been picked out and removed by later hands while the Hebrew inscriptions were left intact — a vivid record of an iconoclastic episode within the Jewish community.\n\n## Significance\nNa'aran (biblical Naarah) demonstrates both the wide diffusion of the Helios-zodiac scheme and the later ambivalence toward figural art. The deliberate sparing of text over image is often cited in discussions of Jewish (and parallel Byzantine) iconoclasm. The site was first uncovered during World War I when a shell exposed the mosaic.\n\n## For artists & game designers\nThe deliberately effaced figures are a striking 'censored relic' aesthetic — a once-rich image reduced to ghosted outlines and surviving captions.",
+   "citations": [
+    {"text": "Rachel Hachlili, *Ancient Mosaic Pavements* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Jericho-2-152-naaran-synagogue.jpg"}
+   ],
+   "key_concepts": ["Na'aran", "synagogue zodiac", "iconoclasm", "Helios medallion"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__mithras-tauroctony",
+   "title": "Bronze plaque of Mithras slaying the bull (tauroctony)",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Anonymous (Roman Empire)",
+   "date": "2nd–3rd c. CE",
+   "place": "Roman Empire (now Metropolitan Museum of Art, New York)",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["tauroctony", "mithras", "bull-slaying", "scorpion", "dog", "serpent", "raven", "cosmic sacrifice"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bronze_plaque_of_Mithras_slaying_the_bull_MET_DP119236.jpg",
+   "summary": "A bronze cult plaque of the tauroctony — Mithras killing the cosmic bull — the central icon of the Roman mystery cult and an encoded star map.\n\n## Iconography\n[[motif:mithras|Mithras]], in Phrygian cap and billowing cloak, kneels on the [[motif:bull-slaying|bull]] and plunges a dagger into its neck. A [[motif:dog|dog]] and [[motif:serpent|serpent]] lap the blood, a [[motif:scorpion|scorpion]] grips the bull's genitals, a raven perches above, and the twin torchbearers Cautes and Cautopates flank the scene; the bust of Sol and Luna occupy the upper corners.\n\n## Significance\nSince Karl Stark (1869) and especially David Ulansey's *Origins of the Mithraic Mysteries* (1989), the tauroctony has been read as a celestial diagram: bull = Taurus, dog = Canis, serpent = Hydra, scorpion = Scorpius, raven = Corvus — the constellations along the celestial equator at a former spring equinox, with Mithras as the power that moves the cosmos (the precession of the equinoxes). The reading remains debated but dominant.\n\n## For artists & game designers\nEvery element is a constellation cipher — a template for designing 'a scene that is secretly a star map' that rewards the player who decodes it.",
+   "citations": [
+    {"text": "David Ulansey, *The Origins of the Mithraic Mysteries* (1989)."},
+    {"text": "Manfred Clauss, *The Roman Cult of Mithras* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bronze_plaque_of_Mithras_slaying_the_bull_MET_DP119236.jpg"}
+   ],
+   "key_concepts": ["tauroctony", "Mithraic mysteries", "celestial map", "precession of the equinoxes"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__mithras-zodiac-relief",
+   "title": "Walbrook Mithraeum marble tauroctony with zodiac border",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Anonymous (Roman Britain); photograph by Carole Raddato",
+   "date": "c. 180–220 CE",
+   "place": "Walbrook Mithraeum, Londinium (now Museum of London)",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["tauroctony", "mithras", "zodiac", "bull-slaying", "cautes", "cautopates", "sol and luna", "marble relief"],
+   "rights": "CC BY-SA 2.0 (photo: Carole Raddato). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:White_marble_relief_with_Mithras_bull-slaying_scene_(CIMRM_810-811),_from_Walbrook_Mithraeum_in_Londinium,,_AD_180-220,_Museum_of_London_(14007820699).jpg",
+   "summary": "A white-marble tauroctony from the London Walbrook Mithraeum (CIMRM 810-811) whose roundel is encircled by a band of the twelve zodiac signs.\n\n## Iconography\nThe central medallion holds the standard [[motif:tauroctony|tauroctony]]: [[motif:mithras|Mithras]] slaying the [[motif:bull-slaying|bull]] with dog, serpent and scorpion, flanked by Cautes and Cautopates and the busts of Sol and Luna. Running around the medallion is a continuous ring of the twelve [[motif:zodiac|zodiac]] signs, making explicit the cosmological reading that is only implicit in plainer tauroctonies.\n\n## Significance\nCatalogued in Vermaseren's *Corpus Inscriptionum et Monumentorum Religionis Mithriacae* (CIMRM), the relief was found in the 1954 excavation of the Temple of Mithras beside the Walbrook stream. The encircling zodiac frames the bull-slaying as an event at the centre of the turning heavens, supporting astronomical interpretations of the cult.\n\n## For artists & game designers\nA central action-scene wrapped in a zodiac ring is a clean composition for a 'cosmic event at the hub of the wheel of the year'.",
+   "citations": [
+    {"text": "M. J. Vermaseren, *Corpus Inscriptionum et Monumentorum Religionis Mithriacae* (1956–60)."},
+    {"text": "John Shepherd, *The Temple of Mithras, London* (1998)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:White_marble_relief_with_Mithras_bull-slaying_scene_(CIMRM_810-811),_from_Walbrook_Mithraeum_in_Londinium,,_AD_180-220,_Museum_of_London_(14007820699).jpg"}
+   ],
+   "key_concepts": ["Walbrook Mithraeum", "tauroctony with zodiac", "CIMRM", "Roman Britain"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__mithraeum-marino",
+   "title": "Marino Mithraeum fresco of the tauroctony",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Anonymous (Roman Empire)",
+   "date": "2nd–3rd c. CE",
+   "place": "Mithraeum of Marino, Lazio, Italy",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["tauroctony", "mithras", "fresco", "bull-slaying", "cautes", "cautopates", "cave cosmos", "mystery cult"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fresque_Mithraeum_Marino.jpg",
+   "summary": "One of the few painted tauroctonies to survive in situ, the fresco of the Marino Mithraeum preserves the colour and narrative side-panels lost on stone reliefs.\n\n## Iconography\nThe back wall of the cave-sanctuary shows [[motif:mithras|Mithras]] in red cloak and Phrygian cap performing the [[motif:tauroctony|bull-slaying]], with the dog, serpent and scorpion, Sol and Luna above, and the torchbearers [[motif:cautes|Cautes]] and Cautopates. Small lateral scenes narrate the cult myth — Mithras born from rock, hunting and feasting with Sol — that fuller monuments only hint at.\n\n## Significance\nDiscovered in 1962, the Marino sanctuary is prized because painted Mithraea are rare; the colours and the framing narrative episodes give a sense of how initiates experienced the *spelaeum* (cave) as a model of the cosmos. It complements the sculpted tauroctonies that dominate the corpus.\n\n## For artists & game designers\nThe cave-temple with a painted cosmic scene and side-panel 'myth comics' is a ready environment design for an underground cult shrine.",
+   "citations": [
+    {"text": "Manfred Clauss, *The Roman Cult of Mithras* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fresque_Mithraeum_Marino.jpg"}
+   ],
+   "key_concepts": ["Marino Mithraeum", "painted tauroctony", "spelaeum", "Mithraic myth cycle"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__mithraic-leontocephaline",
+   "title": "Mithraic leontocephaline (Chronos-Aion) — 19th-c. drawing of the Vienne relief",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Drawing after the Roman relief (perhaps Félix Lajard, 19th c.)",
+   "date": "Roman original 2nd–3rd c. CE; drawing 19th c.",
+   "place": "relief from Vienne, France (Musée Saint-Pierre); drawing 19th c.",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["leontocephaline", "lion-headed god", "aion", "zodiac", "serpent coils", "wings", "keys", "time deity"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mithraic_relief_of_Chronos-Aion_(Vienne,_Mus_St-Pierre_R_2001-5-131)_-_19th_c._drawing.jpg",
+   "summary": "A 19th-century engraving recording a Mithraic relief of the lion-headed god — the leontocephaline, identified with Aion or Zurvan, the deity of cosmic time — from Vienne in Gaul.\n\n## Iconography\nThe winged, [[motif:lion-headed god|lion-headed]] figure stands frontally, entwined from foot to head by a [[motif:serpent coils|serpent]] whose coils mark the path of the sun. He holds [[motif:keys|keys]] and a sceptre, and his body or surrounding frame carries the signs of the [[motif:zodiac|zodiac]]; the wings often bear the four seasons. The serpent's spiralling course evokes the ecliptic and the turning year.\n\n## Significance\nThe leontocephaline is the most enigmatic Mithraic image. Franz Cumont linked it to Zurvan/[[motif:aion|Aion]], boundless Time; later scholars (R. L. Gordon, Howard Jackson) debate whether it personifies Time, the cosmos, or a guardian of the gates of the heavens. The keys associate him with control over the soul's passage through the planetary spheres.\n\n## For artists & game designers\nA serpent-wound, lion-headed, key-bearing 'lord of time' is a complete boss or gatekeeper design encoding the zodiac on its very body.",
+   "citations": [
+    {"text": "Franz Cumont, *Textes et monuments figurés relatifs aux mystères de Mithra* (1896–99)."},
+    {"text": "Howard M. Jackson, 'The Meaning and Function of the Leontocephaline', *Numen* (1985)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mithraic_relief_of_Chronos-Aion_(Vienne,_Mus_St-Pierre_R_2001-5-131)_-_19th_c._drawing.jpg"}
+   ],
+   "key_concepts": ["leontocephaline", "Aion / Zurvan", "cosmic time", "Mithraic cosmology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__farnese-atlas",
+   "title": "Farnese Atlas — celestial globe (Naples)",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Anonymous (Roman copy after a Hellenistic original); photo by Lalupa",
+   "date": "2nd c. CE (after a Hellenistic prototype)",
+   "place": "Roman copy (now Museo Archeologico Nazionale, Naples)",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["celestial globe", "atlas", "constellations", "zodiac", "ecliptic", "titan", "star map", "hellenistic astronomy"],
+   "rights": "CC BY-SA 4.0 (photo: Lalupa). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:MAN_Atlante_fronte_1040572.JPG",
+   "summary": "A Roman marble statue of the Titan Atlas stooping under a celestial globe — the oldest surviving depiction of the classical Greek constellations as a set.\n\n## Iconography\nThe kneeling [[motif:atlas|Atlas]] bears on his shoulders a sphere carved in relief with some 41 [[motif:constellations|constellations]] as their mythological figures, together with the celestial circles — equator, tropics, [[motif:ecliptic|ecliptic]] band of the [[motif:zodiac|zodiac]], and colures. The stars themselves are not marked; the globe shows the constellation figures and the coordinate grid.\n\n## Significance\nBradley Schaefer (2005) argued that the constellation positions encode the star catalogue of Hipparchus (c. 129 BCE), making the globe a witness to lost Hellenistic astronomy — a claim that remains contested. Either way the Farnese Atlas is the principal visual source for the pre-Ptolemaic Greek sky and the canonical 48 constellations.\n\n## For artists & game designers\nA figure straining beneath a carved star-globe is the archetypal 'world-bearer' prop and a literal, sculptable celestial sphere.",
+   "citations": [
+    {"text": "Bradley E. Schaefer, 'The Epoch of the Constellations on the Farnese Atlas', *Journal for the History of Astronomy* (2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:MAN_Atlante_fronte_1040572.JPG"}
+   ],
+   "key_concepts": ["Farnese Atlas", "celestial globe", "Greek constellations", "Hipparchus catalogue"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__roman-zodiac-relief",
+   "title": "Roman relief — attendant of Mithras with signs of the zodiac (Walters)",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Anonymous (Roman Empire)",
+   "date": "2nd–3rd c. CE",
+   "place": "Roman Empire (now Walters Art Museum, Baltimore)",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["zodiac", "mithras", "torchbearer", "cautes", "marble relief", "celestial signs", "mystery cult", "astral attendant"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Roman_-_Attendant_of_Mithras_with_Signs_of_the_Zodiac_-_Walters_23238.jpg",
+   "summary": "A Roman marble relief of a Mithraic torchbearer surrounded by the signs of the zodiac, linking the cult's attendant figures to the cosmic frame.\n\n## Iconography\nA standing [[motif:torchbearer|torchbearer]] — one of the twin attendants [[motif:cautes|Cautes]] or Cautopates who flank Mithras — is shown amid carved [[motif:zodiac|zodiac]] signs. The torchbearers personify the rising and setting sun (the equinoxes), so their pairing with the zodiacal band reinforces the astral symbolism that pervades Mithraic art.\n\n## Significance\nHeld by the Walters Art Museum, the relief illustrates how thoroughly the zodiac saturated Mithraic iconography beyond the central tauroctony. Cautes (torch up) and Cautopates (torch down) embody the ascending and descending courses of the sun across the ecliptic, a reading developed in the cosmological studies of Roger Beck and others.\n\n## For artists & game designers\nA single attendant figure framed by zodiac signs is an economical way to signal 'this minor character belongs to a cosmic order'.",
+   "citations": [
+    {"text": "Roger Beck, *The Religion of the Mithras Cult in the Roman Empire* (2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Roman_-_Attendant_of_Mithras_with_Signs_of_the_Zodiac_-_Walters_23238.jpg"}
+   ],
+   "key_concepts": ["Mithraic torchbearer", "Cautes and Cautopates", "zodiac relief", "equinoxes"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__senenmut-ceiling",
+   "title": "Astronomical ceiling, Tomb of Senenmut (facsimile, MET)",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Charles Wilkinson (facsimile) after the New Kingdom original",
+   "date": "original c. 1479–1458 BCE (18th Dynasty); facsimile 20th c.",
+   "place": "Tomb of Senenmut (TT353), Deir el-Bahari, Egypt; facsimile at the Met",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["egyptian astronomy", "decans", "lunar months", "constellations", "star clock", "sah orion", "tomb ceiling", "new kingdom"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Astronomical_Ceiling,_Tomb_of_Senenmut_MET_DT207429.jpg",
+   "summary": "A Metropolitan Museum facsimile of the earliest known star map ceiling, from the tomb of Senenmut, steward of Queen Hatshepsut.\n\n## Iconography\nThe ceiling is divided into a southern and northern panel. The southern half charts the [[motif:decans|decans]] and the deities of the planets and of [[motif:sah orion|Sah]] (Orion) and Sopdet (Sirius); the northern half shows the circumpolar constellations grouped around a central bull's-leg (Meskhetiu, the Great Bear) and a grid of the lunar months. The figures double as a star-clock for the night hours.\n\n## Significance\nDated to the early 15th century BCE, this is the oldest surviving Egyptian astronomical ceiling and a foundational document of [[motif:egyptian astronomy|Egyptian sky-lore]]. Neugebauer and Parker analysed its decanal lists; it predates the Greek zodiac and shows the indigenous Egyptian framework that the Dendera zodiac would later fuse with Hellenistic signs.\n\n## For artists & game designers\nA grid of star-deities and a bull's-leg pole make an authentically pre-zodiacal 'sky table' — useful when you want a star map that feels older than the familiar twelve signs.",
+   "citations": [
+    {"text": "Otto Neugebauer & Richard Parker, *Egyptian Astronomical Texts* III (1969)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Astronomical_Ceiling,_Tomb_of_Senenmut_MET_DT207429.jpg"}
+   ],
+   "key_concepts": ["Senenmut ceiling", "Egyptian decans", "circumpolar constellations", "star clock"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__antikythera-mechanism",
+   "title": "The Antikythera Mechanism (National Archaeological Museum, Athens)",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Anonymous (Hellenistic Greek); photo by Joyofmuseums",
+   "date": "c. 150–100 BCE",
+   "place": "found in the Antikythera shipwreck (now National Archaeological Museum, Athens)",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["antikythera mechanism", "bronze gears", "zodiac dial", "eclipse prediction", "metonic cycle", "orrery", "hellenistic astronomy", "calendar"],
+   "rights": "CC BY-SA 4.0 (photo: Joyofmuseums). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Antikythera_Mechanism_-_National_Archaeological_Museum,_Athens_by_Joy_of_Museum.jpg",
+   "summary": "The corroded bronze gear-train of the Antikythera mechanism, the earliest known geared astronomical computer, which modelled the heavens against a zodiac dial.\n\n## Iconography\nThe surviving fragments show interlocking [[motif:bronze gears|bronze gears]] and inscribed dial plates. The front dial carried a ring of the twelve [[motif:zodiac|zodiac]] signs against an Egyptian calendar; pointers tracked the sun, moon (with its phase) and very likely the five planets. The back dials displayed the [[motif:metonic cycle|Metonic]] 19-year cycle, the Saros [[motif:eclipse prediction|eclipse]] cycle, and the four-year Olympiad calendar.\n\n## Significance\nRecovered from a 1st-century-BCE shipwreck in 1901 and decoded over the 20th–21st centuries (Derek de Solla Price; the Antikythera Mechanism Research Project), the device proves that Hellenistic astronomers could embody their mathematical astronomy in gearwork — a sophistication not matched again until medieval astronomical clocks.\n\n## For artists & game designers\nA brass orrery with a zodiac face is the definitive 'ancient high-tech' prop — clockwork that predicts eclipses and tracks the planets.",
+   "citations": [
+    {"text": "Derek de Solla Price, *Gears from the Greeks* (1974)."},
+    {"text": "Tony Freeth et al., 'Decoding the Antikythera Mechanism', *Nature* (2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Antikythera_Mechanism_-_National_Archaeological_Museum,_Athens_by_Joy_of_Museum.jpg"}
+   ],
+   "key_concepts": ["Antikythera mechanism", "geared orrery", "zodiac dial", "eclipse prediction"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__palmyra-bel-ceiling",
+   "title": "Temple of Bel, Palmyra — planetary/astral ceiling of the northern thalamos",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Anonymous (Palmyrene); photo by Gerard Degeorge",
+   "date": "1st c. CE",
+   "place": "Temple of Bel, Palmyra, Syria",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["zodiac", "planetary deities", "bel", "coffered ceiling", "celestial dome", "palmyrene", "seven planets", "cosmic order"],
+   "rights": "CC BY-SA 4.0 (photo: Gerard Degeorge). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ceiling_and_Lintel_of_the_northern_thalamos.jpg",
+   "summary": "The carved stone ceiling of the northern shrine (thalamos) of the Temple of Bel at Palmyra, a rare surviving image of the heavens as a coffered cosmic dome.\n\n## Iconography\nThe ceiling is organized as concentric bands within a square: a central rosette ringed by the busts of the [[motif:planetary deities|seven planetary]] gods, enclosed in turn by a band of the twelve [[motif:zodiac|zodiac]] signs. The scheme presents the temple roof as a model of the cosmos, with the planet-gods and zodiac arrayed around the sky's centre above the cult image of [[motif:bel|Bel]].\n\n## Significance\nDating to the early 1st century CE, the Bel ceiling is one of the clearest Near-Eastern statements of the seven-planets-plus-zodiac cosmology, blending Babylonian astral religion with Greco-Roman form. The temple was largely destroyed by ISIS in 2015, making such photographs important records. The astral programme is discussed by Henri Seyrig and later Palmyrene scholarship.\n\n## For artists & game designers\nA coffered ceiling with a planet-and-zodiac ring is a template for a 'cosmic dome' interior — the sky rendered as architecture overhead.",
+   "citations": [
+    {"text": "Henri Seyrig, 'Antiquités syriennes', *Syria* (various)."},
+    {"text": "Andreas Schmidt-Colinet & Khaled al-As'ad, *Palmyra* (2005)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ceiling_and_Lintel_of_the_northern_thalamos.jpg"}
+   ],
+   "key_concepts": ["Temple of Bel", "planetary deities", "zodiac ceiling", "Palmyrene cosmology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "ancient_zodiac__grand-camee",
+   "title": "The Grand Camée de France (Great Cameo of France)",
+   "work": "Astral & Zodiacal Imagery of Antiquity",
+   "creator": "Anonymous (Roman, Julio-Claudian); photo by Carole Raddato",
+   "date": "c. 23 CE",
+   "place": "Roman Empire (now Cabinet des Médailles, BnF, Paris)",
+   "era": "antiquity",
+   "tradition": "astrology",
+   "motifs": ["sardonyx cameo", "apotheosis", "celestial sphere", "imperial cult", "julio-claudian", "astral kingship", "ascension", "carved gem"],
+   "rights": "CC BY-SA 2.0 (photo: Carole Raddato). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Great_Cameo_of_France,_a_five-layered_sardonyx_cameo_divided_into_three_level_and_depicting_members_of_the_Julio-Claudian_dynasty,_circa_23_AD,_Cabinet_des_M%C3%A9dailles,_Paris_(21349353304).jpg",
+   "summary": "The largest cameo to survive from antiquity, a five-layered sardonyx whose three registers stage Julio-Claudian dynastic power as a celestial ascent.\n\n## Iconography\nThe three tiers move from earth to heaven: captives below, the enthroned imperial family in the centre, and in the upper register the [[motif:apotheosis|deified]] Augustus borne aloft amid winged and astral figures — an image of [[motif:astral kingship|astral kingship]] in which the dead emperor joins the stars. The carving exploits the layered sardonyx for tonal contrast between figures and ground.\n\n## Significance\nDated about 23 CE, the *Gemma Tiberiana* embodies the Roman ideology of *catasterism* — the ruler translated to the heavens — that underlies imperial astral propaganda from Caesar's comet onward. It passed through the Sainte-Chapelle treasury and is now in the BnF. The dynastic identifications are debated, but the cosmic-apotheosis programme is clear.\n\n## For artists & game designers\nA three-tier composition (underworld / mortal / celestial) on a single carved gem is a compact way to show a vertical cosmos and a soul's ascent to the stars.",
+   "citations": [
+    {"text": "Wolf-Rüdiger Megow, *Kameen von Augustus bis Alexander Severus* (1987)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Great_Cameo_of_France,_a_five-layered_sardonyx_cameo_divided_into_three_level_and_depicting_members_of_the_Julio-Claudian_dynasty,_circa_23_AD,_Cabinet_des_M%C3%A9dailles,_Paris_(21349353304).jpg"}
+   ],
+   "key_concepts": ["Grand Camée de France", "imperial apotheosis", "catasterism", "astral kingship"],
+   "summary_status": "authored"
+  }
+ ]
+}

@@ -1,0 +1,811 @@
+{
+ "_work": {
+  "key": "magical_characters",
+  "short_id": "MCHR",
+  "title": "Charaktêres & Magical Sign-Systems",
+  "creator": "various",
+  "date": "2nd c. BCE – 19th c. CE",
+  "century": 4,
+  "place": "Mediterranean and Western Europe",
+  "region": "Mediterranean",
+  "language": "Greek, Latin, Coptic, Hebrew",
+  "era": "antiquity",
+  "tradition": "goetia_grimoire",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "magical_characters",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Magical_symbols",
+  "rights": "Public domain / CC0 / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "charakteres",
+   "ring-letters",
+   "magical alphabet",
+   "planetary seal",
+   "curse tablet",
+   "voces magicae"
+  ],
+  "blurb": "The ring-letter signs (charaktêres) of the Greek Magical Papyri and their long descendants: the looped 'spectacle-letter' signs on PGM papyri, curse tablets and engraved gems of the Greco-Roman world; the magical alphabets of the Renaissance grimoires (Theban, Celestial, Malachim, Transitus Fluvii); the magic-square-derived planetary seals; and the character-diagrams of John Dee. A single tradition of writing meant not to be read but to compel."
+ },
+ "entries": [
+  {
+   "id": "magical_characters__pgm-louvre-papyrus",
+   "title": "Graeco-Egyptian Magical Papyrus (Louvre)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Anonymous (Greco-Egyptian)",
+   "date": "Roman Egypt, 1st–4th c. CE",
+   "place": "Egypt",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": [
+    "magical papyrus",
+    "charakteres",
+    "voces magicae",
+    "rubrication",
+    "recipe",
+    "demotic greek coptic",
+    "ritual formula",
+    "invocation"
+   ],
+   "rights": "CC BY-SA 4.0 (Aktiophis). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Graeco-Egyptian_Magical_Papyrus_I;_Louvre;_Roman_Epoch;_30-395_AD;Demotic,_Greek,Coptic;_Various_Recipes;_Magical_Formulars_are_written_Red.jpg",
+   "summary": "A leaf of Greco-Egyptian magical recipes from Roman Egypt, of the kind gathered into the modern corpus of the *Papyri Graecae Magicae* (PGM).\n\n## Iconography\nColumns of Greek script mix Demotic and Coptic, with the operative magical formulae picked out in red ink (rubrication). Interspersed are strings of [[motif:voces magicae|voces magicae]] — untranslatable power-names — and the looped, serif-tipped signs known as [[motif:charakteres|charaktêres]], the 'ring-letters' that resemble Greek letters tied off with small circles.\n\n## Significance\nThe PGM, assembled and edited by Karl Preisendanz, preserve the working handbooks of late-antique ritual practitioners. The charaktêres are their signature feature: signs not meant to be read aloud but to act directly, binding gods and daemons by their mere inscription. They descend, in part, from Egyptian and Mesopotamian sign-magic and feed forward into the seals of the medieval grimoires.\n\n## For artists & game designers\nUse rubricated power-words breaking into looped sigils to signal a spell that is being *executed*, not merely spoken.",
+   "citations": [
+    {
+     "text": "Hans Dieter Betz (ed.), *The Greek Magical Papyri in Translation* (1986)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Graeco-Egyptian_Magical_Papyrus_I;_Louvre;_Roman_Epoch;_30-395_AD;Demotic,_Greek,Coptic;_Various_Recipes;_Magical_Formulars_are_written_Red.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Greek Magical Papyri",
+    "charakteres",
+    "voces magicae",
+    "ritual handbook"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__defixio-vilbia",
+   "title": "Curse Tablet (Defixio) — the 'Vilbia' Tablet",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Anonymous (Romano-British)",
+   "date": "Roman Britain, 2nd–4th c. CE",
+   "place": "Bath (Aquae Sulis), Britain",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "curse tablet",
+    "defixio",
+    "lead sheet",
+    "binding spell",
+    "retrograde script",
+    "petition",
+    "theft complaint",
+    "Sulis Minerva"
+   ],
+   "rights": "CC BY 2.0 (-JvL-). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A_metal_curse_tablet_(defixio)_with_a_complaint_about_the_theft_of_a_Vilbia.jpg",
+   "summary": "A Romano-British lead *defixio* (binding curse), one of the tablets thrown into the sacred spring at Aquae Sulis (Bath).\n\n## Iconography\nA thin sheet of lead alloy is densely scratched with cursive Latin. The famous text complains of the theft of a 'Vilbia' (perhaps a woman, perhaps an object) and consigns the suspect to the goddess. Some Bath tablets reverse or jumble their letters to render the writing 'magical' and irreversible.\n\n## Significance\nDefixiones are the everyday cousins of the literary [[motif:charakteres|charaktêres]] tradition: ordinary people commissioned them to bind rivals, thieves, and lovers. Roger Tomlin's edition of the Bath tablets revealed a whole vernacular of legal-religious cursing, addressed here to Sulis Minerva. The act of writing — folding, piercing, drowning the tablet — *is* the spell.\n\n## For artists & game designers\nA cursed lead scroll, letters running backwards, sunk in holy water: a tactile artifact of vengeance magic.",
+   "citations": [
+    {
+     "text": "R. S. O. Tomlin, *Tabellae Sulis: Roman Inscribed Tablets from the Sacred Spring at Bath* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:A_metal_curse_tablet_(defixio)_with_a_complaint_about_the_theft_of_a_Vilbia.jpg"
+    }
+   ],
+   "key_concepts": [
+    "defixio",
+    "binding magic",
+    "Aquae Sulis",
+    "Roman curse"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__curse-tablets-bath",
+   "title": "Curse Tablets, Roman Baths (Bath)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Anonymous (Romano-British)",
+   "date": "Roman Britain, 2nd–4th c. CE",
+   "place": "Bath (Aquae Sulis), Britain",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "curse tablet",
+    "defixio",
+    "lead sheet",
+    "sacred spring",
+    "binding spell",
+    "votive deposit",
+    "petition",
+    "ancient magic"
+   ],
+   "rights": "CC BY-SA 4.0 (Joyofmuseums). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Curse_Tablets_-_Roman_Baths_(Bath).jpg",
+   "summary": "A display of inscribed lead *defixiones* recovered from the sacred spring at the Roman Baths, Bath — the largest single corpus of curse tablets from the Roman West.\n\n## Iconography\nSeveral hammered lead-alloy sheets, some still rolled or folded, their surfaces covered in scratched cursive. Petitioners name stolen goods (cloaks, rings, money) and ask the goddess Sulis to afflict the unknown thief until restitution is made.\n\n## Significance\nWhere literary magic prized exotic [[motif:charakteres|charaktêres]], these tablets show the same impulse in plain Latin: writing as binding action. The Bath find (over 130 tablets) reshaped scholarship on lived Roman religion, showing magic and licit piety as a continuum. They were deliberately consigned to water to reach the underworld powers.\n\n## For artists & game designers\nA votive well glinting with folded lead curses is an instant set-piece for a temple of bargained justice.",
+   "citations": [
+    {
+     "text": "R. S. O. Tomlin, *Tabellae Sulis* (1988)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:The_Curse_Tablets_-_Roman_Baths_(Bath).jpg"
+    }
+   ],
+   "key_concepts": [
+    "defixio",
+    "Aquae Sulis",
+    "votive deposit",
+    "Roman religion"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__binding-spell-thessaloniki",
+   "title": "Ancient Greek Binding Spell, Thessaloniki",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Anonymous (Greek)",
+   "date": "4th c. BCE",
+   "place": "Macedonia, Greece",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "katadesmos",
+    "binding spell",
+    "lead tablet",
+    "defixio",
+    "underworld",
+    "incised script",
+    "ancient magic",
+    "curse"
+   ],
+   "rights": "CC BY-SA 4.0 (Gts-tg). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ancient_Greek_binding_spell,_4th_century_B.C.,_Archaeological_Museum_of_Thessaloniki.jpg",
+   "summary": "A Greek *katadesmos* (binding spell) inscribed on lead, 4th century BCE, in the Archaeological Museum of Thessaloniki — among the oldest physical witnesses to the binding tradition.\n\n## Iconography\nA small lead tablet incised with lines of early Greek script. Such tablets were typically rolled, pierced with a nail, and deposited in graves or chthonic sanctuaries so the named victim would be 'bound' before the powers below.\n\n## Significance\nThe Greek *katadesmoi* are the deep root of the whole defixio and [[motif:charakteres|charaktêres]] complex later elaborated in the [[motif:magical papyrus|Greek Magical Papyri]]. Christopher Faraone's studies classify their aims — judicial, erotic, competitive, commercial — and show how the physical manipulation of the tablet enacted the curse. Here the sign-system is still ordinary Greek, before the looped charaktêres proliferated.\n\n## For artists & game designers\nThe ur-form of the curse object: a nail-pierced lead roll buried with the dead.",
+   "citations": [
+    {
+     "text": "Christopher A. Faraone, 'The Agonistic Context of Early Greek Binding Spells', in *Magika Hiera* (1991)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Ancient_Greek_binding_spell,_4th_century_B.C.,_Archaeological_Museum_of_Thessaloniki.jpg"
+    }
+   ],
+   "key_concepts": [
+    "katadesmos",
+    "binding spell",
+    "Greek magic",
+    "chthonic ritual"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__anguipede-gem-met",
+   "title": "Jasper Intaglio: Cock-Headed Anguipede (Abrasax)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Anonymous (Greco-Roman Egypt)",
+   "date": "Roman Imperial, 2nd–3rd c. CE",
+   "place": "Eastern Mediterranean",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": [
+    "magical gem",
+    "anguipede",
+    "Abrasax",
+    "cock-headed",
+    "intaglio",
+    "voces magicae",
+    "Iao",
+    "amulet"
+   ],
+   "rights": "CC0 (The Metropolitan Museum of Art). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Jasper_intaglio-_Cock-headed_anguipede_MET_DP280578.jpg",
+   "summary": "A carved jasper magical gem in the Metropolitan Museum showing the cock-headed, serpent-legged 'anguipede' deity associated with the name Abrasax (Abraxas).\n\n## Iconography\nThe central figure has a rooster's head, an armoured human torso bearing a shield and whip, and two serpents for legs. Around it run Greek letters — the name IAΩ (Iao) and other [[motif:voces magicae|voces magicae]] — turning the gem into a wearable amulet.\n\n## Significance\nThese 'Gnostic' or 'Abrasax' gems are among the densest carriers of magical letter-power in antiquity. The figure unites solar (cock), martial (shield/whip) and chthonic (serpents) forces; its inscribed names function like [[motif:charakteres|charaktêres]], compelling protection. Campbell Bonner's *Studies in Magical Amulets* remains the foundational catalogue. The name Abrasax famously totals 365 in Greek isopsephy.\n\n## For artists & game designers\nA pocket-sized guardian glyph: composite beast plus a halo of power-letters.",
+   "citations": [
+    {
+     "text": "Campbell Bonner, *Studies in Magical Amulets, Chiefly Graeco-Egyptian* (1950)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jasper_intaglio-_Cock-headed_anguipede_MET_DP280578.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Abrasax",
+    "magical gem",
+    "anguipede",
+    "voces magicae"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__anguipede-gem-inscription",
+   "title": "Imperial Gem: Anguipede with Shield and Inscription (Jasper)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Anonymous (Roman Imperial)",
+   "date": "2nd–4th c. CE",
+   "place": "Mediterranean",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": [
+    "magical gem",
+    "anguipede",
+    "Abrasax",
+    "jasper intaglio",
+    "shield",
+    "Greek inscription",
+    "amulet",
+    "voces magicae"
+   ],
+   "rights": "CC BY-SA 4.0 (Sailko). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Et%C3%A0_imperiale,_gemma_con_anguipede_alectriocefalo_con_scudo_e_iscrizione,_II-IV_secolo_ca.,_in_diaspro.jpg",
+   "summary": "A Roman Imperial jasper (*diaspro*) gem carved with the alectryocephalous (cock-headed) anguipede, bearing a shield and an engraved Greek inscription.\n\n## Iconography\nThe serpent-legged warrior holds a round shield, often itself inscribed; the field around the figure carries [[motif:voces magicae|voces magicae]] and isolated [[motif:charakteres|charaktêres]]. The hard green jasper was chosen for its apotropaic and medical associations.\n\n## Significance\nThis is the standard amuletic type studied under the heading 'Abraxas stones'. Their inscriptions weld image and letter-magic: the deity is named and bound on the same stone that displays him. Such gems travelled across the Roman world and were reused into the Middle Ages as wonder-objects. They anchor the antique end of the charaktêres lineage that the grimoires later inherited.\n\n## For artists & game designers\nA glowing green talisman whose carved guardian and shield-letters both 'face' the wearer's enemies.",
+   "citations": [
+    {
+     "text": "Campbell Bonner, *Studies in Magical Amulets, Chiefly Graeco-Egyptian* (1950)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Et%C3%A0_imperiale,_gemma_con_anguipede_alectriocefalo_con_scudo_e_iscrizione,_II-IV_secolo_ca.,_in_diaspro.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Abrasax",
+    "magical gem",
+    "anguipede",
+    "jasper amulet"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__gnostic-gem-walters",
+   "title": "Gnostic Gem with Scarab (Walters)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Anonymous (Egypt)",
+   "date": "Greco-Roman Egypt",
+   "place": "Egypt",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": [
+    "magical gem",
+    "scarab",
+    "Gnostic amulet",
+    "intaglio",
+    "voces magicae",
+    "solar symbol",
+    "amulet",
+    "charakteres"
+   ],
+   "rights": "Public domain (The Walters Art Museum). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Gnostic_Gem_with_Scarab_-_Walters_42872.jpg",
+   "summary": "A so-called 'Gnostic' magical gem in the Walters Art Museum, carved with a scarab and surrounded by magical letters.\n\n## Iconography\nThe oval stone shows a central scarab beetle — the Egyptian Khepri, sign of the rising sun and self-renewal — ringed by Greek [[motif:voces magicae|voces magicae]] and small [[motif:charakteres|charaktêres]]. The reverse and sides carry further inscriptions, so the whole object is a continuous field of writing.\n\n## Significance\nGems like this fuse pharaonic solar symbolism with Greek letter-magic, the hallmark of Greco-Roman Egyptian amulet workshops. The label 'Gnostic' is a 19th-century convenience; modern scholarship (Bonner; Michel) treats them simply as magical amulets. The scarab carries the regenerative solar power that the inscribed names are meant to channel toward the wearer's health and protection.\n\n## For artists & game designers\nA reborn-sun motif (scarab) encircled by living letters: an amulet of renewal and warding.",
+   "citations": [
+    {
+     "text": "Simone Michel, *Die magischen Gemmen* (2004)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Gnostic_Gem_with_Scarab_-_Walters_42872.jpg"
+    }
+   ],
+   "key_concepts": [
+    "magical gem",
+    "scarab",
+    "Khepri",
+    "Greco-Egyptian amulet"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__roman-lamella",
+   "title": "Gold Roman Lamella (Amulet Sheet), South Oxfordshire",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Anonymous (Romano-British)",
+   "date": "Roman, 1st–3rd c. CE",
+   "place": "Britain",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "lamella",
+    "gold sheet",
+    "amulet",
+    "charakteres",
+    "voces magicae",
+    "protective spell",
+    "rolled tablet",
+    "phylactery"
+   ],
+   "rights": "CC BY-SA 2.0 (Portable Antiquities Scheme / A. Byard). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:South_Oxfordshire,_Gold_Roman_lamella,_unrolled_(FindID_260776).jpg",
+   "summary": "An unrolled gold *lamella* — a thin inscribed amulet sheet — recorded by the Portable Antiquities Scheme from South Oxfordshire.\n\n## Iconography\nThe narrow gold strip is incised with lines of script that include power-names and [[motif:charakteres|charaktêres]]. Worn rolled inside a tubular case (a phylactery) around the neck, it was a protective device rather than a curse.\n\n## Significance\nGold and silver *lamellae* are the 'positive' counterpart of the lead defixio: the same letter-magic deployed for protection and healing instead of binding. Roy Kotansky's *Greek Magical Amulets* gathers the corpus; many carry the very strings of voces magicae found in the [[motif:magical papyrus|PGM]]. Their survival in Roman Britain shows how far this Mediterranean sign-magic travelled with the army and trade.\n\n## For artists & game designers\nA rolled gold talisman in a tube-charm: a wearable spell that protects rather than harms.",
+   "citations": [
+    {
+     "text": "Roy Kotansky, *Greek Magical Amulets* (1994)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:South_Oxfordshire,_Gold_Roman_lamella,_unrolled_(FindID_260776).jpg"
+    }
+   ],
+   "key_concepts": [
+    "lamella",
+    "phylactery",
+    "protective amulet",
+    "charakteres"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__sator-square-pompeii",
+   "title": "Sator Square, Palaestra of Pompeii",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Anonymous (Roman)",
+   "date": "before 79 CE",
+   "place": "Pompeii, Italy",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "sator square",
+    "word square",
+    "palindrome",
+    "graffito",
+    "letter magic",
+    "apotropaic",
+    "rotas",
+    "inscription"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sator_Square_Palestra_Pompeii_(CIL_8623_%26_8622a-b).jpg",
+   "summary": "The SATOR–AREPO–TENET–OPERA–ROTAS word-square as scratched in the palaestra at Pompeii — the earliest securely datable example, before the eruption of 79 CE.\n\n## Iconography\nFive five-letter Latin words form a 5×5 grid that reads identically across, down, and in reverse (a perfect palindromic square). TENET makes a cross at its centre. The drawing reproduces the Pompeian graffito (CIL IV 8623).\n\n## Significance\nThe Sator square is the most famous Western 'magic word-square', deployed for centuries as an apotropaic and healing charm (against fire, fever, madness). Its meaning is debated — an anagram of *Pater Noster* with Alpha-Omega has been proposed, but the Pompeian date complicates any purely Christian reading. As pure letter-magic arranged on a grid it is a conceptual cousin of the planetary [[motif:magic square|magic squares]] and the [[motif:charakteres|charaktêres]].\n\n## For artists & game designers\nA self-mirroring word-grid is an elegant ward to carve over a doorway or onto an amulet.",
+   "citations": [
+    {
+     "text": "Duncan Fishwick, 'On the Origin of the Rotas-Sator Square', *Harvard Theological Review* (1964)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Sator_Square_Palestra_Pompeii_(CIL_8623_%26_8622a-b).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Sator square",
+    "palindrome charm",
+    "apotropaic magic",
+    "letter square"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__coptic-magical-text",
+   "title": "Coptic Magical Text (fol. 599v)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Anonymous (Coptic Egypt)",
+   "date": "Late antique / early medieval Egypt",
+   "place": "Egypt",
+   "era": "antiquity",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "Coptic magic",
+    "charakteres",
+    "ring-letters",
+    "ritual drawing",
+    "voces magicae",
+    "spell",
+    "apis",
+    "manuscript"
+   ],
+   "rights": "CC BY 3.0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Coptic_magical_text_599v_apis.jpg",
+   "summary": "A page from a Coptic magical handbook, showing a ritual drawing accompanied by charaktêres and power-names.\n\n## Iconography\nThe leaf combines Coptic script with a schematic figure and a row of looped, ring-tipped signs — the [[motif:charakteres|charaktêres]] inherited directly from the Greek magical tradition. The associated image (here tied to 'apis') is part of the operative apparatus of the spell.\n\n## Significance\nCoptic magical texts (4th–11th c.) carry the Greco-Egyptian charaktêres tradition into Christian Egypt, blending biblical names, angels, and older daemonic formulae. The ongoing *Coptic Magical Papyri* project (Brigitte Bardel, Korshi Dosoo and colleagues) is re-editing this corpus, which shows the sign-magic surviving the religious shift largely intact — the charaktêres remained efficacious whatever the surrounding faith.\n\n## For artists & game designers\nProof that a magical alphabet can outlast the religion that birthed it — reuse the same sigils in a new pantheon.",
+   "citations": [
+    {
+     "text": "Marvin Meyer & Richard Smith (eds.), *Ancient Christian Magic: Coptic Texts of Ritual Power* (1994)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Coptic_magical_text_599v_apis.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Coptic magic",
+    "charakteres",
+    "ritual power",
+    "Christian Egypt"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__theban-trithemius",
+   "title": "Theban Alphabet (Trithemius, 1518)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Johannes Trithemius",
+   "date": "1518 (Polygraphia)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "magical alphabet",
+    "Theban alphabet",
+    "Honorian script",
+    "cipher",
+    "letter table",
+    "occult writing",
+    "witches alphabet",
+    "transliteration"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Theban_alphabet_Trithemius_1518.png",
+   "summary": "The Theban alphabet as printed in Johannes Trithemius's *Polygraphia* (1518), the earliest dated appearance of the script later called the 'witches' alphabet'.\n\n## Iconography\nA table pairs each Latin letter with a curling Theban equivalent — looped, hooked forms with a small terminal flag. Trithemius attributes it to 'Honorius of Thebes', giving it its alternative name, the Honorian alphabet.\n\n## Significance\nThe Theban alphabet is a one-to-one cipher of the Latin alphabet, not a true language; its value was concealment and ritual mystique. Agrippa reproduced it in *De occulta philosophia* (1533), and through later grimoires and Gardnerian Wicca it became the modern 'witches' alphabet'. Its forms clearly descend in spirit from the antique [[motif:charakteres|charaktêres]] — letters reshaped to look powerful and secret.\n\n## For artists & game designers\nA ready-made substitution cipher: inscribe any phrase in Theban for instant occult flavour that fans can still decode.",
+   "citations": [
+    {
+     "text": "Johannes Trithemius, *Polygraphiae libri sex* (1518)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Theban_alphabet_Trithemius_1518.png"
+    }
+   ],
+   "key_concepts": [
+    "Theban alphabet",
+    "Honorian script",
+    "magical cipher",
+    "Trithemius"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__theban-agrippa",
+   "title": "Theban Alphabet (Agrippa, De occulta philosophia, 1533)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Heinrich Cornelius Agrippa",
+   "date": "1533 (De occulta philosophia, Book III)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "magical alphabet",
+    "Theban alphabet",
+    "letter table",
+    "occult writing",
+    "Honorian script",
+    "cipher",
+    "angelic writing",
+    "correspondences"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Theban_alphabet_from_De_Occulta_Philosophia_1533.png",
+   "summary": "The Theban alphabet as set out in Heinrich Cornelius Agrippa's *De occulta philosophia libri tres* (1533), Book III — the printing that canonised it for the magical tradition.\n\n## Iconography\nA horizontal table presents the Latin letters above their looping Theban counterparts. Agrippa places it among his discussions of the several 'scripts of the angels' used to inscribe names and seals.\n\n## Significance\nIn Book III Agrippa gathers the magical alphabets — Theban (Honorian), Celestial, Malachim, and the Transitus Fluvii — as legitimate ritual scripts for writing divine and angelic names onto talismans. His authority spread the [[motif:Theban alphabet|Theban alphabet]] across two centuries of grimoire literature. The alphabets express his doctrine of [[motif:correspondences|correspondences]]: the right letters, like the right numbers, channel celestial virtue.\n\n## For artists & game designers\nPair this with the other Agrippan scripts to give each angelic order its own distinct hand.",
+   "citations": [
+    {
+     "text": "H. C. Agrippa, *De occulta philosophia libri tres*, Book III (1533)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Theban_alphabet_from_De_Occulta_Philosophia_1533.png"
+    }
+   ],
+   "key_concepts": [
+    "Theban alphabet",
+    "magical alphabets",
+    "Agrippa",
+    "angelic script"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__theban-alphabet",
+   "title": "Theban Alphabet (Barrett, The Magus)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Francis Barrett",
+   "date": "1801 (The Magus)",
+   "place": "England",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "magical alphabet",
+    "Theban alphabet",
+    "witches alphabet",
+    "occult revival",
+    "letter table",
+    "cipher",
+    "Honorian script",
+    "engraving"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Theban_alphabet_-_The_Magus.jpg",
+   "summary": "The Theban alphabet as engraved in Francis Barrett's *The Magus, or Celestial Intelligencer* (1801), the compilation that carried Renaissance magic into the modern occult revival.\n\n## Iconography\nAn engraved plate ranges the Latin letters against their flowing Theban forms in a clean copperplate hand, sharper and more decorative than the older woodcuts.\n\n## Significance\nBarrett's *The Magus* lifted much of its material from Agrippa, and its handsome plates — including this [[motif:Theban alphabet|Theban alphabet]] — became the direct sources for 19th- and 20th-century magicians and, eventually, Wicca's 'witches' alphabet'. The same antique [[motif:charakteres|charaktêres]] impulse thus reaches the present through this single popularising book.\n\n## For artists & game designers\nThe Barrett engraving is the most reproduction-friendly Theban chart: crisp lines that scale cleanly to UI glyphs.",
+   "citations": [
+    {
+     "text": "Francis Barrett, *The Magus, or Celestial Intelligencer* (1801)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Theban_alphabet_-_The_Magus.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Theban alphabet",
+    "The Magus",
+    "Francis Barrett",
+    "occult revival"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__agrippa-three-alphabets",
+   "title": "Three Magical Alphabets (Agrippa)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Heinrich Cornelius Agrippa",
+   "date": "1533 (De occulta philosophia, Book III)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "magical alphabet",
+    "celestial alphabet",
+    "Malachim",
+    "Transitus Fluvii",
+    "angelic script",
+    "letter table",
+    "occult writing",
+    "Hebrew-derived"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Agrippa_von_Nettesheim_-_3_Alphabets.png",
+   "summary": "Agrippa's plate of three angelic magical alphabets — the Celestial, the Malachim ('of the kings'), and the Transitus Fluvii ('passing the river') — from *De occulta philosophia* (1533).\n\n## Iconography\nThree parallel rows give the same set of letters in three distinct scripts. All share a 'ring-and-rod' construction: strokes terminated by small circles, a stylisation of Hebrew letterforms meant to evoke the writing of angels.\n\n## Significance\nThese three scripts, gathered in Book III, are the canonical [[motif:magical alphabet|magical alphabets]] of Western ceremonial magic. Agrippa held that the heavens themselves are written in such characters (the 'celestial writing' read in the stars), and that copying angelic names in these hands onto talismans drew down their virtue. They are direct heirs of the antique [[motif:charakteres|charaktêres]] — letters reshaped into pure operative signs — and supplied the alphabets used to construct later spirit-seals.\n\n## For artists & game designers\nThree interchangeable angelic fonts: assign one each to a hierarchy of celestial, royal, and liminal beings.",
+   "citations": [
+    {
+     "text": "H. C. Agrippa, *De occulta philosophia libri tres*, Book III (1533)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Agrippa_von_Nettesheim_-_3_Alphabets.png"
+    }
+   ],
+   "key_concepts": [
+    "celestial alphabet",
+    "Malachim",
+    "Transitus Fluvii",
+    "angelic script"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__occult-philosophy-alphabet",
+   "title": "Magical Alphabet Page (Three Books of Occult Philosophy, Bk III)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Heinrich Cornelius Agrippa",
+   "date": "1651 English edition (orig. 1533)",
+   "place": "England / German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "magical alphabet",
+    "angelic script",
+    "letter table",
+    "celestial writing",
+    "occult typography",
+    "talisman names",
+    "correspondences",
+    "printed page"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Three_Books_of_Occult_Philosophy-Book_III-Page_439.jpg",
+   "summary": "A page from Book III of the 1651 English *Three Books of Occult Philosophy* (the J.F. translation of Agrippa), displaying a magical alphabet in print.\n\n## Iconography\nThe typeset page sets Latin letters beside a row of constructed magical characters built from rings and connecting strokes, with explanatory text on how angelic and divine names are to be inscribed.\n\n## Significance\nThe 1651 English Agrippa made these [[motif:magical alphabet|magical alphabets]] available to the Anglophone world and underlies Barrett's later *The Magus*. The page shows how the once-handwritten antique [[motif:charakteres|charaktêres]] were regularised into reproducible type — a key step in their transmission. Agrippa's claim that 'characters and seals' carry real celestial power justified using them on talismans.\n\n## For artists & game designers\nA printed grimoire page is a strong texture asset; the regularised glyph rows read clearly even at small sizes.",
+   "citations": [
+    {
+     "text": "H. C. Agrippa, *Three Books of Occult Philosophy*, trans. J.F. (1651)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Three_Books_of_Occult_Philosophy-Book_III-Page_439.jpg"
+    }
+   ],
+   "key_concepts": [
+    "magical alphabets",
+    "Agrippa English edition",
+    "angelic names",
+    "occult print"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__transitus-aleph",
+   "title": "Transitus Fluvii Letter (Aleph)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "after Francis Barrett / Agrippa",
+   "date": "after 1533; reproduced 1801",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "Transitus Fluvii",
+    "magical alphabet",
+    "passing the river",
+    "Hebrew letter",
+    "aleph",
+    "angelic script",
+    "ring-letter",
+    "sigil"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Transitus-aleph.jpg",
+   "summary": "A single letter — *aleph* — drawn in the Transitus Fluvii ('Passing the River') magical alphabet.\n\n## Iconography\nThe glyph is built from straight strokes capped with small circles, the standard ring-tipped construction of the Renaissance angelic scripts. It corresponds to the first Hebrew letter, aleph.\n\n## Significance\nTransitus Fluvii is one of the three Hebrew-derived [[motif:magical alphabet|magical alphabets]] codified by Agrippa and popularised by Barrett. Its name alludes to crossing the Euphrates, evoking the secret transmission of sacred letters. Because each letter maps to a Hebrew one, the alphabet was used to transliterate divine and angelic names onto seals and talismans, and the individual glyphs function as discrete [[motif:charakteres|charaktêres]] in their own right.\n\n## For artists & game designers\nIsolated like this, a single ring-letter makes a clean, scalable sigil for a rune-stone or spell icon.",
+   "citations": [
+    {
+     "text": "H. C. Agrippa, *De occulta philosophia*, Book III (1533); Francis Barrett, *The Magus* (1801)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Transitus-aleph.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Transitus Fluvii",
+    "magical alphabet",
+    "aleph",
+    "ring-letter"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__harley-magic-seals",
+   "title": "Magic Seals, Harley MS 5596 (fol. 31r)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Anonymous (Byzantine Greek)",
+   "date": "c. 1450",
+   "place": "Eastern Mediterranean",
+   "era": "medieval",
+   "tradition": "goetia_grimoire",
+   "motifs": [
+    "magic seals",
+    "charakteres",
+    "Hygromanteia",
+    "Solomonic magic",
+    "ring-letters",
+    "spirit signs",
+    "manuscript",
+    "sigil"
+   ],
+   "rights": "Public domain (British Library). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Harley_manuscript_MS_5596,_fol._31r_-_ca._1450_-_magic_seals_very_similiar_to_later_Icelandic_magical_staves_(Galdrastafir).jpg",
+   "summary": "A folio of magical seals from British Library Harley MS 5596 (c. 1450), a Byzantine Greek magical handbook of the Solomonic *Hygromanteia* tradition.\n\n## Iconography\nThe page arrays compact circular and cruciform seals built from intersecting strokes and ring-tipped [[motif:charakteres|charaktêres]]. (The uploader notes their resemblance to later Icelandic *galdrastafir* — a parallel, not a derivation.)\n\n## Significance\nHarley 5596 is a key witness to the Greek *Magical Treatise of Solomon* (*Hygromanteia*), the Byzantine ancestor of the Latin *Clavicula Salomonis*. Its seals carry the antique charaktêres tradition through the medieval Greek world toward the Renaissance grimoires. The continuity of ring-letter sign-magic from the PGM to this manuscript is one of the clearest lines in the whole history of Western magic.\n\n## For artists & game designers\nA grid of compact spirit-seals: ideal as collectible 'summoning glyphs' in an inventory UI.",
+   "citations": [
+    {
+     "text": "Ioannis Marathakis, *The Magical Treatise of Solomon, or Hygromanteia* (2011)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Harley_manuscript_MS_5596,_fol._31r_-_ca._1450_-_magic_seals_very_similiar_to_later_Icelandic_magical_staves_(Galdrastafir).jpg"
+    }
+   ],
+   "key_concepts": [
+    "Hygromanteia",
+    "Solomonic seals",
+    "charakteres",
+    "Byzantine magic"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__sigillum-dei",
+   "title": "Sigillum Dei Aemeth (Sloane 3188, John Dee)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "John Dee",
+   "date": "1582–83 (Sloane MS 3188)",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "Sigillum Dei Aemeth",
+    "character diagram",
+    "angelic names",
+    "heptagram",
+    "divine names",
+    "Enochian",
+    "wax seal design",
+    "magic circle"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sloane3188-john_dee.png",
+   "summary": "John Dee's drawing of the *Sigillum Dei Aemeth* ('Seal of God, of Truth') from his angelic-conversation diaries, British Library Sloane MS 3188.\n\n## Iconography\nConcentric rings carry a heptagon and heptagram woven from the names of angels and the letters of divine names, surrounding a central pentagram. The whole is a single complex [[motif:character diagram|character-diagram]]: every letter and number is placed by rule, not decoration.\n\n## Significance\nThe sigil descends from medieval *Liber Razielis* / *Ars Notoria* prototypes; Dee received his elaborated version through the scrying of Edward Kelley and had it engraved in wax to support the shewstone during Enochian operations. As a working object it shows the charaktêres principle at full Renaissance scale — a name-bearing diagram whose power lies in the exact arrangement of its letters. (Distinct from the British Museum wax disc and the drawn copy held elsewhere in the archive.)\n\n## For artists & game designers\nThe definitive 'summoning seal': a letter-woven wheel to place beneath a scrying stone.",
+   "citations": [
+    {
+     "text": "Deborah E. Harkness, *John Dee's Conversations with Angels* (1999)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Sloane3188-john_dee.png"
+    }
+   ],
+   "key_concepts": [
+    "Sigillum Dei Aemeth",
+    "John Dee",
+    "angelic names",
+    "character diagram"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__dee-seal-of-god-bm",
+   "title": "John Dee's Seal of God (Wax Disc, British Museum)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "John Dee",
+   "date": "c. 1582 (object, British Museum)",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "Sigillum Dei Aemeth",
+    "wax seal",
+    "character diagram",
+    "angelic names",
+    "ritual object",
+    "scrying support",
+    "heptagram",
+    "Enochian"
+   ],
+   "rights": "CC0 (Vassil). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee%27s_Seal_of_God_British_Museum_26_07_2013.jpg",
+   "summary": "The surviving wax *Sigillum Dei Aemeth* of John Dee, an inscribed disc in the British Museum used to support his scrying stone.\n\n## Iconography\nA pressed-wax disc carved in low relief with the rings of angelic and divine names, the heptagonal and pentagonal figures, and the dense [[motif:charakteres|character-script]] of the seal. Wear and discolouration mark it as a handled ritual object, not a drawing.\n\n## Significance\nThis is one of the few physical instruments to survive from Dee's Enochian sessions: he made four small wax versions to raise the legs of his table and one large central seal beneath the shewstone. The object turns the [[motif:Sigillum Dei Aemeth|Sigillum Dei Aemeth]] from diagram into apparatus — the inscribed letters made the table a fit platform for angelic contact. It is the physical counterpart to the Sloane 3188 drawing.\n\n## For artists & game designers\nA real magical 'device': model a worn, name-engraved wax disc as the activation platform for a ritual.",
+   "citations": [
+    {
+     "text": "Deborah E. Harkness, *John Dee's Conversations with Angels* (1999)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:John_Dee%27s_Seal_of_God_British_Museum_26_07_2013.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Sigillum Dei Aemeth",
+    "John Dee",
+    "ritual object",
+    "Enochian magic"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "magical_characters__rose-cross-sigil",
+   "title": "Rose Cross Lamen (Golden Dawn Sigil Wheel)",
+   "work": "Charaktêres & Magical Sign-Systems",
+   "creator": "Hermetic Order of the Golden Dawn",
+   "date": "late 19th c.",
+   "place": "England",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "rose cross",
+    "sigil wheel",
+    "Hebrew letters",
+    "lamen",
+    "sigil tracing",
+    "Golden Dawn",
+    "name-tracing",
+    "occult revival"
+   ],
+   "rights": "CC BY-SA 4.0 (RootOfAllLight). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Rose_Cross_Lamen.png",
+   "summary": "The Rose Cross Lamen of the Hermetic Order of the Golden Dawn, whose rose petals carry the Hebrew alphabet and serve as a wheel for tracing sigils from names.\n\n## Iconography\nA cross with a many-petalled rose at its heart; the petals are inscribed with the 22 Hebrew letters, arranged by the three mother, seven double, and twelve simple letters of the *Sefer Yetzirah*. Lines drawn between letters spell out names as continuous sigils.\n\n## Significance\nThe Golden Dawn revived the medieval art of generating a [[motif:sigil|sigil]] by tracing a word's letters across a lettered figure — a method paralleling the older 'magic-square' sigil traces. The rose wheel let a magician convert any Hebrew (or transliterated) divine or angelic name into a single flowing line. It thus continues, in the modern occult revival, the ancient logic of the [[motif:charakteres|charaktêres]]: turning names into operative signs.\n\n## For artists & game designers\nA lettered wheel that converts any input name into a unique looping glyph — a perfect procedural sigil generator.",
+   "citations": [
+    {
+     "text": "Israel Regardie, *The Golden Dawn* (1937–40)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Rose_Cross_Lamen.png"
+    }
+   ],
+   "key_concepts": [
+    "rose cross",
+    "sigil tracing",
+    "Hebrew letters",
+    "Golden Dawn"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

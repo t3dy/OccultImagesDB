@@ -1,0 +1,483 @@
+{
+ "_work": {
+   "key": "christian_apotropaic",
+   "short_id": "XAPO",
+   "title": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "various",
+   "date": "14th c. – 20th c.",
+   "century": 18,
+   "place": "German lands, the Alps, and Catholic Europe",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "reception",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "christian_apotropaic",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Christian_amulets",
+   "rights": "Public domain / CC BY-SA (per item). Via Wikimedia Commons.",
+   "motifs": ["sacramental", "apotropaic", "blessing", "amulet", "plague saint", "protective cross"],
+   "blurb": "The sacramentals and holy charms at the border of Catholic devotion and folk magic — the blessed Agnus Dei wax disc, the folded Breverl amulet-packet and the swallowed Schluckbildchen, the Benedictine medal and Zachariassegen against evil, the Caravaca and Ulrich crosses, the Three Kings' Epiphany door-blessing, the weather-crosses raised against hail and storm, the IHS Christogram and the arma Christi, the Drudenfuß pentagram on the threshold, the Haussegen broadside, the plague saints Roch and Sebastian, St Christopher and the Fourteen Holy Helpers, St Antony's tau, and the secret Vehmgericht tribunal."
+ },
+ "entries": [
+  {
+   "id": "christian_apotropaic__agnus-dei-wax",
+   "title": "*Agnus Dei* wax disc with seal of Pope Martin",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (papal workshop, Rome)",
+   "date": "wax sacramental bearing a papal seal; surviving example",
+   "place": "Rome / Catholic Europe",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["agnus dei", "blessed wax", "lamb of god", "papal sacramental", "protective amulet", "paschal candle wax", "fire and storm charm", "benediction"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Agnus_Dei_with_a_Seal_of_Pope_Martinus-WUS--19.jpg",
+   "summary": "An *Agnus Dei*, the blessed wax disc impressed with the Lamb of God and a papal seal, the most prestigious of Catholic protective sacramentals.\n\n## Iconography\nA small oval or round disc of **wax** — traditionally made from the remnants of the Paschal candle — stamped on one face with the **Lamb of God** (*Agnus Dei*) bearing the banner of the Resurrection, and on the reverse with a saint and the **seal of the reigning pope**.\n\n## Significance\nThe **Agnus Dei** was solemnly blessed by the pope, by custom in the first year of his reign and every seventh year after, and distributed as a [[motif:sacramental|sacramental]]. Worn or kept in the home, it was believed to guard against fire, flood, tempest, plague, sudden death, and the assaults of the Devil — a protective virtue catalogued in devotional handbooks and prayers attached to the object. It is the official Church counterpart to the charms of folk magic.\n\n## For artists & game designers\nA blessed wax token stamped with a lamb and a papal seal — a 'consecrated relic' item whose protection comes from the highest sacred authority.",
+   "citations": [
+    {"text": "Herbert Thurston, 'Agnus Dei,' *The Catholic Encyclopedia* (1907)."},
+    {"text": "Megan Holmes, *The Miraculous Image in Renaissance Florence* (2013)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Agnus_Dei_with_a_Seal_of_Pope_Martinus-WUS--19.jpg"}
+   ],
+   "key_concepts": ["Agnus Dei", "sacramental", "blessed wax", "papal benediction"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__breverl",
+   "title": "Devotional folded book-amulet (*Breverl*)",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (convent sister, southern Germany or Austria)",
+   "date": "early modern devotional packet; surviving example",
+   "place": "German lands / Austria",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["breverl", "folded amulet", "klosterarbeit", "devotional packet", "saints relics", "protective charm", "convent work", "paper packet"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Devotional_folded_Book_Amulet_or_Breverl,_Women_of_the_Book_Collection.jpg",
+   "summary": "A *Breverl*, a folded paper amulet-packet of holy images, blessings, and tiny relics, made in a southern-German or Austrian convent.\n\n## Iconography\nAn intricately **folded paper packet** that opens to reveal a grid of small printed **holy images**, hand-coloured saints, fragments of blessed objects, and protective texts — the whole assembled and stitched in the fine convent craft known as *Klosterarbeit*.\n\n## Significance\nThe **Breverl** (from *breve*, a 'brief' or letter) is a Catholic-Bavarian protective amulet: carried on the body or hung in the home, its concentrated holy contents — images of the [[motif:agnus dei|Agnus Dei]], the [[motif:benedict medal|Benedictine]] charm, relics, and blessings — were believed to guard the bearer against illness, accident, witchcraft, and evil spirits. Convent sisters produced them in great numbers as devotional gifts and pilgrimage souvenirs.\n\n## For artists & game designers\nA folded paper charm that unfolds into a miniature shrine of saints and relics — a tactile 'protective packet' rich in collage detail.",
+   "citations": [
+    {"text": "Nina Gockerell, *Bilder und Zeichen der Frömmigkeit* (1995)."},
+    {"text": "Don Yoder, 'Hex Signs and the Pennsylvania German,' in *Discovering American Folklife* (1990)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Devotional_folded_Book_Amulet_or_Breverl,_Women_of_the_Book_Collection.jpg"}
+   ],
+   "key_concepts": ["Breverl", "folded amulet", "Klosterarbeit", "devotional packet"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__schluckbild",
+   "title": "Four *Schluckbildchen* (devotional prints to be swallowed)",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (devotional printer)",
+   "date": "early modern devotional prints",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["schluckbild", "swallowed print", "holy image", "healing charm", "devotional print", "ingested amulet", "blessing", "folk catholicism"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Vier_Schluckbildchen.png",
+   "summary": "Four *Schluckbildchen*, the tiny printed holy images that were literally swallowed as a healing and protective charm.\n\n## Iconography\nA strip of **very small printed devotional images** — saints, the [[motif:agnus dei|Agnus Dei]], the names of Jesus and Mary, or short blessings — printed many to a sheet and cut apart into pellet-sized squares.\n\n## Significance\nA **Schluckbild** ('swallow-picture') was a sacramental taken internally: the little image, sometimes blessed at a shrine, was rolled up and **swallowed** by a sick person or animal, often dissolved in water or hidden in feed, so that its holy virtue might work directly on the body. The practice — a literal ingestion of the sacred — was widespread in folk Catholicism against fever, possession, and cattle-disease, and stands at the very border of devotion and magic.\n\n## For artists & game designers\nA holy image meant to be eaten — a startling 'consumable blessing' that fuses relic and medicine.",
+   "citations": [
+    {"text": "Adolf Spamer, *Das kleine Andachtsbild vom XIV. bis zum XX. Jahrhundert* (1930)."},
+    {"text": "Don Yoder, 'Folk Medicine,' in *Folklore and Folklife* (1972)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Vier_Schluckbildchen.png"}
+   ],
+   "key_concepts": ["Schluckbild", "swallowed devotional print", "healing charm", "sacramental"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__arma-christi",
+   "title": "Man of Sorrows with the *arma Christi* (Schmerzensmann)",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Michil (devotional printmaker)",
+   "date": "devotional print, hand-coloured",
+   "place": "German lands / Alpine region",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["arma christi", "man of sorrows", "instruments of the passion", "side wound", "schmerzensmann", "devotional print", "protective image", "five wounds"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Passion_Leidenschaft-Michil-Schmerzensmann_mit_den_Arma_Christi_DSC7468.jpg",
+   "summary": "A hand-coloured *Schmerzensmann* (Man of Sorrows) surrounded by the *arma Christi*, the instruments of the Passion, a devotional and protective image.\n\n## Iconography\nThe wounded **Christ** stands or sits, crowned with thorns and displaying his **five wounds**, while around him hover the **arma Christi** — the cross, lance, sponge, scourges, nails, dice, the pillar, the column, and other tools of his Passion — each meditated upon in turn. The bleeding **side wound** is prominent.\n\n## Significance\nThe **arma Christi** ('weapons of Christ') were not only objects of Passion meditation but were credited with apotropaic power: contemplating or carrying the image of the wounds and instruments was believed to shield the devout from sudden death and evil. The **side wound**, often reproduced at its 'true measure', became a charm in its own right. Such prints sit at the heart of late-medieval and early-modern devotional protection.\n\n## For artists & game designers\nA suffering Christ ringed by floating Passion-tools — a dense iconographic 'ward of the wounds' for a sacred-relic motif.",
+   "citations": [
+    {"text": "Rudolf Berliner, 'Arma Christi,' *Münchner Jahrbuch der bildenden Kunst* (1955)."},
+    {"text": "Caroline Walker Bynum, *Wonderful Blood* (2007)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Passion_Leidenschaft-Michil-Schmerzensmann_mit_den_Arma_Christi_DSC7468.jpg"}
+   ],
+   "key_concepts": ["arma Christi", "Man of Sorrows", "side wound", "instruments of the Passion"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__ihs-christogram",
+   "title": "St Bernardino of Siena with the IHS Christogram",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (after Bernardino's emblem); Rijksmuseum print",
+   "date": "early modern engraving",
+   "place": "Italy / Netherlands (print)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["ihs", "christogram", "holy name of jesus", "sunburst monogram", "bernardino of siena", "name as amulet", "radiant tablet", "protective emblem"],
+   "rights": "Public domain (CC0). Rijksmuseum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:De_heilige_Bernardinus_van_Siena_brengt_een_kind_tot_leven,_RP-P-OB-35.548.jpg",
+   "summary": "A print of St Bernardino of Siena displaying his IHS tablet, the radiant monogram of the Holy Name promoted as a protective emblem.\n\n## Iconography\nThe Franciscan friar **Bernardino of Siena** holds up a tablet bearing the letters **IHS** — the first letters of the Greek name of Jesus — set within a blazing **sunburst** of twelve rays. The scene shows one of his miracles.\n\n## Significance\nBernardino (1380–1444) popularised the **IHS Christogram** in a golden sunburst as a devotion to the **Holy Name of Jesus**, urging citizens to set it over their doors in place of factional badges. The radiant monogram quickly took on [[motif:apotropaic|apotropaic]] force: the Name of Jesus was held to put demons to flight, and the emblem guarded the threshold and the household. It became the badge of the Jesuit order and a ubiquitous protective sign.\n\n## For artists & game designers\nA blazing three-letter monogram that wards by the holy Name alone — a clean, heraldic 'sacred sigil' for a doorway or banner.",
+   "citations": [
+    {"text": "Iris Origo, *The World of San Bernardino* (1962)."},
+    {"text": "Cynthia Polecritti, *Preaching Peace in Renaissance Italy* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:De_heilige_Bernardinus_van_Siena_brengt_een_kind_tot_leven,_RP-P-OB-35.548.jpg"}
+   ],
+   "key_concepts": ["IHS", "Christogram", "Holy Name of Jesus", "Bernardino of Siena"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__benedict-medal",
+   "title": "Medal of St Benedict (CSPB / VRSNSMV)",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (Benedictine sacramental)",
+   "date": "the Jubilee (1880) form of a long tradition",
+   "place": "German lands / Catholic Europe",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["benedict medal", "cspb", "vrsnsmv", "cross of saint benedict", "exorcism medal", "letter charm", "apotropaic", "sacramental"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Saint_Benedict_Medal.jpg",
+   "summary": "The Medal of St Benedict, a Catholic sacramental whose cryptic letters form a verse-charm against evil.\n\n## Iconography\nOne face shows **St Benedict** holding a cross and his Rule; the reverse bears a large **cross** set in a field of initials — **C S P B** in the angles (*Crux Sancti Patris Benedicti*) and around the rim the abbreviations **V R S N S M V — S M Q L I V B**, standing for a Latin verse of exorcism. The border reads *Vade retro Satana*.\n\n## Significance\nThe **Benedictine medal** is the best-known Christian [[motif:apotropaic|apotropaic]] charm in letter form: its abbreviations spell a rhymed adjuration — *'Begone, Satan! Never tempt me with your vanities; what you offer is evil, drink the poison yourself!'* Blessed as a sacramental, it was worn, buried in fields, and set in walls to drive off the Devil, disease, and storm. It descends from the older *Zachariassegen* and was standardised in the Jubilee medal of 1880.\n\n## For artists & game designers\nA cross whose every margin is packed with abbreviated holy initials — a real 'letter-coded ward' that reads as occult cipher yet is wholly Christian.",
+   "citations": [
+    {"text": "Prosper Guéranger, *Essai sur la médaille de saint Benoît* (1862)."},
+    {"text": "Don C. Skemer, *Binding Words: Textual Amulets in the Middle Ages* (2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Saint_Benedict_Medal.jpg"}
+   ],
+   "key_concepts": ["Medal of St Benedict", "CSPB", "Vade retro Satana", "exorcism charm"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__zachariassegen",
+   "title": "*Zachariassegen* (Blessing of St Zachary) plaque",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (Kloster St. Mang, Füssen)",
+   "date": "early modern protective inscription; surviving example",
+   "place": "German lands (Füssen)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["zachariassegen", "plague blessing", "cross of letters", "apotropaic inscription", "saint zachary", "letter charm", "protective cross", "exorcism"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Zachariassegen_Kloster_St._Mang.jpg",
+   "summary": "A *Zachariassegen*, the cross-of-letters Blessing of St Zachary, displayed at the monastery of St Mang in Füssen — the medieval ancestor of the Benedictine medal.\n\n## Iconography\nA panel of crosses, each followed by an initial letter, arranged as a litany: a sequence of **+Z +D +I +A +B +I +Z +S +A +B +Z** and a longer chain of abbreviated Latin invocations, often headed by the cross and holy names.\n\n## Significance\nThe **Zachariassegen** is a plague-charm attributed to St Zachary (Pope Zacharias), each cross-and-letter standing for the opening of a Latin prayer of protection against pestilence, sudden death, and the Devil. Cut on plaques, printed on slips, and set over doors, it was among the most popular [[motif:apotropaic|protective]] inscriptions of Catholic German lands during plague years, and its abbreviation-charm directly shaped the later [[motif:benedict medal|Medal of St Benedict]].\n\n## For artists & game designers\nA wall of crosses-plus-initials that reads as an enciphered prayer — a historically grounded 'letter litany' ward against plague.",
+   "citations": [
+    {"text": "Don C. Skemer, *Binding Words: Textual Amulets in the Middle Ages* (2006)."},
+    {"text": "Adolph Franz, *Die kirchlichen Benediktionen im Mittelalter* (1909)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Zachariassegen_Kloster_St._Mang.jpg"}
+   ],
+   "key_concepts": ["Zachariassegen", "plague charm", "cross of letters", "textual amulet"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__caravaca-cross",
+   "title": "Friar with the Cross of Caravaca (Pieter Snyers)",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Pieter Snyers",
+   "date": "early 18th century",
+   "place": "Flanders (subject: Caravaca, Spain)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["caravaca cross", "double-barred cross", "patriarchal cross", "protective cross", "relic of the true cross", "apotropaic", "spanish devotion", "friar"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pieter_Snyers_-_Friar_with_Cross_of_Caravaca.jpg",
+   "summary": "Pieter Snyers's painting of a friar holding the double-barred Cross of Caravaca, one of the most widespread Catholic protective crosses.\n\n## Iconography\nA **friar** displays a **double-barred (patriarchal) cross** — the **Cross of Caravaca** — its two transverse arms the mark of a reliquary cross said to contain a fragment of the True Cross. Often the cross is flanked by two angels.\n\n## Significance\nThe **Caravaca cross** takes its name from the Spanish town of Caravaca de la Cruz, where a relic of the True Cross was venerated. Reproduced as medals and pendants throughout the Hispanic and German Catholic worlds, the double cross was carried as an [[motif:apotropaic|apotropaic]] charm against the Devil, storm, and illness, and pressed to the sick. Its form links it to the Eastern patriarchal cross and the relic-cross tradition.\n\n## For artists & game designers\nA twin-barred relic cross with its own legend — a distinctive 'holy artefact' silhouette instantly distinguishable from the plain Latin cross.",
+   "citations": [
+    {"text": "Louis Réau, *Iconographie de l'art chrétien* (1955–59)."},
+    {"text": "William A. Christian Jr., *Local Religion in Sixteenth-Century Spain* (1981)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pieter_Snyers_-_Friar_with_Cross_of_Caravaca.jpg"}
+   ],
+   "key_concepts": ["Cross of Caravaca", "double-barred cross", "relic of the True Cross", "protective cross"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__ulrichskreuz",
+   "title": "*Ulrichskreuz* of the Battle of the Lechfeld",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous",
+   "date": "associated with St Ulrich (d. 973); later devotional form",
+   "place": "German lands (Augsburg)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["ulrichskreuz", "saint ulrich", "double cross", "lechfeld", "protective cross", "amulet", "weather charm", "augsburg devotion"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lechfeldschlacht_Ulrichskreuz.jpg",
+   "summary": "The *Ulrichskreuz*, the double cross associated with St Ulrich of Augsburg and the victory at the Lechfeld, cast as a protective amulet.\n\n## Iconography\nA **double-barred cross**, often shown with Christ on one bar and the Virgin or relics on the other, linked in legend to the cross St **Ulrich** of Augsburg was said to have received from an angel before the **Battle of the Lechfeld** (955).\n\n## Significance\nThe **Ulrichskreuz** became one of the standard German Catholic [[motif:apotropaic|apotropaic]] crosses: cast in metal and blessed, it was carried and hung in homes and stables as a guard against the Devil, disease of cattle, storm, and sudden death. Augsburg pilgrims spread it widely, and like the [[motif:caravaca cross|Cross of Caravaca]] and the [[motif:benedict medal|Benedictine medal]] it belongs to the family of protective relic-crosses.\n\n## For artists & game designers\nA battle-blessed double cross tied to a famous medieval victory — a 'relic of triumph' charm with a martial backstory.",
+   "citations": [
+    {"text": "Adolph Franz, *Die kirchlichen Benediktionen im Mittelalter* (1909)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lechfeldschlacht_Ulrichskreuz.jpg"}
+   ],
+   "key_concepts": ["Ulrichskreuz", "St Ulrich", "Battle of the Lechfeld", "protective cross"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__three-kings-blessing",
+   "title": "Chalked Epiphany door-blessing (20 ✝ C ✝ M ✝ B ✝ 24)",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (folk custom); photograph by Brian Snelson",
+   "date": "traditional custom; modern photograph",
+   "place": "Catholic Europe / England",
+   "era": "modern",
+   "tradition": "reception",
+   "motifs": ["three kings blessing", "epiphany chalk", "c m b", "door blessing", "caspar melchior balthasar", "threshold charm", "annual blessing", "apotropaic"],
+   "rights": "CC BY 2.0 (photo: Brian Snelson). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Chalked_door_for_Epiphany.jpg",
+   "summary": "A doorway chalked with the Epiphany blessing of the Three Kings, the annual threshold-charm against harm.\n\n## Iconography\nWritten in **blessed chalk** above a **doorway**: the year split around the letters **C ✝ M ✝ B**, e.g. *20 + C + M + B + 24*, with small crosses between. The letters stand both for the traditional names of the Magi — **C**aspar, **M**elchior, **B**althasar — and for *Christus Mansionem Benedicat* ('May Christ bless this house').\n\n## Significance\nThe **Three Kings' blessing** (*Dreikönigssegen*) marks the house at Epiphany (6 January) with a [[motif:apotropaic|protective]] inscription meant to guard the household for the coming year against storm, fire, illness, and evil. Blessed chalk, holy water, and incense are used in the rite. In German lands the *Sternsinger* (star-singers) carry the blessing door to door — a living survival of Christian threshold-magic.\n\n## For artists & game designers\nA charm written in chalk over a door, renewed once a year — a perfect seasonal 'house ward' the player can inscribe.",
+   "citations": [
+    {"text": "Don Yoder, *Discovering American Folklife* (1990)."},
+    {"text": "Leopold Schmidt, *Volkskunde von Niederösterreich* (1966)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Chalked_door_for_Epiphany.jpg"}
+   ],
+   "key_concepts": ["Three Kings' blessing", "C+M+B", "Epiphany chalk", "threshold charm"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__saint-christopher",
+   "title": "St Christopher wall painting, Untergermaringen",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (medieval wall-painter); photograph by Vivarius",
+   "date": "medieval mural; modern photograph",
+   "place": "German lands (Untergermaringen, Bavaria)",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["saint christopher", "giant saint", "christ child", "protective image", "sudden death", "monumental fresco", "church doorway", "apotropaic"],
+   "rights": "CC BY-SA 4.0 (photo: Vivarius). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mittelalterliches_Wandbild_darstellend_St._Christophorus_in_der_romanischen_Kirche_St._Georg_in_Untergermaringen_auf_dem_Georgiberg.jpg",
+   "summary": "A monumental medieval wall-painting of St Christopher in the Romanesque church of St George at Untergermaringen, a protective image against sudden death.\n\n## Iconography\nThe giant **St Christopher** wades through a river, leaning on a staff, carrying the **Christ Child** on his shoulder. The figure is painted at great size, typically on a wall facing the church door so it could be seen from outside.\n\n## Significance\nA widespread late-medieval belief held that whoever **looked upon an image of St Christopher** would not die a [[motif:apotropaic|sudden or unprepared death]] that day — captured in the rhyme *Christophori faciem die quacumque tueris, illa nempe die non morte mala morieris*. This made his colossal image a daily-renewed protective charm, painted near doors and gates so travellers could catch sight of it. He is the protective patron *par excellence* among the [[motif:fourteen holy helpers|Holy Helpers]].\n\n## For artists & game designers\nA giant saint painted to be glimpsed in passing, granting a day's protection from a single look — a built-in 'glance-blessing' mechanic.",
+   "citations": [
+    {"text": "Hans Friedrich Rosenfeld, *Der hl. Christophorus* (1937)."},
+    {"text": "Émile Mâle, *Religious Art in France: The Late Middle Ages* (1908)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mittelalterliches_Wandbild_darstellend_St._Christophorus_in_der_romanischen_Kirche_St._Georg_in_Untergermaringen_auf_dem_Georgiberg.jpg"}
+   ],
+   "key_concepts": ["St Christopher", "protection from sudden death", "monumental image", "travel patron"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__christopher-wall",
+   "title": "St Christopher mural, Völkermarkt parish church",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (medieval wall-painter); photograph by Raul de Chissota",
+   "date": "medieval mural; modern photograph",
+   "place": "Austria (Völkermarkt, Carinthia)",
+   "era": "medieval",
+   "tradition": "reception",
+   "motifs": ["saint christopher", "giant saint", "christ child", "river crossing", "protective fresco", "church wall", "sudden death", "apotropaic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:V%C3%B6lkermarkt-Pfarrkirche-Wandmalerei-Christophorus.JPG",
+   "summary": "A large medieval mural of St Christopher in the parish church of Völkermarkt in Carinthia, a second example of the saint as a daily protective image.\n\n## Iconography\nThe outsized **St Christopher** strides through water bearing the **Christ Child**, his cloak billowing, a flowering staff in hand. Like most such murals it is placed where it could be seen on entering or passing the church.\n\n## Significance\nThis Carinthian mural illustrates how standardised and ubiquitous the **protective St Christopher** image was across the German-speaking lands: painted monumentally on church walls so that a single glance might secure the viewer against [[motif:apotropaic|unprepared death]] for the day. The repetition of the type — giant saint, river, Christ Child — across hundreds of churches shows it functioning as a recognised public charm, not merely decoration.\n\n## For artists & game designers\nThe same saint, the same pose, repeated church to church — a useful reference for how a 'protective icon type' spreads as a visual standard.",
+   "citations": [
+    {"text": "Hans Friedrich Rosenfeld, *Der hl. Christophorus* (1937)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:V%C3%B6lkermarkt-Pfarrkirche-Wandmalerei-Christophorus.JPG"}
+   ],
+   "key_concepts": ["St Christopher", "protective mural", "Carinthia", "sudden death"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__drudenfuss",
+   "title": "The *Drudenfuß* (pentagram / pentalpha)",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Schematic diagram (after the folk figure)",
+   "date": "traditional figure; modern diagram",
+   "place": "German lands / Alps",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["drudenfuss", "pentagram", "pentalpha", "endless knot", "threshold ward", "against the drude", "five-pointed star", "apotropaic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentagram-phi.svg",
+   "summary": "The *Drudenfuß*, the unicursal five-pointed star drawn on thresholds and cradles in German folk belief to ward off the night-spirit, the Drude.\n\n## Iconography\nA **pentagram** (*pentalpha*) — a five-pointed star drawn in a single unbroken line, its five segments here marked to show its golden-ratio proportions. The figure has no beginning or end.\n\n## Significance\nThe **Drudenfuß** ('Drude's foot') was scratched or carved onto **doors, bedsteads, and cradles** to bar the *Drude* (or *Trud*) — the Alpine night-hag who pressed and suffocated sleepers, the German nightmare-spirit. Like the folk [[motif:hexafoil|hexafoil]], its protective power lay in being drawn in one continuous stroke, leaving no gap for the spirit to enter. Goethe famously has Mephistopheles trapped by an imperfectly drawn *Drudenfuß* in *Faust*. The same figure carries deep occult and Pythagorean associations.\n\n## For artists & game designers\nThe classic single-stroke star-ward: instantly legible as 'protective sigil', with a built-in fail-state (an unclosed line lets the demon through).",
+   "citations": [
+    {"text": "Johann Wolfgang von Goethe, *Faust I* (1808), the Drudenfuß scene."},
+    {"text": "Handwörterbuch des deutschen Aberglaubens, s.v. 'Drudenfuß' (1927–42)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentagram-phi.svg"}
+   ],
+   "key_concepts": ["Drudenfuß", "pentagram", "the Drude", "threshold ward"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__haussegen",
+   "title": "*Haussegen* (house-blessing broadside), Baumann of Neuruppin",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Samuel Baumann (publisher), Neuruppin",
+   "date": "early 19th century",
+   "place": "German lands (Neuruppin)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["haussegen", "house blessing", "protective broadside", "printed blessing", "neuruppin print", "household charm", "blessing text", "apotropaic"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Haussegen_Baumann_2.jpg",
+   "summary": "A printed *Haussegen* or house-blessing broadside from the Neuruppin press of Samuel Baumann, hung in the home as a protective charm.\n\n## Iconography\nA decorative printed **broadside** framing a **blessing for the house** — verses invoking God's protection over the dwelling and its inhabitants, set among ornamental borders, scripture, and often a vignette of the holy family or guardian angel.\n\n## Significance\nThe **Haussegen** ('house-blessing') was a staple of the German and Pennsylvania-German home: hung on the wall, the printed blessing was held to guard the household against fire, lightning, theft, and misfortune, much like the [[motif:himmelsbrief|Himmelsbrief]]. The Neuruppin *Bilderbogen* presses turned out vast numbers of such cheap protective and devotional sheets in the eighteenth and nineteenth centuries.\n\n## For artists & game designers\nA framed printed blessing on the parlour wall that quietly wards the home — domestic 'protective decor' grounded in real popular print.",
+   "citations": [
+    {"text": "Don Yoder, 'The Himmelsbrief,' in *Discovering American Folklife* (1990)."},
+    {"text": "Theodor Kohlmann, *Neuruppiner Bilderbogen* (1981)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Haussegen_Baumann_2.jpg"}
+   ],
+   "key_concepts": ["Haussegen", "house-blessing", "Neuruppin broadside", "household charm"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__wetterkreuz",
+   "title": "*Wetterkreuz* (weather-cross), Tauberbischofsheim",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (folk custom); photograph by Triplec85",
+   "date": "traditional wayside cross; modern photograph",
+   "place": "German lands (Tauberbischofsheim)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["wetterkreuz", "weather cross", "field cross", "against storm", "wayside crucifix", "blessing of fields", "apotropaic", "agrarian charm"],
+   "rights": "Public domain (CC0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:2018-07-18_Wetterkreuz_(Tauberbischofsheim)_01.jpg",
+   "summary": "A *Wetterkreuz* near Tauberbischofsheim, one of the wayside weather-crosses raised in the fields to guard the harvest against storm and hail.\n\n## Iconography\nA **wayside crucifix or cross** set in open farmland, often on a rise. Where a full crucifix, the corpus of Christ faces the fields; many bear an inscription invoking protection from bad weather.\n\n## Significance\nThe **Wetterkreuz** ('weather-cross') belongs to the agrarian [[motif:apotropaic|protective]] landscape of Catholic German lands: erected and blessed to shield crops and village from **storm, lightning, and hail**, it was a focus of the rogation processions and weather-blessings (*Wettersegen*) by which the clergy and people sought to turn aside destructive weather. It stands alongside the [[motif:hagelkreuz|Hagelkreuz]] in the open-field cult of protection.\n\n## For artists & game designers\nA lone cross standing in a field against the sky — a quiet environmental marker of folk weather-magic and rural piety.",
+   "citations": [
+    {"text": "Adolph Franz, *Die kirchlichen Benediktionen im Mittelalter* (1909)."},
+    {"text": "Leopold Schmidt, *Volkskunde von Niederösterreich* (1966)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:2018-07-18_Wetterkreuz_(Tauberbischofsheim)_01.jpg"}
+   ],
+   "key_concepts": ["Wetterkreuz", "weather-cross", "protection from storm", "field blessing"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__hagelkreuz",
+   "title": "*Hagelkreuz* (hail-cross), Eschweiler",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (folk custom); photograph by NDG",
+   "date": "traditional wayside cross; modern photograph",
+   "place": "German lands (Eschweiler, Rhineland)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["hagelkreuz", "hail cross", "wayside cross", "against hail", "field protection", "weather charm", "rogation", "apotropaic"],
+   "rights": "CC BY-SA 4.0 (photo: NDG). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Wegkreuz_Hagelkreuz,_Eschweiler-3.jpg",
+   "summary": "A *Hagelkreuz* at Eschweiler in the Rhineland, a wayside cross raised specifically to protect the fields against destructive hail.\n\n## Iconography\nA **wayside cross** on the field-edge, named *Hagelkreuz* ('hail-cross'). Many such crosses mark the route of the annual procession by which the parish blessed its land.\n\n## Significance\nThe **Hagelkreuz** is the hail-specific form of the field-cross: at it, and on the rogation days, the priest pronounced the **weather-blessing** (*Wettersegen*) against [[motif:apotropaic|hail and tempest]] that threatened the crops. Such crosses, often endowed after a ruinous storm, anchored a whole landscape of [[motif:wetterkreuz|protective]] piety in which the cross, holy water, blessed palms, and the ringing of consecrated bells were all marshalled against the weather.\n\n## For artists & game designers\nA named 'hail-cross' marking where a community begged protection from the sky — vivid evidence that even the weather was a thing to be warded.",
+   "citations": [
+    {"text": "Adolph Franz, *Die kirchlichen Benediktionen im Mittelalter* (1909)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Wegkreuz_Hagelkreuz,_Eschweiler-3.jpg"}
+   ],
+   "key_concepts": ["Hagelkreuz", "hail-cross", "weather-blessing", "field protection"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__saint-roch",
+   "title": "Christ appoints St Roch patron of the plague-stricken",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (after a Netherlandish design); Rijksmuseum print",
+   "date": "early modern engraving",
+   "place": "Netherlands (print)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["saint roch", "plague saint", "plague sore", "pilgrim", "protective patron", "ora pro nobis", "devotional print", "apotropaic"],
+   "rights": "Public domain (CC0). Rijksmuseum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Christus_stelt_Sint-Rochus_aan_tot_patroon_van_de_pestlijders_H._Rochus_wordt_door_Christus_aangesteld_tot_patroon_van_de_pestlijders_Sancte_Roche_ora_pro_nobis_(titel_op_object),_RP-P-OB-33.234.jpg",
+   "summary": "A devotional print of Christ appointing St Roch patron of plague sufferers, inscribed *Sancte Roche ora pro nobis* — a protective image against pestilence.\n\n## Iconography\n**St Roch**, dressed as a **pilgrim** with staff and scallop, lifts his robe to show the **plague-sore** on his thigh, accompanied by his dog with a loaf. Above, **Christ** designates him protector; the legend asks his intercession.\n\n## Significance\nIn the recurring plague years of early-modern Europe, the protective saints **Roch** and [[motif:saint sebastian|Sebastian]] were the chief heavenly defenders against pestilence. Prints and altarpieces of St Roch were displayed and carried as [[motif:apotropaic|apotropaic]] images, his exposed sore turning his own suffering into a guarantee of protection. He is one of the [[motif:fourteen holy helpers|Fourteen Holy Helpers]] invoked in time of need.\n\n## For artists & game designers\nA pilgrim-saint who shows his own plague-wound as a badge of protection — a striking 'survivor-patron' figure for an epidemic setting.",
+   "citations": [
+    {"text": "Louis Réau, *Iconographie de l'art chrétien* (1955–59)."},
+    {"text": "Sheila Barker, 'The Making of a Plague Saint,' in *Piety and Plague* (2007)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Christus_stelt_Sint-Rochus_aan_tot_patroon_van_de_pestlijders_H._Rochus_wordt_door_Christus_aangesteld_tot_patroon_van_de_pestlijders_Sancte_Roche_ora_pro_nobis_(titel_op_object),_RP-P-OB-33.234.jpg"}
+   ],
+   "key_concepts": ["St Roch", "plague saint", "protective patron", "intercession"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__saint-sebastian",
+   "title": "St Sebastian, plague-saint (engraving, British Museum)",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (engraver)",
+   "date": "early modern engraving",
+   "place": "Europe",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["saint sebastian", "plague saint", "arrows", "martyr", "protective patron", "against pestilence", "devotional print", "apotropaic"],
+   "rights": "Public domain. British Museum, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_X,4.129).jpg",
+   "summary": "An engraving of St Sebastian pierced with arrows, the soldier-martyr invoked across Europe as a protector against the plague.\n\n## Iconography\n**St Sebastian** bound to a tree or column, his body pierced by **arrows**, often shown nude and youthful. Sometimes an angel attends or the archers stand by.\n\n## Significance\nBy a long-standing association of arrows with the 'darts' of pestilence, **St Sebastian** became, with [[motif:saint roch|St Roch]], the foremost [[motif:apotropaic|protective]] plague-saint of Catholic Europe; his image was carried in procession and set up in churches and homes to turn aside the disease. The arrow-pierced martyr who yet survived his wounds offered a model of protection through endurance. Cheap devotional prints spread his protective cult to every household in plague years.\n\n## For artists & game designers\nThe arrow-struck martyr whose wounds ward off the 'darts of plague' — a potent visual link between suffering and immunity.",
+   "citations": [
+    {"text": "Louis Réau, *Iconographie de l'art chrétien* (1955–59)."},
+    {"text": "Sheila Barker, 'The Making of a Plague Saint,' in *Piety and Plague* (2007)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Print_(BM_X,4.129).jpg"}
+   ],
+   "key_concepts": ["St Sebastian", "plague saint", "arrows of pestilence", "protective patron"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__nothelfer",
+   "title": "The Fourteen Holy Helpers (altarpiece, Millstatt)",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous (Baroque painter)",
+   "date": "Baroque altarpiece",
+   "place": "Austria (Millstatt, Carinthia)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["fourteen holy helpers", "vierzehn nothelfer", "saint george", "saint giles", "saint vitus", "collective patrons", "protective saints", "against illness"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Millstatt_-_Altarbild_-_14_Nothelfer.jpg",
+   "summary": "A Baroque altarpiece of the Fourteen Holy Helpers from Millstatt in Carinthia, the collective of saints invoked together against every kind of harm.\n\n## Iconography\nThe **Fourteen Holy Helpers** (*Vierzehn Nothelfer*) gathered around the armoured **St George** with his dragon: among them St Giles with the hind, St Eustace, St Vitus with his cauldron, [[motif:saint christopher|St Christopher]] with the Child, St Barbara with her tower, St Catherine with her wheel, St Margaret, St Blaise, St Erasmus, St Cyriacus, St Denis, St Pantaleon, and St Acacius.\n\n## Significance\nThe cult of the **Fourteen Holy Helpers**, which crystallised in fifteenth-century Franconia (and the shrine of Vierzehnheiligen), bundled fourteen saints into a single [[motif:apotropaic|protective]] devotion: each was specialist patron against a particular peril — sudden death, plague, fever, throat-ailments, fire, storm — and together they covered every emergency. Invoking the whole company at once made the most comprehensive protective charm in late-medieval and Baroque Catholicism.\n\n## For artists & game designers\nFourteen patrons in one image, each with a distinct attribute and 'specialty' against a named danger — a ready-made roster of protective figures.",
+   "citations": [
+    {"text": "Louis Réau, *Iconographie de l'art chrétien* (1955–59)."},
+    {"text": "Hellmut Rosenfeld, 'Vierzehn Nothelfer,' *Lexikon der christlichen Ikonographie* (1968–76)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Millstatt_-_Altarbild_-_14_Nothelfer.jpg"}
+   ],
+   "key_concepts": ["Fourteen Holy Helpers", "Vierzehn Nothelfer", "collective patrons", "protection against peril"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__nothelfer2",
+   "title": "The Fourteen Holy Helpers (Franz Anton Maulbertsch)",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Franz Anton Maulbertsch",
+   "date": "18th century",
+   "place": "Austria (now National Museum, Warsaw)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["fourteen holy helpers", "vierzehn nothelfer", "baroque painting", "protective saints", "intercession", "collective patrons", "heavenly court", "apotropaic"],
+   "rights": "Public domain. National Museum in Warsaw, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Franz_Anton_Maulbertsch_-_Fourteen_Holy_Helpers_-_M.Ob.1003_-_National_Museum_in_Warsaw.jpg",
+   "summary": "Franz Anton Maulbertsch's Baroque painting of the Fourteen Holy Helpers, the Austrian master's vision of the protective company of saints.\n\n## Iconography\nThe **Fourteen Holy Helpers** swirl in a luminous Baroque heaven, each identifiable by attribute — dragon, wheel, tower, cauldron, hind — arranged around the central martyrs in Maulbertsch's characteristically loose, glowing brushwork.\n\n## Significance\nMaulbertsch (1724–1796), the leading painter of the late Austrian Baroque, here gives monumental form to the same protective devotion seen in the [[motif:fourteen holy helpers|Millstatt altarpiece]]. By his day the cult of the *Vierzehn Nothelfer* was a central Habsburg-lands devotion, its [[motif:apotropaic|collective intercession]] sought against illness, accident, and sudden death. The painting shows how a folk-rooted protective charm was elevated into high ecclesiastical art.\n\n## For artists & game designers\nThe same protective fourteen rendered as a swirling Baroque vision — a study in turning a 'list of patrons' into dynamic heavenly composition.",
+   "citations": [
+    {"text": "Klára Garas, *Franz Anton Maulbertsch* (1960)."},
+    {"text": "Louis Réau, *Iconographie de l'art chrétien* (1955–59)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Franz_Anton_Maulbertsch_-_Fourteen_Holy_Helpers_-_M.Ob.1003_-_National_Museum_in_Warsaw.jpg"}
+   ],
+   "key_concepts": ["Fourteen Holy Helpers", "Maulbertsch", "Baroque", "collective intercession"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__tau-cross",
+   "title": "Tau cross of St Antony (Antoniuskreuz), Heyroth",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous; photograph by Thomas Hummel",
+   "date": "traditional devotion; modern photograph",
+   "place": "German lands (Heyroth)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["tau cross", "antoniuskreuz", "saint antony", "T-cross", "against ergotism", "antonine fire", "protective sign", "apotropaic"],
+   "rights": "CC BY-SA 4.0 (photo: Thomas Hummel). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:St._Antonius_(Heyroth)_40.jpg",
+   "summary": "A Tau cross associated with St Antony the Great, the T-shaped cross worn and displayed as protection against 'St Antony's Fire'.\n\n## Iconography\nA cross in the shape of the Greek letter **tau (T)** — the *crux commissa* — here in a church dedicated to St **Antony**. The Tau was the emblem of the Antonine order and the badge worn by its hospitaller brothers.\n\n## Significance\nThe **Tau cross** carries protective force on two grounds: in Ezekiel and patristic reading, the *tau* marked on the forehead is the sign that **spares** the faithful from destruction (the apotropaic mark *par excellence*), and it became the emblem of St Antony, patron against **ergotism** ('St Antony's Fire') and other afflictions. Worn as an amulet and set on Antonine hospitals, the Tau guarded against fire, plague, and that burning sickness. St Francis too adopted it as his protective sign.\n\n## For artists & game designers\nThe oldest 'sparing mark' — a single T-shape that signs the protected from the doomed, with deep biblical authority.",
+   "citations": [
+    {"text": "Adalbert Mischlewski, *Grundzüge der Geschichte des Antoniterordens* (1976)."},
+    {"text": "Gerhard Ladner, 'The Origin and Significance of the Tau,' in *Images and Ideas in the Middle Ages* (1983)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:St._Antonius_(Heyroth)_40.jpg"}
+   ],
+   "key_concepts": ["Tau cross", "St Antony", "St Antony's Fire", "sparing mark"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_apotropaic__vehmgericht",
+   "title": "The *Vehmgericht* (secret tribunal), 'League of the Holy Court'",
+   "work": "Christian Apotropaic & Protective Magic — Sacramentals and Holy Charms",
+   "creator": "Anonymous",
+   "date": "depiction of a medieval institution; later print",
+   "place": "German lands (Westphalia)",
+   "era": "early_modern",
+   "tradition": "reception",
+   "motifs": ["vehmgericht", "secret tribunal", "holy court", "westphalia", "oath", "rope and dagger", "sacred justice", "judgment"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:League_of_the_Holy_Court.JPG",
+   "summary": "A depiction of the *Vehmgericht*, the secret 'holy court' of medieval Westphalia, whose sworn members judged in the name of God and the Emperor.\n\n## Iconography\nHooded or assembled **judges** (*Freischöffen*) sit in a **secret tribunal**, the emblems of their justice — a **rope** and a **dagger or knife** — laid before them, the accused brought to a hidden court convened on 'free soil'.\n\n## Significance\nThe **Vehmgericht** (Femegericht) was the dread secret tribunal of late-medieval **Westphalia**, whose initiates were bound by terrible oaths and who could summon, try, and execute in the Emperor's name. Though a judicial institution rather than a charm, it belongs to the borderland of sacred dread: its rites of secrecy, oath, and the *Heilige Vehme* ('holy court') invested ordinary justice with an almost numinous, apotropaic terror that lingered in German legend and Romantic imagination. The rope-and-dagger emblem became a byword for hidden, inescapable judgment.\n\n## For artists & game designers\nA hooded secret court that judges in God's name with rope and blade — a ready-made 'sacred tribunal' faction steeped in oath and dread.",
+   "citations": [
+    {"text": "Theodor Lindner, *Die Veme* (1888)."},
+    {"text": "Henry Charles Lea, *A History of the Inquisition of the Middle Ages* (1888)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:League_of_the_Holy_Court.JPG"}
+   ],
+   "key_concepts": ["Vehmgericht", "secret tribunal", "Westphalia", "holy court"],
+   "summary_status": "authored"
+  }
+ ]
+}

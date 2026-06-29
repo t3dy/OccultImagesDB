@@ -1,0 +1,569 @@
+{
+ "_work": {
+   "key": "eastern_esoterica",
+   "short_id": "EAST",
+   "title": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "various",
+   "date": "9th c. – 20th c.",
+   "century": 18,
+   "place": "Asia (China, Tibet, Japan, India, Thailand, Mongolia)",
+   "region": "Global",
+   "language": "Chinese / Tibetan / Japanese / Sanskrit / Thai",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "eastern_esoterica",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Esotericism",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["taoist alchemy", "talisman", "mandala", "yantra", "trigrams", "subtle body"],
+   "blurb": "A survey of the magical and inner-alchemical traditions of Asia: Taoist internal-alchemy body charts (the Neijing Tu and Xiuzhen Tu) and paper fú talismans, the Taijitu and bagua trigrams, the I Ching hexagram diagrams Leibniz studied, the Luoshu magic square and the feng-shui luopan, Tibetan Vajrayana mandalas (Kalachakra, Hevajra) and wrathful protectors, the Bardo Thodol deities, the Japanese Diamond and Womb mandalas, Abe no Seimei's pentagram and Shinto ofuda/omamori, the Hindu Sri Yantra and chakra subtle-body diagrams, Thai sak-yant, and Mongolian shamanic instruments."
+ },
+ "entries": [
+  {
+   "id": "eastern_esoterica__neijing-tu",
+   "title": "Neijing Tu (Chart of the Inner Landscape)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Chinese, Daoist)",
+   "date": "19th c. (after a Qing stele in the White Cloud Monastery, Beijing)",
+   "place": "China",
+   "era": "modern",
+   "tradition": "alchemy",
+   "motifs": ["neidan", "inner alchemy", "body-cosmos", "qi circulation", "dantian", "daoism", "microcosm", "meditation chart"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:NeijingTu1.jpg",
+   "summary": "The *Neijing Tu* ('Chart of the Inner Landscape / Inner Warp'), a Daoist diagram of the human body imagined as a mountain landscape through which the vital breath circulates in the practice of internal alchemy.\n\n## Iconography\nThe seated body is shown in profile as a vertical world: the head a peaked mountain with sun and moon (the eyes), the spine a river or watercourse, the lower belly a terraced field where an ox ploughs and a child treads a water-wheel to raise the energy. Pagodas, weaving maidens, and a herd-boy mark the three *dantian* (cinnabar fields) and the gates along the spinal pathway.\n\n## Significance\nThe chart visualises [[motif:neidan|neidan]], Daoist 'internal alchemy,' in which the adept refines *jing*, *qi*, and *shen* by circulating breath up the spine and down the front in the 'microcosmic orbit.' The body is read as a sealed cosmos — a [[motif:microcosm|microcosm]] mirroring the heavens — so that the alchemical Work performed by outer adepts on cinnabar and mercury is here turned inward. The best-known version derives from a stone stele preserved at the Baiyun Guan (White Cloud Monastery) in Beijing.\n\n## For artists & game designers\nA complete 'body-as-landscape' map: organs become locations and qi a resource to route — a ready inner-world level design.",
+   "citations": [
+    {"text": "Catherine Despeux, *Taoïsme et corps humain: le Xiuzhen tu* (1994)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:NeijingTu1.jpg"}
+   ],
+   "key_concepts": ["Neijing Tu", "neidan", "microcosmic orbit", "Daoist inner alchemy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__xiuzhen-tu",
+   "title": "Xiuzhen Tu (Chart for the Cultivation of Perfection)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Chinese, Daoist)",
+   "date": "19th c. (Qing dynasty)",
+   "place": "China",
+   "era": "modern",
+   "tradition": "alchemy",
+   "motifs": ["neidan", "inner alchemy", "subtle anatomy", "meridians", "viscera", "daoism", "cultivation chart", "qi"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Xiuzhen_tu_%E4%BF%AE%E7%9C%9F%E5%9C%96_Chart_for_the_Cultivation_of_Perfection.jpg",
+   "summary": "The *Xiuzhen Tu* ('Chart for the Cultivation of Perfection'), a Daoist anatomical-alchemical diagram detailing the inner organs, channels, and energetic centres used in self-cultivation.\n\n## Iconography\nA tall frontal chart of the trunk shows the viscera rendered as palaces and deities, the spinal passage with its named gates, columns of explanatory text, and the circulating routes of breath. Where the *Neijing Tu* is a landscape, the *Xiuzhen Tu* is closer to a labelled medical-mystical anatomy.\n\n## Significance\nThe chart codifies the inner geography of [[motif:neidan|internal alchemy]], naming the bodily 'palaces' inhabited by tutelary spirits and the pathways along which *qi* is refined toward the embryonic 'immortal' body. It belongs to the same lineage as the *Neijing Tu* and was studied by Catherine Despeux in the foundational scholarly treatment of these body-cosmos diagrams. Such charts united Daoist physiology, ritual, and the quest for transcendence in a single image.\n\n## For artists & game designers\nA labelled 'skill-tree of the body' — viscera as upgradeable palaces, each with a resident spirit and a stat.",
+   "citations": [
+    {"text": "Catherine Despeux, *Taoïsme et corps humain: le Xiuzhen tu* (1994)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Xiuzhen_tu_%E4%BF%AE%E7%9C%9F%E5%9C%96_Chart_for_the_Cultivation_of_Perfection.jpg"}
+   ],
+   "key_concepts": ["Xiuzhen Tu", "neidan", "subtle anatomy", "Daoist cultivation"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__taoist-talisman",
+   "title": "Chinese Fú Talisman (Han-dynasty bamboo strip)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Chinese)",
+   "date": "Han dynasty (excavated bamboo slip)",
+   "place": "Wucheng, Zhejiang, China",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": ["fulu", "talisman", "daoist charm", "sigil script", "apotropaic", "bamboo slip", "celestial writing", "exorcism"],
+   "rights": "CC BY-SA 4.0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Chinese_Fulu_talisman_han_dynasty_%E4%B9%8C%E7%A8%8B%E6%B1%89%E7%AE%80%E6%B5%99%E6%B1%9F%E5%87%BA%E5%9C%9F.jpg",
+   "summary": "A Chinese *fú* (符) talisman written on an excavated Han-dynasty bamboo slip, an early example of the Daoist charm-script tradition.\n\n## Iconography\nThe slip bears columns of contorted, quasi-calligraphic graphs — the 'cloud-script' or 'celestial writing' of [[motif:fulu|fú-lù]] talismans — in which characters are deliberately distorted, doubled, or fused into sigils legible to spirits rather than ordinary readers. Such marks command, summon, or repel unseen powers.\n\n## Significance\nThe *fú* (often paired with *lù*, registers) is the core instrument of Daoist ritual magic: a written contract or command issued in the name of celestial bureaucrats, used to heal, exorcise, protect a household, or empower an adept. Believed to descend from heavenly archetypes, fú talismans were burned, ingested in water, or pasted at thresholds. This excavated example shows the practice already current in the Han, anchoring a tradition that runs unbroken into living Daoist and folk use.\n\n## For artists & game designers\nA real ancient 'spell scroll' — distorted glyphs as a commandable script system for an in-world magic language.",
+   "citations": [
+    {"text": "Gil Raz, *The Emergence of Daoism* (2012)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Chinese_Fulu_talisman_han_dynasty_%E4%B9%8C%E7%A8%8B%E6%B1%89%E7%AE%80%E6%B5%99%E6%B1%9F%E5%87%BA%E5%9C%9F.jpg"}
+   ],
+   "key_concepts": ["fú talisman", "fulu", "Daoist charm-script", "apotropaic magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__taijitu",
+   "title": "Taijitu (Yin-Yang Diagram) with Laozi",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Chinese)",
+   "date": "traditional design (modern rendering)",
+   "place": "China",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["taijitu", "yin yang", "supreme ultimate", "polarity", "daoism", "laozi", "complementarity", "cosmogenesis"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Yin_yang_laozi.jpg",
+   "summary": "The *Taijitu* ('Diagram of the Supreme Ultimate'), the familiar yin-yang symbol of interlocked light and dark, here paired with an image of Laozi.\n\n## Iconography\nA circle is divided by an S-curve into a dark ([[motif:yin yang|yin]]) and a light (yang) field, each carrying a seed-dot of its opposite. The rotational symmetry expresses ceaseless interchange: each pole at its fullest already contains the germ of the other.\n\n## Significance\nThe *Taiji* ('Supreme Ultimate') is the undivided whole from which yin and yang, and then the 'ten thousand things,' unfold — a cosmogonic principle systematised by the Song Neo-Confucian Zhou Dunyi in his *Taijitu Shuo*. As the master-symbol of Daoist correlative cosmology it underlies the *I Ching*, internal alchemy, medicine, and feng shui. The associated figure of Laozi marks the diagram's place within the Daoist tradition that took the *Daodejing* as scripture.\n\n## For artists & game designers\nThe ultimate 'balance/duality' icon — instantly legible as paired opposing forces with embedded reversal.",
+   "citations": [
+    {"text": "Zhou Dunyi, *Taijitu Shuo* ('Explanation of the Diagram of the Supreme Ultimate')."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Yin_yang_laozi.jpg"}
+   ],
+   "key_concepts": ["Taijitu", "yin-yang", "Supreme Ultimate", "Daoist cosmology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__bagua",
+   "title": "Bagua Mirror Talismans (Eight Trigrams)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Chinese; photo Physicist1204)",
+   "date": "modern (traditional design)",
+   "place": "China",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["bagua", "eight trigrams", "feng shui mirror", "apotropaic", "taijitu", "directions", "daoism", "protective charm"],
+   "rights": "CC0 / Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Three_Types_of_Modern_Bagua_Mirror_Talismans.jpg",
+   "summary": "Three *bagua* mirror talismans, octagonal protective charms displaying the Eight Trigrams arranged around a central mirror.\n\n## Iconography\nEach charm is an octagon bearing the eight three-line [[motif:eight trigrams|trigrams]] (☰ Qian, ☷ Kun, ☵ Kan, ☲ Li, and the rest) around its rim, usually framing a *Taijitu* and a small convex, flat, or concave mirror at the centre. The arrangement shown is typically the 'Later Heaven' (King Wen) sequence used in feng shui.\n\n## Significance\nThe *bagua* — eight trigrams formed from broken and unbroken lines — is the combinatorial heart of the *I Ching* and of Chinese correlative cosmology, each trigram keyed to a direction, element, season, family member, and bodily organ. Mounted with a mirror above a doorway, the bagua becomes an [[motif:apotropaic|apotropaic]] device that deflects malign *sha* energy in feng-shui practice. The object thus fuses divinatory cosmology with everyday domestic magic.\n\n## For artists & game designers\nAn eight-fold directional key (trigram = element + compass point) usable as a ward icon or an attunement wheel.",
+   "citations": [
+    {"text": "Richard J. Smith, *Fathoming the Cosmos and Ordering the World: The Yijing* (2008)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Three_Types_of_Modern_Bagua_Mirror_Talismans.jpg"}
+   ],
+   "key_concepts": ["bagua", "eight trigrams", "feng shui", "King Wen arrangement"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__iching-hexagrams",
+   "title": "Fuxi Order of the 64 Hexagrams (Grid and Circle)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "After Shao Yong; engraving in James Legge, *The Yi King* (1882)",
+   "date": "1882 engraving (after a Song-dynasty arrangement)",
+   "place": "China / Oxford",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["i ching", "hexagrams", "fuxi sequence", "shao yong", "binary order", "circular diagram", "divination", "cosmology"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fuxi_order_grid_and_circle_(SBE_vol_16,_1882).png",
+   "summary": "The 'Former Heaven' (Fuxi) arrangement of the sixty-four *I Ching* hexagrams as both a square grid and a surrounding circle, reproduced in James Legge's 1882 translation.\n\n## Iconography\nSixty-four six-line [[motif:hexagrams|hexagrams]] are laid out in a square block and again around a great ring. Read in the Fuxi order they follow a strict doubling pattern, so that the sequence is, in effect, a binary count from 0 to 63 expressed in broken and unbroken lines.\n\n## Significance\nThis is the diagram, devised by the Song philosopher Shao Yong, that the printed broadsheet of which Joachim Bouvet sent to Leibniz — who recognised in its order his own binary arithmetic. The *I Ching* (*Book of Changes*) is the foundational Chinese divination classic, its hexagrams generated by yarrow stalks or coins and read for guidance. The Fuxi circle-and-grid makes visible the mathematical regularity beneath the oracle and became a key node in the early-modern European reception of Chinese thought.\n\n## For artists & game designers\nA 64-state binary lattice — every hexagram an address — ideal for a procedurally ordered oracle or map key.",
+   "citations": [
+    {"text": "James Legge, *The Yî King* (Sacred Books of the East, vol. 16, 1882)."},
+    {"text": "Richard J. Smith, *The I Ching: A Biography* (2012)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fuxi_order_grid_and_circle_(SBE_vol_16,_1882).png"}
+   ],
+   "key_concepts": ["I Ching", "Fuxi sequence", "Shao Yong", "hexagram order"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__leibniz-iching",
+   "title": "Leibniz's Diagram of the I Ching Hexagrams (1701)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Joachim Bouvet / G. W. Leibniz (annotated)",
+   "date": "1701",
+   "place": "China / Hanover",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["i ching", "hexagrams", "leibniz", "binary arithmetic", "bouvet", "fuxi diagram", "reception", "mathematics"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Diagram_of_I_Ching_hexagrams_owned_by_Gottfried_Wilhelm_Leibniz,_1701.jpg",
+   "summary": "The diagram of the *I Ching* hexagrams in the arrangement of Shao Yong, owned and annotated by Gottfried Wilhelm Leibniz, sent to him in 1701 by the Jesuit Joachim Bouvet.\n\n## Iconography\nA circular and square arrangement of the sixty-four [[motif:hexagrams|hexagrams]] of the *Book of Changes*, with Leibniz's marginal numbering correlating each figure to a value in his binary notation — broken lines as 0, unbroken as 1.\n\n## Significance\nThis sheet is the famous artefact of cross-cultural mathematics: Bouvet, working in Beijing, recognised that the Fuxi order of the hexagrams matched the binary arithmetic Leibniz had developed, and sent him the diagram. Leibniz published the connection in 1703, reading the ancient Chinese oracle as an unwitting expression of dyadic (base-2) numeration — and, in his Christian-philosophical framing, of creation from 0 (nothing) and 1 (God). It is a touchstone of the European Enlightenment's encounter with Chinese cosmology and a landmark in the prehistory of binary computing.\n\n## For artists & game designers\nThe historical moment binary met divination — a prop for any 'ancient code = modern machine' narrative.",
+   "citations": [
+    {"text": "G. W. Leibniz, 'Explication de l'arithmétique binaire' (1703)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Diagram_of_I_Ching_hexagrams_owned_by_Gottfried_Wilhelm_Leibniz,_1701.jpg"}
+   ],
+   "key_concepts": ["Leibniz", "binary arithmetic", "Bouvet", "I Ching reception"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__luoshu",
+   "title": "Luoshu (Magic Square of Order Three)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Chinese; diagram)",
+   "date": "modern rendering (traditional design)",
+   "place": "China",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["luoshu", "magic square", "nine palaces", "numerology", "cosmology", "turtle", "feng shui", "directions"],
+   "rights": "CC BY-SA 3.0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:New_Defintion_Luo_Shu.jpg",
+   "summary": "A diagram of the *Luoshu* ('Writing of the Luo River'), the 3×3 magic square in which every row, column, and diagonal sums to fifteen, foundational to Chinese numerological cosmology.\n\n## Iconography\nThe nine digits 1–9 are arranged so that the central cell is 5 and each line sums to 15; in traditional form the numbers appear as clusters of dark (yin, even) and light (yang, odd) dots, said to have been seen on the shell of a sacred turtle emerging from the Luo River.\n\n## Significance\nThe [[motif:luoshu|Luoshu]], paired with the *Hetu* ('River Chart'), is one of the two primal diagrams of Chinese cosmology. Its nine cells became the 'Nine Palaces' mapped onto the compass directions, the trigrams, the five phases, and the calendar, and it underlies *feng shui*, divination, and ritual orientation. As the earliest documented magic square, it also occupies a place in the global history of recreational and esoteric mathematics, mirrored later in Islamic and European magic squares.\n\n## For artists & game designers\nA 3×3 numeric grid where every line balances — a built-in puzzle lattice and a directional cosmology in nine cells.",
+   "citations": [
+    {"text": "Frank J. Swetz, *Legacy of the Luoshu* (2002)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:New_Defintion_Luo_Shu.jpg"}
+   ],
+   "key_concepts": ["Luoshu", "magic square", "Nine Palaces", "Chinese numerology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__luopan",
+   "title": "Feng-Shui Compass (Luopan)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Chinese)",
+   "date": "20th c.",
+   "place": "China",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["luopan", "feng shui", "geomancy", "magnetic compass", "trigrams", "concentric rings", "directions", "siting"],
+   "rights": "CC0 / Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Feng_shui_compass_box_from_China,_lacquer_on_wood_and_brass,_20th_century.JPG",
+   "summary": "A Chinese *luopan*, the geomancer's compass used in *feng shui* to determine the auspicious siting and orientation of buildings and graves (lacquer on wood and brass, 20th c.).\n\n## Iconography\nA magnetic needle sits at the centre of a disc ringed by many concentric bands, each inscribed with a layer of cosmological data — the eight [[motif:eight trigrams|trigrams]], the twenty-four directions, the sixty *jiazi* cycle, the lunar mansions, the five phases — read outward from the needle to correlate a site with the heavens.\n\n## Significance\nThe *luopan* is the working instrument of *kanyu* (feng shui), the Chinese geomantic art of harmonising human structures with the flow of *qi* across the landscape. Its many rings compress the whole apparatus of correlative cosmology into a single hand-held device, and its central magnetised needle reflects China's early mastery of the lodestone compass — first developed, in fact, for divination and siting before navigation. Each school of feng shui favours its own ring configuration.\n\n## For artists & game designers\nA dense concentric dial encoding direction, element, and cycle — a perfect diegetic 'cosmic instrument' UI.",
+   "citations": [
+    {"text": "Stephen Skinner, *Guide to the Feng Shui Compass* (2008)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Feng_shui_compass_box_from_China,_lacquer_on_wood_and_brass,_20th_century.JPG"}
+   ],
+   "key_concepts": ["luopan", "feng shui", "geomantic compass", "kanyu"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__kalachakra-mandala",
+   "title": "Kalachakra Sand Mandala (Namgyal monks)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Namgyal Monastery monks (photo Wonderlane)",
+   "date": "modern photograph (traditional rite)",
+   "place": "Tibet / diaspora",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["kalachakra", "sand mandala", "wheel of time", "vajrayana", "tantric initiation", "cosmic palace", "impermanence", "deity yoga"],
+   "rights": "CC BY 2.0 (photo Wonderlane). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Tibetan_Buddhist_Namgyal_monks_preparing_the_Kalachakra_mandala_within_the_pavilion.jpg",
+   "summary": "Tibetan Buddhist monks of the Namgyal Monastery constructing the *Kalachakra* ('Wheel of Time') sand mandala, the most elaborate of the Vajrayana mandalas.\n\n## Iconography\nColoured sand is laid grain by grain into a vast circular [[motif:mandala|mandala]] — a square palace of four gates set within concentric rings of fire, vajra, lotus, and protective deities, all keyed to the Kalachakra deity at the centre. The whole is a two-dimensional ground-plan of a three-dimensional celestial palace.\n\n## Significance\nThe *Kalachakra* tantra integrates cosmology, the calendar, subtle-body yoga, and the figure of the messianic kingdom of Shambhala. Its mandala is built over days for a major public initiation, then ceremonially swept away and poured into water — a deliberate enactment of [[motif:impermanence|impermanence]]. The Dalai Lamas, whose personal monastery is Namgyal, are especially associated with conferring the Kalachakra empowerment. As ritual technology the sand mandala is a temporary cosmos created to be entered in meditation and then dissolved.\n\n## For artists & game designers\nThe canonical four-gated palace plan — concentric protective rings around a central deity, a ready map for a sacred-architecture level.",
+   "citations": [
+    {"text": "Vesna A. Wallace, *The Inner Kalacakratantra* (2001)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Tibetan_Buddhist_Namgyal_monks_preparing_the_Kalachakra_mandala_within_the_pavilion.jpg"}
+   ],
+   "key_concepts": ["Kalachakra", "sand mandala", "Vajrayana", "Shambhala"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__bhavachakra",
+   "title": "Bhavachakra (Wheel of Life), Tawang Monastery",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Tibetan; photo Kingshuk Mondal)",
+   "date": "modern mural (traditional design)",
+   "place": "Tawang Monastery, Arunachal Pradesh, India",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["bhavachakra", "wheel of life", "samsara", "six realms", "yama", "twelve nidanas", "three poisons", "karma"],
+   "rights": "CC BY-SA 4.0 (photo Kingshuk Mondal). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bhavachakra_or_the_Buddhist_Wheel_of_Life_at_Tawang_Monastery,_Tawang,_Arunachal_Pradesh,_India.jpg",
+   "summary": "A *Bhavachakra*, the Buddhist 'Wheel of Life,' painted at the entrance of Tawang Monastery — a diagram of cyclic existence held in the jaws of the lord of death.\n\n## Iconography\nThe great wheel is clutched by [[motif:yama|Yama]], lord of death. At its hub spin the three poisons (cock, snake, pig: greed, hatred, delusion); the next ring shows beings rising and falling by karma; the broad band is divided into the [[motif:six realms|six realms]] of rebirth (gods, demigods, humans, animals, hungry ghosts, hells); the outer rim runs the twelve links of dependent origination (*nidanas*). Outside, a Buddha points to the moon of liberation.\n\n## Significance\nThe *Bhavachakra* is Buddhism's master-diagram of *samsara* — the round of birth, death, and rebirth driven by craving and ignorance — and a teaching device traditionally painted at monastery gates. It compresses the doctrines of karma, the realms of rebirth, and the twelve-fold chain of causation into a single legible image, with the Buddha's gesture marking the only exit. It is among the most widely reproduced of all Buddhist instructional paintings.\n\n## For artists & game designers\nA nested wheel of realms and causes — a full reincarnation/karma system rendered as one diagram.",
+   "citations": [
+    {"text": "Robert Beer, *The Encyclopedia of Tibetan Symbols and Motifs* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bhavachakra_or_the_Buddhist_Wheel_of_Life_at_Tawang_Monastery,_Tawang,_Arunachal_Pradesh,_India.jpg"}
+   ],
+   "key_concepts": ["Bhavachakra", "Wheel of Life", "six realms", "twelve nidanas"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__wrathful-deity",
+   "title": "Diverse Forms of Mahakala and Other Protectors",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Tibetan)",
+   "date": "18th–19th c. (thangka)",
+   "place": "Tibet",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["mahakala", "dharmapala", "wrathful deity", "protector", "thangka", "vajrayana", "flames", "skull crown"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Diverse_Forms_of_Mahakala_and_other_Protectors_-_Google_Art_Project.jpg",
+   "summary": "A Tibetan thangka depicting diverse forms of *Mahakala* and other *dharmapala* (protector) deities, the wrathful guardians of the Buddhist teaching.\n\n## Iconography\nDark-bodied [[motif:wrathful deity|wrathful figures]] crowd the painting: Mahakala in his several forms — multi-armed, fanged, wreathed in flame, crowned with skulls, trampling enemies and brandishing chopper and skull-cup — surrounded by lesser protectors. The terrifying aspect, far from demonic, expresses the ferocity of compassion against ignorance.\n\n## Significance\n*Dharmapalas* such as [[motif:mahakala|Mahakala]] guard the Dharma and its practitioners; Mahakala (a Buddhist transformation of the Hindu Shiva-Mahakala) is among the most important protectors across Tibetan, Mongolian, and East Asian Vajrayana, and a special guardian of particular lineages and the Mongol and Manchu courts. The wrathful iconography is read as the enlightened mind's power to destroy obstacles, not as malevolence — a key principle of tantric symbolism.\n\n## For artists & game designers\nA full bestiary sheet of flame-wreathed guardian forms — directly usable as boss/protector design reference.",
+   "citations": [
+    {"text": "Robert Beer, *The Encyclopedia of Tibetan Symbols and Motifs* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Diverse_Forms_of_Mahakala_and_other_Protectors_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["Mahakala", "dharmapala", "wrathful protector", "thangka"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__vajrayogini",
+   "title": "Vajrayogini Thangka",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Tibetan, commissioned in Dharamsala)",
+   "date": "modern (traditional iconography)",
+   "place": "Tibet / Dharamsala, India",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["vajrayogini", "dakini", "tantric goddess", "thangka", "kapala", "kartika", "red deity", "deity yoga"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Vajrayogini_from_Thangka.jpg",
+   "summary": "A thangka of *Vajrayogini*, the red tantric goddess (*dakini*) central to many Vajrayana meditation practices.\n\n## Iconography\nThe deity is a vivid red, naked but for bone ornaments, dancing in a ring of flame. She holds a curved flaying-knife (*kartika*) and a skull-cup (*kapala*) brimming with blood, a tantric staff (*khatvanga*) at her shoulder, and treads on prone figures — the standard form of the [[motif:dakini|dakini]] who embodies blissful wisdom.\n\n## Significance\n[[motif:vajrayogini|Vajrayogini]] is a 'highest yoga tantra' deity whose practice transmutes desire and the energies of the subtle body into the realisation of emptiness and bliss. As the archetypal *dakini* — a female embodiment of awakened energy — she is a principal meditational deity (*yidam*) in the Sakya, Kagyu, and Gelug traditions. Her fierce, sensual iconography encodes the tantric principle that the passions themselves, skilfully handled, become the path to liberation.\n\n## For artists & game designers\nA flame-haloed dancing figure with knife and skull-cup — a complete character design for a fierce-wisdom archetype.",
+   "citations": [
+    {"text": "Elizabeth English, *Vajrayogini: Her Visualizations, Rituals, and Forms* (2002)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Vajrayogini_from_Thangka.jpg"}
+   ],
+   "key_concepts": ["Vajrayogini", "dakini", "highest yoga tantra", "deity yoga"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__hevajra-mandala",
+   "title": "Nine-Deity Mandala of Two-Armed Hevajra",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Tibetan)",
+   "date": "15th–16th c. (thangka)",
+   "place": "Tibet",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["hevajra", "mandala", "yidam", "consort", "tantric palace", "nine deities", "vajrayana", "circle of fire"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Nine-deity_Mandala_of_Two-armed_Hevajra_-_Google_Art_Project.jpg",
+   "summary": "A painted mandala of the two-armed *Hevajra* in his nine-deity configuration, a Vajrayana meditational diagram (Google Art Project).\n\n## Iconography\nAt the centre of a square palace within concentric protective rings stands [[motif:hevajra|Hevajra]] in union with his consort Nairatmya, surrounded by eight attendant *yogini* goddesses set in the petals of a lotus — the 'nine deities' of the title. The four-gated [[motif:mandala|mandala]] is enclosed by rings of vajras and flame.\n\n## Significance\nHevajra is the central deity of the *Hevajra Tantra*, a major 'mother tantra' especially important to the Sakya school and historically influential at the Mongol Yuan court. The mandala is not merely a picture but a meditative architecture: the practitioner visualises themselves entering the palace and identifying with the central deity and retinue. The nine-deity scheme — a centre plus eight — is a recurrent tantric pattern echoing the Luoshu's nine cells and the eightfold lotus.\n\n## For artists & game designers\nA centre-plus-eight 'party formation' inside a gated palace — a compact mandala template for a hub-and-ring layout.",
+   "citations": [
+    {"text": "David Snellgrove, *The Hevajra Tantra* (1959)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Nine-deity_Mandala_of_Two-armed_Hevajra_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["Hevajra", "nine-deity mandala", "Sakya tantra", "deity yoga"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__tibetan-mandala",
+   "title": "Four Mandalas of the Vajravali Series (Ngor Monastery)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Tibetan, Tsang; Ngor Monastery, Sakya order)",
+   "date": "c. 15th–16th c. (thangka)",
+   "place": "Tsang, Central Tibet",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["mandala", "vajravali", "ngor", "sakya", "four mandalas", "cosmic palace", "thangka", "tantric cycle"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Tibetan,_Central_Tibet,_Tsang_(Ngor_Monastery),_Sakya_order_-_Four_Mandalas_of_the_Vajravali_Series_-_Google_Art_Project.jpg",
+   "summary": "A thangka from the *Vajravali* series of the Ngor Monastery (Sakya order), showing four mandalas arranged in a grid on a single painting.\n\n## Iconography\nFour complete [[motif:mandala|mandalas]] are set in a two-by-two arrangement, each a four-gated palace within rings of flame and vajra, populated by the deities of a particular tantric cycle. The geometric precision and rich mineral pigments are characteristic of the Ngor workshop's mandala sets.\n\n## Significance\nThe *Vajravali* ('Garland of Vajras') is a compendium of tantric mandalas compiled by the Indian master Abhayakaragupta, and the Ngor Monastery — a major Sakya seat founded in 1429 — produced celebrated painted sets illustrating its cycles. Multi-mandala thangkas like this functioned as visual indexes to whole liturgical systems, each diagram a palace the initiate could enter in visualisation. They are prime documents of the systematised, encyclopedic side of Tibetan tantra.\n\n## For artists & game designers\nFour palace-plans on one sheet — a tileset of mandala variations to mix and recombine.",
+   "citations": [
+    {"text": "Martin Brauen, *The Mandala: Sacred Circle in Tibetan Buddhism* (1997)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Tibetan,_Central_Tibet,_Tsang_(Ngor_Monastery),_Sakya_order_-_Four_Mandalas_of_the_Vajravali_Series_-_Google_Art_Project.jpg"}
+   ],
+   "key_concepts": ["Vajravali", "Ngor Monastery", "mandala set", "Sakya"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__bardo-thodol",
+   "title": "Fifty-Eight Wrathful Deities of the Bardo Thodol",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Tibetan; rendering by Djampa)",
+   "date": "traditional iconography (modern rendering)",
+   "place": "Tibet",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["bardo thodol", "tibetan book of the dead", "wrathful deities", "herukas", "intermediate state", "death", "vision", "liberation"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bardo_Thodol_58_Wrathful_Deities.jpg",
+   "summary": "A diagram of the fifty-eight wrathful deities encountered in the intermediate state (*bardo*) according to the *Bardo Thodol*, the so-called Tibetan Book of the Dead.\n\n## Iconography\nRanks of flame-wreathed [[motif:wrathful deity|wrathful deities]] — *herukas* in union with consorts, animal-headed goddesses, and gatekeepers — are arrayed in their fixed iconographic order. With the forty-two peaceful deities they form the 'hundred peaceful and wrathful' that arise to the consciousness of the dying and dead.\n\n## Significance\nThe *Bardo Thodol* ('Liberation Through Hearing in the Intermediate State') is a treasure-text (*terma*) of the Nyingma tradition, read aloud to guide the deceased through the visionary states between death and rebirth. The peaceful and wrathful deities are taught to be projections of the person's own mind; recognising them as such brings liberation, while reacting with fear drives one toward another rebirth. The text became globally famous through W. Y. Evans-Wentz's 1927 edition and shaped Western reception of Tibetan thought, including C. G. Jung's commentary.\n\n## For artists & game designers\nA fixed roster of 58 ordered apparitions — a ready 'judgement of the dead' gauntlet with named, designed forms.",
+   "citations": [
+    {"text": "W. Y. Evans-Wentz (ed.), *The Tibetan Book of the Dead* (1927)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bardo_Thodol_58_Wrathful_Deities.jpg"}
+   ],
+   "key_concepts": ["Bardo Thodol", "wrathful deities", "intermediate state", "Nyingma terma"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__peaceful-deities",
+   "title": "Wrathful Deities of the Guhyagarbha Tantra (chart)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Tibetan; via Himalayan Art Resources)",
+   "date": "traditional iconography (reproduction)",
+   "place": "Tibet",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["guhyagarbha tantra", "wrathful deities", "mandala chart", "nyingma", "herukas", "iconographic key", "vajrayana", "vision"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Wrathful_Deities_of_the_Guhyagarbha_Tantra.png",
+   "summary": "An iconographic chart of the wrathful deities of the *Guhyagarbha Tantra*, the root tantra of the Nyingma 'Mahayoga' that underlies the peaceful-and-wrathful deity scheme.\n\n## Iconography\nThe deities are laid out as a labelled key — the central *herukas* and their retinues, gatekeepers, and goddesses set in ordered registers, in the manner of a reference sheet rather than a devotional thangka. This is the deity assembly from which the [[motif:bardo thodol|Bardo Thodol]] visions are drawn.\n\n## Significance\nThe *Guhyagarbha Tantra* ('Secret Essence') is the foundational scripture for the mandala of the hundred peaceful and wrathful deities in the Nyingma tradition; the *Bardo Thodol* and the *zhitro* ('peaceful-wrathful') practices elaborate its assembly. A systematic chart like this serves practitioners as an iconographic and liturgical map — fixing the names, attributes, and positions of each deity in the mandala. It exemplifies the precise, encoded visual taxonomy of Tibetan tantra.\n\n## For artists & game designers\nA labelled deity-roster sheet — exactly the kind of reference key for building a coherent pantheon with fixed attributes.",
+   "citations": [
+    {"text": "Gyurme Dorje (trans.), *The Guhyagarbha Tantra* and commentaries."},
+    {"text": "Himalayan Art Resources."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Wrathful_Deities_of_the_Guhyagarbha_Tantra.png"}
+   ],
+   "key_concepts": ["Guhyagarbha Tantra", "peaceful and wrathful deities", "Nyingma", "zhitro"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__garuda",
+   "title": "Vishnu Riding Garuda (Nepalese schist)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Nepalese)",
+   "date": "16th–17th c.",
+   "place": "Nepal",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["garuda", "vishnu", "protective deity", "bird mount", "schist sculpture", "naga-eater", "nepal", "apotropaic"],
+   "rights": "CC0 / Public domain. Art Institute of Chicago. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:%22God_Vishnu_Riding_on_His_Mount,_Garuda,_Nepal,_16th_-_17th_century,_Schist%22_-_Tibetan_Buddhist_art_at_Art_Institute_of_Chicago_-_DSC_8260.jpg",
+   "summary": "A Nepalese schist sculpture (16th–17th c.) of the god Vishnu riding his mount *Garuda*, the eagle-being who is a potent protective and serpent-quelling deity (Art Institute of Chicago).\n\n## Iconography\nVishnu sits enthroned upon [[motif:garuda|Garuda]], the great bird-man with wings, beak or eagle features, and human torso, carved in dark stone. Garuda is shown bearing his divine rider aloft, the canonical *vahana* (vehicle) pose.\n\n## Significance\nGaruda, sworn enemy of the *nagas* (serpents), is invoked across Hindu and Buddhist Asia as a protector against snakebite, poison, and malign serpent-spirits; Garuda *mantras* and amulets are a staple of protective magic from India and Nepal to Tibet, Southeast Asia, and beyond. In the Vajrayana he also appears as a wrathful enlightened form. As Vishnu's mount he links the great Hindu pantheon to the everyday apotropaic practice of warding off poison and disease.\n\n## For artists & game designers\nA winged bird-rider deity with a clear function (anti-poison, anti-serpent) — a ready protective-summon design.",
+   "citations": [
+    {"text": "Pratapaditya Pal, *Art of Nepal* (1985)."},
+    {"text": "Art Institute of Chicago (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:%22God_Vishnu_Riding_on_His_Mount,_Garuda,_Nepal,_16th_-_17th_century,_Schist%22_-_Tibetan_Buddhist_art_at_Art_Institute_of_Chicago_-_DSC_8260.jpg"}
+   ],
+   "key_concepts": ["Garuda", "Vishnu", "protective deity", "naga-queller"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__diamond-mandala",
+   "title": "Diamond World Mandala (Kongōkai), Mandala of the Two Worlds",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Japanese; Chester Beatty Library copy)",
+   "date": "later copy of the esoteric (Shingon) type",
+   "place": "Japan",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["diamond world", "kongokai", "shingon", "mandala", "vairocana", "nine assemblies", "esoteric buddhism", "grid"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Diamond_World_from_Mandala_of_the_Two_Worlds_(Kong%C5%8Dkai_Taiz%C5%8Dkai_mandala)_(CBL_J_1216.1).jpg",
+   "summary": "The *Kongōkai* (Diamond World) mandala, one half of the paired Mandala of the Two Worlds central to Japanese Shingon esoteric Buddhism (Chester Beatty Library copy).\n\n## Iconography\nThe Diamond World is laid out as a three-by-three grid of nine 'assemblies,' each a sub-[[motif:mandala|mandala]] of Buddhas and bodhisattvas centred on the cosmic Buddha [[motif:vairocana|Vairocana]] (Dainichi). The rigid lattice expresses the adamantine, indestructible wisdom aspect of reality.\n\n## Significance\nWith its partner the *Taizōkai* (Womb World), the *Kongōkai* forms the *ryōkai* mandala that Kūkai brought from China in 806 to found the Shingon school. The Diamond World represents the unchanging wisdom of Vairocana; the Womb World the dynamic compassion that pervades phenomena. Hung facing each other in the ritual hall, the pair maps the entire esoteric cosmos and structures Shingon initiation and visualisation. The nine-assembly grid is one of East Asian Buddhism's most influential diagrammatic schemes.\n\n## For artists & game designers\nA 3×3 grid of self-contained sub-worlds, each centred on the same lord — a fractal, modular map structure.",
+   "citations": [
+    {"text": "Adrian Snodgrass, *The Matrix and Diamond World Mandalas in Shingon Buddhism* (1988)."},
+    {"text": "Chester Beatty Library."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Diamond_World_from_Mandala_of_the_Two_Worlds_(Kong%C5%8Dkai_Taiz%C5%8Dkai_mandala)_(CBL_J_1216.1).jpg"}
+   ],
+   "key_concepts": ["Kongōkai", "Diamond World mandala", "Shingon", "Vairocana"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__womb-mandala",
+   "title": "Womb World Mandala (Taizōkai), Buddha-in-Lotus detail",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Japanese; Kyōōgokoku-ji / Tō-ji)",
+   "date": "9th c.",
+   "place": "Japan",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": ["womb world", "taizokai", "shingon", "mandala", "central lotus", "vairocana", "esoteric buddhism", "eight petals"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Buddha_in_lotus_detail,_Mandala_of_the_Two_Realms_(Ky%C5%8D%C5%8Dgokoku-ji)_9th-century_painting_of_Japan_(cropped).jpg",
+   "summary": "A detail of the central lotus from the *Taizōkai* (Womb World) mandala, the ninth-century Mandala of the Two Realms preserved at Kyōōgokoku-ji (Tō-ji), Kyoto.\n\n## Iconography\nThe detail shows the heart of the Womb World: the Buddha [[motif:vairocana|Vairocana]] (Dainichi) seated at the centre of an eight-petalled red lotus, each petal bearing a Buddha or bodhisattva. From this 'Central Dais of Eight Petals' the compassion of the cosmic Buddha radiates outward through the mandala's enclosing courts.\n\n## Significance\nThe *Taizōkai* ('Womb-Store World') is the matrix-half of the Shingon two-world [[motif:mandala|mandala]], representing the principle (*ri*) and compassionate unfolding of reality, complementary to the Diamond World's wisdom. The eight-petalled lotus at its core is among the most reproduced of all Buddhist diagrams, a model of how a single centre generates an ordered cosmos. This Tō-ji set is one of the oldest surviving versions, descending from Kūkai's transmission of esoteric Buddhism to Japan.\n\n## For artists & game designers\nThe eight-petal lotus with a central lord and eight aspects — a clean radial hub for a skill wheel or pantheon ring.",
+   "citations": [
+    {"text": "Adrian Snodgrass, *The Matrix and Diamond World Mandalas in Shingon Buddhism* (1988)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Buddha_in_lotus_detail,_Mandala_of_the_Two_Realms_(Ky%C5%8D%C5%8Dgokoku-ji)_9th-century_painting_of_Japan_(cropped).jpg"}
+   ],
+   "key_concepts": ["Taizōkai", "Womb World mandala", "Shingon", "eight-petalled lotus"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__seiman-pentagram",
+   "title": "Abe no Seimei (Onmyōji with the Seiman Pentagram)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Suzuki Masanao (Japan, 1815–1890)",
+   "date": "19th c.",
+   "place": "Japan",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["abe no seimei", "onmyodo", "seiman pentagram", "five elements", "diviner", "shikigami", "talisman", "heian magic"],
+   "rights": "Public domain. LACMA. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Abe_no_Seimei_LACMA_AC1998.249.58.jpg",
+   "summary": "A nineteenth-century Japanese print of *Abe no Seimei*, the legendary Heian-era *onmyōji* (diviner-magician) whose emblem is the five-pointed *Seiman* star (Suzuki Masanao; LACMA).\n\n## Iconography\nThe sage is shown in courtly robes amid the apparatus of his art. His signature device, the [[motif:seiman pentagram|Seiman]], is a unicursal five-pointed star whose five points stand for the five phases — wood, fire, earth, metal, water — and their cycles of generation and conquest, used as a protective seal.\n\n## Significance\nAbe no Seimei (921–1005) is the most famous practitioner of *onmyōdō* ('the way of yin and yang'), the Japanese court discipline blending Chinese five-phase cosmology, calendrical science, divination, and apotropaic ritual. Around him gathered legends of commanding *shikigami* (spirit-servants) and defeating curses. The Seiman pentagram and the grid-like *Dōman* remain his emblems, still sold as protective talismans at the Seimei Shrine in Kyoto. He embodies the East Asian counterpart to the learned ritual magus.\n\n## For artists & game designers\nA court-sorcerer archetype with a ready sigil (five-element pentagram) and spirit-servant mechanic.",
+   "citations": [
+    {"text": "Shigeta Shin'ichi, on onmyōdō and Abe no Seimei."},
+    {"text": "LACMA."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Abe_no_Seimei_LACMA_AC1998.249.58.jpg"}
+   ],
+   "key_concepts": ["Abe no Seimei", "onmyōdō", "Seiman pentagram", "five phases"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__ofuda",
+   "title": "Ofuda Paper Talisman (Yanagidani Kannon)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Japanese; Yanagidani Kannon temple)",
+   "date": "modern (traditional form)",
+   "place": "Japan",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["ofuda", "talisman", "kannon", "household amulet", "sacred name", "apotropaic", "shinto buddhist", "paper charm"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ofuda_from_Yanagidani_Kannon.jpg",
+   "summary": "An *ofuda*, a Japanese paper (or wooden) household talisman, issued by the Yanagidani Kannon temple.\n\n## Iconography\nThe tall strip bears the name or seal of the enshrined deity or Buddha — here associated with [[motif:kannon|Kannon]], the bodhisattva of compassion — in bold calligraphy, often with a temple stamp. It is meant to be enshrined in the home, typically on a *kamidana* or *butsudan*, or pasted by the door.\n\n## Significance\nThe [[motif:ofuda|ofuda]] carries the presence and protective power of the deity into the household, warding misfortune, fire, and illness over the year before being returned and renewed. Issued by both Shinto shrines and Buddhist temples, ofuda exemplify Japanese 'practical religion,' in which sacred names and seals function as portable, renewable instruments of blessing and protection — the everyday end of the same talismanic logic seen in Daoist fú and Buddhist *dharani* slips.\n\n## For artists & game designers\nA renewable, place-based blessing token — a clean 'shrine buff' item with an annual expiry mechanic.",
+   "citations": [
+    {"text": "Ian Reader & George J. Tanabe, *Practically Religious* (1998)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ofuda_from_Yanagidani_Kannon.jpg"}
+   ],
+   "key_concepts": ["ofuda", "Japanese talisman", "Kannon", "household protection"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__omamori",
+   "title": "Omamori Amulet (Tachiki Kannon)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Japanese; Tachiki Kannon temple)",
+   "date": "modern (traditional form)",
+   "place": "Japan",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["omamori", "amulet", "brocade pouch", "kannon", "protection", "portable charm", "shinto buddhist", "blessing"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Tachiki-Kannon_Omamori.jpg",
+   "summary": "An *omamori*, a Japanese portable amulet in a small brocade pouch, issued by the Tachiki Kannon temple.\n\n## Iconography\nThe charm is a little drawstring bag of patterned silk brocade, printed or embroidered with the temple's name and purpose. Sealed inside is a slip of paper or wood (a miniature *ofuda*) bearing the sacred name; the pouch is never meant to be opened.\n\n## Significance\nThe [[motif:omamori|omamori]] is the portable counterpart of the household ofuda — carried on the person, hung from a bag or phone, or kept in a car for a specific blessing: traffic safety, success in study, easy childbirth, love, or general protection. Like the ofuda it embodies the deity's protective power and is renewed yearly. Omamori are among the most visible everyday objects of Japanese religious life and a vivid example of talismanic practice thriving in a modern, commercial setting.\n\n## For artists & game designers\nA wearable single-purpose charm in a sealed pouch — a tidy equippable buff item with thematic variants.",
+   "citations": [
+    {"text": "Ian Reader & George J. Tanabe, *Practically Religious* (1998)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Tachiki-Kannon_Omamori.jpg"}
+   ],
+   "key_concepts": ["omamori", "Japanese amulet", "portable protection", "brocade charm"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__sak-yant",
+   "title": "Yant Paed Tidt (Eight-Direction Thai Yantra)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Thai)",
+   "date": "traditional design (modern rendering)",
+   "place": "Thailand",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["sak yant", "thai yantra", "khom script", "eight directions", "protective tattoo", "buddhist magic", "unalome", "amulet"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Yant_Paed_Tidt.jpg",
+   "summary": "*Yant Paed Tidt* ('Yantra of the Eight Directions'), a classic Thai *sak yant* design used as a protective tattoo or cloth/paper amulet.\n\n## Iconography\nThe geometric [[motif:sak yant|yantra]] radiates protection toward the eight compass directions, its cells filled with sacred *Khom* (Khmer) script syllables and topped by spiralling *unalome* and rows of mantra-letters. Each direction and syllable carries a specific guarding power.\n\n## Significance\n*Sak yant* is the Thai (and broader Southeast Asian) tradition of sacred yantra tattooing, practised by Buddhist monks and lay masters (*ajarn*), fusing Theravada Buddhist devotion with older animist and Brahmanic magic. The designs confer protection, charisma, invulnerability, or luck, activated by the master's recited *kata* (mantra). The *Yant Paed Tidt* in particular shields the bearer from danger arriving from any of the eight directions. The same yantras appear on cloth (*pha yant*) and rolled-metal *takrut* amulets.\n\n## For artists & game designers\nA directional ward (protection from eight headings) rendered as inscribed geometry — a strong tattoo/sigil asset.",
+   "citations": [
+    {"text": "On sak yant, see studies of Thai protective tattooing and Buddhist magic."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Yant_Paed_Tidt.jpg"}
+   ],
+   "key_concepts": ["sak yant", "Thai yantra", "Khom script", "protective tattoo"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__sri-yantra",
+   "title": "Sri Yantra (Engraved Copper Plate)",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Indian)",
+   "date": "traditional design (engraved plate)",
+   "place": "India",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["sri yantra", "shri chakra", "interlocking triangles", "tantra", "bindu", "tripura sundari", "cosmogram", "meditation diagram"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sri_Yantra_copper2.jpg",
+   "summary": "A *Sri Yantra* (Shri Chakra) engraved on a copper plate, the supreme diagram of the Hindu Shakta tantric tradition.\n\n## Iconography\nNine interlocking [[motif:interlocking triangles|triangles]] — five pointing down (the goddess) and four up (the god) — interpenetrate to generate forty-three smaller triangles around a central point (*bindu*), the whole enclosed by lotus petals and a square 'earth-citadel' with four gates. The intricate symmetry radiates from, and resolves into, the central dot.\n\n## Significance\nThe [[motif:sri yantra|Sri Yantra]] is the geometric body of the goddess Lalita Tripura Sundari and the central icon of the Shri Vidya school of tantra. It is read as a cosmogram — the unfolding of the manifest universe from the undifferentiated *bindu* and its reabsorption — and serves as a support for worship and meditation, the adept ascending its nine enclosures (*chakras*) inward toward the centre. Its mathematically demanding construction has fascinated geometers as well as devotees.\n\n## For artists & game designers\nA recursive nested-triangle cosmogram converging on a single point — a striking sacred-geometry asset and meditation-target motif.",
+   "citations": [
+    {"text": "Madhu Khanna, *Yantra: The Tantric Symbol of Cosmic Unity* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sri_Yantra_copper2.jpg"}
+   ],
+   "key_concepts": ["Sri Yantra", "Shri Vidya", "bindu", "tantric cosmogram"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__chakra-diagram",
+   "title": "Yogin in Meditation with Chakras and Kundalini",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Indian)",
+   "date": "19th c. (Rajasthan/Punjab Hills type)",
+   "place": "India",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["chakras", "kundalini", "subtle body", "serpent power", "nadis", "yoga", "lotus centres", "meditation"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Yogin_in_meditation_chakras_kundalini_snake.jpg",
+   "summary": "An Indian painting of a yogin in meditation, his body marked with the *chakras* and the rising *kundalini* serpent of the subtle anatomy.\n\n## Iconography\nThe seated figure is overlaid with a vertical column of lotus-[[motif:chakras|chakras]] strung along the central channel, from the root at the perineum to the thousand-petalled lotus at the crown. The coiled [[motif:kundalini|kundalini]] serpent, the dormant 'serpent power,' rises through them, and the side channels (*ida* and *pingala*) twine around the central *sushumna*.\n\n## Significance\nThis is the classic visual scheme of *kundalini yoga* and tantric physiology: a [[motif:subtle body|subtle body]] of channels (*nadis*) and energy-centres (*chakras*) superimposed on the physical form. Through breath, posture, and visualisation the practitioner awakens the kundalini at the base and draws it upward to union at the crown, attaining liberation. Systematised in texts like the *Sat-Chakra-Nirupana* (and popularised in the West by Arthur Avalon's *The Serpent Power*, 1919), this map of the inner body parallels the Daoist neidan charts as Asia's other great science of energetic self-cultivation.\n\n## For artists & game designers\nA vertical 'energy ladder' of named centres with a rising-power mechanic — a ready progression/charge system overlaid on a body.",
+   "citations": [
+    {"text": "Arthur Avalon (John Woodroffe), *The Serpent Power* (1919)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Yogin_in_meditation_chakras_kundalini_snake.jpg"}
+   ],
+   "key_concepts": ["chakras", "kundalini", "subtle body", "nadis"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "eastern_esoterica__mongolian-shaman",
+   "title": "Mongolian Shaman's Instruments",
+   "work": "Eastern Esoterica: Magic & Inner Alchemy of Asia",
+   "creator": "Anonymous (Mongolian; photo Gary Todd)",
+   "date": "traditional objects (modern photograph)",
+   "place": "Mongolia",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["shamanism", "tengrism", "ritual drum", "spirit costume", "mirror toli", "trance", "mongolia", "ancestor spirits"],
+   "rights": "CC0 / Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mongolian_Traditional_Culture_Shaman_Instruments_(35668650776).jpg",
+   "summary": "A display of Mongolian shaman's instruments — the drum, costume, and ritual implements used to enter trance and engage the spirit world.\n\n## Iconography\nThe objects include the broad single-headed frame [[motif:ritual drum|drum]] (the shaman's 'mount' to the other world), a fringed and tasselled spirit-costume hung with metal pendants, bells, and bronze mirrors (*toli*), and assorted ritual gear. Their materials and ornament identify the wearer's helping spirits.\n\n## Significance\nMongolian shamanism, rooted in *Tengrism* (the cult of the sky-father Tengri and the spirits of land and ancestors), centres on the shaman (*böö*) who drums into ecstatic trance to journey among spirits, heal, divine, and mediate with the dead. The drum carries the shaman in flight; the mirror deflects harmful forces and 'sees' spirits; the costume's pendants give voice to the helpers. Surviving alongside and beneath Tibetan Buddhism, Mongolian shamanism is a key living branch of the North-Asian shamanic complex studied by Mircea Eliade and others.\n\n## For artists & game designers\nA complete shaman kit — drum as travel-portal, mirror as spirit-sight, costume as spirit-roster — a ready toolkit of ritual items.",
+   "citations": [
+    {"text": "Mircea Eliade, *Shamanism: Archaic Techniques of Ecstasy* (1951)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mongolian_Traditional_Culture_Shaman_Instruments_(35668650776).jpg"}
+   ],
+   "key_concepts": ["Mongolian shamanism", "Tengrism", "ritual drum", "shaman's mirror"],
+   "summary_status": "authored"
+  }
+ ]
+}

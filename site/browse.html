@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Themes &amp; Figures — Occult Image DB</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site-head">
+  <div class="wrap head-inner">
+    <a class="brand" href="index.html"><span class="brand-mark">☿</span><span class="brand-name">Occult Image DB</span></a>
+    <nav class="head-nav">
+      <a href="index.html">Explore</a><a href="gallery.html">Gallery</a><a href="browse.html">Themes</a><a href="history.html">History</a><a href="about.html">About</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap browse-doc">
+  <h1>Themes &amp; Figures</h1>
+  <p class="lede">The archive is relationally linked: every image belongs to a <em>work</em>, by a
+    <em>creator</em>, within a <em>tradition</em>, depicting <em>motifs</em>, in an <em>era</em>.
+    Follow any thread through the whole history.</p>
+  <div id="browse"></div>
+</main>
+<footer class="site-foot"><div class="wrap"><p>Occult Image DB. <a href="history.html">Walk the history →</a></p></div></footer>
+<script>
+const cap = s => (s||"").replace(/_/g," ").replace(/\b\w/g,c=>c.toUpperCase());
+const ERA_LABEL={antiquity:"Antiquity",medieval:"Medieval",renaissance:"Renaissance",early_modern:"Early modern",modern:"Modern"};
+const ERA_ORDER={antiquity:0,medieval:1,renaissance:2,early_modern:3,modern:4};
+const elink=(type,key,label,sub,blurb,count)=>`<a class="tile" href="entity.html?type=${type}&key=${encodeURIComponent(key)}">
+  <p class="tt">${label}</p>${sub?`<p class="td">${sub}</p>`:""}${blurb?`<p class="tb">${blurb}</p>`:""}
+  ${count!=null?`<span class="tcount">${count} image${count===1?"":"s"} →</span>`:""}</a>`;
+Promise.all([fetch("../data/entities.json").then(r=>r.json()),fetch("../data/catalog.json").then(r=>r.json())])
+.then(([ent,cat])=>{
+  const items=cat.items||[], works=cat.works||[];
+  const byTrad=k=>items.filter(i=>i.tradition===k).length;
+  const byWork=k=>items.filter(i=>i.work_key===k).length;
+  const byEra=k=>items.filter(i=>i.era===k).length;
+  const creatorCount=c=>items.filter(i=>(c.works||[]).includes(i.work_key)).length;
+  const eras=[...new Set(items.map(i=>i.era))].sort((a,b)=>ERA_ORDER[a]-ERA_ORDER[b]);
+  let html="";
+  html+=`<section class="browse-section"><h2>By era</h2><p>The chronological spine — from the oldest stratum to the early-modern Baroque.</p><div class="tilegrid">`
+    + eras.map(e=>elink("era",e,ERA_LABEL[e]||cap(e),"",ERA_BLURB(e),byEra(e))).join("")+`</div></section>`;
+  html+=`<section class="browse-section"><h2>Traditions</h2><p>The great currents of Western esotericism.</p><div class="tilegrid">`
+    + (ent.traditions||[]).map(t=>elink("tradition",t.key,t.name,"",t.blurb,byTrad(t.key))).join("")+`</div></section>`;
+  html+=`<section class="browse-section"><h2>Figures</h2><p>The makers of the images.</p><div class="tilegrid">`
+    + (ent.creators||[]).map(c=>elink("creator",c.key,c.name,c.dates,c.blurb,creatorCount(c))).join("")+`</div></section>`;
+  html+=`<section class="browse-section"><h2>Motifs</h2><p>What the images depict — search by what you actually need.</p><div class="tilegrid">`
+    + (ent.motifs||[]).map(m=>elink("motif",m.key,m.name,"",m.blurb,null)).join("")+`</div></section>`;
+  html+=`<section class="browse-section"><h2>Source works</h2><p>The books and manuscripts themselves.</p><div class="tilegrid">`
+    + works.slice().sort((a,b)=>(a.date>b.date?1:-1)).map(w=>elink("work",w.key,w.title,`${w.creator} · ${w.date}`,w.blurb,byWork(w.key))).join("")+`</div></section>`;
+  document.getElementById("browse").innerHTML=html;
+});
+function ERA_BLURB(e){return {antiquity:"Hellenistic origins — the first ouroboros.",medieval:"The earliest manuscript stratum.",renaissance:"Rediscovery of Hermes; the great illuminated cycles.",early_modern:"The Baroque of the engraved emblem.",modern:"The occult revival."}[e]||"";}
+</script>
+</body>
+</html>

@@ -1,0 +1,629 @@
+{
+  "_note": "Hand-authored relational entities. Durable. Rendered by site/entity.html. Cross-link with [[motif:key]], [[creator:key]], [[tradition:key]] inside summaries; resolved to links at render time. Mark unknowns [PLACEHOLDER: ...].",
+  "creators": [
+    {
+      "key": "michael-maier",
+      "name": "Michael Maier",
+      "dates": "1568–1622",
+      "role": "Physician, alchemist, emblematist",
+      "works": [
+        "atalanta_fugiens",
+        "maier_arcana",
+        "maier_viatorium",
+        "symbola_aureae"
+      ],
+      "blurb": "Court physician to Rudolf II and the great emblematist of the alchemical Baroque.",
+      "summary": "German physician, alchemist, and poet who served as physician and counsellor to the Holy Roman Emperor Rudolf II in Prague — the most alchemically-minded court in Europe. Maier is the supreme exponent of the *emblematic* mode of alchemy: his [[work:atalanta_fugiens]] (1617/18) fuses engraving, Latin epigram, and polyphonic fugue into a 'polymodal' meditation on the Work. In [[work:maier_arcana]] he reads classical and Egyptian myth as veiled chymistry — the 'mytho-alchemical' method that shaped how the whole tradition saw figures like Osiris and Atalanta. Closely associated with the early [[tradition:rosicrucian]] furore, Maier helped carry Hermetic learning between the German lands and Jacobean England.",
+      "links": [
+        {
+          "label": "Furnace and Fugue (Atalanta digital edition)",
+          "url": "https://furnaceandfugue.org/"
+        },
+        {
+          "label": "Wikipedia — Michael Maier",
+          "url": "https://en.wikipedia.org/wiki/Michael_Maier"
+        },
+        {
+          "label": "H. M. E. de Jong, 'Sources of an Alchemical Book of Emblems'",
+          "url": "https://www.google.com/books/edition/Michael_Maier_s_Atalanta_Fugiens/NrkrAAAAYAAJ"
+        }
+      ]
+    },
+    {
+      "key": "francesco-colonna",
+      "name": "Francesco Colonna",
+      "dates": "fl. late 15th c.",
+      "role": "Author (attributed)",
+      "works": [
+        "hypnerotomachia"
+      ],
+      "blurb": "Presumed author of the Hypnerotomachia Poliphili, the great illustrated dream-romance.",
+      "summary": "The shadowy author to whom the [[work:hypnerotomachia]] (Venice, Aldus Manutius, 1499) is attributed — an acrostic in the book's chapter initials spells *Poliam Frater Franciscus Columna Peramavit*. Whether he was the Venetian Dominican friar of that name or a different Colonna remains debated. The work itself is a Neoplatonic, antiquarian dream-quest whose ~172 woodcuts became a reservoir of Renaissance imagery — triumphs, ruins, hieroglyphs, and nymphs — that fed directly into the emblem and alchemical-[[tradition:reception]] traditions.",
+      "links": [
+        {
+          "label": "Internet Archive — 1499 Aldine edition",
+          "url": "https://archive.org/details/hypnerotomachiap00colo"
+        },
+        {
+          "label": "Wikipedia — Hypnerotomachia Poliphili",
+          "url": "https://en.wikipedia.org/wiki/Hypnerotomachia_Poliphili"
+        }
+      ]
+    },
+    {
+      "key": "heinrich-khunrath",
+      "name": "Heinrich Khunrath",
+      "dates": "c.1560–1605",
+      "role": "Physician, Christian theosopher",
+      "works": [
+        "khunrath"
+      ],
+      "blurb": "Author of the Amphitheatrum Sapientiae Aeternae and its great circular engravings.",
+      "summary": "Physician and Christian-Hermetic theosopher whose [[work:khunrath]] (*Amphitheatrum Sapientiae Aeternae*, 1595/1609) is famous for a handful of magnificent circular copperplates — above all the 'Oratory–Laboratory' plate, which unites a kneeling man at prayer with an alchemical furnace, declaring that the Work is equally *ora et labora* (pray and work). Khunrath fuses [[tradition:alchemy]], Paracelsian medicine, and [[tradition:kabbalah]] into a 'Christian Cabala' of the regenerate soul. A key bridge between practical chymistry and mystical theosophy.",
+      "links": [
+        {
+          "label": "Internet Archive — Amphitheatrum",
+          "url": "https://archive.org/details/amphitheatrumsap00khun"
+        },
+        {
+          "label": "Wikipedia — Heinrich Khunrath",
+          "url": "https://en.wikipedia.org/wiki/Heinrich_Khunrath"
+        }
+      ]
+    },
+    {
+      "key": "daniel-stolcius",
+      "name": "Daniel Stolcius von Stolcenberg",
+      "dates": "c.1600–after 1660",
+      "role": "Physician, emblem anthologist",
+      "works": [
+        "stolcius"
+      ],
+      "blurb": "Compiler of the Viridarium Chymicum, a visual anthology of the alchemical emblem.",
+      "summary": "Bohemian physician who studied at Marburg and gathered the engraved emblems of his masters — chiefly [[creator:michael-maier]] and Johann Daniel Mylius — into the *Viridarium Chymicum* ('Chymical Garden', 1624), 107 plates each with an epigram. The book functions as a printed museum of the alchemical-emblem tradition, and many images survive best through Stolcius's anthology.",
+      "links": [
+        {
+          "label": "Internet Archive — Viridarium Chymicum",
+          "url": "https://archive.org/details/viridariumchymic00stol"
+        }
+      ]
+    },
+    {
+      "key": "johann-daniel-mylius",
+      "name": "Johann Daniel Mylius",
+      "dates": "c.1583–1642",
+      "role": "Physician, composer, alchemist",
+      "works": [
+        "mylius_plates"
+      ],
+      "blurb": "Author of the Philosophia Reformata and its widely-copied emblem series.",
+      "summary": "Hessian physician and lutenist-composer whose *Philosophia Reformata* (1622) carries a celebrated series of engraved emblems (cut by Balthasar Schwan) charting the stages of the opus. Mylius's plates were endlessly reused — many reappear in [[creator:daniel-stolcius]]'s anthology — making him one of the most visually influential of the [[tradition:alchemy]] compilers.",
+      "links": [
+        {
+          "label": "Internet Archive — Philosophia Reformata",
+          "url": "https://archive.org/details/philosophiarefor00myli"
+        }
+      ]
+    },
+    {
+      "key": "daniel-cramer",
+      "name": "Daniel Cramer",
+      "dates": "1568–1637",
+      "role": "Lutheran theologian, emblematist",
+      "works": [
+        "cramer"
+      ],
+      "blurb": "Author of the Emblemata Sacra and its flaming-heart devotional emblems.",
+      "summary": "Pomeranian Lutheran theologian whose *Emblemata Sacra* (1624) presents fifty emblems built around a flaming, suffering, transforming heart. Though devotional rather than laboratory alchemy, Cramer's heart-emblems carry strong [[tradition:rosicrucian]] resonance and were absorbed into the wider esoteric image-world of the 17th century.",
+      "links": [
+        {
+          "label": "Internet Archive — Emblemata Sacra",
+          "url": "https://archive.org/details/emblematasacraho00cram"
+        }
+      ]
+    },
+    {
+      "key": "salomon-trismosin",
+      "name": "Salomon Trismosin (attrib.)",
+      "dates": "fl. 16th c. (legendary)",
+      "role": "Alchemist (attributed)",
+      "works": [
+        "splendor_solis"
+      ],
+      "blurb": "Legendary author-figure of the Splendor Solis, the most beautiful alchemical manuscript.",
+      "summary": "The semi-legendary alchemist to whom the [[work:splendor_solis]] is ascribed — said in tradition to have been the teacher of Paracelsus. The attribution is uncertain and probably fictional; what survives is a sumptuously illuminated cycle of 22 allegorical plates set in painted Renaissance borders, copied in several luxurious manuscripts. A high point of [[tradition:alchemy]] as painted allegory.",
+      "links": [
+        {
+          "label": "Internet Archive — Splendor Solis",
+          "url": "https://archive.org/details/splendor-solis"
+        },
+        {
+          "label": "British Library — Splendor Solis (Harley 3469)",
+          "url": "https://www.bl.uk/collection-items/splendor-solis"
+        }
+      ]
+    },
+    {
+      "key": "pseudo-geber",
+      "name": "Pseudo-Geber",
+      "dates": "fl. late 13th c.",
+      "role": "Alchemist (Latin)",
+      "works": [
+        "geber_summa"
+      ],
+      "blurb": "The unknown Latin author behind the most influential medieval alchemical corpus.",
+      "summary": "The anonymous Latin writer (often identified with Paul of Taranto) who composed the *Summa Perfectionis* under the borrowed authority of the great Arabic alchemist Jābir ibn Hayyān ('Geber'). The pseudo-Geberian corpus systematised the corpuscular theory of matter and the apparatus of distillation, dominating [[tradition:alchemy]] in the Latin West for three centuries and supplying its core furnace-and-alembic iconography.",
+      "links": [
+        {
+          "label": "Wikipedia — Pseudo-Geber",
+          "url": "https://en.wikipedia.org/wiki/Pseudo-Geber"
+        }
+      ]
+    },
+    {
+      "key": "george-ripley",
+      "name": "George Ripley",
+      "dates": "c. 1415–1490",
+      "role": "Canon, alchemist",
+      "works": [
+        "ripley_scrolls"
+      ],
+      "blurb": "English canon of Bridlington whose name attaches to the great emblematic scrolls.",
+      "summary": "Augustinian canon of Bridlington and England's most famous medieval alchemist, author of the *Compound of Alchymy* (the 'Twelve Gates'). The towering illustrated **Ripley Scrolls** — dragons, toads, the alchemical tree, the bird of Hermes — were produced in his tradition over the following century and are among the most spectacular surviving objects of [[tradition:alchemy]].",
+      "links": [
+        {
+          "label": "Wikipedia — George Ripley (alchemist)",
+          "url": "https://en.wikipedia.org/wiki/George_Ripley_(alchemist)"
+        },
+        {
+          "label": "Science History Institute — Ripley Scroll",
+          "url": "https://www.sciencehistory.org/"
+        }
+      ]
+    },
+    {
+      "key": "robert-fludd",
+      "name": "Robert Fludd",
+      "dates": "1574–1637",
+      "role": "Physician, Hermetic philosopher",
+      "works": [
+        "cosmology",
+        "fludd"
+      ],
+      "blurb": "English Paracelsian physician and the great visual cosmologist of Hermeticism.",
+      "summary": "Oxford-educated physician and the most ambitious visual cosmologist of the [[tradition:hermetic]] tradition. Fludd's vast *Utriusque Cosmi … Historia* (1617–21) diagrams the entire universe as a system of correspondences between macrocosm and microcosm — the great chain from God's hand to ape-Art (*Integra Naturae Speculum*), the divine monochord tuning the spheres, the dark chaos before creation. A vocal defender of the [[tradition:rosicrucian]] manifestos, he carried on famous polemics with Kepler and Mersenne over whether the cosmos is to be read mathematically or symbolically.",
+      "links": [
+        {
+          "label": "Wikipedia — Robert Fludd",
+          "url": "https://en.wikipedia.org/wiki/Robert_Fludd"
+        },
+        {
+          "label": "US National Library of Medicine — Fludd",
+          "url": "https://www.nlm.nih.gov/"
+        }
+      ]
+    },
+    {
+      "key": "john-dee",
+      "name": "John Dee",
+      "dates": "1527–1608/9",
+      "role": "Mathematician, astrologer, magus",
+      "works": [
+        "figures"
+      ],
+      "blurb": "Elizabethan polymath, royal astrologer, and angel-summoner; author of the Monas Hieroglyphica.",
+      "summary": "Mathematician, astronomer, antiquary, and adviser to Elizabeth I, John Dee stands at the centre of English Renaissance occultism. His *Monas Hieroglyphica* (1564) compressed [[tradition:alchemy]], astronomy, and [[tradition:kabbalah]] into a single glyph; his later 'actions' with the scryer Edward Kelley produced the **Enochian** angelic language and tables. Dee embodies the period's seamless union of rigorous science and ceremonial magic. The Ashmolean portrait here, painted late in his life, descended through his grandson to Elias Ashmole.",
+      "links": [
+        {
+          "label": "Wikipedia — John Dee",
+          "url": "https://en.wikipedia.org/wiki/John_Dee"
+        },
+        {
+          "label": "Stanford Encyclopedia — John Dee",
+          "url": "https://plato.stanford.edu/"
+        },
+        {
+          "label": "Ashmolean Museum — John Dee",
+          "url": "https://artuk.org/discover/artworks/john-dee-141505"
+        }
+      ]
+    },
+    {
+      "key": "georgius-agricola",
+      "name": "Georgius Agricola",
+      "dates": "1494–1555",
+      "role": "Physician, 'father of mineralogy'",
+      "works": [
+        "agricola_metallica"
+      ],
+      "blurb": "Author of De Re Metallica, the great illustrated treatise on mining and metallurgy.",
+      "summary": "German scholar called the 'father of mineralogy', whose *De Re Metallica* (1556) is the definitive Renaissance account of mining, smelting, and assaying — illustrated with superb woodcuts of furnaces, bellows, and ore-works. Not alchemy proper but its practical substrate: the real fire-and-metal world the [[tradition:alchemy]] theorists drew upon.",
+      "links": [
+        {
+          "label": "Project Gutenberg — De Re Metallica (Hoover trans.)",
+          "url": "https://www.gutenberg.org/ebooks/38015"
+        },
+        {
+          "label": "Wikipedia — Georgius Agricola",
+          "url": "https://en.wikipedia.org/wiki/Georgius_Agricola"
+        }
+      ]
+    }
+  ],
+  "traditions": [
+    {
+      "key": "alchemy",
+      "name": "Alchemy",
+      "blurb": "The art of transmutation — matter, and the self, perfected through the Great Work.",
+      "summary": "The 'royal art' of transmuting base matter toward perfection — gold, the Philosophers' Stone, the elixir — pursued from Hellenistic Egypt through the Latin Middle Ages to the early-modern laboratory. Alchemy is simultaneously a chemistry, a cosmology, and a spiritual discipline: the same operations (*solve et coagula*, the colour sequence nigredo→albedo→rubedo) describe the work in the flask and the regeneration of the practitioner. Its imagery — the [[motif:ouroboros]], the [[motif:coniunctio]] of king and queen, the [[motif:green-lion]], the [[motif:furnace]] — is the densest visual symbol-system in Western esotericism, and the core of this archive.",
+      "links": [
+        {
+          "label": "Stanford Encyclopedia — Alchemy (historiography)",
+          "url": "https://plato.stanford.edu/"
+        },
+        {
+          "label": "The Alchemy Website (Adam McLean)",
+          "url": "https://www.alchemywebsite.com/"
+        }
+      ]
+    },
+    {
+      "key": "hermetic",
+      "name": "Hermeticism",
+      "blurb": "The wisdom ascribed to Hermes Trismegistus: 'as above, so below.'",
+      "summary": "The body of philosophical and magical lore attributed to the legendary Egyptian sage Hermes Trismegistus, transmitted through the Greek *Corpus Hermeticum* and the *Emerald Tablet* ('as above, so below'). Rediscovered and translated in Renaissance Florence (Ficino, 1463), Hermeticism gave [[tradition:alchemy]] and natural magic a prestigious ancient pedigree and a doctrine of cosmic correspondence that underwrites almost all the diagrams in this archive. See also the workspace's HermeticDB.",
+      "links": [
+        {
+          "label": "Stanford Encyclopedia — Hermetism",
+          "url": "https://plato.stanford.edu/"
+        },
+        {
+          "label": "Wikipedia — Hermeticism",
+          "url": "https://en.wikipedia.org/wiki/Hermeticism"
+        }
+      ]
+    },
+    {
+      "key": "rosicrucian",
+      "name": "Rosicrucianism",
+      "blurb": "The 17th-century 'invisible college' of the Rose Cross and its reform of learning.",
+      "summary": "An early-17th-century esoteric current sparked by the anonymous German manifestos (*Fama* and *Confessio*, 1614–15) announcing a hidden brotherhood of the Rose Cross dedicated to a universal reformation of knowledge. It drew together [[tradition:alchemy]], [[tradition:hermetic]] philosophy, and Christian mysticism. [[creator:michael-maier]] and Robert Fludd were among its most visible literary defenders, and its rose-and-cross, flaming-heart imagery ([[creator:daniel-cramer]]) saturates the period's emblem books.",
+      "links": [
+        {
+          "label": "Wikipedia — Rosicrucianism",
+          "url": "https://en.wikipedia.org/wiki/Rosicrucianism"
+        }
+      ]
+    },
+    {
+      "key": "kabbalah",
+      "name": "Kabbalah / Christian Cabala",
+      "blurb": "Jewish mystical theosophy, adapted into a Christian esoteric key.",
+      "summary": "The Jewish mystical tradition of the divine emanations (sefirot) and the hidden names of God, which Renaissance scholars (Pico della Mirandola, Reuchlin) adapted into a 'Christian Cabala' fused with [[tradition:hermetic]] and alchemical thought. In figures like [[creator:heinrich-khunrath]] the Cabala supplies the architecture of the regenerate cosmos depicted in the great circular engravings.",
+      "links": [
+        {
+          "label": "Stanford Encyclopedia — Kabbalah",
+          "url": "https://plato.stanford.edu/"
+        }
+      ]
+    },
+    {
+      "key": "reception",
+      "name": "Alchemical Reception",
+      "blurb": "Works not strictly alchemical, but whose imagery the tradition absorbed.",
+      "summary": "A catch-all for sources — like the [[work:hypnerotomachia]] — that are not laboratory alchemy but whose Neoplatonic, antiquarian, and Hermetic imagery was absorbed into the esoteric image-world and read alchemically by later interpreters. Tracking reception lets the archive show how a motif migrates across genres and centuries.",
+      "links": []
+    },
+    {
+      "key": "goetia_grimoire",
+      "name": "Grimoire & Goetia",
+      "blurb": "The ceremonial-magic books of seals, circles, and spirit catalogues.",
+      "summary": "The tradition of practical ceremonial magic recorded in grimoires — handbooks of protective circles, planetary talismans, and catalogues of spirits with their sigils (e.g. the 72 seals of the *Lemegeton*'s *Goetia*). Distinct from [[tradition:alchemy]] but sharing its sign-language of correspondence. [PLACEHOLDER: images for this tradition are not yet sourced — see SOURCINGIMAGES.md; the 72 Goetia sigils already analysed in the workspace can be wired in.]",
+      "links": [
+        {
+          "label": "Wikipedia — Ars Goetia",
+          "url": "https://en.wikipedia.org/wiki/Ars_Goetia"
+        }
+      ]
+    }
+  ],
+  "motifs": [
+    {
+      "key": "ouroboros",
+      "name": "Ouroboros",
+      "blurb": "The serpent or dragon devouring its own tail — unity, eternity, the closed Work.",
+      "summary": "The most ancient alchemical sign: a serpent or [[motif:dragon]] biting its tail, ringing the legend *hen to pan* — 'one is all.' Its earliest surviving drawing appears in the *Chrysopoeia of Kleopatra* (Codex Marcianus graecus 299). It figures the self-sustaining circulation of the Work — matter feeding on itself, dying and reborn from its own substance — and, more broadly, eternity and the unity of the cosmos. In this archive its locus classicus is [[work:atalanta_fugiens]] Emblem XIV.",
+      "see_also": [
+        "dragon",
+        "serpent",
+        "circle"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia — Ouroboros",
+          "url": "https://en.wikipedia.org/wiki/Ouroboros"
+        }
+      ]
+    },
+    {
+      "key": "green-lion",
+      "name": "Green Lion",
+      "blurb": "The raw, unripe, devouring solvent — often shown swallowing the sun.",
+      "summary": "A vivid alchemical creature, usually green to signal unripeness and untamed vital power. The Green Lion is read as green vitriol, the crude prime matter, or the fierce acid solvent that 'devours the sun' (dissolves gold) — frequently pictured eating the sun and bleeding. A favourite of artists for its drama. See [[work:atalanta_fugiens]] Emblem XXXVII.",
+      "see_also": [
+        "lion",
+        "vitriol"
+      ],
+      "links": []
+    },
+    {
+      "key": "coniunctio",
+      "name": "Coniunctio (King & Queen)",
+      "blurb": "The chymical wedding of Sol and Luna — the central union of opposites.",
+      "summary": "The 'conjunction' — the marriage of the solar/masculine/fixed principle (Sol, sulphur, the King) with the lunar/feminine/volatile principle (Luna, mercury, the Queen). It is the pivotal operation of [[tradition:alchemy]], inherited from the *Rosarium Philosophorum* and re-staged across the tradition; its offspring is the hermaphroditic [[motif:rebis]]. See [[work:rosarium]] and [[work:atalanta_fugiens]] Emblem IV.",
+      "see_also": [
+        "king",
+        "queen",
+        "rebis",
+        "marriage"
+      ],
+      "links": []
+    },
+    {
+      "key": "rebis",
+      "name": "Rebis / Hermaphrodite",
+      "blurb": "The two-headed androgyne — the united product of the chymical wedding.",
+      "summary": "The *rebis* ('double thing') — a single body with male and female heads, born from the [[motif:coniunctio]]. It embodies the reconciled opposites and the completed, self-contained stone-in-process, often standing on a dragon or sphere. One of the most recognizable images in the whole tradition.",
+      "see_also": [
+        "coniunctio",
+        "hermaphrodite"
+      ],
+      "links": []
+    },
+    {
+      "key": "furnace",
+      "name": "Furnace / Athanor",
+      "blurb": "The alchemist's slow-burning oven — the womb of the Work.",
+      "summary": "The *athanor*, the self-feeding furnace that maintains the gentle, constant heat of the opus; by extension every still, alembic, and retort of the laboratory. Furnace and apparatus diagrams are among the most practically useful images for designers seeking authentic 'alchemist's workshop' reference, and run from the medieval manuscripts through [[creator:heinrich-khunrath]] and [[creator:johann-daniel-mylius]].",
+      "see_also": [
+        "vessel",
+        "alembic",
+        "laboratory"
+      ],
+      "links": []
+    },
+    {
+      "key": "dragon",
+      "name": "Dragon",
+      "blurb": "Volatile, fierce matter — winged or wingless, often poison and prima materia.",
+      "summary": "A protean alchemical beast: the winged dragon is the volatile spirit, the wingless the fixed body; a pair of fighting dragons figures the war of the two principles. Closely tied to the [[motif:ouroboros]] when curled to bite its tail, and to poison, prima materia, and the guardians of treasure. Endlessly useful as game/illustration reference.",
+      "see_also": [
+        "ouroboros",
+        "serpent"
+      ],
+      "links": []
+    },
+    {
+      "key": "angel",
+      "name": "Angel / Winged Messenger",
+      "blurb": "Angels in alchemical emblems mediate between the celestial and terrestrial operations.",
+      "summary": "Angels in alchemical emblems mediate between the celestial and terrestrial operations. They announce stage transitions, carry the divine fire (Prometheus motif), and in Rosicrucian emblems (Cramer, Fludd) serve as agents of divine wisdom.\n\n## Alchemical valence\nspirit, pneuma, divine fire, elevation.\n\nPlanetary association: *Mercury (as messenger)*.",
+      "match": [
+        "angel",
+        "angels"
+      ],
+      "see_also": [],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "bird",
+      "name": "Bird (generic) / Eagle",
+      "blurb": "The eagle represents sublimation and the ascent of volatile spirit.",
+      "summary": "The eagle represents sublimation and the ascent of volatile spirit. As alchemical volatile principle, it contrasts with the lion (fixed). In Maier emblem 44 the eagle carries a stone to the sun; in emblem 50 the king is raised by birds.\n\n## Alchemical valence\nsublimation, volatility, spirit, elevation.\n\nPlanetary association: *Jupiter / Sol*.",
+      "match": [
+        "bird",
+        "eagle",
+        "two birds"
+      ],
+      "see_also": [
+        "furnace"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "fountain",
+      "name": "Fountain / Spring / Stream",
+      "blurb": "The mercurial fountain, the philosophical water, the bath of purification.",
+      "summary": "The mercurial fountain, the philosophical water, the bath of purification. The mercurial spring dissolves and purifies; the bain-marie (Maria's bath) gently heats. In Maier emblem 9 the philosopher bathes in the mercurial spring to achieve whitening.\n\n## Alchemical valence\nmercury, dissolution, purification, albedo.\n\nPlanetary association: *Luna / Mercury*.",
+      "match": [
+        "bath",
+        "fountain",
+        "spring"
+      ],
+      "see_also": [
+        "moon"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "king",
+      "name": "King / Sol / Rex",
+      "blurb": "The solar, sulphurous, masculine principle.",
+      "summary": "The solar, sulphurous, masculine principle. The king must die (mortificatio) and be resurrected; his body becomes the red tincture. In conjunction with the queen he enacts the coniunctio oppositorum.\n\n## Alchemical valence\nsol, sulphur, mortificatio, rubedo.\n\nPlanetary association: *Sol*.",
+      "match": [
+        "king",
+        "rex"
+      ],
+      "see_also": [
+        "queen",
+        "coniunctio",
+        "lion"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "lion",
+      "name": "Lion",
+      "blurb": "The green lion (vitriol) devours the sun (gold); the red lion is the perfected sulphur.",
+      "summary": "The green lion (vitriol) devours the sun (gold); the red lion is the perfected sulphur. Lions also appear as royal, solar beasts in heraldic and triumphalist contexts. Central to Maier emblems 16 (green lion) and 24.\n\n## Alchemical valence\nsulphur, fixation, sol, dissolution.\n\nPlanetary association: *Sol / Mars*.",
+      "match": [
+        "lion"
+      ],
+      "see_also": [
+        "green-lion",
+        "sun"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "moon",
+      "name": "Moon / Luna / Crescent",
+      "blurb": "The lunar crescent or personified Luna.",
+      "summary": "The lunar crescent or personified Luna. Governs silver, water, and the feminine principle. In conjunction with the sun the coniunctio produces the hermaphrodite. Luna also governs the tidal, cyclical, and dreaming aspects of the Work.\n\n## Alchemical valence\nluna, silver, water, mercury.\n\nPlanetary association: *Luna*.",
+      "match": [
+        "moon",
+        "sun and moon"
+      ],
+      "see_also": [
+        "sun",
+        "queen"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "peacock",
+      "name": "Peacock (Cauda Pavonis)",
+      "blurb": "The peacock's tail (cauda pavonis) marks the citrinitas: the stage of many colours that appears between the albedo and rubedo, signalling that all the colours o",
+      "summary": "The peacock's tail (cauda pavonis) marks the citrinitas: the stage of many colours that appears between the albedo and rubedo, signalling that all the colours of the spectrum are present before the final reddening. A moment of near-completion.\n\n## Alchemical valence\ncitrinitas, iridescence, many colours, near completion.\n\nPlanetary association: *Sol + Luna (transition)*.",
+      "match": [
+        "feathers",
+        "peacock"
+      ],
+      "see_also": [
+        "coniunctio"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "queen",
+      "name": "Queen / Luna / Regina",
+      "blurb": "The lunar, mercurial, feminine principle.",
+      "summary": "The lunar, mercurial, feminine principle. As bride she receives the king's death; as resurrected queen she embodies the albedo and the white tincture. In Maier she is Atalanta, the fleet-footed silver.\n\n## Alchemical valence\nluna, mercury, albedo, white tincture.\n\nPlanetary association: *Luna*.",
+      "match": [
+        "queen"
+      ],
+      "see_also": [
+        "king",
+        "coniunctio",
+        "moon"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "serpent",
+      "name": "Serpent / Snake / Caduceus",
+      "blurb": "Distinguished from the winged dragon: the serpent without wings is the fixed mercury or the Hermetic caduceus.",
+      "summary": "Distinguished from the winged dragon: the serpent without wings is the fixed mercury or the Hermetic caduceus. The ouroboros (emblem 14 in Maier) represents cyclic self-completion and the unity of beginning and end. The bitten serpent (Nehushtan) represents purified poison.\n\n## Alchemical valence\nmercury, fixation, caduceus, poison.\n\nPlanetary association: *Mercury*.",
+      "match": [
+        "serpent",
+        "snake"
+      ],
+      "see_also": [
+        "ouroboros",
+        "dragon"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "star",
+      "name": "Star / Celestial Body / Zodiac",
+      "blurb": "Celestial bodies govern alchemical timing and correspondence.",
+      "summary": "Celestial bodies govern alchemical timing and correspondence. Stars, planetary symbols, and zodiacal figures mark the macrocosmic scaffold that the Work mirrors below. The seven planets are the seven metals; the stars are the influences raining down on the Work.\n\n## Alchemical valence\ncorrespondence, timing, macrocosm, celestial.\n\nPlanetary association: *All*.",
+      "match": [
+        "star",
+        "zodiac"
+      ],
+      "see_also": [
+        "sun",
+        "moon"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "sun",
+      "name": "Sun / Sol / Solar Disc",
+      "blurb": "The solar disc, radiate crown, or personified Sol.",
+      "summary": "The solar disc, radiate crown, or personified Sol. Governs gold, fire, and the masculine principle throughout the alchemical tradition. In conjunction with the moon, the coniunctio produces the hermaphrodite and the Stone.\n\n## Alchemical valence\nsol, gold, fire, sulphur.\n\nPlanetary association: *Sol*.",
+      "match": [
+        "solar",
+        "sun",
+        "sun and moon"
+      ],
+      "see_also": [
+        "moon",
+        "king",
+        "lion"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "sword",
+      "name": "Sword / Gladius",
+      "blurb": "The sword in alchemical emblems is the instrument of discrimination: it separates the pure from the impure, the fixed from the volatile.",
+      "summary": "The sword in alchemical emblems is the instrument of discrimination: it separates the pure from the impure, the fixed from the volatile. The sword of Mercury (gladius mercurialis) cuts through appearances. In Rosicrucian emblems the two-edged sword is divine judgment. The angel's flaming sword guards the secret of the Stone.\n\n## Alchemical valence\ndiscrimination, separation, mercury, judgment.\n\nPlanetary association: *Mars / Mercury*.",
+      "match": [
+        "sword"
+      ],
+      "see_also": [
+        "egg"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "tree",
+      "name": "Tree / Arbor Philosophica",
+      "blurb": "The philosophical tree (arbor philosophica) grows from the putrefied seed of the Stone.",
+      "summary": "The philosophical tree (arbor philosophica) grows from the putrefied seed of the Stone. Bears sun and moon as fruit; may be a rose tree (Rosarium) or a golden tree (Aureum Vellus). In Maier emblem 4 a king and queen grow from the same root.\n\n## Alchemical valence\ngrowth, maturation, arbor philosophica, coniunctio.\n\nPlanetary association: *Sol + Luna*.",
+      "match": [
+        "alchemical tree",
+        "tree"
+      ],
+      "see_also": [
+        "coniunctio"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    },
+    {
+      "key": "vessel",
+      "name": "Vessel / Philosophical Egg / Flask",
+      "blurb": "The sealed container in which the Work proceeds: glass flask, clay vessel, philosophical egg (ovum philosophicum), alembic, or retort.",
+      "summary": "The sealed container in which the Work proceeds: glass flask, clay vessel, philosophical egg (ovum philosophicum), alembic, or retort. The vessel is the microcosmic world in which the opus is performed. It must be sealed hermetically to prevent the volatile spirit from escaping.\n\n## Alchemical valence\nopus, containment, philosophical egg, hermetic sealing.",
+      "match": [
+        "alembic",
+        "egg",
+        "flask",
+        "philosophical egg",
+        "retort",
+        "vessel"
+      ],
+      "see_also": [
+        "furnace"
+      ],
+      "links": [],
+      "source": "ontology_import"
+    }
+  ]
+}

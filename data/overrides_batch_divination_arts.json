@@ -1,0 +1,456 @@
+{
+ "_work": {
+   "key": "divination_arts",
+   "short_id": "DIVA",
+   "title": "The Arts of Divination",
+   "creator": "various",
+   "date": "4th c. BCE – 19th c.",
+   "century": 18,
+   "place": "Europe",
+   "region": "Europe",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "divination",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "divination_arts",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Divination",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["divination", "fortune-telling", "geomancy", "chiromancy", "physiognomy", "tarot"],
+   "blurb": "A survey of the divinatory arts from antiquity to the nineteenth century — Etruscan and Roman haruspicy and augury, geomancy and chiromancy, della Porta and Lavater physiognomy, Cardano-school metoposcopy, John Dee's scrying mirror, the historic (pre-Waite) tarot of the Mantegna Tarocchi, the Visconti courts and the Tarot de Marseille, and the fortune-teller genre of Caravaggio and Georges de La Tour."
+ },
+ "entries": [
+  {
+   "id": "divination_arts__piacenza-liver",
+   "title": "The Liver of Piacenza",
+   "work": "The Arts of Divination",
+   "creator": "Etruscan (anonymous)",
+   "date": "c. 100 BCE",
+   "place": "Etruria (found near Piacenza, Italy)",
+   "era": "antiquity",
+   "tradition": "divination",
+   "motifs": ["haruspicy", "bronze liver", "etruscan religion", "hepatoscopy", "templum", "deities", "entrails", "omen"],
+   "rights": "CC0 / Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Liver_of_Piacenza.jpg",
+   "summary": "The *Fegato di Piacenza*, a life-size Etruscan bronze model of a sheep's liver inscribed as a diviner's reference chart, c. 100 BCE.\n\n## Iconography\nThe convex bronze is divided into regions by incised lines, each cell bearing the abbreviated name of an Etruscan deity. The outer rim carries sixteen divisions corresponding to the sixteen houses of the Etruscan sky; the central lobes (the *processus pyramidalis* and gall-bladder) are also labelled. It is, in effect, a map of the cosmos projected onto an organ.\n\n## Significance\nThe object is the key surviving artefact of Etruscan [[motif:haruspicy|hepatoscopy]] — divination by reading the liver of a sacrificed animal, the discipline the Romans inherited as the *haruspices*' art. Its sixteenfold division of the heavens parallels the cosmological scheme described by Martianus Capella and Pliny, and it links Etruscan practice to the older Mesopotamian liver-omen tradition. It remains the primary teaching model for understanding how ancient diviners correlated celestial regions with portions of the entrails.\n\n## For artists & game designers\nA ready-made 'divination interface': a labelled organ-map whose zones map to gods and sky-houses — perfect for an augury minigame UI.",
+   "citations": [
+    {"text": "L. B. van der Meer, *The Bronze Liver of Piacenza* (1987)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Liver_of_Piacenza.jpg"}
+   ],
+   "key_concepts": ["Liver of Piacenza", "haruspicy", "Etruscan divination", "hepatoscopy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__augury",
+   "title": "The Cage of the Sacred Chickens (Auspices)",
+   "work": "The Arts of Divination",
+   "creator": "Anonymous (after a Roman model)",
+   "date": "Roman antiquity (later engraving)",
+   "place": "Rome",
+   "era": "antiquity",
+   "tradition": "divination",
+   "motifs": ["augury", "auspices", "sacred chickens", "pullarius", "tripudium", "omen", "roman religion", "birds"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cage_des_poulets_servant_aux_auspices.jpg",
+   "summary": "An engraving of the *cage of the sacred chickens* used by Roman augurs to take the auspices, the *auspicia ex tripudiis*.\n\n## Iconography\nThe plate shows the portable coop in which the sacred poultry were kept. In practice the *pullarius* (chicken-keeper) released the birds and scattered grain: how eagerly they ate, and whether food fell from their beaks to strike the ground (the *tripudium solistimum*), determined whether the gods approved an undertaking.\n\n## Significance\nRoman [[motif:augury|augury]] was a state discipline: no major public action — battle, election, assembly — proceeded without favourable auspices read from the flight, cries, or feeding of birds. The chicken-omen was the form most used on campaign for its portability. The famous anecdote of the consul Publius Claudius Pulcher, who threw the unwilling chickens overboard before his defeat at Drepana (249 BCE), shows how seriously the omens were taken.\n\n## For artists & game designers\nA low-tech, high-stakes oracle: feed the birds, read the result — a clean binary omen mechanic with rich flavour.",
+   "citations": [
+    {"text": "Cicero, *De Divinatione*; Livy, *Ab Urbe Condita*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cage_des_poulets_servant_aux_auspices.jpg"}
+   ],
+   "key_concepts": ["augury", "auspices", "sacred chickens", "Roman divination"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__haruspex",
+   "title": "Haruspices Interpreting Caesar's Dream",
+   "work": "The Arts of Divination",
+   "creator": "Anonymous (manuscript illumination)",
+   "date": "15th c.",
+   "place": "France / England",
+   "era": "medieval",
+   "tradition": "divination",
+   "motifs": ["haruspicy", "dream interpretation", "caesar", "diviner", "manuscript illumination", "omen", "entrails", "counsel"],
+   "rights": "CC0 / Public domain. British Library. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Haruspices_interpreting_Caesar%27s_dream_from_BL_Royal_16_G_VIII,_f._39.png",
+   "summary": "A manuscript miniature (British Library, Royal 16 G VIII) showing diviners interpreting an omen or dream for Julius Caesar.\n\n## Iconography\nCaesar is depicted attended by [[motif:haruspicy|haruspices]] or soothsayers who read the signs and deliver their counsel. The medieval illuminator dresses the antique diviners in contemporary costume, transposing the Roman art of reading entrails and dreams into a chivalric setting.\n\n## Significance\nThe scene belongs to a tradition of vernacular histories of Caesar (the *Faits des Romains* and related texts) much copied in the later Middle Ages, in which classical divination is retold for a courtly audience. It illustrates the long medieval afterlife of Roman *haruspicy* and *oneiromancy*, and recalls the warnings — the soothsayer's 'Beware the Ides of March,' Calpurnia's dream — that Caesar famously disregarded.\n\n## For artists & game designers\nA template for the 'court diviner' scene: a ruler flanked by seers delivering a portent he may heed or ignore.",
+   "citations": [
+    {"text": "London, British Library, Royal MS 16 G VIII, f. 39."},
+    {"text": "Suetonius, *Divus Iulius*; Plutarch, *Life of Caesar*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Haruspices_interpreting_Caesar%27s_dream_from_BL_Royal_16_G_VIII,_f._39.png"}
+   ],
+   "key_concepts": ["haruspicy", "oneiromancy", "Julius Caesar", "omen"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__geomancy-figures",
+   "title": "Sikidy Geomantic Divination",
+   "work": "The Arts of Divination",
+   "creator": "Anonymous (Malagasy)",
+   "date": "c. 1900",
+   "place": "Madagascar",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["geomancy", "sikidy", "divination figures", "seeds", "binary marks", "diviner", "tableau", "lots"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sikidy_1900_01.jpg",
+   "summary": "A photograph (c. 1900) of *sikidy*, the Malagasy geomantic divination in which a diviner generates a tableau of binary figures from arranged seeds.\n\n## Iconography\nThe diviner lays out rows of seeds or beans, reducing each pile to a one-or-two remainder to build columns of [[motif:geomancy|geomantic figures]] — the same odd/even dot-patterns used across the Old World geomantic family. The resulting grid (the *toetry*) is then read for the questioner's fate.\n\n## Significance\nSikidy is the East African and Malagasy branch of the geomantic tradition that runs from Arabic *'ilm al-raml* ('the science of the sand') through medieval Latin *geomantia* (Hugh of Santalla, Pietro d'Abano) to European fortune-telling. All share the sixteen tetragram figures generated by tallying marks into odd or even. The example shows the living, non-European face of a divinatory system Europe imported and Latinised, and underlines how widely the binary geomantic method travelled.\n\n## For artists & game designers\nA pure binary oracle — random marks collapse to sixteen named figures; trivial to implement and historically deep.",
+   "citations": [
+    {"text": "M. Bloch, on Malagasy sikidy; S. Skinner, *Geomancy in Theory and Practice*."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sikidy_1900_01.jpg"}
+   ],
+   "key_concepts": ["geomancy", "sikidy", "divinatory figures", "ilm al-raml"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__palmistry-hand",
+   "title": "Chiromancy Hand (De Occulta Philosophia)",
+   "work": "The Arts of Divination",
+   "creator": "Heinrich Cornelius Agrippa",
+   "date": "1533 (woodcut)",
+   "place": "Cologne, German lands",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["chiromancy", "palmistry", "hand diagram", "mounts", "planetary lines", "life line", "agrippa", "woodcut"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Chiromancy_-_De_Occulta_Philosophia.jpg",
+   "summary": "A chiromantic hand diagram associated with Heinrich Cornelius Agrippa's *De Occulta Philosophia*, mapping the lines and mounts of the palm to the planets.\n\n## Iconography\nThe open palm is overlaid with named [[motif:chiromancy|lines]] (life, head, heart, the Girdle of Venus) and the fleshy *mounts* at the base of each finger and the thumb, each mount assigned to a planet — Jupiter, Saturn, Apollo/Sun, Mercury, Venus, the Moon, and the Mars regions. The diagram turns the hand into an astrological microcosm.\n\n## Significance\nChiromancy (palmistry) treated the hand as a legible text written by the heavens at birth. Agrippa's three-book *De Occulta Philosophia* (1533) systematised Renaissance magic and gave the palmistry-astrology correspondence its standard learned form, building on earlier authors such as Bartolommeo della Rocca (Cocles). The planetary mounts remain the backbone of palmistry to this day.\n\n## For artists & game designers\nThe canonical palm-map — labelled mounts and lines tied to planets — works directly as a diegetic divination chart or character-sheet overlay.",
+   "citations": [
+    {"text": "H. C. Agrippa, *De Occulta Philosophia libri tres* (1533)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Chiromancy_-_De_Occulta_Philosophia.jpg"}
+   ],
+   "key_concepts": ["chiromancy", "palmistry", "planetary mounts", "Agrippa"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__dellaporta-physiognomy",
+   "title": "Human and Animal Physiognomies (della Porta)",
+   "work": "The Arts of Divination",
+   "creator": "After Giambattista della Porta",
+   "date": "1586 (later reproduction)",
+   "place": "Naples, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["physiognomy", "human-animal comparison", "character", "della porta", "profile heads", "temperament", "engraving", "analogy"],
+   "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Human_physiognomies_next_to_animal_physiognomies,_showing_th_Wellcome_V0009439.jpg",
+   "summary": "A plate after Giambattista della Porta's *De humana physiognomonia* (1586), juxtaposing human profiles with animal heads to argue a correspondence of form and character (Wellcome Collection).\n\n## Iconography\nHuman faces are set beside the heads of beasts — a man paired with a ram, an ox, a lion, an owl — so that shared contours (a heavy brow, a snub nose, a jutting jaw) suggest a shared temperament. The comparison is the signature device of [[motif:physiognomy|zoomorphic physiognomy]].\n\n## Significance\ndella Porta revived the ancient pseudo-Aristotelian *Physiognomonica*, systematising the reading of character from outward form and especially the human-animal analogy. His plates fixed a visual method that ran on through Charles Le Brun's lectures to Lavater's *Essays on Physiognomy* and, much later, into the discredited racial 'sciences' of the nineteenth century. As divination, physiognomy claimed to read fate and disposition written in the face.\n\n## For artists & game designers\nThe original 'beast-aspect' character chart: pair each face with an animal to telegraph temperament at a glance.",
+   "citations": [
+    {"text": "G. della Porta, *De humana physiognomonia* (1586)."},
+    {"text": "Wellcome Collection (CC BY 4.0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Human_physiognomies_next_to_animal_physiognomies,_showing_th_Wellcome_V0009439.jpg"}
+   ],
+   "key_concepts": ["physiognomy", "della Porta", "human-animal analogy", "character reading"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__lavater-physiognomy",
+   "title": "Lavater, Essays on Physiognomy (design plate)",
+   "work": "The Arts of Divination",
+   "creator": "After Johann Caspar Lavater",
+   "date": "1789–98 (English edition)",
+   "place": "Zurich / London",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["physiognomy", "silhouette", "profile", "character", "lavater", "facial analysis", "engraving", "temperament"],
+   "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:J.C.Lavater,_Essays_on_Physiognomy_design_to_Wellcome_L0031526.jpg",
+   "summary": "A design plate from an English edition of Johann Caspar Lavater's *Essays on Physiognomy*, the work that made face-reading a fashionable late-Enlightenment science (Wellcome Collection).\n\n## Iconography\nThe plate presents a row of profile heads and silhouettes for comparative analysis — the slope of a forehead, the line of a nose, the set of a mouth read as indices of intellect and morality. Lavater favoured the cut-paper [[motif:silhouette|silhouette]] as the purest record of a profile's contour.\n\n## Significance\nLavater's *Physiognomische Fragmente* (1775–78), translated and lavishly engraved across Europe, claimed that inner character is legibly written in outward form, especially the face in profile. Hugely popular, it drew sharp criticism from Lichtenberg and others, yet seeded both the silhouette portrait craze and the later quasi-sciences of phrenology and criminal anthropology. As a divinatory art it promised to read a person's soul and destiny from their features.\n\n## For artists & game designers\nSilhouette-as-character: a profile cut-out carrying moral meaning is a strong stylised portrait device for a 'judge the stranger' mechanic.",
+   "citations": [
+    {"text": "J. C. Lavater, *Essays on Physiognomy* (Eng. ed., 1789–98)."},
+    {"text": "Wellcome Collection (CC BY 4.0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:J.C.Lavater,_Essays_on_Physiognomy_design_to_Wellcome_L0031526.jpg"}
+   ],
+   "key_concepts": ["physiognomy", "Lavater", "silhouette", "Enlightenment science"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__metoposcopy",
+   "title": "Metoposcopia (Forehead-Line Divination)",
+   "work": "The Arts of Divination",
+   "creator": "Samuel Fuchs",
+   "date": "1615 (engraving)",
+   "place": "Strasbourg, German lands",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["metoposcopy", "forehead lines", "planetary lines", "physiognomy", "face diagram", "cardano", "engraving", "fate"],
+   "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Face_and_text,_%22Metoposcopia%22,_S._Fuchs,_1615_Wellcome_L0013997.jpg",
+   "summary": "A face diagram from Samuel Fuchs's *Metoposcopia* (1615), in which the lines of the forehead are read as planetary signs of character and fate (Wellcome Collection).\n\n## Iconography\nA human face is overlaid with horizontal [[motif:forehead lines|forehead lines]], each assigned to one of the seven planets — Saturn highest, then Jupiter, Mars, Sun, Venus, Mercury, and the Moon lowest near the brows. The depth, breaks, and crossings of these lines are interpreted as the heavens' imprint on the individual.\n\n## Significance\nMetoposcopy — a specialised offshoot of physiognomy — was given its classic form by Girolamo Cardano, whose posthumous *Metoposcopia* (1658) supplied hundreds of forehead diagrams with prognostications. Fuchs's earlier treatise belongs to the same tradition that mapped the seven planetary lines across the brow. It exemplifies the early-modern conviction that astral influence is inscribed on the body and can be read like a horoscope from the skin itself.\n\n## For artists & game designers\nA seven-line 'planetary forehead' overlay is a compact, exotic divination graphic for a fortune-teller NPC.",
+   "citations": [
+    {"text": "Samuel Fuchs, *Metoposcopia et Ophthalmoscopia* (1615)."},
+    {"text": "G. Cardano, *Metoposcopia* (1658)."},
+    {"text": "Wellcome Collection (CC BY 4.0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Face_and_text,_%22Metoposcopia%22,_S._Fuchs,_1615_Wellcome_L0013997.jpg"}
+   ],
+   "key_concepts": ["metoposcopy", "Cardano", "planetary forehead lines", "physiognomy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__dee-black-mirror",
+   "title": "John Dee's Obsidian Mirror (case)",
+   "work": "The Arts of Divination",
+   "creator": "Aztec; later owned by John Dee",
+   "date": "15th–16th c. (Aztec); used c. 1580s",
+   "place": "Mexico / England",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["scrying", "obsidian mirror", "john dee", "tezcatlipoca", "black mirror", "crystallomancy", "spirit vision", "british museum"],
+   "rights": "CC0 / Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:John_Dee%27s_mirror_case_British_Museum_26_07_2013.jpg",
+   "summary": "The obsidian mirror associated with the Elizabethan magus John Dee, an Aztec ritual object later used for scrying (British Museum; the photograph shows the mirror in its case).\n\n## Iconography\nThe object is a disc of polished black volcanic glass with a small pierced handle-tab. Its mirror-dark surface is the classic [[motif:scrying|scrying]] speculum — a 'shew-stone' into which the seer gazes to summon visions. Such mirrors were also kept in fitted cases, as here.\n\n## Significance\nThe mirror is a *tezcatlipoca* device — Aztec obsidian mirrors were sacred to the 'Smoking Mirror' god — brought to Europe after the conquest of Mexico. It entered the collection of John Dee, who with his scryer Edward Kelley conducted the 'angelic conversations' that produced the Enochian system. Long held in the British Museum and once owned by Horace Walpole, it is the most famous physical instrument of Renaissance crystallomancy and a striking case of New-World ritual objects absorbed into European occult practice.\n\n## For artists & game designers\nA real, dateable scrying artefact — a black glass disc as a 'vision portal' prop with a genuine cross-cultural backstory.",
+   "citations": [
+    {"text": "British Museum, obsidian mirror (Dee); on Dee & Kelley, D. Harkness, *John Dee's Conversations with Angels* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:John_Dee%27s_mirror_case_British_Museum_26_07_2013.jpg"}
+   ],
+   "key_concepts": ["scrying", "John Dee", "obsidian mirror", "Tezcatlipoca"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__crystal-gazing",
+   "title": "Crystal Gazing (fortune-telling poster)",
+   "work": "The Arts of Divination",
+   "creator": "Anonymous (advertising lithograph)",
+   "date": "late 19th / early 20th c.",
+   "place": "United States / Europe",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["crystal gazing", "crystallomancy", "scrying", "seer", "fortune-telling", "stage magic", "poster", "oriental costume"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Chandra_Yogi,_Oriental_Properties_Crystal_Gazing,_Sunday_Nite,_Aug._28_(NBY_1137).jpg",
+   "summary": "A turn-of-the-century advertising poster for a 'crystal gazing' fortune-telling act ('Chandra Yogi'), illustrating the popular stage-magic afterlife of crystallomancy.\n\n## Iconography\nA performer in 'oriental' costume gazes into a crystal ball, the standard prop of [[motif:crystal gazing|crystallomancy]]. The exoticising imagery — turban, robes, an air of Eastern mystery — is typical of the commercial seer and mind-reading acts that toured theatres and fairs.\n\n## Significance\nWhile crystal-gazing descends from learned Renaissance scrying (Dee's shew-stones) and folk practice, by the nineteenth century it had become a fixture of spiritualist parlours, fairground fortune-tellers, and vaudeville mentalism. Posters like this document the popularisation and theatrical commodification of divination — the crystal ball cemented as the universal shorthand for telling the future. The 'Oriental' branding reflects the era's orientalist marketing of occult wonder.\n\n## For artists & game designers\nThe definitive 'fortune-teller booth' visual language — crystal ball, robes, exotic signage — for a carnival-seer scene.",
+   "citations": [
+    {"text": "On stage scrying and mentalism, see histories of spiritualism and the magic theatre."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Chandra_Yogi,_Oriental_Properties_Crystal_Gazing,_Sunday_Nite,_Aug._28_(NBY_1137).jpg"}
+   ],
+   "key_concepts": ["crystal gazing", "crystallomancy", "fortune-telling", "stage magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__mantegna-tarocchi",
+   "title": "Misero (The Beggar) — Mantegna Tarocchi",
+   "work": "The Arts of Divination",
+   "creator": "Master of the E-Series Tarocchi (so-called 'Mantegna')",
+   "date": "c. 1465 (engraving)",
+   "place": "Ferrara, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["mantegna tarocchi", "misero", "beggar", "estates of man", "engraving", "e-series", "didactic deck", "allegory"],
+   "rights": "CC0 / Public domain. Rijksmuseum. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bedelaar_en_twee_honden_Misero_(titel_op_object)_Tarocchi_(voormalige_serietitel),_RP-P-1970-97.jpg",
+   "summary": "*Misero* (the Beggar), the lowest of the fifty cards of the so-called *Mantegna Tarocchi*, an engraved didactic series of c. 1465 (Rijksmuseum impression).\n\n## Iconography\nA ragged beggar leans on a staff, accompanied by two dogs — the bottom rung of the 'Conditions of Man.' He opens the first decade (E1) of the series, beneath the Servant, Artisan, Merchant, and so up to the Emperor and Pope. The image is plain, labelled, and emblematic.\n\n## Significance\nThe *Mantegna Tarocchi* is not a true playing tarot but an encyclopaedic engraved set of fifty cards in five decades — the [[motif:estates of man|estates of man]], the Muses and Apollo, the Liberal Arts, the cosmic principles, and the planets and spheres. Wrongly attributed to Mantegna, it is a North-Italian humanist teaching device of the Ferrarese circle, and an essential witness to how the early image-systems behind tarot encoded a hierarchical, divinatory map of the cosmos. *Misero* fixes the bottom of that ladder of fortune.\n\n## For artists & game designers\nA clean labelled 'rank card' from the very dawn of tarot imagery — useful as a historic, pre-Waite alternative to modern decks.",
+   "citations": [
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Rijksmuseum (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Bedelaar_en_twee_honden_Misero_(titel_op_object)_Tarocchi_(voormalige_serietitel),_RP-P-1970-97.jpg"}
+   ],
+   "key_concepts": ["Mantegna Tarocchi", "Misero", "estates of man", "E-series engravings"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__tarocchi-muse",
+   "title": "Thalia — Mantegna Tarocchi (Muse)",
+   "work": "The Arts of Divination",
+   "creator": "Master of the E-Series Tarocchi (so-called 'Mantegna')",
+   "date": "c. 1465 (engraving)",
+   "place": "Ferrara, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["mantegna tarocchi", "muse", "thalia", "comedy", "apollo and the muses", "engraving", "e-series", "humanism"],
+   "rights": "CC0 / Public domain. Cleveland Museum of Art. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Master_of_the_E-Series_Tarocchi_-_Thalia_(comedy,_pastoral_poetry)_(from_the_Tarocchi_series_D-_Apollo_and_t_-_1924.432.16_-_Cleveland_Museum_of_Art.jpg",
+   "summary": "*Thalia*, muse of comedy and pastoral poetry, from the second decade (Apollo and the Muses) of the *Mantegna Tarocchi*, c. 1465 (Cleveland Museum of Art).\n\n## Iconography\nThalia stands as a graceful classical figure, her attribute marking her as the [[motif:muse|muse]] of comedy and bucolic verse. She belongs to the 'D' decade (E11–E20) that ranges Apollo and the nine Muses, the second tier of the fifty-card system above the estates of man.\n\n## Significance\nThe Muse decade displays the Ferrarese humanists' revival of classical learning within an ordered, ascending scheme — from the conditions of mortal life up through the arts, the cosmos, and the heavens. The fine engraving, once credited to Mantegna himself, transmits the antique iconography of the Muses to Renaissance Europe and shows tarot's early imagery as a curriculum of knowledge rather than a mere game. Albrecht Dürer is known to have copied figures from the series.\n\n## For artists & game designers\nAn authentic 15th-century Muse figure — period reference for allegorical 'patron of an art' cards.",
+   "citations": [
+    {"text": "J. A. Levenson et al., *Early Italian Engravings from the National Gallery of Art* (1973)."},
+    {"text": "Cleveland Museum of Art (CC0)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Master_of_the_E-Series_Tarocchi_-_Thalia_(comedy,_pastoral_poetry)_(from_the_Tarocchi_series_D-_Apollo_and_t_-_1924.432.16_-_Cleveland_Museum_of_Art.jpg"}
+   ],
+   "key_concepts": ["Mantegna Tarocchi", "Thalia", "the Muses", "Renaissance engraving"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__visconti-tarot",
+   "title": "Cary-Yale Visconti Tarot card",
+   "work": "The Arts of Divination",
+   "creator": "Bonifacio Bembo (attrib.)",
+   "date": "c. 1440s",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "divination",
+   "motifs": ["tarot", "visconti", "cary-yale", "trionfi", "gold ground", "hand-painted card", "milan court", "bembo"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Cary-Yale_Tarot_deck_-_Three_of_Spades.jpg",
+   "summary": "A card from the Cary-Yale (Visconti di Modrone) tarot, c. 1440s, among the earliest surviving hand-painted tarot decks, attributed to Bonifacio Bembo for the Milanese court.\n\n## Iconography\nThe card is hand-painted on a tooled [[motif:gold ground|gold ground]], in the luxurious International Gothic manner of the Visconti-Sforza workshop. The Cary-Yale deck is unusually expanded, including extra court figures (a Female Knight and Page alongside the male) and theological-virtue trumps not found in the standard later pattern.\n\n## Significance\nThe Visconti and Visconti-Sforza decks are the foundational monuments of tarot: bespoke *trionfi* (triumph) cards made for the rulers of Milan in the mid-fifteenth century, long before any documented use for fortune-telling. They preserve the original trump iconography — the Wheel, Death, the Tower, the World — that the printed Tarot de Marseille would later standardise and that occultists would, from the 18th century, reinterpret as a divinatory book of wisdom.\n\n## For artists & game designers\nThe gold-ground, courtly origin of tarot — a reference for 'luxury commissioned deck' art distinct from cheap printed cards.",
+   "citations": [
+    {"text": "M. Dummett, *The Visconti-Sforza Tarot Cards* (1986)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Cary-Yale_Tarot_deck_-_Three_of_Spades.jpg"}
+   ],
+   "key_concepts": ["Visconti tarot", "Cary-Yale", "trionfi", "Bonifacio Bembo"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__marseille-wheel",
+   "title": "La Roue de Fortune — Tarot de Marseille X",
+   "work": "The Arts of Divination",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "wheel of fortune", "rota fortunae", "trump x", "conver", "sphinx", "rising and falling figures", "fate"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:X_LA_ROUE_DE_FORTUNE_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "*La Roue de Fortune*, trump X of the Tarot de Marseille, in the pattern of Nicolas Conver's 1760 Marseille deck.\n\n## Iconography\nA great wheel turns, its rim ridden by hybrid creatures: one ascends, one descends head-down, and a crowned beast (often sphinx-like) is poised at the top with a sword. The image fuses the [[motif:wheel of fortune|Wheel of Fortune]] of medieval *Rota Fortunae* iconography with the tarot trump's animal riders.\n\n## Significance\nThe Tarot de Marseille is the standardised woodcut pattern that crystallised in 17th–18th-century France and became the basis of all Western occult tarot. Trump X transmits the ancient and medieval image of Fortune's wheel — the blind goddess raising and casting down kings (Boethius, *De consolatione*) — into the tarot's allegorical sequence, where it signals cycles, chance, and reversal of fate. The Conver deck of 1760 is the most influential single edition of the Marseille pattern.\n\n## For artists & game designers\nThe purest 'turn of fortune' card: a wheel with rising/falling figures, instantly legible as a luck or random-event icon.",
+   "citations": [
+    {"text": "Boethius, *De consolatione philosophiae*."},
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:X_LA_ROUE_DE_FORTUNE_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "Wheel of Fortune", "Rota Fortunae", "Nicolas Conver"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__marseille-death",
+   "title": "XIII (Death / l'Arcane sans nom) — Tarot de Marseille",
+   "work": "The Arts of Divination",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "death", "trump xiii", "skeleton", "scythe", "arcane sans nom", "transformation", "conver"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:13_XIII_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "Trump XIII of the Tarot de Marseille — the skeletal reaper traditionally called Death, the 'arcane sans nom,' in the Nicolas Conver pattern of 1760.\n\n## Iconography\nA black-boned skeleton wields a scythe, mowing a field strewn with severed heads, hands, and feet that sprout afresh from the dark soil. In the Marseille tradition the card is famously left *unnamed* on many decks (hence *l'arcane sans nom*), reinforcing its taboo. The sprouting limbs hint at regeneration as much as ending.\n\n## Significance\nTrump XIII belongs to the tarot's central sequence of trials and transformations and descends from the medieval *Danse Macabre* and *memento mori* tradition. Esoteric tarotists from Court de Gébelin and Éliphas Lévi onward read it not as literal death but as [[motif:transformation|transformation]], the clearing-away that precedes renewal. It is the most iconic and most superstitiously regarded card of the deck.\n\n## For artists & game designers\nThe scythe-skeleton over a sprouting field is the classic 'death = change' symbol — useful where literal mortality should read as transition.",
+   "citations": [
+    {"text": "A. Court de Gébelin, *Le Monde primitif*, vol. 8 (1781)."},
+    {"text": "É. Lévi, *Dogme et rituel de la haute magie* (1856)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:13_XIII_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "Death (XIII)", "arcane sans nom", "memento mori"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__marseille-tower",
+   "title": "La Maison-Dieu (The Tower) — Tarot de Marseille",
+   "work": "The Arts of Divination",
+   "creator": "Anonymous (Tarot de Marseille pattern, drawing)",
+   "date": "18th c. design (later drawing)",
+   "place": "France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "the tower", "maison dieu", "trump xvi", "lightning", "falling figures", "crown", "catastrophe"],
+   "rights": "Public domain. Bibliothèque nationale de France. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:La_Maison-Dieu_-_carte_%C3%A0_jouer,_dessin_-_btv1b10520262s_(2_of_2).jpg",
+   "summary": "*La Maison-Dieu* (The Tower), trump XVI of the Tarot de Marseille, here a drawing after the standard pattern (Bibliothèque nationale de France).\n\n## Iconography\nA tall tower is struck at its crown by a bolt from the heavens; the crenellated top flies off and two figures tumble headlong amid a shower of coloured discs or flames. The French name *La Maison-Dieu* ('the House of God') is an old crux — possibly a corruption referring to a hospice, an almshouse, or the fallen Tower of Babel.\n\n## Significance\nTrump XVI follows the Devil in the sequence and signals sudden [[motif:catastrophe|catastrophe]] — the violent overthrow of pride, false structures, or illusion by a stroke from above. Esoteric readers linked it to Babel, to the lightning of divine judgement, and to the necessary shattering that precedes spiritual renewal (the Star, Moon, and Sun follow). It is the tarot's image of crisis and abrupt revelation.\n\n## For artists & game designers\nThe lightning-struck tower with falling figures is the universal 'sudden disaster' icon — drop it on any moment of structural collapse.",
+   "citations": [
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Bibliothèque nationale de France."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:La_Maison-Dieu_-_carte_%C3%A0_jouer,_dessin_-_btv1b10520262s_(2_of_2).jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "The Tower", "Maison-Dieu", "trump XVI"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__marseille-star",
+   "title": "L'Étoile (The Star) — Tarot de Marseille XVII",
+   "work": "The Arts of Divination",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "the star", "etoile", "trump xvii", "nude woman", "two ewers", "pouring water", "hope"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:XVII_L%27ETOILE_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "*L'Étoile* (The Star), trump XVII of the Tarot de Marseille, in the Nicolas Conver pattern of 1760.\n\n## Iconography\nA nude woman kneels by a stream, pouring water from two ewers — one onto the land, one back into the water — beneath a great central star surrounded by seven lesser stars, with a bird perched in a tree. The endless pouring evokes renewal, flow, and replenishment.\n\n## Significance\nThe Star comes after the Tower in the sequence, beginning the celestial triad of [[motif:hope|Star, Moon, and Sun]] that follows catastrophe with hope and guidance. Esoteric tarotists associated her with the goddess pouring the waters of life, with hope and inspiration, and with astral influence descending to earth. The eight-star arrangement was variously read as the planets, the Pleiades, or the waters above and below.\n\n## For artists & game designers\nThe water-pouring star-maiden is the tarot's 'hope/renewal' card — a serene counterpoint to the Tower's disaster.",
+   "citations": [
+    {"text": "É. Lévi, *Dogme et rituel de la haute magie* (1856)."},
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:XVII_L%27ETOILE_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "The Star", "L'Étoile", "trump XVII"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__marseille-moon",
+   "title": "La Lune (The Moon) — Tarot de Marseille XVIII",
+   "work": "The Arts of Divination",
+   "creator": "Nicolas Conver (after); Tarot World Project (photo)",
+   "date": "1760 deck (restored facsimile)",
+   "place": "Marseille, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["tarot de marseille", "the moon", "la lune", "trump xviii", "two dogs", "crayfish", "towers", "illusion"],
+   "rights": "CC BY-SA 4.0 (Tarot World Project, after the 1760 Conver deck). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:XVIII_LA_LUNE_Nicolas_Conver_Tarot_1760.jpg",
+   "summary": "*La Lune* (The Moon), trump XVIII of the Tarot de Marseille, in the Nicolas Conver pattern of 1760.\n\n## Iconography\nA great face-in-the-moon sheds drops of light over a landscape where two dogs (or a dog and a wolf) bay upward, two towers flank the horizon, and a crayfish or crustacean crawls from a pool below. The composition reads as a nocturnal world of instinct, water, and threshold.\n\n## Significance\nThe Moon, second of the celestial triad, traditionally signifies [[motif:illusion|illusion]], the unconscious, dreams, and the deceptive light that obscures as much as it reveals. The baying dogs and the creature emerging from the deep were read by esoteric tarotists as the animal soul and the path through dark waters. In divination it warns of confusion, hidden enemies, and the uncertain path that must nonetheless be travelled.\n\n## For artists & game designers\nThe baying-dogs-and-crayfish moonscape is a ready 'uncanny night / illusion' tableau for a dream or threshold scene.",
+   "citations": [
+    {"text": "É. Lévi, *Dogme et rituel de la haute magie* (1856)."},
+    {"text": "M. Dummett, *The Game of Tarot* (1980)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:XVIII_LA_LUNE_Nicolas_Conver_Tarot_1760.jpg"}
+   ],
+   "key_concepts": ["Tarot de Marseille", "The Moon", "La Lune", "trump XVIII"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__caravaggio-fortune-teller",
+   "title": "The Fortune Teller (Caravaggio)",
+   "work": "The Arts of Divination",
+   "creator": "Caravaggio (Michelangelo Merisi)",
+   "date": "c. 1595",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["fortune-telling", "palmistry", "gypsy", "ring theft", "genre painting", "deception", "youth", "caravaggio"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Fortune_Teller-Caravaggio_(Rome).jpg",
+   "summary": "Caravaggio's *The Fortune Teller* (*La Buona Ventura*, c. 1595), in which a young gallant has his palm read — and his ring quietly stolen — by a smiling Romani woman.\n\n## Iconography\nA finely dressed youth offers his hand to a [[motif:palmistry|palm-reader]] who gazes into his eyes as she traces his palm; her other hand slips the ring from his finger. The exchange of glances and the hidden theft make the deception the true subject. The half-length, dramatically lit figures are a hallmark of Caravaggio's early naturalism.\n\n## Significance\nThe picture launched a hugely influential genre of fortune-teller and cardsharp scenes across Baroque Europe (Vouet, Valentin, La Tour, the Le Nain). It reflects the early-modern stereotype of the wandering Romani diviner as a charming swindler, and the moralising theme of youth gulled by sensual distraction. Caravaggio painted at least two versions (Capitoline, Rome; Louvre, Paris).\n\n## For artists & game designers\nThe canonical 'con artist diviner' beat — fortune-telling as misdirection while the real theft happens in plain sight.",
+   "citations": [
+    {"text": "Caravaggio, *The Fortune Teller* (c. 1595), Pinacoteca Capitolina, Rome."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Fortune_Teller-Caravaggio_(Rome).jpg"}
+   ],
+   "key_concepts": ["fortune-telling", "Caravaggio", "palmistry", "genre painting"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__latour-fortune-teller",
+   "title": "The Fortune Teller (Georges de La Tour)",
+   "work": "The Arts of Divination",
+   "creator": "Georges de La Tour",
+   "date": "c. 1630s",
+   "place": "Lorraine, France",
+   "era": "early_modern",
+   "tradition": "divination",
+   "motifs": ["fortune-telling", "palmistry", "pickpocket", "gypsy", "genre painting", "deception", "coin", "la tour"],
+   "rights": "Public domain. The Metropolitan Museum of Art. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Georges_de_La_Tour,_The_Fortune_Teller.jpg",
+   "summary": "Georges de La Tour's *The Fortune Teller* (c. 1630s, Metropolitan Museum of Art), a richly costumed scene of a young man robbed while his fortune is told.\n\n## Iconography\nAn old [[motif:fortune-telling|fortune-teller]] takes the youth's coin to 'cross his palm with silver' while, on either side, her young accomplices pick his pocket and cut a medal from its chain. The youth's distracted gaze and the converging hands of the thieves stage a slow, theatrical robbery in brilliant brocades and frozen glances.\n\n## Significance\nLa Tour reworks the Caravaggesque fortune-teller theme that had spread north from Rome, turning it into a tableau of multiple deception and worldly warning. The painting carries a partly hidden inscription naming the artist and Lunéville. It exemplifies the moralised genre of the duped innocent and remains one of the most celebrated treatments of the diviner-as-trickster — an image of fortune-telling as social danger rather than true prophecy.\n\n## For artists & game designers\nA masterclass in staging a coordinated theft inside a divination scene — every accomplice's hand has a job.",
+   "citations": [
+    {"text": "Georges de La Tour, *The Fortune Teller* (c. 1630s), The Metropolitan Museum of Art."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Georges_de_La_Tour,_The_Fortune_Teller.jpg"}
+   ],
+   "key_concepts": ["fortune-telling", "Georges de La Tour", "Caravaggism", "genre painting"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "divination_arts__lenormand",
+   "title": "Petit Lenormand Fortune-Telling Cards",
+   "work": "The Arts of Divination",
+   "creator": "After Marie Anne Lenormand (tradition)",
+   "date": "19th c.",
+   "place": "France / German lands",
+   "era": "modern",
+   "tradition": "divination",
+   "motifs": ["cartomancy", "lenormand", "fortune-telling cards", "petit jeu", "symbols", "playing-card inset", "divination deck", "prophecy"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lenormand.jpg",
+   "summary": "A card from the *Petit Lenormand*, the 36-card cartomantic deck named for the celebrated French fortune-teller Marie Anne Lenormand.\n\n## Iconography\nEach Lenormand card bears a single emblematic symbol — the Ship, the Tree, the Scythe, the Tower, the Stars, the Clover — often with a small inset playing card. The symbols are read in combination, neighbouring cards modifying one another, rather than through the elaborate single-card symbolism of tarot.\n\n## Significance\nMarie Anne Lenormand (1772–1843) was the most famous fortune-teller of Napoleonic France, reputed to have read for Joséphine and Robespierre. The decks published after her death under her name codified a distinct system of [[motif:cartomancy|cartomancy]] — simpler, more concrete, and grid-read (the *Grand Tableau*) — that remains popular across Europe alongside tarot. It represents the nineteenth-century commercialisation of card divination for a mass public.\n\n## For artists & game designers\nA compact symbol-set (36 plain emblems) ideal for a readable, modular divination minigame distinct from tarot's heavier iconography.",
+   "citations": [
+    {"text": "On Lenormand cartomancy, see histories of 19th-c. fortune-telling decks."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Lenormand.jpg"}
+   ],
+   "key_concepts": ["Lenormand", "cartomancy", "Marie Anne Lenormand", "fortune-telling deck"],
+   "summary_status": "authored"
+  }
+ ]
+}

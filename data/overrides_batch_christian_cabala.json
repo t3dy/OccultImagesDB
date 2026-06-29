@@ -1,0 +1,400 @@
+{
+ "_work": {
+   "key": "christian_cabala",
+   "short_id": "CCAB",
+   "title": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "various",
+   "date": "5th–19th c.",
+   "century": 16,
+   "place": "Italy, German lands, France, England",
+   "region": "Europe",
+   "language": "Latin",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "christian_cabala",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Christian_Kabbalah",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["tetractys", "divine names", "neoplatonic emanation", "sefirot", "pentagrammaton", "number mysticism"],
+   "blurb": "The Renaissance fusion of Jewish Kabbalah, Pythagorean number-mysticism, and Neoplatonic cosmology into a Christian esoteric philosophy — Pico della Mirandola's and Reuchlin's cabalist treatises, the Pentagrammaton and Tetragrammaton name-magic, the Pythagorean tetractys and decad, Llull's combinatorial art, Francesco Giorgio's musical-harmonic cosmos, the Neoplatonic emanation of Proclus, and the theosophy of Boehme, Fludd, Kircher, and Postel."
+ },
+ "entries": [
+  {
+   "id": "christian_cabala__tetractys",
+   "title": "The Tetragrammaton-Tetractys",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Anonymous (after the Pythagorean and cabalist tradition)",
+   "date": "Traditional design (modern rendering)",
+   "place": "Europe",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["tetractys", "decad", "tetragrammaton", "hebrew letters", "triangle of ten dots", "number mysticism", "divine name", "christian cabala"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Tetragrammaton-Tetractys.png",
+   "summary": "The Pythagorean tetractys fused with the Hebrew Tetragrammaton — the emblem in which Christian Cabala wedded Greek number-mysticism to the ineffable Name of God.\n\n## Iconography\nA triangle of the four letters *Yod–He–Vav–He* arranged in the four rows of the [[motif:tetractys|tetractys]]: one *Yod* at the apex, then *Yod-He*, then *Yod-He-Vav*, then the full *Yod-He-Vav-He* — so that the cumulative letters sum to the divine Name while the cumulative dots (1+2+3+4) sum to the perfect [[motif:decad|decad]], ten.\n\n## Significance\nThe Pythagorean tetractys was the sacred figure of the decad, the sum of the first four numbers and the root of cosmic harmony, sworn upon by the Pythagoreans. Renaissance Christian cabalists — Pico, Reuchlin, Agrippa — noted that the four-letter Name laid out triangularly likewise yields ten, binding [[motif:number mysticism|Pythagorean arithmology]] to Hebrew [[motif:divine names|name-theology]]. The figure became a standard proof-emblem of the supposed unity of all wisdom.\n\n## For artists & game designers\nA perfect convergence glyph: stack a sacred word so its accumulating rows resolve into a single perfect number — instant 'hidden unity' iconography.",
+   "citations": [
+    {"text": "Johannes Reuchlin, *De Arte Cabalistica* (1517), on the Name and number."},
+    {"text": "S. K. Heninger, *Touches of Sweet Harmony: Pythagorean Cosmology and Renaissance Poetics* (1974)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Tetragrammaton-Tetractys.png"}
+   ],
+   "key_concepts": ["tetractys", "decad", "Tetragrammaton", "Pythagorean number-mysticism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__tetraktys",
+   "title": "The Pythagorean Tetraktys",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Anonymous (Pythagorean tradition)",
+   "date": "Traditional design (modern rendering)",
+   "place": "Europe / Eastern Mediterranean (Pythagorean origin)",
+   "era": "antiquity",
+   "tradition": "kabbalah",
+   "motifs": ["tetractys", "decad", "triangle of ten dots", "monad", "number mysticism", "sacred geometry", "harmony", "pythagoreanism"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Tetraktys.jpg",
+   "summary": "The bare tetraktys — the triangular array of ten points in four rows that was the central sacred symbol of Pythagorean number-mysticism.\n\n## Iconography\nTen dots in four ascending rows (1, 2, 3, 4) form an equilateral [[motif:triangle of ten dots|triangle]]. The single point at the apex is the [[motif:monad|monad]] (unity); the four rows generate the point, line, plane, and solid, and their sum is the [[motif:decad|decad]], ten — held to contain all number and so all things.\n\n## Significance\nThe [[motif:tetractys|tetraktys]] was the figure by which Pythagoreans swore their oath, 'by him who gave to our soul the tetraktys.' It encoded the musical ratios (2:1 octave, 3:2 fifth, 4:3 fourth) and thus the harmony of the cosmos. Transmitted through Theon of Smyrna, Nicomachus, and Iamblichus, it became foundational to Neoplatonic and Renaissance number-theology, where the decad mirrors the ten sefirot.\n\n## For artists & game designers\nThe minimalist sacred symbol: ten dots that silently encode unity, the four elements, and musical harmony — a clean occult sigil for a numerological system.",
+   "citations": [
+    {"text": "Iamblichus, *Life of Pythagoras*; Theon of Smyrna, *Mathematics Useful for Reading Plato*."},
+    {"text": "Walter Burkert, *Lore and Science in Ancient Pythagoreanism* (1972)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Tetraktys.jpg"}
+   ],
+   "key_concepts": ["tetractys", "decad", "monad", "Pythagorean harmony"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__divine-tetractys",
+   "title": "The Divine Tetractys (decad of dots)",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Sneedledee (modern diagram)",
+   "date": "21st c. (Pythagorean subject)",
+   "place": "Europe",
+   "era": "antiquity",
+   "tradition": "kabbalah",
+   "motifs": ["tetractys", "decad", "triangle of ten dots", "number mysticism", "sacred geometry", "monad", "harmony", "pythagoreanism"],
+   "rights": "CC BY-SA 4.0 (Sneedledee). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Divine_Tetractys.png",
+   "summary": "A clean explanatory diagram of the 'divine tetractys,' labelling the symbolic meaning of each of its four rows.\n\n## Iconography\nThe ten dots of the [[motif:tetractys|tetractys]] are grouped row by row and glossed: the apex unit as the [[motif:monad|monad]] or divine source, the second row as duality, the third as harmony/the surface, the fourth as the material world — the whole resolving into the [[motif:decad|decad]] of ten.\n\n## Significance\nThe diagram makes explicit the metaphysics the Pythagoreans read into the figure: a procession from undivided unity through increasing multiplicity to the completed world, recovered in the Pythagorean number-theology that Renaissance Christian cabalists mapped onto the emanation of the sefirot from *Ein Sof*. (This is a modern teaching diagram, not a historical plate.)\n\n## For artists & game designers\nA ready-made tiered cosmology: four labelled levels of being descending from a single source — drop straight into an emanation or skill-tier system.",
+   "citations": [
+    {"text": "Nicomachus of Gerasa, *Introduction to Arithmetic*; Theon of Smyrna."},
+    {"text": "S. K. Heninger, *Touches of Sweet Harmony* (1974)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Divine_Tetractys.png"}
+   ],
+   "key_concepts": ["tetractys", "decad", "emanation", "number-mysticism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__pico-mirandola",
+   "title": "Portrait of Pico della Mirandola (Rubens)",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Peter Paul Rubens (after an earlier likeness)",
+   "date": "17th c. (Pico d. 1494)",
+   "place": "Antwerp, Flanders / Italy",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["portrait", "pico della mirandola", "christian cabala", "renaissance humanism", "900 theses", "dignity of man", "philosopher", "concord of wisdom"],
+   "rights": "CC0 (Museum Plantin-Moretus, Antwerp). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Portret_van_Pico_della_Mirandola,_Peter_Paul_Rubens,_schilderij,_Museum_Plantin-Moretus_(Antwerpen)_-_MPM_V_IV_061.jpg",
+   "summary": "A portrait of Giovanni Pico della Mirandola (1463–1494), the founder of Christian Cabala, attributed to Peter Paul Rubens.\n\n## Iconography\nThe young philosopher is shown in three-quarter view, long-haired and richly dressed — the conventional 'phoenix of the wits' likeness of Pico that circulated through Renaissance and Baroque copies, including this version in the Plantin-Moretus collection.\n\n## Significance\nPico's *Conclusiones* (the '900 Theses,' 1486) and his *Oratio de hominis dignitate* were the first systematic attempt to read the Hebrew [[motif:sefirot|Kabbalah]] as a confirmation of Christianity, arguing 'no science gives us more certainty of Christ's divinity than magic and Cabala.' Drawing on the converts Flavius Mithridates and on Pythagorean number-theology, he launched the whole tradition of Christian Cabala later carried by Reuchlin, Agrippa, and Postel. Frances Yates and Chaim Wirszubski are the standard guides.\n\n## For artists & game designers\nThe archetypal Renaissance magus-scholar: youthful, aristocratic, surrounded by the aura of forbidden synthesis — a perfect questgiver of secret wisdom.",
+   "citations": [
+    {"text": "Chaim Wirszubski, *Pico della Mirandola's Encounter with Jewish Mysticism* (1989)."},
+    {"text": "Frances A. Yates, *Giordano Bruno and the Hermetic Tradition* (1964)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Portret_van_Pico_della_Mirandola,_Peter_Paul_Rubens,_schilderij,_Museum_Plantin-Moretus_(Antwerpen)_-_MPM_V_IV_061.jpg"}
+   ],
+   "key_concepts": ["Pico della Mirandola", "Christian Cabala", "900 Theses", "concord of wisdom"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__reuchlin-de-arte",
+   "title": "Leaf from Reuchlin's *De Arte Cabalistica*",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Johannes Reuchlin",
+   "date": "1517 (Hagenau)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["christian cabala", "hebrew letters", "divine names", "gematria", "pythagoreanism", "printed book", "dialogue", "number mysticism"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Leaf_from_%22De_arte_cabalistica_libri_tres_leoni...%22_Wellcome_L0074388.jpg",
+   "summary": "A leaf from Johannes Reuchlin's *De Arte Cabalistica* (1517), the first full Latin treatise on Kabbalah by a Christian and the founding textbook of Christian Cabala.\n\n## Iconography\nThe printed page sets Latin exposition beside [[motif:hebrew letters|Hebrew]] words and divine names, in the dialogue form Reuchlin used to expound the doctrine of the sefirot, the permutation of letters, and the messianic reading of the Name.\n\n## Significance\nReuchlin (1455–1522), the great Christian Hebraist, followed Pico in arguing that the Kabbalah secretly confirms Christ. *De Arte Cabalistica*, dedicated to Pope Leo X, systematized [[motif:gematria|gematria]] and the cabalist Name-doctrine for European scholars and tied it to [[motif:number mysticism|Pythagorean arithmology]], casting Pythagoras as a transmitter of Hebrew wisdom. With his earlier *De Verbo Mirifico* it set the agenda for two centuries of Christian Kabbalah. Wilhelm Schmidt-Biggemann surveys the tradition.\n\n## For artists & game designers\nA dense bilingual grimoire page — Latin learning shot through with Hebrew names — for the look of a scholar's forbidden study.",
+   "citations": [
+    {"text": "Johannes Reuchlin, *De Arte Cabalistica libri tres* (Hagenau, 1517)."},
+    {"text": "Wilhelm Schmidt-Biggemann, *Geschichte der christlichen Kabbala* (2012–)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Leaf_from_%22De_arte_cabalistica_libri_tres_leoni...%22_Wellcome_L0074388.jpg"}
+   ],
+   "key_concepts": ["De Arte Cabalistica", "Johannes Reuchlin", "gematria", "Christian Cabala"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__reuchlin-verbo-mirifico",
+   "title": "*De Verbo Mirifico* (binding, Reuchlin)",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Johannes Reuchlin",
+   "date": "1494 (text); early printing",
+   "place": "German lands (Basel/Tübingen)",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["christian cabala", "pentagrammaton", "wonder-working word", "divine names", "tetragrammaton", "printed book", "name magic", "messianic"],
+   "rights": "CC0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:De_Verbo_Mirifico._-_Upper_cover_(IB37366).jpg",
+   "summary": "The binding of an early edition of Reuchlin's *De Verbo Mirifico* ('On the Wonder-Working Word,' 1494), the book that introduced the Pentagrammaton to Christian Cabala.\n\n## Iconography\nThe blind-tooled cover of the volume; the work itself is a dialogue arguing that the unpronounceable Hebrew [[motif:tetragrammaton|Tetragrammaton]] YHWH becomes pronounceable and salvific when the letter *Shin* is inserted to spell *YHShWH* — Yeshua, Jesus.\n\n## Significance\nReuchlin's 'wonder-working word' is the [[motif:pentagrammaton|Pentagrammaton]]: the Name of Jesus as the Tetragrammaton plus *Shin*, presented as the supreme word of power that makes the ineffable Name effable and redemptive. This Christian-cabalist conceit, first set out here in 1494, recurs across Renaissance magic — in Agrippa, in the pentagram-with-Hebrew-letters, and in countless later occult diagrams. Frances Yates and Charles Zika trace its influence.\n\n## For artists & game designers\nThe 'true name unlocked' trope: a forbidden word made speakable by adding one secret letter — a tidy puzzle-key mechanic.",
+   "citations": [
+    {"text": "Johannes Reuchlin, *De Verbo Mirifico* (1494)."},
+    {"text": "Charles Zika, 'Reuchlin's De Verbo Mirifico and the Magic Debate of the Late Fifteenth Century,' *Journal of the Warburg and Courtauld Institutes* (1976)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:De_Verbo_Mirifico._-_Upper_cover_(IB37366).jpg"}
+   ],
+   "key_concepts": ["De Verbo Mirifico", "Pentagrammaton", "wonder-working word", "name-magic"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__pentagrammaton",
+   "title": "Pentagrams with the Pentagrammaton (Guaita)",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Stanislas de Guaita",
+   "date": "1897 (La Clef de la Magie Noire)",
+   "place": "France",
+   "era": "modern",
+   "tradition": "kabbalah",
+   "motifs": ["pentagrammaton", "pentagram", "hebrew letters", "yeshua", "microcosm", "name magic", "occult revival", "christian cabala"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentagrams_from_La_Clef_de_la_Magie_Noire.jpg",
+   "summary": "The pair of pentagrams from Stanislas de Guaita's *La Clef de la Magie Noire* (1897), inscribed with the five Hebrew letters of the Pentagrammaton.\n\n## Iconography\nTwo opposed [[motif:pentagram|pentagrams]] — one point-up, one point-down — each carrying around its five points the Hebrew letters *Yod-He-Shin-Vav-He* (*YHShWH*), the [[motif:pentagrammaton|Pentagrammaton]] of Yeshua. The upward star aligns the letters with the harmonious microcosm; the inverted star, with the infernal. A human figure is fitted to the rays.\n\n## Significance\nGuaita's diagram is the late-occult-revival crystallization of Reuchlin's Christian-cabalist idea: the Name of Jesus as Tetragrammaton-plus-*Shin* set into the five-pointed star, the upright star marking divine order and the reversed one its perversion — the source of the modern association of the inverted pentagram with evil. It synthesizes Éliphas Lévi's pentagram-as-microcosm with the older Name-magic. Lévi's and Guaita's works are the key sources.\n\n## For artists & game designers\nThe canonical 'good star / evil star' pair, each labelled with the same sacred name — a built-in alignment switch for a magic symbol.",
+   "citations": [
+    {"text": "Stanislas de Guaita, *La Clef de la Magie Noire* (1897)."},
+    {"text": "Éliphas Lévi, *Dogme et Rituel de la Haute Magie* (1855–56)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentagrams_from_La_Clef_de_la_Magie_Noire.jpg"}
+   ],
+   "key_concepts": ["Pentagrammaton", "pentagram", "microcosm", "occult revival"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__rosycross-tetragrammaton",
+   "title": "Rose Cross with Tetragrammaton and Pentagrammaton",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "RootOfAllLight (after a Golden Dawn design by Frater5)",
+   "date": "Modern (Golden Dawn tradition, late 19th c.)",
+   "place": "England",
+   "era": "modern",
+   "tradition": "rosicrucian",
+   "motifs": ["rose cross", "tetragrammaton", "pentagrammaton", "hebrew letters", "divine names", "christian cabala", "golden dawn", "correspondences"],
+   "rights": "CC BY-SA 4.0 (RootOfAllLight). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Rosycross-Tetragrammaton.png",
+   "summary": "A Rose-Cross lamen carrying the Tetragrammaton and, at its centre, the Pentagrammaton — the Golden Dawn's emblem of Christian-cabalist Name-magic.\n\n## Iconography\nThe ornate rose-and-cross bears the four letters of the [[motif:tetragrammaton|Tetragrammaton]] on its arms and the five-fold [[motif:pentagrammaton|Pentagrammaton]] *YHShWH* at the heart of the rose, surrounded by the Hebrew alphabet, the elements, planets, and zodiac in coloured correspondence — the whole a compressed map of the cabalist cosmos.\n\n## Significance\nThe Rose Cross of the Hermetic Order of the Golden Dawn distils the long Christian-Cabala tradition: Reuchlin's salvific Name of Jesus (Tetragrammaton + *Shin*) placed at the centre of a Rosicrucian symbol of resurrection, ringed by the sefirotic and astrological correspondences inherited from Knorr von Rosenroth and the occult revival. (This is a modern redrawing of the order's design.) Israel Regardie's *The Golden Dawn* documents the lamen.\n\n## For artists & game designers\nA single insignia that encodes an entire correspondence system — name at the centre, alphabet and elements radiating out: a ready faction-sigil with built-in lore.",
+   "citations": [
+    {"text": "Israel Regardie, *The Golden Dawn* (1937–40), on the Rose Cross lamen."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Rosycross-Tetragrammaton.png"}
+   ],
+   "key_concepts": ["Rose Cross", "Pentagrammaton", "Tetragrammaton", "Golden Dawn"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__kircher-tree-of-life",
+   "title": "Kircher's Tree of Life (Sephirotic diagram)",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Athanasius Kircher",
+   "date": "Mid-17th c. (Oedipus Aegyptiacus, 1652–54)",
+   "place": "Rome, Italy",
+   "era": "early_modern",
+   "tradition": "kabbalah",
+   "motifs": ["sefirot", "tree of life", "divine names", "hebrew letters", "twenty-two paths", "christian cabala", "emanation", "kircher tree"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kircher_Tree_of_Life.png",
+   "summary": "Athanasius Kircher's diagram of the cabalist Tree of Life — the version that fixed the standard layout of ten sefirot and twenty-two connecting paths.\n\n## Iconography\nTen circular [[motif:sefirot|sefirot]], each labelled with its Hebrew name and a divine name, are joined by the [[motif:twenty-two paths|twenty-two paths]] of the Hebrew alphabet, arranged in the three-pillar configuration descending from *Keter* to *Malkhut*. Kircher frames the scheme with Latin correspondences.\n\n## Significance\nPublished in Kircher's *Oedipus Aegyptiacus* (1652–54), this is the most reproduced Christian-cabalist Tree of the early modern period and the direct ancestor of the diagram used by the 19th-century occult revival and the Golden Dawn. Kircher (1602–1680), the Jesuit polymath, read the sefirot as a node in his universal theology linking Hebrew, Egyptian, and Pythagorean wisdom. (The image is closely related to but distinct from his circular 'names of God' diagram.)\n\n## For artists & game designers\nThe canonical ten-node, twenty-two-edge graph — a ready skill-tree topology already weighted with names, colours, and elemental tags.",
+   "citations": [
+    {"text": "Athanasius Kircher, *Oedipus Aegyptiacus* (Rome, 1652–54)."},
+    {"text": "Joscelyn Godwin, *Athanasius Kircher's Theatre of the World* (2009)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kircher_Tree_of_Life.png"}
+   ],
+   "key_concepts": ["Tree of Life", "sefirot", "twenty-two paths", "Athanasius Kircher"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__giorgio-harmonia",
+   "title": "*De Harmonia Mundi Totius* (Francesco Giorgio)",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Francesco Giorgio (Zorzi); printed by Bernardino de Vitalibus",
+   "date": "1525 (Venice)",
+   "place": "Venice, Italy",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["world harmony", "musical ratios", "neoplatonic emanation", "christian cabala", "macrocosm", "number mysticism", "title page", "concord"],
+   "rights": "CC BY-SA 3.0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Francesco_Zorzi_De_Harmonia_Mundi_totius.png",
+   "summary": "The title page of Francesco Giorgio's *De Harmonia Mundi Totius* (Venice, 1525), the great Venetian synthesis of Pythagorean harmony, Neoplatonism, and Christian Cabala.\n\n## Iconography\nThe printed title page of the *cantica* in which the Franciscan friar Giorgio (Zorzi, 1466–1540) expounds the universe as a single musical [[motif:world harmony|harmony]] built on Pythagorean numerical ratios and the cabalist names of God.\n\n## Significance\n*De Harmonia Mundi* fused the [[motif:number mysticism|Pythagorean]] doctrine of cosmic musical proportion with Ficinian Neoplatonism and the [[motif:sefirot|Kabbalah]] of Pico and Reuchlin, presenting creation as a graduated concord from God down through the angelic and celestial worlds to matter. It deeply shaped Renaissance ideas of universal harmony — influencing Agrippa, English architectural theory, and (per Frances Yates and Rudolf Wittkower) the proportional thinking of Palladio. A foundational text of the harmonic strand of Christian Cabala.\n\n## For artists & game designers\nA design thesis in one book: the cosmos as tuned intervals — score your world's planes to musical ratios for a literally harmonious cosmology.",
+   "citations": [
+    {"text": "Francesco Giorgio, *De Harmonia Mundi Totius Cantica Tria* (Venice, 1525)."},
+    {"text": "Rudolf Wittkower, *Architectural Principles in the Age of Humanism* (1949)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Francesco_Zorzi_De_Harmonia_Mundi_totius.png"}
+   ],
+   "key_concepts": ["De Harmonia Mundi", "Francesco Giorgio", "world harmony", "Pythagorean cosmology"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__fludd-integra-naturae",
+   "title": "*Integrae Naturae Speculum* (Fludd)",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Robert Fludd; engraved by Matthäus Merian / Johann Theodor de Bry",
+   "date": "1617 (Utriusque Cosmi Historia)",
+   "place": "Oppenheim, German lands / England",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["chain of being", "anima mundi", "macrocosm", "concentric circles", "ape of art", "neoplatonic emanation", "world soul", "divine name"],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Integrae_naturae_speculum,_Fludd,_1617_Wellcome_M0013244.jpg",
+   "summary": "Robert Fludd's engraving *Integrae Naturae Speculum, Artisque Imago* ('The Mirror of the Whole of Nature and the Image of Art') from the *Utriusque Cosmi Historia* (1617) — a Neoplatonic chain of being drawn as linked concentric circles.\n\n## Iconography\nA chain runs from the Hebrew Name of God in the clouds to the hand of a winged maiden, *Natura*, the [[motif:world soul|anima mundi]], whose own hand chains the [[motif:ape of art|ape of Art]] below. Around her radiate [[motif:concentric circles|concentric bands]]: the angelic hierarchies, the planetary spheres, and the elemental and mineral worlds — a single graduated procession from the One to brute matter.\n\n## Significance\nFludd's plate is the most famous early-modern image of the Neoplatonic [[motif:chain of being|great chain]] as emanation: God's Name above, Nature as mediating world-soul, and the descending circles of being, with human art (the ape) imitating nature at the bottom. It fuses Hermetic, cabalist, and Pythagorean cosmology. Frances Yates, Joscelyn Godwin, and (on its design) the Warburg tradition discuss it. (Distinct from Fludd's separate sefirot and monochord plates.)\n\n## For artists & game designers\nThe definitive 'great chain' visual: a literal chain from God to ape threading concentric realms — a perfect map screen for a layered cosmos.",
+   "citations": [
+    {"text": "Robert Fludd, *Utriusque Cosmi … Historia*, vol. 1 (Oppenheim, 1617)."},
+    {"text": "Joscelyn Godwin, *Robert Fludd: Hermetic Philosopher and Surveyor of Two Worlds* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Integrae_naturae_speculum,_Fludd,_1617_Wellcome_M0013244.jpg"}
+   ],
+   "key_concepts": ["Integra Naturae Speculum", "chain of being", "anima mundi", "Robert Fludd"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__fludd-naturae-simia",
+   "title": "The Ape of Nature (Fludd)",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Robert Fludd; engraved by Theodor de Bry",
+   "date": "1617–1626 (Utriusque Cosmi Historia)",
+   "place": "Oppenheim, German lands / England",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["ape of art", "macrocosm microcosm", "liberal arts", "number mysticism", "human knowledge", "emanation", "engraving", "natura"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ape_of_nature.jpg",
+   "summary": "A detail of the 'ape of nature' from Robert Fludd's cosmological engravings — human art and science figured as an ape imitating Nature.\n\n## Iconography\nA seated [[motif:ape of art|ape]] points a compass at a globe, surrounded by the disciplines it practises — arithmetic, geometry, music, perspective, the mechanical arts. The creature is *ars simia naturae*, Art the ape of Nature, copying at one remove the works that Nature copies in turn from God.\n\n## Significance\nFludd's ape encapsulates the Renaissance Neoplatonic ladder of imitation: God → Nature (the world-soul) → human Art, each level an ape of the one above. The disciplines ringing the ape are organized by [[motif:number mysticism|Pythagorean]] number and proportion, the quadrivium of arithmetic, music, geometry, and astronomy. The motif descends from the medieval *simia* topos and recurs across emblem literature. Godwin and the Warburg scholarship discuss it.\n\n## For artists & game designers\nA single figure that diagrams a whole knowledge-system: a craftsman-ape ringed by the skills it can perform — an instant 'crafting menu' character.",
+   "citations": [
+    {"text": "Robert Fludd, *Utriusque Cosmi … Historia* (1617–26)."},
+    {"text": "H. W. Janson, *Apes and Ape Lore in the Middle Ages and the Renaissance* (1952)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Ape_of_nature.jpg"}
+   ],
+   "key_concepts": ["ape of art", "ars simia naturae", "quadrivium", "Robert Fludd"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__proclus-elements",
+   "title": "Proclus, *Elements of Theology* (Patrizi, 1583)",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Proclus; Latin trans. Francesco Patrizi",
+   "date": "1583 (Ferrara printing); text 5th c.",
+   "place": "Ferrara, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["neoplatonism", "emanation", "the one", "henads", "procession and return", "number mysticism", "title page", "metaphysics"],
+   "rights": "CC BY-SA 4.0. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Proclus_Elements_of_Theology_and_Elements_of_Physics_Latin_translation_by_Patricius_1583.png",
+   "summary": "The 1583 Latin edition of Proclus's *Elements of Theology* and *Elements of Physics*, translated by Francesco Patrizi — the Neoplatonic metaphysics that underlies Renaissance cosmological diagrams of the One's procession into concentric and interlocking circles.\n\n## Iconography\nThe printed title page of Patrizi's edition; the *Elements of Theology* itself is a chain of 211 propositions deducing, more geometrico, the whole order of being from the [[motif:the one|One]] through the [[motif:henads|henads]] and triads down to bodies and souls.\n\n## Significance\nProclus (412–485), last great head of the Athenian Academy, gave Neoplatonism its most rigorous form: all things proceed from and return to the One ([[motif:procession and return|*proodos* and *epistrophē*]]) through ranked triads of [[motif:henads|henads]], each level mirrored in interlocking circles of cause and effect. Mediated by Patrizi and by Pico's reading in the *Heptaplus*, this scheme shaped Christian-cabalist and Renaissance cosmic diagrams (e.g. the Proclan-cosmos model on the cover of Crofton Black's study of Pico). The *Elements* also reached the Middle Ages disguised as the *Liber de Causis*.\n\n## For artists & game designers\nThe source-code of emanation cosmology: a strictly ranked descent from a single One through nested triads — a clean spec for a tiered metaphysical world-structure.",
+   "citations": [
+    {"text": "Proclus, *The Elements of Theology*, ed. & trans. E. R. Dodds (1933; 2nd ed. 1963)."},
+    {"text": "Crofton Black, *Pico's Heptaplus and Biblical Hermeneutics* (2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Proclus_Elements_of_Theology_and_Elements_of_Physics_Latin_translation_by_Patricius_1583.png"}
+   ],
+   "key_concepts": ["Elements of Theology", "Proclus", "procession and return", "henads"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__proclus-platonic-theology",
+   "title": "Proclus, *Platonic Theology* (MS. Laud. gr. 18)",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Proclus (Greek manuscript)",
+   "date": "Manuscript; text 5th c.",
+   "place": "Oxford, Bodleian (Byzantine MS)",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": ["neoplatonism", "the one", "henads", "triads", "divine orders", "emanation", "greek manuscript", "metaphysics"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Proclus,_Platonic_Theology,_Oxford,_MS._Laud._gr._18.jpg",
+   "summary": "A Greek manuscript page of Proclus's *Platonic Theology* (Bodleian MS. Laud. gr. 18), the fullest exposition of the Neoplatonic hierarchy of divine orders.\n\n## Iconography\nA leaf of the Greek text in a Byzantine hand. The *Platonic Theology* unfolds the ranks of gods as a graduated descent from the [[motif:the one|One]] through the [[motif:henads|henads]] (unitary gods) and successive [[motif:triads|triads]] — intelligible, intelligible-and-intellective, and intellective orders — each reflecting the whole at its own level.\n\n## Significance\nProclus's system of nested triads and henads is exactly the cosmos that Renaissance Neoplatonists pictured as interlocking circles: each divine order both proceeds from and reverts upon its cause, so the whole is a set of concentric, mutually-mirroring rings of being. Pico drew on this Proclan model in the *Heptaplus*; Patrizi, Ficino, and the Christian cabalists transmitted it as the metaphysical armature beneath the sefirot and the chain of being. E. R. Dodds and H. D. Saffrey are the standard editors.\n\n## For artists & game designers\nA manuscript prop for a Neoplatonic sourcebook — and, in its content, a blueprint for self-similar nested realms, each tier a smaller copy of the whole.",
+   "citations": [
+    {"text": "Proclus, *Théologie platonicienne*, ed. H. D. Saffrey & L. G. Westerink (1968–97)."},
+    {"text": "Crofton Black, *Pico's Heptaplus and Biblical Hermeneutics* (2006)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Proclus,_Platonic_Theology,_Oxford,_MS._Laud._gr._18.jpg"}
+   ],
+   "key_concepts": ["Platonic Theology", "Proclus", "henads", "divine orders"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__llull-ars-magna",
+   "title": "Title page of Llull's *Ars Magna* (printed edition)",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Ramon Llull (printed edition)",
+   "date": "Early printed edition (text ca. 1305)",
+   "place": "Europe",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["combinatorial art", "ars magna", "divine names", "title page", "ramon llull", "logic machine", "christian cabala", "dignities of god"],
+   "rights": "Public domain (No restrictions). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Illuminati_sacre_pagine_p.fessoris_amplissimi_magistri_Raymundi_Lull._Ars_magna,_generalis_et_vltima_-_quarucunq3_artium_(et)_scientiarum_ipsius_Lull._assecutrix_et_clauigera_-_(et)_ad_eas_aditum_(14591005828).jpg",
+   "summary": "The title page of an early printed edition of Ramon Llull's *Ars Magna, generalis et ultima* — the combinatorial 'Great Art' that Renaissance Christian cabalists embraced as a method for combining the divine names.\n\n## Iconography\nThe ornate Latin title page of the *Ars magna generalis et ultima*, naming Llull's art as the 'master-key and door' to all arts and sciences.\n\n## Significance\nRamon Llull (ca. 1232–1316) built an *ars combinatoria* of rotating figures and tables that combined a fixed set of divine 'dignities' (Goodness, Greatness, Eternity, Power, Wisdom…) to generate all true propositions and to convert unbelievers by reason. Renaissance thinkers — Pico, Agrippa, Bruno, and later Kircher — fused Lullism with [[motif:christian cabala|Christian Cabala]] and Pythagorean number-art, treating the wheels of [[motif:divine names|divine names]] as a cabalist combinatory. Frances Yates traced this 'Lullism' as a major current of Renaissance occult thought. (This printed title page is distinct from the held Llull diagram plates.)\n\n## For artists & game designers\nThe original 'logic engine': a fixed alphabet of divine attributes combined mechanically to generate every truth — a ready mechanic for a deduction or spell-combination system.",
+   "citations": [
+    {"text": "Ramon Llull, *Ars magna generalis et ultima* (ca. 1305; early printings)."},
+    {"text": "Frances A. Yates, *Lull and Bruno: Collected Essays* (1982)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Illuminati_sacre_pagine_p.fessoris_amplissimi_magistri_Raymundi_Lull._Ars_magna,_generalis_et_vltima_-_quarucunq3_artium_(et)_scientiarum_ipsius_Lull._assecutrix_et_clauigera_-_(et)_ad_eas_aditum_(14591005828).jpg"}
+   ],
+   "key_concepts": ["Ars Magna", "Ramon Llull", "combinatorial art", "Lullism"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__postel",
+   "title": "Portrait of Guillaume Postel",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Anonymous engraver (Rijksmuseum impression)",
+   "date": "16th–17th c. (Postel d. 1581)",
+   "place": "France",
+   "era": "renaissance",
+   "tradition": "kabbalah",
+   "motifs": ["portrait", "guillaume postel", "christian cabala", "zohar", "universal religion", "hebraist", "messianism", "orientalist"],
+   "rights": "CC0 (Rijksmuseum). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Portret_van_Franse_astronoom_Guillaume_Postel_Guillaume_Postel_(titel_op_object),_RP-P-1937-1373.jpg",
+   "summary": "An engraved portrait of Guillaume Postel (1510–1581), the French Hebraist, orientalist, and visionary who carried Christian Cabala to its most radical extreme.\n\n## Iconography\nA bust portrait of the bearded scholar (here catalogued as an 'astronomer'), in the conventional learned-man format of 16th-century engraving.\n\n## Significance\nPostel was the first to translate the [[motif:zohar|*Zohar*]] and the *Sefer Yetzirah* into Latin and the great prophet of a coming [[motif:universal religion|universal religion]] (*concordia mundi*) that would unite all peoples under a restored Christianity grounded in [[motif:christian cabala|Cabala]]. He proclaimed the Venetian holy woman 'Mother Joanna' the female messiah and read the cabalist *Shekhinah* into her — getting himself declared 'mad rather than heretical' by the Inquisition. A central, eccentric figure of the Christian-cabalist tradition; Marion Kuntz and Frances Yates study him.\n\n## For artists & game designers\nThe heterodox prophet-scholar archetype: brilliant linguist, world-reforming visionary, and borderline heretic — a rich NPC of dangerous ideas.",
+   "citations": [
+    {"text": "Marion L. Kuntz, *Guillaume Postel: Prophet of the Restitution of All Things* (1981)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Portret_van_Franse_astronoom_Guillaume_Postel_Guillaume_Postel_(titel_op_object),_RP-P-1937-1373.jpg"}
+   ],
+   "key_concepts": ["Guillaume Postel", "Christian Cabala", "Zohar translation", "universal religion"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__boehme-globe",
+   "title": "Boehme's *Philosophische Kugel* (Philosophical Globe)",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "After Jakob Böhme (theosophical diagram)",
+   "date": "17th c. (Böhme 1575–1624)",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "theosophy",
+   "motifs": ["philosophical globe", "wonder eye", "theosophy", "divine emanation", "concentric circles", "abyss", "mysterium magnum", "jakob boehme"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:B%C3%B6hme_Philosophische_Kugel.JPG",
+   "summary": "The *Philosophische Kugel* or 'Wonder-Eye of Eternity,' the central theosophical diagram of Jakob Böhme's mystical cosmology.\n\n## Iconography\nTwo interlocking circles or hemispheres form an eye-shaped figure crossed by a heart; around and within it are arrayed the divine qualities and the names of God, mapping the eternal Nature's procession out of the groundless [[motif:abyss|*Ungrund*]] into the manifest world of light and dark. The whole is read as the eye in which God beholds himself.\n\n## Significance\nBöhme (1575–1624), the 'Teutonic theosopher' shoemaker of Görlitz, described creation as the self-revelation of God out of the *Ungrund* (groundless abyss) through seven source-spirits and the tension of wrath and love. This diagram — printed in editions of his works and in William Law's English edition — condenses that [[motif:theosophy|theosophy]] into interlocking circles of emanation, parallel to the cabalist sefirot and the Neoplatonic procession. Böhme shaped Pietism, Romanticism, and figures from Newton to Hegel; Andrew Weeks and Arthur Versluis are guides.\n\n## For artists & game designers\nA self-contained cosmogram: an eye made of interlocking rings holding the names of every divine force — a striking title-screen sigil or scrying device.",
+   "citations": [
+    {"text": "Jakob Böhme, *Mysterium Magnum* (1623); *Theosophical Works*, ed. William Law (1764–81)."},
+    {"text": "Andrew Weeks, *Boehme: An Intellectual Biography* (1991)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:B%C3%B6hme_Philosophische_Kugel.JPG"}
+   ],
+   "key_concepts": ["Philosophische Kugel", "Ungrund", "theosophy", "Jakob Böhme"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "christian_cabala__boehme-portrait",
+   "title": "Portrait of Jakob Böhme",
+   "work": "Christian Cabala & Pythagorean Number-Mysticism",
+   "creator": "Anonymous engraver (Rijksmuseum impression)",
+   "date": "17th c. (Böhme 1575–1624)",
+   "place": "German lands",
+   "era": "early_modern",
+   "tradition": "theosophy",
+   "motifs": ["portrait", "jakob boehme", "theosophy", "mystic", "teutonic philosopher", "divine wisdom", "engraving", "shoemaker"],
+   "rights": "CC0 (Rijksmuseum). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Portret_van_Jakob_B%C3%B6hme,_RP-P-1908-3858.jpg",
+   "summary": "An engraved portrait of Jakob Böhme (1575–1624), the Görlitz shoemaker whose visionary theosophy became a wellspring of Western mysticism.\n\n## Iconography\nA bust portrait of the mystic, in the devotional-scholarly format used for the frontispieces of his collected works; later impressions often surround the likeness with emblems of his doctrine and Latin verses.\n\n## Significance\nBöhme, the *Philosophus Teutonicus*, claimed a sudden illumination (gazing into the sheen of a pewter dish) that revealed the inner structure of God and Nature, which he expounded in *Aurora* (1612) and *Mysterium Magnum*. His doctrine of the [[motif:theosophy|*Ungrund*]], the seven source-spirits, and the divine *Sophia* fed Pietism, Quietism, Romanticism, and Western [[motif:theosophy|theosophy]] — Gichtel, William Law, Saint-Martin, Blake, Hegel, and Schelling all drew on him. His work runs parallel to Christian Cabala in reading creation as graduated divine self-disclosure. Andrew Weeks and Arthur Versluis are standard.\n\n## For artists & game designers\nThe humble-artisan mystic: a tradesman granted cosmic vision — a relatable sage NPC whose wisdom outranks his station.",
+   "citations": [
+    {"text": "Jakob Böhme, *Aurora* (1612)."},
+    {"text": "Arthur Versluis, *Wisdom's Children: A Christian Esoteric Tradition* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Portret_van_Jakob_B%C3%B6hme,_RP-P-1908-3858.jpg"}
+   ],
+   "key_concepts": ["Jakob Böhme", "theosophy", "Aurora", "Philosophus Teutonicus"],
+   "summary_status": "authored"
+  }
+ ]
+}

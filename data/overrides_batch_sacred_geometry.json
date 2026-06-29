@@ -1,0 +1,486 @@
+{
+ "_work": {
+   "key": "sacred_geometry",
+   "short_id": "SGEO",
+   "title": "Sacred Geometry & Number-Mysticism",
+   "creator": "various",
+   "date": "1st c. CE – early 20th c.",
+   "century": 16,
+   "place": "Italy, German lands, France, England",
+   "region": "Europe",
+   "language": "Latin and vernacular",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "root": "LOCAL",
+   "image_dir": "sacred_geometry",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Sacred_geometry",
+   "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+   "motifs": ["divine proportion", "platonic solids", "vitruvian man", "squaring the circle", "vesica piscis", "magic square"],
+   "blurb": "Renaissance and early-modern prints and diagrams in which geometry carries cosmic and esoteric meaning: Leonardo's and Agrippa's microcosmic men in circle and square, the Platonic solids of Pacioli and Kepler, the divine proportion and golden spiral, the vesica piscis, the squaring of the circle, monochord harmonics, Dürer's constructions, and Robert Fludd's geometric cosmos."
+ },
+ "entries": [
+  {
+   "id": "sacred_geometry__vitruvian-man-leonardo",
+   "title": "Vitruvian Man (Uomo Vitruviano)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Leonardo da Vinci",
+   "date": "c. 1490",
+   "place": "Venice / Milan, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["vitruvian man", "circle and square", "microcosm", "human proportion", "navel center", "homo ad quadratum", "homo ad circulum", "divine proportion"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg",
+   "summary": "Leonardo da Vinci's pen-and-ink study of the ideal human figure inscribed simultaneously in a circle and a square, the single most famous image of Renaissance proportion theory.\n\n## Iconography\nA nude man is drawn with two superimposed pairs of arms and legs so that one stance touches the sides of a **square** (homo ad quadratum) and the spread-eagle stance touches a **circle** centred on the navel (homo ad circulum). Leonardo's mirror-script notes above and below transcribe the body's proportions. The figure appears to step within both figures at once, reconciling the two frames.\n\n## Significance\nThe drawing visualises a passage in Vitruvius's *De architectura* (Book III) claiming the well-built body fits both perfect figures. For Renaissance Neoplatonists this made the human body the [[motif:microcosm|microcosm]], a measure binding earthly square and celestial [[motif:divine-proportion|circle]]. Leonardo's solution — different centres for circle and square — quietly corrects Vitruvius and embodies the humanist conviction that man is the measure of the cosmos.\n\n## For artists & game designers\nThe overlapped-stance device is a compact way to show a figure inhabiting two geometric orders at once — useful for any avatar meant to mediate between worlds.",
+   "citations": [
+    {"text": "Vitruvius, *De architectura*, Book III."},
+    {"text": "T. Lester, *Da Vinci's Ghost* (2012)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg"}
+   ],
+   "key_concepts": ["Vitruvian Man", "circle and square", "human proportion", "microcosm"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__agrippa-microcosmic-man",
+   "title": "Man inscribed in a pentagram (Agrippa)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Heinrich Cornelius Agrippa",
+   "date": "1533 (De occulta philosophia)",
+   "place": "Cologne, German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["pentagram", "microcosm", "human body", "five points", "planetary signs", "magic figure", "vitruvian man", "macrocosm"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentagram_and_human_body_(Agrippa).jpg",
+   "summary": "The figure of a man fitted into a five-pointed star, from Heinrich Cornelius Agrippa's *De occulta philosophia libri tres* (1533), a foundational image of Renaissance magical anthropology.\n\n## Iconography\nA standing man spreads his arms and legs so that head, two hands and two feet reach the five points of a [[motif:pentagram|pentagram]]; planetary glyphs are set around the figure and at its centre. The body's extremities define the star, marrying human anatomy to the geometry of the pentangle.\n\n## Significance\nAgrippa's plate translates the Vitruvian circle-and-square tradition into an explicitly occult key: the human form is the [[motif:microcosm|microcosm]] whose five points correspond to the planets and the quintessence. Together with his companion figure inscribed in a circle, it became the canonical Renaissance demonstration that the body's proportions encode the heavens. The pentagram here is a benign 'star of the microcosm', long before its later demonising.\n\n## For artists & game designers\nA template for a 'sign-of-man' glyph: body-as-star with correspondences arrayed at each point, ready to drive a system of bodily/planetary attributes.",
+   "citations": [
+    {"text": "H. C. Agrippa, *De occulta philosophia* (1533)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentagram_and_human_body_(Agrippa).jpg"}
+   ],
+   "key_concepts": ["pentagram", "star of the microcosm", "planetary correspondences", "Agrippa"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__cesariano-vitruvian",
+   "title": "Homo ad quadratum (Cesariano's Vitruvius, 1521)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Cesare Cesariano (after Vitruvius)",
+   "date": "1521",
+   "place": "Como, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["vitruvian man", "square", "human proportion", "grid", "navel center", "architectural treatise", "microcosm", "woodcut"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A_pariquadrata_superficie_humai_corporis_perdistincta_eo_naturali_centro_umbilici_circulum_excipere_-_et_in_eo_quadratum_minorem_inscribere,_fig._a_LCCN2006681079.jpg",
+   "summary": "A woodcut of the proportional man from Cesare Cesariano's 1521 Como edition of Vitruvius, the first printed and illustrated translation of *De architectura* into Italian.\n\n## Iconography\nThe nude figure stands within a square ruled into a fine measuring **grid**, arms outstretched, the navel marking the natural centre from which a circle is taken. The accompanying caption (preserved in the file title) describes inscribing a smaller square within the circle drawn at the umbilicus.\n\n## Significance\nCesariano's plates are the earliest *printed* Vitruvian figures and circulated the circle-and-square ideal far more widely than Leonardo's private drawing. Their slightly stiff, grid-bound bodies show the Renaissance effort to make proportion measurable and reproducible, turning the [[motif:microcosm|microcosmic]] body into a teachable architectural module.\n\n## For artists & game designers\nThe explicit measuring grid behind the figure is a clean reference for proportion overlays or 'blueprint' rendering modes.",
+   "citations": [
+    {"text": "Vitruvius, ed. C. Cesariano, *Di Lucio Vitruvio Pollione de architectura* (Como, 1521)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:A_pariquadrata_superficie_humai_corporis_perdistincta_eo_naturali_centro_umbilici_circulum_excipere_-_et_in_eo_quadratum_minorem_inscribere,_fig._a_LCCN2006681079.jpg"}
+   ],
+   "key_concepts": ["Cesariano Vitruvius", "homo ad quadratum", "printed proportion figure", "measuring grid"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__kepler-mysterium-solids",
+   "title": "Nested Platonic solids (Mysterium Cosmographicum)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Johannes Kepler",
+   "date": "1596",
+   "place": "Tübingen / Graz, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["platonic solids", "nested spheres", "planetary spacing", "polyhedra", "cosmic model", "divine geometry", "orbits", "copernican"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kepler_Mysterium_Platonic_Solids.jpg",
+   "summary": "Kepler's celebrated diagram of the five Platonic solids nested inside one another to fix the spacing of the planetary orbits, from *Mysterium Cosmographicum* (1596).\n\n## Iconography\nWithin a great sphere a cube holds a tetrahedron, which holds a dodecahedron, icosahedron and octahedron, each separated by an inscribed and circumscribed **sphere**. The six gaps between spheres are meant to give the relative orbital radii of the six known planets around the Sun.\n\n## Significance\nThe young Kepler believed God had built the solar system on the five [[motif:platonic-solids|Platonic solids]] — the only perfect regular polyhedra — so that geometry itself explained why there were exactly six planets. Though his later laws abandoned the model, it is a pure expression of the Pythagorean–Platonic conviction that number and form underlie the cosmos. It marks the threshold where number-mysticism turns into mathematical astronomy.\n\n## For artists & game designers\nNested regular solids make an instantly legible 'orrery of pure form' — a cosmology you can build entirely from five shapes.",
+   "citations": [
+    {"text": "J. Kepler, *Mysterium Cosmographicum* (1596)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kepler_Mysterium_Platonic_Solids.jpg"}
+   ],
+   "key_concepts": ["Platonic solids", "Mysterium Cosmographicum", "polyhedral cosmos", "Kepler"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__kepler-tabula",
+   "title": "The Platonic-solid solar system (Tabula Orbium)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Johannes Kepler",
+   "date": "1596 (Tabula III)",
+   "place": "Graz, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["platonic solids", "planetary orbits", "polyhedra", "cosmic model", "detail engraving", "nested solids", "copernican", "divine geometry"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Kepler-solar-system-1.png",
+   "summary": "A detail of the nested-solids model from Kepler's *Mysterium Cosmographicum*, showing the inner cluster of polyhedra and spheres that set the planetary distances.\n\n## Iconography\nThe engraving zooms on the central polyhedra — octahedron, icosahedron and dodecahedron — stacked within their bounding **spheres**, the structure that in the full plate is enclosed by the cube and tetrahedron for the outer planets.\n\n## Significance\nThis closer view makes clear how Kepler used inscribed and circumscribed spheres of the five regular solids as the geometric scaffolding of the Copernican system. It is the working detail behind his claim that the architecture of the heavens is built from [[motif:platonic-solids|Platonic geometry]] — the high-water mark of Renaissance polyhedral cosmology.\n\n## For artists & game designers\nUse as an exploded/cutaway companion to the full model: the same cosmos seen from inside, good for a zoom transition.",
+   "citations": [
+    {"text": "J. Kepler, *Mysterium Cosmographicum* (1596), Tabula III."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Kepler-solar-system-1.png"}
+   ],
+   "key_concepts": ["Platonic solids", "nested polyhedra", "planetary spacing", "Kepler"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__kepler-harmonices",
+   "title": "Polyhedra of Harmonices Mundi",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Johannes Kepler",
+   "date": "1619",
+   "place": "Linz, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["platonic solids", "archimedean solids", "harmony of the spheres", "polyhedra", "musical ratios", "star polyhedra", "geometric plate", "world harmony"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Harmonices_Mundi_0003-lg.jpg",
+   "summary": "A plate of regular and semi-regular polyhedra from Johannes Kepler's *Harmonices Mundi* (1619), his great synthesis of geometry, music and astronomy.\n\n## Iconography\nRows of solids — the five [[motif:platonic-solids|Platonic]] regulars together with Archimedean and star polyhedra — are drawn in ordered ranks. Kepler even discovered two regular star polyhedra (the small and great stellated dodecahedra) shown among these figures.\n\n## Significance\nIn *Harmonices Mundi* Kepler argued that the same geometric ratios governing the polyhedra also generate musical consonances and the speeds of the planets — the literal 'harmony of the spheres'. The book contains his Third Law of planetary motion embedded in a Pythagorean vision of a cosmos tuned by geometry. These plates are the visual grammar of that world-harmony.\n\n## For artists & game designers\nA ready catalogue of buildable solids, each carrying a musical/planetary correspondence you can map to sound.",
+   "citations": [
+    {"text": "J. Kepler, *Harmonices Mundi* (1619)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Harmonices_Mundi_0003-lg.jpg"}
+   ],
+   "key_concepts": ["Harmonices Mundi", "harmony of the spheres", "star polyhedra", "world harmony"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__leonardo-polyhedra",
+   "title": "Polyhedron for De divina proportione",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Leonardo da Vinci (for Luca Pacioli)",
+   "date": "1498 (printed 1509)",
+   "place": "Milan / Venice, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["polyhedra", "divine proportion", "skeletonic solid", "golden ratio", "platonic solids", "perspective drawing", "geometric body", "pacioli"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:De_divina_proportione_-_Illustration_05.jpg",
+   "summary": "One of Leonardo da Vinci's open 'skeletonic' polyhedra drawn to illustrate Luca Pacioli's *De divina proportione* (composed 1498, printed Venice 1509).\n\n## Iconography\nA solid is rendered as an open lattice of edges (the *forma vacua* or hollow form) hung as if suspended, so that the viewer sees through it and grasps its three-dimensional structure. Leonardo produced some sixty such figures, both solid and skeletal, for Pacioli's treatise.\n\n## Significance\nPacioli's book is the great Renaissance hymn to the [[motif:divine-proportion|golden ratio]] (the 'divine proportion'), which he linked to God, the quintessence and the five [[motif:platonic-solids|Platonic solids]]. Leonardo's see-through polyhedra were a breakthrough in technical illustration and made the abstract perfection of the regular solids visible as buildable objects. The collaboration epitomises the Renaissance fusion of mathematics, art and mysticism.\n\n## For artists & game designers\nThe hollow-edge rendering is a classic 'wireframe' aesthetic centuries early — ideal for holographic or blueprint-style assets.",
+   "citations": [
+    {"text": "L. Pacioli, *De divina proportione* (Venice, 1509)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:De_divina_proportione_-_Illustration_05.jpg"}
+   ],
+   "key_concepts": ["divine proportion", "skeletonic polyhedra", "golden ratio", "Pacioli and Leonardo"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__pacioli-portrait",
+   "title": "Portrait of Luca Pacioli (study)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Attributed to Jacopo de' Barbari (study by E. Fiorillo)",
+   "date": "1495 (original); comparative study modern",
+   "place": "Naples / Urbino, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["rhombicuboctahedron", "divine proportion", "geometry lesson", "euclid", "polyhedron", "mathematician portrait", "slate diagram", "golden ratio"],
+   "rights": "CC0 (study: Ezio Fiorillo). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Raffronto_per_la_ricerca_del%27identit%C3%A0_dell%27allievo_di_Luca_Pacioli.jpg",
+   "summary": "A comparative study based on the famous portrait of the mathematician Luca Pacioli (Naples, Capodimonte), the Franciscan friar who popularised the divine proportion.\n\n## Iconography\nPacioli stands at a table demonstrating a theorem on a slate, an open Euclid before him, while a glass **rhombicuboctahedron** half-filled with water hangs suspended above — one of the polyhedra of his treatise. A richly dressed young man stands beside him. This image reproduces and compares details used to study the painting and the identity of the second figure.\n\n## Significance\nThe original portrait is the iconic image of Renaissance mathematics: it shows geometry as a noble, almost devotional pursuit, with the suspended polyhedron flagging Pacioli's authorship of *De divina proportione* and his promotion of the [[motif:divine-proportion|golden ratio]]. The hanging water-filled solid is among the first naturalistic renderings of a semi-regular polyhedron in European art.\n\n## For artists & game designers\nThe suspended glass solid catching the light is a memorable 'sacred object' motif — a polyhedron as relic.",
+   "citations": [
+    {"text": "N. MacKinnon, 'The Portrait of Fra Luca Pacioli', *The Mathematical Gazette* (1993)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Raffronto_per_la_ricerca_del%27identit%C3%A0_dell%27allievo_di_Luca_Pacioli.jpg"}
+   ],
+   "key_concepts": ["Luca Pacioli", "divine proportion", "rhombicuboctahedron", "Renaissance mathematics"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__vesica-piscis",
+   "title": "Vesica piscis construction diagram",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Anonymous (geometric diagram)",
+   "date": "construction after classical geometry",
+   "place": "Europe",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["vesica piscis", "mandorla", "two circles", "intersecting circles", "almond shape", "equilateral triangle", "square root of three", "sacred geometry"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Vesica-P-Constr-Diagram.png",
+   "summary": "A clean construction diagram of the *vesica piscis* (\"fish bladder\"), the pointed-oval lens formed where two equal circles overlap through one another's centres.\n\n## Iconography\nTwo circles of equal radius are drawn so each passes through the other's centre; the overlapping region is the almond-shaped **vesica** or mandorla. The diagram shows how the figure generates an equilateral triangle and the ratio √3, the basis for much medieval architectural layout.\n\n## Significance\nThe vesica piscis is among the oldest sacred-geometry forms. Its almond enclosed the figure of Christ in Majesty as the [[motif:mandorla|mandorla]] in Romanesque and Gothic art, and its proportions (the 265:153 ratio of Euclid's first proposition) underlie cathedral plans and the Glastonbury 'Chalice Well' lid. It encodes generation, the meeting of two worlds, and the irrational √3 born from two simple circles.\n\n## For artists & game designers\nThe overlapping-circle construction is the seed of the whole flower-of-life family — one rule that scales into endless ornament.",
+   "citations": [
+    {"text": "Euclid, *Elements*, Book I, Proposition 1."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Vesica-P-Constr-Diagram.png"}
+   ],
+   "key_concepts": ["vesica piscis", "mandorla", "overlapping circles", "square root of three"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__flower-of-life",
+   "title": "Overlapping-circles study (Codex Atlanticus)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Leonardo da Vinci",
+   "date": "c. 1478–1519",
+   "place": "Milan, Italy",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["flower of life", "overlapping circles", "compass construction", "rosette", "hexagonal lattice", "geometric study", "vesica piscis", "sacred geometry"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Codex_Atlanticus_folio_459r_detail1.png",
+   "summary": "A detail from Leonardo da Vinci's *Codex Atlanticus* (folio 459r) showing his studies of overlapping circles and rosette patterns — the geometry now popularly called the 'Flower of Life'.\n\n## Iconography\nCompass-drawn circles of equal radius overlap on a hexagonal lattice so their intersections trace petal-like **rosettes**, each circle passing through its neighbours' centres exactly as in the [[motif:vesica-piscis|vesica]] construction. Leonardo explored the areas and proportions generated by such packings.\n\n## Significance\nThe overlapping-circle rosette is one of the most widespread ornamental motifs in world art, found from Assyrian thresholds to Roman mosaics, medieval manuscripts and Gothic tracery. Leonardo's notebook study treats it as a rigorous geometric problem rather than mere decoration. Modern esoteric writers retitled the figure the 'Flower of Life' and read it as a blueprint of creation; historically it is a compass exercise of remarkable generative power.\n\n## For artists & game designers\nThe single rule — circle through neighbours' centres — tiles infinitely; perfect procedural ornament from one parameter.",
+   "citations": [
+    {"text": "Leonardo da Vinci, *Codex Atlanticus*, Biblioteca Ambrosiana, Milan."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Codex_Atlanticus_folio_459r_detail1.png"}
+   ],
+   "key_concepts": ["flower of life", "overlapping circles", "hexagonal rosette", "Leonardo notebooks"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__squared-circle-maier",
+   "title": "Emblema XXI: squaring the circle (Atalanta Fugiens)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Michael Maier (engr. Matthäus Merian)",
+   "date": "1617",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": ["squaring the circle", "alchemical emblem", "philosopher", "compass", "square triangle circle", "man woman", "philosophers stone", "geometric allegory"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Michael_Maier_Atalanta_Fugiens_Emblem_21.jpeg",
+   "summary": "Emblem 21 from Michael Maier's alchemical emblem-book *Atalanta Fugiens* (1617), the classic figure of the alchemical squared circle.\n\n## Iconography\nA philosopher with a compass draws a great **circle** around a square, inside which stands a triangle, and inside that a smaller circle containing a man and woman. The motto runs: *Make of man and woman a circle, then a square, then a triangle, make a circle and you will have the Philosophers' Stone.* The geometry steps from circle to square to triangle and back to circle.\n\n## Significance\nMaier turns the geometer's impossible problem — [[motif:squaring-the-circle|squaring the circle]] — into an allegory of the Great Work: reconciling the four elements (square), the tria prima of body-soul-spirit (triangle) and the unity of the *prima materia* and the goal (the two circles). It is the most cited single image binding sacred geometry to alchemy.\n\n## For artists & game designers\nThe nested circle→square→triangle→circle is a self-contained transmutation ritual you can stage as a literal puzzle sequence.",
+   "citations": [
+    {"text": "M. Maier, *Atalanta Fugiens* (Oppenheim, 1617), Emblema XXI."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Michael_Maier_Atalanta_Fugiens_Emblem_21.jpeg"}
+   ],
+   "key_concepts": ["squaring the circle", "Atalanta Fugiens", "alchemical geometry", "philosophers' stone"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__squaring-circle",
+   "title": "Squaring the circle (geometric study)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Don Daher",
+   "date": "modern drawing of a classical problem",
+   "place": "Europe",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["squaring the circle", "pi", "circle and square", "equal area", "geometric construction", "earth and moon", "compass and straightedge", "sacred geometry"],
+   "rights": "CC BY-SA 3.0 (Don Daher). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Two_solutions_to_the_squaring_of_thee_circle_problem_presented_by_the_geometry_of_earth_%26_moon_drawing.jpg",
+   "summary": "A line drawing presenting approximate solutions to the squaring-of-the-circle problem, illustrating the famous correspondence between the Earth–Moon sizes and a circle of equal area to a square.\n\n## Iconography\nA **square** and a **circle** are superimposed so that their areas (or perimeters) are made nearly equal, with construction lines showing how the radius of the Moon and Earth fall out of the figure. The drawing is a didactic restatement of a problem unsolvable with compass and straightedge because π is transcendental.\n\n## Significance\nSince antiquity, [[motif:squaring-the-circle|squaring the circle]] symbolised reconciling the incommensurable — heaven (circle) with earth (square), spirit with matter. The 'Earth and Moon' construction popularised in esoteric geometry (notably by John Michell) treats the approximate solution as a hidden canon of measure. The image carries that long tradition of reading an impossible geometry as a sacred secret.\n\n## For artists & game designers\nA neat visual for an 'unsolvable but meaningful' relic — geometry that can be approached but never closed.",
+   "citations": [
+    {"text": "J. Michell, *The Dimensions of Paradise* (1988)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Two_solutions_to_the_squaring_of_thee_circle_problem_presented_by_the_geometry_of_earth_%26_moon_drawing.jpg"}
+   ],
+   "key_concepts": ["squaring the circle", "equal area", "Earth and Moon canon", "transcendence of pi"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__fludd-monochord",
+   "title": "The divine monochord",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "After Robert Fludd",
+   "date": "1617 (Utriusque Cosmi Historia)",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["monochord", "musical ratios", "harmony of the spheres", "single string", "octave", "celestial scale", "world soul", "proportion"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006257_Musik_%5E_Harmonik_%5E_Monochord_%5E_Einsaiter.jpg",
+   "summary": "A monochord diagram in the tradition of Robert Fludd's 'divine monochord', the single-stringed instrument used to demonstrate the mathematics of musical harmony.\n\n## Iconography\nA single string is stretched along a ruled scale, its length divided to mark the consonant intervals — octave (2:1), fifth (3:2), fourth (4:3) and so on. In Fludd's celebrated version a hand reaches from a cloud to tune the great cosmic string spanning earth, the planetary spheres and the empyrean.\n\n## Significance\nThe [[motif:monochord|monochord]] was the proof-instrument of Pythagorean harmonics: by dividing one string you derive every consonance from simple whole-number ratios. Fludd, Kepler and the wider Renaissance read these same ratios into the spacing of the [[motif:harmony-of-the-spheres|spheres]], making music the audible face of sacred geometry. One string thus measures the whole tuned cosmos.\n\n## For artists & game designers\nA single tunable string mapped to cosmic levels is an elegant interface metaphor — drag the node, change the world's pitch.",
+   "citations": [
+    {"text": "R. Fludd, *Utriusque Cosmi … Historia* (Oppenheim, 1617–1621)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0006257_Musik_%5E_Harmonik_%5E_Monochord_%5E_Einsaiter.jpg"}
+   ],
+   "key_concepts": ["monochord", "Pythagorean ratios", "harmony of the spheres", "Fludd"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__fludd-naturae",
+   "title": "Integrae Naturae Speculum (Fludd)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Robert Fludd (engr. de Bry)",
+   "date": "1617",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["chain of being", "macrocosm", "nature personified", "concentric spheres", "ape of nature", "divine hand", "cosmic hierarchy", "world soul"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Houghton_EC_F6707_B638p_v.1_-_Robert_Fludd,_Integrae_Naturae.jpg",
+   "summary": "The *Integrae Naturae Speculum* (\"Mirror of the whole of Nature\"), one of Robert Fludd's grand cosmic plates from *Utriusque Cosmi … Historia* (1617).\n\n## Iconography\n**Concentric rings** descend from God — a Tetragrammaton in cloud holding a chain — through the angelic and stellar spheres, the planets, the elements, plants, animals and minerals. At the centre Nature is personified as a woman (Natura), chained by one hand to God and by the other leading an ape, who represents human art imitating nature. The whole is a single geometric cosmogram of the chain of being.\n\n## Significance\nFludd's plate is the most encyclopaedic Renaissance image of the ordered cosmos as graded **concentric geometry**, every level nested by ratio beneath the divine. It binds the [[motif:macrocosm|macrocosm]], the [[motif:chain-of-being|great chain]] and number-mysticism into one diagram, expressing the Hermetic 'as above, so below' through layered circles.\n\n## For artists & game designers\nA finished template for a tiered cosmos screen: rings of being from mineral to divine, each a navigable layer.",
+   "citations": [
+    {"text": "R. Fludd, *Utriusque Cosmi … Historia*, vol. I (Oppenheim, 1617)."},
+    {"text": "J. Godwin, *Robert Fludd* (1979)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Houghton_EC_F6707_B638p_v.1_-_Robert_Fludd,_Integrae_Naturae.jpg"}
+   ],
+   "key_concepts": ["chain of being", "macrocosm", "concentric cosmos", "Fludd"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__fludd-utriusque-title",
+   "title": "Utriusque Cosmi Historia (title page)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Robert Fludd (engr. de Bry / Merian)",
+   "date": "1617",
+   "place": "Oppenheim, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": ["macrocosm microcosm", "engraved title page", "cosmic temple", "time personified", "winds", "allegorical frame", "two worlds", "baroque emblem"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Utriusque_cosmi_maioris_scilicet_et_minoris_metaphysica,_physica_atque_technica_historia_in_duo_volumina_secundum_cosmi_differentiam_divisa_-_DPLA_-_d712bc077fd751ab3be6c7d64a9e28ab_(page_15).jpg",
+   "summary": "The engraved title page of Robert Fludd's two-volume *Utriusque Cosmi … Historia* (the 'History of both worlds, the greater and the lesser'), 1617.\n\n## Iconography\nWithin an elaborate architectural frame the title announces a work divided according to the **macrocosm** (the greater world) and the **microcosm** (man). Allegorical figures, personified winds and emblematic devices surround the cartouche, presenting the book as a temple of universal knowledge.\n\n## Significance\nFludd's whole project rests on the Hermetic axiom that the great and small worlds mirror one another by the same divine [[motif:sacred-geometry|geometry]] and number. The title page programmatically frames the volumes — covering cosmology, music, the [[motif:monochord|monochord]], geomancy and the arts — as a single demonstration that man is a [[motif:microcosm|microcosm]] of the cosmos. It is the gateway image to the most ambitious esoteric encyclopedia of its age.\n\n## For artists & game designers\nThe two-worlds framing device — greater world above, lesser world below, bound in one frame — is a clean structure for a split cosmology UI.",
+   "citations": [
+    {"text": "R. Fludd, *Utriusque Cosmi … Historia* (Oppenheim, 1617–1621)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Utriusque_cosmi_maioris_scilicet_et_minoris_metaphysica,_physica_atque_technica_historia_in_duo_volumina_secundum_cosmi_differentiam_divisa_-_DPLA_-_d712bc077fd751ab3be6c7d64a9e28ab_(page_15).jpg"}
+   ],
+   "key_concepts": ["macrocosm and microcosm", "Utriusque Cosmi Historia", "engraved title page", "Fludd"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__durer-messung",
+   "title": "Underweysung der Messung (geometric construction)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Albrecht Dürer",
+   "date": "1525 (this impression 1538)",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["geometric construction", "compass and straightedge", "conic sections", "polygon construction", "spiral", "measurement", "perspective", "woodcut"],
+   "rights": "CC0 (The Met). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Underweysung_der_Messung_(Nuremberg,_1538)_MET_DP345232.jpg",
+   "summary": "A plate from Albrecht Dürer's *Underweysung der Messung* (\"Instruction in Measurement\", 1525), the first printed geometry manual in German, in the Met's 1538 edition.\n\n## Iconography\nThe woodcut shows **compass-and-straightedge constructions** — curves, polygons, spirals or conic sections — laid out as a teaching plate, with lettered points guiding the reader through the steps of drawing each figure exactly.\n\n## Significance\nDürer wrote the *Underweysung* to give artists a rigorous geometric foundation, treating construction of regular polygons, the [[motif:divine-proportion|spiral]] and perspective as the painter's necessary science. It transmits Euclidean and Vitruvian geometry to the workshop and includes his approximate constructions of the pentagon and other figures central to proportion theory. The book made sacred and practical geometry a printed, learnable craft.\n\n## For artists & game designers\nA primary-source library of period-correct construction diagrams — drop them in as authentic 'arcane blueprint' textures.",
+   "citations": [
+    {"text": "A. Dürer, *Underweysung der Messung* (Nuremberg, 1525)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Underweysung_der_Messung_(Nuremberg,_1538)_MET_DP345232.jpg"}
+   ],
+   "key_concepts": ["Underweysung der Messung", "compass-and-straightedge", "polygon construction", "Dürer geometry"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__durer-melencolia-full",
+   "title": "Melencolia I",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Albrecht Dürer",
+   "date": "1514",
+   "place": "Nuremberg, German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["magic square", "polyhedron", "compass", "melancholy", "geometric solid", "saturn", "rainbow comet", "winged genius"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(427760).jpg",
+   "summary": "Albrecht Dürer's master engraving *Melencolia I* (1514), the most analysed image of geometry and esoteric temperament in Western art.\n\n## Iconography\nA brooding winged figure sits amid the tools of geometry — **compass**, sphere, scales, a truncated polyhedron (the 'Dürer solid') and a great **4×4 magic square** whose rows, columns and diagonals all sum to 34 and whose bottom row encodes the date 1514. A comet, rainbow, hourglass and sleeping hound complete the scene.\n\n## Significance\nThe engraving fuses Saturnine melancholy (the temperament of geometers and artists, per Ficino and Agrippa) with the instruments of sacred geometry. The [[motif:magic-square|magic square]] is the planetary square of Jupiter, traditionally a talisman against Saturn's gloom; the polyhedron and compass mark the contemplative who measures the world. It is the canonical image of geometry as both melancholic burden and divine gift.\n\n## For artists & game designers\nA whole inventory of esoteric props in one frame — solid, square, scales, compass — each a usable talismanic object.",
+   "citations": [
+    {"text": "R. Klibansky, E. Panofsky, F. Saxl, *Saturn and Melancholy* (1964)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(427760).jpg"}
+   ],
+   "key_concepts": ["Melencolia I", "magic square of Jupiter", "Dürer solid", "Saturnine melancholy"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__pentagram-golden",
+   "title": "Pentagram and the golden ratio",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Anonymous (geometric diagram)",
+   "date": "construction after classical geometry",
+   "place": "Europe",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": ["pentagram", "golden ratio", "pentagon", "pentalpha", "phi", "five-pointed star", "divine proportion", "sacred geometry"],
+   "rights": "GFDL / public-domain geometric figure. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Pentalfa_and_golden_ratio.png",
+   "summary": "A diagram showing how the pentagram (pentalpha) embodies the golden ratio at every intersection of its lines.\n\n## Iconography\nA five-pointed star is drawn within a regular **pentagon**; the diagram marks how each line is cut by the others so that the ratio of the whole segment to its larger part equals the larger part to the smaller — the golden ratio φ ≈ 1.618. The nested smaller pentagon at the centre repeats the proportion endlessly.\n\n## Significance\nThe [[motif:pentagram|pentagram]] was the secret sign of the Pythagoreans precisely because it conceals the [[motif:divine-proportion|golden ratio]] in its self-similar structure. This made it an emblem of perfection and health (*hygieia*) in antiquity, and later a magical sign of the microcosm. The figure is the cleanest single demonstration that the 'divine proportion' lives inside the five-pointed star.\n\n## For artists & game designers\nThe self-nesting pentagon/φ relationship gives infinite zoom for free — a fractal sigil from one shape.",
+   "citations": [
+    {"text": "H. E. Huntley, *The Divine Proportion* (1970)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Pentalfa_and_golden_ratio.png"}
+   ],
+   "key_concepts": ["pentagram", "golden ratio", "Pythagorean symbol", "self-similarity"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__golden-spiral",
+   "title": "Logarithmic spiral of the nautilus",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Florian Elias Rieser (photograph)",
+   "date": "modern photograph of a natural form",
+   "place": "Global",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["golden spiral", "logarithmic spiral", "nautilus shell", "phi", "growth proportion", "spira mirabilis", "divine proportion", "natural geometry"],
+   "rights": "CC BY-SA 4.0 (Florian Elias Rieser). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Nautilus_Section_cut_Logarithmic_spiral.jpg",
+   "summary": "A sectioned nautilus shell, the textbook natural example of the logarithmic (equiangular) spiral associated with the golden ratio.\n\n## Iconography\nThe cut shell reveals a chambered **logarithmic spiral**: each successive chamber grows by a constant ratio, so the curve keeps the same shape as it expands — the *spira mirabilis* that so delighted Jacob Bernoulli he asked it be carved on his tomb.\n\n## Significance\nThe golden / logarithmic spiral is the form esotericists most often read as nature's signature of the [[motif:divine-proportion|divine proportion]]. While the nautilus's true growth ratio is not exactly φ, the shell became the emblem of the idea that the same proportion governs sunflowers, galaxies and growth itself. It carries the long mystical claim that beauty and life unfold by geometric law.\n\n## For artists & game designers\nA constant-shape growth curve is ideal for procedural shells, horns, galaxies, or any self-similar expansion.",
+   "citations": [
+    {"text": "T. A. Cook, *The Curves of Life* (1914)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Nautilus_Section_cut_Logarithmic_spiral.jpg"}
+   ],
+   "key_concepts": ["golden spiral", "logarithmic spiral", "spira mirabilis", "divine proportion"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__loshu-magic-square",
+   "title": "The Lo Shu / mystic table magic square",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Anonymous (after Paul Carus)",
+   "date": "antiquity (motif); illustration c. 1900",
+   "place": "China / Tibet",
+   "era": "antiquity",
+   "tradition": "divination",
+   "motifs": ["magic square", "lo shu", "nine numbers", "constant sum", "cosmic grid", "number mysticism", "turtle pattern", "three by three"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Carus-p48-Mystic-table.jpg",
+   "summary": "An illustration of the Lo Shu 'mystic table', the 3×3 magic square in which every row, column and diagonal sums to 15, reproduced in Paul Carus's studies of number-symbolism (c. 1900).\n\n## Iconography\nNine cells hold the numbers 1–9 arranged so each line of three sums to **15**; in the Chinese tradition the pattern was revealed on the shell of a sacred turtle from the river Lo. The plate sets out the grid and its numerical relations as a 'mystic table'.\n\n## Significance\nThe [[motif:magic-square|magic square]] is the oldest known, the seed of a vast tradition of number-mysticism spanning China, the Islamic world (where such squares became planetary talismans) and Renaissance Europe via Agrippa. Its perfectly balanced sum made it a symbol of cosmic order — the numbers of heaven arranged so no direction outweighs another. It is sacred geometry in pure arithmetic form.\n\n## For artists & game designers\nA 3×3 balanced grid is a tiny, self-validating puzzle and a ready talisman glyph in one.",
+   "citations": [
+    {"text": "P. Carus, *Chinese Philosophy* / *The Monist* (c. 1900)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Carus-p48-Mystic-table.jpg"}
+   ],
+   "key_concepts": ["Lo Shu", "magic square", "number mysticism", "constant sum"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__sator-square",
+   "title": "The Sator-Rotas square (Pompeii)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Anonymous (Roman)",
+   "date": "before 79 CE",
+   "place": "Pompeii, Italy",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": ["word square", "palindrome", "sator rotas", "magic square", "five by five", "apotropaic charm", "inscription", "cryptogram"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Sator_Square_Palestra_Pompeii_(CIL_8623_%26_8622a-b).jpg",
+   "summary": "The Sator-Rotas square scratched into a wall in the palaestra at Pompeii, a 5×5 word square that must predate the eruption of 79 CE.\n\n## Iconography\nTwenty-five letters spell the five Latin words **SATOR AREPO TENET OPERA ROTAS** in a grid that reads identically left-to-right, right-to-left, top-to-bottom and bottom-to-top — a perfect palindromic word [[motif:magic-square|square]] with TENET forming a cross at its centre.\n\n## Significance\nThe square is the most famous letter-magic object of antiquity. Its letters can be rearranged into PATERNOSTER twice (sharing the central N) flanked by Alpha and Omega, which fed Christian and later cabalistic readings, while its symmetry made it a widely used apotropaic charm carved on churches and amulets across medieval Europe. It is sacred geometry in language — meaning locked by perfect bidirectional symmetry.\n\n## For artists & game designers\nA self-mirroring word grid is a built-in cipher puzzle and a protective-ward asset at once.",
+   "citations": [
+    {"text": "D. Fishwick, 'On the Origin of the Rotas-Sator Square', *Harvard Theological Review* (1964)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sator_Square_Palestra_Pompeii_(CIL_8623_%26_8622a-b).jpg"}
+   ],
+   "key_concepts": ["Sator square", "palindrome", "word magic", "apotropaic charm"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__roman-labyrinth-mosaic",
+   "title": "Labyrinth mosaic (House of the Labyrinth, Pompeii)",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Anonymous (Roman)",
+   "date": "before 79 CE",
+   "place": "Pompeii, Italy",
+   "era": "antiquity",
+   "tradition": "hermetic",
+   "motifs": ["labyrinth", "maze", "theseus minotaur", "meander pattern", "mosaic pavement", "unicursal path", "geometric border", "sacred geometry"],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Mosaic_depicting_Theseus_fighting_the_Minotaur_from_Room_42_the_House_of_the_Labyrinth_Pompeii_VI_11,9.jpg",
+   "summary": "A floor mosaic from the House of the Labyrinth at Pompeii showing Theseus fighting the Minotaur at the centre of a geometric labyrinth.\n\n## Iconography\nAt the heart of a square **maze** of right-angled meander corridors, Theseus grapples with the Minotaur; the surrounding mosaic renders the classical seven-circuit [[motif:labyrinth|labyrinth]] as an architectural plan of nested walls and turns, framed by geometric borders.\n\n## Significance\nThe labyrinth is among the oldest sacred-geometry forms, a single winding path standing for the journey to a hidden centre and back. Roman house labyrinths combined the Cretan myth with the apotropaic power of a confusing geometry thought to trap evil. The form passed from such pavements into the medieval cathedral labyrinths, making this mosaic an ancestor of Chartres. Geometry here encodes a story of descent, confrontation and return.\n\n## For artists & game designers\nThe maze-as-map with a boss at the centre is the original dungeon — pure geometry driving narrative pacing.",
+   "citations": [
+    {"text": "H. Kern, *Through the Labyrinth* (2000)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Mosaic_depicting_Theseus_fighting_the_Minotaur_from_Room_42_the_House_of_the_Labyrinth_Pompeii_VI_11,9.jpg"}
+   ],
+   "key_concepts": ["labyrinth", "Theseus and the Minotaur", "unicursal path", "meander geometry"],
+   "summary_status": "authored"
+  },
+  {
+   "id": "sacred_geometry__metatrons-cube",
+   "title": "Metatron's Cube mandala",
+   "work": "Sacred Geometry & Number-Mysticism",
+   "creator": "Henrique José Teixeira Matos",
+   "date": "2021 (modern rendering of an esoteric figure)",
+   "place": "Global",
+   "era": "modern",
+   "tradition": "hermetic",
+   "motifs": ["metatrons cube", "fruit of life", "platonic solids", "thirteen circles", "sacred geometry", "mandala", "overlapping circles", "geometric lattice"],
+   "rights": "CC BY-SA 4.0 (Henrique Matos). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:2021_Henrique_Matos_Mandala_Metatron_03.jpg",
+   "summary": "A modern rendering of 'Metatron's Cube', a figure of thirteen circles connected by straight lines, popular in contemporary sacred-geometry practice.\n\n## Iconography\nThirteen equal **circles** (the 'Fruit of Life' drawn from the flower-of-life lattice) are joined by every possible straight line between their centres, producing a dense symmetric web. Within these lines the outlines of all five [[motif:platonic-solids|Platonic solids]] can be traced, which is the basis of the figure's claim to contain the building blocks of form.\n\n## Significance\nNamed for the archangel Metatron of Jewish mysticism, the figure is largely a modern (chiefly late-20th-century New Age) construction layered onto the much older [[motif:flower-of-life|flower-of-life]] geometry. It illustrates how historical overlapping-circle motifs are reinterpreted today as cosmic blueprints. Included here as a reception-era artefact showing the living afterlife of Renaissance sacred geometry.\n\n## For artists & game designers\nA single symmetric line-web that hides every Platonic solid is a compact 'unlock' graphic — reveal the solids one at a time.",
+   "citations": [
+    {"text": "D. Melchizedek, *The Ancient Secret of the Flower of Life* (1999)."},
+    {"text": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:2021_Henrique_Matos_Mandala_Metatron_03.jpg"}
+   ],
+   "key_concepts": ["Metatron's Cube", "Fruit of Life", "Platonic solids", "modern sacred geometry"],
+   "summary_status": "authored"
+  }
+ ]
+}
