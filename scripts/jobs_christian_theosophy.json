@@ -1,0 +1,22 @@
+[
+ {"query": "Jakob Böhme Theosophische Wercke eye of eternity diagram", "out": "christian_theosophy/boehme_eye_eternity.jpg", "prefer": "Boehme"},
+ {"query": "Jacob Boehme Forty Questions of the Soul figure wheel", "out": "christian_theosophy/boehme_forty_questions.jpg", "prefer": "Boehme"},
+ {"query": "Jacob Boehme three principles divine nature diagram William Law", "out": "christian_theosophy/boehme_three_principles.jpg", "prefer": "Boehme"},
+ {"query": "Boehme William Law edition fold-out plate fall of Lucifer", "out": "christian_theosophy/boehme_fall_lucifer.jpg", "prefer": "Boehme"},
+ {"query": "Boehme new birth regeneration diagram theosophy", "out": "christian_theosophy/boehme_new_birth.jpg", "prefer": "Boehme"},
+ {"query": "Johann Georg Gichtel Theosophia Practica man planets centres", "out": "christian_theosophy/gichtel_man_planets.jpg", "prefer": "Gichtel"},
+ {"query": "Gichtel Theosophia Practica inner harmony regenerate man", "out": "christian_theosophy/gichtel_regenerate.jpg", "prefer": "Gichtel"},
+ {"query": "Gichtel natural man dark world planetary spheres diagram", "out": "christian_theosophy/gichtel_natural_man.jpg", "prefer": "Gichtel"},
+ {"query": "Dionysius Andreas Freher Paradoxa Emblemata diagram", "out": "christian_theosophy/freher_paradoxa.jpg", "prefer": "Freher"},
+ {"query": "Emanuel Swedenborg portrait engraving", "out": "christian_theosophy/swedenborg_portrait.jpg", "prefer": "Swedenborg"},
+ {"query": "Swedenborg Heaven and Hell grand man correspondences diagram", "out": "christian_theosophy/swedenborg_grand_man.jpg", "prefer": "Swedenborg"},
+ {"query": "Swedenborg New Jerusalem spiritual sun diagram", "out": "christian_theosophy/swedenborg_new_jerusalem.jpg", "prefer": "Swedenborg"},
+ {"query": "John Pordage Philadelphian Society theosophy diagram", "out": "christian_theosophy/pordage_philadelphian.jpg", "prefer": "Pordage"},
+ {"query": "Antoinette Bourignon portrait", "out": "christian_theosophy/bourignon_portrait.jpg", "prefer": "Bourignon"},
+ {"query": "Quirinus Kuhlmann Kühlpsalter portrait engraving", "out": "christian_theosophy/kuhlmann_portrait.jpg", "prefer": "Kuhlmann"},
+ {"query": "Boehme Tabula Principiorum table of principles diagram", "out": "christian_theosophy/boehme_tabula_principiorum.jpg", "prefer": "Boehme"},
+ {"query": "Boehme Aurora Morgenröte title page engraving", "out": "christian_theosophy/boehme_aurora.jpg", "prefer": "Aurora"},
+ {"query": "Boehme globe of light dark world Mysterium Magnum", "out": "christian_theosophy/boehme_globes.jpg", "prefer": "Boehme"},
+ {"query": "Gichtel three worlds man microcosm Theosophia Practica colour", "out": "christian_theosophy/gichtel_three_worlds.jpg", "prefer": "Gichtel"},
+ {"query": "Daniel Cramer Emblemata Sacra flaming heart", "out": "christian_theosophy/cramer_flaming_heart.jpg", "prefer": "Cramer"}
+]
