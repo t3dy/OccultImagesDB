@@ -1,0 +1,12 @@
+[
+ {"query": "Yaldabaoth lion-headed serpent", "out": "gnostic_codices/yaldabaoth_leontocephaline.jpg", "prefer": "ion"},
+ {"query": "Mithraic leontocephaline lion-headed god", "out": "gnostic_codices/leontocephaline.jpg", "prefer": "eonto"},
+ {"query": "Cathars expelled Carcassonne", "out": "gnostic_codices/cathars_expelled.jpg", "prefer": "athar"},
+ {"query": "Croix occitane cross", "out": "gnostic_codices/occitan_cross.jpg", "prefer": "occitane"},
+ {"query": "Mani Manichaean roll fragment Turfan", "out": "gnostic_codices/mani_turfan.jpg", "prefer": "urfan"},
+ {"query": "Sethian Gnostic", "out": "gnostic_codices/sethian.jpg", "prefer": "eth"},
+ {"query": "Pistis Sophia book cover", "out": "gnostic_codices/pistis_sophia_book.jpg", "prefer": "istis"},
+ {"query": "Gnostic amulet intaglio chnoubis", "out": "gnostic_codices/chnoubis.jpg", "prefer": "hnoubis"},
+ {"query": "Barbelo Gnostic", "out": "gnostic_codices/barbelo.jpg", "prefer": "arbelo"},
+ {"query": "Abrasax magical gem British Museum", "out": "gnostic_codices/abrasax_bm.jpg", "prefer": "brasax"}
+]

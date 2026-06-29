@@ -1,0 +1,11 @@
+[
+ {"query": "Witsen shaman devil priest", "out": "shamanism/witsen_schaman.jpg", "prefer": "Witsen"},
+ {"query": "Tupilak figure", "out": "shamanism/tupilaq.jpg", "prefer": "Tupilak"},
+ {"query": "Inuit amulet shaman Greenland", "out": "shamanism/inuit_amulet.jpg", "prefer": "amulet"},
+ {"query": "Haida shaman charm bone", "out": "shamanism/haida_charm.jpg", "prefer": "shaman"},
+ {"query": "Korean shaman painting general spirit", "out": "shamanism/korean_general.jpg", "prefer": "shaman"},
+ {"query": "Goldi shaman dress Amur", "out": "shamanism/goldi_shaman.jpg", "prefer": "shaman"},
+ {"query": "Chukchi people drum", "out": "shamanism/chukchi_drum.jpg", "prefer": "Chukchi"},
+ {"query": "Ongon spirit figure Mongolia", "out": "shamanism/ongon.jpg", "prefer": "ongon"},
+ {"query": "shaman soul flight ascent engraving", "out": "shamanism/soul_flight.jpg", "prefer": "shaman"}
+]

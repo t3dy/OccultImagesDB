@@ -1,6 +1,4 @@
 [
- {"query": "Pandora das ist Die edleste Gab Gottes page 165", "out": "alchemy_emblems_more/pandora_p165.jpg", "prefer": "Pandora"},
- {"query": "Pandora das ist Die edleste Gab Gottes page 184", "out": "alchemy_emblems_more/pandora_p184.jpg", "prefer": "Pandora"},
  {"query": "Pandora das ist Die edleste Gab Gottes page 313", "out": "alchemy_emblems_more/pandora_p313.jpg", "prefer": "Pandora"},
  {"query": "Donum Dei png alchemy", "out": "alchemy_emblems_more/donum_dei.jpg", "prefer": "Donum Dei.png"},
  {"query": "Barchusen Laboratory png", "out": "alchemy_emblems_more/barchusen_laboratory.jpg", "prefer": "Barchusen Laboratory"},
@@ -10,9 +8,13 @@
  {"query": "Aureum vellus titelblad", "out": "alchemy_emblems_more/aureum_vellus_title.jpg", "prefer": "titelblad"},
  {"query": "Aureum Vellus Splendor Solis Salomon Trismosin image 8", "out": "alchemy_emblems_more/aureum_vellus_trismosin.jpg", "prefer": "Aureum Vellus"},
  {"query": "Michael Maier Septimana philosophica Wellcome L0028882", "out": "alchemy_emblems_more/septimana_wellcome.jpg", "prefer": "Septimana"},
- {"query": "Fotothek df tg 0007164 Theosophie Alchemie", "out": "alchemy_emblems_more/janitor_pansophus_b.jpg", "prefer": "0007164"},
  {"query": "Viatorium hoc est De montibus planetarum septem DPLA page 6", "out": "alchemy_emblems_more/viatorium_montes.jpg", "prefer": "Viatorium"},
- {"query": "Michael Maier portrait alchemist", "out": "alchemy_emblems_more/maier_portrait.jpg", "prefer": "Michael Maier portrait"},
  {"query": "Sixieme clef Basile Valentin", "out": "alchemy_emblems_more/sixieme_clef.jpg", "prefer": "Sixieme"},
- {"query": "Aureum vellus Trismosin Theosophie Alchemie 0007333", "out": "alchemy_emblems_more/trismosin_emblem.jpg", "prefer": "0007333"}
+ {"query": "Alchemical house from Libavius Alchymia 1606 Wellcome L0015756", "out": "alchemy_emblems_more/libavius_domus.jpg", "prefer": "Alchemical house"},
+ {"query": "Alembics from Andreas Libavius Alchymia", "out": "alchemy_emblems_more/libavius_alembics.jpg", "prefer": "Alembics"},
+ {"query": "Title page from Libavius Alchymia 1606 Wellcome L0015757", "out": "alchemy_emblems_more/libavius_title.jpg", "prefer": "Title page from Libavius"},
+ {"query": "Furni novi philosophici Glauber distillation 14596762618", "out": "alchemy_emblems_more/glauber_furni_1.jpg", "prefer": "Furni novi"},
+ {"query": "Furni novi philosophici Glauber distillation 14596881177", "out": "alchemy_emblems_more/glauber_furni_2.jpg", "prefer": "Furni novi"},
+ {"query": "Furni novi philosophici Glauber distillation 14760398046", "out": "alchemy_emblems_more/glauber_furni_3.jpg", "prefer": "Furni novi"},
+ {"query": "J.R. Glauber Distillation apparatus The Works Wellcome M0016548", "out": "alchemy_emblems_more/glauber_apparatus.jpg", "prefer": "Glauber"}
 ]

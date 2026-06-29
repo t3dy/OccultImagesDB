@@ -1,0 +1,18 @@
+[
+ {"query": "Samuel Liddell MacGregor Mathers in Egyptian getup", "out": "golden_dawn/mathers_isis.jpg", "prefer": "Egyptian getup"},
+ {"query": "FlorenceFarrFace Florence Farr", "out": "golden_dawn/florence_farr.jpg", "prefer": "FlorenceFarrFace"},
+ {"query": "Farr Florence portrait", "out": "golden_dawn/farr_portrait.jpg", "prefer": "Farr Florence"},
+ {"query": "Pamela Colman Smith circa 1912", "out": "golden_dawn/pcs_portrait.jpg", "prefer": "circa 1912"},
+ {"query": "Aleister Crowley Golden Dawn", "out": "golden_dawn/crowley_gd.jpg", "prefer": "Golden Dawn"},
+ {"query": "ArthurEdwardWaite 1880", "out": "golden_dawn/waite_young.jpg", "prefer": "ArthurEdwardWaite"},
+ {"query": "Bembine Westcott tablet of Isis", "out": "golden_dawn/bembine_isis.jpg", "prefer": "Bembine"},
+ {"query": "Enochian alphabet", "out": "golden_dawn/enochian_alphabet.jpg", "prefer": "Enochian alphabet"},
+ {"query": "Enochian letters 1583 manuscript", "out": "golden_dawn/enochian_letters_1583.jpg", "prefer": "1583 manuscript"},
+ {"query": "John Dee's Seal of God", "out": "golden_dawn/dee_seal_of_god.jpg", "prefer": "Seal of God"},
+ {"query": "Holytable John Dee holy table of practice", "out": "golden_dawn/dee_holy_table.jpg", "prefer": "Holytable"},
+ {"query": "Enohian chess", "out": "golden_dawn/enochian_chess.jpg", "prefer": "chess"},
+ {"query": "Tree of Life 2009 large kabbalah", "out": "golden_dawn/tree_of_life.jpg", "prefer": "Tree of Life"},
+ {"query": "Golden Dawn Hexagram", "out": "golden_dawn/gd_hexagram.jpg", "prefer": "Golden Dawn Hexagram"},
+ {"query": "Golden Dawn Pentagram", "out": "golden_dawn/gd_pentagram.jpg", "prefer": "Golden Dawn Pentagram"},
+ {"query": "Pentagram earth invoking", "out": "golden_dawn/pentagram_earth_invoking.jpg", "prefer": "earth invoking"}
+]

@@ -2432,5 +2432,59 @@
    "danse macabre"
   ],
   "blurb": "A curatorial gathering of specific high-value gaps: the Splendor Solis plate cycle, Sola-Busca trumps, Joachim of Fiore's prophetic figurae, the fifteen Behenian fixed-star seals after Agrippa, Horapollo's hieroglyphs, and further Aurora Consurgens folios."
+ },
+ {
+  "key": "flamel",
+  "short_id": "FLML",
+  "title": "Nicolas Flamel & the Hieroglyphic Figures",
+  "creator": "various",
+  "date": "1612–1900 (after a legend of c.1400)",
+  "century": 17,
+  "place": "Paris / France",
+  "region": "France",
+  "language": "French & Latin",
+  "era": "early_modern",
+  "tradition": "alchemy",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "flamel",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Nicolas_Flamel",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "hieroglyphic figures",
+   "philosophers stone",
+   "green and red dragons",
+   "resurrection of the dead",
+   "book of abraham the jew",
+   "scrivener-alchemist"
+  ],
+  "blurb": "The image-corpus of the most famous alchemical legend: the Parisian scrivener Nicolas Flamel (d. 1418) who, with his wife Pernelle, was said to have decoded the Book of Abraham the Jew and achieved the Philosophers' Stone, then painted his cryptic 'hieroglyphic figures' on an arch of the Cemetery of the Holy Innocents. The set gathers the engraved figures (dragons, the resurrection, the King and the slaughtered innocents, Saints Peter and Paul) as reproduced in the 1612 *Livre des figures hiéroglyphiques*, the figures of the Book of Abraham, portraits of Flamel and Pernelle, his tombstone and charnel-house epitaph, his surviving house on the rue de Montmorency, and the Tour Saint-Jacques that bears his monogram."
+ },
+ {
+  "key": "golden_dawn",
+  "short_id": "GD",
+  "title": "The Hermetic Order of the Golden Dawn",
+  "creator": "various",
+  "date": "1580s; 1888–1920",
+  "century": 19,
+  "place": "England",
+  "region": "England",
+  "language": "English",
+  "era": "modern",
+  "tradition": "hermetic",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "golden_dawn",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Hermetic_Order_of_the_Golden_Dawn",
+  "rights": "Public domain / CC BY-SA (per item; several modern vector redraws). Via Wikimedia Commons.",
+  "motifs": [
+   "ceremonial magic",
+   "rose cross",
+   "enochian",
+   "kabbalah tree of life",
+   "pentagram ritual",
+   "rosicrucian order"
+  ],
+  "blurb": "The founders, instruments, and ritual diagrams of the Hermetic Order of the Golden Dawn (founded 1888) and its sources — portraits of S. L. MacGregor Mathers, W. W. Westcott, A. E. Waite, Florence Farr, Pamela Colman Smith, Aleister Crowley and Anna Kingsford; the Enochian system inherited from John Dee (the angelic alphabet and the 1583 manuscript letters); the Bembine Table of Isis; the Kabbalistic Tree of Life; Enochian chess; and the order's pentagram and hexagram ritual figures (mostly modern redraws, flagged)."
  }
 ]

@@ -1,0 +1,11 @@
+[
+ {"query": "Enochian alphabet", "out": "golden_dawn/enochian_alphabet.jpg", "prefer": "Enochian alphabet"},
+ {"query": "Enochian letters 1583 manuscript", "out": "golden_dawn/enochian_letters_1583.jpg", "prefer": "1583 manuscript"},
+ {"query": "John Dee's Seal of God British Museum", "out": "golden_dawn/dee_seal_of_god.jpg", "prefer": "Seal of God British Museum"},
+ {"query": "Enohian chess", "out": "golden_dawn/enochian_chess.jpg", "prefer": "chess"},
+ {"query": "Tree of Life 2009 large", "out": "golden_dawn/tree_of_life.jpg", "prefer": "Tree of Life 2009"},
+ {"query": "Golden Dawn Hexagram", "out": "golden_dawn/gd_hexagram.jpg", "prefer": "Golden Dawn Hexagram"},
+ {"query": "Golden Dawn Pentagram", "out": "golden_dawn/gd_pentagram.jpg", "prefer": "Golden Dawn Pentagram"},
+ {"query": "Pentagram earth invoking", "out": "golden_dawn/pentagram_earth_invoking.jpg", "prefer": "earth invoking"},
+ {"query": "Bembine table of Isis Mensa Isiaca", "out": "golden_dawn/bembine_isis.jpg", "prefer": "Bembine"}
+]

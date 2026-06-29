@@ -1,0 +1,8 @@
+[
+ {"query": "Racknitz Ueber den Schachspieler des Herrn von Kempelen", "out": "magical_automata/turk_racknitz.jpg", "prefer": "Racknitz"},
+ {"query": "Tuerkische Schachspieler Kempelen Kupferstich", "out": "magical_automata/turk_engraving.jpg", "prefer": "Schach"},
+ {"query": "Jaquet-Droz La Musicienne Neuchatel", "out": "magical_automata/jaquet_droz_musician.jpg", "prefer": "Jaquet"},
+ {"query": "homunculus Faust Retort", "out": "magical_automata/homunculus_retort.jpg", "prefer": "homunculus"},
+ {"query": "Memnon statue sounding sunrise antiquity", "out": "magical_automata/memnon_print.jpg", "prefer": "Memnon"},
+ {"query": "Albertus Magnus Justus van Gent", "out": "magical_automata/albertus_portrait.jpg", "prefer": "Albert"}
+]

@@ -1,0 +1,8 @@
+[
+ {"query": "Magical gem Chnoubis serpent lion", "out": "gnostic_codices/chnoubis_gem.jpg", "prefer": "hnoubis"},
+ {"query": "Gnostic gem Walters", "out": "gnostic_codices/gnostic_gem_walters.jpg", "prefer": "Gnostic"},
+ {"query": "Cathar good men perfecti", "out": "gnostic_codices/cathar_perfecti.jpg", "prefer": "athar"},
+ {"query": "Pleroma diagram emanation", "out": "gnostic_codices/pleroma.jpg", "prefer": "leroma"},
+ {"query": "Abraxas seal sigil grimoire", "out": "gnostic_codices/abraxas_seal.jpg", "prefer": "braxas"},
+ {"query": "Mani Manichaean elect painting", "out": "gnostic_codices/manichaean_elect.jpg", "prefer": "lect"}
+]
