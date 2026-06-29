@@ -2540,5 +2540,32 @@
    "artificial life"
   ],
   "blurb": "The occult dream of artificial life, from the god-making statues of the Hermetic Asclepius and the bronze giant Talos to the medieval brazen heads of Bacon, Albertus Magnus and Pope Sylvester II, the clay Golem of Prague, and the celebrated Enlightenment automata — Vaucanson's digesting duck, the Jaquet-Droz writer and musician, and von Kempelen's chess-playing Turk — where mechanism, magic and the animating word meet."
+ },
+ {
+  "key": "shamanism",
+  "short_id": "SHM",
+  "title": "Shamanism & Spirit-Magic of the Circumpolar & Asian World",
+  "creator": "various",
+  "date": "c. 1830 objects – early 20th-century photographs & prints",
+  "century": 19,
+  "place": "Siberia, the Arctic, the Northwest Coast, Korea, the Himalaya",
+  "region": "Global",
+  "language": "Evenki / Buryat / Yakut / Nivkh / Nanai / Nganasan / Yupik / Tlingit / Korean / Nepali",
+  "era": "modern",
+  "tradition": "divination",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "shamanism",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Shamanism",
+  "rights": "Public domain / CC0 / CC BY / CC BY-SA (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "shamanism",
+   "spirit journey",
+   "shaman drum",
+   "spirit mask",
+   "soul flight",
+   "trance and ecstasy"
+  ],
+  "blurb": "A photographic and print survey of the ecstatic technique of the sacred across the circumpolar and Asian world: Siberian shaman costumes and painted drums (Evenki, Buryat, Yakut, Nganasan, Nivkh, Nanai, Tuvan), Inuit and Yupik shaman masks and the angakkuq, the Greenlandic tupilaq, Tlingit soul-catchers and Northwest-Coast spirit masks, Korean musindo shaman painting, Manchu shrines and Himalayan Kirati shamans — the drummers, soul-catchers and spirit-figures by which the shaman journeys between worlds."
  }
 ]

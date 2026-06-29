@@ -1,7 +1,0 @@
-[
- {"query": "Schaman", "out": "shamanism/witsen_schaman.jpg", "prefer": "Schaman"},
- {"query": "shaman Siberia engraving 18th century", "out": "shamanism/shaman_engraving.jpg", "prefer": "shaman"},
- {"query": "shaman ritual painting Eskimo", "out": "shamanism/eskimo_shaman.jpg", "prefer": "shaman"},
- {"query": "angakkuq", "out": "shamanism/angakkuq.jpg", "prefer": "shaman"},
- {"query": "Manchu shaman", "out": "shamanism/manchu_shaman.jpg", "prefer": "shaman"}
-]
