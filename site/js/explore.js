@@ -11,7 +11,8 @@ async function boot() {
     fetch("../data/collections.json").then(r => r.json()).catch(() => ({ collections: [] })),
     fetch("../data/era_categories.json").then(r => r.json()).catch(() => ({ eras: [] })),
   ]);
-  EX.items = catalog.items || []; EX.works = catalog.works || [];
+  // page_scan = raw text/book pages, not illustrations — keep them out of the curated homepage
+  EX.items = (catalog.items || []).filter(i => i.tier !== "page_scan"); EX.works = catalog.works || [];
   EX.entities = entities; EX.topics = topics.topics || []; EX.collections = collections.collections || [];
   EX.eraCats = eraCats.eras || [];
   const p = new URLSearchParams(location.search);

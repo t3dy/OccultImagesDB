@@ -183,7 +183,7 @@ async function boot() {
     fetch("../data/collections.json").then(r => r.json()).catch(() => ({ collections: [] })),
     fetch("../data/era_categories.json").then(r => r.json()).catch(() => ({ eras: [] })),
   ]);
-  DB.entities = entities; DB.items = catalog.items || []; DB.works = catalog.works || [];
+  DB.entities = entities; DB.items = (catalog.items || []).filter(i => i.tier !== "page_scan"); DB.works = catalog.works || [];
   DB.topics = topics.topics || []; DB.collections = collections.collections || []; DB.eraCats = eraCats.eras || [];
   const h = header(type, key);
   const root = document.getElementById("entity");
