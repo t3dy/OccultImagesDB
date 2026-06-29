@@ -1,0 +1,8 @@
+[
+ {"query": "The Seventh Key of Basil Valentine Wellcome M0012400", "out": "valentine_twelve_keys/seventh_key.jpg", "prefer": "M0012400"},
+ {"query": "The Eighth Key of Basil Valentine Wellcome M0012401", "out": "valentine_twelve_keys/eighth_key.jpg", "prefer": "M0012401"},
+ {"query": "The Ninth Key of Basil Valentine Wellcome M0012402", "out": "valentine_twelve_keys/ninth_key.jpg", "prefer": "M0012402"},
+ {"query": "The Tenth Key of Basil Valentine Wellcome M0012403", "out": "valentine_twelve_keys/tenth_key.jpg", "prefer": "M0012403"},
+ {"query": "The Eleventh Key of Basil Valentine Wellcome M0012404", "out": "valentine_twelve_keys/eleventh_key.jpg", "prefer": "M0012404"},
+ {"query": "The Twelfth Key of Basil Valentine Wellcome M0012405", "out": "valentine_twelve_keys/twelfth_key.jpg", "prefer": "M0012405"}
+]

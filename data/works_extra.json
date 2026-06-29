@@ -2594,5 +2594,32 @@
    "emblematic beast"
   ],
   "blurb": "The famous alchemical emblem-books and laboratory plates beyond the canonical Atalanta Fugiens, Splendor Solis and Rosarium: Michael Maier's Septimana Philosophica and Viatorium, the Pandora (Reusner, 1582), the Pretiosissimum Donum Dei flask-sequence, the Aureum Vellus of Trismosin, the Musaeum Hermeticum (1678) frontispiece, the Hermaphroditisches Sonn- und Mondskind (1752), Barchusen's process-emblems, and the great laboratory engravings of Libavius (the Domus Chymici) and Glauber (the Furni Novi Philosophici)."
+ },
+ {
+  "key": "valentine_twelve_keys",
+  "short_id": "VTK",
+  "title": "The Twelve Keys of Basil Valentine",
+  "creator": "Matthäus Merian, after Michael Maier, after Basilius Valentinus",
+  "date": "1618–1678",
+  "century": 17,
+  "place": "Frankfurt am Main",
+  "region": "German lands",
+  "language": "Latin & German",
+  "era": "early_modern",
+  "tradition": "alchemy",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "valentine_twelve_keys",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Twelve_Keys_of_Basil_Valentine",
+  "rights": "CC BY 4.0 (Wellcome Collection), per item. Via Wikimedia Commons.",
+  "motifs": [
+   "twelve keys",
+   "philosophers stone",
+   "coniunctio",
+   "putrefaction",
+   "sol and luna",
+   "wolf and king"
+  ],
+  "blurb": "The twelve emblematic 'keys' of the *Duodecim Claves* attributed to Basil Valentine — each a dense alchemical riddle staging one step of the Great Work, from the antimonial purgation of the king to the final fixed Stone. Engraved by Michael Maier for the *Tripus Aureus* (1618) and reissued in the *Musaeum Hermeticum* (1678)."
  }
 ]
