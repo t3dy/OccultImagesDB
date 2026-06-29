@@ -43,7 +43,7 @@ def search(query, prefer=None):
     for p in pages.values():
         ii = (p.get("imageinfo") or [{}])[0]
         mime = ii.get("mime", "")
-        if mime not in ("image/jpeg", "image/png"):
+        if mime not in ("image/jpeg", "image/png", "image/tiff"):
             continue
         meta = ii.get("extmetadata", {}) or {}
         lic = (meta.get("LicenseShortName", {}) or {}).get("value", "")
@@ -114,6 +114,18 @@ def main():
                 print(f"[FAIL] no image for: {job['query']}"); fail += 1; continue
             c = cands[0]
             download(c["url"], out)
+            # Commons holds many high-value plates (Maier, Valentine's Keys, Crowning of Nature) ONLY as
+            # TIFF; the web can't display them and they'd sit as TIFF-bytes-in-a-.jpg. Transcode to JPEG.
+            if Image and c["mime"] == "image/tiff":
+                try:
+                    with Image.open(out) as im:
+                        w, h = im.size
+                        s = min(1.0, 3500 / float(max(w, h)))
+                        if s < 1.0:
+                            im = im.resize((max(1, int(w * s)), max(1, int(h * s))), Image.LANCZOS)
+                        im.convert("RGB").save(out, "JPEG", quality=88, optimize=True)
+                except Exception as e:
+                    print(f"[FAIL] {job['out']}: TIFF decode {e}"); fail += 1; os.remove(out); continue
             cap_size(out)
             dims = ""
             if Image:
