@@ -1,0 +1,468 @@
+{
+ "entries": [
+  {
+   "id": "agricola_metallica__cupellation-furnaces-agricola-223-ddb2f0cb",
+   "title": "*De Re Metallica* — cupellation furnaces (assaying gold and silver)",
+   "work": "De Re Metallica",
+   "creator": "Georgius Agricola; woodcuts attrib. Hans Rudolph Manuel Deutsch",
+   "date": "1556",
+   "place": "Basel",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "cupellation",
+    "assaying",
+    "furnaces",
+    "refining silver and gold",
+    "metallurgy",
+    "bellows",
+    "cupels",
+    "fire-assay"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (Project Gutenberg / 1556 Froben edition)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Project Gutenberg.",
+   "provenance_url": "https://www.gutenberg.org/ebooks/38015",
+   "summary": "A woodcut from Georgius Agricola's *De Re Metallica* (Basel, 1556) showing cupellation furnaces for assaying and refining the precious metals.\n\n## Iconography\nMasonry assay-furnaces are shown in cutaway and elevation, with cupels (the small porous bone-ash dishes), tongs, muffles and bellows ranged around them. Numbered or lettered keys tie each vessel and tool to Agricola's meticulous Latin text.\n\n## Significance\n*De Re Metallica* was the most thorough technical treatise on mining and metallurgy of the age, and its 290-odd woodcuts are prized as accurate documents of sixteenth-century practice. Cupellation — melting an alloy with lead so that base metals oxidise into the cupel and leave a bead of pure gold or silver — was the standard *fire-assay*. Agricola's clear-eyed, practical metallurgy marks the moment when the craft of the [[motif:assaying|assayer]] began to separate from the secrecy of the alchemists, even as both shared furnace, fire and the dream of perfecting metal.\n\n## For artists & game designers\nAuthentic Renaissance assay apparatus, neatly keyed — a reference goldmine for a believable refining or metal-testing station.",
+   "citations": [
+    {
+     "text": "Georgius Agricola, *De Re Metallica* (Basel: Froben, 1556)."
+    },
+    {
+     "text": "Herbert C. Hoover & Lou H. Hoover (trans.), *De Re Metallica* (1912)."
+    },
+    {
+     "text": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/38015"
+    }
+   ],
+   "key_concepts": [
+    "cupellation",
+    "fire-assay",
+    "refining",
+    "metallurgy"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "agricola_metallica__georgius-agricola-erzsucher-499789e2",
+   "title": "*De Re Metallica* — the ore-prospector with the divining rod (\"Erzsucher\")",
+   "work": "De Re Metallica",
+   "creator": "Georgius Agricola; woodcuts attrib. Hans Rudolph Manuel Deutsch",
+   "date": "1556",
+   "place": "Basel",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "ore prospecting",
+    "divining rod",
+    "dowsing",
+    "virgula divina",
+    "mining",
+    "surveying the lode",
+    "metallurgy",
+    "veins of metal"
+   ],
+   "medium": "woodcut",
+   "figures": [
+    "the prospector"
+   ],
+   "repository": "[PLACEHOLDER: per the source copy (Project Gutenberg / 1556 Froben edition)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Project Gutenberg.",
+   "provenance_url": "https://www.gutenberg.org/ebooks/38015",
+   "summary": "A woodcut from Agricola's *De Re Metallica* (1556) depicting the ore-prospector (Erzsucher) at work on a hillside, including the controversial use of the divining rod to find metal veins.\n\n## Iconography\nMiners and prospectors range over a wooded hill: one holds a forked branch — the *virgula divina* or divining rod — said to dip toward hidden ore, while others dig trial pits and trace the outcrop of a lode. The landscape shows the surface signs by which veins were sought.\n\n## Significance\nAgricola records the practice of dowsing for ore with a hazel or metal rod even as he reports the *scepticism* of trained miners, who trusted geological signs over the twitching stick. The divining rod sits exactly on the border this book patrols — between empirical mining science and the older magical-occult belief in sympathies between rod and metal. It is a vivid emblem of how Renaissance technical literature both used and doubted occult method.\n\n## For artists & game designers\nA dowser working a hillside with a forked rod — perfect period art for a 'detect ore / divining' skill that blends craft and superstition.",
+   "citations": [
+    {
+     "text": "Georgius Agricola, *De Re Metallica* (Basel: Froben, 1556), Book III (on the divining rod)."
+    },
+    {
+     "text": "Herbert C. Hoover & Lou H. Hoover (trans.), *De Re Metallica* (1912)."
+    },
+    {
+     "text": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/38015"
+    }
+   ],
+   "key_concepts": [
+    "divining rod",
+    "ore prospecting",
+    "virgula divina",
+    "mining lore"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "agricola_metallica__dfc0e3b2",
+   "title": "*De Re Metallica* — mining and metallurgical operation (woodcut)",
+   "work": "De Re Metallica",
+   "creator": "Georgius Agricola; woodcuts attrib. Hans Rudolph Manuel Deutsch",
+   "date": "1556",
+   "place": "Basel",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "mining",
+    "metallurgy",
+    "machinery",
+    "labour",
+    "ore processing",
+    "technical illustration",
+    "furnace",
+    "the great work of metals"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (Project Gutenberg / 1556 Froben edition)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Project Gutenberg.",
+   "provenance_url": "https://www.gutenberg.org/ebooks/38015",
+   "summary": "A woodcut from Agricola's *De Re Metallica* (1556) illustrating one of the book's many mining and metallurgical operations. (This sheet derives from a later translation/edition of the work.)\n\n## Iconography\nWorkers tend the apparatus of the mine and smelter — shafts, machines, furnaces or washing-gear — rendered in the book's characteristic clear, keyed style with figures shown actually performing each task in a landscape or workshop setting.\n\n## Significance\nAgricola's achievement was to *show* metallurgy step by step: every process, from prospecting to refining, is broken into operations a reader could follow and reproduce. The result is both a founding document of mining engineering and an unintended portrait of Renaissance industrial labour. Set within an occult image archive, these plates mark where the alchemists' fascination with metals met the sober, reproducible craft of the working *Bergmann* (miner).\n\n## For artists & game designers\nA general-purpose Renaissance mining/smelting scene — solid reference for any pre-industrial extraction or crafting workflow.",
+   "citations": [
+    {
+     "text": "Georgius Agricola, *De Re Metallica* (Basel: Froben, 1556)."
+    },
+    {
+     "text": "Herbert C. Hoover & Lou H. Hoover (trans.), *De Re Metallica* (1912)."
+    },
+    {
+     "text": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/38015"
+    }
+   ],
+   "key_concepts": [
+    "mining",
+    "metallurgy",
+    "renaissance industry",
+    "technical illustration"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "agricola_metallica__g-pelwerk-acricola-e62a5fa6",
+   "title": "*De Re Metallica* — the horse-whim hoist (\"Göpelwerk\")",
+   "work": "De Re Metallica",
+   "creator": "Georgius Agricola; woodcuts attrib. Hans Rudolph Manuel Deutsch",
+   "date": "1556",
+   "place": "Basel",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "horse whim",
+    "hoisting machine",
+    "mine winding gear",
+    "haulage",
+    "mining machinery",
+    "gears and drums",
+    "metallurgy",
+    "engineering"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (Project Gutenberg / 1556 Froben edition)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Project Gutenberg.",
+   "provenance_url": "https://www.gutenberg.org/ebooks/38015",
+   "summary": "A woodcut from Agricola's *De Re Metallica* (1556) showing a *Göpelwerk* — a horse-driven whim used to wind ore and water up out of a mine shaft.\n\n## Iconography\nHorses harnessed to a great horizontal capstan walk in a circle, turning a vertical drum that winds a rope or chain over the shaft-head. The mechanism is drawn in revealing detail — gears, drums, brakes — with the animals and their driver shown in motion.\n\n## Significance\nThe horse-whim was among the most important machines of early-modern mining, letting deep shafts be drained and emptied of ore by animal power. Agricola's careful drawings of such hoists, pumps and ventilators made *De Re Metallica* a treasury of mechanical engineering, studied for centuries. These machines embody the era's drive to wrest metal from the earth at ever greater depths — the practical face of the period's metallic obsessions.\n\n## For artists & game designers\nA detailed animal-powered hoisting machine — ready reference for a mine head-frame, winding engine, or any beast-driven mechanism.",
+   "citations": [
+    {
+     "text": "Georgius Agricola, *De Re Metallica* (Basel: Froben, 1556), Book VI (mine machinery)."
+    },
+    {
+     "text": "Herbert C. Hoover & Lou H. Hoover (trans.), *De Re Metallica* (1912)."
+    },
+    {
+     "text": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/38015"
+    }
+   ],
+   "key_concepts": [
+    "horse whim",
+    "mine hoisting",
+    "machinery",
+    "mining engineering"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "agricola_metallica__rennwerk-kupferstich-1556-db4f9d6f",
+   "title": "*De Re Metallica* — the liquation / smelting works (\"Rennwerk\")",
+   "work": "De Re Metallica",
+   "creator": "Georgius Agricola; woodcuts attrib. Hans Rudolph Manuel Deutsch",
+   "date": "1556",
+   "place": "Basel",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "smelting works",
+    "liquation",
+    "separating silver from copper",
+    "furnaces",
+    "metallurgy",
+    "molten metal",
+    "bellows",
+    "refining"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (Project Gutenberg / 1556 Froben edition)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Project Gutenberg.",
+   "provenance_url": "https://www.gutenberg.org/ebooks/38015",
+   "summary": "A woodcut from Agricola's *De Re Metallica* (1556) depicting a smelting or liquation works (*Rennwerk*) where metals are melted and separated.\n\n## Iconography\nA workshop of furnaces, hearths and bellows: workmen charge the fires, skim and tap molten metal, and handle the cakes and ingots produced. Channels, moulds and tools are keyed to the text. The scene is heavy with the apparatus of large-scale smelting.\n\n## Significance\nLiquation (*Seigerung*) — using molten lead to draw silver out of argentiferous copper — was a major industrial process of the sixteenth century, and Agricola documents it with unmatched precision. Such plates show metallurgy as a true industry of fire, the controlled melting and parting of metals at scale. They are the empirical counterpart to alchemy's furnace-dreams: the same elements of heat, flux and separation, here put wholly to reproducible, commercial use.\n\n## For artists & game designers\nA bustling Renaissance smelting hall — excellent reference for a furnace-floor or foundry environment full of fire, molten metal and labour.",
+   "citations": [
+    {
+     "text": "Georgius Agricola, *De Re Metallica* (Basel: Froben, 1556), Books IX–XI (smelting and parting)."
+    },
+    {
+     "text": "Herbert C. Hoover & Lou H. Hoover (trans.), *De Re Metallica* (1912)."
+    },
+    {
+     "text": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/38015"
+    }
+   ],
+   "key_concepts": [
+    "smelting",
+    "liquation",
+    "parting silver",
+    "metallurgy"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "agricola_metallica__mining-cart-2094ad28",
+   "title": "*De Re Metallica* — the mine cart (\"Hund\") on its rails",
+   "work": "De Re Metallica",
+   "creator": "Georgius Agricola; woodcuts attrib. Hans Rudolph Manuel Deutsch",
+   "date": "1556",
+   "place": "Basel",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "mine cart",
+    "hund truck",
+    "guide rail",
+    "ore haulage",
+    "mining",
+    "underground transport",
+    "metallurgy",
+    "labour"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (Project Gutenberg / 1556 Froben edition)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Project Gutenberg.",
+   "provenance_url": "https://www.gutenberg.org/ebooks/38015",
+   "summary": "A woodcut from Agricola's *De Re Metallica* (1556) showing a mine cart — the wheeled ore-truck known as a *Hund* — running on a guide system through the workings.\n\n## Iconography\nA small four-wheeled wooden truck loaded with ore is pushed along a plank track, kept on course by a blunt iron pin running in a guide-slot between the boards. A miner propels it; the cramped gallery is rendered in section.\n\n## Significance\nAgricola's *Hund* is one of the earliest depictions of guided rail haulage — a direct ancestor of the railway. Such humble machines reveal the sophistication of sixteenth-century German mining, the most advanced in Europe. In documenting them, *De Re Metallica* preserves the working world that underlay the period's metal economy, the literal substrate beneath alchemy's lofty talk of perfecting metals.\n\n## For artists & game designers\nThe original mine cart on a guide-rail — instantly recognisable, ideal for a haulage puzzle, transport mechanic, or atmospheric underground scene.",
+   "citations": [
+    {
+     "text": "Georgius Agricola, *De Re Metallica* (Basel: Froben, 1556), Book VI."
+    },
+    {
+     "text": "Herbert C. Hoover & Lou H. Hoover (trans.), *De Re Metallica* (1912)."
+    },
+    {
+     "text": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/38015"
+    }
+   ],
+   "key_concepts": [
+    "mine cart",
+    "rail haulage",
+    "ore transport",
+    "mining"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "agricola_metallica__2-e521cd33",
+   "title": "*De Re Metallica* — cover / title page of a later edition (Ukrainian)",
+   "work": "De Re Metallica",
+   "creator": "after Georgius Agricola (later edition)",
+   "date": "1556 work (later reprint/translation)",
+   "place": "Basel (original)",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "title page",
+    "book cover",
+    "edition",
+    "bibliography",
+    "letterpress",
+    "metallurgy treatise"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://www.gutenberg.org/ebooks/38015",
+   "summary": "A cover or title page of a later edition/translation of Agricola's *De Re Metallica* — a bibliographic leaf rather than one of the technical mining woodcuts.\n\n## Iconography\nA book cover or title page bearing the work's name and edition details, with little or no figurative content. It identifies a particular printing of the treatise (here apparently a modern Ukrainian-language edition).\n\n## Significance\nIncluded for completeness of the *De Re Metallica* set rather than for its imagery. The endurance of Agricola's book across centuries and languages — from the 1556 Froben Latin first edition to modern translations — testifies to its standing as the foundational text of mining and metallurgy, still consulted long after most Renaissance technical works were forgotten.\n\n## For artists & game designers\nUseful only as a reference cover or set-dressing for a 'mining manual' prop; not a content plate.",
+   "citations": [
+    {
+     "text": "Georgius Agricola, *De Re Metallica* (Basel: Froben, 1556; later editions/translations)."
+    },
+    {
+     "text": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/38015"
+    }
+   ],
+   "key_concepts": [
+    "title page",
+    "edition",
+    "de re metallica"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "agricola_metallica__georg-agricola-titelblatt-751b225b",
+   "title": "*De Re Metallica* — title page (Titelblatt) of the 1556 edition",
+   "work": "De Re Metallica",
+   "creator": "Georgius Agricola; printed by Froben, Basel",
+   "date": "1556",
+   "place": "Basel",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "title page",
+    "printer's device",
+    "letterpress",
+    "first edition",
+    "bibliography",
+    "metallurgy treatise"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (Project Gutenberg / 1556 Froben edition)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Project Gutenberg.",
+   "provenance_url": "https://www.gutenberg.org/ebooks/38015",
+   "summary": "The title page (*Titelblatt*) of Agricola's *De Re Metallica* — a textual, bibliographic leaf opening the great 1556 treatise rather than one of its mining woodcuts.\n\n## Iconography\nA letterpress title page carrying the work's Latin title, author and the imprint of the Basel printer Froben, possibly with a printer's device or modest ornament. Little or no technical illustration appears here.\n\n## Significance\nThough not a content plate, the title page marks the threshold of one of the most important scientific books of the Renaissance: published in 1556, the year after Agricola's death, *De Re Metallica* remained the standard authority on mining and metallurgy for nearly two centuries. Its famous woodcuts follow this leaf. Included for completeness and to anchor the edition.\n\n## For artists & game designers\nA period title page to front a 'found treatise' on mining or metallurgy; set-dressing rather than illustration.",
+   "citations": [
+    {
+     "text": "Georgius Agricola, *De Re Metallica* (Basel: Froben, 1556)."
+    },
+    {
+     "text": "Herbert C. Hoover & Lou H. Hoover (trans.), *De Re Metallica* (1912)."
+    },
+    {
+     "text": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/38015"
+    }
+   ],
+   "key_concepts": [
+    "title page",
+    "first edition",
+    "de re metallica",
+    "metallurgy treatise"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "agricola_metallica__unterharzer-bleiofen-5a8e651f",
+   "title": "*De Re Metallica* — the lead smelting furnace (\"Bleiofen\")",
+   "work": "De Re Metallica",
+   "creator": "Georgius Agricola; woodcuts attrib. Hans Rudolph Manuel Deutsch",
+   "date": "1556",
+   "place": "Basel",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "lead furnace",
+    "smelting",
+    "bellows",
+    "molten lead",
+    "metallurgy",
+    "hearth",
+    "refining",
+    "fire"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (Project Gutenberg / 1556 Froben edition)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Project Gutenberg.",
+   "provenance_url": "https://www.gutenberg.org/ebooks/38015",
+   "summary": "A woodcut from the *De Re Metallica* tradition showing a lead-smelting furnace (*Bleiofen*), of the type long used in the Harz mining district.\n\n## Iconography\nA masonry smelting furnace with bellows and a tapping channel, where lead ore is reduced and molten lead drawn off into moulds. Workmen tend the fire and handle the metal; the structure is shown in informative section.\n\n## Significance\nLead furnaces were central to early-modern metallurgy not only for lead itself but because lead was the indispensable agent of *cupellation* and *liquation*, the means by which silver and gold were parted from base metal. Agricola's depictions of Harz-type smelters document the furnace technology on which the whole precious-metal economy rested. The controlled reduction of ore in such furnaces is the workaday reality behind alchemy's grand language of transmuting and perfecting metals by fire.\n\n## For artists & game designers\nA cutaway smelting furnace with bellows and tap-hole — clean reference for a working forge or ore-reduction station.",
+   "citations": [
+    {
+     "text": "Georgius Agricola, *De Re Metallica* (Basel: Froben, 1556), Books on smelting."
+    },
+    {
+     "text": "Herbert C. Hoover & Lou H. Hoover (trans.), *De Re Metallica* (1912)."
+    },
+    {
+     "text": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/38015"
+    }
+   ],
+   "key_concepts": [
+    "lead furnace",
+    "smelting",
+    "cupellation lead",
+    "metallurgy"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "agricola_metallica__de-re-metallica-23d5904e",
+   "title": "*De Re Metallica* — mining landscape with shafts and works",
+   "work": "De Re Metallica",
+   "creator": "Georgius Agricola; woodcuts attrib. Hans Rudolph Manuel Deutsch",
+   "date": "1556",
+   "place": "Basel",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "motifs": [
+    "mining landscape",
+    "shafts and adits",
+    "surface works",
+    "surveying",
+    "metallurgy",
+    "mountains",
+    "ore veins",
+    "labour"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per the source copy (Project Gutenberg / 1556 Froben edition)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Project Gutenberg.",
+   "provenance_url": "https://www.gutenberg.org/ebooks/38015",
+   "summary": "A woodcut from Agricola's *De Re Metallica* (1556) presenting a mining landscape — shafts, adits and surface works set in the hills.\n\n## Iconography\nA panoramic view of a mining district: head-frames over shafts, drainage adits driven into the hillside, ore-dumps, washing-gear and small buildings, with miners and surveyors at work across the terrain. The scene situates the book's individual machines within a whole working environment.\n\n## Significance\nAgricola opens out from single processes to the *organisation of a mine* — how lodes are found, claims surveyed and works laid out across a landscape. Such overviews make *De Re Metallica* a portrait of an entire industry, the German silver- and copper-mining that financed much of Renaissance Europe. The book's union of geology, engineering and economics in clear pictures is precisely what secured its authority for two hundred years.\n\n## For artists & game designers\nA full mining-camp panorama — invaluable layout reference for building a believable mine district with shafts, dumps and processing works.",
+   "citations": [
+    {
+     "text": "Georgius Agricola, *De Re Metallica* (Basel: Froben, 1556)."
+    },
+    {
+     "text": "Herbert C. Hoover & Lou H. Hoover (trans.), *De Re Metallica* (1912)."
+    },
+    {
+     "text": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/38015"
+    }
+   ],
+   "key_concepts": [
+    "mining landscape",
+    "shafts and adits",
+    "mine organisation",
+    "metallurgy"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}
