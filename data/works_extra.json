@@ -2405,5 +2405,32 @@
    "occult eroticism"
   ],
   "blurb": "Symbolist and Romantic painters and printmakers of the fin-de-siècle who dressed esoteric, theosophical and occult themes in dream-imagery — sphinxes, chimeras, idols, and the personified Dead. Several (Delville, Schwabe, Point) were active in the Rosicrucian Salon de la Rose+Croix."
+ },
+ {
+  "key": "wishlist_fills",
+  "short_id": "WISH",
+  "title": "Wishlist Fills — High-Value Esoteric Cycles",
+  "creator": "various",
+  "date": "12th–17th c.",
+  "century": 16,
+  "place": "Europe",
+  "region": "Europe",
+  "language": "Latin / German / Italian",
+  "era": "early_modern",
+  "tradition": "alchemy",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "wishlist_fills",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Esotericism",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "alchemical opus",
+   "fixed stars",
+   "prophetic figurae",
+   "tarot trumps",
+   "hieroglyphs",
+   "danse macabre"
+  ],
+  "blurb": "A curatorial gathering of specific high-value gaps: the Splendor Solis plate cycle, Sola-Busca trumps, Joachim of Fiore's prophetic figurae, the fifteen Behenian fixed-star seals after Agrippa, Horapollo's hieroglyphs, and further Aurora Consurgens folios."
  }
 ]
