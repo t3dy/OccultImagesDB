@@ -1813,5 +1813,35 @@
     "rights": "Public domain / CC BY-SA (per item; several modern vector redraws). Via Wikimedia Commons.",
     "blurb": "The founders, instruments, and ritual diagrams of the Hermetic Order of the Golden Dawn (founded 1888) and its sources — portraits of S. L. MacGregor Mathers, W. W. Westcott, A. E. Waite, Florence Farr, Pamela Colman Smith, Aleister Crowley and Anna Kingsford; the Enochian system inherited from John Dee (the angelic alphabet and the 1583 manuscript letters); the Bembine Table of Isis; the Kabbalistic Tree of Life; Enochian chess; and the order's pentagram and hexagram ritual figures (mostly modern redraws, flagged).",
     "count": 16
+  },
+  {
+    "key": "gnostic_codices",
+    "title": "Gnostic Scripture & Cosmology (Codices, Demiurge & Dualist Heresy)",
+    "creator": "various",
+    "date": "2nd c. CE – 1901",
+    "era": "antiquity",
+    "tradition": "hermetic",
+    "tier": "illustration",
+    "place": "Egypt, Eastern Mediterranean, Languedoc & the Balkans",
+    "language": "Coptic, Greek, Latin, Occitan & Slavonic",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Gnosticism",
+    "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+    "blurb": "Images of Gnostic scripture and cosmology in depth: the Pistis Sophia and the Bruce Codex (Books of Jeu) ritual diagrams, the reconstructed Ophite serpent-diagram, the lion-headed demiurge Ialdabaoth, the Abraxas/Abrasax anguipede and Chnoubis magical gems, the Apocryphon of John, the Holy Wisdom (Sophia) icons, and the medieval dualist afterlives of Gnosticism — the Cathars of Languedoc and the Bogomils of Bosnia.",
+    "count": 16
+  },
+  {
+    "key": "magical_automata",
+    "title": "Magical Automata: Talking Heads, Golems, Homunculi & Artificial Life",
+    "creator": "various",
+    "date": "150 BC–20th c.",
+    "era": "early_modern",
+    "tradition": "hermetic",
+    "tier": "illustration",
+    "place": "Europe",
+    "language": "Latin",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Automata",
+    "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+    "blurb": "The occult dream of artificial life, from the god-making statues of the Hermetic Asclepius and the bronze giant Talos to the medieval brazen heads of Bacon, Albertus Magnus and Pope Sylvester II, the clay Golem of Prague, and the celebrated Enlightenment automata — Vaucanson's digesting duck, the Jaquet-Droz writer and musician, and von Kempelen's chess-playing Turk — where mechanism, magic and the animating word meet.",
+    "count": 18
   }
 ]

@@ -2486,5 +2486,59 @@
    "rosicrucian order"
   ],
   "blurb": "The founders, instruments, and ritual diagrams of the Hermetic Order of the Golden Dawn (founded 1888) and its sources — portraits of S. L. MacGregor Mathers, W. W. Westcott, A. E. Waite, Florence Farr, Pamela Colman Smith, Aleister Crowley and Anna Kingsford; the Enochian system inherited from John Dee (the angelic alphabet and the 1583 manuscript letters); the Bembine Table of Isis; the Kabbalistic Tree of Life; Enochian chess; and the order's pentagram and hexagram ritual figures (mostly modern redraws, flagged)."
+ },
+ {
+  "key": "gnostic_codices",
+  "short_id": "GNCO",
+  "title": "Gnostic Scripture & Cosmology (Codices, Demiurge & Dualist Heresy)",
+  "creator": "various",
+  "date": "2nd c. CE – 1901",
+  "century": 4,
+  "place": "Egypt, Eastern Mediterranean, Languedoc & the Balkans",
+  "region": "Eastern Mediterranean",
+  "language": "Coptic, Greek, Latin, Occitan & Slavonic",
+  "era": "antiquity",
+  "tradition": "hermetic",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "gnostic_codices",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Gnosticism",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "demiurge",
+   "ialdabaoth",
+   "sophia and the aeons",
+   "abraxas",
+   "ophite serpent",
+   "dualist heresy"
+  ],
+  "blurb": "Images of Gnostic scripture and cosmology in depth: the Pistis Sophia and the Bruce Codex (Books of Jeu) ritual diagrams, the reconstructed Ophite serpent-diagram, the lion-headed demiurge Ialdabaoth, the Abraxas/Abrasax anguipede and Chnoubis magical gems, the Apocryphon of John, the Holy Wisdom (Sophia) icons, and the medieval dualist afterlives of Gnosticism — the Cathars of Languedoc and the Bogomils of Bosnia."
+ },
+ {
+  "key": "magical_automata",
+  "short_id": "AUTO",
+  "title": "Magical Automata: Talking Heads, Golems, Homunculi & Artificial Life",
+  "creator": "various",
+  "date": "150 BC–20th c.",
+  "century": 18,
+  "place": "Europe",
+  "region": "Europe",
+  "language": "Latin",
+  "era": "early_modern",
+  "tradition": "hermetic",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "magical_automata",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Automata",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "automaton",
+   "brazen head",
+   "golem",
+   "homunculus",
+   "animated statue",
+   "artificial life"
+  ],
+  "blurb": "The occult dream of artificial life, from the god-making statues of the Hermetic Asclepius and the bronze giant Talos to the medieval brazen heads of Bacon, Albertus Magnus and Pope Sylvester II, the clay Golem of Prague, and the celebrated Enlightenment automata — Vaucanson's digesting duck, the Jaquet-Droz writer and musician, and von Kempelen's chess-playing Turk — where mechanism, magic and the animating word meet."
  }
 ]
