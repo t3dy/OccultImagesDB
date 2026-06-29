@@ -5,6 +5,23 @@
 `github.com/t3dy/OccultImagesDB`; GitHub Pages serves the repo root (root `index.html` redirects to
 `/site/`). Redeploy = commit + `git push origin main` (Pages rebuilds automatically in ~1–2 min).
 
+**Status:** V9 (2026-06-29) — **2,768 catalogued · 2,452 curated illustrations (316 text-pages/junk hidden
+as `tier:page_scan`) · 121 works · 57 topics · ZERO placeholders (every illustration has a curatorial
+essay).** This session: (a) **Hellmouth** medieval gallery added; (b) sourcing — Apuleius/Isis, Symbolist
+occult, Asian cosmology, Art of Memory, Christian theosophy, wish-list fills (Behenian star-seals, Splendor
+Solis plates, Sola-Busca, Joachim); (c) **full documentation audit** — authored essays for ALL placeholder
+emblem-books (Splendor Solis, Mylius, Stolcius, Hypnerotomachia, Khunrath, Cramer, Aurora, Symbola, Geber,
+Biringuccio, Rosarium, Mutus Liber, Ripley, Lambspring, Agricola) in a witchcraft-museum curatorial voice,
+with TRIAGE: text/index/binding pages and Google-Books "page-not-available" junk demoted to `tier:page_scan`
+(hidden from homepage + entity + gallery-default; the gallery's "show scans" toggle still reveals them);
+(d) **figures** facet backfilled 50→688 (infer_figures from title in build_catalog); (e) **two-level emblem
+viewer** — gallery.html + app.js `groupBy` toggle "View: individual emblems | emblem books" (?view=books);
+(f) alchemy **coverage audit** vs C:\Dev\Claudiens (atalanta.db), C:\Dev\ALCHEMYTIMELINEMAP, C:\Dev\
+TheosophicalAlchemyDB — comprehensive, every illustrated emblem-cycle held. **GOTCHA:** doc agents that
+fan-out into sub-agents blow the session limit — run ONE agent per work. **Cleanup candidate:** `glauber_furni`
++ `libavius_alchymia` are text-only scans (all demoted; libavius has 18 broken Google-Books cards) — consider
+deleting outright. Earlier V7 notes below.
+
 **Status:** V7 — **deployed; 2,470 images · 108 works · 56 topics ALL LIVE · 1,566 authored entries.** Many
 sourcing waves added (each = 6 parallel agents): St Cyprian, mesmerism, occult botany, Fortune & Fate,
 Enochian/Dee, the alchemist's lab; Bosch/Bruegel, Paracelsian elementals, lot-books, astrological medicine,
