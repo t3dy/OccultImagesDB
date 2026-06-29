@@ -12,7 +12,23 @@ const MOTIF_MATCH = {
   "dragon": ["dragon", "serpent"],
 };
 
-let DB = { entities: null, items: [], works: [], topics: [], collections: [] };
+let DB = { entities: null, items: [], works: [], topics: [], collections: [], eraCats: [] };
+
+// parse a category key "<era>__<catkey>" → {era, cat object} from era_categories.json
+function findCategory(key) {
+  const i = (key || "").indexOf("__");
+  if (i < 0) return null;
+  const era = key.slice(0, i), ck = key.slice(i + 2);
+  const eb = DB.eraCats.find(e => e.era === era);
+  const cat = eb && eb.categories.find(c => c.key === ck);
+  return cat ? { era, cat, siblings: eb.categories } : null;
+}
+function catMatches(it, m) {
+  return (m.media && m.media.includes(it.medium)) ||
+    (m.traditions && m.traditions.includes(it.tradition)) ||
+    (m.work_keys && m.work_keys.includes(it.work_key)) ||
+    (m.motif_terms && (it.motifs || []).some(x => m.motif_terms.map(t => t.toLowerCase()).includes(x.toLowerCase())));
+}
 
 function linkFor(type, key, label) {
   return `<a href="entity.html?type=${type}&key=${encodeURIComponent(key)}">${esc(label)}</a>`;
@@ -64,6 +80,10 @@ function itemsFor(type, key) {
   if (type === "region") return it.filter(x => regionKeyOf(x) === key);
   if (type === "topic") { const t = DB.topics.find(t => t.key === key); return t ? it.filter(x => imageMatches(x, t.match)) : []; }
   if (type === "collection") { const c = DB.collections.find(c => c.key === key); return c ? it.filter(x => imageMatches(x, c.match)) : []; }
+  if (type === "category") {
+    const f = findCategory(key); if (!f) return [];
+    return it.filter(x => x.era === f.era && catMatches(x, f.cat.match));
+  }
   return [];
 }
 
@@ -117,6 +137,14 @@ function header(type, key) {
     const r = REGIONS.find(r => r.key === key); if (!r) return null;
     return { kicker: "Region", title: r.name, sub: "", summary: "Images made in this region of the esoteric world.", links: [], related: "" };
   }
+  if (type === "category") {
+    const f = findCategory(key); if (!f) return null;
+    const sibs = f.siblings.filter(c => c.key !== f.cat.key)
+      .map(c => linkFor("category", f.era + "__" + c.key, c.label)).join(" · ");
+    const rel = `<div class="rel-block"><h3>More in ${ERA_LABEL[f.era] || cap(f.era)}</h3>${sibs}</div>`;
+    return { kicker: `${ERA_LABEL[f.era] || cap(f.era)} · Gallery`, title: f.cat.label, sub: f.cat.blurb,
+      summary: "", links: [], related: rel };
+  }
   if (type === "topic") {
     const t = DB.topics.find(t => t.key === key); if (!t) return null;
     let rel = "";
@@ -148,14 +176,15 @@ const ERA_BLURB = {
 async function boot() {
   const p = new URLSearchParams(location.search);
   const type = p.get("type"), key = p.get("key");
-  const [entities, catalog, topics, collections] = await Promise.all([
+  const [entities, catalog, topics, collections, eraCats] = await Promise.all([
     fetch("../data/entities.json").then(r => r.json()),
     fetch("../data/catalog.json").then(r => r.json()),
     fetch("../data/topics.json").then(r => r.json()).catch(() => ({ topics: [] })),
     fetch("../data/collections.json").then(r => r.json()).catch(() => ({ collections: [] })),
+    fetch("../data/era_categories.json").then(r => r.json()).catch(() => ({ eras: [] })),
   ]);
   DB.entities = entities; DB.items = catalog.items || []; DB.works = catalog.works || [];
-  DB.topics = topics.topics || []; DB.collections = collections.collections || [];
+  DB.topics = topics.topics || []; DB.collections = collections.collections || []; DB.eraCats = eraCats.eras || [];
   const h = header(type, key);
   const root = document.getElementById("entity");
   if (!h) { root.innerHTML = "<p>Unknown theme. <a href='browse.html'>See all themes →</a></p>"; return; }
@@ -183,6 +212,13 @@ function galleryLink(type, key, n) {
   const facet = { work: "work", tradition: "tradition", era: "era" }[type];
   if (facet) return `<a class="seeall" href="gallery.html?${facet}=${encodeURIComponent(key)}">open in faceted gallery →</a>`;
   if (type === "motif") return `<a class="seeall" href="gallery.html?motif=${encodeURIComponent((MOTIF_MATCH[key] || [key])[0])}">open in gallery →</a>`;
+  if (type === "category") {
+    const f = findCategory(key); if (!f) return "";
+    const m = f.cat.match;
+    const p = m.media ? `medium=${encodeURIComponent(m.media[0])}` : m.traditions ? `tradition=${encodeURIComponent(m.traditions[0])}`
+      : m.work_keys ? `work=${encodeURIComponent(m.work_keys[0])}` : "";
+    return p ? `<a class="seeall" href="gallery.html?era=${f.era}&${p}">open in faceted gallery →</a>` : "";
+  }
   return "";
 }
 boot();

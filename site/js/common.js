@@ -24,6 +24,7 @@ function imageMatches(img, m) {
   if (m.ids && m.ids.includes(img.id)) return true;
   if (m.work_keys && m.work_keys.includes(img.work_key)) return true;
   if (m.traditions && m.traditions.includes(img.tradition)) return true;
+  if (m.media && m.media.includes(img.medium)) return true;
   if (m.motif_terms && m.motif_terms.length) {
     const mot = (img.motifs || []).map(x => x.toLowerCase());
     if (m.motif_terms.some(t => mot.includes(t.toLowerCase()))) return true;

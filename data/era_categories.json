@@ -1,0 +1,345 @@
+{
+ "_note": "Curated per-era category rows for the homepage. Each category = items in `era` matching `match` (media|traditions|work_keys|motif_terms). Edit labels/order/cover here; the homepage + entity.html?type=category read it.",
+ "eras": [
+  {
+   "era": "antiquity",
+   "categories": [
+    {
+     "key": "sculpture",
+     "label": "Sculpture & Reliefs",
+     "blurb": "Carved gods, daemons and cult-reliefs of the ancient occult.",
+     "match": {
+      "media": [
+       "relief",
+       "sculpture"
+      ]
+     },
+     "count": 77,
+     "cover": "antiquity_apparatus__zosimos-distillation-apparatus"
+    },
+    {
+     "key": "gems",
+     "label": "Magical Gems",
+     "blurb": "Abraxas, Chnoubis and the engraved amulet-stones of late antiquity.",
+     "match": {
+      "media": [
+       "gem"
+      ]
+     },
+     "count": 24,
+     "cover": "magical_gems__abraxas-anguipede"
+    },
+    {
+     "key": "mosaics",
+     "label": "Cosmic Mosaics",
+     "blurb": "Zodiac pavements and the astral floors of synagogue and villa.",
+     "match": {
+      "media": [
+       "mosaic"
+      ]
+     },
+     "count": 16,
+     "cover": "ancient_zodiac__dendera-zodiac"
+    },
+    {
+     "key": "pottery",
+     "label": "Pottery & Vessels",
+     "blurb": "Incantation bowls and the inscribed clay of Near-Eastern magic.",
+     "match": {
+      "media": [
+       "ceramic"
+      ]
+     },
+     "count": 15,
+     "cover": "incantation_bowls__aramaic-incantation-bowl"
+    },
+    {
+     "key": "amulets",
+     "label": "Amulets & Talismans",
+     "blurb": "Worn protections — pendants, lamellae and apotropaic metal.",
+     "match": {
+      "media": [
+       "amulet",
+       "metalwork"
+      ]
+     },
+     "count": 13,
+     "cover": "byzantine_jewish_amulets__holy-rider-armband"
+    }
+   ]
+  },
+  {
+   "era": "medieval",
+   "categories": [
+    {
+     "key": "alchemy_mss",
+     "label": "Alchemical Manuscripts",
+     "blurb": "The first illuminated cycles of the Great Work.",
+     "match": {
+      "traditions": [
+       "alchemy"
+      ]
+     },
+     "count": 61,
+     "cover": "alchemy_ms__aurora-consurgens-plate"
+    },
+    {
+     "key": "astrology",
+     "label": "Astrology & the Stars",
+     "blurb": "Zodiac men, planetary children and the astronomical codices.",
+     "match": {
+      "traditions": [
+       "astrology"
+      ]
+     },
+     "count": 41,
+     "cover": "medieval_astrology__astrolabe-brass"
+    },
+    {
+     "key": "grimoires",
+     "label": "Grimoires & Magic",
+     "blurb": "Magic circles, seals and the manuscripts of learned magic.",
+     "match": {
+      "traditions": [
+       "goetia_grimoire"
+      ]
+     },
+     "count": 26,
+     "cover": "saint_cyprian__theophilus-pact"
+    },
+    {
+     "key": "fate",
+     "label": "Books of Fate",
+     "blurb": "Lot-books and the divinatory oracle-manuscripts.",
+     "match": {
+      "traditions": [
+       "divination"
+      ]
+     },
+     "count": 15,
+     "cover": "lot_books_oracles__petosiris-circle"
+    },
+    {
+     "key": "architecture",
+     "label": "Sacred Architecture",
+     "blurb": "Labyrinths, green men and the magic built into stone.",
+     "match": {
+      "media": [
+       "photograph"
+      ]
+     },
+     "count": 24,
+     "cover": "sacred_architecture__chartres-labyrinth"
+    }
+   ]
+  },
+  {
+   "era": "renaissance",
+   "categories": [
+    {
+     "key": "alchemy",
+     "label": "Alchemy",
+     "blurb": "Splendor Solis, the Rosarium and the colour-stages of the Stone.",
+     "match": {
+      "traditions": [
+       "alchemy"
+      ]
+     },
+     "count": 148,
+     "cover": "alchemist_laboratory__khunrath-laboratory"
+    },
+    {
+     "key": "hermetic",
+     "label": "Hermetic & Neoplatonic",
+     "blurb": "As above, so below — the cosmos of Ficino, Fludd and Hermes.",
+     "match": {
+      "traditions": [
+       "hermetic"
+      ]
+     },
+     "count": 191,
+     "cover": "harmony_spheres__gaffurio-apollo-spheres"
+    },
+    {
+     "key": "astrology",
+     "label": "Astrology",
+     "blurb": "The decans, the Children of the Planets and the celestial sphere.",
+     "match": {
+      "traditions": [
+       "astrology"
+      ]
+     },
+     "count": 91,
+     "cover": "renaissance_magic__porta-physiognomy"
+    },
+    {
+     "key": "divination",
+     "label": "Tarot & Divination",
+     "blurb": "The Visconti trumps and the early arts of foretelling.",
+     "match": {
+      "traditions": [
+       "divination"
+      ]
+     },
+     "count": 82,
+     "cover": "physiognomy_chiromancy__dellaporta-man-lion"
+    },
+    {
+     "key": "reception",
+     "label": "Classical & Biblical Magic",
+     "blurb": "Circe, the Witch of Endor and magic as the painters saw it.",
+     "match": {
+      "traditions": [
+       "reception"
+      ]
+     },
+     "count": 244,
+     "cover": "prophecy_figurae__sibyl-persica"
+    },
+    {
+     "key": "woodcuts",
+     "label": "Woodcuts",
+     "blurb": "The black-line print that carried magic into the age of the book.",
+     "match": {
+      "media": [
+       "woodcut"
+      ]
+     },
+     "count": 268,
+     "cover": "apocalypse_revelation__durer-seven-headed-beast"
+    }
+   ]
+  },
+  {
+   "era": "early_modern",
+   "categories": [
+    {
+     "key": "alchemy",
+     "label": "Alchemy",
+     "blurb": "The Baroque height of the engraved alchemical emblem.",
+     "match": {
+      "traditions": [
+       "alchemy"
+      ]
+     },
+     "count": 434,
+     "cover": "alchemy_ms__rosarium-coniunctio"
+    },
+    {
+     "key": "rosicrucian",
+     "label": "Rosicrucian & Hermetic",
+     "blurb": "The invisible college — Fludd, Maier and the Geheime Figuren.",
+     "match": {
+      "traditions": [
+       "rosicrucian",
+       "hermetic"
+      ]
+     },
+     "count": 251,
+     "cover": "cosmology__fludd-integrae-naturae"
+    },
+    {
+     "key": "goetia",
+     "label": "Ceremonial & Goetic Magic",
+     "blurb": "The circles, pentacles and seventy-two spirits of the grimoires.",
+     "match": {
+      "traditions": [
+       "goetia_grimoire"
+      ]
+     },
+     "count": 100,
+     "cover": "magicians_at_work__albertus-magnus"
+    },
+    {
+     "key": "astrology",
+     "label": "Astrology",
+     "blurb": "Celestial atlases and the astrological reading of the sky.",
+     "match": {
+      "traditions": [
+       "astrology"
+      ]
+     },
+     "count": 85,
+     "cover": "prophecy_figurae__comet-1577"
+    },
+    {
+     "key": "kabbalah",
+     "label": "Kabbalah",
+     "blurb": "The Tree of Life and the Christian-Cabalist diagram.",
+     "match": {
+      "traditions": [
+       "kabbalah"
+      ]
+     },
+     "count": 31,
+     "cover": "byzantine_jewish_amulets__mother-child-amulet"
+    }
+   ]
+  },
+  {
+   "era": "modern",
+   "categories": [
+    {
+     "key": "revival",
+     "label": "The Occult Revival",
+     "blurb": "Levi, the Golden Dawn and the nineteenth-century return of magic.",
+     "match": {
+      "traditions": [
+       "hermetic"
+      ]
+     },
+     "count": 77,
+     "cover": "eastern_esoterica__seiman-pentagram"
+    },
+    {
+     "key": "theosophy",
+     "label": "Theosophy & Spiritualism",
+     "blurb": "Thought-forms, auras, ectoplasm and the seance.",
+     "match": {
+      "traditions": [
+       "theosophy"
+      ]
+     },
+     "count": 55,
+     "cover": "spiritualism_seance__mesmerism"
+    },
+    {
+     "key": "divination",
+     "label": "Tarot & Divination",
+     "blurb": "The occult tarot and the modern arts of the oracle.",
+     "match": {
+      "traditions": [
+       "divination"
+      ]
+     },
+     "count": 61,
+     "cover": "physiognomy_chiromancy__lavater-profiles"
+    },
+    {
+     "key": "witchcraft",
+     "label": "Witchcraft & the Sabbath",
+     "blurb": "Goya's witches and the modern image of the sabbath.",
+     "match": {
+      "traditions": [
+       "witchcraft"
+      ]
+     },
+     "count": 29,
+     "cover": "classical_reception__sandys-morgan"
+    },
+    {
+     "key": "reception",
+     "label": "Magic in Art",
+     "blurb": "Blake's visions and magic as the modern artists imagined it.",
+     "match": {
+      "traditions": [
+       "reception"
+      ]
+     },
+     "count": 76,
+     "cover": "apocalypse_revelation__blake-red-dragon"
+    }
+   ]
+  }
+ ]
+}
