@@ -32,5 +32,6 @@ if __name__ == "__main__":
     run("import_local_scholarship.py")
     run("import_motifs.py")
     run("build_catalog.py", *passthru)
+    run("build_operations.py")  # regen the Twelve Processes gates from the fresh catalog
     run("build_db.py", "--stats")
     print("\nAll done. Open site/index.html (served from project root) and query db/occultimgdb.db.")
