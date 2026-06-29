@@ -2567,5 +2567,32 @@
    "trance and ecstasy"
   ],
   "blurb": "A photographic and print survey of the ecstatic technique of the sacred across the circumpolar and Asian world: Siberian shaman costumes and painted drums (Evenki, Buryat, Yakut, Nganasan, Nivkh, Nanai, Tuvan), Inuit and Yupik shaman masks and the angakkuq, the Greenlandic tupilaq, Tlingit soul-catchers and Northwest-Coast spirit masks, Korean musindo shaman painting, Manchu shrines and Himalayan Kirati shamans — the drummers, soul-catchers and spirit-figures by which the shaman journeys between worlds."
+ },
+ {
+  "key": "alchemy_emblems_more",
+  "short_id": "AEMB",
+  "title": "Further Famous Alchemical Emblem-Books (1550–1752)",
+  "creator": "various",
+  "date": "1550–1752",
+  "century": 17,
+  "place": "German lands & Western Europe",
+  "region": "German lands",
+  "language": "Latin & German",
+  "era": "early_modern",
+  "tradition": "alchemy",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "alchemy_emblems_more",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Alchemical_illustrations",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "philosophers stone",
+   "distillation furnace",
+   "ideal laboratory",
+   "flask sequence",
+   "coniunctio",
+   "emblematic beast"
+  ],
+  "blurb": "The famous alchemical emblem-books and laboratory plates beyond the canonical Atalanta Fugiens, Splendor Solis and Rosarium: Michael Maier's Septimana Philosophica and Viatorium, the Pandora (Reusner, 1582), the Pretiosissimum Donum Dei flask-sequence, the Aureum Vellus of Trismosin, the Musaeum Hermeticum (1678) frontispiece, the Hermaphroditisches Sonn- und Mondskind (1752), Barchusen's process-emblems, and the great laboratory engravings of Libavius (the Domus Chymici) and Glauber (the Furni Novi Philosophici)."
  }
 ]
