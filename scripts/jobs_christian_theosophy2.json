@@ -1,0 +1,22 @@
+[
+ {"query": "Gichtel wiedergeborener Mensch Theosophia Practica", "out": "christian_theosophy/gichtel_regenerate_man.jpg", "prefer": "wiedergeborener"},
+ {"query": "Theosophia Practica by Johann Georg Gichtel man planetary centres", "out": "christian_theosophy/gichtel_theosophia_practica.jpg", "prefer": "Theosophia Practica"},
+ {"query": "Theosophia Practica Gichtel diagram", "out": "christian_theosophy/gichtel_diagram.jpg", "prefer": "Theosophia Practica - Gichtel"},
+ {"query": "Dionysius Andreas Freher The Works of Jacob Behmen", "out": "christian_theosophy/freher_works_behmen.jpg", "prefer": "Freher"},
+ {"query": "The works of Jacob Behmen Teutonic theosopher Fleuron T125516-46", "out": "christian_theosophy/behmen_plate_46.png", "prefer": "T125516-46"},
+ {"query": "The works of Jacob Behmen Teutonic theosopher Fleuron T125516-47", "out": "christian_theosophy/behmen_plate_47.png", "prefer": "T125516-47"},
+ {"query": "The works of Jacob Behmen Teutonic theosopher Fleuron T125516-62", "out": "christian_theosophy/behmen_plate_62.png", "prefer": "T125516-62"},
+ {"query": "The works of Jacob Behmen Teutonic theosopher Fleuron T125516-49", "out": "christian_theosophy/behmen_plate_49.png", "prefer": "T125516-49"},
+ {"query": "Boehme heart figure theosophy", "out": "christian_theosophy/boehme_heart.jpg", "prefer": "Boehme-heart"},
+ {"query": "Boehme Portrait 1730 Teutonic philosopher", "out": "christian_theosophy/boehme_portrait_1730.jpg", "prefer": "Boehme Portrait 1730"},
+ {"query": "Portret van Jakob Bohme RP-P-OB-60.066 philosopher", "out": "christian_theosophy/boehme_portrait_rijks.jpg", "prefer": "filosoof"},
+ {"query": "Jakob Bohme schrijft een van zijn boeken Rijksmuseum", "out": "christian_theosophy/boehme_writing.jpg", "prefer": "schrijft"},
+ {"query": "Emanuel Swedenborg Wellcome stipple engraving Paos", "out": "christian_theosophy/swedenborg_engraving.jpg", "prefer": "Paos"},
+ {"query": "Arcana Caelestia Swedenborg title page", "out": "christian_theosophy/swedenborg_arcana.jpg", "prefer": "Arcana"},
+ {"query": "John Pordage line engraving Faithorne Philadelphian", "out": "christian_theosophy/pordage_engraving.jpg", "prefer": "Faithorne"},
+ {"query": "Portret van John Pordage Rijksmuseum", "out": "christian_theosophy/pordage_rijks.jpg", "prefer": "Pordage"},
+ {"query": "Portret van Antoinette Bourignon Rijksmuseum", "out": "christian_theosophy/bourignon_rijks.jpg", "prefer": "Bourignon"},
+ {"query": "Quirinus Kuhlmann portrait Rijksmuseum", "out": "christian_theosophy/kuhlmann_rijks.jpg", "prefer": "Kuhlmann"},
+ {"query": "Herzemblem Cramer 1642 flaming heart", "out": "christian_theosophy/cramer_herzemblem.jpg", "prefer": "Herzemblem Cramer"},
+ {"query": "Emblemata sacra Cramer 1624 heart cross Jesus 14563515700", "out": "christian_theosophy/cramer_emblemata_sacra.jpg", "prefer": "Emblemata sacra"}
+]

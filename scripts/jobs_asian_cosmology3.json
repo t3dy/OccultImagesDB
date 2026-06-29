@@ -1,0 +1,6 @@
+[
+ {"query": "Vishvarupa Krishna universal form painting", "out": "asian_cosmology/vishvarupa.jpg", "prefer": "Vishvarupa"},
+ {"query": "Burmese Buddhist cosmology manuscript British Library", "out": "asian_cosmology/burmese_cosmology.jpg", "prefer": "cosmo"},
+ {"query": "Jain cosmology universe painting manuscript folio", "out": "asian_cosmology/jain_cosmology_ms.jpg", "prefer": "cosmolog"},
+ {"query": "Bhavachakra wheel of existence painting Bhutan", "out": "asian_cosmology/wheel_of_existence.jpg", "prefer": "Bhavacakra"}
+]

@@ -1,0 +1,22 @@
+[
+ {"query": "Jain cosmology Lok Purush cosmic man manuscript", "out": "asian_cosmology/loka_purusha.jpg", "prefer": "Lok"},
+ {"query": "Jain cosmography Adhai dvipa two and a half continents map", "out": "asian_cosmology/adhai_dvipa.jpg", "prefer": "dvipa"},
+ {"query": "Jambudvipa Jain cosmological diagram manuscript", "out": "asian_cosmology/jambudvipa_jain.jpg", "prefer": "Jambudvipa"},
+ {"query": "Siddhachakra Jain yantra", "out": "asian_cosmology/siddhachakra.jpg", "prefer": "Siddhachakra"},
+ {"query": "Sangrahani Sutra Jain cosmology manuscript painting", "out": "asian_cosmology/samgrahani_ratna.jpg", "prefer": "Sangrahani"},
+ {"query": "Mount Meru Buddhist cosmology Tibetan painting", "out": "asian_cosmology/mount_meru_tibetan.jpg", "prefer": "Meru"},
+ {"query": "Traibhumi Thai three worlds cosmology manuscript", "out": "asian_cosmology/traibhumi_thai.jpg", "prefer": "Trai"},
+ {"query": "Trailokya three worlds Buddhist cosmology diagram", "out": "asian_cosmology/trailokya.jpg", "prefer": "Traibhumi"},
+ {"query": "Tibetan medical thangka embryology Blue Beryl", "out": "asian_cosmology/tibetan_medical_thangka.jpg", "prefer": "medical"},
+ {"query": "Brahmanda cosmic egg Hindu cosmology painting", "out": "asian_cosmology/brahmanda_cosmic_egg.jpg", "prefer": "cosmic"},
+ {"query": "Vishvarupa universal form Vishnu Krishna painting", "out": "asian_cosmology/vishvarupa.jpg", "prefer": "Vishvarupa"},
+ {"query": "Mount Kailash Shiva abode painting", "out": "asian_cosmology/mount_kailash.jpg", "prefer": "Kailash"},
+ {"query": "Nataraja Shiva cosmic dance bronze Chola", "out": "asian_cosmology/nataraja.jpg", "prefer": "Nataraja"},
+ {"query": "Burmese cosmology manuscript Mount Meru universe", "out": "asian_cosmology/burmese_cosmology.jpg", "prefer": "cosmolog"},
+ {"query": "Buddhist universe diagram Mount Sumeru Japanese", "out": "asian_cosmology/sumeru_japanese.jpg", "prefer": "Sumeru"},
+ {"query": "Jain cosmological diagram universe loka manuscript Rajasthan", "out": "asian_cosmology/jain_loka_diagram.jpg", "prefer": "loka"},
+ {"query": "Tibetan Wheel of Existence bhavacakra mural Sera", "out": "asian_cosmology/wheel_of_existence.jpg", "prefer": "Wheel"},
+ {"query": "Saptaloka seven worlds Hindu cosmology Brahmanda", "out": "asian_cosmology/saptaloka.jpg", "prefer": "loka"},
+ {"query": "Kalachakra cosmology mandala painting universe", "out": "asian_cosmology/kalachakra_cosmos.jpg", "prefer": "Kalachakra"},
+ {"query": "Cosmological diagram universe Nepalese Buddhist manuscript", "out": "asian_cosmology/nepalese_cosmos.jpg", "prefer": "cosmolog"}
+]

@@ -1,0 +1,5 @@
+[
+ {"query": "Isis goddess sistrum bronze Roman statuette holding", "out": "apuleius_isis/isis_sistrum.jpg", "prefer": "Isis"},
+ {"query": "Psyche et l'Amour Bouguereau", "out": "apuleius_isis/bouguereau_psyche2.jpg", "prefer": "Psyche"},
+ {"query": "Cupid and Psyche sarcophagus Roman antique", "out": "apuleius_isis/psyche_sarcophagus.jpg", "prefer": "sarcophagus"}
+]

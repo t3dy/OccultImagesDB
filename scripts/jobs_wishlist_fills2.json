@@ -1,0 +1,22 @@
+[
+ {"query": "Splendor Solis", "out": "wishlist_fills/splendor_solis_knight.jpg", "prefer": "knight"},
+ {"query": "Splendor Solis Harley 3469", "out": "wishlist_fills/splendor_solis_plate.jpg", "prefer": "Splendor"},
+ {"query": "Splendor Solis plate", "out": "wishlist_fills/splendor_solis_plate2.jpg", "prefer": "plate"},
+ {"query": "Splendor Solis Sun", "out": "wishlist_fills/splendor_solis_sun.jpg", "prefer": "Solis"},
+ {"query": "Splendor Solis flask", "out": "wishlist_fills/splendor_solis_flask.jpg", "prefer": "Solis"},
+ {"query": "Sola Busca Mato tarot", "out": "wishlist_fills/sola_busca_mato.jpg", "prefer": "Mato"},
+ {"query": "Sola Busca tarot card", "out": "wishlist_fills/sola_busca_card.jpg", "prefer": "Sola"},
+ {"query": "Sola Busca 09 Catone", "out": "wishlist_fills/sola_busca_catone.jpg", "prefer": "Sola"},
+ {"query": "Sola Busca 10 Bocho", "out": "wishlist_fills/sola_busca_bocho.jpg", "prefer": "Sola"},
+ {"query": "Joachim Fiore figura", "out": "wishlist_fills/joachim_figura.jpg", "prefer": "Joachim"},
+ {"query": "Liber figurarum Joachim", "out": "wishlist_fills/joachim_liber.jpg", "prefer": "Joachim"},
+ {"query": "Joachim Fiore arbor", "out": "wishlist_fills/joachim_arbor.jpg", "prefer": "Joachim"},
+ {"query": "Horapollo Hieroglyphica", "out": "wishlist_fills/horapollo_hiero.jpg", "prefer": "Horapollo"},
+ {"query": "Hori Apollinis hieroglyphica", "out": "wishlist_fills/horapollo_hori.jpg", "prefer": "hierogly"},
+ {"query": "lunar mansions astrology illustration", "out": "wishlist_fills/lunar_mansions.jpg", "prefer": "mansion"},
+ {"query": "manazil moon mansions", "out": "wishlist_fills/lunar_manazil.jpg", "prefer": "mansion"},
+ {"query": "Komet 1618 Flugblatt", "out": "wishlist_fills/comet_1618.jpg", "prefer": "1618"},
+ {"query": "comet 1618 Kometen", "out": "wishlist_fills/comet_1618b.jpg", "prefer": "1618"},
+ {"query": "Aurora consurgens", "out": "wishlist_fills/aurora_consurgens.jpg", "prefer": "Aurora"},
+ {"query": "Aurora consurgens Zurich Rhenovacensis", "out": "wishlist_fills/aurora_consurgens2.jpg", "prefer": "Aurora"}
+]

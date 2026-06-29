@@ -1,0 +1,20 @@
+[
+ {"query": "Jain cosmic man Lokapurusha", "out": "asian_cosmology/loka_purusha.jpg", "prefer": "Loka"},
+ {"query": "Adhai dvipa Jain", "out": "asian_cosmology/adhai_dvipa.jpg", "prefer": "dvipa"},
+ {"query": "Sangrahani Ratna manuscript", "out": "asian_cosmology/samgrahani_ratna.jpg", "prefer": "Sangrahani"},
+ {"query": "Buddhist cosmology Mount Meru", "out": "asian_cosmology/mount_meru.jpg", "prefer": "Meru"},
+ {"query": "Traibhumikatha Thai cosmology", "out": "asian_cosmology/traibhumi_thai.jpg", "prefer": "Trai"},
+ {"query": "Three worlds Buddhist cosmology painting", "out": "asian_cosmology/three_worlds.jpg", "prefer": "world"},
+ {"query": "Tibetan medical thangka Lukhang", "out": "asian_cosmology/tibetan_medical_thangka.jpg", "prefer": "medic"},
+ {"query": "Cosmic egg Brahmanda", "out": "asian_cosmology/brahmanda_cosmic_egg.jpg", "prefer": "egg"},
+ {"query": "Vishvarupa Vishnu", "out": "asian_cosmology/vishvarupa.jpg", "prefer": "Vishvarupa"},
+ {"query": "Kailasa Shiva Parvati painting", "out": "asian_cosmology/mount_kailash.jpg", "prefer": "Kailas"},
+ {"query": "Burmese cosmology manuscript", "out": "asian_cosmology/burmese_cosmology.jpg", "prefer": "cosmo"},
+ {"query": "Sumeru world Buddhist diagram", "out": "asian_cosmology/sumeru_diagram.jpg", "prefer": "Sumeru"},
+ {"query": "Jain manuscript cosmology painting", "out": "asian_cosmology/jain_cosmology_ms.jpg", "prefer": "cosmolog"},
+ {"query": "Wheel of life Buddhist bhavachakra Tibet mural", "out": "asian_cosmology/wheel_of_life_mural.jpg", "prefer": "wheel"},
+ {"query": "Saptaloka cosmology", "out": "asian_cosmology/saptaloka.jpg", "prefer": "loka"},
+ {"query": "Siddha Chakra Jain copper yantra", "out": "asian_cosmology/siddhachakra_yantra.jpg", "prefer": "Siddha"},
+ {"query": "Nepalese cosmological painting cosmos", "out": "asian_cosmology/nepalese_cosmos.jpg", "prefer": "cosmo"},
+ {"query": "Cakravala Buddhist world system diagram", "out": "asian_cosmology/cakravala.jpg", "prefer": "world"}
+]

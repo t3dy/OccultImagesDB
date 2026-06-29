@@ -1,0 +1,10 @@
+[
+ {"query": "Isis goddess statue marble Roman Naples museum", "out": "apuleius_isis/isis_marble.jpg", "prefer": "Isis"},
+ {"query": "Cupid and Psyche Anthony van Dyck", "out": "apuleius_isis/vandyck_psyche.jpg", "prefer": "Psyche"},
+ {"query": "Psyche Eros sarcophagus relief antique marble", "out": "apuleius_isis/psyche_sarcophagus.jpg", "prefer": "sarcophagus"},
+ {"query": "Cupid Psyche Pompeii fresco Casa", "out": "apuleius_isis/pompeii_psyche.jpg", "prefer": "Psyche"},
+ {"query": "Amor Psyche Jacques-Louis David", "out": "apuleius_isis/david_psyche.jpg", "prefer": "Psyche"},
+ {"query": "Isis Pelagia goddess relief ship Egyptian Roman", "out": "apuleius_isis/navigium_isidis.jpg", "prefer": "Isis"},
+ {"query": "Sleeping Psyche statue marble", "out": "apuleius_isis/sleeping_psyche.jpg", "prefer": "Psyche"},
+ {"query": "Apuleius Golden Ass Lucius transformed William Adlington", "out": "apuleius_isis/lucius_rose.jpg", "prefer": "Apuleius"}
+]

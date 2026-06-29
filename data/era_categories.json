@@ -108,28 +108,31 @@
      "cover": "medieval_grimoire__heptameron-circle"
     },
     {
-     "key": "fate",
-     "label": "Books of Fate",
-     "blurb": "Lot-books and the divinatory oracle-manuscripts.",
+     "key": "cosmos",
+     "label": "The Medieval Cosmos",
+     "blurb": "Hildegard's visions and the diagrams of the harmonious universe.",
      "match": {
+      "work_keys": [
+       "cosmological_diagrams"
+      ],
       "traditions": [
-       "divination"
+       "hermetic"
       ]
      },
-     "count": 15,
-     "cover": "lot_books_oracles__losbuch-cgm252-132v"
+     "count": 26,
+     "cover": "cosmological_diagrams__hildegard-cosmic-man"
     },
     {
-     "key": "architecture",
-     "label": "Sacred Architecture",
-     "blurb": "Labyrinths, green men and the magic built into stone.",
+     "key": "apocalypse",
+     "label": "The Apocalypse",
+     "blurb": "The Beatus beasts and the visionary end-times of the medieval imagination.",
      "match": {
-      "media": [
-       "photograph"
+      "work_keys": [
+       "apocalypse_revelation"
       ]
      },
-     "count": 24,
-     "cover": "sacred_architecture__chartres-labyrinth"
+     "count": 10,
+     "cover": "apocalypse_revelation__saint-sever-beatus"
     }
    ]
   },
@@ -170,19 +173,46 @@
       ]
      },
      "count": 91,
-     "cover": "medieval_grimoire__magic-square-durer"
+     "cover": "medieval_astrology__de-sphaera-modena"
+    },
+    {
+     "key": "tarot",
+     "label": "Tarot",
+     "blurb": "The painted trumps — the visual backbone of Western cartomancy.",
+     "match": {
+      "work_keys": [
+       "tarot",
+       "tarot_historic",
+       "tarot_decks"
+      ]
+     },
+     "count": 43,
+     "cover": "tarot_historic__visconti-world"
     },
     {
      "key": "divination",
-     "label": "Tarot & Divination",
-     "blurb": "The Visconti trumps and the early arts of foretelling.",
+     "label": "Divination",
+     "blurb": "Geomancy, palmistry and the arts of reading hidden fate.",
      "match": {
-      "traditions": [
-       "divination"
+      "work_keys": [
+       "lot_books_oracles",
+       "african_divination",
+       "physiognomy_chiromancy"
+      ],
+      "motif_terms": [
+       "geomancy",
+       "geomantic",
+       "palmistry",
+       "chiromancy",
+       "scrying",
+       "lot",
+       "oracle",
+       "sortilege",
+       "physiognomy"
       ]
      },
-     "count": 82,
-     "cover": "tarot_historic__visconti-world"
+     "count": 23,
+     "cover": "renaissance_magic_deep__geomantic-figures"
     },
     {
      "key": "reception",
@@ -317,15 +347,28 @@
     },
     {
      "key": "divination",
-     "label": "Tarot & Divination",
-     "blurb": "The occult tarot and the modern arts of the oracle.",
+     "label": "Divination",
+     "blurb": "Geomancy, palmistry and the arts of reading hidden fate.",
      "match": {
-      "traditions": [
-       "divination"
+      "work_keys": [
+       "lot_books_oracles",
+       "african_divination",
+       "physiognomy_chiromancy"
+      ],
+      "motif_terms": [
+       "geomancy",
+       "geomantic",
+       "palmistry",
+       "chiromancy",
+       "scrying",
+       "lot",
+       "oracle",
+       "sortilege",
+       "physiognomy"
       ]
      },
-     "count": 61,
-     "cover": "occult_revival__wirth-magician"
+     "count": 47,
+     "cover": "magicians_at_work__geomancer"
     },
     {
      "key": "witchcraft",
