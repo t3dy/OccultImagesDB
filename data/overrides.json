@@ -30772,6 +30772,175 @@
     "summary_status": "authored"
   },
   {
+    "id": "heidelberg_mss__fate-creature",
+    "title": "Oracle-creature from the Heidelberg Book of Fate (fol. 96v)",
+    "work": "The Heidelberg Book of Fate (Cod. Pal. germ. 832)",
+    "creator": "Anonymous (German, workshop of Ludwig Henfflin?)",
+    "date": "c. 1491",
+    "place": "German lands",
+    "era": "medieval",
+    "tradition": "divination",
+    "motifs": [
+      "losbuch",
+      "oracle",
+      "animal",
+      "miniature",
+      "divination",
+      "manuscript"
+    ],
+    "medium": "manuscript",
+    "figures": [],
+    "repository": "Universitätsbibliothek Heidelberg",
+    "shelfmark": "Cod. Pal. germ. 832, fol. 96v",
+    "iconclass": [],
+    "rights": "Public Domain Mark 1.0. Universitätsbibliothek Heidelberg.",
+    "provenance_url": "https://digi.ub.uni-heidelberg.de/diglit/cpg832/0200",
+    "summary": "A single coloured miniature of an oracle-animal heading its column of text, from the *Heidelberger Schicksalsbuch*.\n\n## Iconography\nAt the top of the page a framed painting of a beast on a green ground introduces the prognostic text below. Animals recur through the *Losbuch* as pointer-figures, each lending its emblematic character to the fate it announces.\n\n## Significance\nThe bestiary of the German fate-books — lions, stags, birds, fabulous beasts — turns the casting of lots into a procession through a symbolic menagerie, each animal a node in the divinatory path. The blending of zodiacal, bestiary, and prophetic imagery in a single popular oracle-book exemplifies how late-medieval divination drew freely across the esoteric image-stock.\n\n## For artists & game designers\nAn emblematic oracle-beast with its prophecy — the kind of symbolic creature-card a fate or tarot system is built from.",
+    "citations": [
+      {
+        "text": "*Heidelberger Schicksalsbuch*, Cod. Pal. germ. 832 (c. 1491)."
+      },
+      {
+        "text": "Universitätsbibliothek Heidelberg (IIIF)",
+        "url": "https://digi.ub.uni-heidelberg.de/diglit/cpg832"
+      }
+    ],
+    "key_concepts": [
+      "Losbuch",
+      "oracle-animal",
+      "bestiary divination",
+      "lot-divination"
+    ],
+    "summary_status": "authored"
+  },
+  {
+    "id": "heidelberg_mss__fate-tables",
+    "title": "Lot-table from the Heidelberg Book of Fate (fol. 11v)",
+    "work": "The Heidelberg Book of Fate (Cod. Pal. germ. 832)",
+    "creator": "Anonymous (German, workshop of Ludwig Henfflin?)",
+    "date": "c. 1491",
+    "place": "German lands",
+    "era": "medieval",
+    "tradition": "divination",
+    "motifs": [
+      "losbuch",
+      "lot table",
+      "divination",
+      "numbers",
+      "oracle",
+      "manuscript",
+      "dice"
+    ],
+    "medium": "manuscript",
+    "figures": [],
+    "repository": "Universitätsbibliothek Heidelberg",
+    "shelfmark": "Cod. Pal. germ. 832, fol. 11v",
+    "iconclass": [],
+    "rights": "Public Domain Mark 1.0. Universitätsbibliothek Heidelberg.",
+    "provenance_url": "https://digi.ub.uni-heidelberg.de/diglit/cpg832/0030",
+    "summary": "A lot-table from the *Heidelberger Schicksalsbuch*, the apparatus by which the book of fate was consulted.\n\n## Iconography\nA grid of numbers ruled in red and black fills the page in columns. Each entry routes the querent — after casting dice on a question-page — onward through the book's branching structure toward a verse-answer. The whole page is a working divinatory algorithm rendered as a table.\n\n## Significance\nThe medieval *Losbuch* (book of lots) was a sortilege machine: a reader posed one of a fixed set of questions, threw dice, and followed the resulting number through tables, pointer-figures, and 'judges' to a rhymed oracle. Such books sat at the licit edge of divination, framed as a game yet drawing on the same impulse as astrology and geomancy. This copy is one of the most lavishly illustrated to survive.\n\n## For artists & game designers\nA literal pre-modern randomisation table — the original 'roll on the fate chart' mechanic, beautifully laid out.",
+    "citations": [
+      {
+        "text": "*Heidelberger Schicksalsbuch*, Cod. Pal. germ. 832 (c. 1491)."
+      },
+      {
+        "text": "Universitätsbibliothek Heidelberg (IIIF)",
+        "url": "https://digi.ub.uni-heidelberg.de/diglit/cpg832"
+      }
+    ],
+    "key_concepts": [
+      "Losbuch",
+      "sortilege",
+      "lot-divination",
+      "book of fate"
+    ],
+    "summary_status": "authored"
+  },
+  {
+    "id": "heidelberg_mss__fortune-miniatures",
+    "title": "Oracle miniatures from the Heidelberg Book of Fate (fol. 41v)",
+    "work": "The Heidelberg Book of Fate (Cod. Pal. germ. 832)",
+    "creator": "Anonymous (German, workshop of Ludwig Henfflin?)",
+    "date": "c. 1491",
+    "place": "German lands",
+    "era": "medieval",
+    "tradition": "divination",
+    "motifs": [
+      "losbuch",
+      "oracle",
+      "miniature",
+      "divination",
+      "manuscript",
+      "fortune"
+    ],
+    "medium": "manuscript",
+    "figures": [],
+    "repository": "Universitätsbibliothek Heidelberg",
+    "shelfmark": "Cod. Pal. germ. 832, fol. 41v",
+    "iconclass": [],
+    "rights": "Public Domain Mark 1.0. Universitätsbibliothek Heidelberg.",
+    "provenance_url": "https://digi.ub.uni-heidelberg.de/diglit/cpg832/0090",
+    "summary": "A page of four coloured oracle-miniatures from the *Heidelberger Schicksalsbuch*.\n\n## Iconography\nFour small framed paintings are set into the text in a two-by-two array, each captioned in red and black. The miniatures illustrate the oracle's verse-answers — figures, scenes, and emblems that the querent reaches at the end of a chain of dice-throws.\n\n## Significance\nThe illustrations are not decoration but signposts in the divinatory machine: the *Losbuch* threads the reader through question-pages, number-tables, and pointer-figures to one of these painted answers. The genre fused entertainment, moral counsel, and genuine fortune-telling, and its picture-cycles are a rich, under-studied seam of late-medieval popular esoterica.\n\n## For artists & game designers\nA ready-made 'oracle deck' page — discrete illustrated outcomes, each with its caption, exactly as a fate-table result screen.",
+    "citations": [
+      {
+        "text": "*Heidelberger Schicksalsbuch*, Cod. Pal. germ. 832 (c. 1491)."
+      },
+      {
+        "text": "Universitätsbibliothek Heidelberg (IIIF)",
+        "url": "https://digi.ub.uni-heidelberg.de/diglit/cpg832"
+      }
+    ],
+    "key_concepts": [
+      "Losbuch",
+      "oracle-miniatures",
+      "lot-divination",
+      "popular esoterica"
+    ],
+    "summary_status": "authored"
+  },
+  {
+    "id": "heidelberg_mss__prophet-miniatures",
+    "title": "Oracle-figures from the Heidelberg Book of Fate (fol. 76v)",
+    "work": "The Heidelberg Book of Fate (Cod. Pal. germ. 832)",
+    "creator": "Anonymous (German, workshop of Ludwig Henfflin?)",
+    "date": "c. 1491",
+    "place": "German lands",
+    "era": "medieval",
+    "tradition": "divination",
+    "motifs": [
+      "losbuch",
+      "oracle",
+      "miniature",
+      "divination",
+      "manuscript",
+      "judge"
+    ],
+    "medium": "manuscript",
+    "figures": [],
+    "repository": "Universitätsbibliothek Heidelberg",
+    "shelfmark": "Cod. Pal. germ. 832, fol. 76v",
+    "iconclass": [],
+    "rights": "Public Domain Mark 1.0. Universitätsbibliothek Heidelberg.",
+    "provenance_url": "https://digi.ub.uni-heidelberg.de/diglit/cpg832/0160",
+    "summary": "Four coloured oracle-figures with their verse-answers, from the *Heidelberger Schicksalsbuch*.\n\n## Iconography\nFour framed miniatures sit among the red-and-black text. In the *Losbuch* tradition such figures act as the 'masters', 'judges', or pointer-personifications who deliver the fate the dice have selected — each paired with a rhymed German prognostication.\n\n## Significance\nThe *Schicksalsbuch* organises its divination around a cast of recurring figures (planets, prophets, judges, animals) through whom the answer is voiced. This narrative scaffolding — a question routed through a gallery of speaking figures — is what distinguishes the illustrated German Losbuch from a bare lot-table, and makes it one of the most vivid windows onto everyday late-medieval fortune-telling.\n\n## For artists & game designers\nA cast of 'oracle NPCs', each delivering a fixed prophetic line — directly usable as a divination interface.",
+    "citations": [
+      {
+        "text": "*Heidelberger Schicksalsbuch*, Cod. Pal. germ. 832 (c. 1491)."
+      },
+      {
+        "text": "Universitätsbibliothek Heidelberg (IIIF)",
+        "url": "https://digi.ub.uni-heidelberg.de/diglit/cpg832"
+      }
+    ],
+    "key_concepts": [
+      "Losbuch",
+      "oracle-figures",
+      "prognostication",
+      "lot-divination"
+    ],
+    "summary_status": "authored"
+  },
+  {
     "id": "hermetic_egypt__apis-bull",
     "title": "Apis, the sacred Egyptian bull (Musgrave engraving)",
     "work": "Egyptosophy — The Hermetic & Baroque Reception of Egyptian Wisdom",

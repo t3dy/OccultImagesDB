@@ -2216,5 +2216,32 @@
    "cryptography"
   ],
   "blurb": "A deep set of diagrams from the Renaissance tradition of learned magic descending from Agrippa's De occulta philosophia: the planetary tables of names and seals, the geomantic figures, magic squares, Bruno's mnemonic wheels, Campanella's solar city, and the cryptographic systems of Trithemius and Della Porta."
+ },
+ {
+  "key": "heidelberg_mss",
+  "short_id": "HDLB",
+  "title": "The Heidelberg Book of Fate (Cod. Pal. germ. 832)",
+  "creator": "Anonymous (workshop of Ludwig Henfflin?)",
+  "date": "c. 1491",
+  "century": 15,
+  "place": "Stuttgart / Heidelberg",
+  "region": "German lands",
+  "language": "German",
+  "era": "medieval",
+  "tradition": "divination",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "heidelberg_mss",
+  "provenance_url": "https://digi.ub.uni-heidelberg.de/diglit/cpg832",
+  "rights": "Public Domain Mark 1.0. Universitätsbibliothek Heidelberg, Cod. Pal. germ. 832.",
+  "motifs": [
+   "losbuch",
+   "book of fate",
+   "divination",
+   "lot-casting",
+   "oracle",
+   "manuscript"
+  ],
+  "blurb": "Folios from the illustrated *Heidelberger Schicksalsbuch* — a late-15th-century German Losbuch (book of fate), its lot-tables and coloured oracle-miniatures used to answer questions by the casting of dice. Sourced via IIIF from the open, public-domain digitisation at the University Library Heidelberg."
  }
 ]
