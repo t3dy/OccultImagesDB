@@ -1,7 +1,0 @@
-[
- {"query": "Churning of the ocean of milk Samudra Manthan painting", "out": "asian_cosmology/samudra_manthan.jpg", "prefer": "Samudra"},
- {"query": "Kurma avatar tortoise Vishnu painting", "out": "asian_cosmology/kurma_avatar.jpg", "prefer": "Kurma"},
- {"query": "Cosmological Mandala Met Buddhist", "out": "asian_cosmology/cosmological_mandala.jpg", "prefer": "Cosmological"},
- {"query": "Jain Tirthankara cosmos Samavasarana", "out": "asian_cosmology/samavasarana.jpg", "prefer": "Samavasarana"},
- {"query": "Hindu cosmos worlds Patala Vishnu Ananta", "out": "asian_cosmology/ananta_shesha.jpg", "prefer": "Ananta"}
-]

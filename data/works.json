@@ -1708,5 +1708,20 @@
     "rights": "Public Domain Mark 1.0. Universitätsbibliothek Heidelberg, Cod. Pal. germ. 832.",
     "blurb": "Folios from the illustrated *Heidelberger Schicksalsbuch* — a late-15th-century German Losbuch (book of fate), its lot-tables and coloured oracle-miniatures used to answer questions by the casting of dice. Sourced via IIIF from the open, public-domain digitisation at the University Library Heidelberg.",
     "count": 4
+  },
+  {
+    "key": "hellmouth",
+    "title": "The Hellmouth: The Jaws of Damnation",
+    "creator": "various",
+    "date": "c. 1000–1500 (with later Doom paintings)",
+    "era": "medieval",
+    "tradition": "reception",
+    "tier": "illustration",
+    "place": "Europe",
+    "language": "Latin",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Hellmouth",
+    "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+    "blurb": "The Hellmouth — the gaping monster-jaws through which the damned are swallowed into perdition — is the great medieval image of damnation. Drawn from the Leviathan of Job and the harrowing-of-hell apocrypha, it yawns across Anglo-Saxon and Romanesque manuscripts, the tympana of Conques and Bourges, the Très Riches Heures, the painted Dooms of English parish churches, and the inferno wings of Memling and Bosch: a chained, fire-belching maw stoked by devils with cauldrons, into which kings and bishops are led in chains.",
+    "count": 16
   }
 ]

@@ -1,9 +1,0 @@
-[
- {"query": "Folio 108 Tres Riches Heures hell", "out": "hellmouth/tres_riches_heures_hell.jpg", "prefer": "Heures"},
- {"query": "Les Tres Riches Heures du duc de Berry folio 108r Enfer", "out": "hellmouth/tres_riches_heures_hell.jpg", "prefer": "108"},
- {"query": "Torcello cathedral mosaic Giudizio Universale", "out": "hellmouth/torcello_mosaic.jpg", "prefer": "Torcello"},
- {"query": "Limbourg brothers Hell Leviathan", "out": "hellmouth/limbourg_hell.jpg", "prefer": "Hell"},
- {"query": "Hell mouth Très Riches Heures Folio", "out": "hellmouth/riches_heures_enfer.jpg", "prefer": "Heures"},
- {"query": "Last Judgment hell devils boiling souls medieval fresco", "out": "hellmouth/hell_devils_fresco.jpg", "prefer": "Hell"},
- {"query": "Inferno Last Judgment hell Cavallini Santa Cecilia", "out": "hellmouth/cavallini_hell.jpg", "prefer": "Judgment"}
-]

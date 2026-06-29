@@ -133,6 +133,18 @@
      },
      "count": 10,
      "cover": "apocalypse_revelation__saint-sever-beatus"
+    },
+    {
+     "key": "hellmouth",
+     "label": "The Hellmouth",
+     "blurb": "The gaping jaws of Leviathan — the medieval mouth of Hell that swallows the damned.",
+     "match": {
+      "work_keys": [
+       "hellmouth"
+      ]
+     },
+     "count": 13,
+     "cover": "hellmouth__tres-riches-heures-hell"
     }
    ]
   },

@@ -1,5 +1,0 @@
-[
- {"query": "Ceremony in honor of Isis Herculaneum fresco Naples", "out": "apuleius_isis/isiac_ceremony.jpg", "prefer": "Isis"},
- {"query": "Cupid and Psyche Pierre-Paul Prud'hon", "out": "apuleius_isis/prudhon_psyche.jpg", "prefer": "Psyche"},
- {"query": "Jupiter and Psyche painting", "out": "apuleius_isis/jupiter_psyche.jpg", "prefer": "Psyche"}
-]

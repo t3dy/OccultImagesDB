@@ -1,0 +1,730 @@
+{
+ "_work": {
+  "key": "memory_arts",
+  "short_id": "MEM",
+  "title": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+  "creator": "various",
+  "date": "c. 1025–1669",
+  "century": 16,
+  "place": "Italy, German lands, France, England",
+  "region": "Europe",
+  "language": "Latin (and Italian, German)",
+  "era": "renaissance",
+  "tradition": "hermetic",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "memory_arts",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Art_of_memory",
+  "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "art of memory",
+   "method of loci",
+   "memory palace",
+   "mnemonic figures",
+   "combinatorial wheels",
+   "memory hand"
+  ],
+  "blurb": "A cabinet of the *ars memoriae* — the classical-and-occult art of memory by which orators, monks and magi stored knowledge in imagined buildings and animate images. Here are Giordano Bruno's mnemonic seals from *De umbris idearum*; Johann Romberch's memory-house and figures from the *Congestorium*; Cosmas Rossellius's memory-places of hell; Robert Fludd's *Ars Memoriae* theatre plates; the woodcut *Ars memorativa* leaves; the Guidonian musical hand; and Ramon Llull's combinatorial wheels and Athanasius Kircher's Lullian *Ars Magna Sciendi* — the diagrammatic machinery of trained, picture-built recollection."
+ },
+ "entries": [
+  {
+   "id": "memory_arts__ars-memorativa",
+   "title": "Memory-image leaf from an *Ars memorativa* blockbook (p. 44)",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Anonymous (German workshop)",
+   "date": "c. 1480–1500",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "memory images",
+    "mnemonic woodcut",
+    "blockbook",
+    "loci and images",
+    "vivid figures",
+    "woodcut",
+    "ars memorativa"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "[PLACEHOLDER: Wikimedia Commons scan of an Ars memorativa blockbook]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ars_Memorativa_-_p44.png",
+   "summary": "A page from one of the late-fifteenth-century German *Ars memorativa* blockbooks, the cheap printed manuals that spread the classical art of memory to a wide lay public.\n\n## Iconography\nThe woodcut sets striking, easily-pictured figures into a remembered place so that abstract matter can be recalled through vivid images. Such leaves typically pair an architectural or bodily *locus* with grotesque or active *imagines agentes* — the deliberately memorable pictures the classical rhetoricians prescribed.\n\n## Significance\nThe *Ars memorativa* tradition descends from the *Rhetorica ad Herennium* and Quintilian, transmitted through medieval preachers and crystallised in these blockbooks. They are the popular face of the [[motif:art-of-memory|art of memory]] that Frances Yates traced from antiquity into the Renaissance occult revival.\n\n## For artists & game designers\nA single page that turns a list into a row of bizarre little figures is a perfect template for a 'memorise this' puzzle interface.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Ars_Memorativa_-_p44.png"
+    }
+   ],
+   "key_concepts": [
+    "art of memory",
+    "imagines agentes",
+    "blockbook",
+    "Rhetorica ad Herennium"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__ars-memorativa2",
+   "title": "Memory-image leaf from an *Ars memorativa* blockbook (p. 43)",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Anonymous (German workshop)",
+   "date": "c. 1480–1500",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "memory images",
+    "mnemonic woodcut",
+    "blockbook",
+    "loci and images",
+    "vivid figures",
+    "woodcut",
+    "ars memorativa"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "[PLACEHOLDER: Wikimedia Commons scan of an Ars memorativa blockbook]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ars_Memorativa_-_p43.png",
+   "summary": "A facing leaf from the same German *Ars memorativa* blockbook, showing a further set of memory-images.\n\n## Iconography\nAs on the companion page, the woodcut presents a sequence of vivid figures to be lodged in mental *loci*. The repetition across pages reflects how the manuals drilled the reader through ordered series of images, building an internal storehouse one place at a time.\n\n## Significance\nThese inexpensive blockbooks were the mass-market vehicle of the [[motif:method-of-loci|method of loci]] on the eve of the Reformation. Their crude but forceful imagery shows how the learned ancient art became a practical devotional and pedagogical technique for ordinary clerics and students.\n\n## For artists & game designers\nUse a paired-page layout — image, then the thing it stands for — to teach a memory mechanic across successive screens.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Ars_Memorativa_-_p43.png"
+    }
+   ],
+   "key_concepts": [
+    "art of memory",
+    "method of loci",
+    "blockbook",
+    "mnemonic images"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__bruno-figura",
+   "title": "*Figura amoris*: a mnemonic seal of Giordano Bruno",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Giordano Bruno",
+   "date": "1582–1591",
+   "place": "Paris / London / Frankfurt",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "mnemonic seal",
+    "combinatorial wheel",
+    "figura amoris",
+    "magical images",
+    "hermetic memory",
+    "diagram",
+    "concentric circles"
+   ],
+   "medium": "diagram",
+   "figures": [],
+   "repository": "[PLACEHOLDER: from a printed edition of Bruno's mnemonic works]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bruno_Figura_amoris.jpg",
+   "summary": "The *Figura amoris* ('figure of love'), one of the rotating mnemonic seals Giordano Bruno designed for his Hermetic art of memory.\n\n## Iconography\nConcentric lettered circles are divided into segments, each carrying images and combinations of letters. By turning the rings the practitioner generates an inexhaustible series of composite memory-images, binding the soul's faculties to the wheel of 'love' that draws the mind toward its objects.\n\n## Significance\nBruno reworked the classical [[motif:art-of-memory|art of memory]] into a magical-Hermetic discipline: his seals in *De umbris idearum* (1582) and related works aimed not merely to recall facts but to imprint the cosmos on the imagination and so unify the magus with the world-soul. Frances Yates made these seals central to her account of Bruno's 'Hermetic memory'.\n\n## For artists & game designers\nA rotating multi-ring seal that combines images is a literal procedural generator — turn the dials, get a new sigil.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Frances A. Yates, *Giordano Bruno and the Hermetic Tradition* (1964)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Bruno_Figura_amoris.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Giordano Bruno",
+    "mnemonic seal",
+    "Hermetic memory",
+    "combinatorial wheel"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__bruno-umbris",
+   "title": "Combinatorial wheel from Bruno's *De umbris idearum*",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Giordano Bruno",
+   "date": "1582",
+   "place": "Paris, France",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "shadows of ideas",
+    "combinatorial wheel",
+    "concentric circles",
+    "lettered segments",
+    "hermetic memory",
+    "diagram",
+    "de umbris idearum"
+   ],
+   "medium": "diagram",
+   "figures": [],
+   "repository": "[PLACEHOLDER: from Bruno, De umbris idearum, 1582]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Bruno_De_Umbris_ombre.JPG",
+   "summary": "A rotating combinatorial wheel from Giordano Bruno's *De umbris idearum* ('On the Shadows of Ideas', Paris, 1582), his first and most influential treatise on the art of memory.\n\n## Iconography\nNested rings carry letters, images and the names of agents, places and actions. Aligning the rings yields coded 'shadows of ideas' — composite mnemonic images that stand for the intelligible forms behind sensible things. The wheel is at once a memory device and a metaphysical instrument.\n\n## Significance\n*De umbris idearum* recasts memory as a Hermetic path: the 'shadows' are the images through which the dispersed human mind can re-collect the divine ideas. Bruno's title plays on Plato's cave — to remember rightly is to ascend from shadow toward the Ideas. The work helped win him an audience at the court of Henri III.\n\n## For artists & game designers\nThe '[[motif:shadows-of-ideas|shadow of an idea]]' — an image that is a degraded copy of a perfect form — is a rich design conceit for collectible glyphs that hint at hidden truths.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Giordano Bruno, *De umbris idearum* (Paris, 1582)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Bruno_De_Umbris_ombre.JPG"
+    }
+   ],
+   "key_concepts": [
+    "De umbris idearum",
+    "shadows of ideas",
+    "combinatorial wheel",
+    "Giordano Bruno"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__fludd-theatrum1",
+   "title": "Art of memory plate I from Fludd's *De praeternaturali* (1621)",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Robert Fludd; de Bry / Frankfurt workshop",
+   "date": "1621",
+   "place": "Frankfurt, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "memory theatre",
+    "ars memoriae",
+    "oculus imaginationis",
+    "architectural mnemonic",
+    "inner vision",
+    "engraving",
+    "fludd"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Art_of_memory,_%22De_praeternaturali_utriusque...%22_Fludd,_1621_Wellcome_L0016208.jpg",
+   "summary": "An *Ars Memoriae* plate from the *De praeternaturali utriusque mundi historia* — the second tract of Robert Fludd's *Utriusque Cosmi Historia* (Frankfurt, 1621).\n\n## Iconography\nThe engraving belongs to Fludd's treatment of the art of memory: a scheme of *loci* — niches, doors and figures of an imagined building — into which memorable images are placed and later 'walked' to recall their contents.\n\n## Significance\nFludd raised the classical [[motif:memory-palace|memory palace]] to Hermetic ambition, holding that the trained imagination could mirror the whole cosmos. Frances Yates devoted a celebrated chapter to these plates, arguing their theatre-form preserves traces of the Elizabethan public stage.\n\n## For artists & game designers\nA labelled architectural interior built to be 'walked' for recall is a ready-made level layout for a memory-palace mechanic.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Art_of_memory,_%22De_praeternaturali_utriusque...%22_Fludd,_1621_Wellcome_L0016208.jpg"
+    }
+   ],
+   "key_concepts": [
+    "art of memory",
+    "Robert Fludd",
+    "memory palace",
+    "Ars Memoriae"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__fludd-theatrum2",
+   "title": "Art of memory plate II from Fludd's *De praeternaturali* (1621)",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Robert Fludd; de Bry / Frankfurt workshop",
+   "date": "1621",
+   "place": "Frankfurt, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "memory theatre",
+    "ars memoriae",
+    "architectural mnemonic",
+    "loci",
+    "inner vision",
+    "engraving",
+    "fludd"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Art_of_memory,_%22De_praeternaturali_utriusque...%22_Fludd,_1621_Wellcome_L0016209.jpg",
+   "summary": "A second *Ars Memoriae* engraving from Fludd's *De praeternaturali utriusque mundi historia* (1621).\n\n## Iconography\nThe plate continues Fludd's exposition of memory-places, showing further mnemonic *loci* — chambers and stations meant to be filled with vivid figures and then mentally traversed in order.\n\n## Significance\nFludd distinguished a 'round' art using imagined zodiacal heavens from a 'square' art using buildings; together they form one of the most fully illustrated early-modern systems of artificial [[motif:art-of-memory|memory]]. These plates are primary evidence for Yates's reconstruction of Renaissance mnemonics.\n\n## For artists & game designers\nVary the room-types in a memory level so each station has a distinct silhouette — Fludd's own variety of *loci* is the precedent.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Art_of_memory,_%22De_praeternaturali_utriusque...%22_Fludd,_1621_Wellcome_L0016209.jpg"
+    }
+   ],
+   "key_concepts": [
+    "art of memory",
+    "memory loci",
+    "Robert Fludd",
+    "round and square art"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__fludd-theatrum3",
+   "title": "Art of memory plate III from Fludd's *De praeternaturali* (1621)",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Robert Fludd; de Bry / Frankfurt workshop",
+   "date": "1621",
+   "place": "Frankfurt, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "memory theatre",
+    "ars memoriae",
+    "theatre of memory",
+    "stage",
+    "mnemonics",
+    "engraving",
+    "fludd"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Art_of_memory,_%22De_praeternaturali_utriusque...%22_Fludd,_1621_Wellcome_L0016210.jpg",
+   "summary": "A third *Ars Memoriae* engraving from Fludd's *De praeternaturali utriusque mundi historia* (1621).\n\n## Iconography\nThe figure presents a theatre- or stage-like structure whose openings and tiers serve as memory stations. Fludd's so-called *Theatrum orbi* gives the art of memory a built form drawn from the architecture of the playhouse.\n\n## Significance\nFrances Yates argued that this Fluddean [[motif:memory-theatre|memory theatre]] retains the proportions of the Elizabethan public stage, making the plate doubly precious — a document both of the occult memory tradition and of theatre history. The 'theatre of the world' becomes a tool for remembering the world.\n\n## For artists & game designers\nA stage façade with multiple framed openings is an ideal HUD for sorting remembered items into labelled slots.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Frances A. Yates, *Theatre of the World* (1969)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Art_of_memory,_%22De_praeternaturali_utriusque...%22_Fludd,_1621_Wellcome_L0016210.jpg"
+    }
+   ],
+   "key_concepts": [
+    "memory theatre",
+    "Theatrum orbi",
+    "Elizabethan stage",
+    "Robert Fludd"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__fludd-theatrum4",
+   "title": "Art of memory plate IV from Fludd's *De praeternaturali* (1621)",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Robert Fludd; de Bry / Frankfurt workshop",
+   "date": "1621",
+   "place": "Frankfurt, German lands",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "memory theatre",
+    "ars memoriae",
+    "architectural mnemonic",
+    "loci",
+    "mnemonics",
+    "engraving",
+    "fludd"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Art_of_memory,_%22De_praeternaturali_utriusque...%22_Fludd,_1621_Wellcome_L0016211.jpg",
+   "summary": "A fourth *Ars Memoriae* engraving from Fludd's *De praeternaturali utriusque mundi historia* (1621).\n\n## Iconography\nThe plate shows another memory-building with ranked stations for images. Together the series documents how Fludd expected the adept to construct, furnish and walk a remembered architecture.\n\n## Significance\nThe completeness of Fludd's illustrated programme — multiple plates, round and square arts, theatre and chambers — makes his *Ars Memoriae* the richest pictorial source for the [[motif:art-of-memory|Hermetic art of memory]] before its eclipse by the new philosophy. It is the late-Renaissance summit of a tradition reaching back to Simonides.\n\n## For artists & game designers\nTreat the four plates as an escalating tutorial: each adds stations, building the player's mental palace step by step.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Joscelyn Godwin, *Robert Fludd* (1979)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Art_of_memory,_%22De_praeternaturali_utriusque...%22_Fludd,_1621_Wellcome_L0016211.jpg"
+    }
+   ],
+   "key_concepts": [
+    "art of memory",
+    "memory architecture",
+    "Robert Fludd",
+    "Simonides"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__guidonian-hand",
+   "title": "The Guidonian hand: a musical memory diagram",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Anonymous (after Guido of Arezzo)",
+   "date": "c. 1274 (tradition from the 11th century)",
+   "place": "Italy",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": [
+    "memory hand",
+    "guidonian hand",
+    "musical mnemonic",
+    "solmization",
+    "hexachord",
+    "hand diagram",
+    "diagram",
+    "ars memoriae"
+   ],
+   "medium": "diagram",
+   "figures": [],
+   "repository": "[PLACEHOLDER: medieval music-theory manuscript]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Guidonian_hand.jpg",
+   "summary": "The *Guidonian hand*, the medieval diagram that maps the notes of the musical gamut onto the joints and tips of the human hand.\n\n## Iconography\nEach knuckle and fingertip is labelled with a note of the hexachord system (*ut, re, mi, fa, sol, la*) running from *gamma ut* at the thumb-tip up the fingers. A singer 'reads' melodies by pointing to positions on the hand, the body itself becoming a notated instrument.\n\n## Significance\nAttributed to Guido of Arezzo, the hand is the archetypal [[motif:memory-hand|memory hand]] — the most enduring of all bodily mnemonics, used to teach sight-singing for half a millennium. It anticipates the 'memory hands' that Romberch and Rossellius would later adapt for letters and memory-places.\n\n## For artists & game designers\nMapping data onto the joints of a hand is a compact, diegetic UI — the player's own hand as a control surface.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Karol Berger, 'The Guidonian Hand', in *The Medieval Craft of Memory* (2002)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Guidonian_hand.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Guidonian hand",
+    "memory hand",
+    "solmization",
+    "Guido of Arezzo"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__kircher-combinatoria",
+   "title": "Combinatorial diagram from Kircher's *Ars Magna Sciendi* (1669)",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Athanasius Kircher",
+   "date": "1669",
+   "place": "Amsterdam",
+   "era": "early_modern",
+   "tradition": "hermetic",
+   "motifs": [
+    "combinatoria",
+    "lullian art",
+    "ars magna sciendi",
+    "combinatorial wheel",
+    "universal knowledge",
+    "diagram",
+    "engraving",
+    "kircher"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ars_magna_sciendi,_by_Athanasius_Kircher._Wellcome_L0016025.jpg",
+   "summary": "A combinatorial figure from Athanasius Kircher's *Ars Magna Sciendi sive Combinatoria* ('The Great Art of Knowing, or Combinatorics', Amsterdam, 1669).\n\n## Iconography\nThe engraving arranges categories of being and knowledge into a Lullian apparatus of tables and rotating wheels. By combining the lettered terms the system claims to generate, store and recall every possible proposition — a mechanised art of memory and invention.\n\n## Significance\nKircher's *Ars Magna Sciendi* is the great Baroque synthesis of [[motif:combinatorial-wheels|Lullian combinatorics]] with the art of memory: knowledge becomes a finite alphabet of concepts whose permutations exhaust the knowable. It fed directly into Leibniz's dream of a *characteristica universalis*.\n\n## For artists & game designers\nA table of concept-letters that recombine into endless statements is a clean model for a procedural lore- or spell-generation system.",
+   "citations": [
+    {
+     "text": "Paolo Rossi, *Logic and the Art of Memory* (2000)."
+    },
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Ars_magna_sciendi,_by_Athanasius_Kircher._Wellcome_L0016025.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Ars Magna Sciendi",
+    "combinatorics",
+    "Lullism",
+    "Athanasius Kircher"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__llull-arbor",
+   "title": "*Arbor scientiae*: the tree of knowledge of Ramon Llull",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "after Ramon Llull",
+   "date": "tree devised 1295–1296 (this engraving 16th century)",
+   "place": "Europe (Llull: Majorca)",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "tree of knowledge",
+    "arbor scientiae",
+    "lullian art",
+    "branching diagram",
+    "ordered knowledge",
+    "combinatorial art",
+    "engraving",
+    "ramon llull"
+   ],
+   "medium": "engraving",
+   "figures": [],
+   "repository": "[PLACEHOLDER: early printed edition of Llull's Arbor scientiae]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Arbor-scientiae.png",
+   "summary": "The *Arbor scientiae* ('Tree of Knowledge'), Ramon Llull's encyclopaedic tree that organises all the sciences as branches growing from common roots.\n\n## Iconography\nA great tree rises from labelled roots (Llull's basic principles or *dignitates*) through a trunk into successive boughs, each branch a domain of knowledge — the elemental, vegetal, sensual, imaginal, human, moral, celestial, angelic and divine trees. Knowledge is pictured as an organically connected whole.\n\n## Significance\nLlull's *Ars* and its trees are a foundational [[motif:combinatorial-wheels|combinatorial]] system later absorbed into the art of memory: an ordered structure on which to hang and recall the totality of learning. Paolo Rossi traced the long line from Llull through Bruno to Leibniz that runs through this image.\n\n## For artists & game designers\nA literal tree where roots are axioms and branches are disciplines is the original skill-tree — usable almost unchanged.",
+   "citations": [
+    {
+     "text": "Paolo Rossi, *Logic and the Art of Memory* (2000)."
+    },
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Arbor-scientiae.png"
+    }
+   ],
+   "key_concepts": [
+    "Arbor scientiae",
+    "Ramon Llull",
+    "tree of knowledge",
+    "Lullism"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__llull-breviculum",
+   "title": "Ramon Llull presenting his anthologies (*Breviculum* miniature)",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Anonymous early-14th-century illuminator (circle of Thomas Le Myésier)",
+   "date": "c. 1321",
+   "place": "France",
+   "era": "medieval",
+   "tradition": "hermetic",
+   "motifs": [
+    "ramon llull",
+    "presentation miniature",
+    "lullian art",
+    "patronage",
+    "manuscript illumination",
+    "doctor illuminatus",
+    "manuscript",
+    "combinatorial art"
+   ],
+   "medium": "manuscript",
+   "figures": [
+    "Ramon Llull",
+    "Thomas Le Myésier"
+   ],
+   "repository": "[PLACEHOLDER: Badische Landesbibliothek, Karlsruhe (Breviculum, St. Peter perg. 92)]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ramon_Llull,_with_his_disciple_Thomas_le_Myesier,_presenting_three_anthologies_to_the_Queen_of_France_and_Navarre.jpg",
+   "summary": "A miniature from the *Breviculum ex artibus Raimundi Lulli electum*, showing Ramon Llull and his disciple Thomas Le Myésier presenting anthologies of the Lullian Art to the queen.\n\n## Iconography\nThe illumination depicts the philosopher-mystic Llull, the *Doctor Illuminatus*, handing over books that contain his *Ars* — the combinatorial method whose wheels and figures underlie his whole project. The scene frames the Art as a gift of universal knowledge offered to royal patronage.\n\n## Significance\nThough not itself a diagram, the miniature is the portrait-frontispiece of the Lullian tradition that fed the Renaissance [[motif:art-of-memory|art of memory]]. Bruno, Agrippa and Kircher all drew on Llull's rotating figures; this image fixes the human origin of that long combinatorial lineage.\n\n## For artists & game designers\nA framed 'master hands the player the system' scene is a clean way to introduce a combinatorial mechanic in-fiction.",
+   "citations": [
+    {
+     "text": "Paolo Rossi, *Logic and the Art of Memory* (2000)."
+    },
+    {
+     "text": "Anthony Bonner, *The Art and Logic of Ramon Llull* (2007)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Ramon_Llull,_with_his_disciple_Thomas_le_Myesier,_presenting_three_anthologies_to_the_Queen_of_France_and_Navarre.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Ramon Llull",
+    "Breviculum",
+    "Doctor Illuminatus",
+    "Lullian Art"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__llull-wheel",
+   "title": "The combinatorial wheel of Llull's *Ars Magna* (modern recreation)",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Lliurepensactua (recreation after Ramon Llull)",
+   "date": "modern recreation of a c. 1305 figure",
+   "place": "Europe (Llull: Majorca)",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "lullian art",
+    "combinatorial wheel",
+    "ars magna",
+    "rotating volvelle",
+    "lettered segments",
+    "dignitates",
+    "diagram",
+    "ramon llull"
+   ],
+   "medium": "diagram",
+   "figures": [],
+   "repository": "Wikimedia Commons (vector recreation)",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "CC BY-SA 4.0 (Lliurepensactua). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Ars_Magna_de_Ram%C3%B3n_Llull.png",
+   "summary": "A clean modern recreation of the rotating combinatorial wheel (*figura*) at the heart of Ramon Llull's *Ars Magna*.\n\n## Iconography\nA circle is divided into lettered segments, each letter standing for one of Llull's basic 'dignities' or attributes (goodness, greatness, eternity, power, wisdom, will, and so on). Concentric rings turn against one another so that the letters combine in every possible pairing, mechanically generating propositions.\n\n## Significance\nThis *figura* is the engine of the entire Lullian Art and the ancestor of every later [[motif:combinatorial-wheels|combinatorial wheel]] — Bruno's mnemonic seals, Kircher's *Ars Magna Sciendi*, and ultimately Leibniz's logical calculus. Llull intended it as a means to demonstrate the truths of faith by reason. (The diagram shown is a contemporary CC BY-SA reconstruction, not an early print.)\n\n## For artists & game designers\nTwo rings of symbols that rotate to pair up letters is a complete, self-contained 'combination lock' or spell-mixing mechanic.",
+   "citations": [
+    {
+     "text": "Anthony Bonner, *The Art and Logic of Ramon Llull* (2007)."
+    },
+    {
+     "text": "Paolo Rossi, *Logic and the Art of Memory* (2000)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Ars_Magna_de_Ram%C3%B3n_Llull.png"
+    }
+   ],
+   "key_concepts": [
+    "Ars Magna",
+    "combinatorial wheel",
+    "dignitates",
+    "Ramon Llull"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__romberch-congestorium",
+   "title": "Memory diagram from Romberch's *Congestorium artificiose memorie*",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Johann Host von Romberch",
+   "date": "1520 (first ed. 1520; this ed. 1533)",
+   "place": "Venice",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "congestorium",
+    "memory house",
+    "memory hand",
+    "loci and images",
+    "mnemonic figures",
+    "woodcut",
+    "ars memoriae"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "CC BY 4.0 (Wellcome Collection). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Johann_Romberch,_Congestorium_artificiose..._Wellcome_L0032270.jpg",
+   "summary": "A memory diagram from the *Congestorium artificiose memorie* of the Dominican Johann Host von Romberch, one of the most influential printed manuals of the art of memory (Venice, 1520; repr. 1533).\n\n## Iconography\nRomberch's woodcuts systematise the art: schemes of *loci* set in an imagined building, an abbey or town used as a memory-place, alphabet-images, and the celebrated **memory hand** on which letters and figures are lodged at the joints. The page presents memory as an architecture to be furnished and read.\n\n## Significance\nThe *Congestorium* gathered the medieval and classical art of memory into a teachable system that Bruno, Rossellius and others built upon. Frances Yates and Paolo Rossi treat Romberch as a crucial hinge between the monastic [[motif:art-of-memory|ars memoriae]] and its Renaissance Hermetic transformation.\n\n## For artists & game designers\nThe abbey-as-memory-place — a familiar building repurposed as an index of knowledge — is a strong premise for an explorable 'palace' hub level.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Paolo Rossi, *Logic and the Art of Memory* (2000)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Johann_Romberch,_Congestorium_artificiose..._Wellcome_L0032270.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Congestorium",
+    "memory house",
+    "memory hand",
+    "Johann Romberch"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "memory_arts__rossellius-hell",
+   "title": "Memory-place of Hell from Rossellius's *Thesaurus artificiosae memoriae*",
+   "work": "The Art of Memory: Mnemonic Diagrams of the Western Esoteric Tradition",
+   "creator": "Cosmas Rossellius",
+   "date": "1579",
+   "place": "Venice",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "motifs": [
+    "art of memory",
+    "memory places",
+    "hell as memory place",
+    "thesaurus memoriae",
+    "infernal loci",
+    "mnemonic images",
+    "woodcut",
+    "ars memoriae"
+   ],
+   "medium": "woodcut",
+   "figures": [],
+   "repository": "[PLACEHOLDER: reproduction in the Ralph Major slide collection]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:16_103p_from_ralph_major_slide_collection.jpg",
+   "summary": "A memory-place diagram from the *Thesaurus artificiosae memoriae* of the Florentine Dominican Cosmas Rossellius (Venice, 1579), using the regions of Hell as a system of mnemonic *loci*.\n\n## Iconography\nThe woodcut lays out an ordered set of places — here drawn from the Christian otherworld — into which memory-images are to be set. Rossellius furnished his readers with ready-made cosmic *loci* (heaven, hell, the elements) so that the entire moral universe could serve as a filing system for the memory.\n\n## Significance\nRossellius is, with Romberch, the great late-Renaissance compiler of the [[motif:method-of-loci|method of loci]]. His use of Hell and Heaven as memory-places shows how the art fused with devotional meditation on the Last Things — remembering doctrine by walking the afterlife. Frances Yates singled out his *Thesaurus* as a key occult-memory text.\n\n## For artists & game designers\nUsing the circles of Hell as labelled storage slots is a vivid, thematically loaded inventory metaphor for a dark-fantasy game.",
+   "citations": [
+    {
+     "text": "Frances A. Yates, *The Art of Memory* (1966)."
+    },
+    {
+     "text": "Cosmas Rossellius, *Thesaurus artificiosae memoriae* (Venice, 1579)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:16_103p_from_ralph_major_slide_collection.jpg"
+    }
+   ],
+   "key_concepts": [
+    "Thesaurus artificiosae memoriae",
+    "memory places",
+    "hell as locus",
+    "Cosmas Rossellius"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}
