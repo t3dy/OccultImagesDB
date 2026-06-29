@@ -1,0 +1,5 @@
+[
+ {"query": "Emblemata sacra Cramer heart", "out": "christian_theosophy/cramer_emblemata_sacra.jpg", "prefer": "Cramer"},
+ {"query": "Boehme Aurora", "out": "christian_theosophy/boehme_aurora.jpg", "prefer": "Aurora"},
+ {"query": "Gichtel Theosophia Practica plate", "out": "christian_theosophy/gichtel_plate.jpg", "prefer": "Gichtel"}
+]

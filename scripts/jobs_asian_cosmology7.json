@@ -1,0 +1,8 @@
+[
+ {"query": "Samgrahani Jain cosmography painting", "out": "asian_cosmology/samgrahani.jpg", "prefer": "grahani"},
+ {"query": "Trailokya Buddhist three realms diagram", "out": "asian_cosmology/trailokya.jpg", "prefer": "Trailokya"},
+ {"query": "Nepalese cosmological diagram manuscript", "out": "asian_cosmology/nepalese_cosmos.jpg", "prefer": "cosmo"},
+ {"query": "Jain pilgrimage pata cosmic map cloth", "out": "asian_cosmology/jain_pata.jpg", "prefer": "pata"},
+ {"query": "Cosmological diagram Buddhist universe Thai", "out": "asian_cosmology/thai_cosmos.jpg", "prefer": "cosmo"},
+ {"query": "Hindu cosmography worlds diagram manuscript", "out": "asian_cosmology/hindu_cosmography.jpg", "prefer": "cosmo"}
+]

@@ -1,0 +1,15 @@
+[
+ {"query": "Agrippa Behenian star Caput Algol", "out": "wishlist_fills/seal_algol.png", "prefer": "Behenian star 01"},
+ {"query": "Agrippa Behenian star Pleiades", "out": "wishlist_fills/seal_pleiades.png", "prefer": "Behenian star 02"},
+ {"query": "Agrippa Behenian star Aldebaram", "out": "wishlist_fills/seal_aldebaran.png", "prefer": "Behenian star 03"},
+ {"query": "Agrippa Behenian star Hircus", "out": "wishlist_fills/seal_capella.png", "prefer": "Behenian star 04"},
+ {"query": "Agrippa Behenian star Canis maior", "out": "wishlist_fills/seal_sirius.png", "prefer": "Behenian star 05"},
+ {"query": "Agrippa Behenian star Canis minor", "out": "wishlist_fills/seal_procyon.png", "prefer": "Behenian star 06"},
+ {"query": "Agrippa Behenian star Cor leonis", "out": "wishlist_fills/seal_regulus.png", "prefer": "Behenian star 07"},
+ {"query": "Agrippa Behenian star Cauda ursae", "out": "wishlist_fills/seal_alkaid.png", "prefer": "Behenian star 08"},
+ {"query": "Agrippa Behenian star Ala corui", "out": "wishlist_fills/seal_algorab.png", "prefer": "Behenian star 09"},
+ {"query": "Agrippa Behenian star Spica", "out": "wishlist_fills/seal_spica.png", "prefer": "Behenian star 10"},
+ {"query": "Agrippa Behenian star Alchameth", "out": "wishlist_fills/seal_arcturus.png", "prefer": "Behenian star 11"},
+ {"query": "Agrippa Behenian star Elpheia", "out": "wishlist_fills/seal_alphecca.png", "prefer": "Behenian star 12"},
+ {"query": "Agrippa Behenian star Vultur cadens", "out": "wishlist_fills/seal_vega.png", "prefer": "Behenian star 14"}
+]

@@ -40,6 +40,40 @@ MEDIA = ("manuscript", "woodcut", "engraving", "etching", "drawing", "painting",
          "print", "diagram", "photograph")
 
 
+# Canonical esoteric figures/deities/personifications — when one is NAMED in an image's title it is
+# (with high precision) the being depicted, so we tag it into `figures` for the relational facet.
+FIGURE_NAMES = [
+    "Saturn", "Jupiter", "Mars", "Venus", "Mercury", "Apollo", "Diana", "Hermes Trismegistus", "Hermes",
+    "Mercurius", "Isis", "Osiris", "Horus", "Anubis", "Thoth", "Bes", "Pazuzu", "Lamashtu", "Abraxas",
+    "Abrasax", "Chnoubis", "Mithras", "Serapis", "Cybele", "Hecate", "Phanes", "Aion", "Solomon", "Moses",
+    "Aaron", "Simon Magus", "Lilith", "Adam Kadmon", "Christ", "Leviathan", "Behemoth", "Antichrist",
+    "St Anthony", "Saint Anthony", "St Christopher", "Saint Christopher", "Cyprian", "Faust", "Mephistopheles",
+    "Circe", "Medea", "Orpheus", "Psyche", "Cupid", "Sibyl", "Pythagoras", "Atlas", "Prometheus", "Chimera",
+    "Sphinx", "Medusa", "Gorgon", "Fortuna", "Tyche", "Nemesis", "Kairos", "Baphomet", "Lucifer", "Satan",
+    "Astaroth", "Asmodeus", "Beelzebub", "Belial", "Hildegard", "Joachim", "Nataraja", "Vishnu", "Garuda",
+    "Cagliostro", "Paracelsus", "Hypatia", "Plotinus", "Ficino", "Pico", "Khunrath", "Dürer", "Blake",
+]
+_FIG_SKIP = ("seal", "sigil", "kamea", "magic square", "alphabet", "table of", "diagram of")
+
+
+def infer_figures(title, medium):
+    t = (title or "")
+    tl = t.lower()
+    if medium == "diagram" or any(s in tl for s in _FIG_SKIP):
+        return []
+    out = []
+    for name in FIGURE_NAMES:
+        if re.search(r"\b" + re.escape(name) + r"\b", t):
+            # collapse the saint variants and Hermes Trismegistus/Hermes overlap
+            canon = {"Saint Anthony": "St Anthony", "Saint Christopher": "St Christopher"}.get(name, name)
+            if canon not in out:
+                out.append(canon)
+    # if the full "Hermes Trismegistus" matched, drop the bare "Hermes"
+    if "Hermes Trismegistus" in out and "Hermes" in out:
+        out.remove("Hermes")
+    return out[:6]
+
+
 def infer_medium(work_key, rec):
     k = (work_key or "").lower()
     mot = set(m.lower() for m in rec.get("motifs", []))
@@ -221,6 +255,9 @@ def main():
             rec.setdefault("figures", [])
             if not rec.get("medium"):
                 rec["medium"] = infer_medium(src["key"], rec)
+            inferred = infer_figures(rec.get("title"), rec.get("medium"))
+            if inferred:
+                rec["figures"] = list(dict.fromkeys((rec.get("figures") or []) + inferred))
             records.append(rec)
             count += 1
         works.append({

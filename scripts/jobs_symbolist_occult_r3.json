@@ -1,0 +1,10 @@
+[
+ {"query": "Redon Cyclops painting Kroller-Muller Museum", "out": "symbolist_occult/redon_cyclops.jpg", "prefer": "Cyclop"},
+ {"query": "Redon Les Origines plate album 1883", "out": "symbolist_occult/redon_origines.jpg", "prefer": "Origin"},
+ {"query": "Odilon Redon haloed head saint lithograph noir", "out": "symbolist_occult/redon_haloed_head.jpg", "prefer": "Redon"},
+ {"query": "Fernand Khnopff Sphinx caress detail painting", "out": "symbolist_occult/khnopff_sphinx.jpg", "prefer": "Khnopff"},
+ {"query": "Carlos Schwabe La Douleur engraving symbolist", "out": "symbolist_occult/schwabe_douleur.jpg", "prefer": "Schwabe"},
+ {"query": "Jean Delville L'Homme-Dieu painting 1903", "out": "symbolist_occult/delville_homme_dieu.jpg", "prefer": "Delville"},
+ {"query": "Franz von Stuck The Kiss of the Sphinx 1895", "out": "symbolist_occult/stuck_kiss_sphinx.jpg", "prefer": "Stuck"},
+ {"query": "Felicien Rops Pornokrates The Lady with the Pig", "out": "symbolist_occult/rops_pornokrates.jpg", "prefer": "Rops"}
+]

@@ -1,0 +1,20 @@
+[
+ {"query": "Winchester Psalter hellmouth angel locking", "out": "hellmouth/winchester_psalter_hellmouth.jpg", "prefer": "Winchester"},
+ {"query": "Hortus Deliciarum hell Herrad", "out": "hellmouth/hortus_deliciarum_hell.jpg", "prefer": "Hortus"},
+ {"query": "Holkham Bible Picture Book hell", "out": "hellmouth/holkham_bible_hell.jpg", "prefer": "Holkham"},
+ {"query": "Tres Riches Heures Hell Leviathan", "out": "hellmouth/tres_riches_heures_hell.jpg", "prefer": "Riches"},
+ {"query": "Last Judgment tympanum Conques Sainte-Foy hell", "out": "hellmouth/conques_tympanum_hell.jpg", "prefer": "Conques"},
+ {"query": "Last Judgment tympanum Bourges Cathedral hell", "out": "hellmouth/bourges_tympanum_hell.jpg", "prefer": "Bourges"},
+ {"query": "harrowing of hell anastasis Christ broken gates", "out": "hellmouth/harrowing_of_hell.jpg", "prefer": "harrowing"},
+ {"query": "Leviathan chained beast hell mouth medieval", "out": "hellmouth/leviathan_chained.jpg", "prefer": "Leviathan"},
+ {"query": "Wenhaston Doom painting last judgment", "out": "hellmouth/wenhaston_doom.jpg", "prefer": "Wenhaston"},
+ {"query": "Caedmon Junius manuscript hell mouth Satan", "out": "hellmouth/junius_manuscript_hell.jpg", "prefer": "Junius"},
+ {"query": "Hours of Catherine of Cleves mouth of hell", "out": "hellmouth/catherine_cleves_hellmouth.jpg", "prefer": "Cleves"},
+ {"query": "Last Judgment hellmouth manuscript damned chains devils", "out": "hellmouth/damned_in_chains.jpg", "prefer": "Judgment"},
+ {"query": "St Thomas Salisbury Doom painting", "out": "hellmouth/salisbury_doom.jpg", "prefer": "Salisbury"},
+ {"query": "hellmouth Leviathan jaws swallowing damned souls", "out": "hellmouth/leviathan_jaws_swallowing.jpg", "prefer": "hell"},
+ {"query": "Bamberg Apocalypse hell mouth", "out": "hellmouth/bamberg_apocalypse_hell.jpg", "prefer": "Bamberg"},
+ {"query": "devils cauldron hell mouth medieval fresco", "out": "hellmouth/cauldron_of_hell.jpg", "prefer": "hell"},
+ {"query": "Last Judgment Notre-Dame Paris tympanum hell", "out": "hellmouth/notre_dame_tympanum.jpg", "prefer": "Notre"},
+ {"query": "mouth of hell Hieronymus Bosch", "out": "hellmouth/bosch_hellmouth.jpg", "prefer": "hell"}
+]

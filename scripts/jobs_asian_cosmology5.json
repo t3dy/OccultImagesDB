@@ -1,0 +1,11 @@
+[
+ {"query": "Vishvarupa Vishnu painting", "out": "asian_cosmology/vishvarupa.jpg", "prefer": "Vishvarupa"},
+ {"query": "Sangrahani Jain manuscript", "out": "asian_cosmology/samgrahani_ratna.jpg", "prefer": "Sangrahani"},
+ {"query": "Traibhumi Thai manuscript", "out": "asian_cosmology/trailokya.jpg", "prefer": "Trai"},
+ {"query": "Tibetan medical thangka", "out": "asian_cosmology/tibetan_medical_thangka.jpg", "prefer": "medic"},
+ {"query": "Burmese cosmology manuscript", "out": "asian_cosmology/burmese_cosmology.jpg", "prefer": "cosmo"},
+ {"query": "Jain cosmology manuscript", "out": "asian_cosmology/jain_cosmology_ms.jpg", "prefer": "cosmolog"},
+ {"query": "Cosmic egg Hindu", "out": "asian_cosmology/brahmanda_cosmic_egg.jpg", "prefer": "egg"},
+ {"query": "Nepalese cosmological painting", "out": "asian_cosmology/nepalese_cosmos.jpg", "prefer": "cosmo"},
+ {"query": "Mount Sumeru world diagram", "out": "asian_cosmology/cakravala.jpg", "prefer": "Sumeru"}
+]

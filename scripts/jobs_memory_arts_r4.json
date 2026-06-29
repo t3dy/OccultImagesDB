@@ -1,0 +1,12 @@
+[
+ {"query": "Giulio Camillo", "out": "memory_arts/camillo_portrait.jpg", "prefer": "Camillo"},
+ {"query": "Publicius", "out": "memory_arts/publicius.jpg", "prefer": "Publicius"},
+ {"query": "Bruno Lampas triginta statuarum", "out": "memory_arts/bruno_lampas.jpg", "prefer": "Bruno"},
+ {"query": "Bruno mnemonic", "out": "memory_arts/bruno_mnemonic.jpg", "prefer": "Bruno"},
+ {"query": "Ravennas Phoenix", "out": "memory_arts/ravenna_phoenix.jpg", "prefer": "Phoenix"},
+ {"query": "Ars Memorativa p43", "out": "memory_arts/ars_memorativa2.jpg", "prefer": "Memorativa"},
+ {"query": "Fludd ars memoriae theatrum", "out": "memory_arts/fludd_artmemoriae.jpg", "prefer": "memoriae"},
+ {"query": "Rossellius thesaurus", "out": "memory_arts/rossellius_plate.jpg", "prefer": "Rossellius"},
+ {"query": "Llull tabula generalis", "out": "memory_arts/llull_tabula.jpg", "prefer": "Llull"},
+ {"query": "Lull breviculum", "out": "memory_arts/llull_breviculum.jpg", "prefer": "Breviculum"}
+]

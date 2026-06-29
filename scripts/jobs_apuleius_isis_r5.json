@@ -1,0 +1,6 @@
+[
+ {"query": "Cupid and Psyche Roman sarcophagus panel", "out": "apuleius_isis/psyche_sarcophagus.jpg", "prefer": "sarcophagus"},
+ {"query": "Initiation rite of Isis fresco Herculaneum", "out": "apuleius_isis/isiac_ceremony.jpg", "prefer": "Isis"},
+ {"query": "Cupid and Psyche Jacopo Zucchi", "out": "apuleius_isis/zucchi_psyche.jpg", "prefer": "Psyche"},
+ {"query": "Psyche transported to Heaven Prud'hon", "out": "apuleius_isis/prudhon_psyche.jpg", "prefer": "Psyche"}
+]

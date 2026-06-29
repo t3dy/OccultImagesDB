@@ -1,0 +1,17 @@
+[
+ {"query": "Holkham Bible Add MS 47682 hell", "out": "hellmouth/holkham_bible_hell.jpg", "prefer": "Holkham"},
+ {"query": "Tres Riches Heures Enfer", "out": "hellmouth/tres_riches_heures_hell.jpg", "prefer": "Enfer"},
+ {"query": "Conques tympan Jugement dernier enfer", "out": "hellmouth/conques_tympanum_hell.jpg", "prefer": "Conques"},
+ {"query": "Wenhaston Doom", "out": "hellmouth/wenhaston_doom.jpg", "prefer": "Wenhaston"},
+ {"query": "Junius 11 Caedmon manuscript", "out": "hellmouth/junius_manuscript_hell.jpg", "prefer": "Junius"},
+ {"query": "Bamberg Apocalypse Bamberger Apokalypse", "out": "hellmouth/bamberg_apocalypse.jpg", "prefer": "Bamberg"},
+ {"query": "Leviathan Behemoth Bible Winchester", "out": "hellmouth/leviathan_behemoth.jpg", "prefer": "Leviathan"},
+ {"query": "Last Judgment cathedral Notre Dame de Paris portal", "out": "hellmouth/notre_dame_tympanum.jpg", "prefer": "Notre"},
+ {"query": "Hell mouth Winchester Psalter folio 39", "out": "hellmouth/winchester_psalter_jaws.jpg", "prefer": "Winchester"},
+ {"query": "Hours hell mouth devils torment souls cauldron miniature", "out": "hellmouth/cauldron_of_hell.jpg", "prefer": "Hell"},
+ {"query": "Hellmouth Hortus deliciarum infernum", "out": "hellmouth/hortus_infernum.jpg", "prefer": "Hortus"},
+ {"query": "Descent into Limbo Christ harrowing hell Duccio", "out": "hellmouth/duccio_descent_limbo.jpg", "prefer": "Limbo"},
+ {"query": "Jaws of Hell Leviathan Liber Floridus", "out": "hellmouth/liber_floridus_hell.jpg", "prefer": "Floridus"},
+ {"query": "Last Judgment Roger van der Weyden Beaune hell", "out": "hellmouth/beaune_last_judgment_hell.jpg", "prefer": "Beaune"},
+ {"query": "Hell mouth Très Riches Heures Limbourg", "out": "hellmouth/limbourg_hell.jpg", "prefer": "Limbourg"}
+]

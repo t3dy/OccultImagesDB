@@ -1,0 +1,7 @@
+[
+ {"query": "Odilon Redon Profile of Light lithograph", "out": "symbolist_occult/redon_profile_light.jpg", "prefer": "Redon"},
+ {"query": "Redon The Masque of the Red Death", "out": "symbolist_occult/redon_red_death.jpg", "prefer": "Redon"},
+ {"query": "Carlos Schwabe Le Reve illustration Zola", "out": "symbolist_occult/schwabe_reve.jpg", "prefer": "Schwabe"},
+ {"query": "Jan Toorop The Sphinx 1897 drawing", "out": "symbolist_occult/toorop_sphinx.jpg", "prefer": "Toorop"},
+ {"query": "Gustave Moreau Salome Dancing before Herod", "out": "symbolist_occult/moreau_salome.jpg", "prefer": "Moreau"}
+]

@@ -1,0 +1,10 @@
+[
+ {"query": "Jain manuscript cosmology painting British Library", "out": "asian_cosmology/jain_ms_bl.jpg", "prefer": "Jain"},
+ {"query": "Buddhist cosmology painting Wat", "out": "asian_cosmology/wat_cosmology.jpg", "prefer": "cosmo"},
+ {"query": "Sumeru mandala Japanese cosmology", "out": "asian_cosmology/sumeru_mandala.jpg", "prefer": "Sumeru"},
+ {"query": "Nepal cosmic diagram thangka universe", "out": "asian_cosmology/nepal_cosmos.jpg", "prefer": "cosmic"},
+ {"query": "Mount Meru painting Tibet", "out": "asian_cosmology/meru_tibet.jpg", "prefer": "Meru"},
+ {"query": "Jain world man Loka Purusha painting Gujarat", "out": "asian_cosmology/loka_purusha2.jpg", "prefer": "Loka"},
+ {"query": "Vishnu Vishvarupa universal cosmic form sculpture", "out": "asian_cosmology/vishvarupa_relief.jpg", "prefer": "Vishvarupa"},
+ {"query": "Hindu cosmology Kurma avatar Mount Mandara churning", "out": "asian_cosmology/churning_ocean.jpg", "prefer": "churning"}
+]
