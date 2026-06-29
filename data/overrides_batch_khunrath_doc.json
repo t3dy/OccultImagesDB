@@ -1,0 +1,4265 @@
+{
+ "entries": [
+  {
+   "id": "khunrath__khunrath-p0002",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - front cover (binding)",
+   "motifs": [
+    "bookbinding",
+    "leather cover",
+    "book object",
+    "early modern printing"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A bibliographic leaf - the **front cover (binding)** - of the digitised copy of Khunrath's *Amphitheatrum*. This records the physical book object (worn leather over boards), not an engraving or a page of the text.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "bookbinding",
+    "Internet Archive scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0005",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 5)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0006",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - engraved title page",
+   "motifs": [
+    "title page",
+    "letterpress",
+    "engraved cartouche",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "The **title page** of Khunrath's *Amphitheatrum Sapientiae Aeternae* - the letterpress title and imprint set within an engraved architectural cartouche. It is dominated by typographic text rather than a pictorial scene, so it is recorded here as a page scan.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "title page",
+    "letterpress"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0007",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 7)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0008",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 8)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0009",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - Portrait of Heinrich Khunrath",
+   "motifs": [
+    "author portrait",
+    "oval medallion",
+    "memento mori",
+    "Latin inscription",
+    "christian theosophy"
+   ],
+   "medium": "engraving",
+   "summary": "The engraved author-portrait that fronts Khunrath's *Amphitheatrum Sapientiae Aeternae* - the Hamburg-Hanau physician shown bust-length within an oval cartouche, hand resting on a table of instruments, ringed by a Latin legend and emblematic apparatus.\n\n## Iconography\nKhunrath appears in a ruff and scholar's gown, half-turned, his gaze level. The oval frame carries his name, age and titles; below, a base panel bears a motto and the apparatus of his double calling - the praying hands of the theosopher and the vessels of the laborant. The whole is cut in the dense, even line of late-sixteenth-century German copperplate work.\n\n## Significance\nThe portrait fixes the *persona* on which the entire *Amphitheatrum* depends: the adept who is at once orator and operator, whose *ora et labora* (pray and work) governs the famous laboratory-oratory plate later in the book. It situates the great circular engravings as the visionary output of a named, historical seeker rather than anonymous emblem.\n\n## For artists\nA clean model for the 'learned magus' portrait type - oval frame, instruments of the art arrayed below, a Latin band closing the circle. Strip the period dress and it becomes a reusable template for any scholar-mage character card.",
+   "key_concepts": [
+    "Heinrich Khunrath",
+    "theosophy",
+    "ora et labora",
+    "author portrait",
+    "Amphitheatrum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0010",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 10)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0011",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - The Gate of Eternal Wisdom (Porta Amphitheatri)",
+   "motifs": [
+    "gateway",
+    "pyramidal portal",
+    "inscribed text-gate",
+    "rocky landscape",
+    "christian theosophy",
+    "kabbalah"
+   ],
+   "medium": "engraving",
+   "summary": "One of the celebrated plates of the *Amphitheatrum*: a colossal pyramidal **gateway** of eternal wisdom, every surface of its sloping faces packed with engraved Latin and Hebrew sentences, rising from a rocky wilderness toward a radiant Name of God.\n\n## Iconography\nThe gate is built not of stone blocks but of *words* - tier on tier of inscribed maxims that the eye must climb. Steps lead up to the threshold; flanking crags, distant towers and emblematic vignettes fill the landscape margins. At the apex the Tetragrammaton blazes in a glory, the goal toward which the whole structure ascends.\n\n## Significance\nThis is Khunrath's *Porta* - the doorway of the amphitheatre of wisdom. Passage is conditional: only the reborn, the man who has joined prayer to labour, may mount the inscribed steps. The fusion of Hebrew divine names with Christian theosophy and alchemical ascent is the signature of Khunrath's Paracelsian-Kabbalistic synthesis.\n\n## For artists\nA ready-made 'temple of text' set-piece: a monumental architecture whose walls are legible scripture. Use it as a gated threshold a player must decipher rather than merely open - the obstacle is reading, not a lock.",
+   "key_concepts": [
+    "Porta Sapientiae",
+    "gate of wisdom",
+    "seven steps",
+    "Christ-Sophia",
+    "theosophy",
+    "Amphitheatrum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0012",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 12)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0013",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 13)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0014",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - The Mountain of the Adepts (Alchemical Landscape)",
+   "motifs": [
+    "mountain landscape",
+    "alchemical labours",
+    "miners and seekers",
+    "emblematic panorama",
+    "christian theosophy"
+   ],
+   "medium": "engraving",
+   "summary": "A wide engraved **panorama** - a rugged alchemical mountain riddled with caverns, terraces and toiling figures, ringed by the sea, that sets the labours of the *opus* into a single sweeping landscape of the Amphitheatrum.\n\n## Iconography\nSeekers climb, dig and gather across a broken massif; ships ride the shore; emblematic scenes nest in every fold of rock. Banners and cartouches carry Latin tags that name the stages. The composition reads as a map of the spiritual-chemical journey, foreground toil giving way to far horizons of attainment.\n\n## Significance\nKhunrath casts the great work as a geography to be traversed. The mountain is at once the matter to be mined and the soul's ascent - the *prima materia* dug from the earth and the inner labour that refines it. The crowded margins insist that no single act but a whole pilgrimage of labours is required.\n\n## For artists\nAn overworld in one frame: a layered quest-map where each rocky niche is a sub-scene. Perfect reference for a hand-drawn region screen whose every crevice hides an encounter.",
+   "key_concepts": [
+    "mountain of the adepts",
+    "prima materia",
+    "labour of the work",
+    "pilgrimage",
+    "Amphitheatrum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0015",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 15)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0016",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 16)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0017",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - The Cosmic Rose and Star-Citadel of Pansophia",
+   "motifs": [
+    "heptagram",
+    "cosmic rose",
+    "star-fortress",
+    "citadel of Pansophia",
+    "seven bastions",
+    "christian theosophy",
+    "kabbalah"
+   ],
+   "medium": "engraving",
+   "summary": "The great seven-pointed plate of the *Amphitheatrum* - a **heptagram star-citadel** enclosing a central rose, its bastioned points crowded with text, the whole laid out as a fortified cosmos of universal wisdom (Pansophia).\n\n## Iconography\nSeven angular bastions radiate from a centre where a mystic rose or sun is set; each point and curtain-wall is filled with inscribed sentences. The form quotes the early-modern star-fort even as it doubles as a rose-window and a seven-fold mandala. Emblematic figures and the divine Name occupy the margins and the heart.\n\n## Significance\nSeven is Khunrath's governing number - the planets, the days, the steps to wisdom - and here it shapes a *citadel* of Pansophia, the all-knowledge that must be both contemplated (the rose) and defended (the fort). The plate is the visual climax of his claim that sacred geometry, scripture and the great work converge on a single seven-fold figure.\n\n## For artists\nOne of the most striking sevenfold mandalas in the whole alchemical corpus - a star-fort and a rose in one device. Use it as a level-map, a sigil, or the floorplan of a sanctum whose seven bastions are seven trials.",
+   "key_concepts": [
+    "heptagram",
+    "seven",
+    "Pansophia",
+    "rosa mystica",
+    "star-fort",
+    "cosmic rose",
+    "Amphitheatrum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0018",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 18)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0019",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 19)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0020",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - The Alchemical Wheel (Rota of the Work)",
+   "motifs": [
+    "wheel",
+    "rota",
+    "radial blades",
+    "grotto",
+    "inscribed tablets",
+    "christian theosophy"
+   ],
+   "medium": "engraving",
+   "summary": "A round-format plate dominated by a great spoked **wheel** - the *rota* of the alchemical work - set in a rocky grotto and flanked by tablets of engraved Latin.\n\n## Iconography\nThe wheel fills the centre, its radiating blades or vanes catching a light that breaks from above; around it, niched in the rock, stand inscribed panels and emblematic figures. The grotto setting frames the device like the mouth of a cave of mysteries.\n\n## Significance\nThe wheel is Khunrath's emblem of **circulation** - the turning, recurrent labour by which matter is raised and returned, distilled and re-imbibed, until it is perfected. It restates in mechanical form the cyclical nature of the *opus*: the work is not a line but a revolution, repeated until completion.\n\n## For artists\nA mechanism that is also a meditation - a turning device whose every spoke is a stage. Good reference for an interactive 'wheel of stages' UI or a grotto puzzle whose solution is rotation.",
+   "key_concepts": [
+    "rota",
+    "wheel of the work",
+    "circulation",
+    "cyclical opus",
+    "Amphitheatrum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0021",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 21)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0022",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 22)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0023",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - The Cosmological Rose-Compass Disc",
+   "motifs": [
+    "circular diagram",
+    "rose-compass",
+    "cosmological wheel",
+    "radiant centre",
+    "christian theosophy",
+    "kabbalah"
+   ],
+   "medium": "engraving",
+   "summary": "A finely cut circular **cosmological diagram** - a rose-compass disc with a radiant centre, concentric bands of inscription and emblematic markers set about its rim like the points of the winds.\n\n## Iconography\nA blazing centre throws rays outward through concentric rings; symbols, letters and small figures are ranged around the circumference like a compass-rose or wind-rose. The diagram is read inward and outward at once - periphery to centre, centre to periphery.\n\n## Significance\nHere Khunrath renders the doctrine of **correspondence**: the radiant divine centre and the encircling creation are bound in a single wheel, so that the macrocosm can be surveyed at a glance. It is a diagram of how the One disperses into the many and is gathered back - the cosmological grammar beneath the Amphitheatrum's whole programme.\n\n## For artists\nA self-contained mandala/compass usable as a navigation rose, a spell-selector dial, or an establishing 'cosmos' graphic. The radial symmetry makes it trivial to recolour and animate.",
+   "key_concepts": [
+    "cosmic diagram",
+    "rose of the winds",
+    "correspondence",
+    "macrocosm",
+    "Amphitheatrum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0024",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 24)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0025",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 25)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0026",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 26)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0027",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 27)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0028",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 28)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0029",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 29)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0030",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 30)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0031",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 31)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0032",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - The Oratory and Laboratory (Oratorium-Laboratorium)",
+   "motifs": [
+    "oratory and laboratory",
+    "praying adept",
+    "furnace and vessels",
+    "tent of prayer",
+    "ora et labora",
+    "christian theosophy"
+   ],
+   "medium": "engraving",
+   "summary": "The most famous engraving of the *Amphitheatrum* and one of the iconic images of Western alchemy - the **oratory-laboratory** roundel, in which a single vaulted hall holds prayer and chemical work in one space.\n\n## Iconography\nOn the left, beneath a richly hung tent-oratory, the adept kneels in prayer before an altar inscribed with divine names; on the right a fully equipped **laboratory** crowds the floor - furnaces, alembics, balances, books, a great central table strewn with instruments. A music-strewn table in the middle ground joins the two halves; the whole is held in a perfect circle, the room continuing seamlessly from altar to athanor.\n\n## Significance\nThis is the visual definition of Khunrath's maxim **ora et labora** - *pray and work*. Spiritual and material operations are not merely allied but housed under one roof: the laboratory is a chapel and the chapel a laboratory. No image states more plainly the Paracelsian conviction that the great work is at once a devotion and an experiment.\n\n## For artists\nThe definitive 'alchemist's workshop' interior - endlessly mined for game and book art. Use it as a hub-room reference: an oratory half and a furnace half a character can move between, each with its own verbs.",
+   "key_concepts": [
+    "oratorium-laboratorium",
+    "ora et labora",
+    "prayer and work",
+    "laboratory",
+    "furnace",
+    "Amphitheatrum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0033",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 33)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0034",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 34)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0035",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - The Divine-Human Figure (Adam-Androgyne / Filius)",
+   "motifs": [
+    "central allegorical figure",
+    "Adam-Androgyne",
+    "divine human",
+    "flanking witnesses",
+    "text panels",
+    "christian theosophy",
+    "kabbalah"
+   ],
+   "medium": "engraving",
+   "summary": "A broad allegorical plate built around a **central divine-human figure** - Khunrath's reborn Adam or androgyne - enthroned amid witnesses and columns of engraved text, gathering the book's theosophy into a single personified emblem.\n\n## Iconography\nA radiant central personage stands or sits at the heart of the sheet, flanked by attendant figures and by tall panels of inscribed Latin that frame the scene like the wings of a triptych. Light descends from above; emblematic devices and divine names crown the composition. The figure unites opposites - spirit and body, male and female, heaven and earth.\n\n## Significance\nThe plate images the goal of the work as a *person*: the regenerated human, the *filius* in whom the macrocosm is reconciled. Khunrath's Christian-Kabbalistic alchemy ends not in a substance but in a deified, made-whole Adam - the conjunction accomplished in the seeker himself. The flanking text makes the figure a thesis to be read as much as seen.\n\n## For artists\nA textbook 'apotheosis' composition - central glorified figure, symmetrical witnesses, scriptural frame. Reuse it for an ascension cutscene or a final-boss/ally reveal where the character *is* the completed work.",
+   "key_concepts": [
+    "Adam-Androgyne",
+    "filius macrocosmi",
+    "reborn man",
+    "conjunction",
+    "theosophy",
+    "Amphitheatrum"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0036",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 36)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0038",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 38)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0039",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 39)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0040",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 40)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0041",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 41)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0042",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 42)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0044",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 44)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0046",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 46)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0056",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 56)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0061",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 61)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0087",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 87)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0106",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 106)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0118",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 118)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0122",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 122)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0123",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 123)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0124",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 124)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0128",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 128)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0129",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 129)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0130",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 130)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0138",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 138)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0141",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 141)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0142",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 142)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0146",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 146)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0149",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 149)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0150",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 150)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0151",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 151)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0155",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 155)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0156",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 156)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0158",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 158)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0159",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 159)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0160",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 160)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0163",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 163)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0164",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 164)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0166",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 166)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0167",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 167)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0171",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 171)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0173",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 173)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0174",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 174)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0175",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 175)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0176",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 176)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0185",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 185)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0186",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 186)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0189",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 189)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0192",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 192)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0197",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 197)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0198",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 198)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0202",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 202)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0236",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 236)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0241",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 241)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0247",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 247)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0264",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 264)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0276",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 276)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0296",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 296)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0299",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 299)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0302",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 302)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0309",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 309)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0324",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 324)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0328",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 328)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0329",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - letterpress page (seq 329)",
+   "motifs": [
+    "letterpress",
+    "Latin text",
+    "printed page",
+    "Amphitheatrum"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A page of Latin letterpress from Khunrath's *Amphitheatrum Sapientiae Aeternae* - running text of the printed treatise, not one of its engraved plates.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "Latin letterpress",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "khunrath__khunrath-p0332",
+   "work": "Amphitheatrum Sapientiae Aeternae",
+   "creator": "Heinrich Khunrath; engravings after Khunrath's designs (Hamburg/Hanau workshop)",
+   "date": "1595 / 1609",
+   "place": "Hamburg / Hanau",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "repository": "[PLACEHOLDER: per source - Amphitheatrum, 1609]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Bibliotheque interuniversitaire de Sante (BIU Sante) / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/amphitheatrumsap00khun",
+   "figures": [],
+   "citations": [
+    {
+     "text": "Heinrich Khunrath, *Amphitheatrum Sapientiae Aeternae Solius Verae* (Hamburg, 1595; expanded Hanau, 1609)."
+    },
+    {
+     "text": "Peter J. Forshaw, \"Curious Knowledge and Wonder-working Wisdom in the Occult Works of Heinrich Khunrath\" (Ashgate, 2006)."
+    },
+    {
+     "text": "Urszula Szulakowska, *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration* (Brill, 2000)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/amphitheatrumsap00khun"
+    }
+   ],
+   "title": "Amphitheatrum Sapientiae Aeternae - back cover (binding)",
+   "motifs": [
+    "bookbinding",
+    "leather cover",
+    "book object",
+    "early modern printing"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "summary": "A bibliographic leaf - the **back cover (binding)** - of the digitised copy of Khunrath's *Amphitheatrum*. This records the physical book object, not an engraving or a page of the text.",
+   "key_concepts": [
+    "Amphitheatrum",
+    "bookbinding",
+    "Internet Archive scan"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}
