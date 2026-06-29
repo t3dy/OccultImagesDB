@@ -5,9 +5,21 @@
 `github.com/t3dy/OccultImagesDB`; GitHub Pages serves the repo root (root `index.html` redirects to
 `/site/`). Redeploy = commit + `git push origin main` (Pages rebuilds automatically in ~1–2 min).
 
-**Status:** V9 (2026-06-29) — **2,768 catalogued · 2,452 curated illustrations (316 text-pages/junk hidden
-as `tier:page_scan`) · 121 works · 57 topics · ZERO placeholders (every illustration has a curatorial
-essay).** This session: (a) **Hellmouth** medieval gallery added; (b) sourcing — Apuleius/Isis, Symbolist
+**Status:** V9 (2026-06-29) — **2,835 catalogued · 2,562 curated illustrations (text-pages/junk hidden
+as `tier:page_scan`) · 126 works · 57 topics · ZERO placeholders (every illustration has a curatorial
+essay).** Latest wave (7 single-agent sources, all merged): **Flamel** (19), **Golden Dawn** (16), **global
+shamanism** (19 — Siberian drums, Korean musindo, Inuit/NW-Coast regalia), **Gnostic codices** (16 — Pistis
+Sophia, Bruce Codex, Ophite cosmos, Abraxas gems), **magical automata** (18 — brazen head, Talos, Antikythera,
+the Turk, golem), **missing alchemy emblem-books** (22 — Maier Septimana/Viatorium, Pandora, Donum Dei, Aureum
+Vellus, Musaeum Hermeticum, Barchusen, + recovered Libavius *Domus Chymici* & Glauber furnaces), **Valentine's
+Twelve Keys 7–12** (completing the set; Wellcome Merian, CC-BY). Also **removed** two junk text-only works
+(Glauber/Libavius book-scans) and **added TIFF→JPEG transcode** to fetch_commons.py. **SOURCING NOTE:** the
+Commons full-text search API does NOT surface files that live only in categories or inside multi-page PDF/DjVu
+(Crowning of Nature, Cabala Mineralis returned 0 image hits) — a `list=categorymembers` or PDF-page fetcher
+would unlock a further wave. **NEXT (offered, not done):** surface the new domains (shamanism, golden_dawn,
+gnostic_codices, magical_automata, flamel) as homepage categories/topics so they're browsable; backfill
+Wellcome CC-BY repository/rights onto Valentine Keys 1–6. — Earlier this session: (a) **Hellmouth** medieval
+gallery added; (b) sourcing — Apuleius/Isis, Symbolist
 occult, Asian cosmology, Art of Memory, Christian theosophy, wish-list fills (Behenian star-seals, Splendor
 Solis plates, Sola-Busca, Joachim); (c) **full documentation audit** — authored essays for ALL placeholder
 emblem-books (Splendor Solis, Mylius, Stolcius, Hypnerotomachia, Khunrath, Cramer, Aurora, Symbola, Geber,
