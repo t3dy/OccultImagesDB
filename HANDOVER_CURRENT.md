@@ -15,6 +15,17 @@ now auto-caps downloads to a 3500px long edge (`cap_size()`), and a one-time pas
 oversized originals (~2GB saved). `fetch_iiif.py` exists for non-Commons IIIF but **Gallica is Cloudflare-IP-blocked**
 (Boderie diagram + Ilanot scrolls remain queued for a user browser session).
 
+**REPO MANAGEMENT (important):** the published GitHub Pages tree must stay under **1 GB**.
+- `sources_web/` (high-res originals, ~3.5GB) is **gitignored / local-only** — re-sourceable from each item's
+  provenance URL; the site never needs it (it serves the 1200px `site/images/cards` + `data/`). Keep it on
+  disk for `build_catalog`; do NOT re-add to git.
+- Cards are **1200px** (`CARD_MAX` in `build_catalog.py`); `site/images` ≈ 717MB. When it nears ~900MB,
+  lower `CARD_MAX` again and re-derive, OR move images off-repo. `fetch_commons.py` auto-caps source
+  downloads to 3500px (`cap_size()`).
+- **History was squashed to a single commit** (2026-06-28) to reclaim ~3.5GB of large-blob bloat. The remote
+  `.size` may still report ~5GB until GitHub's background GC reclaims the orphaned objects (can take hours/
+  days; harmless — Pages publishes the ~740MB current tree). Local `.git` was `git gc`'d.
+
 **Prior (V6):** 2,143 images · 90 works · 40 topics · 1,239 authored entries. Cards
 show a **brief description** (markdown-stripped summary lede) under each image — `briefDesc()` in
 `site/js/common.js`, always-visible `.mcard-cap` (was hover-only). Recent works added: the 72 Goetia seals,
