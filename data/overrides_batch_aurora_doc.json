@@ -1,0 +1,1273 @@
+{
+ "entries": [
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-012-f-5v-12-sower-57955ac0",
+   "title": "Aurora Consurgens - The Sower (f. 5v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "sower",
+    "seed",
+    "field",
+    "parable",
+    "semina",
+    "tincture",
+    "sowing"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 5v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A sower strides across a field casting seed - the Aurora's image for planting the philosophical 'gold seed' that must die before it bears fruit.\n\n## Iconography\nA standing figure swings one arm to scatter grain from a fold of his garment across furrowed ground. The miniature is painted in the loose, vivid watercolour wash that distinguishes the Zurich codex from later, harder alchemical engraving.\n\n## Significance\nThe Aurora Consurgens reads scripture alchemically: the Gospel parable of the sower becomes the dictum that the *semina* - the seeds of the metals - must be buried, rot, and germinate before the tincture can grow. The sower belongs to the agricultural metaphor that runs through the [[motif:semina|seed]] language of medieval alchemy, where putrefaction is sowing and the multiplied Stone is the harvest. The text is a florilegium of biblical and Hermetic citations once ascribed to Thomas Aquinas.\n\n## For artists & game designers\nA clean visual for a 'plant the seed, wait for the transformation' mechanic - the cost paid now that pays out only after a death-and-rot interval.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "semina (seeds of metals)",
+    "parable of the sower",
+    "fixation",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-016-f-7v-16-lovers-c6792bf1",
+   "title": "Aurora Consurgens - The Lovers / Coniunctio (f. 7v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "coniunctio",
+    "king and queen",
+    "sol and luna",
+    "embrace",
+    "chymical wedding",
+    "union"
+   ],
+   "medium": "manuscript",
+   "figures": [
+    "Sol (the King)",
+    "Luna (the Queen)"
+   ],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 7v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "Two crowned lovers - the solar King and lunar Queen - meet in the embrace that medieval alchemy called the *coniunctio*, the marriage of opposites.\n\n## Iconography\nA male and a female figure, each crowned, stand close in a gesture of union, painted in the codex's quick watercolour hand. Solar and lunar attributes mark them as Sol and Luna, the red and white principles.\n\n## Significance\nThe coniunctio is the pivot of the whole opus: the wedding of [[motif:sol and luna|Sol and Luna]], sulphur and mercury, fixed and volatile, whose union and 'death' in the vessel precede the birth of the Stone. The Aurora is the earliest fully illustrated Latin treatise to give this nuptial allegory pictorial form, anticipating the famous woodcut sequence of the *Rosarium Philosophorum* by more than a century. C. G. Jung drew on the Aurora's imagery in his late work on the *coniunctio*.\n\n## For artists & game designers\nThe royal-couple embrace is the canonical 'fusion of two elements into a third' icon - useful wherever a crafting or relationship system rewards combining opposed inputs.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "coniunctio",
+    "chymical wedding",
+    "Sol and Luna",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-034-f-16v-34-peacock-e2bae7c2",
+   "title": "Aurora Consurgens - The Peacock (f. 16v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "peacock",
+    "cauda pavonis",
+    "iridescence",
+    "colours of the work",
+    "vessel",
+    "transition"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 16v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A peacock - the *cauda pavonis*, 'peacock's tail' - the shimmer of many colours that signals the turning point of the alchemical work.\n\n## Iconography\nA peacock displays its eyed, iridescent plumage, rendered in washes of green, blue and gold typical of the Zurich miniatures.\n\n## Significance\nThe *cauda pavonis* names the moment in the opus when the blackened *nigredo* breaks into a play of fugitive colours before resolving into the white and then the red. To the Aurora's author this iridescence is a sign of life returning to the dead matter in the flask. The peacock became one of the most enduring alchemical emblems, recurring in the Splendor Solis and the Ripley Scrolls. The surrounding text weaves the Song of Songs into a hymn of the rising dawn (*aurora consurgens*).\n\n## For artists & game designers\nPerfect shorthand for a 'phase-shift / something is about to change' visual beat - a burst of rainbow colour as a system passes a threshold.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "cauda pavonis",
+    "peacock's tail",
+    "colour stages",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-002-f-vd-2-conjoined-d05d21c3",
+   "title": "Aurora Consurgens - The Conjoined Figure (f. VD/2)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "conjoined",
+    "double-headed",
+    "hermaphrodite",
+    "rebis",
+    "union of opposites",
+    "two in one"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. VD (binding leaf)",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A conjoined, two-in-one figure from the opening leaves of the Zurich codex - the visual seed of the alchemical *rebis*, the 'two-thing' in which male and female are fused.\n\n## Iconography\nA single body carrying doubled (male and female) attributes, painted in the loose early-15th-century watercolour of the manuscript. The image sits among the codex's preliminary and binding leaves.\n\n## Significance\nThe conjoined or double figure prefigures the [[motif:rebis|rebis]] - the hermaphroditic product of the *coniunctio*, in which the united King and Queen are reborn as a single androgynous body. The Aurora Consurgens, a strange and lyrical treatise once fathered on Thomas Aquinas, is among the first to give this idea sustained pictorial treatment, and it deeply influenced later alchemical iconography and Jung's reading of it.\n\n## For artists & game designers\nThe fused dual-gendered body is the archetypal 'two characters become one entity' design - a vivid base for a merge or fusion result screen.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "rebis",
+    "hermaphrodite",
+    "union of opposites",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-028-f-13v-28-breastfeeding-3f2934b3",
+   "title": "Aurora Consurgens - The Nursing Figure (f. 13v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "nursing",
+    "milk",
+    "lac virginis",
+    "nourishment",
+    "mother",
+    "feeding the stone"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 13v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A figure giving suck - the Aurora's image of the *lac virginis*, the 'virgin's milk' that nourishes the infant Stone.\n\n## Iconography\nA seated female figure nurses a child at the breast, painted in the manuscript's loose watercolour. Milk and feeding are the visual subject.\n\n## Significance\nMedieval alchemy speaks of the *lac virginis*, the milky, mercurial water that feeds and 'raises' the philosophical child after its birth from the coniunctio. The nursing image translates the chemical idea of repeated gentle feeding (imbibition) into a maternal allegory. The Aurora's text steeps the picture in Marian and Song-of-Songs language, fusing devotion and chemistry in a way characteristic of the work.\n\n## For artists & game designers\nA tender counter-image to all the dragons and decapitations - useful for a 'nurture / grow the creature you made' phase after a violent crafting step.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "lac virginis (virgin's milk)",
+    "nourishment of the Stone",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-alchimy-3c39cac4",
+   "title": "Aurora Consurgens - Miniature (Aurora alchimy)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemy",
+    "watercolour miniature",
+    "emblem",
+    "aurora",
+    "dawn",
+    "opus"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A miniature from the Aurora Consurgens cycle, the luminous early-15th-century watercolour treatise once ascribed to Thomas Aquinas.\n\n## Iconography\nOne of the codex's emblematic watercolour scenes, painted in the loose, fast wash that gives the Zurich Aurora its dreamlike, unfinished quality. The exact subject is not specified in the source filename and is described here in general terms to avoid invention.\n\n## Significance\nThe Aurora Consurgens ('Rising Dawn') is among the earliest fully illustrated Latin alchemical texts, a florilegium of biblical, Hermetic and sapiential citations welded into a hymn of the dawning Work. Its strange, vivid pictures - dragons, eclipses, winged figures, kings and queens - form the deepest medieval root of the printed emblem tradition and were a touchstone for C. G. Jung's late alchemical studies.\n\n## For artists & game designers\nA representative Aurora page for mood-board or loading-screen use when a generic 'medieval alchemical manuscript' image is wanted.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "Aurora Consurgens",
+    "alchemical allegory",
+    "watercolour miniature"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-002-f-vd-2-conjoined-cropped-8332e4af",
+   "title": "Aurora Consurgens - The Conjoined Figure, detail (f. VD/2)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "conjoined",
+    "double-headed",
+    "hermaphrodite",
+    "rebis",
+    "union of opposites",
+    "two in one"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. VD (binding leaf), detail",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A cropped detail of the conjoined two-in-one figure from the Zurich Aurora's preliminary leaves - the pictorial germ of the alchemical *rebis*.\n\n## Iconography\nA close view of the doubled (male-female) body, isolating the union of the two principles in a single form. Painted in the codex's quick watercolour wash.\n\n## Significance\nAs a detail it concentrates on the [[motif:rebis|rebis]] idea: the hermaphroditic, twice-natured product of the marriage of Sol and Luna. The Aurora Consurgens is one of the earliest illustrated witnesses to this image, which would become a signature of the later alchemical tradition.\n\n## For artists & game designers\nCropped to the body alone, it works as icon or token art - a compact emblem of fusion.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "rebis",
+    "hermaphrodite",
+    "union of opposites",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-056-f-27v-56-mercury-1a7f3bf5",
+   "title": "Aurora Consurgens - Mercurius (f. 27v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "mercury",
+    "mercurius",
+    "quicksilver",
+    "spiritus",
+    "volatile principle",
+    "serpent"
+   ],
+   "medium": "manuscript",
+   "figures": [
+    "Mercurius"
+   ],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 27v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "An image of Mercurius - the slippery, dual-natured spirit that medieval alchemy made the soul and solvent of the whole Work.\n\n## Iconography\nA figure or emblem of mercury / Mercurius painted in the codex's watercolour wash on folio 27v, in the closing run of the Zurich cycle.\n\n## Significance\nMercurius is the *spiritus* of alchemy: at once the common quicksilver, the philosophical mercury that dissolves and conjoins the metals, and a trickster god-figure who is both poison and medicine. The Aurora treats this volatile principle as the agent that must be fixed and 'killed' to make the Stone. Jung devoted a famous essay ('The Spirit Mercurius') to exactly this ambivalent figure, of which the Aurora is an early witness.\n\n## For artists & game designers\nThe shapeshifting, can't-be-pinned-down spirit is a ready-made trickster NPC or a volatile resource that escapes unless 'fixed'.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "Mercurius",
+    "spiritus",
+    "volatile principle",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-037-f-18r-37-bed-f6591dc8",
+   "title": "Aurora Consurgens - The Bed (f. 18r)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "bed",
+    "death",
+    "putrefaction",
+    "coniunctio",
+    "grave",
+    "sleep of the king"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 18r",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A figure laid on a bed - the Aurora's image of the death and putrefaction in which the wedded principles 'die' before they are reborn.\n\n## Iconography\nA reclining figure on a bed or bier, painted in the loose watercolour of the Zurich codex.\n\n## Significance\nAfter the coniunctio the united King and Queen must die together in the vessel: the bed is at once nuptial couch and grave, the *nigredo* in which matter blackens and rots. This death-as-marriage is one of alchemy's central paradoxes - corruption is the necessary gate to regeneration. The motif recurs across the tradition, from the Aurora to the entombment scenes of the Rosarium.\n\n## For artists & game designers\nThe bed-that-is-a-grave is a strong ambiguous-space design: a place of rest that is also a death/transformation trigger.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "nigredo",
+    "putrefaction",
+    "death of the King",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-041-f-20r-41-hens-a640d8cf",
+   "title": "Aurora Consurgens - The Birds (f. 20r)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "birds",
+    "hens",
+    "ascent and descent",
+    "volatile",
+    "sublimation",
+    "fowl"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 20r",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "Birds - hens or fowl - from the Aurora's bestiary of 'birds of Hermes', the alchemical sign of volatilisation and the spirit that rises and falls in the flask.\n\n## Iconography\nTwo or more birds painted in the codex's quick watercolour on folio 20r.\n\n## Significance\nThroughout alchemy birds figure the volatile principle: the rising bird is sublimation and the spirit ascending, the falling bird is its condensation and return. The repeated ascent and descent of the 'birds of Hermes' is the circulatory distillation that purifies the matter. The Aurora's flocks belong to the same avian symbolism that later produced the black crow, white swan, and red phoenix of the printed treatises.\n\n## For artists & game designers\nRising/falling birds are an elegant loop motif - ideal for a process that must repeat (distil, condense, distil) before it completes.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "volatilisation",
+    "ascent and descent",
+    "birds of Hermes",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-050-f-24v-50-digger-32b5bcd8",
+   "title": "Aurora Consurgens - The Digger (f. 24v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "digger",
+    "spade",
+    "earth",
+    "mining",
+    "interiora terrae",
+    "buried gold"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 24v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A labourer digging - the Aurora's image of the descent into the earth to find the hidden stone, the *interiora terrae* of the alchemical motto.\n\n## Iconography\nA figure works the ground with a spade, painted in the manuscript's loose watercolour on folio 24v.\n\n## Significance\nDigging dramatises the famous injunction *Visita Interiora Terrae Rectificando Invenies Occultum Lapidem* - 'visit the interior of the earth; by rectifying you will find the hidden stone.' The buried gold is both literal ore and the latent perfection to be coaxed from base matter. The Aurora frames this labour in scriptural terms of seeking treasure hid in a field.\n\n## For artists & game designers\nPure 'dig here for the hidden thing' iconography - a natural fit for an excavation or buried-loot mechanic.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "V.I.T.R.I.O.L.",
+    "buried matter",
+    "the inner earth",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-036-f-17v-36-boilingpot-f6160ee9",
+   "title": "Aurora Consurgens - The Boiling Pot (f. 17v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "boiling pot",
+    "vessel",
+    "decoction",
+    "fire",
+    "coction",
+    "cooking the stone"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 17v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A pot set boiling - the Aurora's plain emblem of *coction*, the slow cooking in which the matter is digested toward the Stone.\n\n## Iconography\nA cooking vessel or pot over heat, contents seething, painted in the codex's watercolour on folio 17v.\n\n## Significance\nCoction - patient, regulated boiling - is the engine of the alchemical opus: the matter is 'cooked' in the sealed vessel until it changes colour and nature. The cooking-pot image keeps the work close to the kitchen and the hearth, a homely register the Aurora shares with much practical alchemy. Repeated decoction drives the cycle of colours toward the red.\n\n## For artists & game designers\nA literal cook-pot - drop-in art for any brewing, smelting, or crafting station with a heat/time gauge.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "coction",
+    "decoction",
+    "the vessel",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-073-f-36r-73-dragon-ground-8211db27",
+   "title": "Aurora Consurgens - The Earthbound Dragon (f. 36r)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "dragon",
+    "earth",
+    "prima materia",
+    "nigredo",
+    "serpent",
+    "wingless dragon"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 36r",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A dragon on the ground - the Aurora's earthbound, wingless dragon, sign of the fixed, base matter at the dark start of the Work.\n\n## Iconography\nA dragon crouched low on the earth, painted in the codex's loose watercolour on folio 36r in the closing run of the cycle.\n\n## Significance\nAlchemy distinguishes the winged (volatile) from the wingless (fixed) dragon. The earthbound dragon is the heavy, fixed body - the [[motif:prima materia|prima materia]] in its dark, poisonous state, the *nigredo* that must be tamed. The Aurora's dragons are among the most striking in medieval alchemical art and helped fix the dragon as the tradition's emblem of raw, dangerous first matter.\n\n## For artists & game designers\nA grounded, heavy dragon reads instantly as 'base / fixed / not yet refined' - the before state to a later winged or crowned form.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "dragon",
+    "prima materia",
+    "nigredo",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-069-f-34r-69-chimera-pot-a0a46c34",
+   "title": "Aurora Consurgens - The Chimera in the Vessel (f. 34r)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "chimera",
+    "vessel",
+    "composite beast",
+    "mixture",
+    "monster in the flask",
+    "conjunction"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 34r",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A composite beast in a vessel - the Aurora's image of the mingled, monstrous matter contained within the alchemical flask.\n\n## Iconography\nA chimerical, many-natured creature set within or above a pot, painted in the manuscript's watercolour on folio 34r.\n\n## Significance\nThe composite monster figures *mixtio*: the unstable union of contrary natures sealed in the vessel, neither one thing nor another until the Work resolves it. Such hybrid creatures populate alchemical imagery to show matter caught mid-transformation. The Aurora's containment of the beast in a pot ties the monstrous mixture to the literal apparatus of the laboratory.\n\n## For artists & game designers\nA monster trapped in a jar is a vivid 'unstable creation' visual - useful for a containment, summoning, or failed-craft beat.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "composite matter",
+    "the vessel",
+    "mixtio",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-022-f-10v-22-sun-and-moon-7fa0e44d",
+   "title": "Aurora Consurgens - Sun and Moon (f. 10v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "sun",
+    "moon",
+    "sol and luna",
+    "eclipse",
+    "gold and silver",
+    "luminaries"
+   ],
+   "medium": "manuscript",
+   "figures": [
+    "Sol",
+    "Luna"
+   ],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 10v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "The Sun and Moon together - Sol and Luna, gold and silver, the two luminaries whose union and opposition govern the whole alchemical Work.\n\n## Iconography\nPersonified or emblematic sun and moon share the folio, painted in the codex's watercolour on f. 10v.\n\n## Significance\nSol and Luna are alchemy's master pair: the Sun is gold, fixed, hot, the male sulphur; the Moon is silver, volatile, cold, the female mercury. Their wedding makes the Stone and their eclipse marks its death. The Aurora Consurgens is one of the earliest illustrated works to set the luminaries at the centre of the opus, a scheme that the Rosarium and Splendor Solis would make canonical.\n\n## For artists & game designers\nThe paired sun/moon is the cleanest 'two opposed powers in balance' emblem - a faction, resource, or day/night duality icon.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "Sol and Luna",
+    "gold and silver",
+    "the two luminaries",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-by-nicola-d-antonio-degli-agli-a8e7c53b",
+   "title": "Aurora Consurgens - Miniature (Nicolo d'Antonio degli Agli copy)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "aurora",
+    "manuscript copy",
+    "watercolour",
+    "scribe",
+    "illumination",
+    "emblem"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "[PLACEHOLDER: per source]",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A miniature of the Aurora Consurgens associated by its filename with the scribe-illuminator Nicolo d'Antonio degli Agli - a witness to how the cycle was copied and recopied.\n\n## Iconography\nAn Aurora miniature in watercolour. The source file names Nicolo d'Antonio degli Agli, a 15th-century Italian scribe-illuminator linked to copies of the text; the specific subject and holding repository for this image are not certain from the source.\n\n## Significance\nThe Aurora Consurgens survives in several illustrated manuscripts of varying quality, of which the Zurich Rh. 172 is the most celebrated. Naming a copyist underlines that this was a living, transmitted picture-cycle, not a single fixed object - each copy adapting the dragons, luminaries and royal figures in its own hand.\n\n## For artists & game designers\nA reminder for world-building that important picture-texts exist in variant 'editions' - useful flavour for a lore item that has several differing copies.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "Aurora Consurgens",
+    "manuscript transmission",
+    "illumination"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-028-f-14v-30-medicinal-030a8d56",
+   "title": "Aurora Consurgens - The Medicine (f. 14v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "medicine",
+    "elixir",
+    "panacea",
+    "healing",
+    "tincture",
+    "universal remedy"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 14v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A medicinal scene - the Aurora's image of the Stone as *medicina*, the elixir that heals metals and bodies alike.\n\n## Iconography\nA figure preparing, administering or holding a remedy, painted in the codex's watercolour on folio 14v.\n\n## Significance\nFor the Aurora the Philosophers' Stone is above all a medicine: the *elixir* and *panacea* that perfects imperfect metals to gold and, by extension, cures the diseased body. This medical register links alchemy to the later iatrochemistry of Paracelsus. The Aurora's blending of healing, scripture and chemistry is exactly the devotional-medical voice that made it so influential and so strange.\n\n## For artists & game designers\nA clean 'the thing you make is also a cure' beat - ties a crafting payoff to a healing item.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "elixir",
+    "panacea",
+    "the Stone as medicine",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-040-f19v-40-viscus-b4e68d63",
+   "title": "Aurora Consurgens - The Viscera (f. 19v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "viscera",
+    "entrails",
+    "interior",
+    "dissection",
+    "inner matter",
+    "body"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 19v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A visceral image - the Aurora's confronting picture of the inner matter laid open, the *interiora* of body and earth.\n\n## Iconography\nA figure or body shown with its viscera / inner parts exposed, painted in the manuscript's loose watercolour on folio 19v.\n\n## Significance\nAlchemy repeatedly opens the body - of king, dragon or man - to reach the hidden seed within: dismemberment and the exposure of the *interiora* are stages on the way to the cleansed essence. The image rhymes with the digger's *interiora terrae*: one must go inside, whether earth or flesh, to recover the buried perfection. The Aurora's frankness here is part of its raw, dreamlike power.\n\n## For artists & game designers\nA grisly 'open it up to get what's inside' visual - fits a harvesting or extraction mechanic with a transgressive edge.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "interiora",
+    "the inner matter",
+    "dismemberment",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-044-f-21v-44-dragon-pot-65b74ade",
+   "title": "Aurora Consurgens - The Dragon in the Pot (f. 21v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "dragon",
+    "vessel",
+    "pot",
+    "containment",
+    "poison",
+    "fixed matter"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 21v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A dragon confined in a pot - the Aurora's image of the dangerous matter sealed and tamed within the alchemical vessel.\n\n## Iconography\nA dragon set within or rising from a cooking-pot or flask, painted in the codex's watercolour on folio 21v.\n\n## Significance\nSealing the dragon in the vessel dramatises the central laboratory act: the volatile, poisonous spirit must be enclosed in the hermetically stopped flask so it can be cooked, killed and fixed without escaping. The dragon is both venom and the source of the medicine - the poison that, mastered, becomes the cure. The Aurora's pot-dragons are among the earliest examples of this enduring image.\n\n## For artists & game designers\nA monster sealed in a container under heat is a complete 'contain and transform the dangerous resource' mechanic in one picture.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "dragon",
+    "the sealed vessel",
+    "poison and cure",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-052-f-25v-52-craftsmen-aa8a8c99",
+   "title": "Aurora Consurgens - The Craftsmen (f. 25v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "craftsmen",
+    "artisans",
+    "labour",
+    "workshop",
+    "tools",
+    "the work"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 25v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "Craftsmen at work - the Aurora's image of the *artifex*, the human artisans whose patient labour cooperates with nature to make the Stone.\n\n## Iconography\nTwo or more workers handling tools or materials, painted in the codex's watercolour on folio 25v.\n\n## Significance\nAlchemy styled itself the perfecting of nature by art: the *artifex* does not create the Stone but helps nature finish what she began. Picturing ordinary craftsmen grounds the lofty allegory in real labour - hammering, tending fire, watching the vessel. The Aurora's mixture of high scriptural rhetoric and humble workshop scenes is one of its distinctive notes.\n\n## For artists & game designers\nA workshop crew is direct reference for a crafting-station scene or an NPC artisan guild.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "the artifex",
+    "alchemical labour",
+    "workshop",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-048-f-23v-48-firebird-ce0d211f",
+   "title": "Aurora Consurgens - The Firebird / Phoenix (f. 23v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "phoenix",
+    "firebird",
+    "rebirth",
+    "rubedo",
+    "flames",
+    "resurrection"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 23v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A bird in flames - the phoenix or firebird, the Aurora's emblem of the resurrection that crowns the Work in red.\n\n## Iconography\nA bird amid fire, painted in the codex's watercolour on folio 23v.\n\n## Significance\nThe phoenix that burns and is reborn from its own ashes is alchemy's supreme image of the *rubedo*, the reddening in which the dead matter rises perfected as the Stone. It answers the black crow of the *nigredo* and the white swan of the *albedo*. The Aurora places this fiery rebirth near the climax of its cycle, scripture and chemistry fused in the language of the rising dawn the work is named for.\n\n## For artists & game designers\nThe classic burn-and-rise-again icon - a respawn, revive, or final-evolution visual.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "phoenix",
+    "rubedo",
+    "resurrection",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-023-f-11r-23-zodiac-670b507c",
+   "title": "Aurora Consurgens - The Zodiac (f. 11r)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "zodiac",
+    "planets",
+    "astrology",
+    "correspondence",
+    "heavens",
+    "celestial influence"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 11r",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A zodiacal / celestial scheme - the Aurora binding the alchemical Work to the wheel of the heavens.\n\n## Iconography\nA diagram or scene of zodiac signs and/or planets, painted in the codex's watercolour on folio 11r.\n\n## Significance\nMedieval alchemy is astrological through and through: each metal answers to a planet (gold-Sun, silver-Moon, lead-Saturn, and so on), and the timing and 'influences' of the heavens govern the operations below. The zodiac image declares the doctrine of correspondence - as above, so below - that knits the Aurora's chemistry to the cosmos. This celestial framing is fundamental to the whole emblem tradition.\n\n## For artists & game designers\nA zodiac wheel is ready-made for a calendar, timing, or planetary-buff system tied to in-world dates.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "astrological correspondence",
+    "planet-metals",
+    "the heavens",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-046-f-22v-46-skyswimmers-4d507ddf",
+   "title": "Aurora Consurgens - The Sky-Swimmers (f. 22v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "sky",
+    "swimmers",
+    "ascent",
+    "floating figures",
+    "volatile spirit",
+    "heavens"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 22v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "Figures that seem to swim through the air - the Aurora's dreamlike image of the spirit ascending, matter made volatile and rising.\n\n## Iconography\nHuman figures suspended or 'swimming' in an open sky or upper space, painted in the codex's loose watercolour on folio 22v.\n\n## Significance\nThe ascent of figures into the heavens pictures sublimation and volatilisation - the freeing of the subtle spirit from the gross body so it can rise, be purified, and descend again refined. The Aurora's surreal, weightless compositions are among the reasons modern viewers (and Jung) found the manuscript so suggestive of the dreaming, unconscious mind.\n\n## For artists & game designers\nFloating, swimming-in-air figures give an instant 'ascension / out-of-body / spirit-realm' register for a transition or vision sequence.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "ascent of the spirit",
+    "volatilisation",
+    "sublimation",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-055-f-27r-55-city-047ad751",
+   "title": "Aurora Consurgens - The City (f. 27r)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "city",
+    "walls",
+    "towers",
+    "heavenly jerusalem",
+    "the goal",
+    "architecture"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 27r",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A walled city - the Aurora's image of the goal: the heavenly city, the perfected end toward which the whole Work builds.\n\n## Iconography\nA towered, walled city, painted in the codex's watercolour on folio 27r near the close of the cycle.\n\n## Significance\nThe city, often read as the heavenly Jerusalem, gives the opus an architectural telos: the scattered, purified matter is gathered into a single perfected structure, just as the soul is gathered into the city of God. The Aurora's saturation in scripture makes this overlay of spiritual and chemical fulfilment especially explicit. Building imagery recurs across alchemy as a figure for the assembled, completed Stone.\n\n## For artists & game designers\nA shining walled city is the universal 'you have reached the goal' image - an endgame location or victory screen.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "heavenly city",
+    "the perfected goal",
+    "architecture of the Work",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-042-f-20v-42-dragon-ring-741bb985",
+   "title": "Aurora Consurgens - The Dragon Ring / Ouroboros (f. 20v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "dragon",
+    "ouroboros",
+    "ring",
+    "circle",
+    "self-devouring",
+    "unity"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 20v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A dragon curled into a ring - the Aurora's ouroboros, the self-devouring serpent that signs the unity and endless circulation of the Work.\n\n## Iconography\nA dragon bent into a closed circle, tail toward mouth, painted in the codex's watercolour on folio 20v.\n\n## Significance\nThe [[motif:ouroboros|ouroboros]] - *hen to pan*, 'the all is one' - is the oldest alchemical sign, the serpent eating its tail to figure a process with no beginning or end, in which the matter continually feeds and renews itself. The Aurora's ring-dragon places this ancient emblem inside the medieval opus, where it stands for the circular distillations and the final unity of the perfected substance.\n\n## For artists & game designers\nA dragon biting its own tail is the definitive 'closed loop / eternal cycle' emblem - perfect for a circular UI, an infinite-resource sigil, or a time-loop motif.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "ouroboros",
+    "circular work",
+    "unity of matter",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-003-f-1r-3-monkey-eabb2399",
+   "title": "Aurora Consurgens - The Ape (f. 1r)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "ape",
+    "monkey",
+    "imitation",
+    "ars simia naturae",
+    "mimicry",
+    "folly"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 1r",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "An ape - the Aurora's wry emblem of *ars simia naturae*, 'art the ape of nature': alchemy imitating, and sometimes only aping, what nature does.\n\n## Iconography\nA monkey or ape, painted in the codex's watercolour on the opening folio (1r).\n\n## Significance\nThe proverb *ars simia naturae* casts the alchemist's art as an imitator of nature - at best a faithful collaborator, at worst a foolish mimic producing false gold. Placing the ape near the very start of the cycle frames the whole Work with this self-aware tension between true transmutation and mere imitation. The motif had wide currency in medieval and Renaissance thought about art and craft.\n\n## For artists & game designers\nAn ape can be a sly antagonist or trickster signalling 'counterfeit / imitation' - e.g. a fake-craft or forgery mechanic.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "ars simia naturae",
+    "imitation of nature",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-007-f-3r-7-building-929d6153",
+   "title": "Aurora Consurgens - The Building (f. 3r)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "building",
+    "architecture",
+    "construction",
+    "temple",
+    "edifice",
+    "walls"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 3r",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A building or edifice - the Aurora using architecture as a figure for the constructed, stage-by-stage assembly of the Work.\n\n## Iconography\nA structure - house, tower or temple - painted in the codex's watercolour on folio 3r.\n\n## Significance\nAlchemy borrows the language of building: the opus is raised like a house, foundation to roof, each operation a course of stones. The edifice anticipates the walled city later in the cycle, both standing for the gathered, completed Stone and (in scriptural register) the temple or city of God. The Aurora's recurrent architecture knits its chemistry to a spiritual programme of construction and perfection.\n\n## For artists & game designers\nA building-in-progress is a natural 'base-building / construction stage' visual cue, pairing with the city image as a completion state.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "architecture of the opus",
+    "construction",
+    "the temple",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-blackangel-dddc9323",
+   "title": "Aurora Consurgens - The Dark Angel",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "angel",
+    "dark",
+    "nigredo",
+    "spirit",
+    "winged figure",
+    "shadow"
+   ],
+   "medium": "manuscript",
+   "figures": [
+    "angel"
+   ],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "[PLACEHOLDER: per source]",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A dark, winged figure - the Aurora's 'black angel', a spirit of the shadowed, *nigredo* phase of the Work.\n\n## Iconography\nA winged angelic figure rendered dark, painted in the codex's watercolour. The exact folio is not recorded in the source filename and is left general here.\n\n## Significance\nWinged spirits in the Aurora carry the volatile, animating principle, and a darkened angel reads as the spirit presiding over the *nigredo* - the black, dying phase from which the white and red must rise. The Aurora's haunting, ambiguous angels are among the images that drew Jung to read the manuscript as a window onto the unconscious.\n\n## For artists & game designers\nA dark winged spirit is an evocative 'shadow guardian of the lowest stage' - a boss or psychopomp for a descent sequence.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "nigredo",
+    "spirit of the work",
+    "dark angel",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-026-f-12v-26-scales-1d34456a",
+   "title": "Aurora Consurgens - The Scales (f. 12v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "scales",
+    "balance",
+    "weighing",
+    "measure",
+    "proportion",
+    "justice"
+   ],
+   "medium": "manuscript",
+   "figures": [],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 12v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A balance - the Aurora's emblem of measure and proportion, the exact 'weights' on which the alchemical Work depends.\n\n## Iconography\nA set of scales, pans hanging from a beam, painted in the codex's watercolour on folio 12v.\n\n## Significance\n'Everything by weight, number and measure' (Wisdom 11:21) is a favourite alchemical maxim: the opus succeeds only if the proportions of the ingredients and the degrees of fire are precisely balanced. The scales also carry the moral and cosmic sense of justice and equilibrium. The Aurora, steeped in the sapiential books of scripture, naturally reaches for the balance as a sign of right measure.\n\n## For artists & game designers\nA balance is a clean 'get the proportions right' or 'judgement / morality weight' mechanic - weigh inputs, weigh deeds.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "balance and proportion",
+    "weights and measures",
+    "measure of the work",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "aurora_consurgens__aurora-consurgens-zurich-060-f-29v-60-darkangel-8581220b",
+   "title": "Aurora Consurgens - The Dark Angel (f. 29v)",
+   "work": "Aurora Consurgens",
+   "creator": "Anonymous (pseudo-Thomas Aquinas)",
+   "date": "c. 1420 (manuscript)",
+   "place": "Zurich",
+   "era": "medieval",
+   "tradition": "alchemy",
+   "motifs": [
+    "angel",
+    "dark",
+    "nigredo",
+    "winged figure",
+    "spirit",
+    "shadow"
+   ],
+   "medium": "manuscript",
+   "figures": [
+    "angel"
+   ],
+   "repository": "Zentralbibliothek Zurich",
+   "shelfmark": "Ms. Rh. 172, f. 29v",
+   "iconclass": [],
+   "rights": "Public domain. Zentralbibliothek Zurich, Ms. Rh. 172 (e-codices).",
+   "provenance_url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172",
+   "summary": "A dark winged figure near the close of the Zurich cycle - a 'dark angel' presiding over the shadowed phase of the Work.\n\n## Iconography\nA darkened angelic figure with wings, painted in the codex's watercolour on folio 29v.\n\n## Significance\nThe Aurora's winged spirits embody the volatile, animating principle of the opus; a darkened angel reads as the spirit of the *nigredo*, the black, dissolving phase that precedes purification. These strange, brooding figures are central to the manuscript's dreamlike atmosphere and to the modern psychological readings (notably Jung's) that the Aurora invited.\n\n## For artists & game designers\nA brooding dark angel is strong art for a guardian, harbinger, or boss tied to a story's lowest, darkest turn.",
+   "citations": [
+    {
+     "text": "Marie-Louise von Franz, *Aurora Consurgens: A Document Attributed to Thomas Aquinas on the Problem of Opposites in Alchemy* (1966)."
+    },
+    {
+     "text": "Zentralbibliothek Zurich, Ms. Rh. 172",
+     "url": "https://www.e-codices.unifr.ch/en/list/one/zbz/Ms-Rh-0172"
+    }
+   ],
+   "key_concepts": [
+    "nigredo",
+    "winged spirit",
+    "dark angel",
+    "Aurora Consurgens"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

@@ -1,0 +1,1506 @@
+{
+ "entries": [
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0000",
+   "title": "Symbola Aureae Mensae — Engraved Title-Page (Twelve Nations)",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier (engraving: Lucas Jennis workshop, Frankfurt)",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "title page",
+    "twelve adepts",
+    "portrait medallions",
+    "engraving",
+    "alchemical genealogy",
+    "hermes trismegistus"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Hermes Trismegistus",
+    "Maria the Jewess (Mary the Prophetess)",
+    "Avicenna",
+    "Albertus Magnus",
+    "Arnold of Villanova",
+    "Thomas Aquinas",
+    "Roger Bacon",
+    "Raymond Lull",
+    "Melchior Cibinensis",
+    "Anselmus de Boodt"
+   ],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "The engraved title-page of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617) — the gateway to Maier's congress of the twelve alchemical adepts of twelve nations.\n\n## Iconography\nA dense ornamental border of twelve oval portrait medallions, each labelled with a nation and an adept, surrounds a central letterpress cartouche carrying the long Latin title. The medallions run the gamut of the legendary chain of the art — Egypt's Hermes, the Hebrew Maria, the Arab Avicenna, the German Albertus Magnus, the Italian Thomas Aquinas, the English Roger Bacon, the Spanish Arnold and Lull, the Hungarian Melchior, and others — each a bust in costume of his country. The lower imprint names Maier (Imperial Count Palatine and physician), Frankfurt, and the year M.DC.XVII.\n\n## Significance\nMaier here builds a visual genealogy of [[motif:alchemy|alchemy]] as a *prisca sapientia* handed down through twelve nations, a 'golden table' (mensa aurea) at which the adepts of all peoples are seated as equals. The conceit — chymistry as a universal inheritance rather than a single tradition — is central to Maier's Rosicrucian-leaning programme of the 1610s. The plate has long been reproduced as the emblem of Maier's encyclopaedic ambition; it is discussed in the standard literature on Maier by H. M. E. de Jong and Karin Figala.\n\n## For artists & game designers\nA perfect 'character-select' frame: twelve labelled portrait slots around a title cartouche. Reuse the device as a roster screen of master NPCs, each medallion a clickable adept.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "H. M. E. de Jong / Karin Figala, studies on Michael Maier (20th c.)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "twelve nations",
+    "alchemical genealogy",
+    "prisca sapientia",
+    "Michael Maier",
+    "title page"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0025",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__hermesmage-b1c6c028",
+   "title": "Hermes Trismegistus with the Armillary Sphere (Egyptian Adept)",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier (engraving: Lucas Jennis workshop, Frankfurt)",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "hermes trismegistus",
+    "armillary sphere",
+    "sol and luna",
+    "as above so below",
+    "emblem",
+    "egyptian adept"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Hermes Trismegistus"
+   ],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "An emblematic engraving of **Hermes Trismegistus** as the Egyptian founder of the art, from Maier's *Symbola Aureae Mensae* (1617) — the chapter-plate for the first of the twelve nations.\n\n## Iconography\nA robed, mitred sage stands at left in a landscape before a distant walled city, holding aloft an armillary sphere in his right hand and gesturing with his left toward two radiant heads at right: an upper flaming face crowned in sun-rays (Sol) and a lower face wreathed in fire (Luna / the fixed earth). The contrast of the two luminary heads against the philosopher's measured gesture stages the union of above and below.\n\n## Significance\nThe image literalises the opening of the *Tabula Smaragdina* (Emerald Tablet) attributed to Hermes: 'That which is above is as that which is below.' Hermes the armillary-bearing astronomer-priest mediates between the celestial Sol and the terrestrial fire, the master-key of Maier's whole scheme of [[motif:hermes trismegistus|Hermetic]] descent. As the Egyptian adept he heads the twelve-nation procession. The plate circulates widely in reproductions of seventeenth-century alchemical iconography (cf. Klossowski de Rola, *The Golden Game*).\n\n## For artists & game designers\nA clean 'archmage' silhouette — robed figure with a glowing orb, addressing two elemental faces. Reuse as a spellcaster portrait or as the framing host of a Hermetic tutorial.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "H. M. E. de Jong / Karin Figala, studies on Michael Maier (20th c.)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Hermes Trismegistus",
+    "Emerald Tablet",
+    "as above so below",
+    "armillary sphere",
+    "twelve nations"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__m-maier-symbola-aureae-mensae-melchior-cibinensis-f44d49de",
+   "title": "The Alchemical Mass of Melchior Cibinensis (Hungarian Adept)",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier (engraving: Lucas Jennis workshop, Frankfurt)",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "alchemical mass",
+    "priest at altar",
+    "virgin and child",
+    "sun disc",
+    "emblem",
+    "hungarian adept"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Melchior Cibinensis",
+    "Virgin Mary",
+    "Christ Child"
+   ],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "An emblematic engraving illustrating the *Mass* of **Nicholas Melchior Cibinensis**, the Hungarian (Transylvanian) adept among Maier's twelve nations, from the *Symbola Aureae Mensae* (1617).\n\n## Iconography\nWithin a tiled, columned chapel a vested priest kneels at an altar bearing a lit candle, his arms raised in prayer. At left, suspended in a flaming sun-disc, a seated woman cradles an infant — a Virgin-and-Child enclosed in a roundel of radiance, hovering as a vision before the celebrant.\n\n## Significance\nMelchior of Hermannstadt (Sibiu) cast the Great Work as a liturgy: his celebrated *Addam et processum sub forma missae* maps the stages of the [[motif:alchemy|opus]] onto the Mass. Maier's plate renders that conceit — the alchemist as priest, the philosophers' child (the Stone, the *filius philosophorum*) revealed in glory like the Christ Child in the host. The fusion of Eucharistic and chymical imagery is a textbook case of alchemy's appropriation of sacred ritual, much discussed in the scholarship on religion and alchemy.\n\n## For artists & game designers\nA striking 'sacred ritual' tableau: a kneeling celebrant and a glowing apparition in a disc of fire. Reuse as an altar-room set-piece or the climactic vision of a transmutation quest.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "H. M. E. de Jong / Karin Figala, studies on Michael Maier (20th c.)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Melchior Cibinensis",
+    "alchemical mass",
+    "filius philosophorum",
+    "Hungarian adept",
+    "ritual alchemy"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0050",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0075",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0100",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0125",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0150",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0175",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0200",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0225",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0250",
+   "title": "Aquila Volans per Aerem — The Flying Eagle and the Toad (Spanish/Arab Adept)",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier (engraving: Lucas Jennis workshop, Frankfurt)",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "eagle",
+    "toad",
+    "volatile and fixed",
+    "adept portrait",
+    "emblem",
+    "magisterium"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Avicenna"
+   ],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A chapter emblem from Maier's *Symbola Aureae Mensae* (1617) carrying the motto *AQVILA VOLANS PER AEREM ET BVFO gradiens per terram est Magisterium* — 'the eagle flying through the air and the toad creeping on the earth are the Magistery.'\n\n## Iconography\nA robed, turbaned adept (the Arab/Spanish master, glossed in the text toward Avicenna) stands at left holding a book; a chain runs from his hand up to a great eagle taking flight at right, while below on the ground a toad squats, tethered to the same scheme, against a distant town and harbour.\n\n## Significance\nThe paired eagle and toad are the standing alchemical cipher for the **volatile** and the **fixed** — spirit that rises and body that sinks — whose binding-together (the chain) constitutes the whole [[motif:alchemy|Magistery]]. The image belongs to Maier's Spanish/Arab chapter and condenses the *solve et coagula* rhythm into a single heraldic pairing, a device repeated across early-modern alchemical emblem-books.\n\n## For artists & game designers\nAn instantly readable 'volatile vs. fixed' icon-pair: soaring eagle and earthbound toad linked by a chain. Reuse as a duality emblem, a balance mechanic, or paired summon sprites.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "H. M. E. de Jong / Karin Figala, studies on Michael Maier (20th c.)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "eagle and toad",
+    "volatile and fixed",
+    "solve et coagula",
+    "Magisterium",
+    "Avicenna"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0275",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0300",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0325",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0350",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__m-maier-symbola-aureae-mensae-1617-9cb3c360",
+   "title": "Symbola Aureae Mensae — Engraved Title-Page (clean impression)",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier (engraving: Lucas Jennis workshop, Frankfurt)",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "title page",
+    "twelve adepts",
+    "portrait medallions",
+    "engraving",
+    "alchemical genealogy",
+    "emblem"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Hermes Trismegistus",
+    "Maria the Jewess (Mary the Prophetess)",
+    "Avicenna",
+    "Albertus Magnus",
+    "Thomas Aquinas",
+    "Roger Bacon",
+    "Raymond Lull",
+    "Arnold of Villanova",
+    "Melchior Cibinensis"
+   ],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A clean impression of the engraved title-page of the *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt, 1617), showing the twelve-medallion border in sharper detail than the library copy.\n\n## Iconography\nTwelve oval portrait medallions of the adepts of twelve nations frame a central title cartouche; each bust is captioned with its nation and master — Egypt's Hermes at top, the Hebrew Maria, the Arab Avicenna, the German Albertus, the Italian Thomas, the English Bacon, the Spanish Lull and Arnold, the Hungarian Melchior, and the rest — with Maier's imprint below.\n\n## Significance\nThe same programmatic frontispiece as the library copy (see plate 0): a visual genealogy of [[motif:alchemy|alchemy]] as universal *prisca sapientia*, the 'golden table' of the twelve nations. This brighter impression is the version most often reproduced in surveys of Maier's iconography.\n\n## For artists & game designers\nUse as a high-contrast reference for the twelve-portrait roster device; the legible captions make it a ready template for a labelled character grid.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "H. M. E. de Jong / Karin Figala, studies on Michael Maier (20th c.)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "twelve nations",
+    "title page",
+    "alchemical genealogy",
+    "Michael Maier",
+    "prisca sapientia"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0375",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0400",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0425",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0450",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0475",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0500",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0525",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0550",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0575",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0600",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0625",
+   "title": "Saturnus Humectat Terram — Saturn Watering the Garden of Sol and Luna (Northern Adept)",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier (engraving: Lucas Jennis workshop, Frankfurt)",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "saturn",
+    "alchemical garden",
+    "sol flowers",
+    "watering",
+    "emblem",
+    "sarmatian adept"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Saturn"
+   ],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A chapter emblem from Maier's *Symbola Aureae Mensae* (1617) under the motto *SATVRNVS HVMECTAT TERRAM portantem Solis flores et Lunam* — 'Saturn moistens the earth that bears the flowers of the Sun and the Moon.'\n\n## Iconography\nIn a walled orchard a grave, mantled old man (Saturn) stands at left with arms folded; at right a stooping gardener tends the ground, drawing water to a plot of trees and flowering plants — the garden whose blossoms are Sol and whose fruit is Luna.\n\n## Significance\nSaturn — leaden, cold, the planet of *nigredo* and putrefaction — is here the necessary irrigator: his moisture quickens the alchemical garden so the solar and lunar 'flowers' (gold and silver, the [[motif:sol and luna|Sol and Luna]] of the Work) may grow. The plate belongs to the Sarmatian / Northern chapter associated with the cryptonym *Heliocantharus Borealis* (read as Michael Sendivogius), whose botanical metaphor of the seed of metals Maier prized. The garden-of-the-philosophers conceit recurs throughout the *Rosarium* and *Atalanta* traditions.\n\n## For artists & game designers\nA melancholy 'cultivation' scene: a leaden elder presiding over a tended garden of solar and lunar blooms. Reuse for a growth/decay mechanic or a Saturnine garden level.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "H. M. E. de Jong / Karin Figala, studies on Michael Maier (20th c.)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Saturn",
+    "alchemical garden",
+    "Sol and Luna",
+    "Sendivogius",
+    "seed of metals"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0650",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__bub-gb-t-8u09s5aj8c-p0675",
+   "title": "*Symbola Aureae Mensae* — Letterpress Text Page",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "letterpress",
+    "latin text",
+    "printed book",
+    "page scan"
+   ],
+   "medium": "print",
+   "tier": "page_scan",
+   "figures": [],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A letterpress text leaf of Michael Maier's *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis for Anton Hummel, 1617). This is a page of the running Latin discourse, not an engraved emblem.\n\n## Iconography\nSet Latin type in the book's roman and italic founts, headed by a running title and page number; some such pages carry a small woodcut printer's ornament or a historiated initial, but no alchemical scene. Recorded honestly as a page of text from the surviving copy.\n\n## Significance\nThe *Symbola* is overwhelmingly a book of argument — Maier's defence of *Chemia* through the testimony of twelve nations — punctuated by a small number of engraved emblems. The text pages carry that defence; the few illustrated plates (the twelve-nation title-page and the chapter emblems of Hermes, Melchior, the eagle-and-toad, and Saturn's garden) are catalogued separately.\n\n## For artists & game designers\nA clean early-modern Latin page is serviceable as a background texture, a readable-prop, or a grimoire page for set-dressing.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Symbola Aureae Mensae",
+    "Michael Maier",
+    "letterpress page",
+    "twelve nations",
+    "page scan"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__m-maier-symbola-aureae-1617-wellcome-l0022783-b118d883",
+   "title": "Symbola Aureae Mensae — Title-Page (left medallions, detail)",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier (engraving: Lucas Jennis workshop, Frankfurt)",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "title page detail",
+    "portrait medallions",
+    "melchior cibinensis",
+    "engraving",
+    "twelve adepts",
+    "emblem"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Melchior Cibinensis",
+    "Hermes Trismegistus"
+   ],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Wellcome Collection / Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "A detail of the engraved title-page of the *Symbola Aureae Mensae* (1617), cropped to the left-hand column of portrait medallions — corresponding to the Wellcome Collection reference image L0022783.\n\n## Iconography\nFour oval medallions of the border are shown at larger scale: among them the Hungarian adept MELCHIOR and the heading toward HERMES at top right, each bust captioned with nation and name, beside the upper-left portion of the central Latin title cartouche.\n\n## Significance\nA close view of the same twelve-nation frontispiece (see plate 0), useful for reading the individual captions and costumes of the adepts. It documents how Maier individuated each national master by dress and attribute within the unifying device of the 'golden table.'\n\n## For artists & game designers\nA zoomed reference for medallion-portrait design: study the per-figure costuming used to distinguish twelve characters within one repeating frame.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "H. M. E. de Jong / Karin Figala, studies on Michael Maier (20th c.)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "twelve nations",
+    "Melchior Cibinensis",
+    "title page detail",
+    "portrait medallion",
+    "Wellcome Collection"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__engraving-from-michael-maier-s-symbola-aureae-mensae-1617-744648fc",
+   "title": "The Hermaphrodite, the Pythagorean Y, and the Bishop (emblematic plate)",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier (engraving: Lucas Jennis workshop, Frankfurt)",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "hermaphrodite",
+    "rebis",
+    "pythagorean y",
+    "bishop",
+    "emblem",
+    "union of opposites"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Albertus Magnus"
+   ],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "An emblematic engraving from Maier's *Symbola Aureae Mensae* (1617) pairing a mitred bishop-adept with the alchemical hermaphrodite — the *rebis*, the double-bodied 'thing of two.'\n\n## Iconography\nAt left a single nude figure carries two heads on one body — a bearded male face and a long-haired female face — and raises in one hand a forked stick or letter **Y** (the Pythagorean *bivium*); the androgyne stands in an open landscape before a distant town. At right a vested, mitred bishop holding a crozier points across to the double figure, as if expounding it.\n\n## Significance\nThe two-headed androgyne is the classic alchemical [[motif:rebis|rebis]], the conjunction of Sol and Luna, sulphur and mercury, in a single body — the goal of the *coniunctio*. The lifted **Y** invokes the Pythagorean fork of the two roads (virtue and vice, the easy and the hard way), here the moral and material choice facing the artist. The bishop is the learned adept (the plate belongs to the sequence of national masters such as Albertus Magnus) presenting the mystery for reading. Maier's fondness for rebus and emblem makes this one of the book's densest single images.\n\n## For artists & game designers\nA vivid 'union of opposites' asset: a two-faced androgyne holding a branching symbol, instructed by a robed authority. Reuse for a fusion mechanic, a moral-choice fork, or a boss who is two beings in one.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "H. M. E. de Jong / Karin Figala, studies on Michael Maier (20th c.)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "rebis",
+    "hermaphrodite",
+    "Pythagorean Y",
+    "coniunctio",
+    "union of opposites"
+   ],
+   "summary_status": "authored"
+  },
+  {
+   "id": "symbola_aureae__trismegistos-3a879015",
+   "title": "Hermes Trismegistus with the Armillary Sphere (variant impression)",
+   "work": "Symbola Aureae Mensae",
+   "creator": "Michael Maier (engraving: Lucas Jennis workshop, Frankfurt)",
+   "date": "1617",
+   "place": "Frankfurt",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "motifs": [
+    "hermes trismegistus",
+    "armillary sphere",
+    "sol and luna",
+    "as above so below",
+    "emblem",
+    "egyptian adept"
+   ],
+   "medium": "engraving",
+   "figures": [
+    "Hermes Trismegistus"
+   ],
+   "repository": "[PLACEHOLDER: per source — Internet Archive copy of the 1617 Frankfurt edition]",
+   "shelfmark": "",
+   "iconclass": [],
+   "rights": "Public domain. Internet Archive scan.",
+   "provenance_url": "https://archive.org/details/symbolaaureaemen00maie",
+   "summary": "An emblematic engraving of **Hermes Trismegistus** as the Egyptian founder of the art, from Maier's *Symbola Aureae Mensae* (1617) — the chapter-plate for the first of the twelve nations.\n\n## Iconography\nA robed, mitred sage stands at left in a landscape before a distant walled city, holding aloft an armillary sphere in his right hand and gesturing with his left toward two radiant heads at right: an upper flaming face crowned in sun-rays (Sol) and a lower face wreathed in fire (Luna / the fixed earth). The contrast of the two luminary heads against the philosopher's measured gesture stages the union of above and below.\n\n## Significance\nThe image literalises the opening of the *Tabula Smaragdina* (Emerald Tablet) attributed to Hermes: 'That which is above is as that which is below.' Hermes the armillary-bearing astronomer-priest mediates between the celestial Sol and the terrestrial fire, the master-key of Maier's whole scheme of [[motif:hermes trismegistus|Hermetic]] descent. As the Egyptian adept he heads the twelve-nation procession. The plate circulates widely in reproductions of seventeenth-century alchemical iconography (cf. Klossowski de Rola, *The Golden Game*).\n\n## For artists & game designers\nA clean 'archmage' silhouette — robed figure with a glowing orb, addressing two elemental faces. Reuse as a spellcaster portrait or as the framing host of a Hermetic tutorial.",
+   "citations": [
+    {
+     "text": "Michael Maier, *Symbola Aureae Mensae Duodecim Nationum* (Frankfurt: Lucas Jennis, 1617)."
+    },
+    {
+     "text": "H. M. E. de Jong / Karin Figala, studies on Michael Maier (20th c.)."
+    },
+    {
+     "text": "Internet Archive",
+     "url": "https://archive.org/details/symbolaaureaemen00maie"
+    }
+   ],
+   "key_concepts": [
+    "Hermes Trismegistus",
+    "Emerald Tablet",
+    "as above so below",
+    "armillary sphere",
+    "twelve nations"
+   ],
+   "summary_status": "authored"
+  }
+ ]
+}

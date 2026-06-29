@@ -1,0 +1,939 @@
+{
+  "entries": [
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-4b5429e0",
+      "title": "*De la Pirotechnia* — workman with cupellation frame and cinder-pots (book I, on quicksilver)",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "foundry",
+        "cupellation",
+        "ash frame",
+        "earthenware vessels",
+        "workman",
+        "mercury recovery",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A text-set woodcut from Biringuccio's *Pirotechnia*, the book that for the first time set the practice of the foundry and the assay-house into print. A workman kneels to lift the lid of a large rectangular timber frame pierced with two oval wells — a recovery box for cinders and ash — while two great round earthenware pots stand at his side.\n\n## Iconography\nThe scene is rendered in the plain, legible manner of the Venetian shop block-cutter: a tiled floor read in steep perspective, a single labourer in working dress, and the apparatus given pride of place. The slotted wooden frame, joined with visible pegs, holds two oval cavities; beside it sit the rounded *pignatte* or cinder-pots in which the volatile metal was caught and washed out of the ash.\n\n## Significance\nThe image belongs to Book I, on quicksilver (*argento vivo*), where Biringuccio describes catching the metal as it condenses and recovering it by washing the ash. It is documentary rather than allegorical — Biringuccio's avowed programme was to record what he had \"seen and done\" in the shops of Italy and Germany, displacing the secrecy of the alchemists with plain instruction.\n\n## For artists & game designers\nA clean reference for a Renaissance metalworker's bench: pegged timber apparatus, bulbous earthen pots, a kneeling artisan — ideal source for a crafting-station or foundry asset.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "quicksilver",
+        "ash recovery",
+        "cupellation",
+        "practical metallurgy"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-0773ec01",
+      "title": "*De la Pirotechnia* — *De luoghi delle minere*: miners at the mine and forge",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "mining",
+        "mine adit",
+        "forge",
+        "timber headframe",
+        "mountain",
+        "wheelbarrow",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut heading the chapter *De luoghi delle minere* (\"On the places of mines\") in Biringuccio's *Pirotechnia*. Under a timber-framed shed, miners work at a small forge or fire while a mountainside opens behind them with a mine adit and a labourer trundling a barrow of ore.\n\n## Iconography\nThe composition gathers the whole cycle of extraction into one frame: the headframe and shed of the pit-head at left, the smith's fire at centre, the terraced mountain and tunnel mouth at right, and a barrow-man at lower right. Figures are stocky and active in the workmanlike Venetian idiom.\n\n## Significance\nThe surrounding text counsels the prospector to begin the dig with a prayer to the Trinity or a patron saint — a reminder that, for all Biringuccio's empiricism, mining remained a perilous trade ringed with devotion. The plate is among the earliest printed depictions of practical mining, predating Agricola's *De re metallica* (1556) and feeding the same north-Italian and German technical tradition.\n\n## For artists & game designers\nA ready-made mine-site establishing shot: pit-head shed, tunnel adit, ore barrow and a working fire — a complete extraction-economy vignette in one block.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "mining",
+        "ore extraction",
+        "mine adit",
+        "practical metallurgy"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-a5dfb1ac",
+      "title": "*De la Pirotechnia* — dedication leaf and *Tavola* (table of contents)",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "dedication",
+        "table of contents",
+        "woodcut initials",
+        "letterpress",
+        "front matter"
+      ],
+      "medium": "print",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A front-matter opening of the *Pirotechnia*: the printed dedication *Al molto reverendo Monsig. M. Mario Caboga, arcidiacono di Ragusa* facing the *Tavola* — the table of all ten books and their chapters. Two ornamental woodcut initials enliven the type.\n\n## Iconography\nLetterpress in roman and italic, with two historiated initials of the kind held in any well-found Venetian shop. No technical illustration is present beyond the decorated capitals.\n\n## Significance\nRecorded honestly as bibliographic front matter rather than as one of the work's celebrated apparatus woodcuts. The *Tavola* is nonetheless a useful map of Biringuccio's scheme — ten books running from ores and assaying through casting, gunpowder and fireworks.\n\n## For artists & game designers\nUsable as an authentic early-modern printed page or decorated-initial asset for a book or codex prop.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "table of contents",
+        "dedication",
+        "early modern printing"
+      ],
+      "summary_status": "authored",
+      "tier": "page_scan"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-ec9195a2",
+      "title": "*De la Pirotechnia* — *Del saggiare le minere*: the assayer with mortar and cupels",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "assaying",
+        "cupel",
+        "mortar and pestle",
+        "assay bench",
+        "rack of vessels",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut for the chapter *Del saggiare le minere* (\"On assaying ores\"), p.46. An assayer kneels at a low bench, grinding sample in a mortar with one hand and reaching for a basket with the other; behind him a rack carries a row of small cupels and test-vessels.\n\n## Iconography\nThe apparatus of the fire-assay is laid out for instruction: the mortar and pestle for crushing the ore, the shelf of bone-ash cupels, the low working bench. The single figure is bent to his task, the tiled floor and brick wall giving the plain interior of an assay-room.\n\n## Significance\nAssaying — the quantitative fire-test that tells the worker how much silver or gold a given ore truly holds — is the technical heart of Biringuccio's third book and one of the foundations of practical chemistry. The text beside the cut even allows that a chip of roof-tile, hollowed out, will serve as a makeshift cupel in need.\n\n## For artists & game designers\nA precise model for an assay-station: mortar, cupel-rack and bench — a believable Renaissance laboratory work-point.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "assaying",
+        "fire assay",
+        "cupel",
+        "practical metallurgy"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-1a20b4fe",
+      "title": "*De la Pirotechnia* — Book III: refining silver on the cupel (*Il modo d'affinare l'argento*)",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "cupellation",
+        "refining furnace",
+        "bellows",
+        "silver",
+        "decorated initial",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut opening Book III, chapter 6 of the *Pirotechnia*, captioned *Il modo d'affinare l'argento con la coppella* (\"the way of refining silver with the cupel\"). The cut shows the refining hearth with its bellows and channelled fire; a historiated initial begins the chapter below.\n\n## Iconography\nThe refining furnace is given in working section — the bellows-pipe entering the fire-box, the cupel-bed where lead carries off the base metal and leaves the silver behind, vessels and a workman near the hearth. The accompanying initial carries its own small figure in the Venetian manner.\n\n## Significance\nCupellation — oxidising lead away to leave refined silver or gold — is the master-operation of the precious-metal trades, and Biringuccio sets it out as plainly as any modern manual. He frames the chapter as honest instruction against the frauds of those who would cheat on the fineness of metal.\n\n## For artists & game designers\nA cross-section of a refining hearth with bellows — excellent reference for a furnace mechanic or a metallurgy crafting interface.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "cupellation",
+        "silver refining",
+        "assay",
+        "practical metallurgy"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-bccbb7be",
+      "title": "*De la Pirotechnia* — melting furnaces with water-driven bellows (*Delle forme delle manere*)",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "furnace",
+        "crucible",
+        "water wheel",
+        "bellows",
+        "smelting",
+        "flames",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut on p.51 showing a range of melting and casting furnaces, their mouths gusting flame, beside crucibles and a great water-wheel that drives the bellows. From the chapter on the forms of furnaces and the manners of melting ores.\n\n## Iconography\nThree or four hooded furnaces stand in a row, fire pouring from their openings; tilted crucibles sit ready below, and at the right edge a large overshot wheel turns the blast-bellows. The block is purely instructional — apparatus shown for its working parts.\n\n## Significance\nThe passage debates the merits of natural draught against forced blast — furnaces that draw their own air versus those blown by water-powered bellows — a genuinely technical comparison rare in print at this date. It anticipates the systematic furnace-typologies of Agricola and of the later chymical literature.\n\n## For artists & game designers\nA furnace row with water-wheel power — a complete pre-industrial smelting line, ideal for a foundry level or a powered-machinery asset.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "furnace",
+        "water-powered bellows",
+        "smelting",
+        "blast"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-224f57f8",
+      "title": "*De la Pirotechnia* — the domed assay-house: interior with assayers at work (Proemio, Book III)",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "assay house",
+        "laboratory interior",
+        "vaulted furnace",
+        "assayers",
+        "workbench",
+        "decorated initial",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [
+        "assayers"
+      ],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A striking woodcut prefacing the third book, *Del saggiare et disporre la minera de metalli alle fusioni*. The cut cuts away a beehive-vaulted assay-house: within the great dome, assayers sit at benches around a central fire, and a small figure stands at the doorway. A historiated initial opens the text below.\n\n## Iconography\nThe building is drawn as if sliced open so the viewer sees inside the masonry dome — a convention that turns architecture into apparatus. Seated workers attend their tests at flanking benches; the fire and its vessels occupy the centre; the whole is read in steep, slightly naive perspective.\n\n## Significance\nThis is one of the *Pirotechnia*'s most memorable plates: an early-modern image of a dedicated laboratory — a purpose-built house of fire and assay. It belongs to the same imaginative lineage as Libavius's later \"ideal chemical house,\" picturing the orderly disposition of the chymical workplace. Biringuccio's proem argues that the eye alone cannot judge an ore — only the assay, weighed and tested, gives true knowledge.\n\n## For artists & game designers\nA cutaway laboratory dome full of working alchemists — an outstanding establishing interior for an assay-house, guild laboratory or alchemy hub.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "assay house",
+        "laboratory",
+        "the chemical workplace",
+        "assaying"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-50e3afc9",
+      "title": "*De la Pirotechnia* — a kiln-building (Proemio, Book II, *De mezzi minerali*)",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "kiln building",
+        "furnace house",
+        "shovel",
+        "semi-minerals",
+        "decorated initial",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut opening Book II, *De mezzi minerali* (\"On the semi-minerals\"). The cut shows a long, low building — a kiln- or furnace-house with small vents in its roof — set on broken ground, a shovel resting against the earth at left. A historiated initial begins the proem below.\n\n## Iconography\nThe structure is rendered as a plain shed or kiln with shuttered openings, its long pitched roof pierced for draught or smoke. The lone tool and bare ground suggest a working site rather than an inhabited scene.\n\n## Significance\nThe \"semi-minerals\" — sulphur, antimony, the salts and earths that are neither true metal nor common stone — are the subject of Book II, materials prized both by the metallurgist and by the alchemist. The building marks the threshold of that book, picturing the kind of structure in which such substances were roasted and refined.\n\n## For artists & game designers\nA standalone kiln/furnace-house exterior — a useful industrial building asset for a mining or alchemy settlement.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "semi-minerals",
+        "kiln",
+        "sulphur and antimony",
+        "practical metallurgy"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-7b7e5fa9",
+      "title": "*De la Pirotechnia* — woodcut title page (1558 Venice edition)",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "title page",
+        "ornamental border",
+        "furnaces",
+        "vessels",
+        "bellows",
+        "lion cartouche",
+        "Renaissance printing"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "The woodcut title page of the *Pirotechnia* — \"LI DIECE LIBRI DELLA PIROTECHNIA … composta per il S. Vannuccio Biringoccio, nobile Senese … MDLVIII\" — photographed across the gutter beside the blank facing leaf. The letterpress title sits within an elaborate woodcut frame teeming with the instruments of the art.\n\n## Iconography\nThe ornamental border is itself a catalogue of pyrotechnic apparatus: furnaces, crucibles, bellows, flasks, tongs and tools crowd the margins, with personified figures above and a lion-and-cartouche device below bearing a motto. The whole announces the book's subject before a word is read.\n\n## Significance\nBiringuccio's title proclaims a work that treats \"not only the diversity of ores, but also all that pertains to the art of fusion or the casting of metals.\" The decorated frame, a stock Venetian device, frames the first systematic printed treatise on metallurgy and the foundry arts — the book Galileo and the casters of cannon would read.\n\n## For artists & game designers\nAn ornate Renaissance title border packed with furnace-and-vessel motifs — a strong source for frames, UI borders and a grimoire or manual front-cover.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "title page",
+        "the ten books",
+        "casting of metals",
+        "Renaissance printing"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-680a3b12",
+      "title": "*De la Pirotechnia* — the general Proem (*Il proemio nella Pirotechnia*)",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "proem",
+        "preface",
+        "letterpress",
+        "decorated initial",
+        "front matter"
+      ],
+      "medium": "print",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "The opening of Biringuccio's general proem, *Il proemio nella Pirotechnia del signor Vannuccio Biringoccio, senese*, which treats in general of all sorts of ores and fusions. A single historiated initial begins the text; the rest of the leaf is letterpress.\n\n## Iconography\nA full page of roman type with one decorated woodcut capital. No technical illustration is present.\n\n## Significance\nRecorded honestly as a text leaf. The proem is nonetheless the manifesto of the book: Biringuccio sets out to write of the nature of ores from direct observation, likening the veins of metal in the mountains to branching trees and grounding his authority in practice rather than in the secrets of the philosophers.\n\n## For artists & game designers\nUsable as an authentic letterpress page or decorated-initial asset.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "proem",
+        "empirical method",
+        "early modern printing"
+      ],
+      "summary_status": "authored",
+      "tier": "page_scan"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-03a53f45",
+      "title": "*De la Pirotechnia* — still-life of mining tools and gear",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "mining tools",
+        "pick",
+        "shovel",
+        "hammer",
+        "baskets",
+        "cart",
+        "still life",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut still-life of the miner's equipment: picks, shovels, hammers and wedges scattered across the ground, woven baskets (*corbe* and *cestini*), a two-wheeled cart and bundled hides. From the discussion of the gear needed to work and clear a mine.\n\n## Iconography\nThe tools are arranged for display rather than in use — an inventory rendered in the block. Iron implements lie crossed in the foreground, baskets and a cart fill the middle ground, sacks of raw hide sit at centre. The composition reads like an illustrated equipment-list.\n\n## Significance\nThe surrounding text enumerates what the mine requires — baskets, hide sacks, iron-shod carts with wheels and without — and adds that one must have oily fuels (olive oil, nut and linseed oil, fats) to keep a light burning underground, for without light no work can be done. The cut is a practical inventory of the extractive trade.\n\n## For artists & game designers\nA clean tool-and-equipment reference sheet — directly usable for inventory icons, crafting components or a mine-supply cache.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "mining tools",
+        "mine equipment",
+        "extraction",
+        "practical metallurgy"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-b42b62ff",
+      "title": "*De la Pirotechnia* — woodcut title page (full-frame view)",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "title page",
+        "ornamental border",
+        "furnaces",
+        "vessels",
+        "bellows",
+        "lion cartouche",
+        "Renaissance printing"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A square-on view of the *Pirotechnia*'s woodcut title page — \"PIROTECHNIA. LI DIECE LIBRI DELLA PIROTECHNIA … MDLVIII\" — within its ornate engraved border, here seen full-frame and undistorted by the gutter.\n\n## Iconography\nThe border crowds its margins with the apparatus of fire-working: rank on rank of furnaces, crucibles, flasks, bellows and tools, with figures presiding above and a lion clutching a banderole below. The letterpress title is set in a central tablet.\n\n## Significance\nThe same celebrated title border as the gutter view, recorded here as a clean reference. It frames the first printed treatise to gather mining, assaying, casting, founding, gunpowder and fireworks into a single ordered programme — the foundation text of Renaissance applied chemistry and metallurgy.\n\n## For artists & game designers\nThe definitive flat scan of this furnace-laden Renaissance border — ideal for high-resolution use as a frame, cover or decorative panel.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "title page",
+        "the ten books",
+        "Renaissance printing",
+        "apparatus border"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-860f067e",
+      "title": "*De la Pirotechnia* — mercury-distillation furnace with domed condenser (book I)",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "distillation furnace",
+        "mercury",
+        "quicksilver",
+        "domed condenser",
+        "earthen pots",
+        "workman",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut from Book I, on quicksilver: a kneeling worker tends a long low furnace fed at one end, with a domed condensing structure at the right and a shelf of small vessels above. The apparatus for distilling and recovering mercury from its ore.\n\n## Iconography\nThe furnace is shown in working profile — the fire-mouth where the labourer feeds it, the channelled body, the bell-domed condenser where the metal vapour is caught. Earthen pots (*pignatte*) and a rack of vessels complete the set. A single artisan kneels at his task on the tiled floor.\n\n## Significance\nMercury — *argento vivo*, the living silver — was won by roasting cinnabar and condensing the volatile metal. Biringuccio describes joining the mouths of vessels so that the quicksilver rises from one and gathers in another, recovered in droplets. The plate documents one of the period's genuinely dangerous chymical operations.\n\n## For artists & game designers\nA mercury-still: long firing furnace plus domed condenser — a vivid apparatus for an alchemy lab or a hazardous-craft station.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "quicksilver",
+        "distillation",
+        "cinnabar",
+        "condensation"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-093f0316",
+      "title": "*De la Pirotechnia* — *Dell'argento vivo*: spread of mercury-recovery apparatus",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "mercury",
+        "quicksilver",
+        "distillation furnace",
+        "wooden vat",
+        "earthen vessels",
+        "cupellation frame",
+        "two-page spread",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A two-page opening of Book I, *Dell'argento vivo* (\"On quicksilver\"), photographed as a spread. The verso repeats the long mercury-distillation furnace with its domed condenser; the recto carries two further woodcuts — a worker at a great washing-vat with a domed earthen vessel, and the pegged cupellation frame with its round cinder-pots.\n\n## Iconography\nThree apparatus blocks share the opening, dense with the gear of mercury work: the firing furnace and condenser, the wooden washing-tub, the lidded earthen pots and the slotted recovery frame. The labourers are shown mid-operation, the text flowing tightly around each cut.\n\n## Significance\nThe spread shows how thickly Biringuccio illustrated this dangerous chapter — vapour caught and condensed, ash washed for its trapped droplets, vessels sealed mouth-to-mouth. Few earlier printed books had pictured chemical apparatus so insistently or so practically.\n\n## For artists & game designers\nA full apparatus spread — furnace, condenser, washing-vat and recovery frame on one opening — a ready palette for an entire mercury-works.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "quicksilver",
+        "apparatus spread",
+        "distillation",
+        "ash washing"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-2eebf656",
+      "title": "*De la Pirotechnia* — *Del ferro*: the great water-driven bellows (book on iron)",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "iron",
+        "blast furnace",
+        "bellows",
+        "water power",
+        "brick furnace",
+        "flames",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut on p.17 for the chapter *Del ferro* (\"On iron\"): a great pair of bellows, set against a brick furnace wall, drives a forced blast into the fire that gusts flame at the right. Shown in working section.\n\n## Iconography\nThe twin bellows fill the frame \"in the manner of a great pair of wings,\" their boards and nozzle drawn in plain mechanical detail; the masonry furnace stands beside them, flames rising from its stack. The block is wholly given over to apparatus.\n\n## Significance\nThe text explains that such bellows — six to eight *braccia* tall — are worked by a sound water-wheel to make the powerful, sustained blast that iron-smelting demands. This is the water-powered blast at the threshold of the blast-furnace age, recorded with an engineer's precision a generation before Agricola.\n\n## For artists & game designers\nA mechanical study of water-powered blast bellows and furnace — excellent for an ironworks, a powered-machine asset or a steampunk-adjacent forge.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "iron",
+        "blast",
+        "water-powered bellows",
+        "forge"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-cedb7473",
+      "title": "*De la Pirotechnia* — *Del modo di preparare li metalli*: furnace and assay-balance",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "furnace",
+        "assay balance",
+        "scales",
+        "metal preparation",
+        "workmen",
+        "decorated initial",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut on p.47, in the chapter *Del modo di preparare li metalli avanti alle fusioni* (\"the way of preparing metals before melting,\" chapter 2). Two workmen stand at a hooded furnace whose fire is lit; a large hanging balance dominates the left of the cut, a stool and tools below. A small historiated initial follows.\n\n## Iconography\nThe furnace and the great balance are paired — fire and measure, the two instruments of the preparer's art. One man tends the hearth while the other attends the bench; the steelyard-style scale hangs ready to weigh charge and product.\n\n## Significance\nPreparing the ore — roasting, weighing, proportioning — precedes the fusion proper, and Biringuccio gives it a chapter and a plate of its own. The conspicuous balance underscores the quantitative discipline that distinguishes the assayer's metallurgy from mere craft tradition.\n\n## For artists & game designers\nFurnace plus a large hanging balance — a paired \"heat and weigh\" workstation, perfect for a crafting or refining interface.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "metal preparation",
+        "assay balance",
+        "roasting",
+        "fusion"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-61f42329",
+      "title": "*De la Pirotechnia* — *Dell'argento vivo*: worker at the washing-vat and domed vessel",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "mercury",
+        "quicksilver",
+        "washing vat",
+        "domed earthen vessel",
+        "workman",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut on p.25, in the chapter *Dell'argento vivo*. A workman bends over a large round wooden washing-tub, while beside it stands a domed earthen vessel (*vaso di terra*) raised on a footed stand. Apparatus for washing the ash and recovering mercury.\n\n## Iconography\nThe staved wooden vat and the bell-shaped earthen pot are the two foci, set on a tiled floor with brick walls behind; the single figure leans into the tub. The block is the per-page version of the right half of the *argento vivo* spread.\n\n## Significance\nThe text describes packing such vessels with pounded ore over a bed of sand or sifted ash, sealing a lid over them, and so driving and catching the quicksilver — the washing-tub then recovering what falls into the ash. A clear record of small-scale mercury metallurgy.\n\n## For artists & game designers\nWooden washing-vat plus domed earthen retort on a stand — a compact two-object apparatus set for an alchemical bench.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "quicksilver",
+        "ash washing",
+        "earthen vessel",
+        "recovery"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-a0d67209",
+      "title": "*De la Pirotechnia* — *Del solfo et sua minera*: sulphur sublimation furnaces",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "sulphur",
+        "sublimation",
+        "distillation furnace",
+        "ovoid vessels",
+        "alembic",
+        "workmen",
+        "decorated initial",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut for the chapter *Del solfo et sua minera* (\"On sulphur and its ore,\" chapter 2). Workmen attend a bank of furnaces topped by tall ovoid sublimation-vessels; a channel carries the molten product to a receiver. A historiated initial opens the text.\n\n## Iconography\nThe great egg-shaped vessels rise from masonry furnaces, their long necks delivering the sublimed or distilled sulphur into receiving pots; labourers feed the fires and tend the run-off. The apparatus dominates a deep, plain interior.\n\n## Significance\nSulphur — \"a most notable mineral,\" hot and unctuous, akin in the period's theory to the very principle of fire — was won by melting and subliming its ore. Biringuccio names it a prime agent in the generation of metals, touching the alchemical doctrine of the sulphur-mercury principles even as he gives the plain industrial method.\n\n## For artists & game designers\nA sulphur-works of ovoid sublimation vessels on furnaces — a distinctive, slightly uncanny apparatus bank for an alchemy or chemistry scene.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "sulphur",
+        "sublimation",
+        "sulphur-mercury principle",
+        "distillation"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-9d979414",
+      "title": "*De la Pirotechnia* — still-life of sulphur-distilling vessels",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "distillation vessels",
+        "spouted pots",
+        "lidded crucibles",
+        "vessel rack",
+        "still life",
+        "sulphur",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut still-life of the vessels used in sulphur work: bulbous earthenware pots fitted with spouts or tubes (*canne*), and lidded crucibles seated in a wooden frame or rack. From the continued discussion of distilling and subliming sulphur.\n\n## Iconography\nThe vessels are displayed as an inventory — two spouted pots at left, a rack of three lidded crucibles at right, a separate cover below. The drawing is careful and plain, each form shown for its working features: the tube that joins one vessel to the next, the lid that seals the charge.\n\n## Significance\nThe text specifies vessels of identical form fitted with tubes so that one may be sealed to another, and counts how many a single furnace needs — \"three, or six\" — to fire at two openings. It is an illustrated parts-list for the sulphur apparatus, the kind of plain documentation that made the *Pirotechnia* a working manual.\n\n## For artists & game designers\nAn equipment-display block of period distillation vessels — directly usable for inventory icons or a vessel-crafting palette.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "distillation vessels",
+        "sulphur",
+        "apparatus inventory",
+        "sublimation"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    },
+    {
+      "id": "biringuccio_piro__pirotechnia-del-signor-vannuccio-biringuccio-venezia-1558-poi-per-gioseffo-lon-6738524b",
+      "title": "*De la Pirotechnia* — sulphur-distilling furnace with lidded vessels and fire-box",
+      "work": "De la Pirotechnia",
+      "creator": "Vannoccio Biringuccio (woodcuts: anonymous Venetian block-cutters)",
+      "date": "1558 (Venice reprint of the 1540 first edition)",
+      "place": "Venice",
+      "era": "renaissance",
+      "tradition": "alchemy",
+      "motifs": [
+        "sulphur",
+        "distillation furnace",
+        "lidded cucurbits",
+        "fire box",
+        "wooden tub",
+        "brick furnace",
+        "Renaissance metallurgy"
+      ],
+      "medium": "woodcut",
+      "figures": [],
+      "repository": "[PLACEHOLDER: per source — Internet Archive scan of the 1558 Venice edition (Giolito / Gioseffo)]",
+      "shelfmark": "",
+      "iconclass": [],
+      "rights": "Public domain. Internet Archive scan.",
+      "provenance_url": "https://archive.org/details/pirotechnia00biri",
+      "summary": "A woodcut showing a masonry furnace charged with lidded distillation-pots (cucurbits), a stoked fire-box glowing at its base, and a staved wooden tub or barrel at the left. From the discussion of the kinds of sulphur and their refining.\n\n## Iconography\nThe brick furnace fills the frame, its open fire-box revealing the flames within; rounded lidded vessels sit on top to receive the rising vapour, and a small barrel of charge or water stands beside it. Apparatus shown in plain working order.\n\n## Significance\nThe text distinguishes the grades of sulphur — the black and the yellow, and the rare \"living sulphur\" (*solfo vivo*) found pure on the surface of mountains, bright and clear as yellow glass. The plate documents the furnace by which the cruder ore was driven and purified.\n\n## For artists & game designers\nA compact distillation furnace with a visible fire-box and lidded vessels — a self-contained alchemical apparatus asset.",
+      "citations": [
+        {
+          "text": "Vannoccio Biringuccio, *De la Pirotechnia* (Venice: Venturino Roffinello for Curtio Navo & fratelli, 1540; this copy the 1558 Venice reprint)."
+        },
+        {
+          "text": "Cyril Stanley Smith & Martha Teach Gnudi (trans.), *The Pirotechnia of Vannoccio Biringuccio* (1942; repr. Dover, 1990)."
+        },
+        {
+          "text": "Internet Archive",
+          "url": "https://archive.org/details/pirotechnia00biri"
+        }
+      ],
+      "key_concepts": [
+        "sulphur",
+        "living sulphur",
+        "distillation furnace",
+        "refining"
+      ],
+      "summary_status": "authored",
+      "tier": "illustration"
+    }
+  ]
+}
