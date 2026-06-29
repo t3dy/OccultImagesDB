@@ -1918,5 +1918,20 @@
     "rights": "Public domain / CC BY 4.0 (per item). Via Wikimedia Commons.",
     "blurb": "Paracelsus (1493–1541) revolutionized medicine and alchemy by integrating chemical experiment with therapeutics. This collection spans his portraits, alchemical laboratory apparatus, cosmological symbols, and the broader Renaissance world of mining, distillation, and metallic medicine he championed.",
     "count": 25
+  },
+  {
+    "key": "ancient_alchemy",
+    "title": "Ancient Hellenistic & Greco-Egyptian Alchemy",
+    "creator": "various",
+    "date": "1st–5th centuries CE",
+    "era": "antiquity",
+    "tradition": "alchemy",
+    "tier": "illustration",
+    "place": "Egypt, the Mediterranean, and the Hellenistic Near East",
+    "language": "Greek",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Ancient_alchemy",
+    "rights": "Public domain / CC BY / CC0 (per item). Via Wikimedia Commons.",
+    "blurb": "The roots of Western alchemy in antiquity: the legendary Zosimos of Panopolis, the Emerald Tablet, Greco-Egyptian mysticism, distillation vessels, planetary cosmology, ancient papyri on gold-making and dye recipes, magical gems, and the foundational texts and artifacts that shaped hermetic philosophy and the quest for transmutation.",
+    "count": 23
   }
 ]

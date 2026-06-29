@@ -2681,5 +2681,36 @@
    "reformation"
   ],
   "blurb": "Paracelsus (1493–1541) revolutionized medicine and alchemy by integrating chemical experiment with therapeutics. This collection spans his portraits, alchemical laboratory apparatus, cosmological symbols, and the broader Renaissance world of mining, distillation, and metallic medicine he championed."
+ },
+ {
+  "key": "ancient_alchemy",
+  "short_id": "ANAC",
+  "title": "Ancient Hellenistic & Greco-Egyptian Alchemy",
+  "creator": "various",
+  "date": "1st–5th centuries CE",
+  "century": 2,
+  "place": "Egypt, the Mediterranean, and the Hellenistic Near East",
+  "region": "Eastern Mediterranean",
+  "language": "Greek",
+  "era": "antiquity",
+  "tradition": "alchemy",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "ancient_alchemy",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Ancient_alchemy",
+  "rights": "Public domain / CC BY / CC0 (per item). Via Wikimedia Commons.",
+  "motifs": [
+   "alchemical apparatus",
+   "distillation",
+   "transmutation",
+   "gold-making",
+   "Hermes Trismegistus",
+   "Egyptian cosmology",
+   "zodiac",
+   "planetary metals",
+   "sacred geometry",
+   "divine wisdom"
+  ],
+  "blurb": "The roots of Western alchemy in antiquity: the legendary Zosimos of Panopolis, the Emerald Tablet, Greco-Egyptian mysticism, distillation vessels, planetary cosmology, ancient papyri on gold-making and dye recipes, magical gems, and the foundational texts and artifacts that shaped hermetic philosophy and the quest for transmutation."
  }
 ]
