@@ -1,0 +1,22 @@
+[
+  {"query": "Johannes Trithemius Tripota", "out": "munich_trithemius/trithemius-portrait.jpg", "prefer": "Johannes Trithemius (Tripota)"},
+  {"query": "Johannes Trithemus Heidenburg engraving Wellcome", "out": "munich_trithemius/trithemius-heidenburg-engraving.jpg", "prefer": "Wellcome"},
+  {"query": "Trithemius Steganographia Saurius 1608 Herzog August", "out": "munich_trithemius/trithemius-steganographia.jpg", "prefer": "Steganographia"},
+  {"query": "Polygraphia Title Page Trithemius", "out": "munich_trithemius/trithemius-polygraphia-titlepage.jpg", "prefer": "Polygraphia Title Page"},
+  {"query": "Polygraphiae Johannes Trithemius 1518 National Cryptologic Museum", "out": "munich_trithemius/trithemius-polygraphiae-cryptologic-museum.jpg", "prefer": "National Cryptologic"},
+  {"query": "Theban alphabet from Polygraphia 1518 cleaned-up", "out": "munich_trithemius/theban-alphabet-polygraphia.png", "prefer": "cleaned-up"},
+  {"query": "Trithemius De viris illustribus Germaniae 1495 BEIC", "out": "munich_trithemius/trithemius-de-viris-illustribus-1495.jpg", "prefer": "BEIC"},
+  {"query": "Late Arabic Picatrix manuscript Hamidiye Library MS 852", "out": "munich_trithemius/picatrix-hamidiye-ms852.jpg", "prefer": "Hamidiye"},
+  {"query": "Manuscript of the Picatrix", "out": "munich_trithemius/picatrix-manuscript.jpg", "prefer": "Manuscript of the Picatrix"},
+  {"query": "17th century Picatrix frontispiece Istanbul Hagia Sophia 2443", "out": "munich_trithemius/picatrix-frontispiece-1647.png", "prefer": "frontispiece"},
+  {"query": "15th Latin Picatrix Krakow Jagiellonian Library MS 793", "out": "munich_trithemius/picatrix-latin-krakow-ms793.png", "prefer": "Jagiellonian"},
+  {"query": "Sigillum Dei Aemeth John Dee British Museum", "out": "munich_trithemius/dee-sigillum-dei-aemeth.jpg", "prefer": "Seal of God British Museum"},
+  {"query": "Giorgio Anselmi Sigillum Dei", "out": "munich_trithemius/anselmi-sigillum-dei.png", "prefer": "Anselmi"},
+  {"query": "Negromante Caroselli painting necromancer", "out": "munich_trithemius/caroselli-negromante.jpg", "prefer": "Negromante"},
+  {"query": "A Magician by Edward Kelly", "out": "munich_trithemius/edward-kelly-magician.jpg", "prefer": "A Magician by Edward Kelly"},
+  {"query": "Dr Fian showing pentinence wicked life escape", "out": "munich_trithemius/dr-fian-pentinence.png", "prefer": "Dr. Fian"},
+  {"query": "kamea Saturn magic square talisman", "out": "munich_trithemius/kamea-saturn.gif", "prefer": "kamea saturn"},
+  {"query": "kamea Jupiter magic square talisman", "out": "munich_trithemius/kamea-jupiter.gif", "prefer": "kamea jupiter"},
+  {"query": "magical seal of Solomon Wellcome 19th century", "out": "munich_trithemius/seal-of-solomon-wellcome.jpg", "prefer": "magical seal of Solomon"},
+  {"query": "Agrippa Three books of occult philosophy frontispiece", "out": "munich_trithemius/agrippa-occult-philosophy-frontispiece.jpg", "prefer": "occult philosophy"}
+]

@@ -1,0 +1,6 @@
+[
+  {"query": "antimony calcination", "out": "process_fills/calcination-antimony-sun.jpg", "prefer": "DPLA"},
+  {"query": "alchemy salamander fire", "out": "process_fills/salamander-musaeum-hermeticum.jpg", "prefer": "Salamander in fire"},
+  {"query": "alchemy furnace", "out": "process_fills/alchemical-furnace-dresden.jpg", "prefer": "Augustus"},
+  {"query": "Wellcome alchemy coagulation", "out": "process_fills/splendor-solis-king-queen-coagulation.jpg", "prefer": "queen dressed in blue"}
+]

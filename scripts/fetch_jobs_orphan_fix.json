@@ -1,0 +1,5 @@
+[
+  {"query": "Atlante Farnese fronte Museo Archeologico Nazionale Napoli", "out": "ancient_alchemy/farnese-atlas.jpg", "prefer": "Atlante_Farnese"},
+  {"query": "Avicenne Avicenna Ibn Sina 980-1037 CIPB2067", "out": "islamic_alchemy/ibn-sina-portrait-2.jpg", "prefer": "Avicenne"},
+  {"query": "Jabir ibn Hayyan Geber Arabian alchemist Wellcome L0005558", "out": "islamic_alchemy/jabir-ibn-hayyan.jpg", "prefer": "Jabir_ibn_Hayyan"}
+]

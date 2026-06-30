@@ -1,0 +1,153 @@
+{
+ "_work": {
+  "key": "process_fills",
+  "short_id": "PROC",
+  "title": "Calcination & Congelation: Process Imagery",
+  "creator": "various",
+  "date": "16th-18th c.",
+  "century": 16,
+  "place": "Europe",
+  "region": "Western Europe",
+  "language": "Latin, German, French",
+  "era": "early_modern",
+  "tradition": "alchemy",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "process_fills",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Alchemy",
+  "rights": "Public domain. Via Wikimedia Commons.",
+  "motifs": [
+   "calcination",
+   "congelation",
+   "furnace",
+   "fixation",
+   "alchemical operations"
+  ],
+  "blurb": "Supplementary imagery for the two most visually underrepresented of the twelve alchemical operations: calcination (reduction to ash by fire — the first work, governed by Saturn) and congelation (fixation of the volatile into solid form — the binding of spirit into body)."
+ },
+ "entries": [
+  {
+   "id": "process_fills__calcination-antimony-sun",
+   "title": "The Solar Calcination of Antimony — Le Fèvre's demonstration plate",
+   "work": "Calcination & Congelation: Process Imagery",
+   "creator": "Nicaise Le Fèvre (1610–1669)",
+   "date": "1669 (2nd edition, *A Compleat Body of Chymistry*)",
+   "place": "London / Paris",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "medium": "engraving",
+   "figures": [
+    "Unnamed alchemist-demonstrator"
+   ],
+   "repository": "Digital Public Library of America (scan); original in a copy of Le Fèvre's *Traité de la chymie*",
+   "shelfmark": "",
+   "rights": "Public domain. Via Wikimedia Commons (DPLA).",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:La_calcination_Solaire_de_L%27antimoine_-_DPLA_-_f93a60337709fd7e43448ad9a9650e25.jpg",
+   "motifs": [
+    "calcination",
+    "antimony",
+    "furnace-free fire",
+    "solar lens",
+    "demonstration plate",
+    "laboratory practice",
+    "smoke"
+   ],
+   "key_concepts": [
+    "calcination",
+    "antimony as subject",
+    "solar fire without furnace",
+    "Le Fevre laboratory chemistry"
+   ],
+   "summary_status": "authored",
+   "summary": "An alchemist stands at a bench where sunlight, focused through a lens or burning-glass, falls onto a heap of antimony and sets it smoking — calcination performed without any furnace at all, fire drawn directly from the sun.\n\n## Iconography\nA single demonstrator stands beside a table on which a lettered diagram identifies each part of the apparatus: the mirror or lens that gathers sunlight, the beam it projects, and the antimony specimen visibly fuming as the focused heat strikes it. The plate is captioned (in French) 'La calcination Solaire de l'Antimoine' — the solar calcination of antimony — and belongs to Nicaise Le Fèvre's chemistry textbook, later translated into English as *A Compleat Body of Chymistry*.\n\n## Significance\nCalcination is Ripley's first gate: matter given over to fire until it dries, blackens, and reduces to powder or ash, freeing the volatile spirit trapped within the body. Le Fèvre's plate is unusual among the corpus of emblem-book calcinations in being a literal laboratory demonstration rather than an allegorical king-in-the-furnace scene — it records an actual 17th-century experimental method (solar calcination by burning-glass, a technique also used by Lavoisier's predecessors) and ties calcination as firmly to chemical practice as to symbolic theology. Antimony itself carried heavy alchemical freight as the 'grey wolf,' *lupus metallorum*, prized and feared as a violent purifier of gold.\n\n## For artists & game designers\nA clean, non-allegorical reference for how period chemists actually performed a 'burning' operation: focused light, smoke, a labelled apparatus — useful where a game wants a calcination minigame or crafting-station visual grounded in real period technique rather than emblem-book symbolism."
+  },
+  {
+   "id": "process_fills__alchemical-furnace-dresden",
+   "title": "Alchemical furnace of Augustus, Elector of Saxony (Dresden, c. 1575)",
+   "work": "Calcination & Congelation: Process Imagery",
+   "creator": "Saxon court workshop (Dresden)",
+   "date": "c. 1575",
+   "place": "Dresden, Electorate of Saxony",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "medium": "metalwork",
+   "figures": [],
+   "repository": "Metropolitan Museum of Art, New York",
+   "shelfmark": "",
+   "rights": "Public domain. Photograph by Daderot, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Alchemical_furnace_of_Augustus,_Elector_of_Saxony,_Germany,_Dresden,_c._1575,_brass,_steel,_chamotte_-_Metropolitan_Museum_of_Art_-_New_York_City_-_DSC07005.jpg",
+   "motifs": [
+    "calcination",
+    "furnace",
+    "athanor",
+    "Augustus of Saxony",
+    "brass",
+    "court alchemy",
+    "laboratory equipment"
+   ],
+   "key_concepts": [
+    "calcination",
+    "physical furnace",
+    "Dresden court laboratory",
+    "16th-century apparatus"
+   ],
+   "summary_status": "authored",
+   "summary": "A surviving brass-and-steel furnace built for Augustus, Elector of Saxony, around 1575 — not an emblem of calcination but the literal device in which calcination, and every other fire-operation of the Great Work, was actually performed.\n\n## Iconography\nA compact, drum-shaped furnace of brass and steel set on a chamotte (fireclay) base, fitted with the doors, vents, and chambers needed to regulate draft and graduate heat. Its survival and museum-grade construction mark it as a court instrument rather than a common workshop tool.\n\n## Significance\nAugustus of Saxony (r. 1553–1586) maintained one of the most lavishly funded alchemical laboratories in the Holy Roman Empire, staffed by court alchemists pursuing both transmutation and practical assaying, dyeing, and pharmacy. A furnace like this one is the physical referent behind every emblem-book picture of a robed philosopher tending an athanor: the graduated, controllable heat that calcination — Ripley's first gate — required to reduce a body to ash without simply destroying it. Where Splendor Solis or the Rosarium render the operation as myth (a king burned and reborn), an object like this shows the engineering that made the myth performable.\n\n## For artists & game designers\nA grounding reference for what a working alchemical furnace actually looked like — useful for any game or illustration that wants its 'calcination station' to read as a real piece of 16th-century laboratory apparatus rather than a generic cartoon furnace."
+  },
+  {
+   "id": "process_fills__splendor-solis-king-queen-coagulation",
+   "title": "*Splendor Solis* — the King and Queen of coagulation (Sol above Luna)",
+   "work": "Splendor Solis",
+   "creator": "attrib. Salomon Trismosin (illuminator anonymous)",
+   "date": "1582 (this watercolour copy)",
+   "place": "German lands",
+   "era": "renaissance",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "medium": "manuscript",
+   "figures": [
+    "Sol",
+    "Luna",
+    "Rex (King)",
+    "Regina (Queen)"
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome Library no. 25630i",
+   "rights": "CC BY 4.0. Wellcome Collection, via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:A_moon_above_a_queen_dressed_in_blue,_and_a_sun_above_a_king_Wellcome_V0025630.jpg",
+   "motifs": [
+    "splendor solis",
+    "coagulation",
+    "congelation",
+    "king and queen",
+    "sun and moon",
+    "sulphur",
+    "mercury",
+    "watercolour",
+    "alchemical allegory"
+   ],
+   "key_concepts": [
+    "congelation",
+    "coagulatio",
+    "sulphur the fixing principle",
+    "king and queen pairing"
+   ],
+   "summary_status": "authored",
+   "summary": "A watercolour leaf in the *Splendor Solis* tradition: a queen in blue stands beneath a crescent moon, a king in red beneath a radiant sun — the cycle's clearest single image of the two principles that must be brought together and fixed for the Work to succeed.\n\n## Iconography\nThe queen, robed in lunar blue, occupies the left field under a pale moon; the king, robed in solar red, occupies the right under a golden sun. Each stands as an independent, crowned figure rather than the joined Rebis seen elsewhere in the cycle — this is the pair *before* their union, posed as still, fixed emblems rather than as actors in a narrative scene.\n\n## Significance\nThe accompanying cataloguing identifies the pair as figures of mercury (the volatile, 'dissolving' lac virginis under Luna) and sulphur (the 'coagulating' masculine principle under Sol). Congelation — *congelatio*, the sixth gate in Ripley's sequence — is exactly this operation: the volatile spirit is checked and coagulated into a fixed body, no longer free to evaporate. Where the Rebis plates show the *result* of that fixing (a single two-headed body), this image isolates the two principles in the moment just before coagulation locks them together — mercury's fluidity held in tension against sulphur's fixing heat. The king-and-queen, sun-and-moon pairing is one of the most reproduced visual shorthands in the entire alchemical corpus precisely because it lets an illuminator show the *whole* opus — dissolution, conjunction, fixation — in a single static diagram.\n\n## For artists & game designers\nA ready-made two-character tableau: a blue, lunar, fluid-coded queen and a red, solar, fixed-coded king, useful wherever a game needs to stage 'volatile spirit' and 'fixed body' as opposing forces about to be locked together — a coagulation puzzle, a binding spell, or a stat-pairing screen.",
+   "citations": [
+    {
+     "text": "Salomon Trismosin (attrib.), *Splendor Solis* (German illuminated MS tradition, copies from the 16th c. onward)."
+    },
+    {
+     "text": "Wellcome Collection, London — Iconographic Collections, no. 25630i."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:A_moon_above_a_queen_dressed_in_blue,_and_a_sun_above_a_king_Wellcome_V0025630.jpg"
+    }
+   ]
+  }
+ ]
+}

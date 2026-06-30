@@ -1,0 +1,22 @@
+[
+  {"query": "Munich manual necromancy Clm 849 manuscript page Bayerische", "out": "munich_trithemius/munich-manual-clm849.jpg", "prefer": "Clm"},
+  {"query": "medieval necromancy manuscript demon conjuration diagram 15th century German", "out": "munich_trithemius/necromancy-ms-german.jpg"},
+  {"query": "Trithemius Steganographia title page 1606 occult cipher", "out": "munich_trithemius/trithemius-steganographia.jpg", "prefer": "Trithemius"},
+  {"query": "Johannes Trithemius portrait abbot Sponheim engraving", "out": "munich_trithemius/trithemius-portrait.jpg"},
+  {"query": "Trithemius De septem secundeis planetary angels diagram", "out": "munich_trithemius/trithemius-septem-secundeis.jpg"},
+  {"query": "Trithemius crystal scrying spirits drawing engraving occult", "out": "munich_trithemius/trithemius-crystal-scrying.jpg"},
+  {"query": "Thabit ibn Qurra De imaginibus talisman manuscript Latin", "out": "munich_trithemius/thabit-de-imaginibus.jpg", "prefer": "Thabit"},
+  {"query": "astral image magic talisman planetary hour medieval manuscript", "out": "munich_trithemius/astral-image-talisman.jpg"},
+  {"query": "image magic carved talisman planetary medieval manuscript diagram", "out": "munich_trithemius/image-magic-carved.jpg"},
+  {"query": "Picatrix talisman image planetary hour manuscript Arabic Latin", "out": "munich_trithemius/picatrix-image-hour.jpg"},
+  {"query": "Speculum astronomiae Albertus Magnus image magic manuscript page", "out": "munich_trithemius/speculum-astronomiae.jpg", "prefer": "Speculum"},
+  {"query": "necromancer conjuring demon medieval manuscript illustration scene", "out": "munich_trithemius/necromancer-conjuring-scene.jpg"},
+  {"query": "Roger Bacon image magic talisman manuscript medieval natural magic", "out": "munich_trithemius/roger-bacon-image-magic.jpg"},
+  {"query": "Sloane manuscript necromancy conjuration spirit medieval British Library", "out": "munich_trithemius/sloane-necromancy.jpg"},
+  {"query": "talisman planetary image medieval astrology manuscript carving", "out": "munich_trithemius/planetary-talisman-medieval.jpg"},
+  {"query": "Trithemius Polygraphia cipher angel table 1518", "out": "munich_trithemius/trithemius-polygraphia.jpg"},
+  {"query": "John of Morigny necromancy condemnation visionary manuscript", "out": "munich_trithemius/john-morigny-vision.jpg"},
+  {"query": "William of Auvergne natural magic image medieval manuscript", "out": "munich_trithemius/william-auvergne-magic.jpg"},
+  {"query": "necromancer's manual binding spirit medieval magic circle manuscript", "out": "munich_trithemius/necromancers-binding.jpg"},
+  {"query": "Trithemius angel hierarchy planetary intelligences chart diagram", "out": "munich_trithemius/trithemius-angel-hierarchy.jpg"}
+]

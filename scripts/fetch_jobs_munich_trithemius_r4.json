@@ -1,0 +1,5 @@
+[
+  {"query": "kamea saturn gif", "out": "munich_trithemius/kamea-saturn.gif", "prefer": "kamea saturn"},
+  {"query": "Grabmal Johannes Trithemius 10.05.2025", "out": "munich_trithemius/trithemius-tomb-monument.jpg", "prefer": "Grabmal Johannes Trithemius"},
+  {"query": "Tilman Riemenschneider Grabplatte Trithemius Neumunster Wurzburg", "out": "munich_trithemius/riemenschneider-trithemius-grabplatte.jpg", "prefer": "Riemenschneider"}
+]

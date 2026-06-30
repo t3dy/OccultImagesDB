@@ -1,0 +1,5 @@
+[
+  {"query": "3 kamea saturn magic square", "out": "munich_trithemius/kamea-saturn.gif", "prefer": "3 kamea saturn"},
+  {"query": "John Dee's Seal of God", "out": "munich_trithemius/dee-seal-of-god-photo.jpg", "prefer": "Seal of God.jpg"},
+  {"query": "Grabmal Johannes Trithemius tomb monument", "out": "munich_trithemius/trithemius-tomb-monument.jpg", "prefer": "Grabmal Johannes Trithemius"}
+]
