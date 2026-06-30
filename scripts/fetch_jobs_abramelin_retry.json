@@ -1,0 +1,6 @@
+[
+  {"query": "Agrippa-S3", "out": "abramelin/agrippa-de-occulta-s3.jpg", "prefer": "Agrippa-S3"},
+  {"query": "magic square amulet", "out": "abramelin/magic-square-amulet-copper.jpg", "prefer": "FindID 755270"},
+  {"query": "Islamic talisman magic square", "out": "abramelin/khalili-magic-talisman.jpg", "prefer": "mtw 1444"},
+  {"query": "Cabbalistic amulet Wellcome", "out": "abramelin/kabbalistic-amulet-wellcome2.jpg", "prefer": "L0038191"}
+]

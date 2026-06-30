@@ -1,0 +1,20 @@
+{
+  "key": "abramelin",
+  "short_id": "ABRA",
+  "title": "The Book of Abramelin & the Magic Square Tradition",
+  "creator": "Abraham of Worms (attrib.); Ahmad ibn Ali al-Buni; Heinrich Cornelius Agrippa; various",
+  "date": "c. 1100–1900",
+  "century": 15,
+  "place": "Germany, France, England, Egypt, Ottoman lands",
+  "region": "Western Europe / Near East",
+  "language": "German, French, Hebrew, Latin, Arabic",
+  "era": "medieval",
+  "tradition": "goetia_grimoire",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "abramelin",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Magic_squares",
+  "rights": "Public domain. Via Wikimedia Commons.",
+  "motifs": ["magic square", "word square", "talisman", "abramelin", "letter grid", "angelic hierarchy", "wafq", "kamea", "sator", "palindrome"],
+  "blurb": "The *Book of the Sacred Magic of Abramelin the Mage* (compiled c. 1458 by Abraham of Worms, preserved in BNF Arsenal MS 2351) ends with hundreds of talismanic *magic squares*: letter-grids where the rows, columns, and sometimes diagonals spell out the Hebrew names of spirits assigned to specific operations, from healing to treasure-finding to controlling kings. These word-squares — visually immediate, obsessively systematic — became the defining image of Abramelin magic after S. L. MacGregor Mathers translated the French manuscript in 1897, placing it at the heart of Golden Dawn and Thelemic practice. Here too is the wider magic-square tradition: Agrippa's alphabets and human-proportion diagrams from *De Occulta Philosophia* (1531), the Arabic *wafq* tradition in manuscripts by Ahmad ibn Ali al-Buni (*Shams al-Ma'arif*) from the Khalili Collection, Fatimid ink-on-paper amulets from LACMA, Jewish kabbalistic healing amulets from the Wellcome Collection, and the SATOR-AREPO rotas square from Roman antiquity — a cross-cultural panorama of the letter-grid as the fundamental technology of protective and operative magic."
+}

@@ -1,0 +1,20 @@
+{
+  "key": "conjuration_circles",
+  "short_id": "COJC",
+  "title": "Conjuration Circles & the Necromantic Tradition",
+  "creator": "various",
+  "date": "c. 1200–1800",
+  "century": 14,
+  "place": "England, Germany, France, Italy",
+  "region": "Western Europe",
+  "language": "Latin, English, German",
+  "era": "medieval",
+  "tradition": "goetia_grimoire",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "conjuration_circles",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Grimoires",
+  "rights": "Public domain. Via Wikimedia Commons.",
+  "motifs": ["magic circle", "conjuration", "necromancy", "solomonic", "diagram", "protective circle"],
+  "blurb": "The conjuration circle — a bounded zone of geometric and epigraphic power — is the defining visual object of the Western grimoire tradition. Inscribed with divine names in Latin, Hebrew, and Greek, divided by pentagrams, hexagrams, and crosses, the circle both protected the conjurer from the spirit being summoned and fixed the ritual space's sanctity. Here is the full range: the elegant protective circles of the *Clavicula Salomonis* manuscripts (British Library, Lansdowne and Harley collections), the rougher working diagrams of the Munich Necromancer's Manual, the elaborate *Sigillum Dei* of the *Sworn Book of Honorius*, Faust's infamous conjuration in popular illustration, and John Dee's *Holy Table* and *Sigillum Dei Aemeth* — the last translation of the medieval circle into an Elizabethan cosmological instrument."
+}

@@ -1,0 +1,20 @@
+{
+  "key": "ars_notoria",
+  "short_id": "ANTO",
+  "title": "Ars Notoria & the Angelic Theurgy Tradition",
+  "creator": "various (attributed to Solomon, Apollonius of Tyana, and others)",
+  "date": "c. 1225–1800",
+  "century": 13,
+  "place": "England, France, Germany, Italy, Byzantine Empire",
+  "region": "Western Europe",
+  "language": "Latin",
+  "era": "medieval",
+  "tradition": "goetia_grimoire",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "ars_notoria",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Ars_Notoria",
+  "rights": "Public domain / CC BY / CC BY-SA (per item). Via Wikimedia Commons.",
+  "motifs": ["nota", "angelic theurgy", "magical diagram", "divine names", "concentric circles", "sigillum dei", "Solomonic tradition", "liberal arts magic", "learned magic", "characteres"],
+  "blurb": "The *Ars Notoria* is the most widely copied magical manual of the medieval learned tradition — a system of angelic theurgy, concentrated prayer, and visual meditation on the *notae*: extraordinary circular, star-shaped, polygonal, and interlaced diagrams inscribed with divine names, Hebrew letters, *verba ignota*, and schematic figures. Practitioners believed that contemplating these images while reciting the accompanying orations would secure direct infusion of knowledge from the seven liberal arts, granted by angels sent by Solomon. First attested in the early 13th century and condemned by Thomas Aquinas, the tradition fed directly into John of Morigny's *Livre des figures*, the *Sworn Book of Honorius* (with its *Sigillum Dei*), and eventually John Dee's Enochian system. This grouping collects the core *Ars Notoria* notae alongside their cognate traditions: the Islamic *Shams al-Ma'ārif* (al-Būnī's Arabic parallel), the Hebrew *Sefer Raziel*, the Byzantine *Hygromanteia*, the Solomonic conjuration diagrams, and the 18th–19th century popular grimoire inheritors."
+}

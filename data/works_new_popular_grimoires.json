@@ -1,0 +1,20 @@
+{
+ "key": "popular_grimoires",
+ "short_id": "PGRIM",
+ "title": "The Popular Grimoire Tradition, 17th–19th c.",
+ "creator": "various",
+ "date": "c. 1600–1900",
+ "century": 17,
+ "place": "France, Germany, England, Italy; diaspora",
+ "region": "Western Europe & Americas",
+ "language": "French, German, English, Latin",
+ "era": "early_modern",
+ "tradition": "goetia_grimoire",
+ "tier": "illustration",
+ "root": "LOCAL",
+ "image_dir": "popular_grimoires",
+ "provenance_url": "https://commons.wikimedia.org/wiki/Category:Grimoires",
+ "rights": "Public domain. Via Wikimedia Commons.",
+ "motifs": ["grimoire", "spirit seal", "folk magic", "devil pact", "talisman", "chapbook"],
+ "blurb": "The popular grimoire tradition — the *Grimorium Verum* (first printed 1817, tradition 17th-c.), *Grand Grimoire* or *Red Dragon*, the *Petit Albert* and *Grand Albert*, the *Sixth and Seventh Books of Moses*, and the *Black Pullet* — represents the commercialised street-level end of learned ceremonial magic. These books travelled across European chapbook culture, into African-American conjure (hoodoo), German-American *Braucherei* (pow-wow), and beyond, translated into the practical magic of specific communities. Their illustrations — spirit seals, letter squares, diagrammatic talismans, scenes of devil pacts — are among the most visually striking popular-press images of any century."
+}
