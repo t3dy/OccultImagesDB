@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Twelve Processes — Occult Image DB</title>
+<meta name="description" content="The twelve alchemical operations — from Calcination to Projection — as depicted across the emblem books, manuscripts, and instructional prints of the Western tradition. Filter by operation to compare the same stage across Maier, Ripley, the Rosarium, and many others.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<style>
+/* ---- page-specific overrides for processes.html ---- */
+.proc-hero { padding: 56px 0 36px; border-bottom: 1px solid var(--line);
+  background: linear-gradient(180deg, rgba(201,162,75,.07), transparent); }
+.proc-hero h1 { font-family: var(--serif); font-size: clamp(30px,5vw,50px); margin: 0 0 14px;
+  color: var(--gold-bright); line-height: 1.05; }
+.proc-intro { max-width: 720px; color: var(--ink-dim); font-size: 16px; line-height: 1.72; margin: 0; }
+.proc-intro em { color: var(--ink); font-style: italic; }
+
+/* filter bar */
+.proc-bar { padding: 22px 0 18px; border-bottom: 1px solid var(--line);
+  display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.proc-btn { cursor: pointer; font-size: 13px; padding: 7px 14px; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--panel); color: var(--ink-dim);
+  font-family: var(--sans); transition: all .13s; white-space: nowrap; }
+.proc-btn:hover { border-color: var(--gold); color: var(--ink); }
+.proc-btn.on { background: var(--gold); border-color: var(--gold); color: #1a1407; font-weight: 600; }
+.proc-btn.all-btn { font-weight: 600; }
+.proc-num { opacity: .55; font-size: 11px; margin-left: 3px; }
+
+/* blurb strip */
+.proc-blurb-strip { min-height: 0; overflow: hidden; transition: max-height .25s ease; }
+.proc-blurb { max-width: 820px; margin: 22px auto 0; padding: 18px 22px;
+  background: rgba(201,162,75,.07); border: 1px solid rgba(201,162,75,.2); border-radius: 10px; }
+.proc-blurb-name { font-family: var(--serif); font-size: 26px; color: var(--gold-bright);
+  margin: 0 0 2px; display: flex; align-items: baseline; gap: 12px; }
+.proc-blurb-latin { font-style: italic; color: var(--gold); font-size: 16px; }
+.proc-blurb-tagline { color: var(--ink); font-family: var(--serif); font-style: italic; font-size: 17px; margin: 0 0 8px; }
+.proc-blurb-text { color: var(--ink-dim); font-size: 15px; line-height: 1.68; margin: 0; }
+
+/* results area */
+.proc-results { padding: 28px 0 70px; }
+.proc-count { color: var(--ink-faint); font-size: 14px; margin: 0 0 20px; }
+.proc-count b { color: var(--gold-bright); }
+.proc-sort { background: var(--panel); color: var(--gold-bright); border: 1px solid var(--gold);
+  border-radius: 8px; padding: 7px 10px; font-family: var(--sans); font-size: 13px; cursor: pointer;
+  margin-left: 12px; }
+.proc-results-head { display: flex; align-items: center; margin-bottom: 18px; }
+
+/* masonry grid */
+.proc-grid { column-count: 4; column-gap: 16px; }
+@media(max-width:1180px) { .proc-grid { column-count: 3; } }
+@media(max-width:820px)  { .proc-grid { column-count: 2; } }
+@media(max-width:520px)  { .proc-grid { column-count: 1; } }
+
+/* cards — match gallery.html .card style, with operation badge variant */
+.proc-card { break-inside: avoid; margin: 0 0 16px; display: block; background: var(--panel);
+  border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden;
+  transition: transform .16s, border-color .16s, box-shadow .16s; position: relative; text-decoration: none; }
+.proc-card:hover { transform: translateY(-3px); border-color: var(--gold); box-shadow: var(--shadow); }
+.proc-card img { width: 100%; display: block; background: var(--bg-2); }
+.proc-card .c-meta { padding: 10px 12px 12px; }
+.proc-card .c-title { font-family: var(--serif); font-size: 16px; line-height: 1.18;
+  color: var(--ink); margin: 0 0 3px; }
+.proc-card .c-work { font-size: 11.5px; color: var(--ink-faint); letter-spacing: .02em; margin: 0 0 5px; }
+.proc-card .c-op-tag { display: inline-block; font-size: 10.5px; letter-spacing: .08em;
+  text-transform: uppercase; background: rgba(201,162,75,.13); color: var(--gold-bright);
+  border: 1px solid rgba(201,162,75,.22); padding: 2px 7px; border-radius: 5px; }
+.proc-card .c-src-badge { position: absolute; top: 9px; left: 9px; font-size: 10px;
+  letter-spacing: .08em; text-transform: uppercase; background: rgba(14,13,18,.78);
+  color: var(--gold-bright); padding: 3px 8px; border-radius: 6px; backdrop-filter: blur(4px); }
+
+/* few-results note */
+.proc-few { padding: 30px; background: rgba(201,162,75,.07); border: 1px solid rgba(201,162,75,.18);
+  border-radius: 10px; color: var(--ink-dim); font-size: 15px; line-height: 1.65; margin: 0; }
+.proc-few strong { color: var(--ink); }
+.proc-few a { color: var(--gold-bright); }
+
+/* empty state */
+.proc-empty { padding: 60px 0; color: var(--ink-dim); text-align: center; font-size: 15px; }
+</style>
+</head>
+<body>
+<header class="site-head">
+  <div class="wrap head-inner">
+    <a class="brand" href="index.html">
+      <span class="brand-mark">☿</span>
+      <span class="brand-name">Occult Image DB</span>
+    </a>
+    <nav class="head-nav">
+      <a href="index.html">Explore</a>
+      <a href="ripley.html">Ripley</a>
+      <a href="operations.html">The Great Work</a>
+      <a href="processes.html" class="on">12 Processes</a>
+      <a href="browse.html">Themes</a>
+      <a href="history.html">History</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+</header>
+
+<section class="proc-hero">
+  <div class="wrap">
+    <p class="op-kicker" style="font-family:var(--sans);text-transform:uppercase;letter-spacing:.18em;font-size:11.5px;color:var(--gold);margin:0 0 10px">A curated cross-source journey</p>
+    <h1>The Twelve Alchemical Processes</h1>
+    <p class="proc-intro">The twelve operations are the backbone of Western alchemical theory — a sequential
+      path of transformation from the prima materia to the Philosopher's Stone, codified by Paracelsus,
+      George Ripley, and a long tradition of Hermetic writers. Each operation appears across dozens of
+      emblem books, manuscripts, and instructional prints — the same stage reimagined by <em>Maier</em>,
+      <em>Ripley</em>, the <em>Rosarium</em>, <em>Splendor Solis</em>, and many others. Filter by operation
+      below to set these parallel depictions side by side.</p>
+  </div>
+</section>
+
+<div class="wrap">
+  <div class="proc-bar" id="procBar">
+    <button class="proc-btn all-btn on" data-op="all">All <span class="proc-num" id="allCount"></span></button>
+  </div>
+
+  <div class="proc-blurb-strip" id="blurbStrip" style="display:none">
+    <div class="proc-blurb" id="blurbBox"></div>
+  </div>
+
+  <div class="proc-results">
+    <div class="proc-results-head">
+      <span class="proc-count" id="procCount"></span>
+      <select class="proc-sort" id="procSort">
+        <option value="chrono">Sort: chronological</option>
+        <option value="work">Sort: by source work</option>
+        <option value="title">Sort: A–Z</option>
+      </select>
+    </div>
+    <div id="procGrid" class="proc-grid"></div>
+    <div id="procEmpty" class="proc-empty" hidden>No images found for this filter.</div>
+    <div id="procFew" hidden></div>
+  </div>
+</div>
+
+<footer class="site-foot">
+  <div class="wrap">
+    <p>Occult Image DB — whole-image archive of the alchemical &amp; occult tradition.
+       The twelve processes follow Sir George Ripley's <em>Compound of Alchymie</em>.
+       Imagery is public domain; verify rights per item before commercial use.
+       <a href="about.html">About &amp; method →</a></p>
+  </div>
+</footer>
+
+<script>
+/* ============================================================
+   processes.html — client-side filter + masonry grid
+   Loads data/catalog.json at runtime; filters by operation
+   tags in key_concepts and motifs fields.
+   ============================================================ */
+
+const OPERATIONS = [
+  { key: "calcination",   n: 1,  name: "Calcination",   latin: "Calcinatio",   tagline: "The matter burned to ash.",                               blurb: "The first gate: the raw body is given to the fire — dried, scorched, reduced to a black ash so the volatile spirit can later be freed. Its creatures are the furnace, the salamander unburnt in the flame, and the green lion that devours the sun." },
+  { key: "dissolution",   n: 2,  name: "Dissolution",   latin: "Solutio",      tagline: "The ash drowned in the philosophical water.",              blurb: "The second gate: what fire hardened, water now dissolves. The body is returned to its first moisture — the bath, the falling dew, the flood and the drowning king — so that form may melt back into prime matter." },
+  { key: "separation",    n: 3,  name: "Separation",    latin: "Separatio",    tagline: "The subtle divided from the gross.",                       blurb: "The third gate: the dissolved matter is parted — pure from impure, soul from body, the fixed from the volatile. Its sign is the sword that divides, the eagle that rises from the toad, the two that were one made two again." },
+  { key: "conjunction",   n: 4,  name: "Conjunction",   latin: "Coniunctio",   tagline: "The chymical wedding of Sol and Luna.",                    blurb: "The fourth gate, and the heart of the Work: the purified opposites are married. Sun weds Moon, King weds Queen, male weds female, and from their embrace comes the Rebis — the two-headed hermaphrodite in whom the contraries are reconciled." },
+  { key: "putrefaction",  n: 5,  name: "Putrefaction",  latin: "Putrefactio",  tagline: "The black death in the sealed grave.",                     blurb: "The fifth gate: the wedded pair die together and rot in the closed vessel. This is the nigredo, the blackest night of the Work — the corpse in the tomb, the raven's head, the toad swollen with poison — without which nothing is reborn." },
+  { key: "congelation",   n: 6,  name: "Congelation",   latin: "Congelatio",   tagline: "The white spirit fixed into a body.",                      blurb: "The sixth gate: the freed spirit is coagulated again into a white, fixed body — the albedo, the silver dawn after the black night. The dove descends, the swan whitens, the scattered is gathered and made to stand." },
+  { key: "cibation",      n: 7,  name: "Cibation",      latin: "Cibatio",      tagline: "The infant stone fed and nursed.",                         blurb: "The seventh gate: the young stone is fed by degrees with its milk and meat — new draughts of mercurial water and earth — as a nurse feeds a child or the pelican her brood with her own blood. It is tended until it can bear the fire." },
+  { key: "sublimation",   n: 8,  name: "Sublimation",   latin: "Sublimatio",   tagline: "The volatile raised on white wings.",                      blurb: "The eighth gate: the spirit is lifted up — vapour climbing the glass, the bird of Hermes ascending and descending, the eagle bearing the body aloft. What was heavy and below is made subtle and above, then made to fall again, purified." },
+  { key: "fermentation",  n: 9,  name: "Fermentation",  latin: "Fermentatio",  tagline: "The peacock's tail and the leaven of gold.",               blurb: "The ninth gate: a ferment of pure gold is added to quicken the stone, as leaven raises bread. The matter bursts into the iridescent cauda pavonis — the peacock's tail — every colour flashing across the glass before it settles toward gold." },
+  { key: "exaltation",    n: 10, name: "Exaltation",    latin: "Exaltatio",    tagline: "The stone lifted to its highest virtue.",                  blurb: "The tenth gate: the stone is exalted — raised in dignity and power, refined to a higher nature. It is the ascent of the mountain, the crowning, the glorified body that has put off corruption and shines." },
+  { key: "multiplication",n: 11, name: "Multiplication",latin: "Multiplicatio",tagline: "The stone's power increased a thousandfold.",              blurb: "The eleventh gate: the perfected stone is multiplied — each turn of the wheel increasing its quantity and its virtue, as one seed yields a harvest. The tree of the philosophers fruits; a little tinges much, and then far more." },
+  { key: "projection",    n: 12, name: "Projection",    latin: "Proiectio",    tagline: "The red stone cast upon base metal — and gold.",            blurb: "The twelfth and final gate: the red stone, the perfected Elixir, is cast upon molten base metal and transmutes it to gold. The rubedo is complete — the King returns crowned in red, the phoenix rises, the Great Work is accomplished." },
+];
+
+/* Illustrated emblem books get priority over technical/text-heavy works */
+const PREFERRED_WORKS = new Set([
+  'splendor_solis','rosarium','aurora_consurgens','atalanta_fugiens',
+  'valentine_twelve_keys','ripley_scrolls','lambsprinck','mylius_plates',
+  'stolcius','khunrath','flamel','alchemist_laboratory','alchemy_visionary',
+  'lambsprinck','alchemist_laboratory'
+]);
+
+const ERA_ORDER = { antiquity:0, medieval:1, renaissance:2, early_modern:3, modern:4 };
+const ESC = s => (s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const cap = s => (s||"").replace(/_/g," ").replace(/\b\w/g,c=>c.toUpperCase());
+
+const S = {
+  items: [],
+  works: {},
+  opMap: {},          // op key -> array of curated items
+  current: "all",
+  sort: "chrono",
+};
+
+async function boot() {
+  let data;
+  try {
+    data = await (await fetch("../data/catalog.json")).json();
+  } catch(e) {
+    document.getElementById("procGrid").innerHTML =
+      '<p class="proc-empty">Catalog not found — run scripts/build_catalog.py</p>';
+    return;
+  }
+
+  S.items = (data.items || []).filter(it => it.tier !== "page_scan" && it.thumb);
+  S.works = Object.fromEntries((data.works || []).map(w => [w.key, w]));
+
+  /* attach work title for display */
+  S.items.forEach(it => { it._workTitle = (S.works[it.work_key] || {}).title || it.work || it.work_key || ""; });
+
+  /* build per-operation item lists */
+  for (const op of OPERATIONS) {
+    const k = op.key;
+    const hits = S.items.filter(it => {
+      const kc = (it.key_concepts || []).map(c => c.toLowerCase());
+      const mt = (it.motifs || []).map(m => m.toLowerCase());
+      return kc.includes(k) || mt.includes(k);
+    });
+    /* sort: preferred illustrated emblem-books first, then chrono */
+    hits.sort((a, b) => {
+      const aP = PREFERRED_WORKS.has(a.work_key) ? 1 : 0;
+      const bP = PREFERRED_WORKS.has(b.work_key) ? 1 : 0;
+      if (bP !== aP) return bP - aP;
+      return (ERA_ORDER[a.era] ?? 9) - (ERA_ORDER[b.era] ?? 9) ||
+             (a._workTitle).localeCompare(b._workTitle) ||
+             (a.seq || 0) - (b.seq || 0);
+    });
+    S.opMap[k] = hits;
+  }
+
+  buildBar();
+  apply();
+}
+
+function buildBar() {
+  const bar = document.getElementById("procBar");
+  const allBtn = bar.querySelector('[data-op="all"]');
+  const total = S.items.length;
+  document.getElementById("allCount").textContent = total.toLocaleString();
+
+  for (const op of OPERATIONS) {
+    const n = (S.opMap[op.key] || []).length;
+    const btn = document.createElement("button");
+    btn.className = "proc-btn";
+    btn.dataset.op = op.key;
+    btn.innerHTML = `${op.n}. ${ESC(op.name)} <span class="proc-num">${n}</span>`;
+    btn.onclick = () => { S.current = op.key; setActive(btn); showBlurb(op); apply(); };
+    bar.appendChild(btn);
+  }
+  allBtn.onclick = () => { S.current = "all"; setActive(allBtn); hideBlurb(); apply(); };
+}
+
+function setActive(btn) {
+  document.querySelectorAll(".proc-btn").forEach(b => b.classList.remove("on"));
+  btn.classList.add("on");
+}
+
+function showBlurb(op) {
+  const strip = document.getElementById("blurbStrip");
+  const box = document.getElementById("blurbBox");
+  box.innerHTML = `
+    <p class="proc-blurb-name">${ESC(op.n + ". " + op.name)} <span class="proc-blurb-latin">${ESC(op.latin)}</span></p>
+    <p class="proc-blurb-tagline">${ESC(op.tagline)}</p>
+    <p class="proc-blurb-text">${ESC(op.blurb)}</p>`;
+  strip.style.display = "";
+}
+
+function hideBlurb() {
+  document.getElementById("blurbStrip").style.display = "none";
+}
+
+function apply() {
+  let items;
+  if (S.current === "all") {
+    /* show all curated items that match any operation */
+    const opSet = new Set(OPERATIONS.map(o => o.key));
+    items = S.items.filter(it => {
+      const kc = (it.key_concepts || []).map(c => c.toLowerCase());
+      const mt = (it.motifs || []).map(m => m.toLowerCase());
+      return kc.some(c => opSet.has(c)) || mt.some(m => opSet.has(m));
+    });
+  } else {
+    items = S.opMap[S.current] || [];
+  }
+
+  /* apply sort */
+  items = items.slice();
+  if (S.sort === "title") {
+    items.sort((a,b) => a.title.localeCompare(b.title));
+  } else if (S.sort === "work") {
+    items.sort((a,b) => a._workTitle.localeCompare(b._workTitle) || (a.seq||0)-(b.seq||0));
+  } else {
+    /* chrono — preferred works first within chrono tiers */
+    items.sort((a,b) => {
+      const aP = PREFERRED_WORKS.has(a.work_key) ? 1 : 0;
+      const bP = PREFERRED_WORKS.has(b.work_key) ? 1 : 0;
+      const eA = ERA_ORDER[a.era] ?? 9, eB = ERA_ORDER[b.era] ?? 9;
+      if (eA !== eB) return eA - eB;
+      if (bP !== aP) return bP - aP;
+      return a._workTitle.localeCompare(b._workTitle) || (a.seq||0)-(b.seq||0);
+    });
+  }
+
+  const grid = document.getElementById("procGrid");
+  const emptyEl = document.getElementById("procEmpty");
+  const fewEl = document.getElementById("procFew");
+  const countEl = document.getElementById("procCount");
+
+  /* which op are we showing? */
+  const op = S.current !== "all" ? OPERATIONS.find(o => o.key === S.current) : null;
+
+  if (items.length === 0) {
+    grid.innerHTML = "";
+    emptyEl.hidden = false;
+    fewEl.hidden = true;
+    countEl.innerHTML = "<b>0</b> images";
+    return;
+  }
+
+  emptyEl.hidden = true;
+
+  /* few-results note (< 3 curated) */
+  if (op && items.length < 3) {
+    fewEl.hidden = false;
+    fewEl.innerHTML = `<div class="proc-few"><strong>${ESC(op.name)}</strong> has fewer than three curated illustrations
+      currently indexed — the archive is growing. The ${items.length > 0 ? items.length + " image" + (items.length>1?"s":"") + " shown are" : "images will be"} verified illustrated pages.
+      To see more, browse the full <a href="gallery.html">gallery</a> or the
+      <a href="operations.html#${op.key}">Great Work page for ${ESC(op.name)}</a>.</div>`;
+  } else {
+    fewEl.hidden = true;
+  }
+
+  /* find the matching operation key(s) for each item (for the tag badge) */
+  const opKeys = new Set(OPERATIONS.map(o => o.key));
+
+  countEl.innerHTML = op
+    ? `<b>${items.length.toLocaleString()}</b> image${items.length===1?"":"s"} tagged <em>${ESC(op.name)}</em>`
+    : `<b>${items.length.toLocaleString()}</b> image${items.length===1?"":"s"} across all twelve processes`;
+
+  const frag = document.createDocumentFragment();
+  for (const it of items) {
+    /* find which op tags this item has */
+    const kc = (it.key_concepts||[]).map(c=>c.toLowerCase());
+    const mt = (it.motifs||[]).map(m=>m.toLowerCase());
+    const matchedOps = OPERATIONS.filter(o => kc.includes(o.key) || mt.includes(o.key));
+    const opTagHtml = matchedOps.length > 0
+      ? matchedOps.map(o => `<span class="c-op-tag">${ESC(o.name)}</span>`).join(" ")
+      : "";
+
+    const work = S.works[it.work_key] || {};
+    const workTitle = it._workTitle;
+
+    const a = document.createElement("a");
+    a.className = "proc-card";
+    a.href = `item.html?id=${encodeURIComponent(it.id)}`;
+    a.innerHTML = `
+      <span class="c-src-badge">${ESC(workTitle.slice(0,28))}</span>
+      <img decoding="async" loading="lazy" src="${ESC(it.thumb)}" alt="${ESC(it.title)}">
+      <div class="c-meta">
+        <p class="c-title">${ESC(it.title)}</p>
+        <p class="c-work">${ESC(it.creator || "")}${it.date ? " &middot; " + ESC(it.date) : ""}</p>
+        ${opTagHtml ? `<div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:4px">${opTagHtml}</div>` : ""}
+      </div>`;
+    frag.appendChild(a);
+  }
+  grid.innerHTML = "";
+  grid.appendChild(frag);
+}
+
+/* sort control */
+document.getElementById("procSort").onchange = e => { S.sort = e.target.value; apply(); };
+
+/* deep-link: ?op=calcination */
+const _p = new URLSearchParams(location.search);
+if (_p.get("op")) {
+  const _key = _p.get("op").toLowerCase();
+  const _op = OPERATIONS.find(o => o.key === _key);
+  if (_op) {
+    S.current = _key;
+    /* button won't exist yet — set after buildBar() via boot */
+    window._deepOp = _op;
+  }
+}
+
+boot().then(() => {
+  if (window._deepOp) {
+    const btn = document.querySelector(`.proc-btn[data-op="${CSS.escape(window._deepOp.key)}"]`);
+    if (btn) { setActive(btn); showBlurb(window._deepOp); apply(); }
+  }
+});
+</script>
+</body>
+</html>

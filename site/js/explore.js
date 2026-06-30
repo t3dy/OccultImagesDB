@@ -140,7 +140,8 @@ function tabCollections() {
   const cards = EX.collections.map(c => {
     const im = EX.items.filter(i => imageMatches(i, c.match));
     const cov = c.cover && EX.items.find(i => i.id === c.cover);
-    return catCard({ href: `entity.html?type=collection&key=${c.key}`, thumb: (cov && cov.thumb) || coverThumb(im),
+    const href = c.href || `entity.html?type=collection&key=${c.key}`;
+    return catCard({ href, thumb: (cov && cov.thumb) || coverThumb(im),
       title: c.title, count: c.status === "live" ? im.length : null,
       badge: c.status === "coming_soon" ? "coming soon" : "curated", soon: c.status === "coming_soon" });
   });

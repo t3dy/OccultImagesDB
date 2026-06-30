@@ -2,6 +2,22 @@
   "_note": "Curated thematic collections. status 'live' = strong current image coverage; 'coming_soon' = the user's DBs hold the scholarship, images to be sourced (a visible roadmap). Images matched via match {work_keys, traditions, motif_terms, ids}. cover is optional (an image id); explore.js falls back to the first matching image.",
   "collections": [
     {
+      "key": "twelve_processes",
+      "title": "The Twelve Processes: A Cross-Source Journey",
+      "status": "live",
+      "href": "processes.html",
+      "cover": "atalanta_fugiens__emblem-05",
+      "framing": "The twelve operations of the Great Work — Calcination through Projection — gathered from across the archive. Filter by stage to set Maier, Ripley, the Rosarium, and Splendor Solis side by side, each imagining the same moment of transformation.",
+      "match": {
+        "motif_terms": [
+          "calcination","dissolution","separation","conjunction","putrefaction",
+          "congelation","cibation","sublimation","fermentation","exaltation",
+          "multiplication","projection"
+        ]
+      },
+      "figures": []
+    },
+    {
       "key": "atalanta_opus",
       "title": "The Great Work in Sequence: Atalanta Fugiens",
       "status": "live",
