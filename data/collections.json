@@ -208,9 +208,9 @@
     {
       "key": "neoplatonic_cosmos",
       "title": "The Animated Universe: Neoplatonic Cosmologies",
-      "status": "coming_soon",
-      "cover": null,
-      "framing": "The cosmos of Ficino and Pico — emanation from the One, the anima mundi, the scale of being from God to matter. The metaphysical substrate beneath all Renaissance magic.",
+      "status": "live",
+      "cover": "cosmological_diagrams__great-chain-being",
+      "framing": "The cosmos of Ficino and Pico — emanation from the One, the anima mundi, and the scale of being from God through the World-Soul to matter. This metaphysical framework, mediated by Proclus's *Elements of Theology* and Liber de Causis, is the substrate beneath all Renaissance magic: the universe as a living, resonant hierarchy in which the magician's art is the knowledge of correspondences.",
       "match": {
         "motif_terms": [
           "anima mundi",
@@ -221,15 +221,14 @@
       },
       "figures": [
         "robert-fludd"
-      ],
-      "needs": "Source the celestial-spheres diagrams, Bruno's cosmologies, Ficinian scale-of-being charts."
+      ]
     },
     {
       "key": "medieval_grimoires",
       "title": "From Picatrix to the Lesser Key: Medieval Grimoire Traditions",
-      "status": "coming_soon",
-      "cover": null,
-      "framing": "The long arc of grimoire culture — Islamic astrological magic (Picatrix), clerical ritual magic (Ars Notoria, Clavicula), and early-modern demonological manuals. The user's MedievalMagicDB catalogues thirteen of these texts.",
+      "status": "live",
+      "cover": "ars_notoria__picatrix-manuscript",
+      "framing": "The long arc of grimoire culture — from Islamic astrological magic (Picatrix, Ghayat al-Hikmah) and clerical angel-magic (Ars Notoria, Liber Juratus) through Solomonic demonology (Goetia, Lemegeton) to the popular manuals of the seventeenth century. Magic circles, conjuration diagrams, talismanic figures, wafq squares, and the scripts of the grimoire tradition.",
       "match": {
         "motif_terms": [
           "grimoire",
@@ -237,8 +236,7 @@
           "magic circle"
         ]
       },
-      "figures": [],
-      "needs": "Source Picatrix talisman figures, Ars Notoria notae, Heptameron circles, Book of Oberon diagrams."
+      "figures": []
     },
     {
       "key": "witch_trials",

@@ -133,7 +133,7 @@ def main():
         by_id[cid] = rec
 
     # --- enrichment pass: scholarly citations + related-emblem links + key concepts.
-    #     Additive only (never touches summary/title/motifs) — safe for hand-authored records too.
+    #     Additive for key_concepts (merges into existing list). Replaces citations/related_emblems.
     theo_raw = load_json(THEO, []) or []
     if isinstance(theo_raw, dict):
         # find the first value that's a list of emblem dicts
@@ -161,7 +161,12 @@ def main():
         if t and t.get("related_emblems"):
             rec["related_emblems"] = [int(n) for n in t["related_emblems"]]
         if t and t.get("key_concepts"):
-            rec["key_concepts"] = t["key_concepts"]
+            existing = rec.get("key_concepts") or []
+            merged_kc = list(existing)
+            for kc in t["key_concepts"]:
+                if kc not in merged_kc:
+                    merged_kc.append(kc)
+            rec["key_concepts"] = merged_kc
         if t or num >= 1:
             enriched += 1
 
