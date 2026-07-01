@@ -2,6 +2,17 @@
   "_note": "Curated thematic collections. status 'live' = strong current image coverage; 'coming_soon' = the user's DBs hold the scholarship, images to be sourced (a visible roadmap). Images matched via match {work_keys, traditions, motif_terms, ids}. cover is optional (an image id); explore.js falls back to the first matching image.",
   "collections": [
     {
+      "key": "magical_automata",
+      "title": "Thinking Machines: Automata & Animated Statues",
+      "status": "live",
+      "cover": "magical_automata__antikythera",
+      "framing": "Across the longue durée, craftsmen and philosophers dreamed of objects that think, move, and speak — from the Antikythera mechanism and the brazen Talos of Crete through medieval legends of Albertus Magnus's brass head, to Vaucanson's defecating duck and the clockwork angels of Baroque automata. These are the precursors to artificial intelligence, assembled from the same hermetic conviction that shaped alchemy: that art can rival nature.",
+      "match": {
+        "work_keys": ["magical_automata"]
+      },
+      "figures": []
+    },
+    {
       "key": "twelve_processes",
       "title": "The Twelve Processes: A Cross-Source Journey",
       "status": "live",

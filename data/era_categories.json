@@ -14,8 +14,21 @@
        "sculpture"
       ]
      },
-     "count": 82,
+     "count": 86,
      "cover": "mystery_cults__tauroctony"
+    },
+    {
+     "key": "gnostic",
+     "label": "Gnostic Cosmologies",
+     "blurb": "Ophite diagrams, Nag Hammadi codices, and the secret maps of the Pleroma.",
+     "match": {
+      "work_keys": [
+       "gnostic_codices",
+       "gnostic_hermetic"
+      ]
+     },
+     "count": 12,
+     "cover": "gnostic_codices__ouroboros-chrysopoeia"
     },
     {
      "key": "gems",
@@ -38,7 +51,7 @@
        "mosaic"
       ]
      },
-     "count": 16,
+     "count": 17,
      "cover": "ancient_zodiac__dendera-zodiac"
     },
     {
@@ -50,7 +63,7 @@
        "ceramic"
       ]
      },
-     "count": 15,
+     "count": 17,
      "cover": "incantation_bowls__aramaic-incantation-bowl"
     },
     {
@@ -63,7 +76,7 @@
        "metalwork"
       ]
      },
-     "count": 16,
+     "count": 21,
      "cover": "byzantine_jewish_amulets__holy-rider-armband"
     }
    ]
@@ -80,7 +93,7 @@
        "alchemy"
       ]
      },
-     "count": 39,
+     "count": 51,
      "cover": "alchemy_ms__aurora-consurgens-plate"
     },
     {
@@ -92,7 +105,7 @@
        "astrology"
       ]
      },
-     "count": 41,
+     "count": 44,
      "cover": "astrological_medicine__zodiac-man-diagram"
     },
     {
@@ -104,7 +117,7 @@
        "goetia_grimoire"
       ]
      },
-     "count": 26,
+     "count": 38,
      "cover": "medieval_grimoire__heptameron-circle"
     },
     {
@@ -119,7 +132,7 @@
        "hermetic"
       ]
      },
-     "count": 31,
+     "count": 33,
      "cover": "cosmological_diagrams__hildegard-cosmic-man"
     },
     {
@@ -145,6 +158,18 @@
      },
      "count": 13,
      "cover": "hellmouth__tres-riches-heures-hell"
+    },
+    {
+     "key": "norse",
+     "label": "Norse & Germanic Magic",
+     "blurb": "Runic curse-stones, picture stones, Mjolnir pendants and the binding charms of the North.",
+     "match": {
+      "work_keys": [
+       "norse_germanic_magic"
+      ]
+     },
+     "count": 12,
+     "cover": "norse_germanic_magic__stora-hammars"
     }
    ]
   },
@@ -160,7 +185,7 @@
        "alchemy"
       ]
      },
-     "count": 136,
+     "count": 140,
      "cover": "alchemist_laboratory__khunrath-laboratory"
     },
     {
@@ -172,7 +197,7 @@
        "hermetic"
       ]
      },
-     "count": 117,
+     "count": 142,
      "cover": "harmony_spheres__pythagoras-monochord"
     },
     {
@@ -223,7 +248,7 @@
        "physiognomy"
       ]
      },
-     "count": 24,
+     "count": 29,
      "cover": "renaissance_magic_deep__geomantic-figures"
     },
     {
@@ -235,7 +260,7 @@
        "reception"
       ]
      },
-     "count": 251,
+     "count": 252,
      "cover": "classical_reception__dossi-circe"
     },
     {
@@ -247,7 +272,7 @@
        "woodcut"
       ]
      },
-     "count": 267,
+     "count": 289,
      "cover": "witchcraft__baldung-witches-sabbath"
     },
     {
@@ -259,7 +284,7 @@
        "engraving"
       ]
      },
-     "count": 233,
+     "count": 243,
      "cover": "sacred_geometry__durer-melencolia-full"
     }
    ]
@@ -276,7 +301,7 @@
        "alchemy"
       ]
      },
-     "count": 284,
+     "count": 321,
      "cover": "magical_creatures__toad-nigredo"
     },
     {
@@ -289,7 +314,7 @@
        "hermetic"
       ]
      },
-     "count": 260,
+     "count": 273,
      "cover": "rosicrucian_hermetic__geheime-mountain"
     },
     {
@@ -301,7 +326,7 @@
        "goetia_grimoire"
       ]
      },
-     "count": 100,
+     "count": 136,
      "cover": "solomonic_tradition__goetia-circle-triangle"
     },
     {
@@ -313,7 +338,7 @@
        "astrology"
       ]
      },
-     "count": 86,
+     "count": 87,
      "cover": "cosmological_diagrams__cellarius-ptolemaic"
     },
     {
@@ -333,6 +358,30 @@
   {
    "era": "modern",
    "categories": [
+    {
+     "key": "golden_dawn",
+     "label": "The Golden Dawn",
+     "blurb": "Mathers, Waite, Crowley and the fraternal orders of the late-Victorian occult revival.",
+     "match": {
+      "work_keys": [
+       "golden_dawn"
+      ]
+     },
+     "count": 14,
+     "cover": "golden_dawn__mathers-isis"
+    },
+    {
+     "key": "shamanism",
+     "label": "Shamanism",
+     "blurb": "Siberian drums, soul-catchers and the ecstatic traditions of circumpolar and indigenous peoples.",
+     "match": {
+      "work_keys": [
+       "shamanism"
+      ]
+     },
+     "count": 19,
+     "cover": "shamanism__siberia-drum"
+    },
     {
      "key": "revival",
      "label": "The Occult Revival",
@@ -379,7 +428,7 @@
        "physiognomy"
       ]
      },
-     "count": 47,
+     "count": 54,
      "cover": "magicians_at_work__geomancer"
     },
     {
