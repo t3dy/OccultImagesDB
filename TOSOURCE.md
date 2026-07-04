@@ -79,21 +79,27 @@ from SBB and BnF may have institutional restrictions.
 - BnF Gallica Ar. 2658: https://gallica.bnf.fr/ark:/12148/btv1b84064023
   **CAPTCHA barrier — see §C below**
 
-### §E — Al-Buni Shams al-Ma'arif (Local PDF Available)
+### §E — Al-Buni Shams al-Ma'arif (Local PDF — DONE)
 
-You have a scan of the **Mustafa al-Babi al-Halabi Cairo printed edition** at:
-`E:\pdf\Islamicate Chill Pills\Ahmad al Buni shams al ma arif.pdf`
+**✅ EXTRACTED** — McGill University library scan of the Mustafa al-Babi al-Halabi
+Cairo printed edition at `E:\pdf\Islamicate Chill Pills\Ahmad al Buni shams al ma arif.pdf`.
 
-This is 604 pages, public domain (printed edition >100 years old). It contains:
-- Magic squares (awfaq/wufuq) — appear around pp. 248–350
-- Number tables and letter-combination grids — throughout
-- Geomantic/raml branching tree diagram — around p. 550
-- Decorative chapter headings — p. 150 area
-- Circular talisman diagrams — scattered
+5 diagram pages extracted (2026-07-04), committed as `shams_al_maarif` work:
 
-**Action needed:** Identify the best 15–20 diagram pages visually, then run a local
-extraction batch. I can do this in the next session — just ask.
-This edition is suitable for a new `shams_al_maarif` work in OCCULTIMGDB.
+| Image ID | Page | Content |
+|----------|------|---------|
+| `printed-khatim-diamond-p56` | 56 | Diamond khatim talisman seal |
+| `printed-chapter-heading-p150` | 150 | Geometric diamond-lattice chapter heading |
+| `printed-magic-squares-p201` | 201 | Awfaq (magic squares) and letter-grid tables |
+| `printed-teardrop-cosmogram-p256` | 256 | Full-page teardrop cosmological diagram |
+| `printed-raml-tree-p550` | 550 | Raml (geomantic) branching tree diagram |
+
+Rights: Public Domain (printed edition >100 years old, McGill University scan).
+
+**Remaining printed-edition pages not extracted** (dense text, small inline diagrams):
+- pp. 248–350: More magic square grids embedded in text (small, not standalone)
+- pp. 260–280: Text only
+- If you want more inline awfaq, re-scan the range with a wider net.
 
 **Better source:** The **manuscript** Shams al-Ma'arif is far more visually striking than
 the printed edition. Key digitized manuscript copies:
@@ -239,16 +245,29 @@ If found, IIIF manifests follow: https://content.staatsbibliothek-berlin.de/dc/{
 
 ## PART 6 — What I Can Download Automatically (Next Steps)
 
-The following can be added to OCCULTIMGDB without manual intervention from you:
-
-| Item | Source | Action |
+| Item | Source | Status |
 |------|--------|--------|
-| Shams al-Ma'arif.jpg (1 image) | Already on Commons | Add to batch `overrides_batch_shams_al_maarif.json` |
-| Shams al-Ma'arif printed pages (15-20 best diagrams) | Local PDF E:\pdf\... | Extract + add as LOCAL batch |
-| Bayerische Staatsbibliothek Hebrew MSS | BSB digital (open, no login) | Browse and batch download |
-| British Library digitized Arabic MSS | BL IIIF (many open) | Browse and batch download |
-| Bodleian Islamic/Hebrew MSS | Bodleian Digital (mostly open) | Browse and batch download |
-| NLI Collections (National Library of Israel) | nli.org.il (open) | Browse and batch download |
+| Shams al-Ma'arif.jpg (1 image) | Commons | ✅ DONE — `shams_al_maarif__ms-17c-opening` |
+| Shams al-Ma'arif printed diagrams (5 pages) | Local PDF E:\pdf\... | ✅ DONE — pp. 56, 150, 201, 256, 550 |
+| Bayerische Staatsbibliothek Hebrew MSS | BSB digital (JS-rendered) | ❌ Search JS-blocked; use manually |
+| British Library digitized Arabic MSS | BL IIIF (many open) | Try: `https://www.bl.uk/manuscripts/` |
+| Bodleian Islamic/Hebrew MSS | Bodleian Digital | ❌ No al-Buni or SY results found |
+| NLI (National Library of Israel) | nli.org.il | ❌ Search URL formats not found |
+
+**Gallica (BnF) — CAPTCHA BLOCKER:**
+- All Gallica API endpoints (SRU, IIIF) return ALTCHA captcha to browser OR 403 to Python
+- The Gallica viewer works on homepage but all search/API routes are blocked
+- **What you need to do:** Open https://gallica.bnf.fr in your browser, clear the captcha,
+  then navigate to:
+  - BnF hébreu 763 (Sefer Yetzirah diagrams, Segol Figs 4.3 + 6.3)
+  - BnF Arabe 2657 and Arabe 2658 (al-Buni Lata'if al-Isharat)
+  Once you have the Gallica viewer open for these manuscripts, I can construct IIIF download URLs
+  once the captcha session cookie is active.
+
+**SBB Berlin (Staatsbibliothek) — JS-BLOCKED:**
+- Both search and viewer require JavaScript rendering
+- **What you need to do:** Navigate to https://digital.staatsbibliothek-berlin.de and search
+  for "Buni" or "Lata'if al-Isharat" or "Or. 80"
 
 ---
 
