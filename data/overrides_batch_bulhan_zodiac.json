@@ -1,0 +1,123 @@
+{
+  "_work": {
+    "key": "islamicate_occult",
+    "title": "Islamicate Occult: Jinn, Divination and the Arabic Magical Sciences",
+    "tradition": "goetia_grimoire",
+    "era": "medieval",
+    "blurb": "Illustrations from Arabic and Persian manuscripts of the occult sciences — jinn taxonomy, astro-magical images, zodiacal demons, and divination figures. Includes the extraordinary Kitab al-Bulhan (Bodleian Library, late 14th c.), a composite compendium of astrology, astronomy, and geomancy with painted figures of zodiac signs, jinn kings, and demonic beings."
+  },
+  "entries": [
+    {
+      "id": "islamicate_occult__bulhan-3headed-devil",
+      "title": "Three-Headed Devil, *Kitab al-Bulhan* (Bodleian, late 14th c.)",
+      "date": "c. 1390–1410",
+      "place": "Iraq / Persia",
+      "medium": "manuscript",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_3-headed_devil.jpg",
+      "commons_file": "File:Kitab_al-Bulhan_---_3-headed_devil.jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_3-headed_devil.jpg",
+      "summary": "A three-headed devil figure from the Bodleian Library's *Kitab al-Bulhan* (Book of Wonders), a late 14th-century Arabic compendium of astrology, geomancy, and demonology. The manuscript combines astrological treatises with painted illustrations of zodiac figures, jinn, and demonic beings. Bodleian Library MS Arab. d. 212.",
+      "motifs": ["demon", "devil", "jinn", "arabic manuscript", "kitab al-bulhan", "demonology"],
+      "tier": "illustration"
+    },
+    {
+      "id": "islamicate_occult__bulhan-zodiac-scorpio",
+      "title": "Scorpio, *Kitab al-Bulhan* — Arabic Zodiac Figure",
+      "date": "c. 1390–1410",
+      "place": "Iraq / Persia",
+      "medium": "manuscript",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_zodiac_scorpio.jpg",
+      "commons_file": "File:Kitab_al-Bulhan_---_zodiac_scorpio.jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_zodiac_scorpio.jpg",
+      "summary": "The zodiac sign Scorpio from the *Kitab al-Bulhan* (Book of Wonders), a late 14th-century Arabic astrological compendium held at the Bodleian Library. The Islamic zodiac tradition was inherited from Hellenistic sources through Arabic translation, but developed its own iconographic vocabulary blending Persian and Mesopotamian conventions. Bodleian Library MS Arab. d. 212.",
+      "motifs": ["zodiac", "scorpio", "astrology", "arabic manuscript", "kitab al-bulhan"],
+      "tier": "illustration"
+    },
+    {
+      "id": "islamicate_occult__bulhan-zodiac-pisces",
+      "title": "Pisces, *Kitab al-Bulhan* — Arabic Zodiac Figure",
+      "date": "c. 1390–1410",
+      "place": "Iraq / Persia",
+      "medium": "manuscript",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_zodiac_fish_pisces.jpg",
+      "commons_file": "File:Kitab_al-Bulhan_---_zodiac_fish_pisces.jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_zodiac_fish_pisces.jpg",
+      "summary": "Pisces (the two fish) from the *Kitab al-Bulhan* zodiac cycle. The Arabic manuscript tradition often depicts Pisces as two fish linked by a cord, inheriting from Babylonian astronomical tradition. The Kitab al-Bulhan zodiac cycle is one of the finest surviving visual records of medieval Islamic astronomical iconography. Bodleian Library MS Arab. d. 212.",
+      "motifs": ["zodiac", "pisces", "astrology", "arabic manuscript", "kitab al-bulhan", "fish"],
+      "tier": "illustration"
+    },
+    {
+      "id": "islamicate_occult__bulhan-zodiac-cancer",
+      "title": "Cancer, *Kitab al-Bulhan* — Arabic Zodiac Figure",
+      "date": "c. 1390–1410",
+      "place": "Iraq / Persia",
+      "medium": "manuscript",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_zodiac_cancer.jpg",
+      "commons_file": "File:Kitab_al-Bulhan_---_zodiac_cancer.jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_zodiac_cancer.jpg",
+      "summary": "Cancer (the crab) from the *Kitab al-Bulhan* zodiac series. Cancer is the house of the Moon in traditional astrology; the Arabic tradition associated it with lunar magic, divination by water, and jinn of the watery realm. Bodleian Library MS Arab. d. 212, late 14th century.",
+      "motifs": ["zodiac", "cancer", "astrology", "arabic manuscript", "kitab al-bulhan", "moon"],
+      "tier": "illustration"
+    },
+    {
+      "id": "islamicate_occult__bulhan-zodiac-sagittarius",
+      "title": "Sagittarius (Centaur), *Kitab al-Bulhan* — Arabic Zodiac",
+      "date": "c. 1390–1410",
+      "place": "Iraq / Persia",
+      "medium": "manuscript",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_zodiac_centaur_sagittarius.jpg",
+      "commons_file": "File:Kitab_al-Bulhan_---_zodiac_centaur_sagittarius.jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_zodiac_centaur_sagittarius.jpg",
+      "summary": "Sagittarius as an archer-centaur from the *Kitab al-Bulhan* zodiac cycle. The centaur figure for Sagittarius was inherited from Greco-Roman tradition through Arabic translation; the Kitab al-Bulhan version blends these classical origins with a distinctly Persian-Mongol painting style characteristic of late Ilkhanid or Jalayirid manuscript production. Bodleian Library MS Arab. d. 212.",
+      "motifs": ["zodiac", "sagittarius", "centaur", "astrology", "arabic manuscript", "kitab al-bulhan", "jupiter"],
+      "tier": "illustration"
+    },
+    {
+      "id": "islamicate_occult__bulhan-man-snake",
+      "title": "Man and Snake, *Kitab al-Bulhan*",
+      "date": "c. 1390–1410",
+      "place": "Iraq / Persia",
+      "medium": "manuscript",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_man_and_snake.jpg",
+      "commons_file": "File:Kitab_al-Bulhan_---_man_and_snake.jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_man_and_snake.jpg",
+      "summary": "A man and serpent figure from the *Kitab al-Bulhan*. The serpent in Islamic occult literature carries multiple meanings: the jinn who appears as a snake, the Solomonic power over serpents, and the astrological dragon's nodes (al-ra's and al-dhanab, head and tail of the dragon) that govern eclipses. Bodleian Library MS Arab. d. 212.",
+      "motifs": ["serpent", "snake", "jinn", "arabic manuscript", "kitab al-bulhan", "occult figure"],
+      "tier": "illustration"
+    },
+    {
+      "id": "islamicate_occult__bulhan-birds-snakes",
+      "title": "Birds Swooping on Snakes, *Kitab al-Bulhan*",
+      "date": "c. 1390–1410",
+      "place": "Iraq / Persia",
+      "medium": "manuscript",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_birds_swoop_on_snakes.jpg",
+      "commons_file": "File:Kitab_al-Bulhan_---_birds_swoop_on_snakes.jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_birds_swoop_on_snakes.jpg",
+      "summary": "Birds attacking serpents, from the *Kitab al-Bulhan*. This motif — the eternal combat of bird (Simurgh, Garuda, or the Quran's Hud-hud) against serpent — appears across the Arabic occult sciences in contexts of talismanic snake-banishing and the control of earthly jinn. Bodleian Library MS Arab. d. 212, late 14th century.",
+      "motifs": ["birds", "serpents", "jinn", "arabic manuscript", "kitab al-bulhan", "occult figure", "natural magic"],
+      "tier": "illustration"
+    },
+    {
+      "id": "islamicate_occult__bulhan-human-devils",
+      "title": "Human Figure with Devils, *Kitab al-Bulhan*",
+      "date": "c. 1390–1410",
+      "place": "Iraq / Persia",
+      "medium": "manuscript",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_human_figure_and_devils.jpg",
+      "commons_file": "File:Kitab_al-Bulhan_---_human_figure_and_devils.jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitab_al-Bulhan_---_human_figure_and_devils.jpg",
+      "summary": "A human figure surrounded by devils, from the *Kitab al-Bulhan*. The image illustrates the demonic hierarchy that medieval Arabic magic literature sought to classify and control: jinn, shayatin (demons), and their kings were catalogued in relation to the planets, the zodiac, and the days of the week. Bodleian Library MS Arab. d. 212.",
+      "motifs": ["demon", "devil", "jinn", "arabic manuscript", "kitab al-bulhan", "demonology"],
+      "tier": "illustration"
+    }
+  ]
+}

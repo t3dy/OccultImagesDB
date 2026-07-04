@@ -807,7 +807,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/Category:Islamic_astrology",
     "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
     "blurb": "The occult sciences of the Islamicate world (10th–18th c.) — the chief conduit by which Greek and Indian astrology, alchemy and talismanic magic reached the Latin West. It gathers the demon-kings and zodiac figures of the Kitāb al-Bulhān, the angels and jinn of al-Qazwīnī's Wonders of Creation, al-Ṣūfī's constellation figures, the Falnāma divinatory paintings, Ottoman talismanic shirts and magic squares, brass astrolabes, celestial globes and geomantic instruments, and the alchemical-magical recipe books standing behind the Picatrix and Latin alchemy.",
-    "count": 17
+    "count": 25
   },
   {
     "key": "norse_germanic_magic",
@@ -1782,7 +1782,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/Category:Symbolist_paintings",
     "rights": "Public domain / CC0 (per item). Via Wikimedia Commons.",
     "blurb": "Symbolist and Romantic painters and printmakers of the fin-de-siècle who dressed esoteric, theosophical and occult themes in dream-imagery — sphinxes, chimeras, idols, and the personified Dead. Several (Delville, Schwabe, Point) were active in the Rosicrucian Salon de la Rose+Croix.",
-    "count": 35
+    "count": 36
   },
   {
     "key": "wishlist_fills",
@@ -1962,7 +1962,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/Category:Ars_Notoria",
     "rights": "Public domain / CC BY / CC BY-SA (per item). Via Wikimedia Commons.",
     "blurb": "The *Ars Notoria* is the most widely copied magical manual of the medieval learned tradition — a system of angelic theurgy, concentrated prayer, and visual meditation on the *notae*: extraordinary circular, star-shaped, polygonal, and interlaced diagrams inscribed with divine names, Hebrew letters, *verba ignota*, and schematic figures. Practitioners believed that contemplating these images while reciting the accompanying orations would secure direct infusion of knowledge from the seven liberal arts, granted by angels sent by Solomon. First attested in the early 13th century and condemned by Thomas Aquinas, the tradition fed directly into John of Morigny's *Livre des figures*, the *Sworn Book of Honorius* (with its *Sigillum Dei*), and eventually John Dee's Enochian system. This grouping collects the core *Ars Notoria* notae alongside their cognate traditions: the Islamic *Shams al-Ma'ārif* (al-Būnī's Arabic parallel), the Hebrew *Sefer Raziel*, the Byzantine *Hygromanteia*, the Solomonic conjuration diagrams, and the 18th–19th century popular grimoire inheritors.",
-    "count": 24
+    "count": 28
   },
   {
     "key": "abramelin",
@@ -2068,5 +2068,20 @@
     "rights": "Public domain. Via Wikimedia Commons.",
     "blurb": "Supplementary imagery for the two most visually underrepresented of the twelve alchemical operations: calcination (reduction to ash by fire — the first work, governed by Saturn) and congelation (fixation of the volatile into solid form — the binding of spirit into body).",
     "count": 3
+  },
+  {
+    "key": "islamic_talismans",
+    "title": "Islamic Talismanic Objects: Shirts, Scrolls, Bowls and Amulets",
+    "creator": "various",
+    "date": "13th-19th c.",
+    "era": "early_modern",
+    "tradition": "goetia_grimoire",
+    "tier": "illustration",
+    "place": "Ottoman Empire; Iran; Egypt; Islamic world",
+    "language": "Arabic, Ottoman Turkish, Persian",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Islamic_talismans",
+    "rights": "Public Domain; CC0; CC BY-SA 3.0 IGO. Via Wikimedia Commons.",
+    "blurb": "Physical talismans from the Islamic world: Ottoman and Safavid-era shirts inscribed top-to-bottom with Quranic verses, divine names, magic squares (wafq), and zodiacal symbols; prayer scrolls; brass talismanic bowls with serpent-and-zodiac ornament. These wearable and portable objects embody the practical side of the learned Islamic occult tradition documented in texts like the Picatrix, al-Buni's Shams al-Ma'arif, and the Solomonic seal literature.",
+    "count": 18
   }
 ]

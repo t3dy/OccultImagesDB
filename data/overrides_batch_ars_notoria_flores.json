@@ -1,0 +1,67 @@
+{
+  "_work": {
+    "key": "ars_notoria",
+    "title": "Ars Notoria (Notory Art) — The Flores Aurei and Related Angel-Magic Texts",
+    "tradition": "goetia_grimoire",
+    "era": "medieval",
+    "blurb": "The Notory Art (Ars Notoria / Flores Aurei): a system of angel-magic by which the practitioner, through fasting, prayer, and prolonged meditation on intricate diagrammatic 'notae', received instantaneous mastery of the seven liberal arts and divine wisdom. The tradition, attributed to Solomon, is documented from the 13th century; the earliest illustrated witness is BnF Latin 9336."
+  },
+  "entries": [
+    {
+      "id": "ars_notoria__solomon-receives-bnf-latin-7153",
+      "title": "Solomon Receives the Ars Notoria from Angel Pamphilius",
+      "date": "c. 1480–1520",
+      "place": "France",
+      "medium": "manuscript",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Solomon_Receives_the_Ars_Notoria.jpg",
+      "commons_file": "File:Solomon_Receives_the_Ars_Notoria.jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Solomon_Receives_the_Ars_Notoria.jpg",
+      "summary": "Frontispiece illumination from BnF MS Latin 7153 (15th–16th c.) depicting King Solomon receiving the Ars Notoria from the angel Pamphilius in the Jewish Temple. This is the canonical origin myth of the Notory Art: Solomon was granted the text by an angelic intermediary who appeared during prayer, situating the Ars Notoria within the broader Solomonic tradition of divinely-revealed wisdom literature.",
+      "motifs": ["ars notoria", "angel invocation", "solomon", "manuscript page", "medieval magic"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ars_notoria__bodley-951-f19-theology-chastity",
+      "title": "Fifth Figure of Theology and Chastity Nota, Bodley 951 f.19",
+      "date": "c. 1450",
+      "place": "England",
+      "medium": "manuscript",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Oxford,_Bodley_951,_f._19,_15th_century.jpg",
+      "commons_file": "File:Oxford,_Bodley_951,_f._19,_15th_century.jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Oxford,_Bodley_951,_f._19,_15th_century.jpg",
+      "summary": "Two notae from Bodleian Library MS Bodley 951 (f.19, 15th c.): the fifth figure of theology (nota theologiae quinta) and the figure of chastity — a virtue-nota associated with theological attainment. The Bodley 951 manuscript is a principal English witness of the Ars Notoria tradition; its notae are more densely annotated with Latin prayers than the earlier BnF witnesses. Unlike the grammar and logic notae (f.10v), these focus on higher-order theological virtues.",
+      "motifs": ["nota", "ars notoria", "theology", "ritual diagram", "liberal arts", "angelic magic"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ars_notoria__hygromanteia-harley-5596-f31r-seals",
+      "title": "Magic Seals from Hygromanteia, Harley MS 5596 fol. 31r — c. 1450",
+      "date": "c. 1450",
+      "place": "Byzantine Empire",
+      "medium": "manuscript",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Harley_manuscript_MS_5596,_fol._31r_-_ca._1450_-_magic_seals_very_similiar_to_later_Icelandic_magical_staves_(Galdrastafir).jpg",
+      "commons_file": "File:Harley_manuscript_MS_5596,_fol._31r_-_ca._1450_-_magic_seals_very_similiar_to_later_Icelandic_magical_staves_(Galdrastafir).jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Harley_manuscript_MS_5596,_fol._31r_-_ca._1450_-_magic_seals_very_similiar_to_later_Icelandic_magical_staves_(Galdrastafir).jpg",
+      "summary": "Folio 31r of the Hygromanteia (BL Harley MS 5596, c. 1450), showing a page of diagrammatic magical seals from the Solomonic Greek tradition. These figural seal-diagrams are the structural counterparts to the Latin Ars Notoria's notae — both serve as meditation objects and ritual activation instruments. This folio's seals show structural similarity to later Icelandic galdrastafir, documenting the northward transmission of the sigil-diagram tradition.",
+      "motifs": ["nota", "angelic seal", "ritual diagram", "medieval magic", "sigillum", "galdrastafir"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ars_notoria__sigillum-dei-anselmi-laurenziana",
+      "title": "Sigillum Dei from Giorgio Anselmi, BML Plut. 44.35 (c. 1501)",
+      "date": "c. 1501",
+      "place": "Parma / Florence, Italy",
+      "medium": "manuscript",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Giorgio_Anselmi,_Sigillum_Dei.png",
+      "commons_file": "File:Giorgio_Anselmi,_Sigillum_Dei.png",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Giorgio_Anselmi,_Sigillum_Dei.png",
+      "summary": "The Sigillum Dei from Biblioteca Medicea Laurenziana MS Plut. 44.35 (c. 1501), drawn by or for the astrologer Giorgio Anselmi of Parma. The Sigillum Dei appears in the medieval Sworn Book of Honorius, a text closely related to the Ars Notoria: both use elaborate figures with angelic names and divine letter-sequences as ritual meditation objects. This Renaissance Italian version demonstrates the persistence of the nota-tradition into learned humanist magic.",
+      "motifs": ["sigillum dei", "angelic seal", "ars notoria", "ritual diagram", "renaissance magic"],
+      "tier": "illustration"
+    }
+  ]
+}
