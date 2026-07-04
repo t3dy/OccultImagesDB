@@ -95398,6 +95398,28 @@
     "tier": "illustration"
   },
   {
+    "id": "ordinal_alchemy__master-and-pupil-1477",
+    "title": "Master and Pupil — Ordinal of Alchemy Illumination, BL Add MS 10302",
+    "date": "1477",
+    "place": "England",
+    "medium": "manuscript illumination",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:1477_thomas_norton_the_ordinall_of_alchymy_master_and_pupil.jpg",
+    "commons_file": "File:1477 thomas norton the ordinall of alchymy master and pupil.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Illuminated manuscript page from BL Add MS 10302 (1477) depicting a master — likely George Ripley, Norton's claimed teacher — orally transmitting alchemical knowledge to a pupil identified as Thomas Norton. One of the earliest known English alchemical illustrations. Norton's insistence that the art must be learned from a true adept, not from books alone, is a major theme of Chapter I: the pupil's worthiness is tested through patience, secrecy, and philosophical preparation.",
+    "motifs": [
+      "master and pupil",
+      "alchemical transmission",
+      "illumination",
+      "Norton",
+      "ordinal of alchemy",
+      "manuscript",
+      "George Ripley"
+    ],
+    "tier": "illustration"
+  },
+  {
     "id": "ordinal_alchemy__norton-frontispiece-full",
     "title": "Thomas Norton — Full Frontispiece with Motto, from Theatrum Chemicum Britannicum",
     "date": "1652",
@@ -95415,6 +95437,26 @@
       "Theatrum Chemicum Britannicum",
       "engraving",
       "ordinal of alchemy"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__norton-portrait",
+    "title": "Portrait of Thomas Norton (1433–1513) — from the Ordinal Manuscript",
+    "date": "c. 1477",
+    "place": "England",
+    "medium": "manuscript illumination",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Thomas_Norton_(1433-1513)_portrait.png",
+    "commons_file": "File:Thomas Norton (1433-1513) portrait.png",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Portrait of English alchemist and poet Thomas Norton (d. 1513) from a contemporary manuscript of his Ordinal of Alchemy (BL Add MS 10302). Norton was a member of Parliament for Bristol and a gentleman alchemist who composed the Ordinal c. 1477. He claimed to have achieved the Great Work under the tutelage of George Ripley, though his manuscript of the Stone was allegedly stolen by a servant of his rival, the Duchess of Clarence.",
+    "motifs": [
+      "author portrait",
+      "Thomas Norton",
+      "Bristol",
+      "alchemist portrait",
+      "manuscript illumination"
     ],
     "tier": "illustration"
   },
@@ -95575,15 +95617,15 @@
   },
   {
     "id": "ordinal_alchemy__tcb-1652-fig5",
-    "title": "Theatrum Chemicum Britannicum — Norton's Ordinal Fig. 5: Projection (1652 Engraving)",
+    "title": "Figure 5 from Norton's Ordinal — Theatrum Chemicum Britannicum (1652)",
     "date": "1652",
     "place": "London, England",
     "medium": "engraving",
     "rights": "Public Domain",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Norton_Ordinal_TCB_1652_fig5.jpg",
-    "commons_file": "File:Norton Ordinal TCB 1652 fig5.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Thomas_Norton_-_Ordinall_of_Alchemy-fig5.jpeg",
+    "commons_file": "File:Thomas Norton - Ordinall of Alchemy-fig5.jpeg",
     "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
-    "summary": "Figure 5 — the concluding plate from Elias Ashmole's Theatrum Chemicum Britannicum (1652) for Norton's Ordinal of Alchemy. Depicts the culminating act of projection — the casting of the Stone upon base metals to transmute them into gold. The Ordinal's seventh and final chapter treats projection at length, describing the Stone's power of multiplication: a single grain projected upon a thousand times its weight in common metal achieves perfect transmutation.",
+    "summary": "Figure 5 from Thomas Norton's Ordinal of Alchemy as printed in Elias Ashmole's Theatrum Chemicum Britannicum (London, 1652) — one of the five engraved plates that accompanied the first printed edition. This figure is the most widely reproduced of the Ordinal's printed images and illustrates a later stage of the Great Work sequence. Ashmole's 1652 anthology is the most important English collection of alchemical verse.",
     "motifs": [
       "Theatrum Chemicum Britannicum",
       "engraving",
@@ -95591,9 +95633,229 @@
       "ordinal of alchemy",
       "Ashmole",
       "philosopher's stone",
-      "projection",
-      "transmutation",
       "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-1652-title-page",
+    "title": "Theatrum Chemicum Britannicum — Title Page (1652)",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "printed book",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Theatrum_Chemicum_Britannicum.jpg",
+    "commons_file": "File:Theatrum Chemicum Britannicum.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Theatrum_Chemicum_Britannicum",
+    "summary": "Title page (A1r) of Elias Ashmole's Theatrum Chemicum Britannicum (London, 1652), the first major printed anthology of English alchemical verse. It gathered works by Thomas Norton, George Ripley, John Gower, Geoffrey Chaucer, John Lydgate, and others alongside Norton's Ordinal. Digitized from the University of Pennsylvania Schoenberg Center collection.",
+    "motifs": [
+      "Theatrum Chemicum Britannicum",
+      "title page",
+      "Ashmole",
+      "Norton",
+      "English alchemy",
+      "anthology"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-binding-bl-239k6",
+    "title": "Theatrum Chemicum Britannicum — Upper Cover Binding, King George III Copy (BL 239.k.6)",
+    "date": "1652 (text); 18th c. (binding)",
+    "place": "England",
+    "medium": "book binding",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Theatrum_Chemicum_Britannicum;_containing_severall_poeticall_pieces_of_our_famous_English_philosophers,_..._-_Upper_cover_(239k6).jpg",
+    "commons_file": "File:Theatrum Chemicum Britannicum; containing severall poeticall pieces of our famous English philosophers, ... - Upper cover (239k6).jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Theatrum_Chemicum_Britannicum",
+    "summary": "Upper cover of the King George III copy of Ashmole's Theatrum Chemicum Britannicum (BL 239.k.6), featuring an 18th-century English armorial panel binding in brown calf tooled in gold. From the British Library's Digitised Bookbindings collection, ex libris King George III. The King's Library copy passed to the British Museum (and thence the British Library) in 1823. Licensed CC0.",
+    "motifs": [
+      "book binding",
+      "Theatrum Chemicum Britannicum",
+      "King George III",
+      "British Library",
+      "armorial binding"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-wellcome-l0004316-operations",
+    "title": "The Operations of the Laboratory Inspired by the Great Masters — Wellcome L0004316",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "engraving",
+    "rights": "CC BY 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_Operations_of_the_Laboratory_inspired..._Wellcome_L0004316.jpg",
+    "commons_file": "File:The Operations of the Laboratory inspired... Wellcome L0004316.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Theatrum_Chemicum_Britannicum",
+    "summary": "Engraving from Ashmole's 1652 Theatrum Chemicum Britannicum titled 'The Operations of the Laboratory inspired by the Great Masters,' depicting alchemical laboratory practice in idealized form. The inscription links practical laboratory work to spiritual or intellectual inspiration from the tradition's masters — Norton, Ripley, Chaucer — whose verse fills the anthology. From the Wellcome Library rare books collection (L0004316). Licensed CC BY 4.0.",
+    "motifs": [
+      "alchemical laboratory",
+      "laboratory operations",
+      "Theatrum Chemicum Britannicum",
+      "Ashmole",
+      "Wellcome Collection",
+      "Great Masters"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-wellcome-l0004317-true-laboratory",
+    "title": "The True Alchemical Laboratory — Theatrum Chemicum Britannicum, Wellcome L0004317",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "engraving",
+    "rights": "CC BY 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_True_Alchemical_Laboratory._Wellcome_L0004317.jpg",
+    "commons_file": "File:The True Alchemical Laboratory. Wellcome L0004317.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Theatrum_Chemicum_Britannicum",
+    "summary": "Engraving from Ashmole's 1652 Theatrum Chemicum Britannicum depicting 'The True Alchemical Laboratory,' showing an idealized alchemical workspace — the 'true' laboratory being distinguished from the corrupt, merely mercenary laboratory of those who pursue only material profit. This distinction between the philosophical and the commercial alchemist is a key theme in Norton's Ordinal. From the Wellcome Library rare books collection (L0004317). Licensed CC BY 4.0.",
+    "motifs": [
+      "alchemical laboratory",
+      "true laboratory",
+      "Theatrum Chemicum Britannicum",
+      "Ashmole",
+      "Wellcome Collection",
+      "philosophical alchemy"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-wellcome-l0006176",
+    "title": "Early Alchemical Laboratory — Theatrum Chemicum Britannicum, Wellcome L0006176",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "engraving",
+    "rights": "CC BY 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elias_Ashmole._Theatrum_chemicum_britannicum_Wellcome_L0006176.jpg",
+    "commons_file": "File:Elias Ashmole. Theatrum chemicum britannicum Wellcome L0006176.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Theatrum_Chemicum_Britannicum",
+    "summary": "Illustration from Ashmole's 1652 Theatrum Chemicum Britannicum depicting an early alchemical laboratory, showing furnaces, alchemical apparatus, and workspace as described in Norton's Ordinal and Ripley's Compound of Alchymy. From the Wellcome Collection rare books digitization project (L0006176). Licensed CC BY 4.0.",
+    "motifs": [
+      "alchemical laboratory",
+      "furnace",
+      "chemical apparatus",
+      "Theatrum Chemicum Britannicum",
+      "Ashmole",
+      "Wellcome Collection"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-wellcome-l0012615",
+    "title": "Theatrum Chemicum Britannicum — Engraved Frontispiece, Wellcome L0012615",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "engraving",
+    "rights": "CC BY 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:E._Ashmole,_%22Theatrum_chemicum_britannicum%22,_1652_Wellcome_L0012615.jpg",
+    "commons_file": "File:E. Ashmole, \"Theatrum chemicum britannicum\", 1652 Wellcome L0012615.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Theatrum_Chemicum_Britannicum",
+    "summary": "Engraved frontispiece from the 1652 first edition of Ashmole's Theatrum Chemicum Britannicum, engraved by R. Vaughan. From the Wellcome Collection rare books holdings (catalog L0012615). The frontispiece establishes the scholarly and antiquarian authority Ashmole brought to the project — he framed English alchemical verse as a national heritage deserving systematic preservation.",
+    "motifs": [
+      "Theatrum Chemicum Britannicum",
+      "engraving",
+      "Ashmole",
+      "frontispiece",
+      "Vaughan",
+      "Wellcome Collection"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-wellcome-l0030721",
+    "title": "Theatrum Chemicum Britannicum Leaf — Wellcome L0030721",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "printed book",
+    "rights": "CC BY 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:E._Ashmole,_Theatrum_Chemicum_Britannicum_Wellcome_L0030721.jpg",
+    "commons_file": "File:E. Ashmole, Theatrum Chemicum Britannicum Wellcome L0030721.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Theatrum_Chemicum_Britannicum",
+    "summary": "A leaf from Ashmole's 1652 Theatrum Chemicum Britannicum, from the Wellcome Library rare books collection (L0030721). Published in London by J. Grismond for N. Brooke. Part of a systematic Wellcome digitization of the volume's significant pages. Licensed CC BY 4.0.",
+    "motifs": [
+      "Theatrum Chemicum Britannicum",
+      "Ashmole",
+      "English alchemy",
+      "manuscript page",
+      "Wellcome Collection"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-wellcome-l0030722",
+    "title": "Theatrum Chemicum Britannicum Leaf D2v — Wellcome L0030722",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "printed book",
+    "rights": "CC BY 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:E._Ashmole,_Theatrum_Chemicum_Britannicum_Wellcome_L0030722.jpg",
+    "commons_file": "File:E. Ashmole, Theatrum Chemicum Britannicum Wellcome L0030722.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Theatrum_Chemicum_Britannicum",
+    "summary": "Leaf D2 verso from Ashmole's 1652 Theatrum Chemicum Britannicum, from the Wellcome Library rare books collection (L0030722). Published by J. Grismond for N. Brooke. Licensed CC BY 4.0.",
+    "motifs": [
+      "Theatrum Chemicum Britannicum",
+      "Ashmole",
+      "English alchemy",
+      "Wellcome Collection"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-wellcome-l0030723",
+    "title": "Theatrum Chemicum Britannicum Leaf I2r (p. 51) — Wellcome L0030723",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "printed book",
+    "rights": "CC BY 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:E._Ashmole,_Theatrum_Chemicum_Britannicum_Wellcome_L0030723.jpg",
+    "commons_file": "File:E. Ashmole, Theatrum Chemicum Britannicum Wellcome L0030723.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Theatrum_Chemicum_Britannicum",
+    "summary": "Leaf I2 recto (page 51) of Ashmole's 1652 Theatrum Chemicum Britannicum, from the Wellcome Library rare books collection (L0030723). Licensed CC BY 4.0.",
+    "motifs": [
+      "Theatrum Chemicum Britannicum",
+      "Ashmole",
+      "English alchemy",
+      "Wellcome Collection"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-wellcome-l0030724",
+    "title": "Theatrum Chemicum Britannicum Leaf I2v (p. 52) — Wellcome L0030724",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "printed book",
+    "rights": "CC BY 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:E._Ashmole,_Theatrum_Chemicum_Britannicum_Wellcome_L0030724.jpg",
+    "commons_file": "File:E. Ashmole, Theatrum Chemicum Britannicum Wellcome L0030724.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Theatrum_Chemicum_Britannicum",
+    "summary": "Leaf I2 verso (page 52) from chapter V of Ashmole's 1652 Theatrum Chemicum Britannicum, from the Wellcome Library rare books collection (L0030724). Licensed CC BY 4.0.",
+    "motifs": [
+      "Theatrum Chemicum Britannicum",
+      "Ashmole",
+      "English alchemy",
+      "Wellcome Collection"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-wellcome-l0030725",
+    "title": "Theatrum Chemicum Britannicum Leaf O2r — Astrology Page, Wellcome L0030725",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "printed book",
+    "rights": "CC BY 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:E._Ashmole,_Theatrum_Chemicum_Britannicum_Wellcome_L0030725.jpg",
+    "commons_file": "File:E. Ashmole, Theatrum Chemicum Britannicum Wellcome L0030725.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Theatrum_Chemicum_Britannicum",
+    "summary": "Leaf O2 recto (page 91) of Ashmole's 1652 Theatrum Chemicum Britannicum, noted as relating to astrology. From the Wellcome Library rare books collection (L0030725). Ashmole was himself a practicing astrologer in addition to his alchemical interests, and the Theatrum Chemicum Britannicum reflects the close relationship between alchemy and astrology in the English learned tradition. Licensed CC BY 4.0.",
+    "motifs": [
+      "Theatrum Chemicum Britannicum",
+      "astrology",
+      "Ashmole",
+      "English alchemy",
+      "Wellcome Collection"
     ],
     "tier": "illustration"
   },
