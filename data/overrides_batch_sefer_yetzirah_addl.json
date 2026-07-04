@@ -1,0 +1,64 @@
+{
+  "_work": {
+    "key": "sefer_yetzirah",
+    "title": "Sefer Yetzirah & Letter-Combination Magic"
+  },
+  "entries": [
+    {
+      "id": "sefer_yetzirah__paris-1552-latin",
+      "title": "Sefer Yetzirah, Paris 1552 — Latin Edition (*Abrahami Patriarchae Liber Iezirah*)",
+      "date": "1552",
+      "place": "Paris, France",
+      "medium": "printed book",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sefer_Yezira_1552_IEHOUAH.PNG",
+      "commons_file": "File:Sefer Yezira 1552 IEHOUAH.PNG",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Sefer_Yezira_1552_IEHOUAH.PNG",
+      "summary": "Excerpts from the 1552 Paris Latin translation of Sefer Yetzirah (Abrahami Patriarchae Liber Iezirah, sive, Formationis mundi), highlighting the rendering of the Hebrew Tetragrammaton as 'Iehouah' — an early appearance of this vocalization in print. The Paris 1552 edition was produced a decade before the canonical Mantua 1562 Hebrew editio princeps and represents the text's entry into the Latin Renaissance learned tradition. It circulated among Christian kabbalists interested in the philosophical and magical potential of the Tetragrammaton's permutations.",
+      "motifs": ["Sefer Yetzirah", "Tetragrammaton", "Latin edition", "Iehouah", "Christian Kabbalah", "letter combination", "1552"],
+      "tier": "illustration"
+    },
+    {
+      "id": "sefer_yetzirah__amsterdam-1642-janssonius",
+      "title": "Sefer Yetzirah, Amsterdam 1642 — Title Page (Janssonius Edition)",
+      "date": "1642",
+      "place": "Amsterdam, Netherlands",
+      "medium": "printed book",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sefer_Iezirah.tif",
+      "commons_file": "File:Sefer Iezirah.tif",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Sefer_Iezirah.tif",
+      "summary": "Title page of the Sefer Yetzirah (with commentary of Joseph ben Shalom Ashkenazi, the Pseudo-Rabad), published by Johannes and Jodocus Janssonius in Amsterdam in 1642. This edition represents the entry of the kabbalistic commentary tradition into the Amsterdam print market — the most active center for Hebrew printing in 17th-century Europe. The Janssonius Sefer Yetzirah was widely circulated and contributed to the Christianizing of kabbalistic thought in early modern Europe, including among Rosicrucian and Paracelsian readers.",
+      "motifs": ["Sefer Yetzirah", "Amsterdam", "Janssonius", "printed edition", "Joseph ben Shalom Ashkenazi", "Dutch Golden Age", "early modern Kabbalah"],
+      "tier": "illustration"
+    },
+    {
+      "id": "sefer_yetzirah__wheel-three-groups",
+      "title": "The Three Groups of Hebrew Letters — Yetziratic Wheel Diagram",
+      "date": "2006",
+      "place": "modern reconstruction",
+      "medium": "diagram (modern)",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Yetziratic_wheel.png",
+      "commons_file": "File:Yetziratic wheel.png",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Yetziratic_wheel.png",
+      "summary": "A circular diagram with three concentric rings representing the Sefer Yetzirah's tripartite classification of the 22 Hebrew letters: 3 mother letters Aleph-Mem-Shin (innermost), 7 double letters BGD CPRT (middle), and 12 simple letters (outer). Created by user PuckSmith. Illustrates the precise letter taxonomy that Marla Segol traces through the medieval manuscript diagrams in JTS 1584, where the same three-group structure is represented as a wheel with letter-combination charts.",
+      "motifs": ["Sefer Yetzirah", "Hebrew alphabet", "three mother letters", "seven doubles", "twelve simples", "wheel diagram", "letter combination", "kabbalistic diagram"],
+      "tier": "illustration"
+    },
+    {
+      "id": "sefer_yetzirah__circle-sefirot-alphabet",
+      "title": "Yetziratic Wheel — Sefirot and Hebrew Letters in Circular Form",
+      "date": "2021",
+      "place": "modern reconstruction",
+      "medium": "diagram (modern)",
+      "rights": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sefer_Yetzirah_Circle.jpg",
+      "commons_file": "File:Sefer Yetzirah Circle.jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Sefer_Yetzirah_Circle.jpg",
+      "summary": "A circular diagram combining the sefirotic structure with the Hebrew alphabet arranged in concentric wheel form, illustrating the letter-cosmology of Sefer Yetzirah. Created by Monozigote as a modern diagrammatic rendering of the ancient text's letter and sefirot classifications. Represents the same structural model that medieval kabbalists illustrated in manuscript diagrams such as the Ilan HaHokhmah (Tree of Wisdom) and the letter-combination wheels analyzed by Marla Segol.",
+      "motifs": ["Sefer Yetzirah", "sefirot", "Hebrew alphabet", "wheel diagram", "kabbalistic diagram", "Tree of Life", "letter combination"],
+      "tier": "illustration"
+    }
+  ]
+}

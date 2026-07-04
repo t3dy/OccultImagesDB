@@ -1,0 +1,36 @@
+{
+  "_work": {
+    "key": "prophecy_figurae",
+    "title": "Prophecy, Figurae & the Apocalyptic Imagination"
+  },
+  "entries": [
+    {
+      "id": "prophecy_figurae__joachim-tabla-ii-tree-humanity",
+      "title": "Joachim of Fiore — Tree of Humanity (Adam to Second Coming), Liber Figurarum Tav. II",
+      "date": "13th century (Codice Reggiano)",
+      "place": "Calabria / Reggio Emilia, Italy",
+      "medium": "manuscript diagram",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Liber_Figurarum_Libro_de_las_Figuras_Tabla_II_C%C3%B3dice_Reggiano_(s._XIII)_Joaquin_de_Fiore_(1135-1202).jpg",
+      "commons_file": "File:Liber_Figurarum_Libro_de_las_Figuras_Tabla_II_Códice_Reggiano_(s._XIII)_Joaquin_de_Fiore_(1135-1202).jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/Category:Joachim_of_Fiore",
+      "summary": "Table II (Tav. II) from Joachim of Fiore's Liber Figurarum (Book of Figures), the Codice Reggiano manuscript (Reggio Emilia, mid-13th century). Depicts the Tree of Humanity as a genealogical-prophetic tree spanning from Adam to the Second Coming of Christ — a schema of all human history organized under Joachim's three-age theology (Age of the Father, Age of the Son, Age of the Holy Spirit). Joachim's concordist method finds structural parallelism between Old and New Testaments; this tree diagram is one of his most distinctive and influential diagrammatic forms, directly shaping later Franciscan Spirituals and apocalyptic movements.",
+      "motifs": ["Joachim of Fiore", "Liber Figurarum", "Tree of Humanity", "genealogical tree", "prophecy", "three ages", "apocalyptic", "concordism", "Adam", "Second Coming"],
+      "tier": "illustration"
+    },
+    {
+      "id": "prophecy_figurae__joachim-tabla-xii-third-age",
+      "title": "Joachim of Fiore — New Monastic Order / Third Age of the Spirit, Liber Figurarum Tav. XII",
+      "date": "13th century (Codice Reggiano)",
+      "place": "Calabria / Reggio Emilia, Italy",
+      "medium": "manuscript diagram",
+      "rights": "Public Domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Liber_Figurarum_Libro_de_las_Figuras_Tabla_XII_C%C3%B3dice_Reggiano(s.XIII)_Joaquin_de_Fiore(1135-1202).jpg",
+      "commons_file": "File:Liber_Figurarum_Libro_de_las_Figuras_Tabla_XII_Códice_Reggiano(s.XIII)_Joaquin_de_Fiore(1135-1202).jpg",
+      "provenance_url": "https://commons.wikimedia.org/wiki/Category:Joachim_of_Fiore",
+      "summary": "Table XII (Tav. XII) from Joachim of Fiore's Liber Figurarum, Codice Reggiano (mid-13th century). Depicts the institutional arrangement of the New Monastic Order that Joachim expected to emerge in the Third Age — the Age of the Holy Spirit, which he placed beginning around 1260. This diagram shows the hierarchical circles of the new order alongside the corresponding structures of the first two ages, enacting Joachim's distinctive concordist typology. The Third Age diagrams were enormously influential on Franciscan Spirituals and Spiritual Franciscan apocalypticism, particularly the circles of Gerard of Borgo San Donnino.",
+      "motifs": ["Joachim of Fiore", "Liber Figurarum", "Third Age", "Age of the Holy Spirit", "monastic order", "concentric circles", "prophecy", "apocalyptic", "concordism", "Franciscan Spirituals"],
+      "tier": "illustration"
+    }
+  ]
+}

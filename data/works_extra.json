@@ -3030,5 +3030,40 @@
    "master and pupil",
    "Middle English alchemy"
   ]
+ },
+ {
+  "key": "hildegard_bingen",
+  "title": "Hildegard of Bingen — Scivias and Liber Divinorum Operum Illuminations",
+  "tradition": "theosophy",
+  "era": "medieval",
+  "blurb": "The illuminated visionary manuscripts of Hildegard of Bingen (1098–1179), Benedictine abbess, theologian, composer, and doctor of the Church. Her two major illustrated works — Scivias (Know the Ways, c. 1151) and Liber Divinorum Operum (Book of Divine Works, c. 1163–73) — contain some of the most extraordinary cosmological imagery of the medieval period: an egg-shaped universe of concentric spheres, mandala-like diagrams of the Trinity, a cosmic man standing in the center of creation, and elaborate angel-hierarchies. The Scivias illuminations survive primarily through a 1927 hand-made facsimile (Eibingen Abbey) of the lost Rupertsberg Codex.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "hildegard_bingen",
+  "rights": "Public Domain (pre-1928). Eibingen facsimile via Yorck Project (GFDL).",
+  "creator": "Hildegard of Bingen",
+  "date": "c. 1150–1174",
+  "century": 12,
+  "place": "Rupertsberg, Germany",
+  "region": "German-speaking lands",
+  "short_id": "HILB",
+  "language": "Latin",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Hildegard_of_Bingen",
+  "motifs": [
+   "Hildegard of Bingen",
+   "Scivias",
+   "Liber Divinorum Operum",
+   "vision",
+   "cosmos",
+   "egg-shaped universe",
+   "Trinity",
+   "angels",
+   "mystical body",
+   "creation",
+   "Rupertsberg Codex",
+   "medieval mysticism",
+   "Benedictine",
+   "cosmological diagram"
+  ]
  }
 ]
