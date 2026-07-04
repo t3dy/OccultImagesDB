@@ -21,6 +21,66 @@
   },
   "entries": [
     {
+      "id": "shams_al_maarif__printed-khatim-diamond-p56",
+      "title": "Khatim Diamond Talisman — Shams al-Ma'arif (Cairo Edition, p. 56)",
+      "date": "[1920s–1930s] (printed ed.); diagram tradition c. 13th c.",
+      "place": "Cairo, Egypt (printed); North Africa / Middle East (original)",
+      "medium": "printed book",
+      "rights": "Public Domain — printed edition over 100 years old (Mustafa al-Babi al-Halabi). Scan: McGill University Libraries, Islamic Studies Library (educational use).",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Shams_al-Ma%27arif.jpg",
+      "summary": "A diamond-square khatim (seal) talisman from Ahmad al-Buni's Shams al-Ma'arif al-Kubra (The Great Sun of Knowledge), page 56 of the Mustafa al-Babi al-Halabi Cairo printed edition. The khatim is one of al-Buni's core diagrammatic forms: a square rotated 45 degrees to form a diamond, with Arabic letters — often divine Names or Quranic letter-groups — inscribed at each corner and at the center. The diamond orientation (rather than the Cartesian grid) is standard for Buniyan seal-forms and distinguishes them from the square awfaq (magic squares). These talismans were inscribed on paper, cloth, or metal for protective and invocatory purposes within the Islamic occult sciences (al-'ulum al-ghaybyya). Source: McGill University Libraries, Islamic Studies Library, BF1622.A7 B85 1957.",
+      "motifs": ["khatim", "talisman", "diamond seal", "al-Buni", "Shams al-Ma'arif", "Islamic magic", "huruf", "Arabic letters", "Names of God"],
+      "tier": "illustration"
+    },
+    {
+      "id": "shams_al_maarif__printed-chapter-heading-p150",
+      "title": "Geometric Diamond-Lattice Chapter Heading — Shams al-Ma'arif (p. 150)",
+      "date": "[1920s–1930s] (printed ed.); tradition c. 13th c.",
+      "place": "Cairo, Egypt (printed)",
+      "medium": "printed book",
+      "rights": "Public Domain — printed edition over 100 years old. Scan: McGill University Libraries.",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Shams_al-Ma%27arif.jpg",
+      "summary": "A decorative geometric chapter-opening heading from the Shams al-Ma'arif al-Kubra (Cairo printed edition, p. 150), featuring a dense diamond-lattice (mashrabiyya-style) geometric border above the chapter title in large Arabic script. The diamond-lattice pattern is characteristic of Islamic geometric art and appears throughout Buniyan manuscripts as a visual emblem of the mathematical order underlying the letter-cosmological system. The chapter opening in the Halabi edition typically marks a major division of the text — this page divides sections on different applications of letter magic and divine Name invocations. Source: McGill University Libraries, Islamic Studies Library.",
+      "motifs": ["geometric pattern", "diamond lattice", "al-Buni", "Shams al-Ma'arif", "chapter heading", "Islamic geometric art", "mashrabiyya", "Arabic calligraphy", "Islamic magic"],
+      "tier": "illustration"
+    },
+    {
+      "id": "shams_al_maarif__printed-magic-squares-p201",
+      "title": "Magic Squares (Awfaq) and Letter-Grid Tables — Shams al-Ma'arif (p. 201)",
+      "date": "[1920s–1930s] (printed ed.); tradition c. 13th c.",
+      "place": "Cairo, Egypt (printed)",
+      "medium": "printed book",
+      "rights": "Public Domain — printed edition over 100 years old. Scan: McGill University Libraries.",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Shams_al-Ma%27arif.jpg",
+      "summary": "A page from the Shams al-Ma'arif al-Kubra (Cairo edition, p. 201) showing multiple awfaq (magic squares) and letter-combination grid tables embedded in the Arabic text. Al-Buni's system of awfaq differs from purely numerical magic squares: each cell contains an Arabic letter whose abjad (letter-number) value, divine Name association, and elemental/planetary correspondence are all simultaneously active. The diamond-grid variants (rotated 45 degrees) and the square grids shown here are standard Buniyan forms for organizing letter-permutations. These grids were used in practical magic to determine the correct letter-configurations for amulets, invocations, and protective seals. Source: McGill University Libraries, Islamic Studies Library.",
+      "motifs": ["magic square", "wafq", "awfaq", "letter grid", "al-Buni", "Shams al-Ma'arif", "huruf", "abjad", "Islamic magic", "talisman", "letter combination"],
+      "tier": "illustration"
+    },
+    {
+      "id": "shams_al_maarif__printed-teardrop-cosmogram-p256",
+      "title": "Teardrop Cosmological Diagram — Shams al-Ma'arif (p. 256)",
+      "date": "[1920s–1930s] (printed ed.); tradition c. 13th c.",
+      "place": "Cairo, Egypt (printed)",
+      "medium": "printed book",
+      "rights": "Public Domain — printed edition over 100 years old. Scan: McGill University Libraries.",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Shams_al-Ma%27arif.jpg",
+      "summary": "A large full-page teardrop-shaped cosmological diagram from Ahmad al-Buni's Shams al-Ma'arif al-Kubra (Cairo edition, p. 256). The pointed-oval (mandorla) shape contains concentric arcs filled with Arabic text, organized hierarchically from the apex (divine source) downward through successive levels of cosmic emanation — corresponding to the Buniyan system of worlds: the divine throne ('arsh), the cosmos, the seven planetary spheres, the four elements, and the sublunary world. Similar teardrop-oval cosmograms appear in al-Buni's Lata'if al-Isharat manuscripts (Berlin Or. 80; BnF Ar. 2657), where they organize the letter-cosmological hierarchy. This printed edition preserves the diagram's iconic shape though the individual letter inscriptions are smaller than in manuscript originals. Source: McGill University Libraries, Islamic Studies Library.",
+      "motifs": ["cosmological diagram", "teardrop", "mandorla", "al-Buni", "Shams al-Ma'arif", "Islamic cosmology", "divine hierarchy", "letter cosmology", "huruf", "emanation", "planetary spheres"],
+      "tier": "illustration"
+    },
+    {
+      "id": "shams_al_maarif__printed-raml-tree-p550",
+      "title": "Raml (Geomantic) Branching Tree Diagram — Shams al-Ma'arif (p. 550)",
+      "date": "[1920s–1930s] (printed ed.); tradition c. 13th c.",
+      "place": "Cairo, Egypt (printed)",
+      "medium": "printed book",
+      "rights": "Public Domain — printed edition over 100 years old. Scan: McGill University Libraries.",
+      "provenance_url": "https://commons.wikimedia.org/wiki/File:Shams_al-Ma%27arif.jpg",
+      "summary": "A branching tree diagram from page 550 of Ahmad al-Buni's Shams al-Ma'arif al-Kubra (Cairo edition), illustrating the geomantic system of raml (sand divination). The tree structure shows the branching combinatory logic of raml: from a root reading, successive binary divisions produce the 16 geomantic figures (al-ashkal), which are further combined into the shield chart (al-darb). Al-Buni integrates raml into his broader system of Islamic occult sciences, linking the geomantic figures to Arabic letters, divine Names, and planetary correspondences. This tree diagram is the visual structure of raml's generative logic — the same kind of combinatory branching that underlies his letter-permutation awfaq. The diagram recalls the sefirotic 'tree' structure from kabbalistic parallels. Source: McGill University Libraries, Islamic Studies Library.",
+      "motifs": ["raml", "geomancy", "branching diagram", "tree diagram", "al-Buni", "Shams al-Ma'arif", "sand divination", "Islamic magic", "combinatory logic", "al-ashkal", "geomantic figures"],
+      "tier": "illustration"
+    },
+    {
       "id": "shams_al_maarif__ms-17c-opening",
       "title": "Shams al-Ma'arif — Manuscript Opening, Early 17th Century",
       "date": "early 17th century",
