@@ -2143,5 +2143,35 @@
     "rights": "Public Domain. Via Wikimedia Commons (CC BY-SA 3.0 / GFDL).",
     "blurb": "Ahmad ibn Ali al-Buni's (d. 622/1225) Shams al-Ma'arif al-Kubra (The Great Sun of Knowledge) is the most influential Arabic grimoire and the foundational text of Islamicate lettrism (huruf). It systematizes the occult properties of the 28 Arabic letters, the 99 Names of God, magic squares (awfaq), and planetary talismans into a vast cosmological system. Buni synthesizes Sufi cosmology, astrological magic, and Neoplatonic letter-mysticism into a practical manual for divine invocation and natural magic. The text circulated in hundreds of manuscript copies across the Islamic world from Morocco to Central Asia, and was central to the practices of Sufi orders, court magicians, and popular healers alike.",
     "count": 6
+  },
+  {
+    "key": "ia_shams_ms",
+    "title": "Shams al-Ma'arif — Manuscript Copy (c. 1500 CE)",
+    "creator": "Ahmad ibn Ali al-Buni (d. 622/1225 CE)",
+    "date": "c. 1500 CE (MS copy); text composed c. 1200–1225 CE",
+    "era": "medieval",
+    "tradition": "hermetic",
+    "tier": "illustration",
+    "place": "North Africa or Egypt (probable MS origin)",
+    "language": "Arabic",
+    "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+    "rights": "Public Domain — manuscript c. 1500 CE, over 100 years old. Scan via Internet Archive.",
+    "blurb": "A manuscript copy of Ahmad ibn Ali al-Buni's Shams al-Ma'arif al-Kubra (The Great Sun of Knowledge), dating to approximately 1500 CE. Unlike the printed Cairo edition, this manuscript is written in red and black ink with extensive red-ink decoration: chapter headings in large thuluth script inside ruled frames, inline magic squares (awfaq) with Arabic letters and numbers drawn in red, cosmological circle diagrams, star-khatim talisman seals, and full-page letter grids. The manuscript demonstrates the living tradition of Buniyan lettrism — the systematic application of the Arabic alphabet's occult properties to generate protective and invocatory seals, talismanic diagrams, and cosmological schemata. The red-ink style is characteristic of North African and Egyptian manuscripts in the Mamluk-Ottoman period (15th–16th c.), when the Shams al-Ma'arif circulated most widely. Digitized as part of the Internet Archive's Islamic Manuscripts collection.",
+    "count": 8
+  },
+  {
+    "key": "islamicate_geomancy",
+    "title": "Islamic Geomancy (Raml) — Instruments, Manuscripts, and Diagrams",
+    "creator": "various",
+    "date": "7th–19th c.",
+    "era": "medieval",
+    "tradition": "hermetic",
+    "tier": "illustration",
+    "place": "Egypt, Syria, North Africa",
+    "language": "Arabic",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Geomancy",
+    "rights": "Public Domain / CC (per item). Via Wikimedia Commons and Wellcome Collection.",
+    "blurb": "Geomancy (Arabic: 'ilm al-raml, the science of sand) is an Islamicate divination system in which binary marks in sand generate 16 geomantic figures (al-ashkal), which are then combined into a shield chart (al-darb) to answer questions about the future. Originally derived from African divination practices and transmitted into the Islamic world, raml was systematized by scholars including al-Kindi, Tumtum al-Hindi, and later encyclopedists. Al-Buni integrates raml into his talismanic system: the 16 geomantic figures correspond to Arabic letters, planets, and divine Names, connecting sand divination to the broader Islamic occult sciences. This work collects key visual sources: the earliest dated geomantic instrument (British Museum, 1241/42 CE), manuscript pages from the Wellcome Library's Arabic treatise on geomancy (MS Arabic 823), and diagrammatic classifications of the 16 figures.",
+    "count": 7
   }
 ]

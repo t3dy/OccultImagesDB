@@ -1,0 +1,120 @@
+{
+  "_work": {
+    "key": "ia_shams_ms",
+    "title": "Shams al-Ma'arif — Manuscript Copy (c. 1500 CE)",
+    "tradition": "hermetic",
+    "era": "medieval",
+    "blurb": "A manuscript copy of Ahmad ibn Ali al-Buni's Shams al-Ma'arif al-Kubra (The Great Sun of Knowledge), dating to approximately 1500 CE. Unlike the printed Cairo edition, this manuscript is written in red and black ink with extensive red-ink decoration: chapter headings in large thuluth script inside ruled frames, inline magic squares (awfaq) with Arabic letters and numbers drawn in red, cosmological circle diagrams, star-khatim talisman seals, and full-page letter grids. The manuscript demonstrates the living tradition of Buniyan lettrism — the systematic application of the Arabic alphabet's occult properties to generate protective and invocatory seals, talismanic diagrams, and cosmological schemata. The red-ink style is characteristic of North African and Egyptian manuscripts in the Mamluk-Ottoman period (15th–16th c.), when the Shams al-Ma'arif circulated most widely. Digitized as part of the Internet Archive's Islamic Manuscripts collection.",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "ia_shams_ms",
+    "rights": "Public Domain — manuscript c. 1500 CE, over 100 years old. Scan via Internet Archive.",
+    "creator": "Ahmad ibn Ali al-Buni (d. 622/1225 CE)",
+    "date": "c. 1500 CE (MS copy); text composed c. 1200–1225 CE",
+    "century": 15,
+    "place": "North Africa or Egypt (probable MS origin)",
+    "region": "Islamicate world",
+    "short_id": "SHMS",
+    "language": "Arabic",
+    "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+    "motifs": ["al-Buni", "Shams al-Ma'arif", "lettrism", "huruf", "Arabic letters", "magic square", "wafq", "talisman", "khatim", "seal", "Islamic magic", "cosmological diagram", "red ink manuscript", "awfaq", "Names of God", "abjad"]
+  },
+  "entries": [
+    {
+      "id": "ia_shams_ms__ms-chapter-opening-p60",
+      "title": "Chapter Opening with Red Calligraphic Frame — Shams al-Ma'arif MS (p.60)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "A chapter-opening page from a manuscript of Ahmad al-Buni's Shams al-Ma'arif al-Kubra (c. 1500 CE), showing the characteristic format of luxury Buniyan manuscripts: Arabic text in black ink surrounded by a bold red rectangular frame, with the chapter title (bab) written in large red thuluth calligraphy inside a ruled red box that breaks the running text. The red-and-black two-color system is not merely decorative — it encodes hierarchy: red marks titles, divine names, magical keywords, number values, and the borders of talismanic diagrams, while black carries the explanatory prose. This page illustrates how the Shams al-Ma'arif organizes its occult knowledge into discrete chapters, each a self-contained magical domain. The framed title box is itself a kind of khatim (seal) for the chapter.",
+      "motifs": ["chapter heading", "al-Buni", "Shams al-Ma'arif", "red ink", "manuscript calligraphy", "thuluth", "Islamic manuscript", "framed text"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ia_shams_ms__ms-magic-squares-p95",
+      "title": "Magic Square (Wafq) with Letter-Number Grid — Shams al-Ma'arif MS (p.95)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "A page from the Shams al-Ma'arif manuscript (c. 1500 CE) showing a magic square (wafq) with Arabic letters and abjad number values arranged in a grid at the bottom of the text block. Al-Buni's awfaq differ from purely numerical magic squares: each cell holds an Arabic letter whose abjad value, divine Name correspondence, elemental assignment, and talismanic purpose are all simultaneously active. The square is set within the running text, surrounded by a red border that marks it as a practical tool — to be copied, inscribed on metal or cloth, and activated through specific prayers and fumigations. This page shows how the Shams al-Ma'arif integrates diagrammatic tables directly into the instructional prose.",
+      "motifs": ["magic square", "wafq", "awfaq", "al-Buni", "Shams al-Ma'arif", "huruf", "abjad", "letter grid", "Islamic magic", "talisman"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ia_shams_ms__ms-awfaq-tables-p120",
+      "title": "Multiple Awfaq Tables Embedded in Text — Shams al-Ma'arif MS (p.120)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "A page from the Shams al-Ma'arif manuscript (c. 1500 CE) dense with multiple interspersed awfaq (magic squares): at least three separate grid-tables of different sizes are embedded within the flowing Arabic prose, each bordered in red with letter-and-number values in individual cells. The variety of square sizes (3×3, 4×4, and larger) on a single page demonstrates al-Buni's systematic approach: each divine Name or planet governs a specific square type whose numerical sum equals the abjad value of the Name. The page makes the relentless combinatory logic of Buniyan lettrism visually immediate — the MS page itself becomes a working occult instrument.",
+      "motifs": ["awfaq", "magic square", "wafq", "letter combination", "al-Buni", "Shams al-Ma'arif", "huruf", "abjad", "Islamic magic", "Names of God"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ia_shams_ms__ms-awfaq-diamond-lattice-p200",
+      "title": "Magic Squares and Diamond-Lattice Geometric Diagram — Shams al-Ma'arif MS (p.200)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "A spectacular page from the Shams al-Ma'arif manuscript (c. 1500 CE) that juxtaposes two distinct diagrammatic modes: the upper and middle zones contain multiple standard magic square grids (awfaq), including a large letter-number grid, while the lower right features a pure geometric diamond-lattice pattern — a mashrabiyya-like grid of crossing diagonal lines forming interlocked diamond cells. The diamond-lattice form appears in al-Buni's system both as a structural variant of the standard square wafq (the 'rotated wafq') and as a purely geometric symbol of the mathematical order underpinning the letter-cosmological system. The coexistence of numerical and geometric modes on one page captures the double nature of Buniyan magic: precise numerical combinatorics in dialogue with the visual beauty of Islamic geometric art.",
+      "motifs": ["awfaq", "magic square", "diamond lattice", "geometric pattern", "al-Buni", "Shams al-Ma'arif", "huruf", "abjad", "Islamic geometric art", "talisman"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ia_shams_ms__ms-khatim-compass-rose-p295",
+      "title": "Circular Khatim Compass-Rose Talisman — Shams al-Ma'arif MS (p.295)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "A circular khatim (talisman seal) diagram from the Shams al-Ma'arif manuscript (c. 1500 CE), drawn in red ink inside a rectangular red frame. The circle is divided into eight segments by crossing diagonal and perpendicular lines — a compass-rose or wheel-spoke structure — with Arabic letters and divine Names inscribed in each sector. The spoke-and-wheel form of this khatim encodes the octagonal symmetry of the divine Names (the 8 'carriers of the Throne' in Islamic cosmology) into a practical talismanic seal. The circular enclosure within a rectangle mirrors the cosmological scheme of the Shams al-Ma'arif: the divine word (circle, infinite) operating within the physical world (rectangle, finite). This khatim type was inscribed on bowls, shirts, paper amulets and metal pendants.",
+      "motifs": ["khatim", "circular seal", "talisman", "compass rose", "al-Buni", "Shams al-Ma'arif", "huruf", "Names of God", "divine Names", "Islamic magic", "wheel diagram"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ia_shams_ms__ms-star-khatim-p305",
+      "title": "Star-Khatim Diagram with Crossed Lines and Central Seal — Shams al-Ma'arif MS (p.305)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "A large star-khatim talisman diagram from the Shams al-Ma'arif manuscript (c. 1500 CE), drawn in red ink at the center of a full-page framed diagram. The design consists of four diagonal lines crossing at a central point, each line bearing Arabic letter inscriptions, with a circular seal at the intersection — forming a star or asterisk-like structure inside a rectangular red border. The four-armed star form is one of al-Buni's primary khatim types, associated with the four elements (earth, water, fire, air), the four Archangels (Jibril, Mikail, Israfil, Azrael), and the four fundamental letters of the divine Name al-Rahman. This complex letter-cosmological layering — where geometry, angelic hierarchy, elemental theory, and divine Name mysticism converge in a single visual form — is the hallmark of Buniyan lettrism. One of the most visually distinctive pages in the manuscript.",
+      "motifs": ["khatim", "star seal", "talisman", "crossed lines", "al-Buni", "Shams al-Ma'arif", "huruf", "Arabic letters", "four elements", "Archangels", "Islamic magic", "seal diagram"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ia_shams_ms__ms-full-page-letter-square-p310",
+      "title": "Full-Page Arabic Letter Magic Square — Shams al-Ma'arif MS (p.310)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "A full-page magic square from the Shams al-Ma'arif manuscript (c. 1500 CE): a large grid — approximately 10×10 cells — filled with individual Arabic letters in red ink, covering almost the entire page surface within a bold red outer border. The scale transforms the wafq from an inline table into a standalone talismanic object: this page is itself a talisman, meant to be reproduced at scale or used as a model. Large-format letter awfaq of this type encode entire divine Name sequences, Quranic suras, or planetary alphabets distributed across the grid according to al-Buni's combinatory rules. The visual impact — a dense field of Arabic letterforms in red, geometrically ordered — makes explicit the Shams al-Ma'arif's central claim: that the Arabic alphabet is the structural fabric of reality, and that the occult scientist who masters its arrangements gains leverage over natural and spiritual forces.",
+      "motifs": ["awfaq", "magic square", "full-page diagram", "al-Buni", "Shams al-Ma'arif", "huruf", "Arabic letters", "abjad", "talisman", "Islamic magic", "letter grid"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ia_shams_ms__ms-cosmological-circle-p420",
+      "title": "Cosmological Circle Diagram Divided into Quadrants — Shams al-Ma'arif MS (p.420)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "A cosmological circle diagram from the Shams al-Ma'arif manuscript (c. 1500 CE), drawn in red ink inside a rectangular frame. The large circle is divided into four quadrants by a cross — the cardinal axes — with Arabic text inscribed in each sector, corresponding to the four elements, four humors, four winds, four cardinal directions, or four divine Names depending on the chapter's topic. The quadrant circle is one of al-Buni's most frequently deployed cosmological schemata: it maps the fourfold structure of creation (samawat wa ard, heavens and earth) onto the circular form of divine unity, making cosmological order visually legible. Similar diagrams appear in the parallel Lata'if al-Isharat manuscripts (Berlin Or. 80, BnF Ar. 2657) as the celestial-spheres diagram.",
+      "motifs": ["cosmological diagram", "circle", "quadrant", "four elements", "al-Buni", "Shams al-Ma'arif", "Islamic cosmology", "divine hierarchy", "letter cosmology", "huruf"],
+      "tier": "illustration"
+    }
+  ]
+}

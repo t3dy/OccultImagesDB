@@ -79,7 +79,7 @@ from SBB and BnF may have institutional restrictions.
 - BnF Gallica Ar. 2658: https://gallica.bnf.fr/ark:/12148/btv1b84064023
   **CAPTCHA barrier — see §C below**
 
-### §E — Al-Buni Shams al-Ma'arif (Local PDF — DONE)
+### §E — Al-Buni Shams al-Ma'arif Printed Edition (Local PDF — DONE)
 
 **✅ EXTRACTED** — McGill University library scan of the Mustafa al-Babi al-Halabi
 Cairo printed edition at `E:\pdf\Islamicate Chill Pills\Ahmad al Buni shams al ma arif.pdf`.
@@ -101,8 +101,32 @@ Rights: Public Domain (printed edition >100 years old, McGill University scan).
 - pp. 260–280: Text only
 - If you want more inline awfaq, re-scan the range with a wider net.
 
-**Better source:** The **manuscript** Shams al-Ma'arif is far more visually striking than
-the printed edition. Key digitized manuscript copies:
+### §E2 — Al-Buni Shams al-Ma'arif Manuscript (Internet Archive — DONE)
+
+**✅ EXTRACTED** — A c.1500 CE colored manuscript scan on Internet Archive:
+`https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3`
+
+645 pages, red-and-black manuscript with awfaq, khatim diagrams, full-page letter squares, and cosmological circles.
+8 pages extracted (2026-07-04) as work `ia_shams_ms`:
+
+| Image ID | Page | Content |
+|----------|------|---------|
+| `ms-chapter-opening-p60` | 60 | Chapter opening with large red calligraphic frame |
+| `ms-magic-squares-p95` | 95 | Magic square (wafq) with letter-number grid |
+| `ms-awfaq-tables-p120` | 120 | Multiple awfaq tables embedded in text |
+| `ms-awfaq-diamond-lattice-p200` | 200 | Awfaq + diamond-lattice geometric diagram |
+| `ms-khatim-compass-rose-p295` | 295 | Circular khatim compass-rose talisman |
+| `ms-star-khatim-p305` | 305 | Star-khatim with crossed lines (stunning) |
+| `ms-full-page-letter-square-p310` | 310 | Full-page Arabic letter magic square |
+| `ms-cosmological-circle-p420` | 420 | Cosmological circle divided into quadrants |
+
+**Remaining pages** (could extract more):
+- Many more awfaq throughout (dense in pp.90–230)
+- More circle/khatim diagrams in pp.400–530
+
+**Better printed-edition source:** See §E above (Cairo edition already done).
+
+**Other digitized manuscript copies** (not yet extracted):
 
 | Repository | Shelfmark | Platform | Notes |
 |------------|-----------|----------|-------|
@@ -249,8 +273,12 @@ If found, IIIF manifests follow: https://content.staatsbibliothek-berlin.de/dc/{
 |------|--------|--------|
 | Shams al-Ma'arif.jpg (1 image) | Commons | ✅ DONE — `shams_al_maarif__ms-17c-opening` |
 | Shams al-Ma'arif printed diagrams (5 pages) | Local PDF E:\pdf\... | ✅ DONE — pp. 56, 150, 201, 256, 550 |
+| Shams al-Ma'arif manuscript (8 pages) | Internet Archive c.1500 MS | ✅ DONE — `ia_shams_ms` work |
+| Islamic Geomancy: BM instrument 1241 CE (3 imgs) | Commons / British Museum | ✅ DONE — `islamicate_geomancy` work |
+| Islamic Geomancy: Wellcome MS Arabic 823 (2 imgs) | Commons / Wellcome Library | ✅ DONE — `islamicate_geomancy` work |
+| Islamic Geomancy: engraving + classification (2 imgs) | Commons | ✅ DONE — `islamicate_geomancy` work |
 | Bayerische Staatsbibliothek Hebrew MSS | BSB digital (JS-rendered) | ❌ Search JS-blocked; use manually |
-| British Library digitized Arabic MSS | BL IIIF (many open) | Try: `https://www.bl.uk/manuscripts/` |
+| British Library digitized Arabic MSS | BL IIIF (403 from Python) | ❌ BL digirati.io returns 403 |
 | Bodleian Islamic/Hebrew MSS | Bodleian Digital | ❌ No al-Buni or SY results found |
 | NLI (National Library of Israel) | nli.org.il | ❌ Search URL formats not found |
 
