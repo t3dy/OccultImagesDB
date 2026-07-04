@@ -1951,7 +1951,7 @@
   },
   {
     "key": "ars_notoria",
-    "title": "Ars Notoria & the Angelic Theurgy Tradition",
+    "title": "Ars Notoria (Notory Art) — The Flores Aurei and Related Angel-Magic Texts",
     "creator": "various (attributed to Solomon, Apollonius of Tyana, and others)",
     "date": "c. 1225–1800",
     "era": "medieval",
@@ -1961,7 +1961,7 @@
     "language": "Latin",
     "provenance_url": "https://commons.wikimedia.org/wiki/Category:Ars_Notoria",
     "rights": "Public domain / CC BY / CC BY-SA (per item). Via Wikimedia Commons.",
-    "blurb": "The *Ars Notoria* is the most widely copied magical manual of the medieval learned tradition — a system of angelic theurgy, concentrated prayer, and visual meditation on the *notae*: extraordinary circular, star-shaped, polygonal, and interlaced diagrams inscribed with divine names, Hebrew letters, *verba ignota*, and schematic figures. Practitioners believed that contemplating these images while reciting the accompanying orations would secure direct infusion of knowledge from the seven liberal arts, granted by angels sent by Solomon. First attested in the early 13th century and condemned by Thomas Aquinas, the tradition fed directly into John of Morigny's *Livre des figures*, the *Sworn Book of Honorius* (with its *Sigillum Dei*), and eventually John Dee's Enochian system. This grouping collects the core *Ars Notoria* notae alongside their cognate traditions: the Islamic *Shams al-Ma'ārif* (al-Būnī's Arabic parallel), the Hebrew *Sefer Raziel*, the Byzantine *Hygromanteia*, the Solomonic conjuration diagrams, and the 18th–19th century popular grimoire inheritors.",
+    "blurb": "The Notory Art (Ars Notoria / Flores Aurei): a system of angel-magic by which the practitioner, through fasting, prayer, and prolonged meditation on intricate diagrammatic 'notae', received instantaneous mastery of the seven liberal arts and divine wisdom. The tradition, attributed to Solomon, is documented from the 13th century; the earliest illustrated witness is BnF Latin 9336.",
     "count": 28
   },
   {
@@ -2083,5 +2083,35 @@
     "rights": "Public Domain; CC0; CC BY-SA 3.0 IGO. Via Wikimedia Commons.",
     "blurb": "Physical talismans from the Islamic world: Ottoman and Safavid-era shirts inscribed top-to-bottom with Quranic verses, divine names, magic squares (wafq), and zodiacal symbols; prayer scrolls; brass talismanic bowls with serpent-and-zodiac ornament. These wearable and portable objects embody the practical side of the learned Islamic occult tradition documented in texts like the Picatrix, al-Buni's Shams al-Ma'arif, and the Solomonic seal literature.",
     "count": 18
+  },
+  {
+    "key": "barchusen_elementa",
+    "title": "Barchusen — Elementa Chemiae (Utrecht, 1718): Alchemical Emblem Plates",
+    "creator": "Johann Conrad Barchusen",
+    "date": "1718",
+    "era": "modern",
+    "tradition": "alchemy_hermetic",
+    "tier": "illustration",
+    "place": "Utrecht, Netherlands",
+    "language": "Latin",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "rights": "CC0. Via Wikimedia Commons / Science History Institute, Philadelphia.",
+    "blurb": "The 78 copper-engraved emblem plates from Johann Conrad Barchusen's encyclopedic Elementa Chemiae (Utrecht, 1718), derived directly from a manuscript of The Crowning of Nature (Coronatio Naturae). These engravings represent the first and only major printed edition of the Crowning of Nature emblem sequence, depicting the stages of the philosopher's stone through sequential allegorical images: toad, dragon, crowned king and queen, alchemical vessel, putrefaction, conjunction, multiplication, and projection.",
+    "count": 18
+  },
+  {
+    "key": "ordinal_alchemy",
+    "title": "Thomas Norton — Ordinal of Alchemy (c. 1477): Manuscripts and 1652 Printed Plates",
+    "creator": "Thomas Norton",
+    "date": "c. 1477",
+    "era": "medieval",
+    "tradition": "alchemy_hermetic",
+    "tier": "illustration",
+    "place": "Bristol, England",
+    "language": "Middle English",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "rights": "Public Domain. Via Wikimedia Commons.",
+    "blurb": "The Ordinal of Alchemy (Ordinal of Alchimy) composed by the Bristol alchemist Thomas Norton c. 1477, the most important verse treatise on alchemy in Middle English. Written in rhyming couplets, the Ordinal describes the philosophical and practical stages of the Great Work through seven chapters, from the election of the alchemist to the perfection of the Stone. The work survives in seventeen manuscripts and was first printed with engraved plates in Elias Ashmole's Theatrum Chemicum Britannicum (1652).",
+    "count": 0
   }
 ]

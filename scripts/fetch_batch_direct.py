@@ -6,10 +6,12 @@ For each entry in the batch that has a `commons_file` field, looks up the direct
 via the Commons API and downloads it to sources_web/<work_key>/<slug>.ext
 Also writes a .prov.json sidecar.
 
+TIF files are automatically converted to JPEG (build_catalog only accepts .jpg/.png/.webp).
+
 Usage:
   python scripts/fetch_batch_direct.py data/overrides_batch_XXXX.json [--force]
 """
-import json, os, re, sys, time, urllib.parse, urllib.request
+import io, json, os, re, sys, time, urllib.parse, urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -60,6 +62,19 @@ def download(url, dest_path):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=60) as r:
         data = r.read()
+    # If source is a TIFF and dest is .jpg, convert via PIL
+    url_lower = url.split("?")[0].lower()
+    if (url_lower.endswith(".tif") or url_lower.endswith(".tiff")) and dest_path.lower().endswith(".jpg"):
+        try:
+            from PIL import Image
+            Image.MAX_IMAGE_PIXELS = None
+            img = Image.open(io.BytesIO(data))
+            if img.mode not in ("RGB", "L"):
+                img = img.convert("RGB")
+            img.save(dest_path, "JPEG", quality=90)
+            return len(data)
+        except Exception as conv_err:
+            print(f"[tif->jpg conversion failed: {conv_err}, saving raw]", end=" ")
     with open(dest_path, "wb") as f:
         f.write(data)
     return len(data)

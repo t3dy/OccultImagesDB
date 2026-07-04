@@ -10085,6 +10085,27 @@
     "summary": "The magical alphabets plate from Francis Barrett's *The Magus* (1801) — the Regency occult revival's systematic presentation of the cipher alphabets used to inscribe divine names, angelic names, and talismanic characters.\n\n## Iconography\nThe plate presents several alternate magical scripts in parallel rows: the Celestial (Angelic) Alphabet, the Malachim script, the Passing the River alphabet, possibly the Theban script, and others — each a distinct system for encoding Hebrew, Latin, or angelic names in unreadable (to the uninitiated) form. The plate is designed as a reference tool: a key for encoding and decoding the names inscribed on seals, lamens, and talismans.\n\n## Significance\nBarrett's *The Magus* (1801) was the first major English-language synthesis of the Agrippa-Paracelsian tradition since the 17th century, drawing heavily on Cornelius Agrippa's *Three Books of Occult Philosophy* and transmitting it to the 19th-century occult revival. The magical alphabets derive from Agrippa's *Third Book* (1533), which in turn adapted them from manuscript sources. The alphabets are directly connected to the *Ars Notoria* and *Liber Juratus* tradition: the divine names in the notae and seals were often encoded in these scripts as a mark of esoteric restriction. Barrett's plate became the standard modern reference and was used by the Golden Dawn and subsequent practitioners.\n\n## For artists & game designers\nA complete 'cipher alphabet' reference plate: six distinct scripts for encoding the same underlying names, useful for in-game cryptography, runic-style inscriptions, or collectible 'key' items."
   },
   {
+    "id": "ars_notoria__bodley-951-f19-theology-chastity",
+    "title": "Fifth Figure of Theology and Chastity Nota, Bodley 951 f.19",
+    "date": "c. 1450",
+    "place": "England",
+    "medium": "manuscript",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Oxford,_Bodley_951,_f._19,_15th_century.jpg",
+    "commons_file": "File:Oxford,_Bodley_951,_f._19,_15th_century.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Oxford,_Bodley_951,_f._19,_15th_century.jpg",
+    "summary": "Two notae from Bodleian Library MS Bodley 951 (f.19, 15th c.): the fifth figure of theology (nota theologiae quinta) and the figure of chastity — a virtue-nota associated with theological attainment. The Bodley 951 manuscript is a principal English witness of the Ars Notoria tradition; its notae are more densely annotated with Latin prayers than the earlier BnF witnesses. Unlike the grammar and logic notae (f.10v), these focus on higher-order theological virtues.",
+    "motifs": [
+      "nota",
+      "ars notoria",
+      "theology",
+      "ritual diagram",
+      "liberal arts",
+      "angelic magic"
+    ],
+    "tier": "illustration"
+  },
+  {
     "id": "ars_notoria__brockhaus-sefer-raziel",
     "title": "Sefer Raziel HaMalakh — Diagram Leaf (*Brockhaus and Efron Jewish Encyclopedia*)",
     "work": "Ars Notoria & the Angelic Theurgy Tradition",
@@ -10340,6 +10361,27 @@
     "summary": "A leaf from British Library Harley MS 5596, a 15th-century Byzantine Greek manuscript of the *Hygromanteia* or *Magical Treatise of Solomon* — the Greek-language bridge between late-antique magic and the Western Solomonic grimoire tradition.\n\n## Iconography\nThe manuscript page shows the characteristic Byzantine magical manuscript format: Greek text interspersed with magical seals (*characteres*), spirit-signs, and ritual instructions for conjuring and binding the angels and spirits of the planetary hours. The dense small-hand calligraphy and the placement of the seals within the text reflect a working manual structure: read the instruction, perform the operation, use the seal depicted on the same page.\n\n## Significance\nHarley MS 5596 is one of the principal witnesses to the *Hygromanteia*, the Greek Solomonic handbook that Ioannis Marathakis has edited and translated as *The Magical Treatise of Solomon* (2011). The *Hygromanteia* belongs to a tradition of Byzantine Solomonic magic that predates the Latin *Clavicula* but fed into it, establishing the day-and-hour structure, planetary angel correspondences, and conjuration framework that the Latin tradition adopted. It is the Greek parallel to the same stream that produced the *Ars Notoria*: Solomonic-attributed texts of learned ritual magic aimed at angelic or spirit contact. The *characteres* in this manuscript closely resemble the notae of the *Ars Notoria* tradition — both are graphic instruments of spirit-address.\n\n## For artists & game designers\nThe Eastern predecessor: the Greek manuscript aesthetics (uncial or minuscule hand, red-and-black ink, embedded spirit-signs) that underlies the Latin tradition, useful for establishing historical depth in a worldbuilding context."
   },
   {
+    "id": "ars_notoria__hygromanteia-harley-5596-f31r-seals",
+    "title": "Magic Seals from Hygromanteia, Harley MS 5596 fol. 31r — c. 1450",
+    "date": "c. 1450",
+    "place": "Byzantine Empire",
+    "medium": "manuscript",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Harley_manuscript_MS_5596,_fol._31r_-_ca._1450_-_magic_seals_very_similiar_to_later_Icelandic_magical_staves_(Galdrastafir).jpg",
+    "commons_file": "File:Harley_manuscript_MS_5596,_fol._31r_-_ca._1450_-_magic_seals_very_similiar_to_later_Icelandic_magical_staves_(Galdrastafir).jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Harley_manuscript_MS_5596,_fol._31r_-_ca._1450_-_magic_seals_very_similiar_to_later_Icelandic_magical_staves_(Galdrastafir).jpg",
+    "summary": "Folio 31r of the Hygromanteia (BL Harley MS 5596, c. 1450), showing a page of diagrammatic magical seals from the Solomonic Greek tradition. These figural seal-diagrams are the structural counterparts to the Latin Ars Notoria's notae — both serve as meditation objects and ritual activation instruments. This folio's seals show structural similarity to later Icelandic galdrastafir, documenting the northward transmission of the sigil-diagram tradition.",
+    "motifs": [
+      "nota",
+      "angelic seal",
+      "ritual diagram",
+      "medieval magic",
+      "sigillum",
+      "galdrastafir"
+    ],
+    "tier": "illustration"
+  },
+  {
     "id": "ars_notoria__nota-grammar-bnf",
     "title": "First Figure of Grammar (*Ars Notoria*), BnF Latin 9336",
     "work": "Ars Notoria & the Angelic Theurgy Tradition",
@@ -10555,6 +10597,26 @@
     ],
     "summary_status": "authored",
     "summary": "A version of the *Sigillum Dei* (Seal of God) by Giorgio Anselmi (Georgius Parmensis) — one of the most formidable diagrams of the medieval learned-magic tradition, parent of John Dee's *Sigillum Dei Aemeth*.\n\n## Iconography\nThe seal is built from nested geometry: an outer ring carrying the names of God and his angels in Latin and pseudo-Hebrew, an inner heptagon or heptagram with angel-names in each vertex, and a pentagram or five-pointed star at the centre. Every zone is packed with divine names, crosses, and characters, each compartment assigned to a specific spiritual power. The overall effect is that of a sealed cosmogram: creation's governance structure rendered in geometry, with no space left unclaimed by divine authority.\n\n## Significance\nThe *Sigillum Dei* descends from the *Liber Juratus Honorii* (Sworn Book of Honorius, compiled c. 1300) and was the central talisman of the Honorian tradition. Julien Véronèse and Jan R. Veenstra have traced its genealogy and noted its direct dependence on the *Ars Notoria* current — the *Liber Juratus* is, in many respects, an evolved and Christianized redaction of the Notoria. Giorgio Anselmi (fl. 15th c., Parma) was one of the learned Italian practitioners who copied and refined these instruments; his version is notable for its precision and textual richness.\n\n## For artists & game designers\nThe 'old master' version of the Sigillum — a densely architectural seal suggesting generational accumulation, the protective mandala that has been refined across centuries."
+  },
+  {
+    "id": "ars_notoria__sigillum-dei-anselmi-laurenziana",
+    "title": "Sigillum Dei from Giorgio Anselmi, BML Plut. 44.35 (c. 1501)",
+    "date": "c. 1501",
+    "place": "Parma / Florence, Italy",
+    "medium": "manuscript",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Giorgio_Anselmi,_Sigillum_Dei.png",
+    "commons_file": "File:Giorgio_Anselmi,_Sigillum_Dei.png",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Giorgio_Anselmi,_Sigillum_Dei.png",
+    "summary": "The Sigillum Dei from Biblioteca Medicea Laurenziana MS Plut. 44.35 (c. 1501), drawn by or for the astrologer Giorgio Anselmi of Parma. The Sigillum Dei appears in the medieval Sworn Book of Honorius, a text closely related to the Ars Notoria: both use elaborate figures with angelic names and divine letter-sequences as ritual meditation objects. This Renaissance Italian version demonstrates the persistence of the nota-tradition into learned humanist magic.",
+    "motifs": [
+      "sigillum dei",
+      "angelic seal",
+      "ars notoria",
+      "ritual diagram",
+      "renaissance magic"
+    ],
+    "tier": "illustration"
   },
   {
     "id": "ars_notoria__sigilo-dei-aemeth",
@@ -10809,6 +10871,26 @@
     ],
     "summary_status": "authored",
     "summary": "Solomon receives the *Ars Notoria* from the angel Pamphilius in the Temple — the founding scene of the tradition, in which divine learning passes directly from the angelic realm into human hands.\n\n## Iconography\nThe image shows a crowned Solomon figure in dialogue with a winged angel, the exchange framed within a temple or palace setting. The angel carries or presents the book — the *Ars Notoria* itself — to the king, establishing its claim to revealed rather than merely human authorship. The hieratic composition deliberately mirrors scenes of scriptural revelation: the gesture and setting echo images of Moses receiving the Law, grounding magical authority in the same vocabulary as sacred tradition.\n\n## Significance\nThe Solomonic attribution was the standard medieval legitimating device for ritual magic: by claiming derivation from Solomon's own angelic instruction, a text placed itself in the lineage of God's most favoured operative. The angel Pamphilius is unique to the *Ars Notoria* tradition and appears in the prologues of several manuscripts as the celestial transmitter of the figures and orations. This image from BnF Latin 7153 (15th–16th c.) is one of the most evocative surviving frontispieces of the tradition. The *Ars Notoria* was not condemned as diabolical but as problematically circumventing human effort — the scandal was that it worked by divine infusion, not demonic pact.\n\n## For artists & game designers\nThe definitive 'forbidden gift' scene: a patron-angel privately delivering a system of power, outside the ordinary channels of study, church, or guild."
+  },
+  {
+    "id": "ars_notoria__solomon-receives-bnf-latin-7153",
+    "title": "Solomon Receives the Ars Notoria from Angel Pamphilius",
+    "date": "c. 1480–1520",
+    "place": "France",
+    "medium": "manuscript",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Solomon_Receives_the_Ars_Notoria.jpg",
+    "commons_file": "File:Solomon_Receives_the_Ars_Notoria.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Solomon_Receives_the_Ars_Notoria.jpg",
+    "summary": "Frontispiece illumination from BnF MS Latin 7153 (15th–16th c.) depicting King Solomon receiving the Ars Notoria from the angel Pamphilius in the Jewish Temple. This is the canonical origin myth of the Notory Art: Solomon was granted the text by an angelic intermediary who appeared during prayer, situating the Ars Notoria within the broader Solomonic tradition of divinely-revealed wisdom literature.",
+    "motifs": [
+      "ars notoria",
+      "angel invocation",
+      "solomon",
+      "manuscript page",
+      "medieval magic"
+    ],
+    "tier": "illustration"
   },
   {
     "id": "ars_notoria__theurgist-wellcome",
@@ -17000,6 +17082,379 @@
       "Aurora Consurgens"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "barchusen_elementa__barchusen-laboratory-sonnenborgh",
+    "title": "Barchusen in His Laboratory at Sonnenborgh, Utrecht",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Barchusen_Laboratory.png",
+    "commons_file": "File:Barchusen Laboratory.png",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Engraving depicting Johann Conrad Barchusen (1666–1723) in his laboratory on the Sonnenborgh hill in Utrecht, from the Elementa Chemiae (1718). The Sonnenborgh observatory building housed Barchusen's experimental facilities. The image anchors the alchemical emblem sequence in a real, identifiable scientific workspace.",
+    "motifs": [
+      "alchemical laboratory",
+      "Barchusen",
+      "Sonnenborgh",
+      "Utrecht",
+      "chemical apparatus"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__page-61-laboratory",
+    "title": "Barchusen's Laboratory at the University of Utrecht — Page 61",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_page_61.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen page 61.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Engraving from page 61 of the Elementa Chemiae depicting Barchusen's laboratory at the University of Utrecht. Shows a spacious chemistry laboratory with furnaces, fume hoods, and apparatus. A scientist is shown at a table with instruments and materials. Contextualized the alchemical emblem plates that follow in the treatise.",
+    "motifs": [
+      "alchemical laboratory",
+      "furnace",
+      "chemical apparatus",
+      "Utrecht",
+      "university laboratory"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__plate-503-figs1-5",
+    "title": "Elementa Chemiae — Plate 503, Figs. 1–5: Crowning of Nature Emblems 1–5",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_plate_503.1-5_alchemy.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen plate 503.1-5 alchemy.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Opening page of the Crowning of Nature emblem sequence in Barchusen's Elementa Chemiae, figures 1–5. Each circular allegorical emblem is paired with a depiction of the chemical apparatus used in the procedure it represents — the prima materia, initial preparation, and first dissolution stages of the Great Work. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "Coronatio Naturae",
+      "alchemical emblem",
+      "circular emblem",
+      "philosopher's stone",
+      "prima materia",
+      "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__plate-503-figs6-9",
+    "title": "Elementa Chemiae — Plate 503, Figs. 6–9: Crowning of Nature Emblems 6–9",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_plate_503.6-9_alchemy.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen plate 503.6-9 alchemy.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Emblems 6–9 of the Crowning of Nature sequence, from Barchusen's Elementa Chemiae. Each circular emblem is paired with chemical apparatus diagrams. Likely shows the dissolution, putrefaction (nigredo), and early albedo stages. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "alchemical emblem",
+      "circular emblem",
+      "philosopher's stone",
+      "nigredo",
+      "putrefaction",
+      "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__plate-504-figs10-13",
+    "title": "Elementa Chemiae — Plate 504, Figs. 10–13: Crowning of Nature Emblems 10–13",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_plate_504.10-13_alchemy.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen plate 504.10-13 alchemy.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Emblems 10–13 of the Crowning of Nature sequence, from Barchusen's Elementa Chemiae. Each allegorical circular image is juxtaposed with chemical apparatus diagrams. Likely shows albedo (whitening), the moon stages, and early coniunctio. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "alchemical emblem",
+      "circular emblem",
+      "philosopher's stone",
+      "albedo",
+      "coniunctio",
+      "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__plate-505-figs14-17",
+    "title": "Elementa Chemiae — Plate 505, Figs. 14–17: Crowning of Nature Emblems 14–17 (high-res)",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_p_505_AQ26_(1).TIF",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen p 505 AQ26 (1).TIF",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "High-resolution scan (3492 × 4614 px) of emblems 14–17 of the Crowning of Nature sequence, from Barchusen's Elementa Chemiae. This AQ26 archival scan is the finest-quality image in the Barchusen Commons set. Emblems 14–17 likely depict the rubedo (reddening), king and queen conjunction, and advanced stages. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "alchemical emblem",
+      "circular emblem",
+      "philosopher's stone",
+      "rubedo",
+      "king and queen",
+      "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__plate-505-figs18-21",
+    "title": "Elementa Chemiae — Plate 505, Figs. 18–21: Crowning of Nature Emblems 18–21",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_plate_505.18-21_alchemy.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen plate 505.18-21 alchemy.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Emblems 18–21 of the Crowning of Nature sequence, from Barchusen's Elementa Chemiae. Emblems 22–37 are not represented in the Commons set (gap in coverage). Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "alchemical emblem",
+      "circular emblem",
+      "philosopher's stone",
+      "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__plate-509-figs38-41",
+    "title": "Elementa Chemiae — Plate 509, Figs. 38–41: Crowning of Nature Emblems 38–41",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_plate_509.38-41_alchemy.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen plate 509.38-41 alchemy.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Emblems 38–41 of the Crowning of Nature sequence, from Barchusen's Elementa Chemiae (note: emblems 22–37 and 42–45 are not in the Commons set). Mid-sequence emblems likely depict multiplication and fermentation stages. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "alchemical emblem",
+      "circular emblem",
+      "philosopher's stone",
+      "multiplication",
+      "fermentation",
+      "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__plate-510-figs46-49",
+    "title": "Elementa Chemiae — Plate 510, Figs. 46–49: Crowning of Nature Emblems 46–49",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_plate_510.46-49_alchemy.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen plate 510.46-49 alchemy.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Emblems 46–49 of the Crowning of Nature sequence, from Barchusen's Elementa Chemiae. Late-middle stages of the Great Work sequence, likely depicting advanced projection or fixation stages. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "alchemical emblem",
+      "circular emblem",
+      "philosopher's stone",
+      "fixation",
+      "projection",
+      "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__plate-512-figs50-53",
+    "title": "Elementa Chemiae — Plate 512, Figs. 50–53: Crowning of Nature Emblems 50–53",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_plate_512.50-53_alchemy.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen plate 512.50-53 alchemy.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Emblems 50–53 of the Crowning of Nature sequence, from Barchusen's Elementa Chemiae. Later stages of the Great Work, approaching the completion of the Stone. Each circular emblem paired with chemical apparatus. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "alchemical emblem",
+      "circular emblem",
+      "philosopher's stone",
+      "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__plate-512-figs54-57",
+    "title": "Elementa Chemiae — Plate 512, Figs. 54–57: Crowning of Nature Emblems 54–57",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_plate_512.54-57_alchemy.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen plate 512.54-57 alchemy.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Emblems 54–57 of the Crowning of Nature sequence, from Barchusen's Elementa Chemiae. Late stages of the Great Work. Each allegorical image paired with chemical apparatus to clarify the alchemical process. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "alchemical emblem",
+      "circular emblem",
+      "philosopher's stone",
+      "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__plate-512-figs58-61",
+    "title": "Elementa Chemiae — Plate 512, Figs. 58–61: Crowning of Nature Emblems 58–61",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_plate_512.58-61_alchemy.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen plate 512.58-61 alchemy.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Emblems 58–61 of the Crowning of Nature sequence, from Barchusen's Elementa Chemiae. Near-final stages of the philosopher's stone preparation sequence. Combines symbolic imagery with laboratory apparatus documentation. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "alchemical emblem",
+      "circular emblem",
+      "philosopher's stone",
+      "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__plate-512-figs74-78",
+    "title": "Elementa Chemiae — Plate 512, Figs. 74–78: Crowning of Nature Emblems 74–78 (Final)",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_plate_512.74-78_alchemy.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen plate_512.74-78 alchemy.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Final emblems 74–78 of the Crowning of Nature sequence in Barchusen's Elementa Chemiae (emblems 62–73 not in Commons set). These concluding plates represent the projection, multiplication, and completion stages — the crowning achievement of the philosopher's stone. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "alchemical emblem",
+      "circular emblem",
+      "philosopher's stone",
+      "projection",
+      "multiplication",
+      "completion",
+      "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__portrait-hua",
+    "title": "Portrait of J.C. Barchusen — Bust in Oval (Utrecht Archives)",
+    "date": "c. 1703–1723",
+    "place": "Utrecht, Netherlands",
+    "medium": "painting (photographic reproduction)",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:HUA-103939-Portret_van_JC_Barchusen_geboren_1666_hoogleraar_in_de_chemie_aan_de_Utrechtse_hogeschool_1703_1723_overleden_2_oktober_1723_Borstbeeld_rechts_in_oval.jpg",
+    "commons_file": "File:HUA-103939-Portret van JC Barchusen geboren 1666 hoogleraar in de chemie aan de Utrechtse hogeschool 1703 1723 overleden 2 oktober 1723 Borstbeeld rechts in oval.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Portrait of Johann Conrad Barchusen (1666–1723), professor of chemistry at Utrecht University 1703–1723. Anonymous painting, bust-length facing right in oval frame. Held at Het Utrechts Archief (Utrecht Archives), accession HUA-103939.",
+    "motifs": [
+      "portrait",
+      "Barchusen",
+      "Utrecht",
+      "oval frame"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__tab3",
+    "title": "Barchusen Elementa Chemiae — Tab. 3: Alchemical Emblems with Apparatus Key",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_tab_3.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen tab 3.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Tabula 3 from Elementa Chemiae (1718). Juxtaposes Crowning of Nature allegorical imagery with diagrams of the chemical apparatus used in the depicted procedures — Barchusen's key method of demystifying alchemical symbolism through practical chemical documentation. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "chemical apparatus",
+      "alchemical emblem",
+      "tabula",
+      "practical alchemy"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__tab4",
+    "title": "Barchusen Elementa Chemiae — Tab. 4: Alchemical Emblems with Apparatus Key",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_tab_4.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen tab 4.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Tabula 4 from Elementa Chemiae (1718). Pairs Crowning of Nature allegorical imagery with chemical apparatus descriptions, exemplifying Barchusen's late-alchemical project of rational interpretation. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "chemical apparatus",
+      "alchemical emblem",
+      "tabula",
+      "practical alchemy"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__tab5",
+    "title": "Barchusen Elementa Chemiae — Tab. 5: Alchemical Emblems with Apparatus Key",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_tab_5.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen tab 5.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Tabula 5 from Elementa Chemiae (1718). Presents Crowning of Nature allegorical imagery alongside diagrams of chemical apparatus, representing Barchusen's systematic effort to demystify alchemical practice at the end of alchemy's academic prominence in Europe. Held at the Science History Institute, Philadelphia.",
+    "motifs": [
+      "Crowning of Nature",
+      "chemical apparatus",
+      "alchemical emblem",
+      "tabula",
+      "practical alchemy"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "barchusen_elementa__title-page",
+    "title": "Barchusen Elementa Chemiae — Title Page (1718)",
+    "date": "1718",
+    "place": "Utrecht, Netherlands",
+    "medium": "engraving",
+    "rights": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elementa_chemiae_1718_Barchusen_title_page.tif",
+    "commons_file": "File:Elementa chemiae 1718 Barchusen title page.tif",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Johann_Conrad_Barchusen",
+    "summary": "Title page of Johann Conrad Barchusen's Elementa Chemiae (Utrecht, 1718). The full Latin title translates as 'Elements of Chemistry: to which is appended the preparation of the philosopher's stone represented by images.' Held at the Science History Institute, Philadelphia. Barchusen (1666–1723) was professor of chemistry at Utrecht University 1703–23, one of the last systematic defenders of iatrochemical alchemy in the age of Boyle and Newton.",
+    "motifs": [
+      "title page",
+      "philosopher's stone",
+      "Barchusen",
+      "Elementa Chemiae"
+    ],
+    "tier": "illustration"
   },
   {
     "id": "biblical_magic__aaron-rod-foster",
@@ -94857,6 +95312,290 @@
       "esoteric tarot"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "ordinal_alchemy__bl-add-10302-master-pupil",
+    "title": "Norton's Master Instructs a Pupil — BL Add MS 10302 Illumination",
+    "date": "c. 1500–1530",
+    "place": "England",
+    "medium": "manuscript illumination",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Norton_Ordinal_of_Alchemy_master_pupil.jpg",
+    "commons_file": "File:Norton Ordinal of Alchemy master pupil.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Illumination from British Library Add MS 10302 (c. 1500–1530), one of the earliest and most richly illustrated manuscript witnesses of Thomas Norton's Ordinal of Alchemy. Depicts the alchemical master instructing a pupil, illustrating Norton's insistence on legitimate transmission: the art must be learned from a true adept, not from books alone. The pupil's worthiness — measured in patience, secrecy, and philosophical preparation — is a major theme of Chapter I.",
+    "motifs": [
+      "master and pupil",
+      "alchemical transmission",
+      "illumination",
+      "Norton",
+      "ordinal of alchemy",
+      "manuscript"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__bl-add-10302-norton-portrait",
+    "title": "Portrait of Thomas Norton — BL Add MS 10302 Frontispiece",
+    "date": "c. 1500–1530",
+    "place": "England",
+    "medium": "manuscript illumination",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Thomas_Norton_alchemist_portrait_BL_Add_10302.jpg",
+    "commons_file": "File:Thomas Norton alchemist portrait BL Add 10302.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Frontispiece portrait of Thomas Norton from BL Add MS 10302. Norton (c. 1433–c. 1513/14) was a member of Parliament for Bristol and a gentleman alchemist who composed the Ordinal c. 1477. He claimed to have achieved the Great Work under the tutelage of George Ripley, though his manuscript of the Stone was allegedly stolen by the servant of his rival, the Duchess of Clarence. This rare author portrait gives a face to the most significant English alchemical poet.",
+    "motifs": [
+      "author portrait",
+      "Thomas Norton",
+      "Bristol",
+      "alchemist portrait",
+      "manuscript"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__bl-add-10302-preparation",
+    "title": "Alchemical Preparation Stage — BL Add MS 10302 Illumination",
+    "date": "c. 1500–1530",
+    "place": "England",
+    "medium": "manuscript illumination",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Norton_Ordinal_of_Alchemy_preparation.jpg",
+    "commons_file": "File:Norton Ordinal of Alchemy preparation.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Illumination from BL Add MS 10302 depicting an early preparatory stage of the Great Work as described in Norton's Ordinal. Likely corresponds to chapters II–III, covering the election of proper materials and the initial calcination or dissolution. Norton's careful attention to practical procedure — he was active in Bristol and claimed experimental success — gives these manuscript images a grounding in real laboratory culture.",
+    "motifs": [
+      "alchemical preparation",
+      "calcination",
+      "dissolution",
+      "illumination",
+      "Norton",
+      "ordinal of alchemy",
+      "manuscript"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__ferguson-191-glasgow",
+    "title": "Ordinal of Alchemy — Ferguson MS 191, Glasgow University Library",
+    "date": "c. 1490–1520",
+    "place": "England",
+    "medium": "manuscript",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Norton_Ordinal_Ferguson_191_Glasgow.jpg",
+    "commons_file": "File:Norton Ordinal Ferguson 191 Glasgow.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Page from Ferguson MS 191, Glasgow University Library, one of the important manuscript witnesses of Thomas Norton's Ordinal of Alchemy. Ferguson 191 was part of the collection of bibliographer John Ferguson (1838–1916), professor of chemistry at Glasgow, whose Bibliotheca Chemica (1906) remains the standard reference for alchemical bibliography. This manuscript preserves an early textual and visual tradition of the Ordinal independent of the BL Add MS 10302 branch.",
+    "motifs": [
+      "ordinal of alchemy",
+      "Norton",
+      "manuscript",
+      "Glasgow",
+      "Ferguson collection",
+      "Middle English"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__norton-frontispiece-full",
+    "title": "Thomas Norton — Full Frontispiece with Motto, from Theatrum Chemicum Britannicum",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "engraving",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Thomas_Norton_TCB_frontispiece.jpg",
+    "commons_file": "File:Thomas Norton TCB frontispiece.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Full frontispiece engraving for Norton's Ordinal of Alchemy from Elias Ashmole's Theatrum Chemicum Britannicum (London, 1652). Shows Norton's name and motto alongside the opening emblematic imagery of the Ordinal. Ashmole's edition was produced in response to the Puritan hostility to alchemical learning and is the most important English anthology of alchemical verse, preserving works by Ripley, Chaucer, Lydgate, and others alongside Norton.",
+    "motifs": [
+      "frontispiece",
+      "Norton",
+      "Ashmole",
+      "Theatrum Chemicum Britannicum",
+      "engraving",
+      "ordinal of alchemy"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__shi-dpla-apparatus",
+    "title": "Alchemical Apparatus for the Ordinal — Science History Institute DPLA Image",
+    "date": "c. 1500",
+    "place": "England",
+    "medium": "manuscript",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Norton_Ordinal_SHI_apparatus.jpg",
+    "commons_file": "File:Norton Ordinal SHI apparatus.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Image from a manuscript copy of Thomas Norton's Ordinal of Alchemy, held at the Science History Institute (formerly Chemical Heritage Foundation), Philadelphia, and available via the DPLA. Depicts alchemical apparatus relevant to the Ordinal's discussion of the proper vessels, fires, and instruments for the Work. The Science History Institute holds the world's most comprehensive collection of chemical and alchemical primary sources.",
+    "motifs": [
+      "ordinal of alchemy",
+      "Norton",
+      "alchemical apparatus",
+      "manuscript",
+      "Science History Institute"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__shi-dpla-coronation",
+    "title": "Coronation Allegory from Norton's Ordinal — Science History Institute DPLA Image",
+    "date": "c. 1500",
+    "place": "England",
+    "medium": "manuscript",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Norton_Ordinal_SHI_coronation.jpg",
+    "commons_file": "File:Norton Ordinal SHI coronation.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Coronation allegory from a Science History Institute manuscript copy of Norton's Ordinal of Alchemy (via DPLA). The coronation motif — king and queen crowned in the alchemical vessel — represents the coniunctio of sulphur and mercury, the philosophical marriage that produces the Stone. This motif links the Ordinal iconographically to the Crowning of Nature (Coronatio Naturae) tradition and to the broader tradition of the alchemical royal wedding.",
+    "motifs": [
+      "coronation",
+      "coniunctio",
+      "king and queen",
+      "alchemical marriage",
+      "philosopher's stone",
+      "Norton",
+      "ordinal of alchemy"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__shi-dpla-seven-chapters",
+    "title": "Chapter Diagram — Seven Chapters of the Ordinal, Science History Institute",
+    "date": "c. 1500",
+    "place": "England",
+    "medium": "manuscript",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Norton_Ordinal_SHI_seven_chapters.jpg",
+    "commons_file": "File:Norton Ordinal SHI seven chapters.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Diagrammatic page from a Science History Institute manuscript of Norton's Ordinal of Alchemy illustrating the structure of the seven chapters. Norton organized the Ordinal as seven books (Tractatus): Election of the Alchemist, Election of Materials, The Work, Fire, Vessels, Colours of the Work, and Projection. Each chapter was accompanied by illustrative diagrams in the richer manuscript copies, making this one of the more systematically illustrated alchemical texts in the English tradition.",
+    "motifs": [
+      "chapter diagram",
+      "seven chapters",
+      "ordinal of alchemy",
+      "Norton",
+      "structure",
+      "manuscript"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-1652-fig1",
+    "title": "Theatrum Chemicum Britannicum — Norton's Ordinal Fig. 1 (1652 Engraving)",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "engraving",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Norton_Ordinal_TCB_1652_fig1.jpg",
+    "commons_file": "File:Norton Ordinal TCB 1652 fig1.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Figure 1 of the five engraved plates published in Elias Ashmole's Theatrum Chemicum Britannicum (London, 1652), the first printed edition of Thomas Norton's Ordinal of Alchemy. Ashmole's edition included five full-page engravings illustrating the Great Work. These are the only authoritative printed images of the Ordinal's content and were standard reference illustrations for 17th-century English alchemists.",
+    "motifs": [
+      "Theatrum Chemicum Britannicum",
+      "engraving",
+      "Norton",
+      "ordinal of alchemy",
+      "Ashmole",
+      "philosopher's stone",
+      "Great Work"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-1652-fig2",
+    "title": "Theatrum Chemicum Britannicum — Norton's Ordinal Fig. 2 (1652 Engraving)",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "engraving",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Norton_Ordinal_TCB_1652_fig2.jpg",
+    "commons_file": "File:Norton Ordinal TCB 1652 fig2.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Figure 2 of the five engraved plates from Elias Ashmole's Theatrum Chemicum Britannicum (1652) for Norton's Ordinal of Alchemy. Likely depicts an intermediate stage of the Work, possibly the separation or conjunction phase described in chapters III–IV of the Ordinal.",
+    "motifs": [
+      "Theatrum Chemicum Britannicum",
+      "engraving",
+      "Norton",
+      "ordinal of alchemy",
+      "Ashmole",
+      "philosopher's stone",
+      "Great Work",
+      "conjunction"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-1652-fig3",
+    "title": "Theatrum Chemicum Britannicum — Norton's Ordinal Fig. 3 (1652 Engraving)",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "engraving",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Norton_Ordinal_TCB_1652_fig3.jpg",
+    "commons_file": "File:Norton Ordinal TCB 1652 fig3.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Figure 3 of the five engraved plates from Elias Ashmole's Theatrum Chemicum Britannicum (1652) for Norton's Ordinal of Alchemy. Mid-sequence plate, probably depicting putrefaction (nigredo) or albedo stages as described in chapters IV–V.",
+    "motifs": [
+      "Theatrum Chemicum Britannicum",
+      "engraving",
+      "Norton",
+      "ordinal of alchemy",
+      "Ashmole",
+      "philosopher's stone",
+      "nigredo",
+      "putrefaction",
+      "albedo"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-1652-fig4",
+    "title": "Theatrum Chemicum Britannicum — Norton's Ordinal Fig. 4 (1652 Engraving)",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "engraving",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Norton_Ordinal_TCB_1652_fig4.jpg",
+    "commons_file": "File:Norton Ordinal TCB 1652 fig4.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Figure 4 of the five engraved plates from Elias Ashmole's Theatrum Chemicum Britannicum (1652) for Norton's Ordinal of Alchemy. Later stage in the Great Work sequence, likely depicting multiplication or the reddening stage (rubedo) as described in chapters V–VI.",
+    "motifs": [
+      "Theatrum Chemicum Britannicum",
+      "engraving",
+      "Norton",
+      "ordinal of alchemy",
+      "Ashmole",
+      "philosopher's stone",
+      "rubedo",
+      "multiplication"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "ordinal_alchemy__tcb-1652-fig5",
+    "title": "Theatrum Chemicum Britannicum — Norton's Ordinal Fig. 5: Projection (1652 Engraving)",
+    "date": "1652",
+    "place": "London, England",
+    "medium": "engraving",
+    "rights": "Public Domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Norton_Ordinal_TCB_1652_fig5.jpg",
+    "commons_file": "File:Norton Ordinal TCB 1652 fig5.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Thomas_Norton_(alchemist)",
+    "summary": "Figure 5 — the concluding plate from Elias Ashmole's Theatrum Chemicum Britannicum (1652) for Norton's Ordinal of Alchemy. Depicts the culminating act of projection — the casting of the Stone upon base metals to transmute them into gold. The Ordinal's seventh and final chapter treats projection at length, describing the Stone's power of multiplication: a single grain projected upon a thousand times its weight in common metal achieves perfect transmutation.",
+    "motifs": [
+      "Theatrum Chemicum Britannicum",
+      "engraving",
+      "Norton",
+      "ordinal of alchemy",
+      "Ashmole",
+      "philosopher's stone",
+      "projection",
+      "transmutation",
+      "Great Work"
+    ],
+    "tier": "illustration"
   },
   {
     "id": "paracelsian_elementals__agricola-de-re-metallica",
