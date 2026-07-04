@@ -3065,5 +3065,40 @@
    "Benedictine",
    "cosmological diagram"
   ]
+ },
+ {
+  "key": "shams_al_maarif",
+  "title": "Shams al-Ma'arif — The Sun of Knowledge (Ahmad al-Buni)",
+  "tradition": "hermetic",
+  "era": "medieval",
+  "blurb": "Ahmad ibn Ali al-Buni's (d. 622/1225) Shams al-Ma'arif al-Kubra (The Great Sun of Knowledge) is the most influential Arabic grimoire and the foundational text of Islamicate lettrism (huruf). It systematizes the occult properties of the 28 Arabic letters, the 99 Names of God, magic squares (awfaq), and planetary talismans into a vast cosmological system. Buni synthesizes Sufi cosmology, astrological magic, and Neoplatonic letter-mysticism into a practical manual for divine invocation and natural magic. The text circulated in hundreds of manuscript copies across the Islamic world from Morocco to Central Asia, and was central to the practices of Sufi orders, court magicians, and popular healers alike.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "shams_al_maarif",
+  "rights": "Public Domain. Via Wikimedia Commons (CC BY-SA 3.0 / GFDL).",
+  "creator": "Ahmad ibn Ali al-Buni",
+  "date": "c. 1200–1225 (comp.); MS 17th century",
+  "century": 13,
+  "place": "North Africa / Egypt (composed); later MS origin unknown",
+  "region": "Islamicate world",
+  "short_id": "SHAM",
+  "language": "Arabic",
+  "provenance_url": "https://commons.wikimedia.org/wiki/File:Shams_al-Ma%27arif.jpg",
+  "motifs": [
+   "al-Buni",
+   "Shams al-Ma'arif",
+   "lettrism",
+   "huruf",
+   "Arabic letters",
+   "magic square",
+   "wafq",
+   "talisman",
+   "Names of God",
+   "Islamic magic",
+   "Sufi",
+   "khatim",
+   "seal",
+   "astrological magic"
+  ]
  }
 ]

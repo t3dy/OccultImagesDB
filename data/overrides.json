@@ -113248,6 +113248,32 @@
     "summary_status": "authored"
   },
   {
+    "id": "shams_al_maarif__ms-17c-opening",
+    "title": "Shams al-Ma'arif — Manuscript Opening, Early 17th Century",
+    "date": "early 17th century",
+    "place": "North Africa / Middle East",
+    "medium": "manuscript",
+    "rights": "CC BY-SA 3.0 / GFDL. Photograph by Danieliness, cropped by User:User-duck.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shams_al-Ma%27arif.jpg",
+    "commons_file": "File:Shams al-Ma'arif.jpg",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Shams_al-Ma%27arif.jpg",
+    "summary": "An opening page of a manuscript copy of Ahmad al-Buni's Shams al-Ma'arif al-Kubra (The Great Sun of Knowledge), dating to the early 17th century. Al-Buni (d. 622/1225 CE) compiled this encyclopedic Arabic grimoire in North Africa or Egypt, synthesizing Islamic Sufi cosmology, astrological magic, letter mysticism (huruf), and the practical use of magic squares (awfaq) and divine names. The manuscript shows the characteristic dense Arabic calligraphy, chapter headings in bold naskh or thuluth script, and geometric interlace decorations that mark luxury copies of the Shams al-Ma'arif. The text was the most widely copied Arabic magical handbook in history, existing in hundreds of MSS across the Islamic world.",
+    "motifs": [
+      "al-Buni",
+      "Shams al-Ma'arif",
+      "Arabic manuscript",
+      "lettrism",
+      "huruf",
+      "Islamic magic",
+      "grimoire",
+      "calligraphy",
+      "naskh",
+      "magic squares",
+      "Names of God"
+    ],
+    "tier": "illustration"
+  },
+  {
     "id": "solomonic_tradition__clavicules-salomon-ms",
     "title": "Les Clavicules de R. Salomon, Vol. II (manuscript)",
     "work": "The Solomonic Grimoire Tradition",
