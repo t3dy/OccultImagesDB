@@ -115,6 +115,66 @@
       "summary": "A cosmological circle diagram from the Shams al-Ma'arif manuscript (c. 1500 CE), drawn in red ink inside a rectangular frame. The large circle is divided into four quadrants by a cross — the cardinal axes — with Arabic text inscribed in each sector, corresponding to the four elements, four humors, four winds, four cardinal directions, or four divine Names depending on the chapter's topic. The quadrant circle is one of al-Buni's most frequently deployed cosmological schemata: it maps the fourfold structure of creation (samawat wa ard, heavens and earth) onto the circular form of divine unity, making cosmological order visually legible. Similar diagrams appear in the parallel Lata'if al-Isharat manuscripts (Berlin Or. 80, BnF Ar. 2657) as the celestial-spheres diagram.",
       "motifs": ["cosmological diagram", "circle", "quadrant", "four elements", "al-Buni", "Shams al-Ma'arif", "Islamic cosmology", "divine hierarchy", "letter cosmology", "huruf"],
       "tier": "illustration"
+    },
+    {
+      "id": "ia_shams_ms__letter-sigil-symbol-p530",
+      "title": "Chapter Section with Letter-Sigil Symbol — Shams al-Ma'arif MS (p. 530)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "Page 530 of the c. 1500 CE Shams al-Ma'arif manuscript, showing a chapter section with a small angular letter-sigil or geometric symbol drawn in red ink. The section is titled 'Fi Huruf al-Saghir' (On the Small Letters) and falls within the chapters discussing the huruf al-khatim (seal letters) and their talismanic applications. Small geometric sigils — angular letter-configurations that represent the compressed essence of divine Names or planetary spirits — appear throughout the Shams al-Ma'arif as practical talisman templates. The red chapter headings visible on this page mark the transition between thematic sections on different aspects of the letter-science.",
+      "motifs": ["huruf", "letter-sigil", "khatim", "symbol", "al-Buni", "Shams al-Ma'arif", "talisman", "angular sigil", "Islamic magic", "divine Names"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ia_shams_ms__wafq-small-grid-p590",
+      "title": "Small Numeric Awfaq Grid — Shams al-Ma'arif MS (p. 590)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "Page 590 of the c. 1500 CE Shams al-Ma'arif manuscript, showing a small 3×4 numeric awfaq (magic square) grid at the bottom of the text column, within a chapter on the divine Names and their numerical correspondences. The grid uses Arabic-Indic numerals to represent the abjad values of specific divine Name letters, arranged so that each row and column maintains a constant sum. This small, compact format — grid embedded at the foot of a prose section — is characteristic of the Shams al-Ma'arif's practical approach: the wafq is presented as a direct working tool, immediately following the textual explanation of its construction and use.",
+      "motifs": ["wafq", "awfaq", "magic square", "numeric grid", "abjad", "divine Names", "al-Buni", "Shams al-Ma'arif", "talismanic", "Islamic occult"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ia_shams_ms__wafq-numeric-table-p570",
+      "title": "Numeric Awfaq Table — Shams al-Ma'arif MS (p. 570)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "Page 570 of the c. 1500 CE Shams al-Ma'arif manuscript, showing a numeric awfaq (magic square) table drawn in red ink. The table consists of four columns with Arabic-Indic numerals, representing the summing structure of a wafq associated with one of the divine Names or planets. Numeric wafq in the Shams al-Ma'arif work by converting letter values (abjad) into numerals, arranging them so that every row, column, and diagonal sums to the same 'magic constant' (al-makhraj). This constant determines the talisman's target: health, protection, invocation, or binding. The chapter heading above the table (Bab al-Asma' al-Akbar, 'Chapter on the Greatest Names') places this wafq in the context of the Divine Names and their numerical correspondences.",
+      "motifs": ["wafq", "awfaq", "magic square", "numeric table", "abjad", "al-Buni", "Shams al-Ma'arif", "divine Names", "talismanic", "Islamic numerology"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ia_shams_ms__wafq-two-grids-p610",
+      "title": "Two Awfaq Grids on One Page — Shams al-Ma'arif MS (p. 610)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "Page 610 of the c. 1500 CE Shams al-Ma'arif manuscript, displaying two distinct awfaq grids on the same page — a compositional arrangement showing the scribe working through a systematic series of wafq constructions for successive divine Names or planets. The upper grid is a compact 4×4 numeric wafq (magic square of order 4, Jupiter) and the lower section contains another letter-number wafq with its accompanying text. This page is distinctive in the manuscript tradition for its density of diagrammatic content, presenting two complete magic-square constructions within a single opening. The surrounding text explains the procedure (tartib, 'ordering') for constructing each wafq and the khawass (properties) activated when inscribing these squares as talismans.",
+      "motifs": ["wafq", "awfaq", "magic square", "two grids", "numeric wafq", "letter wafq", "al-Buni", "Shams al-Ma'arif", "talismanic", "Islamic occult", "magic square of Jupiter", "systematic construction"],
+      "tier": "illustration"
+    },
+    {
+      "id": "ia_shams_ms__wafq-small-3x3-p640",
+      "title": "Small 3×3 Awfaq Grid — Shams al-Ma'arif MS (p. 640)",
+      "date": "c. 1500 CE",
+      "place": "North Africa or Egypt",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain — manuscript c. 1500 CE. Scan: Internet Archive.",
+      "provenance_url": "https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3",
+      "summary": "Page 640 of the c. 1500 CE Shams al-Ma'arif manuscript, showing a small 3×3 numeric wafq (magic square of order 3, Saturn) in the upper section, followed by red chapter headings marking successive sections. The 3×3 wafq is the foundational awfaq in al-Buni's system — it corresponds to Saturn, the number nine, and the divine Name al-Ahad (The One). Its magic constant is 15 (the numerological value of the divine Name Yah, יה, in Hebrew and يه in Arabic), and it underlies all larger wafq constructions. This late-book placement of the Saturn wafq likely occurs in a closing summary chapter that revisits the foundational constructions after the more complex material.",
+      "motifs": ["wafq", "awfaq", "magic square", "3x3", "Saturn wafq", "al-Ahad", "al-Buni", "Shams al-Ma'arif", "talismanic", "Islamic occult", "foundation wafq"],
+      "tier": "illustration"
     }
   ]
 }

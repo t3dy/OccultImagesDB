@@ -107,7 +107,7 @@ Rights: Public Domain (printed edition >100 years old, McGill University scan).
 `https://archive.org/details/al-buni-shams-al-maarif-manuscript-1500-pr_17c0ca67763c4643cf589e3fe4d4fab3`
 
 645 pages, red-and-black manuscript with awfaq, khatim diagrams, full-page letter squares, and cosmological circles.
-8 pages extracted (2026-07-04) as work `ia_shams_ms`:
+13 pages extracted as work `ia_shams_ms` (8 original 2026-07-04 + 5 new 2026-07-05):
 
 | Image ID | Page | Content |
 |----------|------|---------|
@@ -116,21 +116,41 @@ Rights: Public Domain (printed edition >100 years old, McGill University scan).
 | `ms-awfaq-tables-p120` | 120 | Multiple awfaq tables embedded in text |
 | `ms-awfaq-diamond-lattice-p200` | 200 | Awfaq + diamond-lattice geometric diagram |
 | `ms-khatim-compass-rose-p295` | 295 | Circular khatim compass-rose talisman |
-| `ms-star-khatim-p305` | 305 | Star-khatim with crossed lines (stunning) |
+| `ms-star-khatim-p305` | 305 | Star-khatim with crossed lines |
 | `ms-full-page-letter-square-p310` | 310 | Full-page Arabic letter magic square |
 | `ms-cosmological-circle-p420` | 420 | Cosmological circle divided into quadrants |
+| `letter-sigil-symbol-p530` | 530 | Chapter section with letter-sigil angular symbol |
+| `wafq-numeric-table-p570` | 570 | Numeric awfaq table (4-column) |
+| `wafq-small-grid-p590` | 590 | Small 3×4 numeric awfaq grid |
+| `wafq-two-grids-p610` | 610 | Two awfaq grids on one page |
+| `wafq-small-3x3-p640` | 640 | Small 3×3 Saturn wafq at chapter close |
 
-**Remaining pages** (could extract more):
-- Many more awfaq throughout (dense in pp.90–230)
-- More circle/khatim diagrams in pp.400–530
+**Remaining pages** (mostly text, many more small inline awfaq):
+- Pages 90–230: Dense awfaq zones; more grids available if needed
+- Pages 400–529: More khatim/circle zones not yet fully sampled
 
-**Better printed-edition source:** See §E above (Cairo edition already done).
+### §E3 — Princeton Shams al-Ma'arif Manuscript (Garrett 258Y, 1468 CE — DONE)
+
+**✅ EXTRACTED** — Princeton University Library, Islamic Manuscripts, Garrett no. 258Y.
+133 leaves (270 digitized pages). 1468 CE. Short recension.
+
+IIIF manifest: `https://figgy.princeton.edu/concern/scanned_resources/60acb5cd-f5ea-4d58-b61c-1c0f985ddc52/manifest`
+DPUL catalog: `https://dpul.princeton.edu/islamicmss/catalog/bec995a9e42f87d507f0975b881d4962`
+
+2 pages extracted (2026-07-05) as work `princeton_shams_ms`:
+
+| Image ID | Page | Content |
+|----------|------|---------|
+| `wafq-letter-grid-p28` | 28 | Letter-based awfaq grid (Wafq of the Seven), 6×7 cells, red-border |
+| `wafq-number-letter-grid-p250` | 250 | Large composite awfaq grid (letters + numbers), ~6×12 cells |
+
+**Notes:** This is a compact short recension — diagram pages are sparse (2 found out of 270).
+The rest are dense text with occasional small embedded awfaq not visible at thumbnail scale.
 
 **Other digitized manuscript copies** (not yet extracted):
 
 | Repository | Shelfmark | Platform | Notes |
 |------------|-----------|----------|-------|
-| Princeton University Library | Islamic MSS Garrett collection | https://findingaids.princeton.edu | Some digitized via IIIF |
 | Chester Beatty Library, Dublin | Ar. 4234 (fine 15th c. copy) | https://viewer.cbl.ie | Partially online |
 | Bodleian, Oxford | MS Arab. d. 138 | https://digital.bodleian.ox.ac.uk | Search "Buni" |
 | Library of Congress | Arabic magic MSS | https://www.loc.gov/manuscripts | Search "Shams" |
@@ -273,7 +293,7 @@ If found, IIIF manifests follow: https://content.staatsbibliothek-berlin.de/dc/{
 |------|--------|--------|
 | Shams al-Ma'arif.jpg (1 image) | Commons | ✅ DONE — `shams_al_maarif__ms-17c-opening` |
 | Shams al-Ma'arif printed diagrams (5 pages) | Local PDF E:\pdf\... | ✅ DONE — pp. 56, 150, 201, 256, 550 |
-| Shams al-Ma'arif manuscript (8 pages) | Internet Archive c.1500 MS | ✅ DONE — `ia_shams_ms` work |
+| Shams al-Ma'arif manuscript (13 pages) | Internet Archive c.1500 MS | ✅ DONE — `ia_shams_ms` work (+5 late pages 2026-07-05) |
 | Islamic Geomancy: BM instrument 1241 CE (3 imgs) | Commons / British Museum | ✅ DONE — `islamicate_geomancy` work |
 | Islamic Geomancy: Wellcome MS Arabic 823 (2 imgs) | Commons / Wellcome Library | ✅ DONE — `islamicate_geomancy` work |
 | Islamic Geomancy: engraving + classification (2 imgs) | Commons | ✅ DONE — `islamicate_geomancy` work |
@@ -281,6 +301,8 @@ If found, IIIF manifests follow: https://content.staatsbibliothek-berlin.de/dc/{
 | British Library digitized Arabic MSS | BL IIIF (403 from Python) | ❌ BL digirati.io returns 403 |
 | Bodleian Islamic/Hebrew MSS | Bodleian Digital | ❌ No al-Buni or SY results found |
 | NLI (National Library of Israel) | nli.org.il | ❌ Search URL formats not found |
+| Princeton Shams al-Ma'arif (Garrett 258Y, 1468 CE) | figgy.princeton.edu IIIF | ✅ DONE — `princeton_shams_ms` work (2 pages, 2026-07-05) |
+| IA Lata'if al-Awarif (Jakone Publication) | Internet Archive | ❌ SKIP — Urdu translation, typeset, no manuscript diagrams |
 
 **Gallica (BnF) — CAPTCHA BLOCKER:**
 - All Gallica API endpoints (SRU, IIIF) return ALTCHA captcha to browser OR 403 to Python

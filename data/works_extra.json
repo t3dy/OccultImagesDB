@@ -3170,5 +3170,41 @@
    "talisman",
    "divinatory chart"
   ]
+ },
+ {
+  "key": "princeton_shams_ms",
+  "title": "Shams al-Ma'arif wa-Lata'if al-'Awarif — Princeton MS Garrett 258Y (1468 CE)",
+  "tradition": "hermetic",
+  "era": "medieval",
+  "blurb": "A short recension of al-Buni's encyclopaedia of occult sciences, copied in 1468 CE (872 AH). Princeton University Library, Islamic Manuscripts, Garrett no. 258Y (133 leaves). Acquired from the collection of Abraham Shalom Yahuda; gift of Robert Garrett, Class of 1897, 1942. The manuscript contains the abbreviated form of the Shams al-Ma'arif with embedded awfaq (magic-square) tables and letter grids. This compact recension illustrates how al-Buni's system was transmitted in condensed practical form: the diagrammatic content is embedded directly in the text flow rather than displayed as full-page illustrations.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "princeton_shams_ms",
+  "rights": "Public Domain. Digitized by Princeton University Library under IIIF open access.",
+  "creator": "Ahmad ibn Ali al-Buni (d. 622/1225 CE)",
+  "date": "1468 CE (872 AH)",
+  "century": 15,
+  "place": "unknown (Arabic-speaking world)",
+  "region": "Islamicate world",
+  "short_id": "PSHM",
+  "language": "Arabic",
+  "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/bec995a9e42f87d507f0975b881d4962",
+  "iiif_manifest": "https://figgy.princeton.edu/concern/scanned_resources/60acb5cd-f5ea-4d58-b61c-1c0f985ddc52/manifest",
+  "call_number": "Princeton Islamic Manuscripts, Garrett no. 258Y",
+  "motifs": [
+   "al-Buni",
+   "Shams al-Maarif",
+   "wafq",
+   "magic square",
+   "awfaq",
+   "Arabic manuscript",
+   "letter square",
+   "huruf",
+   "Islamic occult",
+   "talismanic",
+   "1468",
+   "Princeton",
+   "Garrett collection"
+  ]
  }
 ]
