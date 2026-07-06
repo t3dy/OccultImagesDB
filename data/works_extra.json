@@ -3885,5 +3885,47 @@
    "Islamic manuscript",
    "Persianate art"
   ]
+ },
+ {
+  "key": "princeton_shumus",
+  "title": "Kitāb Shumūs al-anwār wa-kunūz al-asrār (Princeton, Garrett 3182Y, 19c Arabic)",
+  "tradition": "hermetic",
+  "era": "early modern",
+  "blurb": "A 19th-century Arabic composite codex held at Princeton University Library (Islamic Manuscripts, Garrett no. 3182Y), covering the full range of Islamic occult sciences in thirty-plus chapters. Its title — Shumūs al-anwār wa-kunūz al-asrār (Suns of Lights and Treasuries of Secrets) — signals its ambition: a comprehensive practitioner's treasury drawing on ʻilm al-ḥurūf (letter science), wafq (magic squares), practical talismanic operations, military magic, mineral alchemy, and geomantic divination for locating buried treasure. Unlike systematic theoretical treatises, this compendium presents knowledge as a step-by-step operational guide: each chapter names a divine attribute or magical goal and provides the associated wafq or sigil form, incense, ritual timing, and instructions. Diagrams appear in three distinct forms: (1) inline sigil illustrations using the 'shape like this' (صورة هكذا) convention, showing small drawn talisman forms directly in the running text; (2) embedded magic square grids (wafq) of 4×4 or larger format associated with specific divine names; (3) large operational jadwal (correspondence tables) correlating celestial or elemental categories with specific ritual actions; and (4) geometric divinatory diagrams for locating buried treasure (dafīna), showing a diamond-within-square sacred geometry template. Authorship is uncertain — the text has been attributed to Ibn al-Ḥājj (d. 1336) but may be later. Princeton University Library, Islamicmss collection, figgy UUID 567baddd.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "princeton_shumus",
+  "rights": "Public Domain — 19th century CE manuscript. Princeton University Library.",
+  "creator": "attributed to Ibn al-Ḥājj Muḥammad ibn Muḥammad (d. 1336); anonymous copyist (19th century)",
+  "date": "19th century CE",
+  "century": 19,
+  "place": "Arab world",
+  "region": "Islamicate world",
+  "short_id": "SHMS",
+  "language": "Arabic",
+  "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/dc4q77g332q",
+  "motifs": [
+   "huruf",
+   "letter science",
+   "wafq",
+   "magic square",
+   "jadwal",
+   "talisman",
+   "sigil",
+   "inline sigil",
+   "occult compendium",
+   "divine names",
+   "military magic",
+   "routing armies",
+   "buried treasure",
+   "kanz",
+   "dafina",
+   "geomancy",
+   "istikhara",
+   "Islamic magic",
+   "Arabic manuscript",
+   "Garrett collection",
+   "Princeton"
+  ]
  }
 ]

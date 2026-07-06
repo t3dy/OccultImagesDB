@@ -322,6 +322,7 @@ If found, IIIF manifests follow: https://content.staatsbibliothek-berlin.de/dc/{
 | Princeton Treatise on 24 Magical Alphabets (Garrett no. 52B, 18c Arabic) | figgy a80932f7 | ✅ DONE — `princeton_alphabets` (8 entries: 5 magic alphabet grids incl. soothsayer/rune/Greco-Latin/Psi-swastika/6-system comparison, Qanawi+Pahlavi+tally page, Natural Script awfaq table, simat sigil table, 2026-07-06) |
 | Princeton ʿAjaʾib al-Makhluqat / Wonders of Creation — Persian illustrated MS | figgy da45a495 | ✅ DONE — `princeton_qazwini` (4 entries: 3-panel jinn encounter miniatures, Solomon commands jinn court, Solomon+jinn dual panel, Solomon+jinn walled city dual-panel, 2026-07-06) |
 | Princeton Ghayat al-Murad fi Wafq al-A'dad (1462 CE Persian wafq encyclopedia) | figgy edc0b2fe | ✅ DONE — `princeton_ghayat` (3 entries: two 8×8 numeric cross-method squares, full-page dense letter wafq ~20×30 cells, astrological figure/incense/effect operations table, 2026-07-06) |
+| Princeton Shumus al-Anwar wa-Kunuz al-Asrar (Garrett 3182Y, 19c Arabic, 145c) | figgy 567baddd | ✅ DONE — `princeton_shumus` (5 entries: inline sigil drawings صورة هكذا, 4×4 numeric wafq al-Hafiz, large letter-word jadwal, military routing-armies jadwal, diamond-square treasure-finding diagram, 2026-07-06) |
 
 **Gallica (BnF) — CAPTCHA BLOCKER:**
 - All Gallica API endpoints (SRU, IIIF) return ALTCHA captcha to browser OR 403 to Python
