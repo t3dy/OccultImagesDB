@@ -2308,5 +2308,35 @@
     "rights": "Public Domain — manuscript (date unknown). Princeton University Library (Garrett Collection).",
     "blurb": "A manuscript treatise on geomancy (ilm al-raml — the science of sand) by Khalaf al-Barbari, 46 leaves (92 pages), illustrated with tables and diagrams, held at Princeton University Library (Garrett Collection). The full title is al-Shajara al-Muthimara li-Taysir al-Nuqta al-Mu'tabara (The Fruitful Tree for Facilitating the Respected Point). Geomancy (ilm al-raml) is a divination system based on 16 binary figures (each composed of 4 rows of 1 or 2 points) that was transmitted from the Arabic world to medieval Europe where it became widespread. The Arabic tradition distinguishes 16 figures (al-ashkal) with their planetary, elemental, directional, seasonal, and binary properties; the treatise organizes these into systematic tables mapping each figure to its attributes. The tables in this Princeton MS — showing which figures are 'present' or 'absent', 'mobile' or 'stable', oriented 'east', 'west', 'north', or 'south' — are the operational core of the geomantic system, used to interpret horoscopic figure charts. The manuscript is a practical working reference rather than a philosophical treatise.",
     "count": 3
+  },
+  {
+    "key": "princeton_charms",
+    "title": "[Treatise on Charms and Talismans] (Princeton, Third Series no. 591, 1483 CE)",
+    "creator": "Anonymous",
+    "date": "1483 CE",
+    "era": "medieval",
+    "tradition": "hermetic",
+    "tier": "illustration",
+    "place": "Islamic world",
+    "language": "Arabic",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/8336h195t",
+    "rights": "Public Domain — 1483 CE manuscript. Princeton University Library.",
+    "blurb": "A 26-leaf Arabic manuscript treatise on charms and talismans (amulets), dated 1483 CE, held at Princeton University Library (Third Series no. 591). The MS contains multiple types of Islamic magical diagrams: pentagonal khatim talisman seals (pentagon star circles with Arabic numerals), red-bordered wafq letter grids, triangular staircase letter-combination tables (muhmal arrangements), and full-page diamond-lattice letter grids — all typical of the late medieval Arabic huruf/talisman tradition. The diamond-lattice grid (a diagonal crossing of letter-rows, producing a net of rhombus cells each containing an Arabic letter or combination) is a distinctive Islamic visual formula for encoding divine-name letter combinations in a spatially memorable way. The manuscript was compiled in 1483 CE, placing it in the same generation as the earliest European printed books and the high point of Ottoman imperial expansion — a period when Islamic talismanic manuscripts circulated widely across the Mediterranean and Middle East.",
+    "count": 4
+  },
+  {
+    "key": "princeton_occult",
+    "title": "[Collection of Texts on Occult Sciences] (Princeton, Garrett no. 547H)",
+    "creator": "Multiple authors (anthology)",
+    "date": "c. 18th–19th century CE",
+    "era": "early modern",
+    "tradition": "hermetic",
+    "tier": "illustration",
+    "place": "Islamic world (Ottoman context)",
+    "language": "Arabic",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/gf06g272s",
+    "rights": "Public Domain — manuscript (date uncertain, 1700-1899 CE range). Princeton University Library (Garrett Collection).",
+    "blurb": "A 230-page Arabic composite manuscript comprising seven texts on occult sciences (Garrett no. 547H), held at Princeton University Library. The collection includes a Zairja geomancy text (Risala fi 'Ilm al-Zairja — a sand-divination/letter divination hybrid system) identified in the incipit, alongside texts on astrology, letter science, numerology, and magical practices. The manuscript contains diagrammatic pages showing: numeric calculation tables for astrological/divinatory purposes, systematic jadwal (table) letter arrangements mapping Arabic letters to elemental and humoral properties, and elemental letter-speech tables assigning each Arabic letter to fire (nar), air (hawa), water (ma), or earth (turab) — the foundational classification of Arabic letters in the huruf/lettrism tradition. The Zairja ('taking out the concealed/inner meaning') is an Islamic divinatory system attributed to Idris (Hermes) that combines geomancy, letter science, and astrological calculation into a unified divinatory framework; it was described by Ibn Khaldun in the Muqaddima and represents the apex of Islamic learned divination. The Princeton composite codex preserves multiple independent occult texts in a single volume, typical of Ottoman-era compilation practice.",
+    "count": 3
   }
 ]

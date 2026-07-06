@@ -1,0 +1,60 @@
+{
+  "_work": {
+    "key": "princeton_occult",
+    "title": "[Collection of Texts on Occult Sciences] (Princeton, Garrett no. 547H)",
+    "tradition": "hermetic",
+    "era": "early modern",
+    "blurb": "A 230-page Arabic composite manuscript comprising seven texts on occult sciences (Garrett no. 547H), held at Princeton University Library. The collection includes a Zairja geomancy text (Risala fi 'Ilm al-Zairja — a sand-divination/letter divination hybrid system) identified in the incipit, alongside texts on astrology, letter science, numerology, and magical practices. The manuscript contains diagrammatic pages showing: numeric calculation tables for astrological/divinatory purposes, systematic jadwal (table) letter arrangements mapping Arabic letters to elemental and humoral properties, and elemental letter-speech tables assigning each Arabic letter to fire (nar), air (hawa), water (ma), or earth (turab) — the foundational classification of Arabic letters in the huruf/lettrism tradition. The Zairja ('taking out the concealed/inner meaning') is an Islamic divinatory system attributed to Idris (Hermes) that combines geomancy, letter science, and astrological calculation into a unified divinatory framework; it was described by Ibn Khaldun in the Muqaddima and represents the apex of Islamic learned divination. The Princeton composite codex preserves multiple independent occult texts in a single volume, typical of Ottoman-era compilation practice.",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_occult",
+    "rights": "Public Domain — manuscript (date uncertain, 1700-1899 CE range). Princeton University Library (Garrett Collection).",
+    "creator": "Multiple authors (anthology)",
+    "date": "c. 18th–19th century CE",
+    "century": 18,
+    "place": "Islamic world (Ottoman context)",
+    "region": "Islamicate world",
+    "short_id": "POCC",
+    "language": "Arabic",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/gf06g272s",
+    "motifs": ["occult sciences", "zairja", "geomancy", "letter science", "huruf", "jadwal", "elemental letters", "Islamic divination", "numerology", "astrology", "Ottoman manuscript", "composite codex", "Garrett collection"]
+  },
+  "entries": [
+    {
+      "id": "princeton_occult__numeric-calculation-tables-p37",
+      "title": "Numeric Calculation Tables — Occult Sciences Anthology (p. 37)",
+      "date": "c. 18th–19th century CE",
+      "place": "Islamic world (Ottoman context)",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/gf06g272s",
+      "summary": "A page from the Princeton occult sciences anthology (Garrett 547H) containing multiple numeric tables. The page shows bordered calculation grids in the upper section — a 4×4 or 4×5 numeric table with Arabic numerals — and further numeric arrangement tables in the lower section, including sequences of numbers like 154, 105, 150, 100/101 in structured rows. These tables represent the computational layer of Islamic occult science: divinatory and astrological systems that required systematic numerical calculation to derive answers from queries. The Zairja system (one of the texts in this anthology) is explicitly computational — it uses a combination of astrological cycles, letter-number values (abjad), and modular arithmetic to generate answers to yes/no questions, and produces such numeric tables as working calculation aids. The multi-table format (several independent tables on one page) suggests a working reference folio rather than an illustrative diagram — the practitioner would consult these tables to perform calculations for a client.",
+      "motifs": ["numeric table", "calculation table", "jadwal", "abjad", "divination", "zairja", "Islamic occult", "numerology", "arithmetic table", "divinatory calculation"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_occult__jadwal-letter-table-p41",
+      "title": "Jadwal Letter-Attribute Table — Occult Sciences Anthology (p. 41)",
+      "date": "c. 18th–19th century CE",
+      "place": "Islamic world (Ottoman context)",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/gf06g272s",
+      "summary": "A jadwal (systematic table) from the Princeton occult sciences anthology mapping Arabic letters or letter-groups to their properties, arranged in bordered cell-rows. The table heading identifies the subject as a jadwal (systematic reference chart) and the cells contain Arabic text (letter names or abbreviations) in rows and columns. In Islamic occult science, the jadwal is the primary format for systematizing correspondences between letters, planets, elements, humors, divine names, and divinatory outcomes — the practitioner consults the jadwal to look up which letter applies to a given query, which elemental quality governs it, and which divine name is associated with it. This particular jadwal appears in a composite codex containing Zairja and related occult texts, situating it within the learned Arabic tradition of 'ilm al-huruf (letter science) as applied to divination and talismanic practice.",
+      "motifs": ["jadwal", "letter table", "attribute table", "huruf", "abjad", "Islamic occult", "divination", "zairja", "letter-attribute", "Islamic science", "systematic table"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_occult__elemental-letter-speech-table-p45",
+      "title": "Elemental Letter-Speech Table (Fire / Air / Water) — Occult Sciences Anthology (p. 45)",
+      "date": "c. 18th–19th century CE",
+      "place": "Islamic world (Ottoman context)",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/gf06g272s",
+      "summary": "A visually striking elemental letter-speech table from the Princeton occult sciences anthology, labeled 'Jadwal al-Mantiq li-Nutq al-Huruf' (Table of Logic for Pronouncing the Letters). The table organizes Arabic letters according to their elemental qualities — columns headed 'Nar' (fire), and other elements (air/hawa, water/ma), with rows corresponding to different letter groups. At the bottom of the table, numeric sequences appear (999, 888, 777, 555, 444, 333, 222, 111 — or similar descending triplets), which in the huruf tradition encode the hierarchical numeric weights of the letters. The elemental assignment of Arabic letters (each of the 28 letters is classified as fiery, airy, watery, or earthy, and as hot, cold, wet, or dry) is the foundational doctrine of Islamic letter science — it determines which letters to use in a given talisman, prayer, or divine-name invocation based on the elemental nature of the goal. The descending numeric sequences at the table's base represent the abjad weights of specific letter groups, providing the numerical substrate for letter-combination calculations. Above the table, a smaller numeric grid appears. Together these diagrams give the page an exceptionally dense diagram-to-text ratio.",
+      "motifs": ["elemental letters", "fire air water earth", "letter table", "jadwal", "mantiq", "huruf", "abjad", "elemental assignment", "descending numerics", "Islamic occult", "letter science", "cosmic correspondence"],
+      "tier": "illustration"
+    }
+  ]
+}
