@@ -3663,5 +3663,41 @@
    "kitab tradition",
    "abjad"
   ]
+ },
+ {
+  "key": "princeton_qaf_wafq",
+  "title": "Zād al-ashrāf fī wafq al-qāf — Treatise on the Letter Qāf and Its Wafq (Princeton, Garrett no. 335L)",
+  "tradition": "hermetic",
+  "era": "early modern",
+  "blurb": "A short Arabic manuscript treatise in five chapters on the magical properties of the letter qāf (ق) and its use in wafq (magic squares) and charms, 10 leaves (20 pages), 19th century, held at Princeton University Library (Garrett no. 335L). The work is attributed to Ibrāhīm ibn Aḥmad al-Khaṭṭāṭ (the Calligrapher, 18th century). 'Ilm al-qāf — the science of the letter qaf — is a specialized branch of Arabic lettrism focusing on the 21st letter of the Arabic alphabet, whose abjad value is 100 and which occupies a particular position in the cosmological letter-science system: it is associated with the mountains that surround the world (Jabal Qaf, the cosmic mountain range in Islamic cosmology), with specific divine names, and with particular operative applications in talismanic practice. The treatise contains embedded wafq diagrams throughout: a 5×5 numeric magic square of the letter qaf, a 5×5 letter-arrangement wafq, a property/attribute table correlating the letter qaf's correspondences, and most spectacularly, a full-page labeled jadwal — the 'first of sixteen jadwal tables' (al-jadwal al-awwal min al-sita 'ashar jadwalan) — a large rectangular numeric grid occupying nearly the full page. The MS is written in naskh script with red ink used for chapter headings, emphasis, and the numerals/letters within the wafq cells.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "princeton_qaf_wafq",
+  "rights": "Public Domain — 19th century CE manuscript. Princeton University Library (Garrett Collection).",
+  "creator": "Khaṭṭāṭ, Ibrāhīm ibn Aḥmad (18th century)",
+  "date": "19th century CE",
+  "century": 19,
+  "place": "Islamic world",
+  "region": "Islamicate world",
+  "short_id": "QWFQ",
+  "language": "Arabic",
+  "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/pg15bd95f",
+  "motifs": [
+   "wafq",
+   "magic square",
+   "letter qaf",
+   "ilm al-qaf",
+   "lettrism",
+   "huruf",
+   "Islamic magic",
+   "talisman",
+   "abjad",
+   "jadwal",
+   "numeric table",
+   "letter science",
+   "Jabal Qaf",
+   "Islamic cosmology",
+   "Garrett collection"
+  ]
  }
 ]
