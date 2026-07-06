@@ -101592,6 +101592,55 @@
     "tier": "illustration"
   },
   {
+    "id": "princeton_huruf__alif-wafq-3x4-p18",
+    "title": "Alif Chapter Wafq Grid — Huruf MS (p. 18)",
+    "date": "15th century CE",
+    "place": "Islamic world",
+    "medium": "manuscript, ink on paper, red-ink borders",
+    "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+    "provenance_url": "https://dpul.princeton.edu/catalog/dcvx021r32g",
+    "summary": "A red-bordered wafq grid from the opening chapter (Fasl al-Awwal fi Harf al-Alif — First Chapter on the Letter Alif) of the Taysir al-Matalib fi Asrar al-Huruf. The grid appears in the upper right of the page alongside explanatory text in Arabic, showing the numeric and letter assignments specific to the letter alif in the system of 'ilm al-huruf. In the huruf tradition, each of the 28 Arabic letters has a corresponding wafq (magic square), abjad value, elemental and planetary assignment, and set of divine names. The Alif — the first letter, associated with divine unity (tawhid) — receives the first and most fundamental wafq treatment. The red-ink ruled border follows the standard format seen throughout this MS and connects it to the wider tradition of Buniyan lettrism where red demarcates the operative/diagrammatic elements from commentary text.",
+    "motifs": [
+      "wafq",
+      "magic square",
+      "alif",
+      "huruf",
+      "abjad",
+      "Islamic lettrism",
+      "talisman",
+      "red ink",
+      "letter chapter",
+      "Islamic magic",
+      "divine names"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "princeton_huruf__hexagram-khatim-p137",
+    "title": "Hexagram Khatim Talisman Circle — Huruf MS (p. 137)",
+    "date": "15th century CE",
+    "place": "Islamic world",
+    "medium": "manuscript, ink on paper",
+    "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+    "provenance_url": "https://dpul.princeton.edu/catalog/dcvx021r32g",
+    "summary": "A circular khatim (talisman seal) diagram from the Taysir al-Matalib (Princeton) featuring a large hexagram (six-pointed star, known in Islamic magic as Khatim Sulayman — the Seal of Solomon or Star of David) inscribed within a circle. Arabic numerals fill the triangular cells of the star and the surrounding regions; the outer ring and angular points carry additional letter-number notations. The text above identifies the context (divine name or purpose). The Seal of Solomon / hexagram is one of the most widely used Islamic talisman forms, appearing in Arabic, Persian, and Hebrew magical traditions as a binding seal against malevolent spirits and as a charm for protection, love, and victory. In 'ilm al-huruf tradition, the hexagram khatim is drawn with specific abjad values at specific points to encode a divine name or Quranic verse; each numeral placement is determined by the letter-science of the huruf practitioner. This Princeton example comes late in the MS (p. 137 of 232), in a section apparently focused on khatim/seal designs rather than magic squares.",
+    "motifs": [
+      "khatim",
+      "hexagram",
+      "Seal of Solomon",
+      "talisman",
+      "six-pointed star",
+      "huruf",
+      "Islamic magic",
+      "abjad",
+      "circle",
+      "seal",
+      "Islamic lettrism",
+      "Sulayman"
+    ],
+    "tier": "illustration"
+  },
+  {
     "id": "princeton_huruf__wafq-8x8-magic-square-p57",
     "title": "Wafq Thaman — Full-Page 8×8 Arabic Magic Square (Jupiter Square) — Huruf MS (p. 57)",
     "date": "15th century CE",
@@ -101618,6 +101667,55 @@
     "tier": "illustration"
   },
   {
+    "id": "princeton_huruf__wafq-circles-4x4-p21",
+    "title": "Wafq with Overlapping Circles — 4×4 Grid (Huruf MS, p. 21)",
+    "date": "15th century CE",
+    "place": "Islamic world",
+    "medium": "manuscript, ink on paper, red-ink borders and circles",
+    "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+    "provenance_url": "https://dpul.princeton.edu/catalog/dcvx021r32g",
+    "summary": "A visually striking full-page wafq grid from the Taysir al-Matalib (Princeton), labeled 'Surat Wad'uhu' (Image/Form of its Placement). The 4×4 magic square is drawn with an overlay of red-ink circular arcs — overlapping circles connecting adjacent cells in a floral interlace pattern — so that the visual result reads simultaneously as a grid and as a rosette or ring-chain geometric figure. Each cell contains an Arabic divine name or letter value. In 'ilm al-huruf, the wafq serves not only as a calculated numeric/alphabetic arrangement but as a visual talisman whose geometric form carries intrinsic power; the circle-overlay amplifies this visual-talismanic quality, transforming the abstract grid into an ornamental form suitable for inscription on talisman media. The use of overlapping-circle geometry in Islamic talismanic art is widespread — it appears in architectural tilework, in seal designs, and in manuscript borders — and this page fuses the mathematical with the ornamental in a single operative image.",
+    "motifs": [
+      "wafq",
+      "magic square",
+      "overlapping circles",
+      "geometric pattern",
+      "huruf",
+      "Islamic lettrism",
+      "talisman",
+      "red ink",
+      "divine names",
+      "rosette",
+      "interlace",
+      "Islamic magic"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "princeton_huruf__wafq-large-grid-p69",
+    "title": "Full-Page Large Wafq Grid — Huruf MS (p. 69)",
+    "date": "15th century CE",
+    "place": "Islamic world",
+    "medium": "manuscript, ink on paper, red-ink borders",
+    "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+    "provenance_url": "https://dpul.princeton.edu/catalog/dcvx021r32g",
+    "summary": "The most visually dominant single-page wafq in the Taysir al-Matalib (Princeton) — a large, full-page magic square occupying almost the entire leaf, with red-ink ruled borders and a heading in red Arabic text reading 'wa-hiya surat al-wafq' (This is the image/form of the wafq). The grid is substantially larger than the 8×8 Jupiter square (p. 57) and the other wafqs in this MS; each cell contains a red Arabic numeral. The heading explicitly names this as 'the image of the wafq' — a formulation used in huruf texts when the diagram is being presented as a talisman template for reproduction, not just an illustration. The large physical size means the MS was meant to be opened to this page and the wafq copied in full on metal, cloth, or paper for operative use. The preponderance of red ink — both in the ruling and in the numerals — marks this as a particularly significant talisman in the sequence.",
+    "motifs": [
+      "wafq",
+      "magic square",
+      "full-page",
+      "huruf",
+      "abjad",
+      "Islamic lettrism",
+      "talisman",
+      "red ink",
+      "large grid",
+      "surat al-wafq",
+      "operative diagram"
+    ],
+    "tier": "illustration"
+  },
+  {
     "id": "princeton_huruf__wafq-letter-grid-p59",
     "title": "Wafq Letter-Number Grid — Huruf MS (p. 59)",
     "date": "15th century CE",
@@ -101637,6 +101735,53 @@
       "red ink",
       "letter grid",
       "Islamic magic"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "princeton_huruf__wafq-numeric-4x4-p24",
+    "title": "Wafq Numeric 4×4 Grid — Huruf MS (p. 24)",
+    "date": "15th century CE",
+    "place": "Islamic world",
+    "medium": "manuscript, ink on paper, red-ink borders",
+    "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+    "provenance_url": "https://dpul.princeton.edu/catalog/dcvx021r32g",
+    "summary": "A red-bordered 4×4 numeric magic square from the Taysir al-Matalib (Princeton), positioned at the top of a text page with a chapter heading reading 'Al-Dhikr al-Qa'im ma'...' (The Standing/Remaining Dhikr with...). The cells contain Arabic numerals representing a 4×4 magic square — a wafq associated with Jupiter (16-cell Jupiter squares, summing to 34 in each row/column) or another planetary/elemental figure. Following the Alif-chapter wafq (p. 18) and the circle-wafq (p. 21), this page shows the third consecutive wafq in the opening section, establishing the density of the huruf practice in this MS: each chapter or sub-chapter of letter-science begins with or includes its operative wafq.",
+    "motifs": [
+      "wafq",
+      "magic square",
+      "4x4 grid",
+      "huruf",
+      "abjad",
+      "Islamic lettrism",
+      "talisman",
+      "red ink",
+      "numeric grid",
+      "Islamic magic"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "princeton_huruf__wafq-numeric-large-p41",
+    "title": "Large Numeric Wafq with Divine Names Column — Huruf MS (p. 41)",
+    "date": "15th century CE",
+    "place": "Islamic world",
+    "medium": "manuscript, ink on paper, red-ink borders",
+    "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+    "provenance_url": "https://dpul.princeton.edu/catalog/dcvx021r32g",
+    "summary": "A substantial wafq diagram from the Taysir al-Matalib (Princeton) occupying the upper half of the page. The grid has multiple rows and a side column containing divine names of God (asma' Allah) — including al-Alim, al-Jabir (the Wise, the Compeller) — alongside the numeric entries in the main grid cells. The combination of a numeric magic square with a list of divine names identifies this as a named-attribute wafq: a magic square whose construction encodes specific divine attributes, used to draw down the corresponding divine quality for the practitioner's purpose. The labeled divine names in red ink beside the grid serve both as a key (identifying which wafq this is) and as an operative element (the names are part of the talisman's power). This page comes approximately midway through the MS, in the middle letters of the Arabic alphabet, showing that major wafq diagrams appear throughout all 232 pages of this letter-science compendium.",
+    "motifs": [
+      "wafq",
+      "magic square",
+      "divine names",
+      "asma Allah",
+      "huruf",
+      "abjad",
+      "Islamic lettrism",
+      "talisman",
+      "red ink",
+      "numeric grid",
+      "letter-attribute table"
     ],
     "tier": "illustration"
   },
