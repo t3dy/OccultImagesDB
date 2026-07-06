@@ -303,6 +303,14 @@ If found, IIIF manifests follow: https://content.staatsbibliothek-berlin.de/dc/{
 | NLI (National Library of Israel) | nli.org.il | ❌ Search URL formats not found |
 | Princeton Shams al-Ma'arif (Garrett 258Y, 1468 CE) | figgy.princeton.edu IIIF | ✅ DONE — `princeton_shams_ms` work (2 pages, 2026-07-05) |
 | IA Lata'if al-Awarif (Jakone Publication) | Internet Archive | ❌ SKIP — Urdu translation, typeset, no manuscript diagrams |
+| Princeton Ripley Scroll #1 (Smethley c.1570) | figgy 05741w45s | ✅ DONE — `princeton_ripley1` (1 entry, full parchment roll, 2026-07-06) |
+| Princeton Ripley Scroll #2 (Taylor c.1580) | figgy 903045e4 | ✅ DONE — `princeton_ripley2` (1 entry, 2026-07-06) |
+| Princeton Grimoire (18c Italy) — seals, magical alphabets | figgy 5b0355b1 | ✅ DONE — `princeton_grimoire` (6 entries: word square, Hebrew seals, Celestial/Malachim scripts, spirit seals, 2026-07-06) |
+| Princeton Huruf MS (15c Taysir al-Matalib) | figgy 9dc55c90 | ✅ DONE — `princeton_huruf` (2 entries: 8×8 Jupiter wafq + letter grid, 2026-07-06) |
+| Princeton Shajara geomancy (Khalaf al-Barbari) | figgy 2c2fc044 | ✅ DONE — `princeton_shajara` (3 entries: ashkal/directions/presence raml tables, 2026-07-06) |
+| Princeton Bulugh geomancy | figgy deb54990 | ✅ DONE — `princeton_bulugh` (1 entry: inline raml dot figures, 2026-07-06) |
+| Princeton Ptolemy / al-Tusi (14c Persian) | figgy cec16325 | ✅ DONE — `princeton_ptolemy` (1 entry: epicycle circle diagram, 2026-07-06) |
+| Princeton Majmuah astronomical collection (15c) | figgy 0de92cc8 | ✅ DONE — `princeton_majmuah` (5 entries: gold-bordered zij tables pp.108–112, 2026-07-06) |
 
 **Gallica (BnF) — CAPTCHA BLOCKER:**
 - All Gallica API endpoints (SRU, IIIF) return ALTCHA captcha to browser OR 403 to Python
