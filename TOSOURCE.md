@@ -314,6 +314,11 @@ If found, IIIF manifests follow: https://content.staatsbibliothek-berlin.de/dc/{
 | Princeton Charms & Talismans MS (1483 CE, Garrett 3rd Series 591) | figgy f088de48 | ✅ DONE — `princeton_charms` (4 entries: pentagon khatim, staircase table, diamond lattice, two wafq grids, 2026-07-06) |
 | Princeton Occult Sciences Anthology (18–19c, Garrett 547H) | figgy 71c63646 | ✅ DONE — `princeton_occult` (3 entries: numeric calc tables, jadwal letter table, elemental letter-speech table, 2026-07-06) |
 | Princeton Qur'at al-Khulafa' al-Abbasiyya (Garrett 551Hq, oversize) | figgy 9d374b51 | ✅ DONE — `princeton_qurat` (9 entries: title inverted-triangle, 8-circle grid, lunar mansions, 6 named dawa'ir, 2026-07-06) |
+| Princeton Majmū' fī al-falak astronomy codex (Garrett 3442Y, 1533–1667 CE) | figgy 9d22b790 | ✅ DONE — `princeton_falak` (2 entries: Persian calendar+zodiac table, elemental zodiac classification table, 2026-07-06) |
+| Princeton Sub-Saharan charms & talismans (Third Series 471, 19–20c) | figgy 5639e00d | ✅ DONE — `princeton_charms471` (1 entry: Sudanic cross-hatch wafq magic square, 2026-07-06) |
+| Princeton Zad al-ashraf fi wafq al-qaf (Garrett 335L, 19c) | figgy a8fb23d0 | ✅ DONE — `princeton_qaf_wafq` (4 entries: 5×5 numeric+letter grids, 5×5 numeric in text, 16-jadwal full-page grid, property+letter+numeric triple-grid, 2026-07-06) |
+| Princeton Kunh al-Murad fi Wafq al-A'dad (Third Series 455, 18–19c Persian) | figgy 628530f4 | ✅ DONE — `princeton_kunh_murad` (11 entries: embedded prose wafq, massive full-page letter grid, large-cell numeric wafq, combinatorial lookup table, notched wafq, standard full-page, header wafq, labeled construction table, tricolor wafq x2, six-table multi-panel, 2026-07-06) |
+| Princeton Sharh Manzumat Kashf al-ran fi al-zayirjah (Garrett 542H, 1787 CE) | figgy 13f9100e | 🔜 NEXT — 86 canvases, Zairja text with "numerous tables, charts, and colored pages" |
 
 **Gallica (BnF) — CAPTCHA BLOCKER:**
 - All Gallica API endpoints (SRU, IIIF) return ALTCHA captcha to browser OR 403 to Python
