@@ -1,0 +1,120 @@
+{
+  "_work": {
+    "key": "princeton_alphabets",
+    "title": "Treatise on Ancient, Alchemical and Magical Alphabets (Princeton, Garrett no. 52B)",
+    "tradition": "hermetic",
+    "era": "early modern",
+    "blurb": "An 18th-century Arabic manuscript treatise on 24 ancient, alchemical, and magical alphabet systems and their use in talismans and magical operations, 46 leaves, held at Princeton University Library (Garrett no. 52B, Islamicmss). Acquired by Robert Garrett from Brill, Leyden, in 1925, from the books of Murād Bey Bārdūdī (Beirut); modern binding in violet paper over cardboard. The manuscript presents 24 distinct script systems — from the Language of Adam (the primordial tongue) to the Kufi script of the Caliph Umar period — each displayed as a full-page grid of letterforms: 28 cells (one per Arabic letter), red-ruled in a 7×4 arrangement, with each cell showing the equivalent symbol in the exotic script. Script systems represented include 'scripts of the soothsayers/diviners' (qalam al-kahanat/kahanira), Greco-Latin-adjacent systems (showing A, B, M, N, H, ∞, X analogs), occult letter-forms with Ψ, swastika, Π, and T motifs, the Qanawi script (associated with the Canaanites), the Fahlawi/Pahlavi script (Middle Persian), and branch-tally notation. Later sections introduce the 'Natural Script' (al-Qalam al-Tabi'i) — the theoretical root alphabet used to construct awfaq (magic squares) — shown as a numeric-decade correspondence table, and the 'Simat Scripts' (qalim al-simat) — talisman letter-forms tied to divine attributes. The treatise ends with a comparative chart showing six script systems in a single multi-column grid. This manuscript is a unique compendium of Islamic magical alphabet science, showing how diverse historical and legendary scripts were absorbed into the Islamic occult tradition as vehicles of talisman-making and letter-magic (ilm al-huruf).",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_alphabets",
+    "rights": "Public Domain — 18th century CE manuscript. Princeton University Library (Garrett Collection).",
+    "creator": "Anonymous",
+    "date": "18th century CE (1700-1799)",
+    "century": 18,
+    "place": "Islamic world (Beirut/Levant provenance)",
+    "region": "Islamicate world",
+    "short_id": "ALPH",
+    "language": "Arabic",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/bg257f09h",
+    "motifs": ["magical alphabet", "Islamic magic", "script table", "alphabet grid", "huruf", "lettrism", "talisman", "soothsayer", "occult letterform", "Pahlavi", "Canaanite script", "awfaq", "magic square", "simat", "abjad", "Adamic language", "natural script", "letter science", "Garrett collection", "Arabic manuscript"]
+  },
+  "entries": [
+    {
+      "id": "princeton_alphabets__magical-script-soothsayer-grid-c012",
+      "title": "Script of the Soothsayers — Bold Geometric Pictograph Alphabet Grid (f. 5r)",
+      "date": "18th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, red-ruled grid",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/bg257f09h",
+      "summary": "A full-page magical alphabet table from the Princeton Garrett 52B Arabic treatise on 24 magical scripts (18th c. CE), showing the 'Script of the Soothsayers/Diviners' (Qalam al-Kahanir or Kahanat). The page is entirely filled by a red-ruled 7×4 grid of 28 cells — one for each Arabic letter — with the Arabic letter label in red in the corner of each cell and the corresponding pictographic symbol in bold black ink filling the center. The symbols are extraordinary: bold geometric and pictographic forms unlike any natural script — a sunburst/wheel cross, a black anvil, a heraldic bird-like silhouette, a pitchfork-cross, a human figure with raised arms (an 'ankh-like' form), a basket-weave rectangle, concentric circles with a dot (⊕), an arrow, a double-T gate form, a crescent-linked chain, and other complex symbols. The design principle is clearly pictographic-talismanic rather than phonetic: these forms are not derived from any known writing system but appear purpose-designed as magical sigils encoded as 'letters'. The header inside the grid border (spanning the full top row) reads 'وهذا حروف قلمه كهانر' — 'These are the letters of the script of the soothsayers.' This is one of at least 24 such pages in the manuscript, each presenting a complete alphabet of a different magical script system.",
+      "motifs": ["magical alphabet", "alphabet grid", "pictographic script", "soothsayer", "Islamic magic", "sigil", "bold letterform", "red-ruled grid", "28 letters", "kalam", "talisman", "huruf", "Arabic manuscript"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_alphabets__magical-script-rune-star-grid-c016",
+      "title": "Script of the Soothsayers II — Rune-Like Symbols with Star of David (f. 7r)",
+      "date": "18th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, red-ruled grid",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/bg257f09h",
+      "summary": "A second magical alphabet grid from the Princeton Garrett 52B treatise (18th c. CE), showing another 'Script of the Soothsayers' variant (Qalam al-Kahanat wa-Qalamuha). The 7×4 grid of 28 cells contains a distinct set of symbols compared to the first soothsayer script: these forms are more runic and stick-figure in character, with crossed staves, fence-like comb patterns, angular human figures, and notably a clear Star of David (hexagram, ✡) appearing in the bottom-left cell (for the letter ʿayn). Additional symbols include Y-shaped forms, grid-within-grid patterns, and various interlocked line figures. The inclusion of the Star of David/hexagram is significant: in Islamic magical tradition, the seal of Solomon (khatim Sulayman) is a six-pointed star and appears in talismanic manuscripts as a protective symbol; its presence here as the letterform for ʿayn (an Arabic guttural whose name begins with 'eye/spring') suggests the script encodes symbolic rather than purely phonetic correspondences. The contrast with the bold geometric forms of the first soothsayer alphabet (c012) shows that 'soothsayer scripts' was a category containing multiple distinct systems, each with its own letterform aesthetics.",
+      "motifs": ["magical alphabet", "alphabet grid", "rune", "Star of David", "hexagram", "Solomon seal", "soothsayer", "Islamic magic", "red-ruled grid", "stick figure", "28 letters", "huruf", "kalam", "talisman"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_alphabets__magical-script-greco-latin-grid-c024",
+      "title": "Ancient Script Grid — Greco-Latin-Adjacent Letterforms (A, B, M, N, H, ∞) (f. 11r)",
+      "date": "18th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, red-ruled grid",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/bg257f09h",
+      "summary": "A magical alphabet grid from the Princeton Garrett 52B treatise (18th c. CE) presenting a script system that closely resembles ancient Greco-Latin majuscule letterforms. The 7×4 grid of 28 cells (labeled with red Arabic letters) contains symbols that unmistakably recall the Roman/Greek alphabet: an upright A (for alif), a mirrored-B (for ba), a pointed-arch Λ for jim, an H for ḥa, a V/checkmark for ha, a closed-inverted-pentagon for waw, a curled-foot letterform for za, an infinity symbol ∞ or double-oval (for ʿayn), an M for mim, an N for nun, a cross-T form for ta, and various Greek-adjacent forms for the remaining letters. The folio number 11 is visible in the corner, and the header reads 'وهذا حروف خطه وقلمه كهاترا'. This script system likely represents the Islamic tradition's absorption of Greek-derived magical writing (possibly the so-called 'Syriac', 'Greek', or 'Rum' scripts in the Islamicate occult alphabet literature), treating classical Mediterranean letterforms as ancient magical scripts capable of encoding talisman operations. The resemblance to actual Greek/Latin majuscules is too close to be coincidental, suggesting the author had access to or knowledge of actual Western scripts.",
+      "motifs": ["magical alphabet", "alphabet grid", "Greco-Latin", "ancient script", "Islamic magic", "A-B-C", "Greek letterform", "red-ruled grid", "28 letters", "huruf", "talisman", "Roman script", "Western script absorption"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_alphabets__magical-script-psi-swastika-grid-c036",
+      "title": "Occult Script Grid — Psi, Swastika, Pi and Greek-Occult Letterforms (f. 17r)",
+      "date": "18th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, red-ruled grid",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/bg257f09h",
+      "summary": "A magical alphabet grid from the Princeton Garrett 52B treatise (18th c. CE) showing a script system with strong resonances of Greek occult and alchemical letterforms. The 7×4 grid of 28 cells contains symbols drawn from several traditions: Ψ (psi, the Greek letter used in occult contexts for 'soul' and as an alchemical symbol), a swastika (卐) in the lower-right cell (for ʿayn — an ancient solar/luck symbol appearing across Eurasia and in Islamic art), Π (pi, the Greek letter), a double-U form resembling the alchemical symbol for mercury or a tuning fork, M and N analogs, a T-form, X marks, a trident (♆-adjacent), a 3-form, a 5-form, and O-with-cross (⊕). The header reads 'وهذا حروف خطه وقلمه كهانترزا'. The swastika's appearance in this 18th-century Islamic magical alphabet is notable: in pre-Nazi usage, the swastika was a widespread good-luck symbol found across Islamic art, Hindu contexts, and European folk tradition, and its use here as a letterform (for the guttural ʿayn) suggests the compiler drew on visual forms with broadly recognized esoteric valence. The overall character of this alphabet suggests it was understood as encoding alchemical or Greek-derived magical knowledge.",
+      "motifs": ["magical alphabet", "alphabet grid", "psi", "swastika", "pi", "Greek occult", "alchemical letterform", "Islamic magic", "red-ruled grid", "28 letters", "huruf", "talisman", "cross-cultural symbol"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_alphabets__multi-script-comparison-6system-c051",
+      "title": "Multi-Script Comparative Alphabet Chart — Six Magical Script Systems on One Page",
+      "date": "18th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, red-ruled grid",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/bg257f09h",
+      "summary": "A comparative multi-script reference page from the Princeton Garrett 52B treatise (18th c. CE) that presents six different magical script systems simultaneously on one page — a kind of Rosetta Stone for Islamic magical alphabets. The page is divided into three paired column-groups, each labeled with the name of a script system, with the 28 Arabic letters listed along the row headers and the corresponding letterforms for all six scripts filling the cells in parallel. The six script systems labeled include: حروف الوبنات (Letters of the Builders/Builders-script), حروف الحاكات (Letters of the Rulers/Weavers-script), حروف الطاطات (Letters of the [unidentified category]), حروف الباتات, حروف الكافات, and حروف الامات — each representing a distinct tradition of magical letterforms. A final incomplete row at the bottom shows three more system fragments (حروف الجمات, حروف البونات, حروف السنبات). The page is densely packed with tiny symbol-grids, each containing distinct letterforms: some resemble the pictographic soothsayer scripts, others more geometric or cursive. This comparative layout is unique among Islamic magical manuscripts and represents the systematizing ambition of the treatise — collecting, cataloging, and cross-referencing the full range of magical writing systems known to the Islamic occult tradition.",
+      "motifs": ["magical alphabet", "comparative chart", "multi-system", "reference table", "Islamic magic", "huruf", "six scripts", "Rosetta Stone", "alphabet grid", "small cells", "dense table", "catalog", "letter science", "talisman"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_alphabets__qanawi-pahlavi-branch-tally-c078",
+      "title": "Qanawi Script, Pahlavi Letterforms, and Branch-Tally Notation — Three Systems on One Page",
+      "date": "18th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, red-ruled grid",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/bg257f09h",
+      "summary": "A layered triple-content page from the Princeton Garrett 52B treatise (18th c. CE) presenting three distinct script and notation systems in vertical sequence. The upper section displays 'al-Qalam al-Qanawi' (the Qanawi script, likely associated with ancient Canaan/Phoenicia or a legendary ancient Arabian people) — two rows of Arabic letters in red followed by their Qanawi equivalents in black, which resemble Western majuscule letters: П, Λ, M, U, ∃, Y, Ω, H, Φ, ⊥ and related forms. The middle section displays 'al-Qalam al-Fahlawi' (the Pahlavi/Fahlawi script, corresponding to historical Middle Persian writing used in Sasanian Iran) — two rows showing Arabic letters with their Pahlavi/Parthian letterform equivalents, which actually do resemble Pahlavi script forms as known from Iranian epigraphy. The bottom section shows a grid table labeled 'Aḥad' (units) — approximately 4 rows × 9 columns — containing ascending branch-mark symbols resembling stylized trees or tallies: I, ⊓, ⊢, ⊤, ⊣ and branching variants that become more complex as the number increases. The left margin of the page is covered with a vertical annotation in ascending branch-marks (the entire margin reads as a counting sequence). This page demonstrates that the compiler included not only legendary and magical scripts but also historically attested writing systems (Pahlavi) and indigenous notation systems (branch-tally) in his compendium.",
+      "motifs": ["Qanawi script", "Pahlavi", "Middle Persian", "branch tally", "notation", "magical alphabet", "three-system page", "Islamic magic", "Phoenician", "historical script", "tally notation", "huruf", "letter science", "Sasanian"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_alphabets__awfaq-natural-script-numeric-table-c079",
+      "title": "Natural Script (al-Qalam al-Tabi'i) — Abjad-Numeric Correspondence Table for Awfaq Construction",
+      "date": "18th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, red-ruled grid",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/bg257f09h",
+      "summary": "A structurally complex theoretical page from the Princeton Garrett 52B treatise (18th c. CE) presenting the 'Natural Script' (al-Qalam al-Tabi'i) — the theoretical root alphabet underlying the construction of awfaq (magic squares) in Islamic occult science. The page has three distinct sections. The top shows a 3-row grid labeled 'العدد' (the number/count) with row headers for 'احاد' (units, 1-9), 'عشرات' (tens, 10-90), and 'سابع' (hundreds/sevens?) — each row contains 9 cells with stylized 'natural script' letterforms representing those numeric values as pen strokes (T-shapes, angled lines, ⊢ forms, arrows, and crosses — each a different visual encoding of a number). The middle section is the largest: a 9-row × 10-column grid labeled 'القلم الطبيعي الذي يكتب الطبع والتنزيل الاوفاق' (The Natural Script that writes nature and the composition of awfaq) with rows labeled 1, 3, 4, 8, 9, 7, 'أسرار د بيس الفلك' (secrets of the celestial spheres), and two more — each row showing the Natural Script letterforms for a set of values. Below, additional rows of exotic letterforms complete the display. The Natural Script is the theoretical foundation of awfaq: by converting Arabic letters to their Natural Script equivalents and placing them in a grid, the practitioner creates a wafq in which the rows, columns, and diagonals sum to a constant — the magic square emerges from the script's internal numeric structure rather than from direct arithmetic.",
+      "motifs": ["Natural Script", "al-Qalam al-Tabi'i", "awfaq", "magic square", "abjad", "numeric correspondence", "wafq construction", "letter-number system", "Islamic magic", "huruf", "decades", "letter science", "talisman construction"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_alphabets__simat-talisman-script-table-c084",
+      "title": "Simat Script Table — First Category of Talisman Letterforms on the Abjad (f. 41r)",
+      "date": "18th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, red-ruled grid",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/bg257f09h",
+      "summary": "A concluding section page from the Princeton Garrett 52B treatise (18th c. CE) introducing the 'Simat Scripts' — letterforms used specifically in talisman-making (simat = divine names/attributes used as magical properties). The page opens with extensive Persian and Arabic prose text discussing the 28 scripts of sages, philosophers, and wise men (ḥukamāʾ) handed down from Solomon, associated with the seven planetary spirits and their protective influence over talismans. The text describes how each of the 28 scripts corresponds to a different talismanic operation, protected by a specific muwakkil (appointed spirit). Partway down the page, a line of 7 sigil symbols appears (the planetary spirit signatures), followed by a bordered grid labeled 'al-Fihra al-Awwal min Qalim al-Sima Mawḍu'a ʿala Ḥuruf al-Abjad' (The First Index of the Simat Scripts Placed on the Abjad Letters). The grid is approximately 3 rows × 7 columns and contains cursive/interconnected sigil letterforms — compound stroke-figures that look like flowing knot-work or linked letterforms, quite distinct from the bolder geometric symbols on earlier pages. These are the practical operational forms used to write divine names in abjad-based talisman inscriptions.",
+      "motifs": ["simat", "talisman", "sigil", "abjad", "Islamic magic", "planetary spirit", "muwakkil", "Solomon", "divine names", "huruf", "letter science", "kalam", "occult alphabet", "talisman construction"],
+      "tier": "illustration"
+    }
+  ]
+}

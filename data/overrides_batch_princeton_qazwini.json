@@ -1,0 +1,72 @@
+{
+  "_work": {
+    "key": "princeton_qazwini",
+    "title": "ʿAjāʾib al-Makhlūqāt wa-Gharāʾib al-Mawjūdāt — Wonders of Creation (Princeton, Persian Illustrated MS)",
+    "tradition": "hermetic",
+    "era": "early modern",
+    "blurb": "A finely illustrated Persian manuscript of Zakarīyāʾ al-Qazwīnī's ʿAjāʾib al-Makhlūqāt wa-Gharāʾib al-Mawjūdāt (Wonders of Creation and Marvels of Existing Things), 502 digitized pages, held at Princeton University Library. Al-Qazwīnī (1203–1283 CE) was a Persian-Arab cosmographer and geographer whose encyclopedic account of the wonders of the created world — organized from the celestial spheres down through terrestrial creatures, minerals, plants, and humans — became one of the most widely copied illustrated works in Islamic manuscript culture. This Princeton copy is a high-quality 17th or 18th century illustrated MS with full painted miniatures in Persian style accompanying the text sections. The jinn and supernatural beings section (late manuscript) contains a remarkable cluster of miniature paintings depicting Solomon (Sulaymān ʿalayhi al-salām) commanding the jinn — a central theme of Islamic cosmology in which the Prophet Solomon was granted dominion over humans, animals, wind, and the supernatural world of the jinn and demons. The paintings show Solomon flanked by human courtiers on one side and fantastic supernatural creatures (horned giants, black-bodied demons, animal-headed jinn, winged beings) on the other — visualizing the Quranic account of Solomon's army of jinn (Quran 21:82, 27:17, 34:12). The manuscript is associated with the figgy.princeton.edu digital library (UUID da45a495).",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_qazwini",
+    "rights": "Public Domain — 17th-18th century CE manuscript. Princeton University Library.",
+    "creator": "Zakarīyāʾ ibn Muḥammad al-Qazwīnī (1203–1283 CE, original text); anonymous illustrator",
+    "date": "17th-18th century CE (early modern copy)",
+    "century": 17,
+    "place": "Persianate world",
+    "region": "Islamicate world",
+    "short_id": "QAZW",
+    "language": "Persian",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/da45a495",
+    "motifs": ["Wonders of Creation", "Persian miniature", "jinn", "Solomon", "Sulayman", "demon", "supernatural creature", "Islamic cosmology", "miniature painting", "al-Qazwini", "illustrated manuscript", "fantastical creature", "angel", "court scene", "Islamic manuscript", "Persianate art"]
+  },
+  "entries": [
+    {
+      "id": "princeton_qazwini__jinn-three-encounter-panels-c392",
+      "title": "Three Jinn Encounter Miniatures — Demonic Attacks and Apparitions (f. ~195r)",
+      "date": "17th-18th century CE",
+      "place": "Persianate world",
+      "medium": "manuscript, opaque watercolor and ink on paper",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/da45a495",
+      "summary": "A page from the Princeton illustrated Persian Wonders of Creation manuscript (ʿAjāʾib al-Makhlūqāt, 17th-18th c. CE) containing three distinct miniature paintings arranged in vertical panels alternating with Persian text — all illustrating encounters between humans and jinn (supernatural beings from Islamic cosmology). Top panel (upper left): a turbaned man in blue and a dark-spotted demon with clawed hands face each other in a flower-strewn landscape, the jinn appearing to materialize or speak to the human. Center panel (right side): a dark-brown ape-demon or jinn figure riding a pale horse or beast, attacking or abducting a sleeping human figure. Bottom panel (lower left): a prostrate man in blue robe confronted by a headless white dog-creature and a dark hooded figure — an apparition or nightmare manifestation. The paintings are in fine Persian miniature style with lapis-blue skies, detailed vegetation, and carefully rendered figures. These three scenes likely illustrate specific anecdotes from the jinn section of al-Qazwini's encyclopedia, which catalogs the types, behaviors, and powers of jinn — including their ability to appear in animal forms, attack travelers, and afflict sleepers. The folio number 190 is visible in the upper corner.",
+      "motifs": ["jinn", "demon", "Persian miniature", "supernatural encounter", "attack", "apparition", "Islamic cosmology", "three-panel", "human-jinn encounter", "ape-jinn", "headless creature", "Wonders of Creation", "al-Qazwini", "illustrated manuscript"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_qazwini__solomon-commands-jinn-court-c394",
+      "title": "Solomon Commands the Court of Jinn — Large Court Miniature (f. ~196r)",
+      "date": "17th-18th century CE",
+      "place": "Persianate world",
+      "medium": "manuscript, opaque watercolor and ink on paper",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/da45a495",
+      "summary": "The largest and most spectacular miniature page in the Princeton Wonders of Creation manuscript — a full-width court scene depicting Solomon (Sulaymān ʿalayhi al-salām) commanding a mixed assembly of humans, angels, and jinn/demons. Solomon stands at center in a red-brown robe and white turban on an ornate carpet, extending his hand in a gesture of authority. To his left: a group of turbaned human courtiers and attendants in colored robes, deferentially facing the king. To his right: a procession of fantastic supernatural creatures — a dark blue/grey giant with a sphere-like head, a horse-headed demon in dark armor, a boar-headed creature, and other animal-hybrid beings; above these, winged angelic figures. The background shows a green flower-strewn landscape with rocky hills. The text above and below the miniature (in Persian nastaliq) narrates the story of Solomon's dominion over jinn — a theme central to Quranic tradition (Quran 21:82; 34:12) in which Allah grants Solomon command over wind, animals, and the jinn as a unique divine favor. Al-Qazwini's encyclopedia discusses the jinn as a real category of creatures, cataloging their types, habitats, and interactions with humans. This miniature visualizes the hierarchical cosmology in which Solomon stands at the intersection of the human, angelic, and jinn worlds.",
+      "motifs": ["Solomon", "Sulayman", "jinn", "court scene", "demon", "angel", "winged being", "Islamic cosmology", "horse-headed demon", "boar-headed jinn", "Wonders of Creation", "al-Qazwini", "Persian miniature", "divine sovereignty", "Quran 34:12"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_qazwini__solomon-jinn-dual-miniature-c396",
+      "title": "Solomon and the Jinn — Two-Panel Miniature: Garden Audience and Night Presentation (f. ~197r)",
+      "date": "17th-18th century CE",
+      "place": "Persianate world",
+      "medium": "manuscript, opaque watercolor and ink on paper",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/da45a495",
+      "summary": "A page from the Princeton Wonders of Creation manuscript with two miniature paintings illustrating continued episodes from Solomon's command over the jinn. Top panel: Solomon in white turban and robes stands in a garden, extending his hand toward two jinn figures — one dark blue-grey with a sphere head, one dark with gold/green garments — while an angelic figure floats behind him. The composition is intimate and dialogic, suggesting a specific audience scene from the narrative. Bottom panel: a night-time scene with deep blue-purple sky and rocky landscape — a dark winged jinn and a large dark ox-headed or bull-horned creature (a major jinn/demon class in Islamic tradition) approach Solomon and his courtiers, who stand on a golden carpet. The contrast between the daytime garden audience (top) and the nighttime supernatural visitation (bottom) on the same page suggests two distinct anecdotes from the jinn chronicle. Persian text between and below the panels continues the narrative. The paintings are in fine Safavid/Mughal-influenced style with detailed floral grounds and carefully differentiated jinn types.",
+      "motifs": ["Solomon", "Sulayman", "jinn", "dual panel", "night scene", "ox-headed jinn", "bull demon", "angel", "Persian miniature", "blue jinn", "garden audience", "Islamic cosmology", "supernatural command", "Wonders of Creation"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_qazwini__solomon-jinn-city-dual-scene-c398",
+      "title": "Solomon and the Jinn City — Two-Panel Miniature: Walled Jinn Stronghold and Courtly Audience (f. ~198r)",
+      "date": "17th-18th century CE",
+      "place": "Persianate world",
+      "medium": "manuscript, opaque watercolor and ink on paper",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/da45a495",
+      "summary": "A dramatic two-panel miniature page from the Princeton Wonders of Creation manuscript, illustrating a pivotal episode in the Solomon-and-jinn narrative. Left/top panel: a detailed architectural scene showing a walled city or fortress tower with jinn and dark-skinned supernatural beings — some climbing the battlements, others emerging from a vaulted archway, a figure descending or falling — a vivid depiction of a jinn stronghold or the city of jinn summoned/conquered by Solomon. Right/lower panel: a contrasting courtly scene — Solomon in elegant robes stands on a golden carpet with elaborately dressed courtiers and a long-necked bird (stork or crane) in the foreground, receiving the jinn as subjects; winged angelic figures hover above, and a massive bull-headed giant figure looms behind. The architectural left panel is unusual in showing the jinn in their own built environment (a human-like city structure) rather than the wilderness — suggesting the jinn are understood as having their own civilization. The text above reads (in Persian): 'These jinn did not accept their greeting and rejected them — when Solomon heard this he destroyed them.' The paintings are in high-quality Persian style with lapis blue architectural details and carefully rendered stone masonry.",
+      "motifs": ["Solomon", "Sulayman", "jinn city", "fortress", "walled city", "jinn architecture", "crane", "bull-headed giant", "court", "dual panel", "conquest", "Islamic cosmology", "Persian miniature", "supernatural city", "Wonders of Creation", "al-Qazwini"],
+      "tier": "illustration"
+    }
+  ]
+}

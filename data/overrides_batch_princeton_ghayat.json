@@ -1,0 +1,60 @@
+{
+  "_work": {
+    "key": "princeton_ghayat",
+    "title": "Ghāyat al-Murād fī Wafq al-Aʿdād — The Goal of Desire in the Composition of Magic Squares (Princeton, 1462 CE)",
+    "tradition": "hermetic",
+    "era": "medieval",
+    "blurb": "A 1462 CE Persian manuscript copy of the Ghāyat al-Murād fī Wafq al-Aʿdād (The Ultimate Goal in Magic Square Composition), a comprehensive encyclopedic treatise on wafq (Islamic magic squares) by Ṣūfī Kamāl Tustarī (active 14th century). 131 digitized leaves (262 canvases), held at Princeton University Library (Islamicmss collection, figgy UUID edc0b2fe). This is one of the most systematic Islamic texts on wafq theory and practice: it covers the mathematical foundations of magic squares, the classification of wafq by planet, element, and magical operation, and the construction methods for numeric, letter-based, and combinatorial wafq grids. The manuscript is a later copy of a 14th-century original but is itself from 1462 CE, making it a 15th-century witness to a dense tradition of wafq scholarship. The treatise is notable for combining pure mathematical theory (properties of numbers, methods of construction) with magical application (which wafq to use for love, protection, healing, or harm), making it a bridge between Islamic mathematics and Islamic magic. The Princeton copy contains substantial annotations in the margins and a variety of diagram types: full-page dense letter wafq grids, large numeric magic squares in multiple configurations, and — unusually — an astrological operations table cross-referencing celestial figures with their spirit names, incenses, and magical effects, suggesting the manuscript contains more than one text or was bound with supplementary occult material.",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_ghayat",
+    "rights": "Public Domain — 1462 CE manuscript. Princeton University Library.",
+    "creator": "Ṣūfī Kamāl Tustarī (active 14th century)",
+    "date": "1462 CE",
+    "century": 15,
+    "place": "Persian-speaking world",
+    "region": "Islamicate world",
+    "short_id": "GHYT",
+    "language": "Persian",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/edc0b2fe",
+    "motifs": ["wafq", "magic square", "awfaq", "Islamic magic", "letter grid", "numeric grid", "astrological table", "talisman", "Persian manuscript", "mathematical magic", "huruf", "occult science", "planetary correspondence", "Garrett collection", "Princeton"]
+  },
+  "entries": [
+    {
+      "id": "princeton_ghayat__wafq-two-8x8-numeric-cross-method-c108",
+      "title": "Two Large 8×8 Numeric Magic Squares — Method of the Cross (Ṭarīqat al-Ṣalīb) (f. ~54r)",
+      "date": "1462 CE",
+      "place": "Persian-speaking world",
+      "medium": "manuscript, ink on paper, red-ruled grid",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/edc0b2fe",
+      "summary": "A page from the Ghāyat al-Murād fī Wafq al-Aʿdād (Princeton, 1462 CE) containing two large 8×8 numeric magic squares presented as worked examples of a specific construction method. The page opens with a short paragraph of Persian text discussing 'masti va ʿashq va muhabbat' (intoxication, love, and attraction) in relation to wafq power, followed by the heading 'ṭarīqat al-ṣaghīr wa-ṣalīb' (the method of the small/minor cross). Two full-width bordered grids follow, each approximately 8 rows × 8-9 columns (64-72 cells), filled with large clearly legible Arabic-Indic (Hindi) numerals. The numbers range widely across each grid, with the magic square property: each row, column, and diagonal sums to the same constant. Unlike the small 4×4 Saturn-type squares (36 cells) common in other manuscripts, these 8×8 grids contain higher-order magic squares — computationally more complex and associated with more powerful magical operations. The 'cross method' (ṭarīqat al-ṣalīb) is a known Islamic construction technique for generating magic squares by placing numbers along the cross-diagonals of the grid first, then filling in the corners — a visual-spatial algorithm. The red-ink grid borders create a clean geometric structure against the warm paper. Below each grid, marginal annotations continue the technical discussion.",
+      "motifs": ["wafq", "magic square", "8x8 grid", "numeric", "cross method", "ṭarīqat al-ṣalīb", "large format", "Islamic magic", "mathematical construction", "Persian manuscript", "red-ruled grid", "awfaq"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_ghayat__wafq-full-page-dense-letter-grid-c196",
+      "title": "Full-Page Dense Letter Wafq Grid — Massive 20×30 Cell Letter-Combination Table (f. ~98r)",
+      "date": "1462 CE",
+      "place": "Persian-speaking world",
+      "medium": "manuscript, ink on paper, red-ruled grid",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/edc0b2fe",
+      "summary": "The most visually striking page in the Princeton Ghāyat al-Murād manuscript (1462 CE) — a full-page landscape-orientation letter wafq of extraordinary density. The entire page surface is covered by a finely red-ruled grid of approximately 20 rows × 30 columns (approximately 600 cells), with each cell containing a two-to-four-letter Arabic string — not single letters but multi-letter combinations or abbreviated phrase-fragments. The column headers (top row) contain letter or number identifiers, and the leftmost column contains row labels. The MS is rotated 90° in the scan (landscape format), emphasizing the table's unusual width. Unlike single-letter wafq grids, where each cell has one Arabic letter, this table's cells contain compound letter sequences — likely the outputs of a letter-combination algorithm (tarkīb) that generates the full matrix of possible letter-pair or letter-triple permutations for a given set of source letters. This kind of combinatorial wafq reference table was used by practitioners to look up the pre-computed letter sequence for a given pair of magical parameters, eliminating the need for manual calculation. The density and scale of this table are unmatched among Islamic occult manuscripts in the Princeton collection.",
+      "motifs": ["wafq", "letter grid", "dense table", "full-page", "letter combination", "tarkib", "combinatorial table", "Islamic magic", "huruf", "awfaq", "landscape format", "reference table", "Persian manuscript"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_ghayat__astrological-figure-incense-effect-table-c240",
+      "title": "Astrological Figures — Spirit Names, Incenses, and Magical Effects Table (f. ~120r)",
+      "date": "1462 CE",
+      "place": "Persian-speaking world",
+      "medium": "manuscript, ink on paper, red-ruled grid",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/edc0b2fe",
+      "summary": "A multi-column reference table from the Princeton Ghāyat al-Murād manuscript (1462 CE), representing a different genre of magical knowledge from the wafq grids that dominate the manuscript. The page is a red-ruled 4-column table with a header row followed by approximately 30 numbered entries. The four column headers are: 'Ṣūr' (Forms/Figures — descriptions of celestial or talismanic image types), 'al-Asmāʾ' (Names — spirit or angel names), 'al-Bukhūr' (Fumigations/Incenses — the appropriate incense for each operation), and 'al-Afʿāl' (Actions/Effects — the magical operation that can be achieved). The numbered rows list individual entries across all four columns: for example, row 1 gives the visual form description, the name 'Girāṣ al-Ṭasatī' (?), the incense 'Waraq al-Sūs' (licorice leaf), and the magical effect 'ʿIshq al-Nisāʾ lil-Nisāʾ' (women's love for women); row 3 includes 'kī Samṣāl' as the spirit name, 'Sadd Rūs wa-Bisāwsha' as the incense, and 'lil-Nās wa-liḥdah' as the effect. The table may describe the 28 lunar mansions (manazil) or the 36 astrological decans (wujūh), each associated with a presiding spirit, a ritual fumigation, and a class of magical operation. This table is a compact practitioner's reference guide encoding the full spectrum of Islamic talismanic operations in a lookup format — relating celestial conditions to spirits, material ingredients, and desired outcomes.",
+      "motifs": ["astrological table", "spirit names", "incense", "fumigation", "magical effect", "lunar mansions", "decans", "talisman", "Islamic magic", "reference table", "Persian manuscript", "love magic", "celestial figures", "manzil", "wujuh", "bukhur"],
+      "tier": "illustration"
+    }
+  ]
+}
