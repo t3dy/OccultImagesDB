@@ -3927,5 +3927,42 @@
    "Garrett collection",
    "Princeton"
   ]
+ },
+ {
+  "key": "princeton_tibb",
+  "title": "Kitāb al-Ṭibb al-jadīd al-kimiyāʾī (Princeton, Islamic Mss, 17c Arabic/Ottoman)",
+  "tradition": "hermetic",
+  "era": "early modern",
+  "blurb": "A 17th-century composite codex at Princeton University Library (Islamic Manuscripts, figgy ff61422c), containing the Arabic translation of Paracelsian chemical medicine compiled by Ṣāliḥ Naṣr Allāh ibn Sallūm (d. ca. 1670s), who served as chief physician (hekimbaşı) to Ottoman Sultan Mehmed IV. The text is one of the most important transmissions of Paracelsian iatrochemistry into the Islamic world, bringing the doctrines of Paracelsus (d. 1541) and Oswald Croll's Basilica chymica (1609) into Arabic and Ottoman Turkish. Ibn Sallūm's compilation interweaves Paracelsian theory (the tria prima of sulfur, mercury, salt; the doctrine of arcana; spagyric preparation of medicines) with Galenic and Islamic medical frameworks. The manuscript has three visually distinctive sections: (1) Arabic pharmaceutical treatise with dense Paracelsian theory and recipe descriptions; (2) a terminological section naming alchemical instruments and their uses (Fī asmāʾ al-ālāt, 'On the Names of Instruments') in a two-column format listing furnace types, retorts, and distillation apparatus; and (3) an Ottoman Turkish pharmaceutical formulary (late in the MS) with multiple compound medicine recipes in tabular format, showing ingredient names and dram/mithqal quantities in horizontal table entries — a practical addendum for pharmaceutical preparation. Princeton University Library, Islamic Manuscripts, Garrett collection, figgy UUID ff61422c.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "princeton_tibb",
+  "rights": "Public Domain — 17th century CE manuscript. Princeton University Library.",
+  "creator": "Ṣāliḥ Naṣr Allāh ibn Sallūm (d. ca. 1670s); after Paracelsus and Oswald Croll",
+  "date": "17th century CE (c. 1640–1680)",
+  "century": 17,
+  "place": "Ottoman Empire",
+  "region": "Islamicate world",
+  "short_id": "TIBB",
+  "language": "Arabic; Ottoman Turkish",
+  "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/gb19f5871",
+  "motifs": [
+   "Paracelsian medicine",
+   "iatrochemistry",
+   "alchemy",
+   "pharmaceutical",
+   "Ottoman",
+   "formulary",
+   "recipe",
+   "compound medicine",
+   "alchemical apparatus",
+   "distillation",
+   "tria prima",
+   "spagyric",
+   "Arabic medicine",
+   "Islamic science",
+   "Princeton",
+   "Garrett collection"
+  ]
  }
 ]

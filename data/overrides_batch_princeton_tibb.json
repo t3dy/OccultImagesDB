@@ -1,0 +1,60 @@
+{
+  "_work": {
+    "key": "princeton_tibb",
+    "title": "Kitāb al-Ṭibb al-jadīd al-kimiyāʾī (Princeton, Islamic Mss, 17c Arabic/Ottoman)",
+    "tradition": "hermetic",
+    "era": "early modern",
+    "blurb": "A 17th-century composite codex at Princeton University Library (Islamic Manuscripts, figgy ff61422c), containing the Arabic translation of Paracelsian chemical medicine compiled by Ṣāliḥ Naṣr Allāh ibn Sallūm (d. ca. 1670s), who served as chief physician (hekimbaşı) to Ottoman Sultan Mehmed IV. The text is one of the most important transmissions of Paracelsian iatrochemistry into the Islamic world, bringing the doctrines of Paracelsus (d. 1541) and Oswald Croll's Basilica chymica (1609) into Arabic and Ottoman Turkish. Ibn Sallūm's compilation interweaves Paracelsian theory (the tria prima of sulfur, mercury, salt; the doctrine of arcana; spagyric preparation of medicines) with Galenic and Islamic medical frameworks. The manuscript has three visually distinctive sections: (1) Arabic pharmaceutical treatise with dense Paracelsian theory and recipe descriptions; (2) a terminological section naming alchemical instruments and their uses (Fī asmāʾ al-ālāt, 'On the Names of Instruments') in a two-column format listing furnace types, retorts, and distillation apparatus; and (3) an Ottoman Turkish pharmaceutical formulary (late in the MS) with multiple compound medicine recipes in tabular format, showing ingredient names and dram/mithqal quantities in horizontal table entries — a practical addendum for pharmaceutical preparation. Princeton University Library, Islamic Manuscripts, Garrett collection, figgy UUID ff61422c.",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_tibb",
+    "rights": "Public Domain — 17th century CE manuscript. Princeton University Library.",
+    "creator": "Ṣāliḥ Naṣr Allāh ibn Sallūm (d. ca. 1670s); after Paracelsus and Oswald Croll",
+    "date": "17th century CE (c. 1640–1680)",
+    "century": 17,
+    "place": "Ottoman Empire",
+    "region": "Islamicate world",
+    "short_id": "TIBB",
+    "language": "Arabic; Ottoman Turkish",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/gb19f5871",
+    "motifs": ["Paracelsian medicine", "iatrochemistry", "alchemy", "pharmaceutical", "Ottoman", "formulary", "recipe", "compound medicine", "alchemical apparatus", "distillation", "tria prima", "spagyric", "Arabic medicine", "Islamic science", "Princeton", "Garrett collection"]
+  },
+  "entries": [
+    {
+      "id": "princeton_tibb__compound-recipe-formulary-c008",
+      "title": "Ottoman Compound Medicine Formulary — Tabular Ingredient Lists for Two Compound Syrups (f. 3v)",
+      "date": "17th century CE",
+      "place": "Ottoman Empire",
+      "medium": "manuscript, ink on paper, tabular recipe format",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/gb19f5871",
+      "summary": "A folio from the Princeton al-Ṭibb al-jadīd al-kimiyāʾī (figgy ff61422c, 17c) showing two compound medicine recipes in the Ottoman pharmaceutical formulary tradition, presented with a distinctive tabular ingredient format. The upper recipe is headed in red/orange Ottoman calligraphy ('Şarab-ı Ahmer Terkibi' — Compound of Red Syrup) with its ingredients listed horizontally across the page in a multi-column format: cinnamon (dârçın) 1 dram, oud (aromatic wood) 1 dram, holangan (galangal), saffron (zaʿfarān), with quantity numerals written below each ingredient name — the horizontal ingredient-table layout reads left-to-right across the page rather than in a vertical list. The second recipe heading in red/orange reads 'Kuvvet-i Macun-ı Cedid' (Compound Electuary, New Formula) followed by a similar multi-column ingredient layout: rose (gül), apple (elma), quince (ayva), amber (ambergris), oud, dârçın, in quantities of 75, 3, 1 drams, alongside a large bold '555' in red ink marking a dose or quantity. The lower half of the folio continues in Arabic with underlined phrases discussing medicinal benefits for the stomach, heart, liver, and brain — the Paracelsian iatrochemical framework applied to Ottoman pharmaceutical practice. The horizontal ingredient-table format is characteristic of Ottoman hospital formularies and eczacı (pharmacy) manuals, showing the practical pharmaceutical dimension of Ibn Sallūm's Paracelsian compilation.",
+      "motifs": ["pharmaceutical formulary", "compound medicine", "tabular recipe", "ingredient list", "Ottoman pharmacy", "syrup", "electuary", "macun", "dram quantities", "Paracelsian", "iatrochemistry", "horizontal table", "recipe format", "aromatic compounds"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_tibb__alchemical-instruments-terminology-c080",
+      "title": "Alchemical Instrument Terminology — Two-Column Apparatus Names Section (f. 40v)",
+      "date": "17th century CE",
+      "place": "Ottoman Empire",
+      "medium": "manuscript, ink on paper, two-column format",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/gb19f5871",
+      "summary": "A structurally distinctive folio from the Princeton al-Ṭibb al-jadīd al-kimiyāʾī (figgy ff61422c, 17c), showing the chapter heading 'Fī asmāʾ al-ālāt wa-iṣṭilāḥāt ahl al-ṣināʿa' (فِي أَسْمَاء الْآلَاتِ وَاصْطِلَاحَاتِ أَهْلِ الصِّنَاعَةِ — On the Names of the Instruments and Technical Terms of the Craft) across the top of the page in a two-column layout. Folio number 40 appears in the top left. The left column contains the Arabic or Ottoman names of alchemical apparatus in a list format: 'Nār-ı Hażnān' (incubating/gentle fire), 'Hurāra yekūn tumsahā bi'l-yad' (heat that can be touched by hand — a Paracelsian temperature classification), 'Hel-i Nedā' (dew dissolution), and further apparatus types with their definitions written to the right. The right-hand block of text describes functional categories of operation: distillation (taqṭīr), calcination (taklis), sublimation, and other spagyric procedures central to Paracelsian pharmaceutical preparation. The passage cites Jabir ibn Hayyan, Roger Bacon, and Albertus Magnus — the intellectual lineage linking Islamic alchemy to Latin Scholastic alchemical transmission — before the chapter shifts to operational description. This section documents the Arabic technical vocabulary adopted for Paracelsian alchemical apparatus, bridging the Latin-European and Islamic Arabic alchemical traditions.",
+      "motifs": ["alchemical apparatus", "terminology", "instrument names", "distillation", "calcination", "spagyric", "Paracelsian", "two-column", "fire types", "Jabir", "Arabic alchemy", "technical vocabulary", "iatrochemistry", "sublimation", "furnace"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_tibb__water-method-recipe-table-c224",
+      "title": "Ottoman Water Medicine Formulary — Tabular Multi-Column Recipe Tables (f. 112v)",
+      "date": "17th century CE",
+      "place": "Ottoman Empire",
+      "medium": "manuscript, ink on paper, tabular recipe format, multi-column",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/gb19f5871",
+      "summary": "A late folio from the Princeton al-Ṭibb al-jadīd al-kimiyāʾī (figgy ff61422c, 17c) showing a densely structured Ottoman pharmaceutical formulary page with multiple compound medicine recipes in a horizontal multi-column table format. The page is divided into two vertical sections, each headed by a red-outlined recipe title in Ottoman: 'Ṭarīq-ı Miyāh' (طريق مياه — Method of the Waters, i.e., aqueous pharmaceutical preparations) appears at upper right, and 'Ṭarīq' (Method) appears at upper left for a second recipe section. Each recipe section presents ingredients horizontally — ingredient names written above, with quantity numerals (100, 150, 120, 80, 60 — presumably in dram or dirham weight) written below — creating a horizontal ingredient-quantity table that reads across the page. Ingredient terms visible include 'bārūt' (saltpeter/potassium nitrate — a Paracelsian mineral medicine), 'ʿuqāb' (eagle, a pharmaceutical plant name in Turkish tradition), and numbered sub-recipes (ʿAlā, ʿAlā 2, ʿAlā 3 — designating variant concentrations or preparations). The lower half of the folio contains a dense Arabic discussion of the medicinal properties (ṣifat — nature/quality) of these water preparations, including use for dropsy (istisqāʾ), eye conditions (bayāḍ al-ʿayn), and ulcers. The 'waters' tradition in this Ottoman-Paracelsian context bridges the Arabic alchemy of distilled medicinal waters (māʾ al-hayāt, etc.) with the Paracelsian doctrine of the quinta essentia extracted through distillation.",
+      "motifs": ["pharmaceutical formulary", "water medicine", "aqueous preparations", "tabular recipe", "multi-column", "Ottoman pharmacy", "saltpeter", "mineral medicine", "Paracelsian", "quinta essentia", "distillation", "dram quantities", "recipe table", "dropsy", "iatrochemistry"],
+      "tier": "illustration"
+    }
+  ]
+}
