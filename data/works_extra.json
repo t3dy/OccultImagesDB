@@ -3735,5 +3735,41 @@
    "Garrett collection",
    "Persianate"
   ]
+ },
+ {
+  "key": "princeton_zayirjah",
+  "title": "Sharḥ Manẓūmat Kashf al-Rān fī al-Zāyirjah — Commentary on the Zairja Divination System (Princeton, Garrett no. 542H)",
+  "tradition": "hermetic",
+  "era": "early modern",
+  "blurb": "A volume of four texts on Islamic occult sciences, 39 leaves, dated 1787 CE, held at Princeton University Library (Garrett no. 542H). The manuscript was acquired from Brill in Leyden in 1900 from the library of Amīn ibn al-Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina) and donated to Princeton by Robert Garrett (Class of 1897) in 1942; it is bound in quarter leather with blue pastedowns and embossed vegetal motif paper. The first and main text (fol. 1a–15b) is a commentary on the Manẓūmat Kashf al-Rān fī al-Zāyirjah — a poem describing the Zairja, the Islamic divination instrument attributed to Muḥyī al-Dīn Ibn al-ʻArabī (1165–1240 CE). The Zairja is a complex divinatory system that combines astrological letter correspondences, the abjad (letter-number) system, and wafq (magic square) computation to answer questions about the future: the practitioner converts the letters of a question into abjad values, identifies the relevant zodiac degree, and applies a table-based calculation procedure using a 4×4 or larger magic square to generate the answer. This manuscript preserves the computational apparatus of the Zairja in visual form: full-page numeric tables for the calculation procedure, multi-panel 4×4 magic square grids used as Saturn-square computation aids, angelic name abjad tables (giving the calculated values of Mīkā'īl, Hasmayīl, Ibfīshā'īl and related celestial intermediaries), column-addition verification arithmetic pages showing completed Zairja calculations, and two pages with distinctive muthallath (inverted triangle) text layout — a calligraphic format used for colophons and poetic conclusions.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "princeton_zayirjah",
+  "rights": "Public Domain — 1787 CE manuscript. Princeton University Library (Garrett Collection).",
+  "creator": "Anonymous (commentary; first text attr. tradition of Ibn al-ʻArabī)",
+  "date": "1787 CE",
+  "century": 18,
+  "place": "Islamic world (Medina provenance)",
+  "region": "Islamicate world",
+  "short_id": "ZAYR",
+  "language": "Arabic",
+  "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/0g354f276",
+  "motifs": [
+   "zairja",
+   "divination",
+   "Ibn al-Arabi",
+   "magic square",
+   "wafq",
+   "abjad",
+   "Islamic divination",
+   "letter calculation",
+   "numeric table",
+   "Saturn square",
+   "angelic names",
+   "lettrism",
+   "computation",
+   "inverted triangle",
+   "Garrett collection"
+  ]
  }
 ]

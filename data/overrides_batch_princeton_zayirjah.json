@@ -1,0 +1,120 @@
+{
+  "_work": {
+    "key": "princeton_zayirjah",
+    "title": "Sharḥ Manẓūmat Kashf al-Rān fī al-Zāyirjah — Commentary on the Zairja Divination System (Princeton, Garrett no. 542H)",
+    "tradition": "hermetic",
+    "era": "early modern",
+    "blurb": "A volume of four texts on Islamic occult sciences, 39 leaves, dated 1787 CE, held at Princeton University Library (Garrett no. 542H). The manuscript was acquired from Brill in Leyden in 1900 from the library of Amīn ibn al-Ḥasan al-Ḥulwānī al-Madanī al-Ḥanafī (Medina) and donated to Princeton by Robert Garrett (Class of 1897) in 1942; it is bound in quarter leather with blue pastedowns and embossed vegetal motif paper. The first and main text (fol. 1a–15b) is a commentary on the Manẓūmat Kashf al-Rān fī al-Zāyirjah — a poem describing the Zairja, the Islamic divination instrument attributed to Muḥyī al-Dīn Ibn al-ʻArabī (1165–1240 CE). The Zairja is a complex divinatory system that combines astrological letter correspondences, the abjad (letter-number) system, and wafq (magic square) computation to answer questions about the future: the practitioner converts the letters of a question into abjad values, identifies the relevant zodiac degree, and applies a table-based calculation procedure using a 4×4 or larger magic square to generate the answer. This manuscript preserves the computational apparatus of the Zairja in visual form: full-page numeric tables for the calculation procedure, multi-panel 4×4 magic square grids used as Saturn-square computation aids, angelic name abjad tables (giving the calculated values of Mīkā'īl, Hasmayīl, Ibfīshā'īl and related celestial intermediaries), column-addition verification arithmetic pages showing completed Zairja calculations, and two pages with distinctive muthallath (inverted triangle) text layout — a calligraphic format used for colophons and poetic conclusions.",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_zayirjah",
+    "rights": "Public Domain — 1787 CE manuscript. Princeton University Library (Garrett Collection).",
+    "creator": "Anonymous (commentary; first text attr. tradition of Ibn al-ʻArabī)",
+    "date": "1787 CE",
+    "century": 18,
+    "place": "Islamic world (Medina provenance)",
+    "region": "Islamicate world",
+    "short_id": "ZAYR",
+    "language": "Arabic",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/0g354f276",
+    "motifs": ["zairja", "divination", "Ibn al-Arabi", "magic square", "wafq", "abjad", "Islamic divination", "letter calculation", "numeric table", "Saturn square", "angelic names", "lettrism", "computation", "inverted triangle", "Garrett collection"]
+  },
+  "entries": [
+    {
+      "id": "princeton_zayirjah__inverted-triangle-colophon-c33",
+      "title": "Inverted Triangle (Muthallath) Colophon — End of Zairja Commentary Text (f. 15b)",
+      "date": "1787 CE",
+      "place": "Islamic world (Medina provenance)",
+      "medium": "manuscript, ink on paper, red and black ink",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/0g354f276",
+      "summary": "A page from the Sharḥ Manẓūmat Kashf al-Rān fī al-Zāyirjah (Princeton Garrett 542H, 1787 CE) showing a muthallath — an inverted triangle text layout — at the conclusion of the first text (fol. 15b). The muthallath is a calligraphic format in which lines of Arabic text are arranged so that each successive line is shorter than the one above it, creating a downward-pointing triangle or pyramid shape. The technique is used for colophons, prayers, dedications, or poetic conclusions, where the diminishing lines visually enact the idea of conclusion, narrowing, or a point of arrival. In this manuscript, the muthallath marks the end of the Zairja commentary text (fol. 1a–15b) with a prayer or doxological formula — the text pyramids down to a single word or divine name at its apex. The surrounding page is yellow-green aged paper. The colophon text is written in red and black ink in a neat naskh hand. This calligraphic figure is one of several shaped-text forms in the Arabic manuscript tradition (alongside the inverted triangle, scribes also use square arrangements, circular colophons, and diamond shapes). The muthallath is specifically associated with conclusions and with the Prophet's name (the inverted triangle is said to resemble the shape of the letter mīm, the first letter of Muḥammad).",
+      "motifs": ["inverted triangle", "muthallath", "colophon", "calligraphy", "shaped text", "Islamic manuscript", "red and black ink", "prayer", "Arabic", "visual poetry"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_zayirjah__computation-tables-inverted-triangle-c39",
+      "title": "Zairja Computation Row-Tables with Inverted Triangle Colophon (f. 18b)",
+      "date": "1787 CE",
+      "place": "Islamic world (Medina provenance)",
+      "medium": "manuscript, ink on paper, red ink",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/0g354f276",
+      "summary": "A structurally complex page from the Sharḥ Manẓūmat Kashf al-Rān fī al-Zāyirjah (Princeton Garrett 542H, 1787 CE) combining two distinct visual elements: (1) at the top of the page, a set of horizontal numeric row-tables (two 1-row grids each spanning the full page width, containing Arabic numerals 1 through 19 in alternating cells in red ink, and a shorter 4-cell table below) — these are the Zairja's 'scale' tables mapping sequential values; and (2) below the tables, a muthallath (inverted triangle) text arrangement in red/black ink concluding a section with a prayer or chapter-ending formula. The presence of computation tables immediately above a shaped-text colophon on the same page indicates a chapter boundary: the tables belong to the concluding section of one text, and the muthallath marks the formal end of that section. The page thus compresses two modes of the Islamic manuscript tradition — the mathematical-computational (the row tables) and the calligraphic-literary (the shaped text) — into a single visual field. The numeric row tables at the top function as index tables for the Zairja procedure, likely encoding the correspondence between letter positions and their calculation values.",
+      "motifs": ["inverted triangle", "muthallath", "numeric table", "row table", "computation", "zairja", "abjad", "red ink", "chapter ending", "Islamic manuscript", "shaped text"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_zayirjah__zairja-sequence-tables-letter-grid-c56",
+      "title": "Zairja Computation Sequence Tables with Letter-Grid (f. 27a)",
+      "date": "1787 CE",
+      "place": "Islamic world (Medina provenance)",
+      "medium": "manuscript, ink on paper, red ink",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/0g354f276",
+      "summary": "A compound diagram page from the Sharḥ Manẓūmat Kashf al-Rān fī al-Zāyirjah (Princeton Garrett 542H, 1787 CE) combining two distinct table types in a single layout. The upper portion of the page contains three horizontal rows of small numeric tables — sequence tables in red ink where each row spans the page width and contains a series of Arabic numerals in bordered cells, representing successive steps in a Zairja calculation procedure. These computation sequence tables show the systematic progression of values through the calculation (each row representing a different stage or parameter of the divination). The lower portion of the page contains a bordered letter grid — approximately 5 columns × 5-6 rows — with Arabic letter combinations (rather than numerals) in the cells, written in red ink. This letter grid is the operative output of the Zairja procedure: after the numeric computation stages shown in the upper tables, the practitioner reads the resulting letter grid to form the divinatory response. The two-part layout (numeric sequence tables → letter grid) encodes the complete Zairja procedure in a single page: input computation above, symbolic output below. The yellow-green aged paper provides a warm ground for the red-ink diagrams.",
+      "motifs": ["zairja", "computation tables", "letter grid", "sequence table", "red ink", "divination", "abjad", "Islamic divination", "procedure diagram", "numeric grid"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_zayirjah__numeric-computation-full-page-table-c72",
+      "title": "Full-Page Large-Cell Numeric Computation Table (f. 35a)",
+      "date": "1787 CE",
+      "place": "Islamic world (Medina provenance)",
+      "medium": "manuscript, ink on paper, red ink borders",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/0g354f276",
+      "summary": "A full-page large-cell numeric table from the Sharḥ Manẓūmat Kashf al-Rān fī al-Zāyirjah (Princeton Garrett 542H, 1787 CE), containing a single bordered grid covering most of the page with large, clearly readable Arabic numerals in each cell. The grid is approximately 9-10 columns × 9-10 rows, with red-ink ruled borders. The numbers range across a wider range than a standard 4×4 magic square, and the individual numerals are drawn at large scale — each clearly legible as a distinct Arabic-Indic (Hindi) numeral. This full-page table is a Zairja computation reference grid: the practitioner enters the table with a computed input value (the abjad sum of the question's letters, modded by a parameter) and reads off the output value from the corresponding cell. Unlike the 4×4 Saturn-square panels on other pages (which are magic squares in the strict sense), this larger table functions as a combinatorial lookup table for the Zairja's multi-step calculation procedure. The page number 35 is visible in the upper corner. The red-ink cell borders against the white paper create a clean geometric grid, making this one of the most visually open pages in the manuscript.",
+      "motifs": ["zairja", "numeric table", "full-page grid", "computation table", "large cell", "lookup table", "red ink borders", "Islamic divination", "abjad", "Arabic numerals"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_zayirjah__angel-name-abjad-calculation-table-c73",
+      "title": "Angelic Name Abjad Calculation Table — Mīkā'īl, Hasmayīl, and the Planetary Intermediaries (f. 35b)",
+      "date": "1787 CE",
+      "place": "Islamic world (Medina provenance)",
+      "medium": "manuscript, ink on paper, red ink",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/0g354f276",
+      "summary": "A compound page from the Sharḥ Manẓūmat Kashf al-Rān fī al-Zāyirjah (Princeton Garrett 542H, 1787 CE) combining prose text with a structured angelic-name abjad calculation table — one of the most distinctive pages in the manuscript. The left side of the page contains a column listing five or more named angelic/celestial intermediaries (muwakkil, pl. muwakkilūn — 'those appointed over' specific functions or spheres): Mīkā'īl (1100084 or similar), Hasmayīl (5341), Ibfīshā'īl (11473 or similar), al-Khāmis al-Ḥākim (11493 or similar), and related names — each followed by its abjad numerical value and a column-addition sum. The right side contains a 5-column × 4-6 row numeric lookup table with large Arabic numerals (values in the hundreds to thousands: 2270, 2776, 3278, etc.), whose rows and columns correspond to the angelic names listed on the left. The prose text surrounding the table names the muwakkilūn and explains their role in the Zairja procedure: each celestial intermediary governs a specific aspect of the divination, and the practitioner must compute the abjad value of the relevant name and use it as an input to the lookup table. This page thus encodes the theological scaffolding of the Zairja — its angelology — in computational table form, connecting the names of celestial beings directly to numeric values used in divination calculations.",
+      "motifs": ["zairja", "angelic names", "muwakkil", "abjad", "calculation table", "Mika'il", "celestial intermediaries", "Islamic angelology", "divination", "numeric table", "letter-number system"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_zayirjah__eight-4x4-magic-square-grids-c78",
+      "title": "Eight 4×4 Numeric Magic Squares (Saturn-Square Grids) for Zairja Computation (f. 38a)",
+      "date": "1787 CE",
+      "place": "Islamic world (Medina provenance)",
+      "medium": "manuscript, ink on paper, red ink borders",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/0g354f276",
+      "summary": "The most computationally spectacular page in the Sharḥ Manẓūmat Kashf al-Rān fī al-Zāyirjah (Princeton Garrett 542H, 1787 CE) — a full-page arrangement of EIGHT distinct 4×4 numeric magic square grids, organized as two columns of four grids each, within a large red-ink bordered frame. Each individual 4×4 grid contains 16 cells with Arabic-Indic numerals arranged so that every row, column, and diagonal sums to the same constant (the 4×4 Saturn-square magic constant is 34). The eight grids represent the eight variant configurations of the Saturn square used in the Zairja computation system: by rotating (4 rotations) or reflecting (2 reflections) the base 4×4 magic square, the practitioner obtains 8 distinct squares — each valid (all sums equal 34) but with different cell arrangements. In the Zairja system, these variant squares correspond to different sectors of the divination procedure, different planetary hours, or different letter-class inputs. The page is a working reference tool: the practitioner identifies which of the 8 variants applies to their specific query and reads the output from the corresponding grid. The clean page layout — two columns of four compact squares, red-ruled, white paper — is a masterpiece of Islamic mathematical manuscript design.",
+      "motifs": ["zairja", "magic square", "4x4 grid", "Saturn square", "eight variants", "numeric grid", "wafq", "computation", "Islamic mathematics", "red ink borders", "divination", "variant configurations"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_zayirjah__multi-panel-4x4-magic-squares-c80",
+      "title": "Multi-Panel 4×4 Numeric Magic Square Grids, Second Set (f. 39a)",
+      "date": "1787 CE",
+      "place": "Islamic world (Medina provenance)",
+      "medium": "manuscript, ink on paper, red ink borders",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/0g354f276",
+      "summary": "A second full-page multi-panel numeric magic square arrangement from the Sharḥ Manẓūmat Kashf al-Rān fī al-Zāyirjah (Princeton Garrett 542H, 1787 CE), the companion to f. 38a (the eight-grid page). This page (f. 39a, page 30) contains another set of 4×4 Saturn-square grids arranged within a red-ink bordered frame, presenting additional variant configurations or a second series of the same 4×4 wafq used in the Zairja procedure. The individual grids follow the same format: 16 cells with Arabic-Indic numerals whose rows, columns, and diagonals all sum to the same constant (34). The presence of multiple pages of 4×4 wafq variants in this manuscript suggests that the Zairja text being commented upon specifies multiple distinct computation tracks — each requiring its own set of magic square variants as lookup tables. Together, f. 38a and f. 39a constitute the core computation apparatus of the Zairja as preserved in this manuscript: a library of variant Saturn squares from which the practitioner selects the appropriate grid for each query. Page number 30 is visible in the upper margin.",
+      "motifs": ["zairja", "magic square", "4x4 grid", "Saturn square", "multi-panel", "numeric grid", "wafq", "computation", "Islamic mathematics", "red ink borders", "divination"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_zayirjah__zairja-column-arithmetic-verification-c81",
+      "title": "Zairja Column-Addition Arithmetic Verification — Named Totals for Celestial Bodies (f. 39b)",
+      "date": "1787 CE",
+      "place": "Islamic world (Medina provenance)",
+      "medium": "manuscript, ink on paper, red and black ink",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/0g354f276",
+      "summary": "The final computation page of the Sharḥ Manẓūmat Kashf al-Rān fī al-Zāyirjah (Princeton Garrett 542H, 1787 CE), containing a Zairja arithmetic verification section: multiple columns of addition arithmetic showing step-by-step accumulation of abjad values, with labeled subtotals and grand totals for named celestial or computational entities. The page is organized in columns: each column shows a chain of abjad values being added (e.g., 1734 + 1734 + ... = 10233; 2413 + 2413 + ... = 12645; another column showing 1961 + similar = 12194), with labeled headers or marginal annotations identifying each column's target quantity — a celestial body, an angelic name, a planet's accumulated correspondence value, or a Zairja parameter. An upper section of the page contains a structured list of item pairs (possibly a legend or key for the arithmetic columns below). In the Zairja procedure, the practitioner performs a series of abjad additions — converting letters to numbers, multiplying by zodiac constants, and summing across several named parameters — and verifies the computation by checking that the totals match the expected magic constant. This page is the verification stage: the completed arithmetic showing whether the calculation has been done correctly. It is simultaneously a mathematical document (column addition) and a spiritual one (the totals are described as 'that which emerges from the Zairja for the sought question').",
+      "motifs": ["zairja", "column arithmetic", "abjad", "verification", "computation", "celestial bodies", "divination", "named totals", "Islamic mathematics", "addition tables", "procedure verification"],
+      "tier": "illustration"
+    }
+  ]
+}
