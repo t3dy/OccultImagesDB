@@ -3964,5 +3964,48 @@
    "Princeton",
    "Garrett collection"
   ]
+ },
+ {
+  "key": "princeton_sirr",
+  "title": "Kitāb al-Sirr al-maṣūn wa-al-jawhar al-maknūn (Princeton, Islamic Mss, 17c Arabic)",
+  "tradition": "hermetic",
+  "era": "early modern",
+  "blurb": "A 17th-century Arabic manuscript at Princeton University Library (Islamic Manuscripts, Garrett collection, gift 1942; figgy 1626111a), titled Kitāb al-Sirr al-maṣūn wa-al-jawhar al-maknūn (The Hidden Secret and the Concealed Gem). The text is attributed to al-Ghazzālī but describes itself in the preface as 'an extract from the Kitāb al-Jafr of the Imam ʻAlī ibn Abī Ṭālib' — placing it squarely in the Shia divinatory tradition of the Jafr (jabr), the legendary book of esoteric knowledge attributed to the fourth caliph Ali and later to Imam Jafar al-Sadiq (6th Imam, d. 765 CE). The manuscript consists of 54 leaves of paper with red frame-ruling and covers a numbered series of magical operations (The Third Operation, The Fourteenth Operation, etc.), each presenting a complete praxis: divine names and Quranic verses to recite, talisman forms to draw, ritual timing, materials (oud, saffron, frankincense), and the specific wafq (magic square) or geometric diagram to inscribe. The manuscript contains three categories of visual content: (1) embedded numeric magic squares (wafq) associated with the angel Gabriel and Quranic names, labeled at the corners with angelic designations; (2) geometric talisman diagrams drawn in red and black ink — most notably an X-cross-within-square form (the 'Fourteenth Operation') in which two diagonal lines in red divide a square into four angular sections, each section containing a letter value; (3) divination tables in Ottoman-influenced later additions near the end of the manuscript, containing numbered grid cells with geomantic marks. The text includes first-person testimonial passages in which Imam Jafar al-Sadiq describes using a specific wafq on a sultan and achieving his desired outcome — a narrative device common in the Jafr tradition to validate the efficacy of each operation. Princeton University Library, Garrett collection, figgy UUID 1626111a.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "princeton_sirr",
+  "rights": "Public Domain — 17th century CE manuscript. Princeton University Library.",
+  "creator": "attributed to al-Ghazzālī (1058–1111); described as extract from Kitāb al-Jafr of Imam ʻAlī ibn Abī Ṭālib",
+  "date": "17th century CE",
+  "century": 17,
+  "place": "Arab world",
+  "region": "Islamicate world",
+  "short_id": "SIRR",
+  "language": "Arabic",
+  "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/dc3t946275p",
+  "motifs": [
+   "wafq",
+   "magic square",
+   "talisman",
+   "geometric diagram",
+   "Jafr",
+   "Kitab al-Jafr",
+   "Imam Ali",
+   "Imam Jafar",
+   "Gabriel",
+   "angelic magic",
+   "huruf",
+   "Islamic magic",
+   "love magic",
+   "divination",
+   "geomancy",
+   "red ink",
+   "diagonal cross",
+   "X diagram",
+   "Princeton",
+   "Garrett collection",
+   "Islamic occult",
+   "al-Ghazzali"
+  ]
  }
 ]
