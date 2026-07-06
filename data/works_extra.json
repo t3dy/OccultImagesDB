@@ -3699,5 +3699,41 @@
    "Islamic cosmology",
    "Garrett collection"
   ]
+ },
+ {
+  "key": "princeton_kunh_murad",
+  "title": "Kunh al-Murād fī Wafq al-Aʻdād — Treatise on Magic Squares (Princeton, Third Series no. 455)",
+  "tradition": "hermetic",
+  "era": "early modern",
+  "blurb": "A Persian-language treatise on the construction and use of magic squares (wafq al-aʻdād), attributed to Yaʻqūb ibn Muḥammad al-Ṭāʻūsī and also to Sharaf al-Dīn ʻAlī al-Yazdī (d. 858/1454), organized in three sections (lawḥ). Held at Princeton University Library (Third Series no. 455), 89 leaves (178 pages), 18th–19th century CE, purchased from Smitskamp Oriental Antiquarian in 2001 and bound in red leather over paper boards with blind-stamped decoration. The manuscript is a systematic encyclopaedia of wafq construction, containing an extraordinary range of magic square formats: dense full-page letter-wafq grids where each cell is subdivided into sub-compartments and filled with Arabic letter combinations; large-cell numeric wafq in a sparse arithmetic-exposition format showing the raw integer values; combinatorial lookup tables for computing wafq parameters; labeled construction tables that reveal the derivation method step by step; multi-table pages presenting six or more wafq configurations simultaneously; and tricolor letter-wafq grids using red, black, and olive-green ink to color-code cells by magical correspondence category. Some tables are notched or L-shaped where the grid outgrew the page. The three-color wafq is characteristic of the Persianate tradition of color-coded wafq encyclopaedias; each full-page grid functions simultaneously as a mathematical object and a talismanic reference tool.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "princeton_kunh_murad",
+  "rights": "Public Domain — 18th–19th century CE manuscript. Princeton University Library.",
+  "creator": "Ṭāʻūsī, Yaʻqūb ibn Muḥammad (also attr. Sharaf al-Dīn ʻAlī al-Yazdī, d. 1454)",
+  "date": "18th–19th century CE",
+  "century": 18,
+  "place": "Persianate Islamic world",
+  "region": "Islamicate world",
+  "short_id": "KNHM",
+  "language": "Persian",
+  "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/9306sz364",
+  "motifs": [
+   "wafq",
+   "magic square",
+   "Persian",
+   "Islamic mathematics",
+   "numeric grid",
+   "letter grid",
+   "abjad",
+   "huruf",
+   "jadwal",
+   "Islamic magic",
+   "tricolor",
+   "combinatorial table",
+   "wafq al-a'dad",
+   "Garrett collection",
+   "Persianate"
+  ]
  }
 ]
