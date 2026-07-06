@@ -101447,6 +101447,34 @@
     "tier": "illustration"
   },
   {
+    "id": "princeton_charms471__wafq-cross-hatch-grid-f146b",
+    "title": "Sub-Saharan African Wafq Magic Square with Cross-Hatched Grid (Princeton 3rd Ser. 471, f. 146b)",
+    "date": "c. 19th–20th century CE",
+    "place": "Sub-Saharan Africa (Sahel region)",
+    "medium": "manuscript, ink on paper",
+    "rights": "Public Domain. Princeton University Library.",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/ws859f727",
+    "summary": "A full-page wafq (magic square / talismanic grid) in the distinctive visual style of West African Sub-Saharan Islamic manuscript tradition, from a Princeton collection of 181 loose-leaf Sub-Saharan talismanic pages (Third Series no. 471). The grid is a bordered square divided into cells by black ruled lines, with each cell further subdivided diagonally with cross-hatching lines that create X-shaped or four-triangle subdivisions within each cell. Red or ochre-colored Arabic text — Quranic verses, divine names, or magical number sequences — fills each triangular sub-cell. A Bismillah (In the name of God) formula and other Arabic text appears above the grid; similar text (possibly a usage instruction or invocation) appears below. This cross-hatched wafq format — where each main cell is further divided into triangular sub-compartments by diagonal lines — is a specific visual formula of the West African Islamic talismanic tradition (the 'Sudanic' wafq style) that is not found in standard Middle Eastern Arabic or Persian MS traditions. It combines the mathematical structure of the Islamic wafq (magic square, in which rows/columns sum to the same value) with a geometric subdivision pattern that creates a visually denser, more complex talisman surface. The use of red ink for the text against the black-ruled grid creates a high-contrast visual effect that would have made the talisman visually legible even at small size when worn on the body. The leaf belongs to a cache of 181 loose talisman leaves collected in Sub-Saharan Africa, providing a rare documented example of the individual talisman page in the West African protective manuscript tradition.",
+    "motifs": [
+      "wafq",
+      "magic square",
+      "cross-hatch grid",
+      "Sub-Saharan African",
+      "West African Islam",
+      "Sudanic wafq",
+      "Islamic talisman",
+      "diagonal subdivisions",
+      "protective charm",
+      "red ink",
+      "Islamic Africa",
+      "hirz",
+      "triangular cells",
+      "abjad",
+      "Quranic talisman"
+    ],
+    "tier": "illustration"
+  },
+  {
     "id": "princeton_charms__diamond-lattice-letter-grid-p37",
     "title": "Full-Page Diamond-Lattice Letter Grid — Charms MS (p. 37)",
     "date": "1483 CE",

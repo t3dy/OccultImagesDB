@@ -3627,5 +3627,41 @@
    "astronomical instruments",
    "Garrett collection"
   ]
+ },
+ {
+  "key": "princeton_charms471",
+  "title": "[Collection of Prayers and Talismans] (Princeton, Third Series no. 471, Sub-Saharan African)",
+  "tradition": "hermetic",
+  "era": "modern",
+  "blurb": "A collection of 181 loose leaves (362 pages) of Sub-Saharan African Islamic manuscript material, 1800–1999 CE, held at Princeton University Library (Third Series no. 471). The leaves are housed between two pieces of animal skin and show significant damage from rodents and insects in the early folios. The manuscript contains prayers, invocations, descriptions and instructions for the use of talismans, amulets, and magic squares — the standard content of West African Islamic protective and divinatory manuscript practice known in the scholarship as the Qur'anic talisman tradition (kitab or hirz tradition). This tradition, widespread from Senegal through Mali, Niger, Nigeria, and across the Sahel, involves copying Qur'anic verses, divine name combinations, and wafq (magic square) grids onto paper (or leather, metal, cloth) as protective charms worn on the body or placed in the home. The Princeton collection preserves 181 separate leaves — not a bound codex but a cache of individual talisman pages — written in a bold, large-format West African Sudanic Arabic script characteristic of the Saharan and Sub-Saharan Islamic manuscript tradition. One leaf shows a remarkable full-page wafq magic square in a distinctive Sub-Saharan African style: a bordered grid with diagonal cross-hatching lines creating X-shaped subdivisions within each cell, and red (or orange-brown) Arabic text filling the triangular sub-cells. This visual formula — the cross-hatched wafq — is specific to West African talismanic manuscripts and is not found in Middle Eastern Islamic MS traditions.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "princeton_charms471",
+  "rights": "Public Domain — late manuscript material (1800-1999 CE). Princeton University Library.",
+  "creator": "Anonymous (multiple authors/scribes)",
+  "date": "c. 19th–20th century CE",
+  "century": 19,
+  "place": "Sub-Saharan Africa (Sahel region)",
+  "region": "West Africa",
+  "short_id": "SC471",
+  "language": "Arabic",
+  "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/ws859f727",
+  "motifs": [
+   "wafq",
+   "magic square",
+   "talisman",
+   "amulet",
+   "Sub-Saharan African",
+   "West African Islam",
+   "Sudanic script",
+   "cross-hatch grid",
+   "Islamic charm",
+   "protective talisman",
+   "Quranic talisman",
+   "Islamic Africa",
+   "hirz",
+   "kitab tradition",
+   "abjad"
+  ]
  }
 ]

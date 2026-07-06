@@ -2368,5 +2368,20 @@
     "rights": "Public Domain — 1533–1667 CE manuscript. Princeton University Library (Garrett Collection).",
     "blurb": "A composite Arabic codex of 19 distinct texts on timekeeping and astronomical instruments (Majmū' fī al-Falak), 125 leaves, spanning 1533–1667 CE, held at Princeton University Library (Garrett no. 3442Y). The collection gathers short treatises on the sine quadrant (rub' al-mujib), the solar quadrant, the horoscope (ahkam al-nujum), the sundial, and related astronomical calculation methods. The manuscript contains texts by multiple authors in nastaliq and naskh hands, along with zodiac classification tables, calendar correlation tables, and numeric calculation grids. The zodiac tables — which appear near the end of the codex alongside astrological treatises — organize the 12 zodiac signs by their elemental qualities (fire, water, air, earth), humoral correspondences, and calendar placements, making the manuscript a working reference for Islamic timekeeping and astrological practice. One table correlates Persian month names (Farvardin through Isfand) with the zodiac signs they fall in and the number of days in each. These tables are typical of the jadwal tradition of Islamic scientific manuscripts — compact, grid-form visual summaries of information otherwise scattered across prose texts.",
     "count": 2
+  },
+  {
+    "key": "princeton_charms471",
+    "title": "[Collection of Prayers and Talismans] (Princeton, Third Series no. 471, Sub-Saharan African)",
+    "creator": "Anonymous (multiple authors/scribes)",
+    "date": "c. 19th–20th century CE",
+    "era": "modern",
+    "tradition": "hermetic",
+    "tier": "illustration",
+    "place": "Sub-Saharan Africa (Sahel region)",
+    "language": "Arabic",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/ws859f727",
+    "rights": "Public Domain — late manuscript material (1800-1999 CE). Princeton University Library.",
+    "blurb": "A collection of 181 loose leaves (362 pages) of Sub-Saharan African Islamic manuscript material, 1800–1999 CE, held at Princeton University Library (Third Series no. 471). The leaves are housed between two pieces of animal skin and show significant damage from rodents and insects in the early folios. The manuscript contains prayers, invocations, descriptions and instructions for the use of talismans, amulets, and magic squares — the standard content of West African Islamic protective and divinatory manuscript practice known in the scholarship as the Qur'anic talisman tradition (kitab or hirz tradition). This tradition, widespread from Senegal through Mali, Niger, Nigeria, and across the Sahel, involves copying Qur'anic verses, divine name combinations, and wafq (magic square) grids onto paper (or leather, metal, cloth) as protective charms worn on the body or placed in the home. The Princeton collection preserves 181 separate leaves — not a bound codex but a cache of individual talisman pages — written in a bold, large-format West African Sudanic Arabic script characteristic of the Saharan and Sub-Saharan Islamic manuscript tradition. One leaf shows a remarkable full-page wafq magic square in a distinctive Sub-Saharan African style: a bordered grid with diagonal cross-hatching lines creating X-shaped subdivisions within each cell, and red (or orange-brown) Arabic text filling the triangular sub-cells. This visual formula — the cross-hatched wafq — is specific to West African talismanic manuscripts and is not found in Middle Eastern Islamic MS traditions.",
+    "count": 1
   }
 ]
