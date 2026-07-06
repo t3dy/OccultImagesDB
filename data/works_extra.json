@@ -3556,5 +3556,40 @@
    "composite codex",
    "Garrett collection"
   ]
+ },
+ {
+  "key": "princeton_qurat",
+  "title": "Qur'at al-Khulafa' al-Abbasiyya — Oracle of the Abbasid Caliphs (Princeton, Garrett no. 551Hq)",
+  "tradition": "divination",
+  "era": "early modern",
+  "blurb": "An oversize Arabic divination manuscript, 38 leaves (80 pages), held at Princeton University Library (Oversize Islamic Manuscripts, Garrett no. 551Hq). The Qur'at al-Khulafa' al-Abbasiyya Umara' al-Mu'minin (Oracle/Lottery of the Abbasid Caliphs, Commanders of the Faithful) is a systematic oracle book organized around the Abbasid Caliphs — each Caliph providing a set of verse-predictions in a two-column format for different query types. The MS is visually extraordinary: it contains seven full-page illuminated concentric-ring circle diagrams (dawa'ir) labeled by topic — Caliphs, Tribes, Women, Turks, Birds, Cities — and a grid page showing eight smaller oracle circles. These circles function as divinatory instruments: the querent follows a procedure involving letters and numbers (via the Zairja or qur'a system) to arrive at a specific cell in the concentric rings, which then directs them to the appropriate Caliph oracle section. Each circle has a gold or blue-grey decorative background in the outer ring, with alternating red and black Arabic text in the inner rings, and decorative cloud-curl corner ornaments. The combination of Islamic calligraphy, geometric diagrammatic precision, and cosmological structure makes these circles among the most visually striking Islamic divination diagrams in any collection.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "princeton_qurat",
+  "rights": "Public Domain — Islamic manuscript, 1700-1835 CE. Princeton University Library (Garrett Collection).",
+  "creator": "Anonymous",
+  "date": "c. 1700–1835 CE",
+  "century": 18,
+  "place": "Islamic world (Ottoman context)",
+  "region": "Islamicate world",
+  "short_id": "QURT",
+  "language": "Arabic",
+  "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/zg64tk99w",
+  "motifs": [
+   "divination",
+   "oracle",
+   "dairat",
+   "circle diagram",
+   "concentric rings",
+   "qura",
+   "Abbasid caliphs",
+   "Islamic divination",
+   "zairja",
+   "lunar mansions",
+   "gold decoration",
+   "oversize manuscript",
+   "illuminated diagram",
+   "Garrett collection"
+  ]
  }
 ]

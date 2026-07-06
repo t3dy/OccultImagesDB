@@ -306,11 +306,14 @@ If found, IIIF manifests follow: https://content.staatsbibliothek-berlin.de/dc/{
 | Princeton Ripley Scroll #1 (Smethley c.1570) | figgy 05741w45s | ✅ DONE — `princeton_ripley1` (1 entry, full parchment roll, 2026-07-06) |
 | Princeton Ripley Scroll #2 (Taylor c.1580) | figgy 903045e4 | ✅ DONE — `princeton_ripley2` (1 entry, 2026-07-06) |
 | Princeton Grimoire (18c Italy) — seals, magical alphabets | figgy 5b0355b1 | ✅ DONE — `princeton_grimoire` (6 entries: word square, Hebrew seals, Celestial/Malachim scripts, spirit seals, 2026-07-06) |
-| Princeton Huruf MS (15c Taysir al-Matalib) | figgy 9dc55c90 | ✅ DONE — `princeton_huruf` (2 entries: 8×8 Jupiter wafq + letter grid, 2026-07-06) |
+| Princeton Huruf MS (15c Taysir al-Matalib) | figgy 9dc55c90 | ✅ DONE — `princeton_huruf` (8 entries: 8×8 wafq, circle-wafq, letter grid, 3 new wafq pages, khatim hexagram, 2026-07-06) |
 | Princeton Shajara geomancy (Khalaf al-Barbari) | figgy 2c2fc044 | ✅ DONE — `princeton_shajara` (3 entries: ashkal/directions/presence raml tables, 2026-07-06) |
 | Princeton Bulugh geomancy | figgy deb54990 | ✅ DONE — `princeton_bulugh` (1 entry: inline raml dot figures, 2026-07-06) |
 | Princeton Ptolemy / al-Tusi (14c Persian) | figgy cec16325 | ✅ DONE — `princeton_ptolemy` (1 entry: epicycle circle diagram, 2026-07-06) |
 | Princeton Majmuah astronomical collection (15c) | figgy 0de92cc8 | ✅ DONE — `princeton_majmuah` (5 entries: gold-bordered zij tables pp.108–112, 2026-07-06) |
+| Princeton Charms & Talismans MS (1483 CE, Garrett 3rd Series 591) | figgy f088de48 | ✅ DONE — `princeton_charms` (4 entries: pentagon khatim, staircase table, diamond lattice, two wafq grids, 2026-07-06) |
+| Princeton Occult Sciences Anthology (18–19c, Garrett 547H) | figgy 71c63646 | ✅ DONE — `princeton_occult` (3 entries: numeric calc tables, jadwal letter table, elemental letter-speech table, 2026-07-06) |
+| Princeton Qur'at al-Khulafa' al-Abbasiyya (Garrett 551Hq, oversize) | figgy 9d374b51 | ✅ DONE — `princeton_qurat` (9 entries: title inverted-triangle, 8-circle grid, lunar mansions, 6 named dawa'ir, 2026-07-06) |
 
 **Gallica (BnF) — CAPTCHA BLOCKER:**
 - All Gallica API endpoints (SRU, IIIF) return ALTCHA captcha to browser OR 403 to Python
