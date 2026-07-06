@@ -4051,5 +4051,47 @@
    "lawh al-dhahab",
    "gold tablet"
   ]
+ },
+ {
+  "key": "princeton_astrocomp",
+  "title": "Astrological Compendium — Irshad-i Usturlāb and Seven Treatises (Princeton OPenn Islamic MSS, Persian 1670)",
+  "tradition": "astrology",
+  "era": "early modern",
+  "blurb": "A Persian astrological compendium copied in 1670 CE (AH 1081), comprising seven treatises on astrology, the astrolabe, astronomical tables, and astrological judgment (Princeton University Library, OPenn Islamic Manuscripts, figgy 68f32e92, ark:/88435/dc41687w42j). The primary work is Irshād-i Usṭurlāb (Guidance on the Astrolabe) by Nāṣir ibn Ḥaydar; further treatises cover lunar eclipses, planetary risings and settings, astronomical tables (zīj), Maṭāliʻʹnāmah (Book of Ascendants) by Abū Al-Khayr Muḥammad Taqī Fārsī, and astrological judgments drawn from the tradition of Abū Maʻshar. The manuscript is written in elegant Persian nastaʻlīq script with extensive red-ink rubrication marking chapter headings and key technical terms. The codex is physically extraordinary: bound in fine black leather with elaborate gold-tooled mandorla binding — a large polylobed central medallion (shamseh) surrounded by arabesque filigree tooling on both front and back covers, with cartouches containing calligraphic owner inscriptions on the vertical axis. Two smaller diamond cartouches and a chain-pattern gilt border complete the design. The binding bears the name Ibrāhīm ibn Muḥammad Bāqir on the pendant cartouches. The manuscript passed through distinguished later ownership: it belonged to Muḥammad ʻAlī al-Iṣfahānī, then to Prince Sadruddin Aga Khan (the Swiss-based diplomat and art collector who assembled one of the finest Islamic manuscript libraries of the 20th century), and was acquired by Lawrence J. Schoenberg in 2001 before reaching Princeton. The front matter includes an ownership leaf (fol. 1r) covered with astrological calculations and multiple owner seals from its provenance chain, and the text contains a formal astrological planetary classification table (fol. 78r) with symbolic planetary headers and six rows of descriptive text for each planet's characteristics.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "princeton_astrocomp",
+  "rights": "Public Domain — 1670 CE Persian manuscript. Princeton University Library.",
+  "creator": "primary: Nāṣir ibn Ḥaydar (Irshād-i Usṭurlāb); further: Abū Al-Khayr Muḥammad Taqī Fārsī (Maṭāliʻʹnāmah); tradition of Abū Maʻshar",
+  "date": "1670 CE (AH 1081)",
+  "century": 17,
+  "place": "Iran",
+  "region": "Islamicate world",
+  "short_id": "ACMP",
+  "language": "Persian",
+  "provenance_url": "https://figgy.princeton.edu/concern/scanned_resources/68f32e92-fcc5-4e24-98de-c41877503d0a",
+  "motifs": [
+   "astrolabe",
+   "astrology",
+   "astronomy",
+   "planetary table",
+   "mandorla binding",
+   "gilt leather",
+   "Persian binding",
+   "shamseh",
+   "nastaʻliq",
+   "Sadruddin Aga Khan",
+   "Nasir ibn Haydar",
+   "Abu Mashar",
+   "matali' namah",
+   "zij",
+   "astrological judgment",
+   "horoscope",
+   "provenance seals",
+   "Princeton",
+   "OPenn",
+   "Islamic astrology",
+   "Persian manuscript"
+  ]
  }
 ]
