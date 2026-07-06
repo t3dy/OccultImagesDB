@@ -1,0 +1,36 @@
+{
+  "_work": {
+    "key": "princeton_ptolemy",
+    "title": "Sharh Samarat Batlamyus — Ptolemy Commentary by Tusi (Princeton, Garrett Collection)",
+    "tradition": "astrology",
+    "era": "medieval",
+    "blurb": "A Princeton University Library manuscript (Garrett Collection) containing two Persian astronomical-astrological texts by Nasir al-Din al-Tusi (1201–1274), totaling 128 leaves (136 pages as digitized). The first text (fols. 3a–53a) is Sharh Samarat Batlamyus (Commentary on the Fruits/Centiloquium of Ptolemy) — a Persian translation of and commentary on the pseudo-Ptolemaic Centiloquium (100 astrological aphorisms) attributed to Ptolemy, with al-Tusi's explanatory notes. The second text is a further astrological work by al-Tusi. The manuscript contains astronomical and astrological diagrams including a circular epicycle or armillary-sphere diagram with Arabic/Persian labels indicating planetary positions and celestial mechanics. Al-Tusi (the Ilkhanid court astronomer at Maragha) was the most important Islamic astronomer of the 13th century, producing revised planetary tables (Zij-i Ilkhani) and corrections to Ptolemy's Almagest that were foundational for both Islamic astronomy and the later Copernican revolution.",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_ptolemy",
+    "rights": "Public Domain — manuscript (pre-modern). Princeton University Library (Garrett Collection).",
+    "creator": "Nasir al-Din al-Tusi (1201–1274)",
+    "date": "c. 14th century CE (MS copy)",
+    "century": 14,
+    "place": "Persia / Islamic world",
+    "region": "Islamicate world",
+    "short_id": "PTOL",
+    "language": "Persian",
+    "provenance_url": "https://figgy.princeton.edu/concern/scanned_resources/cec16325-8ff7-42d3-b5bc-d4611c502054",
+    "motifs": ["Ptolemy", "al-Tusi", "Nasir al-Din", "astronomy", "astrology", "epicycle", "Centiloquium", "Persian manuscript", "Islamic astronomy", "celestial mechanics", "Maragha", "planetary theory", "armillary sphere", "zodiac"]
+  },
+  "entries": [
+    {
+      "id": "princeton_ptolemy__astronomical-circle-p86",
+      "title": "Circular Astronomical Diagram (Epicycle/Planetary Model) — Tusi Ptolemy MS (p. 86)",
+      "date": "c. 14th century CE",
+      "place": "Persia",
+      "medium": "manuscript, ink on paper (open book spread)",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://figgy.princeton.edu/concern/scanned_resources/cec16325-8ff7-42d3-b5bc-d4611c502054",
+      "summary": "A circular astronomical diagram from a Princeton manuscript of al-Tusi's commentary on the pseudo-Ptolemaic Centiloquium, shown in the right-hand page of an open book spread. The circle contains concentric rings and geometric lines — the standard diagrammatic convention for representing planetary epicycles in the Arabic-Persian commentary tradition derived from Ptolemy's Almagest. Labels in Arabic script indicate celestial entities (planets, deferent, epicycle, zodiac positions). Al-Tusi's commentary on the Centiloquium follows Ptolemy's astrological aphorisms with explanatory notes that connect the abstract number-based predictions to actual planetary mechanics; the diagram illustrates the geometric model underlying a specific astrological claim. In the Islamic tradition, astronomical diagrams in manuscripts served both educational and mnemonic functions: a practitioner consulting the text for astrological guidance needed to understand the celestial machinery producing the phenomena. This diagram stands in a tradition of astronomical illustration running from the Almagest through Tusi, Ulugh Beg, and ultimately contributing to Copernicus's heliocentric reform.",
+      "motifs": ["astronomy", "epicycle", "planetary model", "Ptolemy", "al-Tusi", "Centiloquium", "circle diagram", "celestial mechanics", "Islamic astronomy", "Persian manuscript", "armillary sphere", "zodiac", "astrological diagram"],
+      "tier": "illustration"
+    }
+  ]
+}

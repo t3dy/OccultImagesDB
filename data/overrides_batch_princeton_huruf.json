@@ -1,0 +1,48 @@
+{
+  "_work": {
+    "key": "princeton_huruf",
+    "title": "Taysir al-Matalib fi Asrar al-Huruf — Huruf MS (Princeton, 15th c.)",
+    "tradition": "hermetic",
+    "era": "medieval",
+    "blurb": "A 15th-century Arabic manuscript on 'ilm al-huruf (the science of letters), 112 leaves (232 pages), held at Princeton University Library (Garrett Collection). The work is Taysir al-Matalib fi Asrar al-Huruf (Facilitating Goals in the Secrets of Letters) by Kumi Muhammad ibn Muhammad (active 15th century), followed by a second text on the degrees of power of the letters. The manuscript contains extensive tables and charts: magic squares (awfaq) with red-bordered grids, including a spectacular full-page 8×8 wafq thaman (Jupiter magic square), as well as smaller letter-number grids and combinatorial tables of letter values (huruf al-abjad). 'Ilm al-huruf — Islamic lettrism or letter science — holds that the 28 letters of the Arabic alphabet are the structural elements of creation, each carrying elemental, planetary, numerical (abjad), and divine-name correspondences. Practitioners use letter combinations, awfaq, and name-analysis to generate talismans, predict outcomes, and decode the hidden structure of words. The Princeton MS represents the rich 15th-century tradition of learned Islamic letter science in the tradition of al-Buni, Ibn Khaldun, and the Ikhwan al-Safa.",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_huruf",
+    "rights": "Public Domain — 15th century manuscript. Princeton University Library (Garrett Collection).",
+    "creator": "Kumi, Muhammad ibn Muhammad (active 15th century)",
+    "date": "15th century CE",
+    "century": 15,
+    "place": "Islamic world (provenance unknown)",
+    "region": "Islamicate world",
+    "short_id": "PHRF",
+    "language": "Arabic",
+    "provenance_url": "https://dpul.princeton.edu/catalog/dcvx021r32g",
+    "motifs": ["huruf", "ilm al-huruf", "lettrism", "Arabic letters", "abjad", "magic square", "wafq", "awfaq", "letter science", "Islamic magic", "talisman", "letter grid", "Jupiter square", "Islamic manuscript", "Garrett collection"]
+  },
+  "entries": [
+    {
+      "id": "princeton_huruf__wafq-8x8-magic-square-p57",
+      "title": "Wafq Thaman — Full-Page 8×8 Arabic Magic Square (Jupiter Square) — Huruf MS (p. 57)",
+      "date": "15th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, red-ink borders",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/catalog/dcvx021r32g",
+      "summary": "A spectacular full-page 8×8 magic square (wafq thaman) from a 15th-century Princeton manuscript on 'ilm al-huruf (the science of letters). The grid is drawn with red-ink borders framing all cells; each of the 64 cells contains an Arabic numeral and a letter designation, with corner labels and subsidiary text indicating the square's planetary and divine-name associations. In Islamic letter science, the 8×8 magic square is associated with Jupiter (Mushtari) and its divine name; its cells sum to 260 in each row, column, and diagonal (the standard 8×8 = 8 × 33 = 260 structure). The grid occupies the full page below the Arabic text column, demonstrating that the wafq here is not an illustration but an operative element — a talisman to be copied, carried, or inscribed on metal or cloth. The red-ink border system serves double duty: structurally organizing the grid and visually marking it as sacred space, in the same tradition as al-Buni's Shams al-Ma'arif where red ink designates the diagrammatic and the divine.",
+      "motifs": ["wafq", "magic square", "awfaq", "8x8 grid", "Jupiter square", "huruf", "abjad", "Islamic lettrism", "talisman", "red ink", "Islamic magic", "letter grid", "full-page diagram"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_huruf__wafq-letter-grid-p59",
+      "title": "Wafq Letter-Number Grid — Huruf MS (p. 59)",
+      "date": "15th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, red-ink borders",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/catalog/dcvx021r32g",
+      "summary": "A wafq (magic square) from a 15th-century Princeton huruf MS, bordered in red ink with Arabic numerals and letter designations in each cell. This grid, immediately following the 8×8 Jupiter square (p. 57), shows a different configuration — smaller grid, different letter-number assignments — indicating sequential treatment of multiple awfaq types within the same section of the text. In 'ilm al-huruf, each wafq type encodes a specific divine name, element (fire/water/air/earth), humor (hot/cold/wet/dry), planetary assignment, and set of uses (healing, love, protection, coercion). The red-bordered grid page functions simultaneously as a textual element (part of the exposition) and as a replicable talisman template — the practitioner is expected to copy it exactly onto a suitable medium. The red ink tradition links this Princeton MS directly to the North African Buniyan tradition of the Shams al-Ma'arif.",
+      "motifs": ["wafq", "magic square", "awfaq", "huruf", "abjad", "Islamic lettrism", "talisman", "red ink", "letter grid", "Islamic magic"],
+      "tier": "illustration"
+    }
+  ]
+}

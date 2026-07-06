@@ -1,0 +1,84 @@
+{
+  "_work": {
+    "key": "princeton_majmuah",
+    "title": "Majmuah Rasail Nadira fi Ulum al-Falakiyah — Astronomical Treatise Collection (Princeton, Garrett)",
+    "tradition": "astrology",
+    "era": "medieval",
+    "blurb": "An 870-page collection of rare astronomical and mathematical treatises in Arabic, Persian, and Ottoman Turkish, held at Princeton University Library (Robert Garrett Collection). The full title is Majmuat al-Rasail al-Nadira fi Ulum al-Falakiyah (Collection of Rare Treatises on the Sciences of the Spheres/Astronomy). The 433-leaf manuscript contains numerous distinct texts beginning with: geometry, astronomy (ilm al-hay'a), astronomical tables (zij), star catalogs, mathematical calculations, and related sciences. The manuscript is decorated with gold-bordered astronomical tables (jadawil) — systematic charts for star positions, solar and lunar corrections, planetary equations, and calendar calculations. These tables represent the operational core of Islamic mathematical astronomy: the practitioner (astronomer, astrologer, muwaqqit) consulted them to compute planetary positions for a given date and to interpret astrological charts. The Garrett collection copy was donated by Robert Garrett (1875–1961) and constitutes one of Princeton's most important Arabic scientific manuscripts.",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_majmuah",
+    "rights": "Public Domain — medieval manuscript. Princeton University Library (Garrett Collection).",
+    "creator": "Multiple authors (anthology)",
+    "date": "c. 14th–15th century CE",
+    "century": 15,
+    "place": "Islamic world (Arabic, Persian, Ottoman contexts)",
+    "region": "Islamicate world",
+    "short_id": "MJMH",
+    "language": "Arabic, Persian, Ottoman Turkish",
+    "provenance_url": "https://figgy.princeton.edu/concern/scanned_resources/0de92cc8-9653-476c-96f3-317e1b724537",
+    "motifs": ["astronomy", "zij", "astronomical tables", "star catalog", "Islamic astronomy", "mathematical astronomy", "jadwal", "table", "planetary tables", "solar tables", "lunar tables", "Garrett collection", "Princeton manuscript", "Arabic science", "Ottoman astronomy", "Persian astronomy"]
+  },
+  "entries": [
+    {
+      "id": "princeton_majmuah__astronomical-table-p108",
+      "title": "Astronomical Zij Table — Majmuah Rasail (p. 108)",
+      "date": "c. 14th–15th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, gold-bordered table",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://figgy.princeton.edu/concern/scanned_resources/0de92cc8-9653-476c-96f3-317e1b724537",
+      "summary": "An astronomical table (jadwal) from the Majmuah Rasail at Princeton University Library, bordered in gold/brown ink with Arabic column headers and numerical entries. This is the first of a dense cluster of five consecutive astronomical tables (pp. 108–112) in the manuscript. In the Islamic zij (astronomical handbook) tradition, tables of this type record computed star positions, planetary mean motions, equations of center, and related quantities that allow the user to calculate actual sky positions for any given date. The gold-ink border treatment elevates the table visually and marks it as a key reference page — the same scribal convention used in luxury Islamic scientific manuscripts to highlight operational diagrams and tables. The multi-column format with Arabic numerals follows the standard Islamic astronomical table layout derived from Ptolemy's Handy Tables (Procheiroi Kanones) as transmitted through al-Battani, al-Khwarizmi, and successive zij traditions.",
+      "motifs": ["astronomy", "zij", "astronomical table", "jadwal", "Islamic astronomy", "star catalog", "planetary tables", "gold border", "Arabic numerals", "mathematical astronomy"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_majmuah__astronomical-table-p109",
+      "title": "Star Catalog Zij Table — Majmuah Rasail (p. 109)",
+      "date": "c. 14th–15th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, gold-bordered table",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://figgy.princeton.edu/concern/scanned_resources/0de92cc8-9653-476c-96f3-317e1b724537",
+      "summary": "A star catalog or positional astronomy table from the Majmuah Rasail at Princeton, with gold/brown-ink bordered cells organized in multiple columns recording celestial data. The header row identifies the table (jadwal) by name. Star catalogs in the Islamic zij tradition record each star's name, constellation, ecliptic longitude and latitude, magnitude, and color. This full-page table is part of a five-page cluster of astronomical tables (pp. 108–112) in what appears to be a standalone zij section of the anthology. The table format — each row a different star or planet, each column a different attribute — represents the mature Islamic astronomical tradition of systematic tabulation that was essential for accurate horoscope calculation: without reliable star and planetary position tables, astrological prediction was impossible. This cluster of tables represents the practical core of Islamic mathematical astronomy as a working science.",
+      "motifs": ["astronomy", "zij", "star catalog", "astronomical table", "jadwal", "Islamic astronomy", "planetary positions", "gold border", "mathematical astronomy", "star positions"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_majmuah__astronomical-table-p110",
+      "title": "Astronomical Correction Table — Majmuah Rasail (p. 110)",
+      "date": "c. 14th–15th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, gold-bordered table",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://figgy.princeton.edu/concern/scanned_resources/0de92cc8-9653-476c-96f3-317e1b724537",
+      "summary": "A third consecutive astronomical table from the Majmuah Rasail (Princeton), part of the five-page zij table cluster (pp. 108–112). This table records correction or equation values for astronomical calculations — the type used in Islamic astronomy to convert mean positions (computed from simple motion) to true positions (corrected for elliptical deviation, equation of time, or parallax). In the zij tradition, equation tables are the most technically demanding component: each planetary theory requires a separate set of equations correcting for the eccentricity of the orbit, the motion of the epicycle, and additional anomalies. The cluster of five tables in this section of the Majmuah Rasail represents a self-contained zij extract — sufficient, in principle, for computing planetary positions for any date within the calendar system used.",
+      "motifs": ["astronomy", "zij", "astronomical table", "equation table", "jadwal", "Islamic astronomy", "planetary correction", "gold border", "mathematical astronomy"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_majmuah__astronomical-table-p111",
+      "title": "Solar and Planetary Equation Tables — Majmuah Rasail (p. 111)",
+      "date": "c. 14th–15th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, bordered tables",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://figgy.princeton.edu/concern/scanned_resources/0de92cc8-9653-476c-96f3-317e1b724537",
+      "summary": "A page from the Majmuah Rasail (Princeton) showing two distinct astronomical tables on a single leaf — one headed 'Jadwal taqwim al-qamar al-awwal' (Table of the First Lunar Equation) and another labeled 'Taqwim al-awsat al-shams' or similar (solar mean motion table). The two-table format on a single leaf is a space-saving scribal choice common in astronomical manuscripts where table clusters are dense. The lunar equation and solar mean motion tables represent two of the most fundamental components of Islamic astronomical computation: determining the Moon's true longitude (essential for eclipse prediction and calendar calculation) and the Sun's true position (essential for all planetary calculations). The headers in red ink and the gold/brown-ink ruled borders follow standard Islamic scientific manuscript formatting.",
+      "motifs": ["astronomy", "zij", "solar table", "lunar table", "equation of center", "jadwal", "Islamic astronomy", "mathematical astronomy", "two tables", "bordered table"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_majmuah__astronomical-table-p112",
+      "title": "Solar Eclipse / Conjunction Table — Majmuah Rasail (p. 112)",
+      "date": "c. 14th–15th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper, bordered table",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://figgy.princeton.edu/concern/scanned_resources/0de92cc8-9653-476c-96f3-317e1b724537",
+      "summary": "The fifth and final astronomical table in the Majmuah Rasail cluster (pp. 108–112), headed 'Jadwal kusuf al-shams' (Table of Solar Eclipse/Occultation) or a related solar computation table. Eclipse tables in the Islamic zij tradition record the circumstances of solar and lunar eclipses — their occurrence dates, durations, magnitudes, and paths — computed from the theoretical planetary models. Eclipse prediction was one of the prestige applications of Islamic mathematical astronomy, serving both astronomical verification (testing the accuracy of planetary theories) and astrological use (eclipses were among the most significant astrological events, associated with royal death, political change, and natural disaster). The completion of the five-table cluster at this page suggests a self-contained zij section within the larger anthology, organized from mean-motion tables through equations to eclipse prediction.",
+      "motifs": ["astronomy", "zij", "eclipse table", "solar eclipse", "jadwal", "Islamic astronomy", "mathematical astronomy", "conjunction", "bordered table", "eclipse prediction"],
+      "tier": "illustration"
+    }
+  ]
+}

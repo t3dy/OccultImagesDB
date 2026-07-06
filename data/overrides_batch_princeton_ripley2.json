@@ -1,0 +1,36 @@
+{
+  "_work": {
+    "key": "princeton_ripley2",
+    "title": "Ripley Alchemical Scroll — Princeton Taylor Collection (c. 1580)",
+    "tradition": "hermetic",
+    "era": "early modern",
+    "blurb": "A second Ripley alchemical roll held at Princeton University Library, from the Robert H. Taylor Collection. Like the companion scroll (princeton_ripley1), it is a painted parchment roll incorporating Middle English verses attributed to Sir George Ripley (d. c.1490) and alchemical roundels depicting the stages of the Great Work. This copy was acquired through dealers H.P. Kraus and Laurence Witten and gifted to Princeton by Robert H. Taylor (1908–1985). Multiple copies of the Ripley Scroll survive in English and American collections (Princeton, Huntington, Getty, Yale), testifying to the scroll's popularity as both a practical alchemical guide and a prestigious object in 16th–17th-century English culture. Each copy introduces subtle pictorial variations, making comparison between copies a research tool for tracking the transmission of alchemical iconography.",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_ripley2",
+    "rights": "Public Domain — 16th century manuscript. Princeton University Library (Taylor Collection).",
+    "creator": "George Ripley (attr.)",
+    "date": "c. 1580 CE",
+    "century": 16,
+    "place": "England",
+    "region": "Western Europe",
+    "short_id": "PRL2",
+    "language": "Middle English",
+    "provenance_url": "https://figgy.princeton.edu/concern/scanned_resources/903045e4-79ff-4cca-9a5f-6bc47681cb08",
+    "motifs": ["Ripley scroll", "alchemical roll", "George Ripley", "alchemy", "roundel", "Great Work", "English alchemy", "parchment roll", "Taylor collection", "illustrated manuscript", "sulphur and mercury", "philosopher's stone"]
+  },
+  "entries": [
+    {
+      "id": "princeton_ripley2__ripley-scroll-taylor-full",
+      "title": "Ripley Alchemical Scroll — Full Roll, Princeton Taylor Collection (c. 1580)",
+      "date": "c. 1580 CE",
+      "place": "England",
+      "medium": "parchment roll, pigment and ink, 7 membranes",
+      "rights": "Public Domain. Princeton University Library, Robert H. Taylor Collection.",
+      "provenance_url": "https://figgy.princeton.edu/concern/scanned_resources/903045e4-79ff-4cca-9a5f-6bc47681cb08",
+      "summary": "The complete Ripley Alchemical Scroll from the Robert H. Taylor Collection at Princeton University Library (c. 1580), reproduced as a single continuous image of the full parchment roll. A companion piece to the Smethley copy (princeton_ripley1), this scroll presents the same alchemical programme — staged royal drama of the Great Work — with variations in pictorial detail that reflect the copyist's independent choices within the Ripley iconographic tradition. The successive roundels and Middle English verses guide the viewer through putrefaction, dissolution, conjunction, fermentation, and projection; figures include the Green Lion, the pelican at the tower, the Red Man and White Woman, and the crowned king of the rubedo. Comparing the two Princeton copies reveals how alchemical knowledge was transmitted through practice: each copyist introduced modifications in gesture, color, and compositional arrangement while maintaining the essential symbolic programme. Acquired through the dealers H.P. Kraus and Laurence Witten.",
+      "motifs": ["Ripley scroll", "alchemical roll", "George Ripley", "alchemy", "Great Work", "roundel", "Green Lion", "pelican", "sulphur and mercury", "philosopher's stone", "English alchemy", "parchment roll"],
+      "tier": "illustration"
+    }
+  ]
+}

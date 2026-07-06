@@ -1,0 +1,96 @@
+{
+  "_work": {
+    "key": "princeton_grimoire",
+    "title": "Grimoire, 18th Century — Italian Occult Compendium (Princeton)",
+    "tradition": "grimoire",
+    "era": "early modern",
+    "blurb": "An 18th-century Italian occult compendium (20 leaves, paper, 15 × 21.4 cm) held at Princeton University Library. It combines ritual recipes, ceremonial magic, alchemy, astrology, and demonology in a single manuscript. The volume is remarkable for its illustrations: magical alphabets (including the Transitus Fluvii / Crossing the River script, a standard late-medieval magical alphabet derived from Hebrew), Hebrew kamea (magic squares) with angelic names, circular spirit seals in the tradition of Solomonic magic, SATOR-style letter word-squares, and a faint planetary/astrological grid. The Latin and Italian text draws on multiple grimoire traditions — Solomonic, Agrippan, and folk magical — blending them into a practical working manual. The Hebrew magical alphabets and seals indicate the author's access to the learned Kabbalah-infused ceremonial magic tradition transmitted through works like Agrippa's De Occulta Philosophia (1531) and the Key of Solomon manuscripts.",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_grimoire",
+    "rights": "Public Domain — 18th century manuscript. Princeton University Library.",
+    "creator": "Anonymous (Italian, 18th century)",
+    "date": "18th century CE",
+    "century": 18,
+    "place": "Italy",
+    "region": "Western Europe",
+    "short_id": "GRIM",
+    "language": "Latin, Italian",
+    "provenance_url": "https://dpul.princeton.edu/catalog/r781wr486",
+    "motifs": ["grimoire", "magical alphabet", "Transitus Fluvii", "Celestial script", "Hebrew", "magic square", "kamea", "spirit seal", "Solomonic magic", "word square", "SATOR", "angelic magic", "demonology", "alchemy", "astrology", "Italian manuscript", "ceremonial magic"]
+  },
+  "entries": [
+    {
+      "id": "princeton_grimoire__word-square-p13",
+      "title": "SATOR-Type Letter Word-Square — Italian Grimoire (p. 13)",
+      "date": "18th century CE",
+      "place": "Italy",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/catalog/r781wr486",
+      "summary": "A triangular SATOR-type word square from an 18th-century Italian grimoire, drawn in ink on paper. The square ('Figura') uses a Latin magical word arranged so that reading across any row, column, or diagonal produces the same result — a boustrophedon/palindromic structure. Above the figure, the Latin label 'Figura tabis est' (roughly 'the figure of wasting/tabis') indicates its intended magical use: SATOR-style squares in the grimoire tradition functioned as written amulets, typically inscribed on paper, metal, or wood and carried or placed in specific locations. The SATOR square (SATOR/AREPO/TENET/OPERA/ROTAS) — the most famous example — dates to Roman antiquity and was repurposed through the medieval and early modern periods as a Christian-magical protective charm. This variant in an Italian grimoire reflects the long survival of word-square magic into 18th-century folk and learned practice.",
+      "motifs": ["word square", "SATOR", "magic square", "letter arrangement", "amulet", "grimoire", "Latin magic", "palindrome", "talisman"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_grimoire__hebrew-seal-p14",
+      "title": "Hebrew Angelic Names and Circular Kamea Seal — Italian Grimoire (p. 14)",
+      "date": "18th century CE",
+      "place": "Italy",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/catalog/r781wr486",
+      "summary": "A page from an 18th-century Italian grimoire showing two Hebrew magical words or angelic names at the top (written in Hebrew letters), followed by a circular kamea (magic seal) at the bottom. The circle contains a 4×4 or similar grid of Hebrew letters arranged as a magic square, enclosed within a circular border bearing additional Hebrew inscription. In the Jewish-Christian magical tradition transmitted through Agrippa and the Solomonic grimoires, Hebrew was the original sacred language of creation whose letters carried intrinsic divine power; angelic names in Hebrew could compel spiritual beings. The circular format (as opposed to a square) for the Hebrew letter-grid creates a 'talisman of the name' — a kamea — in which the divine or angelic name is encoded geometrically and rendered as a usable seal. The two Hebrew words at the top are likely angel names or divine epithets to be invoked alongside the kamea.",
+      "motifs": ["Hebrew", "kamea", "magic square", "angelic names", "talisman", "seal", "grimoire", "Solomonic magic", "kabbalistic magic", "circular seal", "Hebrew letters"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_grimoire__circular-hebrew-seal-p15",
+      "title": "Circular Hebrew Talisman Seal — Italian Grimoire (p. 15), De Characteribus et Sigillis",
+      "date": "18th century CE",
+      "place": "Italy",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/catalog/r781wr486",
+      "summary": "Under the heading 'De Characteribus et Sigillis' (On Characters and Sigils), an Italian grimoire page presents a large circular seal bearing Hebrew letters arranged in concentric rings — a characteristic format for Solomonic talisman seals in the learned European tradition. The concentric-ring format places the divine name or spirit name at the center, surrounded by subsidiary angelic names, protective inscriptions, or letter sequences, creating a kind of cosmological map in which sacred language structures space from the divine center outward. This seal type is common in Key of Solomon manuscripts (Clavicula Salomonis) and Agrippa's De Occulta Philosophia: the circle seals the space, the Hebrew letters invoke specific powers, and the drawn seal substitutes for the inscribed metal or parchment version used in ritual. The section title 'De Characteribus et Sigillis' signals a systematic presentation of spirit characters and their seals.",
+      "motifs": ["circular seal", "Hebrew", "talisman", "Solomonic magic", "Clavicula Salomonis", "characters and sigils", "concentric circles", "grimoire", "kabbalistic magic", "seal magic"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_grimoire__magical-alphabets-p16",
+      "title": "Magical Script Alphabets (Celestial, Malachim) — Italian Grimoire (p. 16)",
+      "date": "18th century CE",
+      "place": "Italy",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/catalog/r781wr486",
+      "summary": "A page from an Italian 18th-century grimoire presenting multiple rows of magical alphabets — scripts used to write angelic names, divine attributes, and ritual inscriptions in characters inaccessible to the profane reader. The letter-forms shown include variants of the Celestial (Angelic) script, the Malachim (Angelic Royal) script, and possibly the Transitus Fluvii (Crossing the River) script — all derived from Hebrew letter-shapes transformed into stylized angular forms. These magical alphabets were systematized in Heinrich Cornelius Agrippa's De Occulta Philosophia (1531, Book 3, Chapter 29) and transmitted through the European grimoire tradition into the 18th century. Each letter-form corresponds to a Hebrew letter by position, so that angelic names can be written in code inaccessible to uninitiated readers. In practice, magical alphabets were used to inscribe seals, talismans, and spirit names on ritual objects, making the script itself a visual expression of sacred language.",
+      "motifs": ["magical alphabet", "Celestial script", "Malachim", "angelic script", "Hebrew", "Agrippa", "De Occulta Philosophia", "grimoire", "angelic magic", "talisman inscription", "secret script", "occult alphabets"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_grimoire__transitus-fluvii-seals-p17",
+      "title": "Scriptura Transitus Fluvii Alphabet + Three Spirit Seals — Italian Grimoire (p. 17)",
+      "date": "18th century CE",
+      "place": "Italy",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/catalog/r781wr486",
+      "summary": "The richest diagram page in the Princeton grimoire: under the title 'Scriptura Transitus Fluvii' (Writing of Crossing the River), the page presents a complete version of this magical alphabet — 22 characters derived from Hebrew letter-shapes by rotation and stylization — followed below by three circular spirit seals with magical characters and Latin text labels. The Transitus Fluvii (also called the 'Passage of the River' or 'Malachim' in some traditions) is one of three magical alphabets codified by Agrippa in De Occulta Philosophia: the Celestial, the Malachim, and the Transitus Fluvii. Each produces a distinct visual style while encoding the same 22 Hebrew letters. The three circular seals below are drawn in the style of Solomonic pentacles or spirit seals: geometric figures (star, circle, cross) inscribed with characters and surrounded by Latin legend. The combination of alphabet chart and working seals on one page reflects the grimoire's function as both a reference manual and a practical workshop document.",
+      "motifs": ["Transitus Fluvii", "magical alphabet", "Scriptura", "spirit seal", "pentacle", "Solomonic", "Agrippa", "Hebrew", "angelic script", "grimoire", "ceremonial magic", "character magic", "circular seal"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_grimoire__spirit-seals-angels-p18",
+      "title": "Two Circular Spirit Seals — Italian Grimoire (p. 18), De Signaculis Spirituum",
+      "date": "18th century CE",
+      "place": "Italy",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain. Princeton University Library.",
+      "provenance_url": "https://dpul.princeton.edu/catalog/r781wr486",
+      "summary": "Under the section heading 'De Signaculis Spirituum' (On the Seals of Spirits), an Italian 18th-century grimoire presents two large circular spirit seals drawn in ink. Each seal is a circle containing geometric figures — pentagram stars, crosses, internal divisions — inscribed with magical characters in the tradition of the Solomonic pentacles. The seals name specific angels: the text discusses 'Adonas' (Adonai) and other angelic presences, and the seals are instruments for their invocation or constraint. In Solomonic magic (Clavicula Salomonis, Lemegeton), spirit seals serve multiple functions: drawn in a circle, they confine spirits; worn or carried, they protect the operator; engraved on metal tablets, they compel spirits to appear or comply. The combination of two distinct seals on one page suggests a comparative or sequential ritual structure — two spirits, or two aspects of the same invocational process. The section 'De Signaculis Spirituum' systematically provides seals for an entire hierarchy of spirits.",
+      "motifs": ["spirit seal", "sigil", "pentacle", "Solomonic magic", "Clavicula Salomonis", "angelic magic", "De Signaculis Spirituum", "circular seal", "grimoire", "demonology", "ceremonial magic", "pentagram"],
+      "tier": "illustration"
+    }
+  ]
+}

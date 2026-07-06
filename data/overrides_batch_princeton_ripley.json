@@ -1,0 +1,36 @@
+{
+  "_work": {
+    "key": "princeton_ripley1",
+    "title": "Ripley Alchemical Scroll — Princeton (Smethley Copy, c. 1570)",
+    "tradition": "hermetic",
+    "era": "early modern",
+    "blurb": "An illustrated alchemical roll incorporating Middle English verses attributed to Sir George Ripley (d. c.1490), copied by Leonard Smethley. The scroll is composed of seven parchment membranes totaling 3720 × 275 mm, painted with alchemical roundels, figures, and symbolic sequences depicting the stages of the Great Work: putrefaction, dissolution, conjunction, multiplication, and projection. Figures include the crowned king and queen, the Green Lion, the pelican feeding its young with its blood, the Red Man and White Woman (Sulphur and Mercury), serpents, and alchemical vessels. The Ripley Scroll is one of the most visually distinctive documents in early modern English alchemy, surviving in multiple manuscript copies (Princeton, Huntington, Getty, Yale). It synthesizes Ripley's Compound of Alchymie (1471) into a continuous visual narrative: reading from top to bottom, it stages the alchemical process as a royal drama of death, marriage, and resurrection. This copy is attributed to Leonard Smethley and held at Princeton University Library.",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_ripley1",
+    "rights": "Public Domain — 16th century manuscript. Princeton University Library.",
+    "creator": "George Ripley (attr.); Leonard Smethley (scribe/artist)",
+    "date": "c. 1570 CE",
+    "century": 16,
+    "place": "England",
+    "region": "Western Europe",
+    "short_id": "PRL1",
+    "language": "Middle English",
+    "provenance_url": "https://dpul.princeton.edu/catalog/05741w45s",
+    "motifs": ["Ripley scroll", "alchemical roll", "George Ripley", "alchemy", "roundel", "Green Lion", "pelican", "Red Man", "White Woman", "king and queen", "sulphur and mercury", "Great Work", "alchemical process", "English alchemy", "parchment roll", "illustrated manuscript"]
+  },
+  "entries": [
+    {
+      "id": "princeton_ripley1__ripley-alchemical-scroll-full",
+      "title": "Ripley Alchemical Scroll — Full Roll, Princeton (c. 1570)",
+      "date": "c. 1570 CE",
+      "place": "England",
+      "medium": "parchment roll, pigment and ink, 7 membranes (3720 × 275 mm)",
+      "rights": "Public Domain. Princeton University Library, Princeton, NJ.",
+      "provenance_url": "https://dpul.princeton.edu/catalog/05741w45s",
+      "summary": "The complete Ripley Alchemical Scroll from Princeton University Library, copied by Leonard Smethley (c. 1570), reproduced here as a single continuous image of the full parchment roll. Reading from top to bottom: alchemical roundels, emblematic figures, and Middle English verses guide the reader through the seven stages of the Great Work. Successive scenes include: the putrefying king in the earth, the Green Lion devouring the sun, the queen with moon and star, the pelican at the tower (nourishing its young with its own blood — an emblem of the Stone multiplying itself), the alchemical king and queen in conjunction, and finally the triumphant red king holding the crowned Stone. The scroll synthesizes Ripley's Compound of Alchymie into a visual programme: the alchemical process is staged as a royal drama of death (nigredo), purification (albedo), and glorification (rubedo). Each roundel is an instruction painted in symbolic code; the verses gloss the images. The Ripley Scroll was used as a practical guide in 16th–17th-century English alchemical workshops and also as an object of courtly display, explaining its high material quality.",
+      "motifs": ["Ripley scroll", "alchemical roll", "George Ripley", "alchemy", "Great Work", "nigredo", "albedo", "rubedo", "Green Lion", "pelican", "king and queen", "alchemical marriage", "conjunctio", "sulphur and mercury", "philosopher's stone", "roundel", "Middle English", "parchment roll"],
+      "tier": "illustration"
+    }
+  ]
+}

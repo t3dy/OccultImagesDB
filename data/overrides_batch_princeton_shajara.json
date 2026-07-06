@@ -1,0 +1,60 @@
+{
+  "_work": {
+    "key": "princeton_shajara",
+    "title": "Al-Shajara al-Muthimara — Geomancy Treatise (Princeton, Garrett Collection)",
+    "tradition": "divination",
+    "era": "medieval",
+    "blurb": "A manuscript treatise on geomancy (ilm al-raml — the science of sand) by Khalaf al-Barbari, 46 leaves (92 pages), illustrated with tables and diagrams, held at Princeton University Library (Garrett Collection). The full title is al-Shajara al-Muthimara li-Taysir al-Nuqta al-Mu'tabara (The Fruitful Tree for Facilitating the Respected Point). Geomancy (ilm al-raml) is a divination system based on 16 binary figures (each composed of 4 rows of 1 or 2 points) that was transmitted from the Arabic world to medieval Europe where it became widespread. The Arabic tradition distinguishes 16 figures (al-ashkal) with their planetary, elemental, directional, seasonal, and binary properties; the treatise organizes these into systematic tables mapping each figure to its attributes. The tables in this Princeton MS — showing which figures are 'present' or 'absent', 'mobile' or 'stable', oriented 'east', 'west', 'north', or 'south' — are the operational core of the geomantic system, used to interpret horoscopic figure charts. The manuscript is a practical working reference rather than a philosophical treatise.",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "princeton_shajara",
+    "rights": "Public Domain — manuscript (date unknown). Princeton University Library (Garrett Collection).",
+    "creator": "Khalaf al-Barbari",
+    "date": "c. 14th–15th century CE",
+    "century": 15,
+    "place": "Islamic world",
+    "region": "Islamicate world",
+    "short_id": "SHJR",
+    "language": "Arabic",
+    "provenance_url": "https://dpul.princeton.edu/catalog/br86b363q",
+    "motifs": ["geomancy", "ilm al-raml", "raml", "geomantic figures", "ashkal", "divination", "Arabic divination", "geomancy table", "binary figures", "Islamic science", "Garrett collection", "Princeton manuscript"]
+  },
+  "entries": [
+    {
+      "id": "princeton_shajara__geomancy-table-ashkal-p12",
+      "title": "Geomancy Table of the 16 Figures (Ashkal) — Al-Shajara al-Muthimara (p. 12)",
+      "date": "c. 14th–15th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/catalog/br86b363q",
+      "summary": "A tabular page from al-Shajara al-Muthimara, a Princeton geomancy treatise, showing systematic mapping of the 16 geomantic figures (al-ashkal) to their properties. The table is organized in rows and columns with Arabic text headers and figure names in cells, representing the foundational reference chart of the geomantic system. In ilm al-raml, the 16 figures (each a vertical stack of 4 rows, each row containing 1 or 2 points) are generated from a random process (points drawn in sand, or thrown) and then organized into a horoscopic chart of 16 positions. The table allows the practitioner to look up each figure's attributes and interpret the chart accordingly. This page shows the systematic, tabular presentation of geomantic knowledge that characterizes the learned Arabic tradition — contrasting with the more schematic or pictographic presentation in folk and European geomancy traditions.",
+      "motifs": ["geomancy", "ilm al-raml", "geomantic figures", "ashkal", "divination table", "Islamic divination", "systematic table", "raml", "Arabic science"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_shajara__geomancy-table-directions-p13",
+      "title": "Geomancy Table: Days, Nights, Directions — Al-Shajara al-Muthimara (p. 13)",
+      "date": "c. 14th–15th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/catalog/br86b363q",
+      "summary": "A reference table from al-Shajara al-Muthimara (Princeton) mapping each geomantic figure to its temporal and directional properties: columns head with 'Ayyam al-Ashkal' (Days of the Figure), 'Layali al-Ashkal' (Nights of the Figure), and 'Jihat al-Ashkal' (Direction of the Figure), with values such as sharqi (east), shamali (north), janubi (south), and gharbi (west). In geomantic interpretation, each figure has not only a planetary and elemental assignment but also diurnal/nocturnal quality (affecting which figures are active at day or night) and a geographic direction. These properties determine how a figure in the horoscopic chart should be interpreted: a 'northern' figure in the house of travel indicates a journey northward; a 'nocturnal' figure asked about in daylight is weakened. This table is an operational reference chart — a condensed lookup tool for the practicing geomancer.",
+      "motifs": ["geomancy", "ilm al-raml", "geomantic figures", "directions", "east west north south", "divination table", "temporal properties", "Islamic divination", "raml", "systematic table"],
+      "tier": "illustration"
+    },
+    {
+      "id": "princeton_shajara__geomancy-table-presence-p15",
+      "title": "Geomancy Table: Presence, Absence, Movement — Al-Shajara al-Muthimara (p. 15)",
+      "date": "c. 14th–15th century CE",
+      "place": "Islamic world",
+      "medium": "manuscript, ink on paper",
+      "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+      "provenance_url": "https://dpul.princeton.edu/catalog/br86b363q",
+      "summary": "A geomantic reference table from al-Shajara al-Muthimara (Princeton) organized around four key interpretive categories: 'Muntaqil' (mobile/moving), 'Thabit' (stable/fixed), 'Fari' (empty/absent), and 'Mawjud' (present/existing). These four properties — combining with directional and temporal properties from the adjacent table (p. 13) — give the geomancer a complete attribute-set for each of the 16 figures. Whether a figure is 'present' (mawjud) or 'absent' (fari) determines whether what is asked about exists or has been lost; whether it is 'mobile' (muntaqil) or 'fixed' (thabit) determines whether a situation is developing or settled. The table format — rows for figures, columns for properties — represents the rationalized, learned Arabic approach to geomancy as a systematic science (ilm) rather than a purely intuitive or folk art. The red-ink column headers and figure names reflect standard manuscript formatting for operational reference tables.",
+      "motifs": ["geomancy", "ilm al-raml", "geomantic figures", "presence absence", "mobile fixed", "divination table", "Islamic divination", "raml", "systematic table", "interpretive properties"],
+      "tier": "illustration"
+    }
+  ]
+}
