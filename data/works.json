@@ -2353,5 +2353,20 @@
     "rights": "Public Domain — Islamic manuscript, 1700-1835 CE. Princeton University Library (Garrett Collection).",
     "blurb": "An oversize Arabic divination manuscript, 38 leaves (80 pages), held at Princeton University Library (Oversize Islamic Manuscripts, Garrett no. 551Hq). The Qur'at al-Khulafa' al-Abbasiyya Umara' al-Mu'minin (Oracle/Lottery of the Abbasid Caliphs, Commanders of the Faithful) is a systematic oracle book organized around the Abbasid Caliphs — each Caliph providing a set of verse-predictions in a two-column format for different query types. The MS is visually extraordinary: it contains seven full-page illuminated concentric-ring circle diagrams (dawa'ir) labeled by topic — Caliphs, Tribes, Women, Turks, Birds, Cities — and a grid page showing eight smaller oracle circles. These circles function as divinatory instruments: the querent follows a procedure involving letters and numbers (via the Zairja or qur'a system) to arrive at a specific cell in the concentric rings, which then directs them to the appropriate Caliph oracle section. Each circle has a gold or blue-grey decorative background in the outer ring, with alternating red and black Arabic text in the inner rings, and decorative cloud-curl corner ornaments. The combination of Islamic calligraphy, geometric diagrammatic precision, and cosmological structure makes these circles among the most visually striking Islamic divination diagrams in any collection.",
     "count": 9
+  },
+  {
+    "key": "princeton_falak",
+    "title": "Majmūʻ fī al-falak — Collection on Timekeeping and Astronomical Instruments (Princeton, Garrett no. 3442Y)",
+    "creator": "Multiple authors (composite codex)",
+    "date": "1533–1667 CE",
+    "era": "early modern",
+    "tradition": "astrology",
+    "tier": "illustration",
+    "place": "Islamic world (Ottoman context)",
+    "language": "Arabic",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/dz010q113",
+    "rights": "Public Domain — 1533–1667 CE manuscript. Princeton University Library (Garrett Collection).",
+    "blurb": "A composite Arabic codex of 19 distinct texts on timekeeping and astronomical instruments (Majmū' fī al-Falak), 125 leaves, spanning 1533–1667 CE, held at Princeton University Library (Garrett no. 3442Y). The collection gathers short treatises on the sine quadrant (rub' al-mujib), the solar quadrant, the horoscope (ahkam al-nujum), the sundial, and related astronomical calculation methods. The manuscript contains texts by multiple authors in nastaliq and naskh hands, along with zodiac classification tables, calendar correlation tables, and numeric calculation grids. The zodiac tables — which appear near the end of the codex alongside astrological treatises — organize the 12 zodiac signs by their elemental qualities (fire, water, air, earth), humoral correspondences, and calendar placements, making the manuscript a working reference for Islamic timekeeping and astrological practice. One table correlates Persian month names (Farvardin through Isfand) with the zodiac signs they fall in and the number of days in each. These tables are typical of the jadwal tradition of Islamic scientific manuscripts — compact, grid-form visual summaries of information otherwise scattered across prose texts.",
+    "count": 2
   }
 ]

@@ -101545,6 +101545,55 @@
     "tier": "illustration"
   },
   {
+    "id": "princeton_falak__zodiac-calendar-months-table-p44",
+    "title": "Persian Calendar Months + Zodiac Signs Correspondence Table (Majmū' fī al-Falak, p. 44)",
+    "date": "1533–1667 CE",
+    "place": "Islamic world (Ottoman context)",
+    "medium": "manuscript, ink on paper",
+    "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/dz010q113",
+    "summary": "A bordered jadwal (systematic table) from a Princeton composite astronomy codex (Garrett 3442Y) correlating the 12 Persian solar months with the zodiac signs (buruj) they fall in, along with day counts. The table is organized in a 5-column, 4-row grid: column headers give the Persian month names (from Farvardin/Aries through Isfand/Pisces — the 12 months of the Persian solar year as aligned with the zodiac), and each cell contains the Arabic name of the corresponding zodiac sign with the number of days. Visible zodiac signs include: Hamal (Aries), Thawr (Taurus), Jauza' (Gemini), Saratan (Cancer), Asad (Leo), Sunbulah (Virgo), Mawazin/Mizan (Libra), 'Aqrab (Scorpio), Qaws/Qawsiya (Sagittarius), Jadi (Capricorn), Dalw (Aquarius), Hut (Pisces). Day counts visible include 30, 31, 38 (likely a Persian calendar month crossing a zodiac boundary). The Persian solar year (Nowruz calendar) aligns closely with the zodiac because both are based on the Sun's position — making this table a conversion tool between Persian date-keeping and astrological zodiac position, essential for Islamic astronomers and astrologers who worked in both Persian and Arabic calendar systems simultaneously. The table is accompanied by a short prose text above and below explaining the context.",
+    "motifs": [
+      "zodiac signs",
+      "Persian months",
+      "calendar table",
+      "jadwal",
+      "buruj",
+      "Islamic astronomy",
+      "Nowruz calendar",
+      "zodiac correspondence",
+      "astrology",
+      "Aries through Pisces",
+      "timekeeping"
+    ],
+    "tier": "illustration"
+  },
+  {
+    "id": "princeton_falak__zodiac-signs-classification-table-p45",
+    "title": "Zodiac Signs Classification Table (Elemental Properties) — Majmū' fī al-Falak (p. 45)",
+    "date": "1533–1667 CE",
+    "place": "Islamic world (Ottoman context)",
+    "medium": "manuscript, ink on paper",
+    "rights": "Public Domain. Princeton University Library (Garrett Collection).",
+    "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/dz010q113",
+    "summary": "A bordered jadwal (systematic reference table) from a Princeton composite astronomy codex (Garrett 3442Y) classifying the 12 zodiac signs by their qualitative properties — most likely their elemental attribution (fire/air/water/earth), their quality (hot/cold/wet/dry), their gender (masculine/feminine), and their other classification attributes used in Islamic astrological practice. The table is arranged as a bordered grid with Arabic zodiac sign names in cells organized by category rows and columns. Visible zodiac sign names include: 'Aqrab (Scorpio), Hamal (Aries), Asad (Leo), Jauza' (Gemini), Sunbulah (Virgo), Hut (Pisces), Jadi (Capricorn), Thawr (Taurus), Saratan (Cancer), and Mawazin (Libra). In Islamic astrology, the 12 zodiac signs are classified across multiple attribute systems simultaneously: the four elements (fire signs = Aries, Leo, Sagittarius; earth signs = Taurus, Virgo, Capricorn; air signs = Gemini, Libra, Aquarius; water signs = Cancer, Scorpio, Pisces), the triplicities, quadruplicities, hot/cold and wet/dry qualities, diurnal vs. nocturnal, and the four humors. The jadwal format encodes all of these classifications in a compact visual reference that the practitioner could consult while performing a horoscope calculation. This type of zodiac classification table is a standard feature of Arabic astrological handbooks from Ibn Rushd through Ottoman-era compilations, and its presence here (alongside the Persian calendar table on the preceding page) confirms that this section of the Garrett 3442Y codex functions as an astrological reference compendium.",
+    "motifs": [
+      "zodiac signs",
+      "elemental classification",
+      "zodiac properties",
+      "fire earth air water",
+      "jadwal",
+      "astrology",
+      "Islamic astrology",
+      "zodiac classification",
+      "buruj",
+      "triplicities",
+      "Aries through Pisces",
+      "humoral astrology"
+    ],
+    "tier": "illustration"
+  },
+  {
     "id": "princeton_grimoire__circular-hebrew-seal-p15",
     "title": "Circular Hebrew Talisman Seal — Italian Grimoire (p. 15), De Characteribus et Sigillis",
     "date": "18th century CE",

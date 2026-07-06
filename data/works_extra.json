@@ -3591,5 +3591,41 @@
    "illuminated diagram",
    "Garrett collection"
   ]
+ },
+ {
+  "key": "princeton_falak",
+  "title": "Majmūʻ fī al-falak — Collection on Timekeeping and Astronomical Instruments (Princeton, Garrett no. 3442Y)",
+  "tradition": "astrology",
+  "era": "early modern",
+  "blurb": "A composite Arabic codex of 19 distinct texts on timekeeping and astronomical instruments (Majmū' fī al-Falak), 125 leaves, spanning 1533–1667 CE, held at Princeton University Library (Garrett no. 3442Y). The collection gathers short treatises on the sine quadrant (rub' al-mujib), the solar quadrant, the horoscope (ahkam al-nujum), the sundial, and related astronomical calculation methods. The manuscript contains texts by multiple authors in nastaliq and naskh hands, along with zodiac classification tables, calendar correlation tables, and numeric calculation grids. The zodiac tables — which appear near the end of the codex alongside astrological treatises — organize the 12 zodiac signs by their elemental qualities (fire, water, air, earth), humoral correspondences, and calendar placements, making the manuscript a working reference for Islamic timekeeping and astrological practice. One table correlates Persian month names (Farvardin through Isfand) with the zodiac signs they fall in and the number of days in each. These tables are typical of the jadwal tradition of Islamic scientific manuscripts — compact, grid-form visual summaries of information otherwise scattered across prose texts.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "princeton_falak",
+  "rights": "Public Domain — 1533–1667 CE manuscript. Princeton University Library (Garrett Collection).",
+  "creator": "Multiple authors (composite codex)",
+  "date": "1533–1667 CE",
+  "century": 16,
+  "place": "Islamic world (Ottoman context)",
+  "region": "Islamicate world",
+  "short_id": "FLAK",
+  "language": "Arabic",
+  "provenance_url": "https://dpul.princeton.edu/islamicmss/catalog/dz010q113",
+  "motifs": [
+   "astronomy",
+   "timekeeping",
+   "zodiac",
+   "astrolabe",
+   "quadrant",
+   "sijill",
+   "Islamic astronomy",
+   "Islamic calendar",
+   "Persian months",
+   "jadwal",
+   "zodiac classification",
+   "sine quadrant",
+   "rub' al-mujib",
+   "astronomical instruments",
+   "Garrett collection"
+  ]
  }
 ]
