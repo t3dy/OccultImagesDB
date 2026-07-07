@@ -334,6 +334,15 @@ If found, IIIF manifests follow: https://content.staatsbibliothek-berlin.de/dc/{
 
 Session also completed: enrichment scripts `enrich_western_nocit.py` (87 entries across Ars Notoria 23, Abramelin 20, Conjuration 22, Necromantic 18, Grimoire/Adepts/Ouroboros/Process) and `enrich_remaining.py` (120 entries: ordinal_alchemy, barchusen_elementa, islamic_talismans, ia_shams_ms, hildegard_bingen, islamicate_occult/geomancy, shams_al_maarif, ars_notoria, sefer_yetzirah, prophecy_figurae, atalanta_fugiens). RESULT: 0/3348 entries without citations.
 
+**Session 2026-07-06 session 9 — Wellcome Ripley Scrolls + scholar completion:**
+| Ripley Scroll — Wellcome WT303 (b18968831) | Wellcome IIIF v2: `https://iiif.wellcomecollection.org/presentation/v2/b18968831` | ✅ DONE — `wellcome_ripley_wt303` (19 canvas sections of the WT303 scroll; icons: opening philosopher, green lion, toad/eagle, Sol-Luna conjunction, pelican, nigredo, white queen, red king, + verse panels; full Rampling/Obrist/Principe/Szulakowska citations) |
+| Ripley Scroll — Wellcome b18597762 | Wellcome IIIF v2: `https://iiif.wellcomecollection.org/presentation/v2/b18597762` | ✅ DONE — `wellcome_ripley_ms693` (14 canvas sections) |
+| Rotulum hieroglyphicum — M0010601-M0010606 | Wellcome catalog API + v2 IIIF per b-number | ✅ DONE — `wellcome_rotulum` (6 individual illustrations: alchemist+alembic, 2x fountain-on-column, golden eagle on sphere, green dragon, philosopher-with-scroll) |
+
+Session also completed: `add_missing_scholars.py` (Obrist+Principe to Mylius 134, Viridarium 108; Szulakowska+Obrist+Principe to Ripley 16 Princeton entries). All 55 Ripley entries (Princeton + Wellcome) now have Rampling+Obrist+Principe+Szulakowska. RESULT: 0/3387 entries without citations. 174 works, 3332 catalog items.
+
+Wellcome IIIF access pattern: Wellcome catalog API gives b-number in items[].locations[].url. Use v2 manifests (v3 returns 404). Catalog search: `https://api.wellcomecollection.org/catalogue/v2/works?query={q}&pageSize=10`. Manifest: `https://iiif.wellcomecollection.org/presentation/v2/{b-number}`.
+
 **Gallica (BnF) — CAPTCHA BLOCKER:**
 - All Gallica API endpoints (SRU, IIIF) return ALTCHA captcha to browser OR 403 to Python
 - The Gallica viewer works on homepage but all search/API routes are blocked
