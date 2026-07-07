@@ -4,6 +4,20 @@ Generated 2026-07-04 from research session on Segol, al-Buni, lettrism, and kabb
 
 ---
 
+## SESSION 2026-07-07 — Geheime Figuren der Rosenkreuzer (COMPLETED)
+
+35 plates successfully sourced and cataloged in OCCULTIMGDB (works: `geheime_figuren_wellcome` + `geheime_figuren`).
+
+**Sources used:**
+- Wellcome Library digitization via Wikimedia Commons: L0045259–L0045288 (28 plates, "Rosicrucian symbols from the 16th and17th Wellcome" series). Images at ~2700×3700px original; downloaded as 1200px thumbnails (Wikimedia thumbnail API).
+- Direct Commons uploads: `Geheime_Figuren_der_Rosenkreuzer_1785-p{N}.jpg` — cover, p13, p14, p16, p18, p28, p50. Downloaded at 1500px.
+
+**Commons rate-limit workaround:** Use Wikimedia API `imageinfo` with `iiurlwidth=1200` to get pre-approved thumbnail URLs; don't hit full-resolution Commons direct URLs without longer delays (they rate-limit at 429 after 2 images).
+
+**Remaining Geheime Figuren:** Approximately 50% of the complete plate set is covered. The 1786 second volume and 1788 Eckhardt supplement have additional plates not yet sourced. Commons has `File:Secret Symbols of the Rosicrucians of the 16th and 17th Centuries, Book 2 (IA SecretSymbolsOfTheRosicruciansBook2J.D.A.Eckhardt1788).pdf` — individual pages not yet extracted.
+
+---
+
 ## PART 1 — Segol Manuscript Diagrams (High-Priority)
 
 These are the actual manuscript images analyzed in Marla Segol, *Word and Image in
