@@ -2533,5 +2533,35 @@
     "rights": "Public Domain — 17th century CE manuscript. Princeton University Library.",
     "blurb": "A 17th-century Arabic manuscript at Princeton University Library (Islamic Manuscripts collection, figgy 05fc8244) comprising seven complete alchemical treatises bound together in a single volume of 190 leaves (388 IIIF canvases). The first and primary treatise is Lawh al-Dhahab (لوح الذهب — The Gold Tablet), followed by six further treatises covering the full range of Jabirian practical alchemy: mercury operations (tadbīr al-zaybaq), sulphur treatments (tadbīr al-kibrīt), calcination of metals (taklīs al-dhahab / al-fiḍḍa / al-naḥs / al-zinj), sublimation, compound preparations, and theory of the balance (al-mīzān). The front matter of the codex is exceptional: it contains a multi-page detailed table of contents indexing operations by page number (fihrist), followed by two formal alchemical jadāwil (quality tables, fols. 4r–4v) — ruled grids that systematize each metal and mineral according to its degrees of the four Galenic qualities (hot/cold/wet/dry), in the tradition of Jabir ibn Hayyan's Mīzān (Balance) theory. The texts explicitly cite Jabir ibn Hayyan, al-Rāzī, Roger Bacon ('Rajār Bākūn'), and Albertus Magnus, reflecting the synthesis of Arabic and Latin alchemical traditions that characterized Ottoman-era scientific manuscripts. A distinctive feature of this MS is that the text throughout all seven treatises is written in a diagonal script orientation — alternating direction lines on each page — a compositional strategy unusual even among Arabic alchemical manuscripts. The opening page of the first treatise includes a 3×3 letter square with the letter pattern ن/و/ا (nūn/wāw/alif) forming a talisman-like grid, alongside ownership annotations. Princeton University Library, Islamic MSS, figgy UUID 05fc8244.",
     "count": 3
+  },
+  {
+    "key": "princeton_astrocomp",
+    "title": "Astrological Compendium — Irshad-i Usturlāb and Seven Treatises (Princeton OPenn Islamic MSS, Persian 1670)",
+    "creator": "primary: Nāṣir ibn Ḥaydar (Irshād-i Usṭurlāb); further: Abū Al-Khayr Muḥammad Taqī Fārsī (Maṭāliʻʹnāmah); tradition of Abū Maʻshar",
+    "date": "1670 CE (AH 1081)",
+    "era": "early modern",
+    "tradition": "astrology",
+    "tier": "illustration",
+    "place": "Iran",
+    "language": "Persian",
+    "provenance_url": "https://figgy.princeton.edu/concern/scanned_resources/68f32e92-fcc5-4e24-98de-c41877503d0a",
+    "rights": "Public Domain — 1670 CE Persian manuscript. Princeton University Library.",
+    "blurb": "A Persian astrological compendium copied in 1670 CE (AH 1081), comprising seven treatises on astrology, the astrolabe, astronomical tables, and astrological judgment (Princeton University Library, OPenn Islamic Manuscripts, figgy 68f32e92, ark:/88435/dc41687w42j). The primary work is Irshād-i Usṭurlāb (Guidance on the Astrolabe) by Nāṣir ibn Ḥaydar; further treatises cover lunar eclipses, planetary risings and settings, astronomical tables (zīj), Maṭāliʻʹnāmah (Book of Ascendants) by Abū Al-Khayr Muḥammad Taqī Fārsī, and astrological judgments drawn from the tradition of Abū Maʻshar. The manuscript is written in elegant Persian nastaʻlīq script with extensive red-ink rubrication marking chapter headings and key technical terms. The codex is physically extraordinary: bound in fine black leather with elaborate gold-tooled mandorla binding — a large polylobed central medallion (shamseh) surrounded by arabesque filigree tooling on both front and back covers, with cartouches containing calligraphic owner inscriptions on the vertical axis. Two smaller diamond cartouches and a chain-pattern gilt border complete the design. The binding bears the name Ibrāhīm ibn Muḥammad Bāqir on the pendant cartouches. The manuscript passed through distinguished later ownership: it belonged to Muḥammad ʻAlī al-Iṣfahānī, then to Prince Sadruddin Aga Khan (the Swiss-based diplomat and art collector who assembled one of the finest Islamic manuscript libraries of the 20th century), and was acquired by Lawrence J. Schoenberg in 2001 before reaching Princeton. The front matter includes an ownership leaf (fol. 1r) covered with astrological calculations and multiple owner seals from its provenance chain, and the text contains a formal astrological planetary classification table (fol. 78r) with symbolic planetary headers and six rows of descriptive text for each planet's characteristics.",
+    "count": 4
+  },
+  {
+    "key": "compendium_maleficarum",
+    "title": "Compendium Maleficarum — Guazzo's Demonological Woodcut Cycle (1608/1626)",
+    "creator": "Francesco Maria Guazzo; woodcuts anonymous (Milan, 1608)",
+    "date": "1608 (first edition); 1626 (second edition)",
+    "era": "early modern",
+    "tradition": "witchcraft",
+    "tier": "illustration",
+    "place": "Milan",
+    "language": "Latin",
+    "provenance_url": "https://archive.org/details/compendium-maleficarum-engraving-122-panorama",
+    "rights": "Public Domain — 1608 CE printed book illustrations. Francesco Maria Guazzo. Photographs from Internet Archive.",
+    "blurb": "The visual compendium of early modern witchcraft iconography. Francesco Maria Guazzo's *Compendium Maleficarum* (first edition Milan 1608; second edition Milan 1626) is a Dominican friar's systematic demonological treatise illustrated by a cycle of 22 engraved woodcuts that constituted the most comprehensive and widely reproduced visual catalogue of witchcraft practices in the early modern period. Unlike the earlier *Malleus Maleficarum* (1486), which had no illustrations, Guazzo's work presented each category of diabolical act — the pact with the Devil, the mark, apostasy, the sabbath with dancing and feasting, weather magic, killing cattle, flight by broomstick and on animals, transformation, harmful magic and maleficium — as a distinct engraved scene. The woodcuts drew on the accumulated tradition of witch imagery established by Hans Baldung Grien (1510), Dürer (1498–1500), and the artist of the *Champion des Dames* (c. 1451), but systematized that tradition into a numbered demonological typology directly keyed to the text's chapter structure. The 1626 edition reproduced the same woodcut cycle as 1608 with minor variations. Guazzo's work was compiled during the height of the witch trials and was used as an authority in Italian, Spanish, and German courts. The woodcuts became the canonical visual reference for sabbath, pact, and maleficium iconography in subsequent demonological literature and persist as the primary visual source for academic study of early modern witchcraft belief.",
+    "count": 2
   }
 ]
