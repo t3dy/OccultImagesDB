@@ -137,12 +137,12 @@
    "why": "The most famous Khunrath engraving; identify it within our khunrath page-scans or source clean.",
    "candidate_sources": [
     {
-     "where": "Wikimedia Commons / our khunrath set",
-     "note": "the round 'ora et labora' plate"
+     "where": "Our khunrath page-scans (alchemist_laboratory__khunrath-laboratory)",
+     "note": "Already cataloged as 'The Alchemist's Laboratory and Oratory' with motifs: laboratory and oratory, ora et labora, praying alchemist. Identified 2026-07-06."
     }
    ],
    "rights": "pd",
-   "status": "proposed",
+   "status": "cataloged",
    "engine": "repository"
   },
   {
@@ -173,12 +173,12 @@
    "why": "The canonical sabbath/pact/flight woodcut suite.",
    "candidate_sources": [
     {
-     "where": "Internet Archive / Wellcome",
-     "note": ""
+     "where": "Internet Archive — compendium-maleficarum-engraving-122-panorama",
+     "note": "Modern photograph composite of all 22 woodcuts from original copper plates. Sourced 2026-07-06."
     }
    ],
    "rights": "pd",
-   "status": "proposed",
+   "status": "sourced",
    "engine": "compendium"
   },
   {
