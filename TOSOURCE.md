@@ -329,6 +329,11 @@ If found, IIIF manifests follow: https://content.staatsbibliothek-berlin.de/dc/{
 | Princeton [Astrological and Magical Treatises] — Abu Ma'shar zodiac invocations (19c Arabic, 528c, OPenn Dropsie/Cyrus Adler) | figgy 4387ee0f | ❌ SKIP — Inspected visually (all 528 thumbs). Working copy with dense Arabic nasta'liq text + red-ink zodiac chapter headings only. No standalone diagrams, tables, or talismanic figures. Not suitable for OCCULTIMGDB. |
 | Princeton [Astrological Compendium] — Irshad-i Usturlāb + 6 treatises (Persian 1670 CE, 168 leaves, ark:/88435/dc41687w42j) | figgy 68f32e92 | ✅ DONE — `princeton_astrocomp` (4 entries: gilt mandorla front cover, ownership leaf with owner seals + astrological calculations fol. 1r, astrological planetary classification table with symbolic column headers fol. 78r, gilt mandorla back cover, 2026-07-06) |
 
+**Session 2026-07-06 session 8 — Guazzo + Western enrichment:**
+| Compendium Maleficarum woodcuts (Guazzo, 1608) | IA: compendium-maleficarum-engraving-122-panorama | ✅ DONE — `compendium_maleficarum` (1 composite entry: all22woodcuts-composite.jpg showing all 22 demonological woodcuts, Guazzo pact/sabbath/maleficium cycle; 8 citations: Zika, Levack, Roper, Clark, Bailey, Kors/Peters, Guazzo/Summers, Malleus Maleficarum; 2026-07-06) |
+
+Session also completed: enrichment scripts `enrich_western_nocit.py` (87 entries across Ars Notoria 23, Abramelin 20, Conjuration 22, Necromantic 18, Grimoire/Adepts/Ouroboros/Process) and `enrich_remaining.py` (120 entries: ordinal_alchemy, barchusen_elementa, islamic_talismans, ia_shams_ms, hildegard_bingen, islamicate_occult/geomancy, shams_al_maarif, ars_notoria, sefer_yetzirah, prophecy_figurae, atalanta_fugiens). RESULT: 0/3348 entries without citations.
+
 **Gallica (BnF) — CAPTCHA BLOCKER:**
 - All Gallica API endpoints (SRU, IIIF) return ALTCHA captcha to browser OR 403 to Python
 - The Gallica viewer works on homepage but all search/API routes are blocked
