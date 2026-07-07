@@ -83,12 +83,12 @@
    "why": "Several spectacular scrolls survive (Wellcome, Huntington, BL, Getty); catalog the image, list witnesses.",
    "candidate_sources": [
     {
-     "where": "Wellcome Collection",
-     "note": "IIIF, CC0"
+     "where": "Wellcome Collection — sourced 2026-07-06",
+     "note": "3 Wellcome witnesses sourced via IIIF: WT303 (b18968831, 19 sections), b18597762 (14 sections), and 6 Rotulum hieroglyphicum illustrations (M0010601-M0010606). Princeton witnesses (Smethley + Taylor) already in DB. Huntington, BL, Getty still outstanding."
     }
    ],
    "rights": "pd",
-   "status": "proposed",
+   "status": "partial",
    "engine": "repository"
   },
   {

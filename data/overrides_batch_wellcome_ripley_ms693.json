@@ -1,0 +1,873 @@
+{
+ "_work": {
+  "key": "wellcome_ripley_ms693",
+  "title": "Ripley Scroll — Wellcome b18597762",
+  "tradition": "western_alchemy",
+  "era": "renaissance",
+  "blurb": "A second Wellcome Collection Ripley Scroll witness (b18597762), photographed in 14 sections. English alchemical parchment roll in the Ripley tradition (c.1500–1600), narrating the Great Work through emblematic painting and verse.",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "wellcome_ripley_ms693",
+  "rights": "Public Domain. Wellcome Collection open access.",
+  "creator": "English alchemical tradition (Ripley circle)",
+  "date": "ca. 1500–1600",
+  "century": 16,
+  "place": "England",
+  "region": "Western Europe",
+  "short_id": "WRM6",
+  "language": "Middle English",
+  "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+  "motifs": [
+   "Ripley scroll",
+   "alchemical roll",
+   "George Ripley",
+   "English alchemy",
+   "green lion",
+   "pelican",
+   "Sol and Luna",
+   "Great Work"
+  ]
+ },
+ "entries": [
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c01",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 1 — Opening Section",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "alchemist philosopher",
+    "scroll opening",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c02",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 2 — Green Lion and Dissolution Stage",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "green lion",
+    "dissolution",
+    "corrosion",
+    "philosophical sulphur"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c03",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 3 — Toad, Eagle and Dual Principles",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "toad",
+    "eagle",
+    "fixed and volatile",
+    "sulphur mercury"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c04",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 4 — Dissolution and Calcinaton",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "dissolution",
+    "calcination",
+    "alchemical stages",
+    "philosophical fire"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c05",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 5 — Solar-Lunar Conjunction",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "Sol",
+    "Luna",
+    "conjunction",
+    "philosophical marriage"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c06",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 6 — Pelican and Multiplication",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "pelican",
+    "multiplication",
+    "philosophical pelican",
+    "self-sacrifice"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c07",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 7 — Wide Illustrated Panel (Conjunction or Vessel Scene)",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "conjunction vessel",
+    "philosophical egg",
+    "wide panel",
+    "coniunctio"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c08",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 8 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c09",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 9 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c10",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 10 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c11",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 11 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c12",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 12 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c13",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 13 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  },
+  {
+   "id": "wellcome_ripley_ms693__ripley-scroll-b18597762-c14",
+   "title": "Ripley Scroll (Wellcome b18597762) — Section 14 — Closing Panel",
+   "work": "Ripley Scroll (Wellcome b18597762)",
+   "creator": "English alchemical tradition (Ripley circle)",
+   "date": "ca. 1500–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/m4h6yewy",
+   "motifs": [
+    "closing text",
+    "colophon",
+    "scroll ending"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "A second Wellcome Ripley Scroll witness (Wellcome Library b18597762), photographed in 14 IIIF sections via the Wellcome Collection. This parchment roll preserves the Ripley Scroll iconographic tradition — the canonical English alchemical scroll attributed to George Ripley (c.1415–1490) and his circle — in a distinct manuscript copy with variant compositional choices compared to the WT303 copy.\n\n## Iconography\n\nLike all Ripley Scrolls, this manuscript narrates the alchemical Great Work through a sequence of emblematic paintings on parchment: the philosopher-alchemist bearing the scroll of the Work; corrosion scenes (green lion, toad/eagle); the philosophical conjunction of Sol and Luna; the pelican of multiplication; and the progressive stages of the Work through nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red) to the final triumphant Red King. Sections 1–7 (heavier file weights at 145–157KB) preserve the illustrated panels; sections 8–14 are predominantly verse text.\n\n## Significance\n\nThis second Wellcome witness allows comparative study with the WT303 copy, illuminating how different scribes and artists adapted the standard Ripley Scroll program for different patrons. Jennifer Rampling (*The Experimental Fire*) has systematically analyzed the corpus of surviving Ripley Scrolls, demonstrating how the tradition transmitted and transformed Ripley's alchemical poetics across a century and a half of English alchemy.\n\n## For artists & game designers\n\nThe slightly different proportions (several canvases are notably wider than WT303) suggest variant panel sizing — offering alternative aspect ratios for game card design. The first seven illustrated sections provide a directly usable sequence of emblematic images for character art, level-select screens, or tarot-style card decks.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome b18597762"
+  }
+ ]
+}

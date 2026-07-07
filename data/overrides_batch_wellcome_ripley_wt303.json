@@ -1,0 +1,1194 @@
+{
+ "_work": {
+  "key": "wellcome_ripley_wt303",
+  "title": "Ripley Scroll — Wellcome WT 303 (b18968831)",
+  "tradition": "western_alchemy",
+  "era": "renaissance",
+  "blurb": "The Wellcome WT 303 Ripley Scroll: a 16th-century English alchemical parchment roll photographed in 19 IIIF sections, narrating the Great Work from prima materia to the Philosopher's Stone through emblematic images and verse stanzas attributed to George Ripley (c.1415–1490).",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "wellcome_ripley_wt303",
+  "rights": "Public Domain. Wellcome Collection open access.",
+  "creator": "George Ripley (attributed); English alchemical tradition",
+  "date": "ca. 1570–1600",
+  "century": 16,
+  "place": "England",
+  "region": "Western Europe",
+  "short_id": "WRT3",
+  "language": "Middle English",
+  "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+  "motifs": [
+   "Ripley scroll",
+   "alchemical roll",
+   "George Ripley",
+   "English alchemy",
+   "green lion",
+   "pelican",
+   "red king",
+   "white queen",
+   "Sol and Luna",
+   "Great Work"
+  ]
+ },
+ "entries": [
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c02",
+   "title": "Ripley Scroll WT303 — Opening Section — Philosopher-Alchemist Figure",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "alchemist philosopher",
+    "staff",
+    "book of seven seals",
+    "opening figure",
+    "scroll",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c03",
+   "title": "Ripley Scroll WT303 — The Green Lion Devouring the Sun (Corrosion Stage)",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "green lion",
+    "devouring sun",
+    "gold dissolution",
+    "corrosion",
+    "philosophical sulphur"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c04",
+   "title": "Ripley Scroll WT303 — Toad and Eagle — Fixed and Volatile Principles",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "toad",
+    "eagle",
+    "fixation",
+    "volatility",
+    "sulphur and mercury",
+    "fixed and volatile"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c05",
+   "title": "Ripley Scroll WT303 — Philosophical Marriage — Sol and Luna in Conjunction",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "Sol",
+    "Luna",
+    "conjunction",
+    "philosophical marriage",
+    "king and queen",
+    "coniunctio"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c06",
+   "title": "Ripley Scroll WT303 — The Pelican — Alchemical Multiplication",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "pelican",
+    "feeding young",
+    "multiplication",
+    "self-sacrifice",
+    "philosophical pelican"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c07",
+   "title": "Ripley Scroll WT303 — Philosophical Vessel and Dragon (Nigredo / Putrefaction)",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "dragon",
+    "vessel",
+    "putrefaction",
+    "nigredo",
+    "black stage",
+    "philosophical egg"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c08",
+   "title": "Ripley Scroll WT303 — White Queen — Albedo and Silver Stage",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "white queen",
+    "albedo",
+    "whitening",
+    "silver",
+    "coronation",
+    "queen's crown"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c09",
+   "title": "Ripley Scroll WT303 — Red King Triumphant — Rubedo and Projection",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "A",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "red king",
+    "rubedo",
+    "projection",
+    "philosopher's stone",
+    "coronation",
+    "triumph"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c10",
+   "title": "Ripley Scroll WT303 — Verse Text Panel — Compound of Alchymie, Stage Commentary",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "verse text",
+    "English alchemy",
+    "Ripley poetry",
+    "Compound of Alchymie",
+    "stage commentary"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c11",
+   "title": "Ripley Scroll WT303 — Verse Text Panel — Stage Commentary",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "verse text",
+    "English alchemy",
+    "Ripley poetry",
+    "stage commentary"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c12",
+   "title": "Ripley Scroll WT303 — Verse Text Panel — Stage Commentary",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "verse text",
+    "English alchemy",
+    "stage commentary"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c13",
+   "title": "Ripley Scroll WT303 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c14",
+   "title": "Ripley Scroll WT303 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c15",
+   "title": "Ripley Scroll WT303 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c16",
+   "title": "Ripley Scroll WT303 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c17",
+   "title": "Ripley Scroll WT303 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c18",
+   "title": "Ripley Scroll WT303 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c19",
+   "title": "Ripley Scroll WT303 — Verse Text Panel",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "verse text",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  },
+  {
+   "id": "wellcome_ripley_wt303__ripley-scroll-b18968831-c20",
+   "title": "Ripley Scroll WT303 — Closing Section — Colophon or Final Panel",
+   "work": "Ripley Scroll (Wellcome WT 303)",
+   "creator": "George Ripley (attributed); English alchemical tradition",
+   "date": "ca. 1570–1600",
+   "place": "England",
+   "era": "renaissance",
+   "tradition": "western_alchemy",
+   "tier": "B",
+   "medium": "manuscript on vellum, pen and watercolor",
+   "figures": "scroll section",
+   "rights": "pd",
+   "provenance_url": "https://wellcomecollection.org/works/b38k86ch",
+   "motifs": [
+    "colophon",
+    "closing text",
+    "scroll ending",
+    "English alchemy"
+   ],
+   "key_concepts": [
+    "English alchemy",
+    "Ripley Scroll",
+    "philosophical stone",
+    "chrysopoeia"
+   ],
+   "summary_status": "complete",
+   "summary": "The Wellcome Ripley Scroll (WT 303, b18968831) is one of the finest surviving manuscript witnesses in the English alchemical scroll tradition attributed to George Ripley (c.1415–1490). The parchment roll is photographed here in 19 sections via the Wellcome Collection IIIF service.\n\n## Iconography\n\nRipley Scrolls are vertical parchment rolls, typically 3–5 metres long, that narrate the alchemical Great Work through a sequence of emblematic images accompanied by Middle English verse stanzas. The standard iconographic program begins with a philosopher-alchemist bearing a staff and scroll, then proceeds through: the corrosion and dissolution stages (green lion devouring the sun; toad devouring the eagle); the philosophical conjunction of king (sol/sulphur) and queen (luna/mercury); alchemical vessels and the stages of the Work; and culminates with the crowned, triumphant Red King — the Philosopher's Stone in its final projection form. The verse texts interspersed between imagery are attributed to Ripley's *Compound of Alchymie* (1471) and allied poems.\n\nKey iconographic symbols include: the **green lion** (vitriol/corrosive; dissolution of gold); the **eagle** (volatility/sublimation); the **toad** (fixation; the earth-bound principle); the **pelican** (multiplication; the pelican feeding her young with her blood is the *multiplicatio* stage); **Sol and Luna** (the royal pair, sulphur and mercury, joined in the philosophical marriage or *coniunctio*); the **nigredo dragon** (putrefaction; matter reduced to its prima materia); the **White Queen** (albedo; the purified silver stage); and the **Red King** (rubedo; the completed Stone).\n\n## Significance\n\nThe Ripley Scroll tradition was enormously influential in English alchemy from c.1480 to c.1650, surviving in approximately 20–25 manuscript copies held at institutions including Princeton, the Huntington Library, the Getty, Yale, and the British Library. Jennifer Rampling's foundational study (*The Experimental Fire*, Chicago 2020) provides the most authoritative analysis of the scroll's textual tradition and its relationship to Ripley's other alchemical writings. Barbara Obrist (*Les Debuts de l'Imagerie Alchimique*) situates the scroll tradition within the broader medieval development of alchemical illustration. Lawrence Principe (*The Secrets of Alchemy*) provides the general scholarly context for English chrysopoeia.\n\nThe Wellcome WT 303 copy is held in the Wellcome Collection and is freely available via IIIF under their open access policy. It is one of the best-preserved colored copies of the scroll.\n\n## For artists & game designers\n\nThe Ripley Scroll is a ready-made visual game structure: each painted panel is a stage or encounter, each symbol a game element. The 9-stage iconographic program maps cleanly to a progression system (corrosion → dissolution → conjunction → calcination → albedo → citrinitas → rubedo → multiplication → projection). The personified figures — green lion, white queen, red king — are direct character art templates. The vertical scroll format suggests game map design: a top-to-bottom level progression where the player descends or ascends through stages of transmutation.",
+   "citations": [
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300--1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Obrist, Barbara. Les Debuts de l'Imagerie Alchimique (XIVe-XVe siecles). Paris: Le Sycomore, 1982.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Abraham, Lyndy. A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998.",
+     "url": ""
+    },
+    {
+     "text": "Linden, Stanton J. (ed.) The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Wellcome Collection (London). Open Access. https://wellcomecollection.org",
+     "url": "https://wellcomecollection.org"
+    }
+   ],
+   "repository": "Wellcome Collection, London",
+   "shelfmark": "Wellcome WT 303 (b18968831)"
+  }
+ ]
+}
