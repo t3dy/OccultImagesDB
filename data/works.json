@@ -1917,7 +1917,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/Category:Islamic_alchemy",
     "rights": "Public domain / CC BY 4.0 / CC BY-SA 4.0 (per item). Via Wikimedia Commons.",
     "blurb": "The alchemy of the medieval Islamic world (9th–17th c.) — the foundational science that transmitted Greek natural philosophy and Indian chemistry through the Arab and Persian scholars to the Latin West. Centered on Jabir ibn Hayyan (Geber) and his vast corpus, this collection gathers portraits of the alchemical masters (al-Razi, Avicenna, al-Kindi, Hunayn ibn Ishaq), diagrams of furnace and retort apparatus, manuscript pages and printed treatises on transmutation and quintessence, and laboratory scenes that depict the Great Work in action. The tradition encompasses the distillation apparatus that defined early chymistry, the Emerald Tablet in Arabic and Persian copies, and the broader hermetic philosophy that shaped both Islamic and European occult thought.",
-    "count": 30
+    "count": 27
   },
   {
     "key": "paracelsus_revolution",
@@ -2562,7 +2562,7 @@
     "provenance_url": "https://archive.org/details/compendium-maleficarum-engraving-122-panorama",
     "rights": "Public Domain — 1608 CE printed book illustrations. Francesco Maria Guazzo. Photographs from Internet Archive.",
     "blurb": "The visual compendium of early modern witchcraft iconography. Francesco Maria Guazzo's *Compendium Maleficarum* (first edition Milan 1608; second edition Milan 1626) is a Dominican friar's systematic demonological treatise illustrated by a cycle of 22 engraved woodcuts that constituted the most comprehensive and widely reproduced visual catalogue of witchcraft practices in the early modern period. Unlike the earlier *Malleus Maleficarum* (1486), which had no illustrations, Guazzo's work presented each category of diabolical act — the pact with the Devil, the mark, apostasy, the sabbath with dancing and feasting, weather magic, killing cattle, flight by broomstick and on animals, transformation, harmful magic and maleficium — as a distinct engraved scene. The woodcuts drew on the accumulated tradition of witch imagery established by Hans Baldung Grien (1510), Dürer (1498–1500), and the artist of the *Champion des Dames* (c. 1451), but systematized that tradition into a numbered demonological typology directly keyed to the text's chapter structure. The 1626 edition reproduced the same woodcut cycle as 1608 with minor variations. Guazzo's work was compiled during the height of the witch trials and was used as an authority in Italian, Spanish, and German courts. The woodcuts became the canonical visual reference for sabbath, pact, and maleficium iconography in subsequent demonological literature and persist as the primary visual source for academic study of early modern witchcraft belief.",
-    "count": 2
+    "count": 1
   },
   {
     "key": "wellcome_ripley_ms693",
@@ -2638,5 +2638,20 @@
     "rights": "Public Domain. Published 1785-1788, well outside copyright.",
     "blurb": "Geheime Figuren der Rosenkreuzer (Secret Figures of the Rosicrucians, Altona 1785-88) is the central emblematic compendium of the Gold und Rosenkreuzer order — an 18th-century Rosicrucian brotherhood. Compiled by the order and attributed to Hinricus Madathanus Theosophus (Adrian von Mynsicht), it presents a systematic visual curriculum integrating Paracelsian alchemy, Kabbalistic mysticism, and Christian theology through elaborate symbolic diagrams encoding initiate doctrine on the three realms (Physica, Metaphysica, Hyperphysica). The most elaborately illustrated Rosicrucian text of the 18th century.",
     "count": 28
+  },
+  {
+    "key": "aurora_consurgens_zbz",
+    "title": "Aurora Consurgens — Zentralbibliothek Zürich Ms. Rh. 172",
+    "creator": "Pseudo-Thomas Aquinas (attr.); illuminator unknown (Rhineland or Basel workshop, c. 1420)",
+    "date": "c. 1420",
+    "era": "medieval",
+    "tradition": "western_alchemy",
+    "tier": "illustration",
+    "place": "Rhineland or Basel",
+    "language": "Latin",
+    "provenance_url": "https://www.e-codices.ch/en/list/one/zbz/Ms-Rh-0172",
+    "rights": "Public Domain. Manuscript c. 1420, well outside copyright. Digital images from e-codices Virtual Manuscript Library of Switzerland (e-codices.ch), CC BY-NC 4.0.",
+    "blurb": "One of the most important early alchemical manuscripts in the West, the Aurora Consurgens (c. 1420, ZBZ Ms. Rh. 172) contains 38 color miniatures among the earliest known systematic alchemical illustrations. The text, attributed to Thomas Aquinas though now considered pseudo-Thomist, allegorizes the alchemical process through the imagery of the Song of Songs and Proverbs, identifying the Philosopher's Stone with the divine Sapientia (Wisdom). Its miniatures — depicting the dragon in the vessel, the Sol-Luna coniunctio, the blackened Sapientia with solar radiance, and the lion-eagle combat — are foundational documents in the visual history of Western esotericism, analyzed definitively by Barbara Obrist and Marie-Louise von Franz.",
+    "count": 18
   }
 ]
