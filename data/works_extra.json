@@ -4353,5 +4353,33 @@
   ],
   "blurb": "One of the most important early alchemical manuscripts in the West, the Aurora Consurgens (c. 1420, ZBZ Ms. Rh. 172) contains 38 color miniatures among the earliest known systematic alchemical illustrations. The text, attributed to Thomas Aquinas though now considered pseudo-Thomist, allegorizes the alchemical process through the imagery of the Song of Songs and Proverbs, identifying the Philosopher's Stone with the divine Sapientia (Wisdom). Its miniatures — depicting the dragon in the vessel, the Sol-Luna coniunctio, the blackened Sapientia with solar radiance, and the lion-eagle combat — are foundational documents in the visual history of Western esotericism, analyzed definitively by Barbara Obrist and Marie-Louise von Franz.",
   "language_display": "Latin"
+ },
+ {
+  "key": "dict_infernal",
+  "title": "Dictionnaire Infernal (Collin de Plancy, 1863) — Demon Portraits by Louis Le Breton",
+  "creator": "Louis Le Breton (engraver); Jacques Collin de Plancy (author)",
+  "date": "1863",
+  "century": 19,
+  "place": "Paris",
+  "region": "France",
+  "language": "French",
+  "era": "modern",
+  "tradition": "demonology",
+  "tier": "illustration",
+  "root": "LOCAL",
+  "image_dir": "dict_infernal",
+  "short_id": "DINF",
+  "provenance_url": "https://commons.wikimedia.org/wiki/Category:Illustrations_from_Dictionnaire_Infernal",
+  "rights": "Public domain. Via Wikimedia Commons.",
+  "motifs": [
+   "demon portrait",
+   "demonology",
+   "goetia",
+   "infernal hierarchy",
+   "occult illustration",
+   "19th century engraving",
+   "devil iconography"
+  ],
+  "blurb": "The 69 demon portraits engraved by Louis Le Breton for the sixth edition of Jacques Collin de Plancy's *Dictionnaire Infernal* (1863) constitute the canonical 19th-century pictorial demonology. Le Breton's engravings shaped popular and occult conceptions of demonic appearance from the Decadent movement through to 20th-century popular culture."
  }
 ]

@@ -127,6 +127,12 @@ def main():
             "source": "claudiens_import",
         }
         if cid in by_id:
+            # Preserve enriched citations and key_concepts accumulated by external scripts
+            existing = by_id[cid]
+            if existing.get("citations"):
+                rec["citations"] = existing["citations"]
+            if existing.get("key_concepts"):
+                rec["key_concepts"] = existing["key_concepts"]
             updated += 1
         else:
             added += 1
@@ -157,7 +163,11 @@ def main():
             citations.append({"text": f"Furnace and Fugue — digital edition, Emblem {num}",
                               "url": f"https://furnaceandfugue.org/atalanta-fugiens/emblem{num}.html"})
         if citations:
-            rec["citations"] = citations
+            # Additive merge: prepend new base citations, keep existing ones that aren't duplicates
+            existing_cits = rec.get("citations", [])
+            existing_texts = {c.get("text", "") for c in existing_cits}
+            fresh = [c for c in citations if c.get("text", "") not in existing_texts]
+            rec["citations"] = fresh + existing_cits
         if t and t.get("related_emblems"):
             rec["related_emblems"] = [int(n) for n in t["related_emblems"]]
         if t and t.get("key_concepts"):
