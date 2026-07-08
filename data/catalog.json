@@ -1,5 +1,5 @@
 {
- "generated_records": 3381,
+ "generated_records": 3397,
  "works": [
   {
    "key": "atalanta_fugiens",
@@ -1064,7 +1064,7 @@
    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Sigils_of_the_72_demons_of_the_Ars_Goetia",
    "rights": "Public domain / CC0 / one CC BY-SA (per item). Via Wikimedia Commons.",
    "blurb": "The individual seals of the seventy-two demons of the Ars Goetia, the first book of the Lesser Key of Solomon — each spirit's proper signature, by which the conjurer named, summoned and bound it, with its rank, office and legions per the Mathers/Crowley edition of 1904.",
-   "count": 47
+   "count": 63
   },
   {
    "key": "astrological_figures",
@@ -138798,6 +138798,57 @@
    "medium": "diagram"
   },
   {
+   "id": "goetia_seals__seal-amdusias",
+   "title": "The Seal of Amdusias (Duke of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "duke"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:67-Amdusias_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_amdusias.png",
+   "thumb": "images/thumbs/goetia_seals__seal-amdusias.jpg",
+   "card": "images/cards/goetia_seals__seal-amdusias.jpg",
+   "summary": "The seal (*sigillum*) of Amdusias, the duke ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Amdusias is a Duke commanding 29 legions. Amdusias gives excellent familiars; causes trees to bend and incline to the conjurer's will; makes musical instruments sound without anyone playing; great musician; appears as a unicorn; in human form at request. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:67-Amdusias_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "duke",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
    "id": "goetia_seals__seal-amy",
    "title": "The Seal of Amy (President of the Goetia)",
    "work": "Seals of the 72 Spirits (Ars Goetia)",
@@ -139002,6 +139053,57 @@
    "medium": "diagram"
   },
   {
+   "id": "goetia_seals__seal-asmoday",
+   "title": "The Seal of Asmoday (King of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "king"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:32-Asmoday_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_asmoday.png",
+   "thumb": "images/thumbs/goetia_seals__seal-asmoday.jpg",
+   "card": "images/cards/goetia_seals__seal-asmoday.jpg",
+   "summary": "The seal (*sigillum*) of Asmoday, the king ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Asmoday is a King commanding 72 legions. Asmoday gives the Ring of Virtues; teaches arithmetic, astronomy, geomancy, and all crafts; answers truly all demands; shows the place where treasures lie; appears as three heads: bull, man, ram; a serpent's tail, webbed feet, goose feet; spits fire; rides a dragon carrying a lance with a banner; previously a Cherub. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:32-Asmoday_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "king",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
    "id": "goetia_seals__seal-astaroth",
    "title": "The Seal of Astaroth (Duke of the Goetia)",
    "work": "Seals of the 72 Spirits (Ars Goetia)",
@@ -139046,6 +139148,57 @@
     "ars goetia",
     "demon seal",
     "duke",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
+   "id": "goetia_seals__seal-balam",
+   "title": "The Seal of Balam (King of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "king"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:51-Balam_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_balam.png",
+   "thumb": "images/thumbs/goetia_seals__seal-balam.jpg",
+   "card": "images/cards/goetia_seals__seal-balam.jpg",
+   "summary": "The seal (*sigillum*) of Balam, the king ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Balam is a King commanding 40 legions. Balam gives witty answers on things past/present/future, makes men invisible and witty; appears as three heads: bull, man, ram; serpent tail, flaming eyes, riding a bear with a hawk on fist. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:51-Balam_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "king",
     "lemegeton",
     "goetic conjuration"
    ],
@@ -139148,6 +139301,57 @@
     "ars goetia",
     "demon seal",
     "duke",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
+   "id": "goetia_seals__seal-beleth",
+   "title": "The Seal of Beleth (King of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "king"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Beleth_seal.jpg",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_beleth.jpg",
+   "thumb": "images/thumbs/goetia_seals__seal-beleth.jpg",
+   "card": "images/cards/goetia_seals__seal-beleth.jpg",
+   "summary": "The seal (*sigillum*) of Beleth, the king ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Beleth is a King commanding 85 legions. Beleth causes all manner of love between man and woman, appearing riding a pale horse with trumpets; appears as terrible and mighty, riding a pale horse; noise of trumpets before him. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Beleth_seal.jpg"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "king",
     "lemegeton",
     "goetic conjuration"
    ],
@@ -139360,6 +139564,57 @@
    "medium": "diagram"
   },
   {
+   "id": "goetia_seals__seal-buer",
+   "title": "The Seal of Buer (President of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "president"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:10-Buer_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_buer.png",
+   "thumb": "images/thumbs/goetia_seals__seal-buer.jpg",
+   "card": "images/cards/goetia_seals__seal-buer.jpg",
+   "summary": "The seal (*sigillum*) of Buer, the president ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Buer is a President commanding 50 legions. Buer teaches philosophy (moral and natural), the logical arts, and the properties of all herbs and plants; heals all distempers; appears as a centaur or five-legged wheel-shape. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:10-Buer_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "president",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
    "id": "goetia_seals__seal-crocell",
    "title": "The Seal of Crocell (Duke of the Goetia)",
    "work": "Seals of the 72 Spirits (Ars Goetia)",
@@ -139462,6 +139717,108 @@
    "medium": "diagram"
   },
   {
+   "id": "goetia_seals__seal-decarabia",
+   "title": "The Seal of Decarabia (Marquis of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "marquis"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Decarabia_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_decarabia.png",
+   "thumb": "images/thumbs/goetia_seals__seal-decarabia.jpg",
+   "card": "images/cards/goetia_seals__seal-decarabia.jpg",
+   "summary": "The seal (*sigillum*) of Decarabia, the marquis ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Decarabia is a Marquis commanding 30 legions. Decarabia discovers the virtues of herbs and precious stones; makes the semblance of all kinds of birds fly before the conjurer; gives those birds that sing and eat as real birds do; appears as a star in a pentacle, later appearing as a man if so willed. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Decarabia_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "marquis",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
+   "id": "goetia_seals__seal-eligos",
+   "title": "The Seal of Eligos (Duke of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "duke"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:15-Eligos_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_eligos.png",
+   "thumb": "images/thumbs/goetia_seals__seal-eligos.jpg",
+   "card": "images/cards/goetia_seals__seal-eligos.jpg",
+   "summary": "The seal (*sigillum*) of Eligos, the duke ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Eligos is a Duke commanding 60 legions. Eligos discovers hidden things, knows things of war and how soldiers shall meet, causes love of lords and great persons; appears as a knight bearing lance, ensign and serpent. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:15-Eligos_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "duke",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
    "id": "goetia_seals__seal-focalor",
    "title": "The Seal of Focalor (Duke of the Goetia)",
    "work": "Seals of the 72 Spirits (Ars Goetia)",
@@ -139506,6 +139863,57 @@
     "ars goetia",
     "demon seal",
     "duke",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
+   "id": "goetia_seals__seal-foras",
+   "title": "The Seal of Foras (President of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "president"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:31-Foras_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_foras.png",
+   "thumb": "images/thumbs/goetia_seals__seal-foras.jpg",
+   "card": "images/cards/goetia_seals__seal-foras.jpg",
+   "summary": "The seal (*sigillum*) of Foras, the president ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Foras is a President commanding 29 legions. Foras teaches logic, ethics, and the virtues of all herbs and precious stones; makes a man invisible; renders men witty; teaches how to live long; appears as a strong man in human form. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:31-Foras_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "president",
     "lemegeton",
     "goetic conjuration"
    ],
@@ -139756,6 +140164,57 @@
     {
      "text": "Wikimedia Commons",
      "url": "https://commons.wikimedia.org/wiki/File:56-Gremory_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "duke",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
+   "id": "goetia_seals__seal-gusion",
+   "title": "The Seal of Gusion (Duke of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "duke"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Gusion_seal_1134x1134.jpg",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_gusion.jpg",
+   "thumb": "images/thumbs/goetia_seals__seal-gusion.jpg",
+   "card": "images/cards/goetia_seals__seal-gusion.jpg",
+   "summary": "The seal (*sigillum*) of Gusion, the duke ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Gusion is a Duke commanding 40 legions. Gusion discerns all questions, gives honour and dignity, reconciles friends and foes; appears as a Xenopilus [Xanthus horse]. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Gusion_seal_1134x1134.jpg"
     }
    ],
    "key_concepts": [
@@ -140077,6 +140536,57 @@
    "medium": "diagram"
   },
   {
+   "id": "goetia_seals__seal-marchosias",
+   "title": "The Seal of Marchosias (Marquis of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "marquis"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:35-Marchosias_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_marchosias.png",
+   "thumb": "images/thumbs/goetia_seals__seal-marchosias.jpg",
+   "card": "images/cards/goetia_seals__seal-marchosias.jpg",
+   "summary": "The seal (*sigillum*) of Marchosias, the marquis ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Marchosias is a Marquis commanding 30 legions. Marchosias fights well and gives true answers to all demands; was of the order of dominions; hopes to return to the seventh throne after 1,200 years; appears as a she-wolf with a gryphon's wings and serpent's tail; in human form a strong fighter. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:35-Marchosias_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "marquis",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
    "id": "goetia_seals__seal-murmur",
    "title": "The Seal of Murmur (Duke and Earl of the Goetia)",
    "work": "Seals of the 72 Spirits (Ars Goetia)",
@@ -140275,6 +140785,57 @@
     "ars goetia",
     "demon seal",
     "prince",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
+   "id": "goetia_seals__seal-ose",
+   "title": "The Seal of Ose (President of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "president"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:57-Ose_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_ose.png",
+   "thumb": "images/thumbs/goetia_seals__seal-ose.jpg",
+   "card": "images/cards/goetia_seals__seal-ose.jpg",
+   "summary": "The seal (*sigillum*) of Ose, the president ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Ose is a President commanding 3 legions. Ose gives true answers of divine and secret things; brings madness upon any person the conjurer wishes; changes a man into any shape the conjurer desires; appears as a leopard; takes human form after a time. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:57-Ose_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "president",
     "lemegeton",
     "goetic conjuration"
    ],
@@ -140691,6 +141252,159 @@
    "medium": "diagram"
   },
   {
+   "id": "goetia_seals__seal-shax",
+   "title": "The Seal of Shax (Marquis of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "marquis"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:44-Shax_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_shax.png",
+   "thumb": "images/thumbs/goetia_seals__seal-shax.jpg",
+   "card": "images/cards/goetia_seals__seal-shax.jpg",
+   "summary": "The seal (*sigillum*) of Shax, the marquis ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Shax is a Marquis commanding 30 legions. Shax takes away sight, hearing and understanding; steals money from kings' houses; knows hidden things; is faithful to the conjurer; appears as a stork, speaking with a hoarse voice. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:44-Shax_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "marquis",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
+   "id": "goetia_seals__seal-sitri",
+   "title": "The Seal of Sitri (Prince of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "prince"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:12-Sitri_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_sitri.png",
+   "thumb": "images/thumbs/goetia_seals__seal-sitri.jpg",
+   "card": "images/cards/goetia_seals__seal-sitri.jpg",
+   "summary": "The seal (*sigillum*) of Sitri, the prince ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Sitri is a Prince commanding 60 legions. Sitri inflames men with lust for women and women for men, makes them show themselves naked if desired; appears as a leopard-headed man with gryphon wings; in human form he is very beautiful. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:12-Sitri_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "prince",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
+   "id": "goetia_seals__seal-stolas",
+   "title": "The Seal of Stolas (Prince of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "prince"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:36-Stolas_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_stolas.png",
+   "thumb": "images/thumbs/goetia_seals__seal-stolas.jpg",
+   "card": "images/cards/goetia_seals__seal-stolas.jpg",
+   "summary": "The seal (*sigillum*) of Stolas, the prince ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Stolas is a Prince commanding 26 legions. Stolas teaches the art of astronomy, the virtues of plants and precious stones; appears as a mighty raven that later appears as a man. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:36-Stolas_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "prince",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
    "id": "goetia_seals__seal-valac",
    "title": "The Seal of Valac (President of the Goetia)",
    "work": "Seals of the 72 Spirits (Ars Goetia)",
@@ -141036,6 +141750,108 @@
     {
      "text": "Wikimedia Commons",
      "url": "https://commons.wikimedia.org/wiki/File:47-Vual_seal01.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "duke",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
+   "id": "goetia_seals__seal-zagan",
+   "title": "The Seal of Zagan (King of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "king"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:61-Zagan_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_zagan.png",
+   "thumb": "images/thumbs/goetia_seals__seal-zagan.jpg",
+   "card": "images/cards/goetia_seals__seal-zagan.jpg",
+   "summary": "The seal (*sigillum*) of Zagan, the king ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Zagan is a King commanding 33 legions. Zagan makes men witty; turns wine to water and blood to wine; turns water to wine; makes fools wise; turns all metals into coin of the realm; appears as a bull with gryphon's wings; later takes human form. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:61-Zagan_seal.png"
+    }
+   ],
+   "key_concepts": [
+    "ars goetia",
+    "demon seal",
+    "king",
+    "lemegeton",
+    "goetic conjuration"
+   ],
+   "figures": [],
+   "medium": "diagram"
+  },
+  {
+   "id": "goetia_seals__seal-zepar",
+   "title": "The Seal of Zepar (Duke of the Goetia)",
+   "work": "Seals of the 72 Spirits (Ars Goetia)",
+   "work_key": "goetia_seals",
+   "short_id": "GOET",
+   "creator": "after the Lemegeton; ed. S. L. MacGregor Mathers & Aleister Crowley",
+   "date": "MS tradition 17th c.; this rendering after the 1904 edition",
+   "century": 17,
+   "place": "England / Europe",
+   "region": "Europe",
+   "language": "Latin / symbol",
+   "era": "early_modern",
+   "tradition": "goetia_grimoire",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "goetia",
+    "demon seal",
+    "sigil",
+    "ars goetia",
+    "lesser key of solomon",
+    "grimoire",
+    "duke"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:16-Zepar_seal.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\goetia_seals\\seal_zepar.png",
+   "thumb": "images/thumbs/goetia_seals__seal-zepar.jpg",
+   "card": "images/cards/goetia_seals__seal-zepar.jpg",
+   "summary": "The seal (*sigillum*) of Zepar, the duke ranked among the seventy-two spirits of the *Ars Goetia*.\n\n## Iconography\nAn abstract line-glyph composed of crosses, loops, arcs and points — the character the conjurer engraves or draws to summon and bind the spirit, worn as a *Lamen* before the breast.\n\n## Significance\nIn the *Ars Goetia*, the first book of the *Lesser Key of Solomon* (*Lemegeton*), Zepar is a Duke commanding 26 legions. Zepar causes women to love men and brings them together in love; renders women barren; appears as a soldier in red armour and red clothing. The seal is the spirit's proper signature; with the Brass Vessel, the Magic Circle and Triangle, and the conjurations of S. L. MacGregor Mathers and Aleister Crowley's edition (1904), it compels the spirit's appearance.\n\n## For artists & game designers\nA ready-made summoning glyph for a demon-binding system: each of the 72 spirits has a distinct seal, rank, and bargainable office.",
+   "summary_status": "authored",
+   "citations": [
+    {
+     "text": "S. L. MacGregor Mathers & Aleister Crowley (eds.), *The Goetia: The Lesser Key of Solomon the King* (1904)."
+    },
+    {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:16-Zepar_seal.png"
     }
    ],
    "key_concepts": [
