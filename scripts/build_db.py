@@ -127,7 +127,11 @@ def build():
         for f in it.get("figures", []) or []:
             cur.execute("INSERT INTO image_figures VALUES (?,?)", (it["id"], f))
         for i, c in enumerate(it.get("citations", []) or []):
-            cur.execute("INSERT INTO image_citations VALUES (?,?,?,?)", (it["id"], i, c.get("text"), c.get("url")))
+            if isinstance(c, str):
+                ctext, curl = c, None
+            else:
+                ctext, curl = c.get("text"), c.get("url")
+            cur.execute("INSERT INTO image_citations VALUES (?,?,?,?)", (it["id"], i, ctext, curl))
         for n in it.get("related_emblems", []) or []:
             rid = f"atalanta_fugiens__emblem-{int(n):02d}"
             cur.execute("INSERT INTO image_relations VALUES (?,?,?)", (it["id"], rid, "related_emblem"))

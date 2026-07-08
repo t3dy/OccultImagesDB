@@ -69372,6 +69372,40 @@
     "summary_status": "authored"
   },
   {
+    "id": "goetia_seals__seal-agares",
+    "title": "Seal of Agares — Second Spirit of the Goetia",
+    "work": "goetia_seals",
+    "creator": "S.L. MacGregor Mathers (ed.)",
+    "date": "1904",
+    "place": "London",
+    "era": "early_modern",
+    "tradition": "western_occult",
+    "motifs": [
+      "demon seal",
+      "goetic spirit",
+      "grimoire magic",
+      "duke demon"
+    ],
+    "rights": "Public domain",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:02-Agares_seal.png",
+    "summary": "The seal of Agares, second spirit of the Ars Goetia, from Mathers's 1904 edition of the Goetia. Agares is a Duke of the Eastern regions, commanding thirty-one legions. He appears as an old man riding a crocodile and carrying a goshawk upon his fist. His powers include teaching all languages and dialects, causing runaways to turn back, and producing earthquakes. The seal's asymmetric geometry reflects the traditional Solomonic design vocabulary in which complex, non-representational sigils serve as binding instruments. In the manuscript tradition, each spirit's seal is derived through various sigil-making methods, some involving the manipulation of Hebrew letters on the Rose Cross or similar diagrams. Pablo Torijano's research traces the ultimate origin of this material to Jewish Solomon traditions that circulated in late antiquity and early medieval Iberia before entering European grimoire literature. The Mathers edition added occultist commentary that influenced 20th-century ceremonial magic practice through the Hermetic Order of the Golden Dawn and its successors.",
+    "summary_status": "authored",
+    "citations": [
+      "Mathers, S. L. MacGregor (trans.). *The Goetia: The Lesser Key of Solomon the King*. Edited by Aleister Crowley. London: Privately Printed, 1904.",
+      "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009.",
+      "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989.",
+      "Butler, E. M. *Ritual Magic*. Cambridge: Cambridge University Press, 1949.",
+      "Torijano, Pablo A. *Solomon the Esoteric King: From King to Magus, Development of a Tradition*. Leiden: Brill, 2002."
+    ],
+    "key_concepts": [
+      "demonology",
+      "grimoire tradition",
+      "spirit seals",
+      "Solomonic magic",
+      "Ars Goetia"
+    ]
+  },
+  {
     "id": "goetia_seals__seal-aim",
     "title": "The Seal of Aim (Duke of the Goetia)",
     "work": "Seals of the 72 Spirits (Ars Goetia)",
@@ -69535,6 +69569,40 @@
       "goetic conjuration"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "goetia_seals__seal-amon",
+    "title": "Seal of Amon — Seventh Spirit of the Goetia",
+    "work": "goetia_seals",
+    "creator": "S.L. MacGregor Mathers (ed.)",
+    "date": "1904",
+    "place": "London",
+    "era": "early_modern",
+    "tradition": "western_occult",
+    "motifs": [
+      "demon seal",
+      "goetic spirit",
+      "grimoire magic",
+      "marquis demon"
+    ],
+    "rights": "Public domain",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:07-Amon_seal.png",
+    "summary": "The seal of Amon (also Aamon), seventh spirit of the Ars Goetia, as rendered in Mathers's 1904 edition. Amon holds the rank of Marquis, commanding forty legions of spirits. He manifests as a wolf with a serpent's tail vomiting flames, or alternatively as a man with a raven's head and dog's teeth. When commanded, he appears in human form. His faculties include revealing the past and future, reconciling controversies between friends, and procuring love. Scholars have noted Amon's possible connection to the Egyptian deity Amun or Ammit, though most now regard these parallels as coincidental folk-etymologies in the late medieval tradition. The serpent-and-wolf appearance motif is common in Goetic demonology as a marker of terrestrial and chthonic power. Richard Kieckhefer's work on learned magic illuminates how such spirit descriptions emerged from clerical culture, synthesizing ancient planetary demonology with medieval encyclopedic tradition. The seal's curvilinear design is typical of the 72-spirit series as transmitted in the Lemegeton manuscripts.",
+    "summary_status": "authored",
+    "citations": [
+      "Mathers, S. L. MacGregor (trans.). *The Goetia: The Lesser Key of Solomon the King*. Edited by Aleister Crowley. London: Privately Printed, 1904.",
+      "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009.",
+      "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989.",
+      "Butler, E. M. *Ritual Magic*. Cambridge: Cambridge University Press, 1949.",
+      "Torijano, Pablo A. *Solomon the Esoteric King: From King to Magus, Development of a Tradition*. Leiden: Brill, 2002."
+    ],
+    "key_concepts": [
+      "demonology",
+      "grimoire tradition",
+      "spirit seals",
+      "Solomonic magic",
+      "Ars Goetia"
+    ]
   },
   {
     "id": "goetia_seals__seal-amy",
@@ -69865,6 +69933,40 @@
       "goetic conjuration"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "goetia_seals__seal-bael",
+    "title": "Seal of Bael — First Spirit of the Goetia",
+    "work": "goetia_seals",
+    "creator": "S.L. MacGregor Mathers (ed.)",
+    "date": "1904",
+    "place": "London",
+    "era": "early_modern",
+    "tradition": "western_occult",
+    "motifs": [
+      "demon seal",
+      "goetic spirit",
+      "grimoire magic",
+      "king demon"
+    ],
+    "rights": "Public domain",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:01-Bael_seal.png",
+    "summary": "The seal of Bael, first and principal spirit of the Ars Goetia, as published in S.L. MacGregor Mathers's 1904 edition. Bael is described as a King ruling in the East, commanding sixty-six legions of spirits. He appears in three forms — a cat, a toad, and a man — or all three simultaneously, and grants the power of invisibility. The seal's design features interlocking loops and cruciform elements characteristic of the Solomonic binding diagram tradition. In grimoire practice, the seal is inscribed on a lamen or talisman to constrain the spirit and compel obedience. The Goetia traces its lineage to the 17th-century manuscript tradition of the *Lemegeton* or Lesser Key of Solomon, though the Mathers edition introduced Victorian occultist interpretations. As the first of the 72 spirits — corresponding in some traditions to the 72 divine names or the 72 princes of hell — Bael holds structural importance in the hierarchical demonology of early modern grimoires. Scholars such as Owen Davies and Richard Kieckhefer have situated this tradition within the broader European history of learned magic, distinguishing it from folk magical practice. The catalogue is a primary visual resource for students of ceremonial magic, early modern demonology, and the history of the occult.",
+    "summary_status": "authored",
+    "citations": [
+      "Mathers, S. L. MacGregor (trans.). *The Goetia: The Lesser Key of Solomon the King*. Edited by Aleister Crowley. London: Privately Printed, 1904.",
+      "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009.",
+      "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989.",
+      "Butler, E. M. *Ritual Magic*. Cambridge: Cambridge University Press, 1949.",
+      "Torijano, Pablo A. *Solomon the Esoteric King: From King to Magus, Development of a Tradition*. Leiden: Brill, 2002."
+    ],
+    "key_concepts": [
+      "demonology",
+      "grimoire tradition",
+      "spirit seals",
+      "Solomonic magic",
+      "Ars Goetia"
+    ]
   },
   {
     "id": "goetia_seals__seal-balam",
@@ -70363,6 +70465,75 @@
     "summary_status": "authored"
   },
   {
+    "id": "goetia_seals__seal-bune",
+    "title": "Seal of Bune — Twenty-Sixth Spirit of the Goetia",
+    "work": "goetia_seals",
+    "creator": "S.L. MacGregor Mathers (ed.)",
+    "date": "1904",
+    "place": "London",
+    "era": "early_modern",
+    "tradition": "western_occult",
+    "motifs": [
+      "demon seal",
+      "goetic spirit",
+      "grimoire magic",
+      "duke demon"
+    ],
+    "rights": "Public domain",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:26-Bune_seal01.png",
+    "summary": "The seal of Bune (also Bim, Bime), twenty-sixth spirit of the Ars Goetia, from Mathers's 1904 edition. Bune is a powerful Duke commanding thirty legions, appearing as a three-headed dragon: one head like a dog, one like a gryphon, and one like a man. He speaks in a comely high voice, makes the dead to change their place, gathers demons at graves, gives riches, wisdom, and eloquence. Two variants of this seal are preserved on Wikimedia Commons (seal01, seal02), suggesting transmission from at least two distinct manuscript lineages. The dragon with three heads is a visual archetype in medieval demonology, often evoking the chthonic realm and the multiplicity of demonic nature. Pablo Torijano's study of the Solomon tradition reveals how such multi-headed spirit forms originated in syncretic Jewish-Greek-Egyptian ritual manuals before entering the Latin grimoire tradition. Bune's association with eloquence and persuasion made him particularly popular in early modern ceremonial magic for commercial and diplomatic enterprises.",
+    "summary_status": "authored",
+    "citations": [
+      "Mathers, S. L. MacGregor (trans.). *The Goetia: The Lesser Key of Solomon the King*. Edited by Aleister Crowley. London: Privately Printed, 1904.",
+      "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009.",
+      "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989.",
+      "Butler, E. M. *Ritual Magic*. Cambridge: Cambridge University Press, 1949.",
+      "Torijano, Pablo A. *Solomon the Esoteric King: From King to Magus, Development of a Tradition*. Leiden: Brill, 2002."
+    ],
+    "key_concepts": [
+      "demonology",
+      "grimoire tradition",
+      "spirit seals",
+      "Solomonic magic",
+      "Ars Goetia"
+    ]
+  },
+  {
+    "id": "goetia_seals__seal-caim",
+    "title": "Seal of Caim — Fifty-Third Spirit of the Goetia",
+    "work": "goetia_seals",
+    "creator": "S.L. MacGregor Mathers (ed.)",
+    "date": "1904",
+    "place": "London",
+    "era": "early_modern",
+    "tradition": "western_occult",
+    "motifs": [
+      "demon seal",
+      "goetic spirit",
+      "grimoire magic",
+      "president demon",
+      "animal language"
+    ],
+    "rights": "Public domain",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:53-Camio_seal.png",
+    "summary": "The seal of Caim (also Camio, Caym), fifty-third spirit of the Ars Goetia, from Mathers's 1904 edition. Caim holds the rank of President, commanding thirty legions. He appears in the form of a thrush, but assumes the form of a man with a sharp sword when in human shape. He answers in burning ashes or coals and gives understanding of the voices of birds, bellowing of bullocks, barking of dogs, and the noise of waters. He also gives true answers concerning things to come. The name Caim is associated with Cain, son of Adam, in some demonological traditions, though this etymology is largely folk-scholarly. His faculty of interpreting animal and natural sounds belongs to a long tradition of augury, bird-divination (ornithomancy), and the belief that hidden wisdom is encoded in natural phenomena. Richard Kieckhefer traces such animalistic spirit powers to ancient Greek and Roman pneumatology. On Wikimedia Commons this seal appears under the spelling 'Camio' (File:53-Camio seal.png), reflecting a variant in the Continental manuscript tradition distinct from the Mathers edition's preferred orthography.",
+    "summary_status": "authored",
+    "citations": [
+      "Mathers, S. L. MacGregor (trans.). *The Goetia: The Lesser Key of Solomon the King*. Edited by Aleister Crowley. London: Privately Printed, 1904.",
+      "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009.",
+      "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989.",
+      "Butler, E. M. *Ritual Magic*. Cambridge: Cambridge University Press, 1949.",
+      "Torijano, Pablo A. *Solomon the Esoteric King: From King to Magus, Development of a Tradition*. Leiden: Brill, 2002."
+    ],
+    "key_concepts": [
+      "demonology",
+      "grimoire tradition",
+      "spirit seals",
+      "Solomonic magic",
+      "Ars Goetia"
+    ]
+  },
+  {
     "id": "goetia_seals__seal-crocell",
     "title": "The Seal of Crocell (Duke of the Goetia)",
     "work": "Seals of the 72 Spirits (Ars Goetia)",
@@ -70803,6 +70974,41 @@
     "summary_status": "authored"
   },
   {
+    "id": "goetia_seals__seal-furfur",
+    "title": "Seal of Furfur — Thirty-Fourth Spirit of the Goetia",
+    "work": "goetia_seals",
+    "creator": "S.L. MacGregor Mathers (ed.)",
+    "date": "1904",
+    "place": "London",
+    "era": "early_modern",
+    "tradition": "western_occult",
+    "motifs": [
+      "demon seal",
+      "goetic spirit",
+      "grimoire magic",
+      "count demon",
+      "weather magic"
+    ],
+    "rights": "Public domain",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:34-Furfur_seal.png",
+    "summary": "The seal of Furfur, thirty-fourth spirit of the Ars Goetia, from Mathers's 1904 edition. Furfur is a Count and Earl commanding twenty-six legions. He appears as a hart (male deer) with a fiery tail, and lies unless compelled to enter a magical triangle. When within the triangle he assumes a more angelic form and speaks only truth. His powers include creating love between a man and woman, stirring up tempests and thunderstorms, causing lightning and blasting, and giving true answers concerning private matters. The shift between deceptive deer form and angelic truth-telling form within the magic circle illustrates the fundamental dynamic of Goetic conjuration: the practitioner must assert mastery over a reluctant and potentially deceptive spirit using divine names and binding diagrams. E.M. Butler's study of ritual magic places this practice within a long history of constraining spirits through classical and medieval invocation techniques. Weather magic attributed to spirits like Furfur appears in the *Malleus Maleficarum* and witch-trial records as a primary concern of early modern demonologists.",
+    "summary_status": "authored",
+    "citations": [
+      "Mathers, S. L. MacGregor (trans.). *The Goetia: The Lesser Key of Solomon the King*. Edited by Aleister Crowley. London: Privately Printed, 1904.",
+      "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009.",
+      "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989.",
+      "Butler, E. M. *Ritual Magic*. Cambridge: Cambridge University Press, 1949.",
+      "Torijano, Pablo A. *Solomon the Esoteric King: From King to Magus, Development of a Tradition*. Leiden: Brill, 2002."
+    ],
+    "key_concepts": [
+      "demonology",
+      "grimoire tradition",
+      "spirit seals",
+      "Solomonic magic",
+      "Ars Goetia"
+    ]
+  },
+  {
     "id": "goetia_seals__seal-gaap",
     "title": "The Seal of Gaap (Prince and President of the Goetia)",
     "work": "Seals of the 72 Spirits (Ars Goetia)",
@@ -71188,6 +71394,74 @@
       "goetic conjuration"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "goetia_seals__seal-kimaris",
+    "title": "Seal of Kimaris — Sixty-Sixth Spirit of the Goetia",
+    "work": "goetia_seals",
+    "creator": "S.L. MacGregor Mathers (ed.)",
+    "date": "1904",
+    "place": "London",
+    "era": "early_modern",
+    "tradition": "western_occult",
+    "motifs": [
+      "demon seal",
+      "goetic spirit",
+      "grimoire magic",
+      "marquis demon"
+    ],
+    "rights": "Public domain",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:66-Cimeies_seal.png",
+    "summary": "The seal of Kimaris (also Cimeies, Cimeries), sixty-sixth spirit of the Ars Goetia, from Mathers's 1904 edition. Kimaris is a Marquis commanding twenty legions, appearing as a warrior riding a great black horse. He discovers hidden treasures, teaches grammar, logic, and rhetoric, and makes a man into a warrior of his own likeness. The name Kimaris appears in at least three variant spellings across the manuscript tradition: Kimaris (Mathers), Cimeries (some Continental manuscripts), and Cimeies (the Commons filename). This orthographic instability reflects the difficulties of transmitting non-Latin demon names through medieval and early modern scribal culture. Kimaris's role as a teacher of the liberal arts — particularly the trivium of grammar, logic, and rhetoric — places him within a tradition of demons associated with clerical knowledge, which Richard Kieckhefer traces to the medieval belief that demonic spirits could convey forbidden or esoteric learning. The black horse rider motif connects to martial iconography and possibly to the black knight or dark cavalier figures in European heraldic and literary tradition. The 1904 Mathers edition mediates between the manuscript tradition and 20th-century ceremonial magic practice, and Owen Davies notes it became foundational for Golden Dawn-derived occultism worldwide.",
+    "summary_status": "authored",
+    "citations": [
+      "Mathers, S. L. MacGregor (trans.). *The Goetia: The Lesser Key of Solomon the King*. Edited by Aleister Crowley. London: Privately Printed, 1904.",
+      "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009.",
+      "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989.",
+      "Butler, E. M. *Ritual Magic*. Cambridge: Cambridge University Press, 1949.",
+      "Torijano, Pablo A. *Solomon the Esoteric King: From King to Magus, Development of a Tradition*. Leiden: Brill, 2002."
+    ],
+    "key_concepts": [
+      "demonology",
+      "grimoire tradition",
+      "spirit seals",
+      "Solomonic magic",
+      "Ars Goetia"
+    ]
+  },
+  {
+    "id": "goetia_seals__seal-leraje",
+    "title": "Seal of Leraje — Fourteenth Spirit of the Goetia",
+    "work": "goetia_seals",
+    "creator": "S.L. MacGregor Mathers (ed.)",
+    "date": "1904",
+    "place": "London",
+    "era": "early_modern",
+    "tradition": "western_occult",
+    "motifs": [
+      "demon seal",
+      "goetic spirit",
+      "grimoire magic",
+      "marquis demon"
+    ],
+    "rights": "Public domain",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:14-Leraie_seal.png",
+    "summary": "The seal of Leraje (also Leraie, Leraikha), fourteenth spirit of the Ars Goetia, from Mathers's 1904 edition. Leraje is a Marquis commanding thirty legions. He appears as a gallant archer clad in green, carrying a bow and quiver. He provokes great battles and contests, causes wounds made by arrows to putrefy, and delights in fighting and martial affairs. The name Leraje appears in variant spellings across the manuscript tradition — Leraie, Leraikha, Larajie — reflecting the transmission errors typical of hand-copied grimoire texts. The archer motif connects this spirit to broader astrological traditions associating Sagittarius with warfare. Owen Davies has demonstrated how the Goetia manuscripts circulated widely among both literate practitioners and cunning-folk, becoming the primary handbook of European ceremonial demonology. The Mathers seal design uses a distinctive angular geometry that recurs across several martial spirits in the 72-spirit sequence.",
+    "summary_status": "authored",
+    "citations": [
+      "Mathers, S. L. MacGregor (trans.). *The Goetia: The Lesser Key of Solomon the King*. Edited by Aleister Crowley. London: Privately Printed, 1904.",
+      "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009.",
+      "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989.",
+      "Butler, E. M. *Ritual Magic*. Cambridge: Cambridge University Press, 1949.",
+      "Torijano, Pablo A. *Solomon the Esoteric King: From King to Magus, Development of a Tradition*. Leiden: Brill, 2002."
+    ],
+    "key_concepts": [
+      "demonology",
+      "grimoire tradition",
+      "spirit seals",
+      "Solomonic magic",
+      "Ars Goetia"
+    ]
   },
   {
     "id": "goetia_seals__seal-malphas",
@@ -71850,6 +72124,40 @@
       "goetic conjuration"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "goetia_seals__seal-raum",
+    "title": "Seal of Raum — Fortieth Spirit of the Goetia",
+    "work": "goetia_seals",
+    "creator": "S.L. MacGregor Mathers (ed.)",
+    "date": "1904",
+    "place": "London",
+    "era": "early_modern",
+    "tradition": "western_occult",
+    "motifs": [
+      "demon seal",
+      "goetic spirit",
+      "grimoire magic",
+      "count demon"
+    ],
+    "rights": "Public domain",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:40-Raum_seal.png",
+    "summary": "The seal of Raum (also Raim, Raym), fortieth spirit of the Ars Goetia, from Mathers's 1904 edition. Raum is a Count commanding thirty legions. He manifests in the form of a crow, transforming into human shape when the magician commands. His functions include stealing treasures from kings' houses and transporting them, destroying cities and the dignities of men, causing enmity or love, and telling things past, present, and to come. The crow form connects Raum to a pan-European tradition of corvids as psychopomps and carriers of hidden knowledge. Similar crow-and-treasury associations appear in Norse mythology, Roman augury, and medieval folk belief. Owen Davies's research into grimoire history shows how such spirit functions reflect practical anxieties of early modern society — theft from powerful institutions, political downfall, and access to secret knowledge about the past and future. The forty-count position in the hierarchy places Raum among a middle register of Goetic spirits neither as exalted as the Kings and Dukes nor as minor as the spirits at the series' end.",
+    "summary_status": "authored",
+    "citations": [
+      "Mathers, S. L. MacGregor (trans.). *The Goetia: The Lesser Key of Solomon the King*. Edited by Aleister Crowley. London: Privately Printed, 1904.",
+      "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009.",
+      "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989.",
+      "Butler, E. M. *Ritual Magic*. Cambridge: Cambridge University Press, 1949.",
+      "Torijano, Pablo A. *Solomon the Esoteric King: From King to Magus, Development of a Tradition*. Leiden: Brill, 2002."
+    ],
+    "key_concepts": [
+      "demonology",
+      "grimoire tradition",
+      "spirit seals",
+      "Solomonic magic",
+      "Ars Goetia"
+    ]
   },
   {
     "id": "goetia_seals__seal-ronove",
