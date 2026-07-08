@@ -49376,6 +49376,92 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__caim",
+    "title": "Caim (Demon #53) in Bird Form — Louis Le Breton Engraving, Dictionnaire Infernal (1863)",
+    "summary": "Louis Le Breton's engraving of Caim (Caym), demon #53 of the Ars Goetia and one of Solomon's 72 spirits, from the sixth and definitive edition of Collin de Plancy's *Dictionnaire Infernal* (Paris: Henri Plon, 1863). Le Breton depicts Caim in his characteristic avian form: a large black bird (thrush or starling at human scale) wearing a military belt with buckle and sash, carrying a drawn sword diagonally with one wing-talon. Signed 'L.B.' (Le Breton, lower left) and 'JANNAULT' (engraver, lower right). According to the *Lemegeton* / *Ars Goetia*, Caim appears first as a thrush before transforming into a man bearing a sword; he teaches the language of animals (birds, oxen, dogs, and water) and answers questions about the future. Le Breton's portrait literalizes the bird-soldier hybrid. The 1863 le Breton portraits are the canonical visual reference for the 72 Goetic demons; they were reprinted in S. L. MacGregor Mathers's 1904 *The Goetia* and disseminated globally through 20th-century occult publishing. For further reading: Mathers (trans.), *The Goetia* (1904); Davies, *Grimoires*; Kieckhefer, *Magic in the Middle Ages*.",
+    "tags": [
+      "demon",
+      "Caim",
+      "Caym",
+      "Goetia",
+      "Le Breton",
+      "bird form",
+      "engraving",
+      "1863",
+      "Ars Goetia",
+      "Solomon's 72",
+      "demonology",
+      "sword"
+    ],
+    "source_file": "caim.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      },
+      {
+        "text": "Mathers, S. L. MacGregor (trans.). *The Goetia: The Lesser Key of Solomon the King*. Ed. Aleister Crowley. London: Privately Printed, 1904."
+      },
+      {
+        "text": "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__cover",
+    "title": "Title Page, Dictionnaire Infernal Planches (1826, 2nd Edition)",
+    "summary": "Title page of the 1826 *Planches* volume accompanying the second edition of Collin de Plancy's *Dictionnaire Infernal, ou Bibliothèque Universelle*. Published by P. Mongie Aîné, Paris. The subtitle declares the scope: beings, persons, books, facts, and things pertaining to apparitions, magic, commerce with hell, divinations, secret sciences, grimoires, prodigies, errors and prejudices, traditions and popular tales, diverse superstitions, and all marvelous, mysterious, and supernatural beliefs. The Planches listed on the title page include: Astrologie, Chiromancie, Cranologie, Tombeau de Dagobert, Métoposcopic, Physionomies humaine et animale comparées, Réception d'une sorcière, Départ pour le sabbat et Arrivée au sabbat (after Teniers), Talismans, Pantacles, Cercle magique, Frontispice, Fac-similé du Pacte d'Urbain Grandier, and Fac-similé de l'écriture du diable avec la signature de sept démons. The encyclopedic breadth — from phrenology to diabolic pact — reflects the Romantic-era market for systematized knowledge of the occult. Davies traces how such compilations disseminated grimoire material into popular print culture.",
+    "tags": [
+      "title page",
+      "encyclopedia",
+      "demonology",
+      "occult encyclopedia",
+      "1826",
+      "bibliography"
+    ],
+    "source_file": "cover.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__dictionnaireinfernal",
     "title": "Dictionnaire Infernal — Title Page (Collin de Plancy, 1863)",
     "work": "dict_infernal",
@@ -50098,6 +50184,677 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__p08",
+    "title": "Astrologie — Twelve-House Horoscope Diagram, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Astrologie' from the 1826 Planches volume. Shows the standard European horoscope schema: a large square with inner diamond dividing the chart into twelve triangular houses (maisons). Each house numbered 1–12 and labeled in French: 1 maison de la vie, 2 maison des richesses, 3 maison des héritages, 4 idem des biens de patrimoine, 5 idem des legs et donations, 6 idem des chagrins et maladies, 7 idem du mariage et des noces, 8 maison de l'effroi et de la mort, 9 idem de la religion et des voyages, 10 idem des charges et dignités, 11 maison des amis, 12 maison des emprisonnements et de la mort violente. Lithograph by Godefroy Engelmann ('Lith. de Engelmann'), a leading early 19th-century Paris lithographic firm. The twelve-house system derives from Ptolemaic astrology transmitted through Arabic intermediaries. Collin de Plancy included astrology as credulity to be debunked, yet the encyclopedic presentation simultaneously served as a practical reference. For further reading: Clark, *Thinking with Demons*; Levack, *Witch-Hunt in Early Modern Europe*.",
+    "tags": [
+      "astrology",
+      "horoscope",
+      "twelve houses",
+      "Ptolemaic",
+      "divination",
+      "lithograph",
+      "Engelmann"
+    ],
+    "source_file": "p08.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p11",
+    "title": "Chiromancie — Palmistry Hand Diagram, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Chiromancie' from the 1826 Planches volume. Shows a right hand palm-upward with four named lines: A la ligne de la Vie, B la ligne de l'Esprit, C la ligne du Bonheur, D Les lignes de la Jointure; and seven planetary mounts: 1 montagne de Vénus, 2 de Jupiter, 3 de Saturne, 4 du Soleil, 5 de Mercure, 6 de la Lune, 7 de Mars. Lithograph by Engelmann. Chiromancy (palmistry) was classified among the forbidden 'curious arts' from patristic through early modern periods; Collin de Plancy presents it as superstition while providing a functional reference diagram that perpetuates the tradition. The planetary mount system descends from Hellenistic-Arabic divinatory astrology applied to the body's surface. This schema appears in dozens of early modern palmistry manuals. See Davies, *Grimoires* for transmission in popular magical texts; Levack for the persecution of divinatory practices.",
+    "tags": [
+      "chiromancy",
+      "palmistry",
+      "divination",
+      "planetary mounts",
+      "hand",
+      "lithograph",
+      "Engelmann"
+    ],
+    "source_file": "p11.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p15",
+    "title": "Cranologie — Phrenological Skull Diagram (27 Faculties), Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Cranologie' from the 1826 Planches. Shows three human skulls from different angles with numbered oval regions indicating Franz Joseph Gall's 27 'protuberances' (cerebral organs): 1 idées religieuses, 2 bonté, 3 esprit comparatif, 4 mémoire des choses, 5 pénétration, 6 bel esprit, 7 imitation, 8 esprit philosophique, 9 mémoire des lieux, 10 distinction des couleurs, 11 sciences abstraites, 12 langues, 13 mémoire des physionomies, 14 mémoire des mots, 15 vol, 16 arts, 17 constance, 18 fierté, 19 vanité, 20 prudence, 21 amitié, 22 meurtre, 23 amour des siens, 24 amour, 25 bravoure, 26 ruse, 27 musique. Lithograph by Engelmann. Gall's phrenological system (cranioscopy) claimed to locate mental faculties in specific cranial bumps and was hugely influential in early 19th-century Paris. Collin de Plancy categorized it as pseudo-science alongside fortune-telling and magic — documenting the cultural proximity of phrenology and occult divination as rival sciences of reading character from bodily signs.",
+    "tags": [
+      "phrenology",
+      "craniology",
+      "Gall",
+      "skull",
+      "divination",
+      "pseudo-science",
+      "lithograph"
+    ],
+    "source_file": "p15.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p19",
+    "title": "Tombeau de Dagobert — Gothic Funerary Monument at Saint-Denis, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Tombeau de Dagobert' from the 1826 Planches. Shows the elaborate Gothic funerary monument of Dagobert I (king of the Franks, d. 639 CE) in the Basilica of Saint-Denis — the royal necropolis of French kings. A canopied Gothic arch frames a recumbent royal effigy on the sarcophagus, flanked by two towers. Three horizontal relief bands depict the Dagobert legend: the king's soul dragged toward hell by demons, then rescued by Saints Denis, Martin, and Maurice. The Dagobert legend circulated as a morality tale of royal corruption and miraculous last-hour redemption. Collin de Plancy included it as an example of medieval superstition about infernal punishment and saintly intercession. Lithograph signed 'Lith. de Bosselman.' The 13th-century tomb monument itself (rebuilt under Saint Louis) is notable as one of the few official ecclesiastical monuments depicting demonic damnation. See Russell, *Mephistopheles* on infernal iconography in medieval art; Muchembled on French popular diabolism.",
+    "tags": [
+      "funerary monument",
+      "Dagobert I",
+      "Saint-Denis",
+      "Gothic",
+      "medieval legend",
+      "demons",
+      "royal tomb",
+      "intercession",
+      "lithograph"
+    ],
+    "source_file": "p19.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p1918",
+    "title": "La Superstition — Allegorical Frontispiece (1818 Edition, reprinted 1918)",
+    "summary": "Allegorical engraving titled 'La Superstition' serving as the frontispiece to the first edition (1818) of Collin de Plancy's *Dictionnaire Infernal*, reprinted in the 1918 edition. A blindfolded female figure — Superstition personified — floats aloft holding chains in one hand and a flaming torch in the other; three demonic bestial heads leer from surrounding clouds. Below, two semi-recumbent figures (Reason and Truth?) are prostrated beneath her. Designed by Sébastien Le Roi and engraved by Delignon. The neoclassical allegorical convention — personified vice trampling virtue, demonic attendants in cloud banks — frames the entire encyclopedic project as an Enlightenment critique of popular credulity, even as the book's contents feed fascination with the supernatural. The chain, torch, and blindfold invert standard Enlightenment iconography: torch = delusion rather than reason; blindfold = superstition's own blindness; chain = enslavement of the credulous. See Muchembled on the Romantic-era ambivalence toward the diabolical, and Clark on how demonological encyclopedias positioned themselves between critique and fascination.",
+    "tags": [
+      "frontispiece",
+      "allegory",
+      "superstition",
+      "neoclassical",
+      "personification",
+      "demonic",
+      "1818"
+    ],
+    "source_file": "p1918.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p21",
+    "title": "Métoposcopic — Planetary Forehead-Line Portrait, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Métoposcopic' from the 1826 Planches. Shows a formal bust-length portrait of a man — likely a generic scholarly type or possibly based on a historical physiognomist — with seven horizontal planetary lines traced across his forehead labeled: 1 Ligne de Saturne, 2 Ligne de Jupiter, 3 Ligne de Mars, 4 Ligne du Soleil, 5 Ligne de Vénus, 6 Ligne de Mercure, 7 Ligne de la Lune. Lithograph by Engelmann. Métoposcopy (forehead-line reading) was systematized by Girolamo Cardano in his *Metoposcopia* (1658, posthumous), which correlated 133 numbered zones of the forehead with planetary influence and character traits. Unlike palmistry (lines on the hand) or physiognomy (comparative faces), métoposcopy applied astrological planetary houses to the wrinkled topography of the forehead itself. Collin de Plancy grouped it with chiromancy, craniology, and physiognomy as pseudo-divinatory systems. The sequence of seven planetary lines (Saturn to Moon) matches the classical Ptolemaic planetary order. See Clark, *Thinking with Demons*; Levack, *Witch-Hunt in Early Modern Europe* for divinatory practices.",
+    "tags": [
+      "metoposcopy",
+      "forehead reading",
+      "divination",
+      "planetary",
+      "Cardano",
+      "lithograph",
+      "Engelmann",
+      "physiognomy"
+    ],
+    "source_file": "p21.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p27",
+    "title": "Physiognomonie (Plate 1) — Bovine and Equine Human Comparisons, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Physiognomonie 1' from the 1826 Planches. Four comparative heads in two rows: top — a full-face horned bovine head beside a coarse, low-browed male face; bottom — a horse head in three-quarter profile beside a young male with elongated nose. Lithograph by Engelmann. Illustrates the Lavaterian physiognomic method of animal-human comparison, popularized by Johann Caspar Lavater's *Physiognomische Fragmente* (1775–1778) and drawing on Le Brun's system of passionate expression. The premise: moral character is legible in facial resemblance to animals (ox-browed = bovine stupidity, horse-faced = docility or pride). Collin de Plancy classified physiognomy alongside chiromancy and astrology as pseudo-science. The method also appears in Della Porta's *De Humana Physiognomonia* (1586). This plate links occult character-reading to 19th-century scientific expression studies. See Clark, *Thinking with Demons*; Zika, *The Appearance of Witchcraft*.",
+    "tags": [
+      "physiognomy",
+      "Lavater",
+      "animal-human comparison",
+      "character reading",
+      "bovine",
+      "equine",
+      "lithograph",
+      "Engelmann"
+    ],
+    "source_file": "p27.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p29",
+    "title": "Physiognomonie (Plate 2) — Canine and Classical Human Faces, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Physiognomonie 2' from the 1826 Planches. Four comparative heads: top left — a classical male with long wavy hair and open mouth (labeled 'J'Heser.' possibly referencing Ulysses/Odysseus by type), facing right; top right — a smooth-coated hound in profile facing the same direction, their long muzzles in parallel; bottom — two heavily bearded brutish male heads front-facing in bust format (classical marble bust style, possibly Hercules or Silenus types). Lithograph by Dumont. The dog-human comparison illustrates Lavater's canine-fidelity/wolfishness correspondence; the classical-bust row compares brutish physiognomy against heroic models. The Ulysses type was a standard physiognomic reference: Lavater cited ancient sources identifying Socrates as 'dog-faced' in character. The juxtaposition of sculpted antique busts with animal heads reflects the Lavaterian practice of reading ancient art as physiognomic evidence. See Clark, *Thinking with Demons*; Zika, *The Appearance of Witchcraft*.",
+    "tags": [
+      "physiognomy",
+      "Lavater",
+      "canine",
+      "classical bust",
+      "Ulysses",
+      "Hercules",
+      "animal-human",
+      "lithograph"
+    ],
+    "source_file": "p29.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p31",
+    "title": "Physiognomonie (Plate 3) — Comparative Portrait Heads, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Physiognomonie 3' from the 1826 Planches. Continues the Lavaterian animal-human comparative series of the Dictionnaire Infernal. Four comparative portrait heads illustrating correspondences between human facial features and animal character types according to Johann Caspar Lavater's *Physiognomische Fragmente* (1775–1778). Lithograph by Engelmann. The series (plates 1–5 in the Planches volume) presents Lavater's central claim: that the moral character of a person is legible in their facial resemblance to specific animals. Collin de Plancy presented physiognomy as pseudo-science alongside chiromancy, craniology, and metoposcopy. The Lavaterian method drew on a long tradition from Aristotle's *Physiognomonica* through Della Porta's *De Humana Physiognomonia* (1586) to Le Brun's baroque comparative paintings. See Clark, *Thinking with Demons*; Zika, *The Appearance of Witchcraft*.",
+    "tags": [
+      "physiognomy",
+      "Lavater",
+      "animal-human comparison",
+      "character reading",
+      "lithograph",
+      "Engelmann"
+    ],
+    "source_file": "p31.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p33",
+    "title": "Physiognomonie (Plate 4) — Eagle and Goat Human Comparisons, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Physiognomonie 4' from the 1826 Planches. Four comparative heads: top left — a patrician male in profile with pronounced aquiline nose; top right — a dark eagle head in profile, beak open; bottom left — a dark goat or ram head with curled horns; bottom right — a dark male with strong jaw and wild hair. Lithograph by Engelmann. Continues the Lavaterian animal-human physiognomic series from the same volume. The Roman-eagle pairing invokes the ancient correspondence of aquiline nose to eagle beak, denoting noble acuity and predatory intelligence; the goat pairing suggests lust or stubbornness via caprine correspondence. The goat's demonic associations — sabbath animal, form of the Devil, Pan/satyr iconography — give this plate an implicit diabolical subtext within the *Dictionnaire Infernal*. See Zika, *The Appearance of Witchcraft* on animal-demonic iconography; Muchembled on the goat's symbolic role in European diabolism.",
+    "tags": [
+      "physiognomy",
+      "Lavater",
+      "eagle",
+      "goat",
+      "aquiline nose",
+      "animal-human comparison",
+      "lithograph",
+      "Engelmann",
+      "diabolism"
+    ],
+    "source_file": "p33.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p37",
+    "title": "Physiognomonie (Plate 5) — Comparative Portrait Heads, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Physiognomonie 5' from the 1826 Planches. The final plate of the physiognomonie series, continuing the Lavaterian animal-human comparative methodology that spans five consecutive plates in the volume. The series demonstrates Lavater's system of reading moral character from facial resemblance to animal types, drawing on both contemporary natural history illustration and ancient art. Lithograph by Engelmann. The five-plate physiognomonie sequence is the most extensive section of the 1826 Planches, reflecting the immense contemporary popularity of Lavater's work in France (Lavater's *Physiognomische Fragmente* was widely translated and adapted in Paris). Collin de Plancy's inclusion signals physiognomy's ambiguous status: simultaneously a fashionable bourgeois parlor science and a credulous pseudo-divinatory practice akin to chiromancy. See Zika, *The Appearance of Witchcraft*; Muchembled, *A History of the Devil*.",
+    "tags": [
+      "physiognomy",
+      "Lavater",
+      "animal-human comparison",
+      "character reading",
+      "lithograph",
+      "Engelmann"
+    ],
+    "source_file": "p37.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p41",
+    "title": "Départ pour le Sabbat — Witches Departing for the Sabbath (after Teniers), Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Départ pour le Sabbat' (Departure for the Sabbath) from the 1826 Planches, adapting a composition after David Teniers the Younger. The plate is divided into three nocturnal sub-scenes arranged vertically in a single frame: (left) a dim interior where a coven of witches assembles around a table by candlelight, with animal-headed demonic figures watching; (right) an elderly witch seated at a candle-lit table, rubbing ointment or preparing a sabbath potion, with masked demonic presences in the shadows behind her; (bottom center) an open tabletop with vessels, candles, and ritual implements — the paraphernalia of malefic preparation. A flying figure ascends through the upper left. Lithograph by Bosselman after Teniers. The Flemish painter David Teniers the Younger (1610–1690) produced a series of Witches' Sabbath scenes that became central visual references in early modern demonology; Collin de Plancy's plates adapt these in lithographic form. The sabbath flight ointment — goose fat, nightshade, henbane, aconite — was a standard element of witch-trial confession extracted under torture. See Levack, *The Witch-Hunt in Early Modern Europe*; Clark, *Thinking with Demons*; Zika, *The Appearance of Witchcraft* on sabbath iconography.",
+    "tags": [
+      "witches' sabbath",
+      "Teniers",
+      "sabbath flight",
+      "ointment",
+      "coven",
+      "demonology",
+      "lithograph",
+      "Bosselman",
+      "nocturnal assembly"
+    ],
+    "source_file": "p41.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p45",
+    "title": "Arrivée au Sabbat — Witches Arriving at the Sabbath (after Teniers), Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Arrivée au Sabbat' (Arrival at the Sabbath) from the 1826 Planches, adapting a composition after David Teniers the Younger. The scene is set outdoors at night under a crescent moon. A central female figure — white-kerchiefed, holding a lit candle-lantern above her head — stands at the entrance to a wooden fence or gate structure; she appears to be officiating at an arrival ceremony. Around her a crowd of grotesque and deformed figures press forward, some masked, some animalistic; one crouching figure at lower left holds what appears to be a lantern or box. The crowd represents the assembled coven gathering for the sabbath ceremony. Signed 'et d'après Téniers' (after Teniers) and 'Lith. de Bosselman.' The companion to the 'Départ pour le Sabbat' plate, this image captures the transition point of arrival — the witches gathered at the sabbath site before the ceremony begins. The officiating female figure may represent the sabbath's 'queen' or mistress. See Levack, *The Witch-Hunt in Early Modern Europe*; Clark, *Thinking with Demons*; Zika, *The Appearance of Witchcraft*.",
+    "tags": [
+      "witches' sabbath",
+      "Teniers",
+      "nocturnal assembly",
+      "coven",
+      "night ceremony",
+      "demonology",
+      "lithograph",
+      "Bosselman",
+      "crescent moon"
+    ],
+    "source_file": "p45.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p49",
+    "title": "Talismans, Pantacles et Cercle Magique — Three Occult Diagrams, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate labeled 'Talismans et Pantacles' combining four numbered diagrams in a single frame, captioned '1.2. talismans 3 Pantacles 4. Cercle Magique.' Diagram 1 (upper left circular): a talisman with a central hand holding a flaming torch, surrounded by a circular text band in French. Diagram 2 (upper right circular): a second talisman with an insectile or zoomorphic central device, surrounded by a more elaborate text band with Hebrew-like or pseudo-magical lettering. Diagram 4 (center, triangular): an equilateral triangle marked '+  +  +' at the angles above a cross-and-equals formula — this is the Cercle Magique (magic circle in triangular form used for conjuration). Diagram 3 (large lower circle): the Pantacle — a complex quartered circle with a central cross dividing it into four quadrants; each quadrant contains Hebrew square script; the outer ring bears planetary, elemental, and number sequences with the words flamma, chebar, etzem, canin, medio, 'Captivitatis eorum' (from Psalm 68/137 — 'In the midst of their captivity'); a Star of David appears at top. The pantacle design draws on Solomonic and Kabbalistic grimoire traditions, especially the Greater and Lesser Keys of Solomon. Lithograph by Engelmann. See Davies, *Grimoires*; Kieckhefer, *Magic in the Middle Ages*; Russell, *Mephistopheles*.",
+    "tags": [
+      "talisman",
+      "pantacle",
+      "magic circle",
+      "Solomonic",
+      "Kabbalah",
+      "Hebrew",
+      "grimoire",
+      "lithograph",
+      "Engelmann",
+      "conjuration",
+      "occult diagram"
+    ],
+    "source_file": "p49.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      },
+      {
+        "text": "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p53",
+    "title": "Pacte d'Urbain Grandier (Recto) — Diabolical Pact Facsimile, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic facsimile of the alleged diabolic pact signed by Urbain Grandier, the parish priest of Loudun condemned for witchcraft and burned at the stake on 18 August 1634, from the 1826 Planches. The document is written in Latin in red-brown cursive script, renouncing God and the Christian church and pledging loyalty to Satan: beginning 'Domino magistroque hujus (ie Deum meum et principem agnosco) et polliceor tibi servire et obedire...' (I acknowledge this lord and master [instead of God] and I promise to serve and obey thee...) with a concluding formula 'feci hoc anno et die ✓' (I did this on this year and day) followed by an ornate signature 'Cr.Gandier' (Grandier). At bottom: 'Extractum ex Inferis' (Extracted from hell). This is the recto of the two-leaf facsimile (compare p54, the verso). The Grandier pact was allegedly discovered among the possessed nuns of Loudun; modern historians consider it a forgery fabricated by Grandier's enemies, possibly including Cardinal Richelieu's faction. The pact was preserved at the Bibliothèque nationale de France. See Levack, *The Witch-Hunt in Early Modern Europe*; Clark, *Thinking with Demons*; Muchembled, *A History of the Devil*. The 'Extractum ex Inferis' formula is unique — a claim that the document was physically retrieved from hell by the possessing demons.",
+    "tags": [
+      "diabolic pact",
+      "Urbain Grandier",
+      "Loudun",
+      "witchcraft trial",
+      "possession",
+      "facsimile",
+      "Latin document",
+      "1634",
+      "Extractum ex Inferis"
+    ],
+    "source_file": "p53.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p54",
+    "title": "Pacte d'Urbain Grandier (Verso) — Diabolical Pact Facsimile, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic facsimile of the reverse of the alleged diabolic pact of Urbain Grandier (Loudun, 1634), from the 1826 Planches; companion to p53 (recto). Presents the same Latin text in red-brown cursive script with a slight variation in the visual condition of the page, suggesting reproduction from the actual document's verso or a second archival copy. The pact text pledges the signer (Grandier, a parish priest executed for witchcraft on 18 August 1634) to renounce God, the Virgin, the saints, baptism, and all church sacraments in exchange for diabolical service. Signed 'Cr.Gandier' with the concluding 'Extractum ex Inferis' (Extracted from Hell) note. The preservation and reproduction of such documents served early modern demonologists as material proof of the diabolic compact, while Romantic-era encyclopedists like Collin de Plancy reprinted them as historical curiosities. The Loudun possessions (1632–1640) involved an entire Ursuline convent; the case is among the most exhaustively documented witchcraft trials in French history. See Levack; Clark; Muchembled. The original pact is held at the Bibliothèque nationale de France, Paris.",
+    "tags": [
+      "diabolic pact",
+      "Urbain Grandier",
+      "Loudun",
+      "witchcraft trial",
+      "possession",
+      "facsimile",
+      "Latin document",
+      "Ursulines",
+      "1634"
+    ],
+    "source_file": "p54.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__p59",
+    "title": "Écriture du Diable et Signatures de Sept Démons — Diabolical Script Facsimile, Dictionnaire Infernal (1826)",
+    "summary": "Lithographic plate reproducing what Collin de Plancy presented as a facsimile of 'the handwriting of the devil with the signatures of seven demons,' from the 1826 Planches. The plate shows: (top) several lines of mirrored or inverted demonic script — text written right-to-left or inverted so as to be readable only in a mirror (a convention for diabolical writing in early modern demonology); (middle row) seven distinct sigil-signatures, each representing a named demon — including what appear to be grotesque monster-form initials, zoomorphic cursive flourishes, and abstract magical marks; (bottom) a second line of inverted/mirrored demonic script, followed by a large bold signature reading 'DEMOGORGON' (or a similar infernal name) in an elaborate cursive. The demon signatures as a type document appear in witchcraft trial records and grimoire traditions; the Loudun pact documents (p53–54) provided one precedent. The concept of a distinctive diabolical script — mirror-reversed, the opposite of divine right-to-left Hebrew — encodes the theological principle of diabolical inversion. See Davies, *Grimoires*; Clark, *Thinking with Demons* on the linguistics of the diabolical; Kieckhefer, *Magic in the Middle Ages* on demonic signatures in conjuration manuals.",
+    "tags": [
+      "demon signatures",
+      "diabolical script",
+      "grimoire",
+      "mirror writing",
+      "Demogorgon",
+      "pact",
+      "occult document",
+      "conjuration",
+      "demonology"
+    ],
+    "source_file": "p59.jpg",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
+      },
+      {
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
+      },
+      {
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      },
+      {
+        "text": "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989."
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__paimon",
     "title": "Paimon — Dictionnaire Infernal (Le Breton, 1863)",
     "work": "dict_infernal",
@@ -50490,59 +51247,53 @@
   },
   {
     "id": "dict_infernal__stolas",
-    "title": "Stolas (Stolos) — Dictionnaire Infernal (Le Breton, 1863)",
-    "work": "dict_infernal",
-    "creator": "Louis Le Breton",
-    "date": "1863",
-    "place": "Paris",
-    "era": "modern",
-    "tradition": "demonology",
-    "motifs": [
-      "demon portrait",
-      "demonology",
-      "Le Breton engraving",
-      "Dictionnaire Infernal",
+    "title": "Stolas (Demon #36) as Crowned Owl — Louis Le Breton Engraving, Dictionnaire Infernal (1863)",
+    "summary": "Louis Le Breton's engraving of Stolas (also Stolos), the 36th demon of the Ars Goetia and one of the 72 spirits of Solomon, from the sixth edition of Collin de Plancy's *Dictionnaire Infernal* (Paris: Henri Plon, 1863). Le Breton depicts Stolas as a great horned owl (Bubo bubo or similar) wearing a small jagged crown, standing erect in a bleak rocky landscape with marshland or reeds behind. The owl fixes the viewer with enormous, intensely staring forward-facing eyes; its large taloned feet grip a rocky surface. The mountainous background is rendered in atmospheric hatching. Signed 'L.B.c.' (Le Breton) lower left and 'JANNAULT' (engraver) lower right. According to the *Lemegeton* / *Ars Goetia*, Stolas (a Great President of Hell commanding 26 legions) appears first as a mighty crowned raven, later as a man; he teaches astronomy, the properties of herbs and precious stones. Le Breton's owl conflates the raven and the night-bird of ill omen. The crowned owl is simultaneously a symbol of royal wisdom (Athena's owl) and nocturnal malevolence in Christian tradition — a fitting ambiguity for a demon who teaches knowledge. Compare Caim (Goetia #53) also rendered as a bird in the same series. For further reading: Mathers (trans.), *The Goetia* (1904); Davies, *Grimoires*; Russell, *Mephistopheles*.",
+    "tags": [
+      "demon",
+      "Stolas",
+      "Stolos",
+      "Goetia",
+      "Le Breton",
       "owl",
+      "crowned owl",
+      "engraving",
+      "1863",
+      "Ars Goetia",
+      "Solomon's 72",
       "astronomy",
-      "herb lore",
-      "precious stones",
-      "wisdom bird",
-      "Prince of Hell"
+      "demonology"
     ],
-    "rights": "Public domain. Via Wikimedia Commons.",
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Stolas.jpg",
-    "summary": "**Stolas (Stolos)** (Prince, 26 legions) — one of the 69 demon portraits engraved by Louis Le Breton for the sixth edition of Collin de Plancy's *Dictionnaire Infernal* (Paris, 1863).\n\n**Appearance:** A long-legged owl — the classical bird of wisdom and necromancy. Le Breton's Stolas is among the smaller and quieter DI images, its owl form suggesting scholarly contemplation and nocturnal knowledge.\n\n**Powers:** Teaches astronomy; teaches the virtues of precious stones and herbs.\n\nThe Le Breton portraits in the 1863 *Dictionnaire Infernal* represent the culmination of early modern demonological illustration and the starting point for modern popular conceptions of demonic appearance. De Plancy's dictionary synthesises the Ars Goetia, Pseudomonarchia Daemonum (Weyer, 1563), and Collin de Plancy's own earlier editions (1818–1844) into the most comprehensive single illustrated reference to the infernal hierarchy. For further reading, see Mathers/Crowley's *Goetia* (1904) for the operative demonological tradition; Cavendish's *Black Arts* (1967) for a mid-20th-century encyclopaedic survey; and Levack's *Witch-Hunt in Early Modern Europe* (2016) for the historical context of demonological thought.",
+    "source_file": "stolas.webp",
     "citations": [
       {
-        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
-        "url": "https://archive.org/details/dictionnaireinfo00coll"
+        "text": "Collin de Plancy, Jacques Albin Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863."
       },
       {
-        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. Hymenaeus Beta, ed. York Beach, ME: Weiser, 1995.",
-        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+        "text": "Muchembled, Robert. *A History of the Devil from the Middle Ages to the Present*. Trans. Jean Birrell. Cambridge: Polity Press, 2003."
       },
       {
-        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
-        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford University Press, 1997."
       },
       {
-        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
-        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 3rd ed. Harlow: Longman, 2006."
       },
       {
-        "text": "Wikimedia Commons source: https://commons.wikimedia.org/wiki/File:Stolas.jpg",
-        "url": "https://commons.wikimedia.org/wiki/File:Stolas.jpg"
+        "text": "Davies, Owen. *Grimoires: A History of Magic Books*. Oxford: Oxford University Press, 2009."
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell University Press, 1986."
+      },
+      {
+        "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      },
+      {
+        "text": "Mathers, S. L. MacGregor (trans.). *The Goetia: The Lesser Key of Solomon the King*. Ed. Aleister Crowley. London: Privately Printed, 1904."
+      },
+      {
+        "text": "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989."
       }
-    ],
-    "key_concepts": [
-      "Stolas (Stolos)",
-      "Prince",
-      "Dictionnaire Infernal",
-      "demonological illustration",
-      "19th century occultism",
-      "Ars Goetia tradition"
-    ],
-    "summary_status": "authored"
+    ]
   },
   {
     "id": "dict_infernal__ukobach",
