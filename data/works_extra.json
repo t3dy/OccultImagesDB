@@ -4389,5 +4389,47 @@
       "devil iconography"
     ],
     "blurb": "Jacques Collin de Plancy's *Dictionnaire Infernal* (first edition 1818, sixth and final 1863) is the most widely circulated modern encyclopedia of demons, sorcery, and occult practice. The 1826 Planches volume contained lithographic diagrams illustrating astrology, chiromancy, phrenology, comparative physiognomy, witches' sabbaths (after Teniers), talismans, and diabolic pact facsimiles. The definitive 1863 sixth edition added 69 demon portraits engraved by Louis Le Breton, which became the canonical 19th-century pictorial demonology and shaped popular and occult conceptions of demonic appearance from the Decadent movement through modern popular culture."
+  },
+  {
+    "key": "geheime_figuren_book2",
+    "title": "Geheime Figuren der Rosenkreuzer, Book 2 (Altona, 1788) — Rosicrucian Cosmological Diagrams",
+    "short_title": "Geheime Figuren Book 2",
+    "short_id": "GF2",
+    "creator": "Gold und Rosenkreuzer (Altona); ed. J. D. A. Eckhardt (1788); English translation 'Secret Symbols of the Rosicrucians'",
+    "date": "1788",
+    "century": "18",
+    "place": "Altona, Holstein",
+    "region": "Northern Europe",
+    "language": "German (English translation source)",
+    "tradition": "western_alchemy",
+    "era": "early_modern",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "geheime_figuren_book2",
+    "rights": "Public domain. Internet Archive scan of 1788 Altona edition (repr.).",
+    "provenance_url": "https://archive.org/details/SecretSymbolsOfTheRosicruciansBook2J.D.A.Eckhardt1788",
+    "source_url": "https://archive.org/details/SecretSymbolsOfTheRosicruciansBook2J.D.A.Eckhardt1788",
+    "source_label": "Internet Archive",
+    "motifs": [
+      "Rosicrucian diagram",
+      "cosmological diagram",
+      "Figura Cabalistica",
+      "alchemical cosmology",
+      "Trinity symbolism",
+      "Primum Mobile",
+      "four elements",
+      "Tinctura/Natura",
+      "Sophia",
+      "Star of the East",
+      "heptamundi",
+      "seven worlds",
+      "initiate doctrine",
+      "Gold und Rosenkreuzer",
+      "Protestant mysticism",
+      "Paracelsian alchemy",
+      "theosophical diagram"
+    ],
+    "blurb": "The second volume of the Geheime Figuren der Rosenkreuzer (Secret Figures of the Rosicrucians, Altona, 1785–1788) contains the most elaborate cosmological diagrams of the Gold und Rosenkreuzer order — combining Paracelsian alchemy, Kabbalistic geometry, and Protestant mysticism into full-page instructional plates for initiates. The 1788 volume was edited by J.D.A. Eckhardt, Printer to the King of Denmark, and later translated into English as 'Secret Symbols of the Rosicrucians.' The Geheime Figuren represents the visual curriculum of an 18th-century Rosicrucian brotherhood that claimed descent from the original Rosicrucian manifestos (Fama Fraternitatis, 1614; Confessio, 1615).",
+    "description": "Four full-page cosmological and alchemical diagrams from the second volume of the Geheime Figuren der Rosenkreuzer. The plates systematically encode initiate doctrine through complex geometric compositions: a Sophia/Natura cosmogram, a Figura Cabalistica showing the fourfold cipher of alchemical transmutation, a Heptamundi diagram of the seven worlds, and a Trinity/Primum Mobile creation cosmogram. All plates integrate Latin/German inscriptions, biblical citations, alchemical symbols, and geometric schemas into unified visual arguments about the relationship between divine, natural, and human orders."
   }
 ]

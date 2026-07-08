@@ -48437,6 +48437,121 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__abigor",
+    "title": "Abigor — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "knight form",
+      "military demon",
+      "Duke of Hell",
+      "cavalry commander"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Abigor_(DI).png",
+    "summary": "**Abigor** (also Eligor — Grand Duke of Hell, commanding 60 legions of cavalry) — a demon specific to the *Dictionnaire Infernal*'s extended catalogue, not part of the standard 72 Goetia but drawn from Weyer's *Pseudomonarchia Daemonum* (1563). Le Breton's portrait depicts him as a noble knight on horseback, carrying a lance, standard, or sceptre — the quintessential military demon.\n\n**Powers:** Reveals hidden things; foreknows the future and the causes of wars; understands the secrets of commanders and how to win wars. He commands 60 legions of demons.\n\n**Historical context:** Abigor's emphasis on military intelligence and cavalry tactics reflects the early modern period's intense interest in battlefield sorcery and the role of demonic knowledge in warfare — a theme prominent in trial records from the 15th–17th centuries where soldiers reported compacts with demons for victory.",
+    "key_concepts": [
+      "Abigor",
+      "Eligor",
+      "Grand Duke of Hell",
+      "military demon",
+      "cavalry commander"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Abigor_(DI).png",
+        "url": "https://commons.wikimedia.org/wiki/File:Abigor_(DI).png"
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__abraxas",
+    "title": "Abraxas — Dictionnaire Infernal (1863)",
+    "work": "dict_infernal",
+    "creator": "Engraver unknown (Dictionnaire Infernal, 1863)",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "Abraxas",
+      "Gnostic figure",
+      "cock head",
+      "serpent legs",
+      "shield",
+      "whip",
+      "Dictionnaire Infernal",
+      "Gnosticism",
+      "magical gem"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:ABRAXAS_INFERNAL_DICTIONARY.jpg",
+    "summary": "**Abraxas** as depicted in the *Dictionnaire Infernal* (1863) — the canonical representation of the Gnostic cosmological entity whose name served as a magical formula and was engraved on amulets (*abraxas gems*). The figure has a human body, the head of a rooster (alektryōn), legs terminating in serpents, carries a shield and a whip — a composite that encodes Gnostic cosmological principles.\n\n**Gnostic origins:** In Basilidean Gnosticism (2nd century CE), Abraxas (or Abrasax) represents the supreme deity who rules 365 heavens — one for each day of the year, since Abrasax in Greek numeral notation sums to 365. He governs the archons (cosmic rulers) of the seven planetary spheres.\n\n**The abraxas gems:** Hundreds of surviving magical gems (intaglios) bear the Abraxas figure with the inscription 'ABRASAX' and various Voces Magicae — the Gnostic magical syllables. King, C.W., *The Gnostics and Their Remains* (1864), and Bonner, Campbell, *Studies in Magical Amulets* (1950) provide the essential catalogues.\n\n**De Plancy's treatment:** The *Dictionnaire Infernal*'s inclusion of Abraxas alongside Hell's hierarchy reflects 19th-century occultist conflation of Gnostic cosmology with demonic taxonomy — a fusion that influenced Eliphas Lévi and the French occult revival.",
+    "key_concepts": [
+      "Abraxas",
+      "Abrasax",
+      "Gnostic cosmology",
+      "magical gems",
+      "rooster-headed deity"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Roper, Lyndal. *Witch Craze: Terror and Fantasy in Baroque Germany*. New Haven: Yale UP, 2004.",
+        "url": "https://www.worldcat.org/title/witch-craze/oclc/52706578"
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford UP, 1997.",
+        "url": "https://www.worldcat.org/title/thinking-with-demons/oclc/35022432"
+      },
+      {
+        "text": "King, Charles William. *The Gnostics and Their Remains, Ancient and Mediaeval*. London: Bell and Daldy, 1864.",
+        "url": "https://archive.org/details/gnosticsandthei01king"
+      },
+      {
+        "text": "Bonner, Campbell. *Studies in Magical Amulets, Chiefly Graeco-Egyptian*. Ann Arbor: U of Michigan Press, 1950.",
+        "url": "https://www.worldcat.org/title/studies-in-magical-amulets/oclc/1016748"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:ABRAXAS_INFERNAL_DICTIONARY.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:ABRAXAS_INFERNAL_DICTIONARY.jpg"
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__adramelech",
     "title": "Adramelech — Dictionnaire Infernal (Le Breton, 1863)",
     "work": "dict_infernal",
@@ -48874,6 +48989,63 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__andras",
+    "title": "Andras — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "owl head",
+      "angel wings",
+      "black horse",
+      "Marquis of Hell"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Andras(demon).jpg",
+    "summary": "**Andras** (Marquis of Hell, commanding 30 legions) — one of Louis Le Breton's 69 demon portraits for Collin de Plancy's *Dictionnaire Infernal* (Paris, 1863).\n\n**Appearance:** Le Breton depicts Andras with the body of a winged angel riding a black wolf, with the head of an owl or raven, and bearing a sword. This iconography derives from Weyer's *Pseudomonarchia Daemonum* (1563) and the *Ars Goetia* (17th c.), which name him the 63rd demon of the 72.\n\n**Powers:** Sows discord and hatred between friends, masters, and servants. Considered especially dangerous — demonologists warn he can kill the summoner. Commands the art of causing quarrels and murders.\n\n**Historical position:** In the late-antique classification of demons by rank, Andras occupied a distinct niche as a sower of domestic chaos — contrasting with the more militaristic or archival demons. The *Dictionnaire Infernal*'s systematic illustration of all 72 Goetia demons, plus additional DI-specific demons, established the canonical visual appearance still used in occult art today.\n\nFor further reading, see Peterson's *The Lesser Key of Solomon* (Weiser, 2001); Rudd's *Nine Celestial Keys* (1660s, Skinner/Rankine ed.); and Guiley's *Encyclopedia of Demons and Demonology* (2009).",
+    "key_concepts": [
+      "Andras",
+      "Marquis of Hell",
+      "Goetia #63",
+      "discord demon",
+      "Le Breton engraving"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Andras(demon).jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Andras(demon).jpg"
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__asmoday",
     "title": "Asmoday (Asmodeus) — Dictionnaire Infernal (Le Breton, 1863)",
     "work": "dict_infernal",
@@ -48987,6 +49159,128 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__azazel",
+    "title": "Azazel — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "scapegoat demon",
+      "fallen angel",
+      "Leviticus",
+      "war demon",
+      "Book of Enoch"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Azazel_(DI).png",
+    "summary": "**Azazel** — one of the most theologically significant figures in Semitic demonology, appearing in Leviticus 16 as the recipient of the scapegoat ritual (the sin-laden goat sent to Azazel in the wilderness). In the *Book of Enoch* (1 Enoch 8–10) he is a fallen Watcher angel who taught humanity warfare, cosmetics, and forbidden knowledge.\n\n**Le Breton's portrait** in the *Dictionnaire Infernal* renders Azazel as a terrifying winged military demon, synthesising the scapegoat and Watcher traditions into a single imposing figure.\n\n**Textual traditions:**\n- *Leviticus 16*: The ritual of two goats — one sacrificed to YHWH, one sent to Azazel — marks the oldest attested use of the name.\n- *1 Enoch*: Azazel leads the 200 Watchers who descend to Earth and corrupt humanity with forbidden knowledge.\n- *Book of Giants*: Also prominent, connecting him to the Nephilim tradition.\n\n**Modern reception:** Azazel's rich canonical background — biblical, pseudepigraphic, and demonological — made him a major figure in 19th-century Romantic occultism, feeding into the tradition that culminates in Aleister Crowley's *Liber 77* and modern Satanic aesthetics.",
+    "key_concepts": [
+      "Azazel",
+      "scapegoat",
+      "Watcher angel",
+      "1 Enoch",
+      "Leviticus demon",
+      "forbidden knowledge"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Nickelsburg, George W. E. *1 Enoch: A Commentary on the Book of 1 Enoch*. Minneapolis: Fortress, 2001.",
+        "url": "https://www.worldcat.org/title/1-enoch/oclc/45318289"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Azazel_(DI).png",
+        "url": "https://commons.wikimedia.org/wiki/File:Azazel_(DI).png"
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__baal",
+    "title": "Baal — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "triple head",
+      "cat head",
+      "toad head",
+      "man head",
+      "King of Hell",
+      "Goetia #1"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Baal_(Demon).jpg",
+    "summary": "**Baal** (Ba'al — the first and principal King of Hell, commanding 66 legions) — Goetia demon #1 and the most powerful spirit in the Ars Goetia. Le Breton's *Dictionnaire Infernal* portrait shows his canonical triple head: cat, toad, and man, with spider legs — a terrifying chimera marking his supreme rank.\n\n**Appearance and powers:** Baal's triple head derives from his origins as the Canaanite storm god (a role preserved in his commanding position), and he speaks in a hoarse or cracked voice. His primary power is invisibility — he can render the summoner unseen.\n\n**Historical significance as a divine name:** In Ugaritic mythology, Ba'al Hadad is the great storm and fertility deity — 'Ba'al' simply means 'Lord'. The Hebrew scriptures' condemnation of Ba'al worship across dozens of passages (from Elijah's contest with Ba'al's prophets in 1 Kings 18 to Hosea's invectives) reflects the long struggle of Yahwism against Canaanite polytheism, ultimately resulting in Ba'al's transformation into a chief demon in Jewish and Christian demonology.\n\nFor further reading: Hadley, Judith M. *The Cult of Asherah in Ancient Israel and Judah* (2000); Day, John. *Yahweh and the Gods and Goddesses of Canaan* (2000).",
+    "key_concepts": [
+      "Baal",
+      "King of Hell",
+      "Goetia #1",
+      "Canaanite deity",
+      "triple-headed demon"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Baal_(Demon).jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Baal_(Demon).jpg"
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__bael",
     "title": "Bael — Dictionnaire Infernal (Le Breton, 1863)",
     "work": "dict_infernal",
@@ -49044,6 +49338,65 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__balan",
+    "title": "Balan — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "triple head",
+      "bull head",
+      "man head",
+      "ram head",
+      "King of Hell",
+      "Goetia #51"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Balan_(Demon).png",
+    "summary": "**Balan** (also Balam — King of Hell, commanding 40 legions) — Goetia demon #51. Le Breton depicts Balam in his canonical triple-headed form: bull, man, and ram, with a serpent tail, bearing fire-emitting eyes, and riding a bear carrying a hawk.\n\n**Powers:** Gives true answers on things past, present, and to come; makes men invisible; gives perfect understanding of wit. Notable for triple-head iconography that parallels Baal (#1) but in a distinctly different composite — the bull/man/ram triad is reminiscent of near-Eastern divine triads.\n\n**Scholarly context:** Balam's triple-headed form and ability to grant invisibility may connect to ancient traditions of gods who manifest in multiple forms simultaneously. The convergence of bull, human, and ram iconography in a single demonological entity suggests syncretism between Mesopotamian bull-gods, humanoid deities, and Aries/Amun traditions.",
+    "key_concepts": [
+      "Balan",
+      "Balam",
+      "King of Hell",
+      "Goetia #51",
+      "triple-headed demon"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Balan_(Demon).png",
+        "url": "https://commons.wikimedia.org/wiki/File:Balan_(Demon).png"
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__barbatos",
     "title": "Barbatos — Dictionnaire Infernal (Le Breton, 1863)",
     "work": "dict_infernal",
@@ -49097,6 +49450,64 @@
       "Ars Goetia tradition"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "dict_infernal__beelzebub",
+    "title": "Beelzebub — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "Lord of Flies",
+      "giant fly",
+      "Prince of Hell",
+      "Baal Zebub",
+      "Philistine deity"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Beelzebub.png",
+    "summary": "**Beelzebub** (Ba'al Zebûb, 'Lord of the Flies' — Prince of Hell, second only to Lucifer) — one of the most prominent demons in both biblical tradition and early modern demonology. Le Breton's *Dictionnaire Infernal* portrait renders him as a vast fly, or sometimes a giant crowned insect-figure — following the Pharisaic tradition that Ba'al Zebûb ('Fly Lord') was a derisive renaming of the Philistine god Ba'al Zebul ('Prince Baal').\n\n**Biblical connections:** Named in 2 Kings 1 as the god of Ekron consulted by Ahaziah; appears in the Gospels (Matthew 12, Mark 3, Luke 11) as 'the prince of demons' to whom the Pharisees accuse Jesus of appealing. Milton makes him Lucifer's lieutenant in *Paradise Lost*.\n\n**Demonological taxonomy:** Peter Binsfeld (1589) assigns him to the sin of gluttony. In the Ars Goetia he appears as a great king who flies above all others, and in the Grimoire of Pope Honorius he is one of the four kings commanding the cardinal directions.\n\nFor scholarly context see Forsyth, Neil. *The Old Enemy: Satan and the Combat Myth* (Princeton UP, 1987) and Day, John. *Yahweh and the Gods and Goddesses of Canaan* (Sheffield Academic Press, 2000).",
+    "key_concepts": [
+      "Beelzebub",
+      "Baal Zebub",
+      "Lord of the Flies",
+      "Prince of Hell",
+      "fly deity"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Beelzebub.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Beelzebub.png"
+      }
+    ]
   },
   {
     "id": "dict_infernal__behemoth",
@@ -49266,6 +49677,64 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__belphegor",
+    "title": "Belphegor — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "toilet demon",
+      "sloth demon",
+      "Moabite idol",
+      "invention demon",
+      "bearded figure"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Belphegor.jpg",
+    "summary": "**Belphegor** (Lord of the Gap / Ba'al Peor — Moabite sun deity turned Hell's ambassador to France) — one of the most distinctive demons in the *Dictionnaire Infernal*. Le Breton's portrait shows a deformed bearded figure seated on a toilet or perforated seat, his signature form in medieval and early modern demonology. This scatological iconography reflects the tradition of associating Belphegor with excess, laziness, and bodily indulgence.\n\n**Theological origins:** Ba'al Peor was an ancient Moabite fertility deity mentioned in Numbers 25 as the object of illicit Israelite worship. Christian demonology transformed him into a demon of sloth and invention (he seduces humans with clever mechanical devices).\n\n**Peter Binsfeld's classification** (1589) assigned Belphegor to the deadly sin of sloth. The DI entry extends this to make him Hell's ambassador who tests whether marriage is truly a source of human happiness — a satirical subplot that made him popular in Renaissance humanist literature.\n\n**Unique iconographic tradition:** The toilet-throne image of Belphegor became canonical in European demonology through works like Pietro Maraviglia's *Belphegor* (1665, adapting Machiavelli) and persists into contemporary occult art.",
+    "key_concepts": [
+      "Belphegor",
+      "Baal Peor",
+      "demon of sloth",
+      "toilet demon",
+      "Moabite deity"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Belphegor.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Belphegor.jpg"
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__berith",
     "title": "Berith — Dictionnaire Infernal (Le Breton, 1863)",
     "work": "dict_infernal",
@@ -49376,6 +49845,64 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__byleth",
+    "title": "Byleth — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "serpent riding",
+      "crowned king",
+      "flaming form",
+      "King of Hell"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Byleth.png",
+    "summary": "**Byleth** (also Beleth, Bilet — terrible King of Hell, commanding 85 legions) — Goetia demon #13. Despite the spelling distinction in the *Dictionnaire Infernal*, this is the same entity as Beleth, whom Le Breton separately depicted (we hold that portrait). Byleth/Beleth rides a pale horse, is terrible and wrathful, and trumpet music must be played before he appears.\n\n**Powers:** Causes love between men and women. One of the great kings of Hell associated with erotic magic. The summoner must hold a silver ring to the face when Beleth appears, protecting against his frightening appearance.\n\n**Ritual context:** The silver ring against demonic appearance is one of the recurring ritual protective elements in early modern grimoire magic — physical objects mediating the terrifying presence of angelic/demonic entities. Similar protection rites appear in the Solomonic tradition (pentagram, triangle of art).",
+    "key_concepts": [
+      "Byleth",
+      "Beleth",
+      "King of Hell",
+      "Goetia #13",
+      "love demon",
+      "grimoire king"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Byleth.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Byleth.png"
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__caim",
     "title": "Caim (Demon #53) in Bird Form — Louis Le Breton Engraving, Dictionnaire Infernal (1863)",
     "summary": "Louis Le Breton's engraving of Caim (Caym), demon #53 of the Ars Goetia and one of Solomon's 72 spirits, from the sixth and definitive edition of Collin de Plancy's *Dictionnaire Infernal* (Paris: Henri Plon, 1863). Le Breton depicts Caim in his characteristic avian form: a large black bird (thrush or starling at human scale) wearing a military belt with buckle and sash, carrying a drawn sword diagonally with one wing-talon. Signed 'L.B.' (Le Breton, lower left) and 'JANNAULT' (engraver, lower right). According to the *Lemegeton* / *Ars Goetia*, Caim appears first as a thrush before transforming into a man bearing a sword; he teaches the language of animals (birds, oxen, dogs, and water) and answers questions about the future. Le Breton's portrait literalizes the bird-soldier hybrid. The 1863 le Breton portraits are the canonical visual reference for the 72 Goetic demons; they were reprinted in S. L. MacGregor Mathers's 1904 *The Goetia* and disseminated globally through 20th-century occult publishing. For further reading: Mathers (trans.), *The Goetia* (1904); Davies, *Grimoires*; Kieckhefer, *Magic in the Middle Ages*.",
@@ -49425,6 +49952,124 @@
     ]
   },
   {
+    "id": "dict_infernal__clauneck",
+    "title": "Clauneck — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "wealth demon",
+      "grimoire demon",
+      "Grimorium Verum",
+      "treasure bringer"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Clauneck.png",
+    "summary": "**Clauneck** — a demon of wealth and financial power prominent in the *Grimorium Verum* (1817 ed.) and the *Dictionnaire Infernal*. Not one of the 72 Goetia spirits, Clauneck is part of an alternative grimoire tradition that includes demons specifically associated with the discovery and delivery of treasure.\n\n**Powers:** Has power over riches, can discover treasures, and brings money from afar. Loved by Lucifer himself, he obeys the summoner when commanded through Lucifer's authority.\n\n**Grimoire tradition:** The *Grimorium Verum* (attributed to 'Alibek the Egyptian', 1517) is the primary source for Clauneck, listing him as one of the demons most disposed to serve humans in material matters. De Plancy's systematic compilation drew on this work alongside the Goetia, creating the most comprehensive illustrated demonological reference of the 19th century.",
+    "key_concepts": [
+      "Clauneck",
+      "wealth demon",
+      "Grimorium Verum",
+      "treasure demon",
+      "grimoire tradition"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Clauneck.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Clauneck.png"
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__conjuration",
+    "title": "Conjuration des sorcières — Dictionnaire Infernal (1863)",
+    "work": "dict_infernal",
+    "creator": "Engraver unknown (Dictionnaire Infernal, 1863)",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "witchcraft",
+    "motifs": [
+      "witches' conjuration",
+      "sabbath ritual",
+      "circle magic",
+      "demonology",
+      "Dictionnaire Infernal",
+      "nocturnal gathering",
+      "diabolism",
+      "magic circle"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Conjuration_des_sorcières.png",
+    "summary": "**Conjuration des sorcières** ('Witches' Conjuration') — illustration from the *Dictionnaire Infernal* (1863) depicting a nocturnal gathering of witches performing ritual conjuration. The scene shows robed figures within or around a magic circle, invoking demonic powers according to the conventions of 16th–17th-century demonological literature.\n\n**Context:** Conjuration scenes were a staple of early modern demonological illustration, appearing in Guazzo's *Compendium Maleficarum* (1608), de Lancre's *Tableau de l'Inconstance* (1612), and the broader tradition of anti-witchcraft literature. The *Dictionnaire Infernal* gathers these images into a systematic encyclopaedic format.\n\n**Ritual elements:** The magic circle as protective boundary between conjurer and demon, the nocturnal setting, and the invocation posture all reflect the conventions of ceremonial magic documented in the Solomonic tradition — a tradition the demonologists simultaneously condemned and reproduced.\n\nFor further reading: Klaassen, Frank. *The Transformations of Magic: Illicit Learned Magic in the Later Middle Ages and Renaissance* (Penn State UP, 2013); Davies, Owen. *Grimoires: A History of Magic Books* (Oxford UP, 2009).",
+    "key_concepts": [
+      "witches' conjuration",
+      "magic circle",
+      "sabbath ritual",
+      "ceremonial magic",
+      "demonological illustration"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Roper, Lyndal. *Witch Craze: Terror and Fantasy in Baroque Germany*. New Haven: Yale UP, 2004.",
+        "url": "https://www.worldcat.org/title/witch-craze/oclc/52706578"
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford UP, 1997.",
+        "url": "https://www.worldcat.org/title/thinking-with-demons/oclc/35022432"
+      },
+      {
+        "text": "Kors, Alan Charles, and Edward Peters, eds. *Witchcraft in Europe, 400–1700: A Documentary History*. 2nd ed. Philadelphia: UPenn Press, 2001.",
+        "url": "https://www.worldcat.org/title/witchcraft-in-europe-400-1700/oclc/44592527"
+      },
+      {
+        "text": "Bailey, Michael D. *Magic and Superstition in Europe: A Concise History from Antiquity to the Present*. Lanham: Rowman & Littlefield, 2007.",
+        "url": "https://www.worldcat.org/title/magic-and-superstition-in-europe/oclc/70167706"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Conjuration_des_sorci%C3%A8res.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Conjuration_des_sorcières.png"
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__cover",
     "title": "Title Page, Dictionnaire Infernal Planches (1826, 2nd Edition)",
     "summary": "Title page of the 1826 *Planches* volume accompanying the second edition of Collin de Plancy's *Dictionnaire Infernal, ou Bibliothèque Universelle*. Published by P. Mongie Aîné, Paris. The subtitle declares the scope: beings, persons, books, facts, and things pertaining to apparitions, magic, commerce with hell, divinations, secret sciences, grimoires, prodigies, errors and prejudices, traditions and popular tales, diverse superstitions, and all marvelous, mysterious, and supernatural beliefs. The Planches listed on the title page include: Astrologie, Chiromancie, Cranologie, Tombeau de Dagobert, Métoposcopic, Physionomies humaine et animale comparées, Réception d'une sorcière, Départ pour le sabbat et Arrivée au sabbat (after Teniers), Talismans, Pantacles, Cercle magique, Frontispice, Fac-similé du Pacte d'Urbain Grandier, and Fac-similé de l'écriture du diable avec la signature de sept démons. The encyclopedic breadth — from phrenology to diabolic pact — reflects the Romantic-era market for systematized knowledge of the occult. Davies traces how such compilations disseminated grimoire material into popular print culture.",
@@ -49458,6 +50103,181 @@
       },
       {
         "text": "Zika, Charles. *The Appearance of Witchcraft: Print and Visual Culture in Sixteenth-Century Europe*. London: Routledge, 2007."
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__crapauds-sabbat",
+    "title": "Crapauds dansant au sabbat — Dictionnaire Infernal (1863)",
+    "work": "dict_infernal",
+    "creator": "Engraver unknown (Dictionnaire Infernal, 1863)",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "witchcraft",
+    "motifs": [
+      "toads at sabbath",
+      "witch's familiar",
+      "sabbath dance",
+      "demonology",
+      "Dictionnaire Infernal",
+      "toad familiar",
+      "nocturnal gathering",
+      "diabolism"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Crapauds_dansant_au_sabbat.png",
+    "summary": "**Crapauds dansant au sabbat** ('Toads Dancing at the Sabbath') — a surrealist-adjacent illustration from the *Dictionnaire Infernal* (1863) depicting toads participating in the witches' sabbath dance. Toads were the most commonly reported witch's familiar in French, English, and German trial records.\n\n**The toad in witchcraft tradition:** Demonological literature from the 15th century consistently identifies the toad as the primary diabolic familiar. Trial confessions describe witches feeding toads with consecrated hosts (a sacrilege), rubbing their bodies with toad fat, and keeping toads dressed in black velvet. The toad's association with poison (its skin secretions were genuinely toxic), nocturnalism, and ugliness made it the ideal familiar.\n\n**Interpretive context:** The image of toads dancing independently — as agents rather than instruments — is a distinctly playful/horrifying element of sabbath iconography, suggesting that even the 'lowest' creatures participate in the inversion of cosmic order that the sabbath represents. Roper (2004) and Clark (1997) both discuss how sabbath imagery systematically inverted the Christian liturgical calendar.",
+    "key_concepts": [
+      "toad familiar",
+      "witches' sabbath",
+      "toad dancing",
+      "familiar spirit",
+      "demonological illustration"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Roper, Lyndal. *Witch Craze: Terror and Fantasy in Baroque Germany*. New Haven: Yale UP, 2004.",
+        "url": "https://www.worldcat.org/title/witch-craze/oclc/52706578"
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford UP, 1997.",
+        "url": "https://www.worldcat.org/title/thinking-with-demons/oclc/35022432"
+      },
+      {
+        "text": "Kors, Alan Charles, and Edward Peters, eds. *Witchcraft in Europe, 400–1700: A Documentary History*. 2nd ed. Philadelphia: UPenn Press, 2001.",
+        "url": "https://www.worldcat.org/title/witchcraft-in-europe-400-1700/oclc/44592527"
+      },
+      {
+        "text": "Bailey, Michael D. *Magic and Superstition in Europe: A Concise History from Antiquity to the Present*. Lanham: Rowman & Littlefield, 2007.",
+        "url": "https://www.worldcat.org/title/magic-and-superstition-in-europe/oclc/70167706"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Crapauds_dansant_au_sabbat.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Crapauds_dansant_au_sabbat.png"
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__danse-morts1",
+    "title": "Danse des morts (Plate 1) — Dictionnaire Infernal (1863)",
+    "work": "dict_infernal",
+    "creator": "Engraver unknown (Dictionnaire Infernal, 1863)",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "witchcraft",
+    "motifs": [
+      "Dance of Death",
+      "danse macabre",
+      "demonology",
+      "Dictionnaire Infernal",
+      "skeleton dancer",
+      "medieval mortality",
+      "memento mori",
+      "death personification"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Danse_des_morts_-_1.png",
+    "summary": "**Danse des morts** ('Dance of the Dead/Death') — first plate in the *Dictionnaire Infernal*'s five-image series on the Dance of Death theme. This DI version depicts animated skeletons leading or dancing with the living — the *danse macabre* tradition that flourished in late medieval Europe as a vivid reminder of mortality's democracy.\n\n**Historical tradition:** The *danse macabre* (from French 'dance of death') emerged in the 14th–15th centuries, likely in response to the Black Death. The earliest known painted version was at the Cemetery of the Innocents in Paris (c.1424, destroyed). Hans Holbein the Younger's woodcut series (1538) became the canonical image set, widely reproduced and adapted.\n\n**De Plancy's inclusion of danse macabre** in a demonic dictionary reflects the 19th century's Romantic fusion of death, horror, and occultism — treating the medieval *memento mori* tradition as part of the broader demonological landscape. The series of five plates demonstrates the DI's encyclopaedic ambition beyond demons to include all aspects of the supernatural imagination.\n\nFor further reading: Oosterwijk, Sophie, and Stefanie Knöll, eds. *Mixed Metaphors: The Danse Macabre in Medieval and Early Modern Europe* (2011); Koslofsky, Craig. *Evening's Empire: A History of the Night in Early Modern Europe* (2011).",
+    "key_concepts": [
+      "danse macabre",
+      "Dance of Death",
+      "memento mori",
+      "skeleton dancers",
+      "medieval mortality"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Roper, Lyndal. *Witch Craze: Terror and Fantasy in Baroque Germany*. New Haven: Yale UP, 2004.",
+        "url": "https://www.worldcat.org/title/witch-craze/oclc/52706578"
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford UP, 1997.",
+        "url": "https://www.worldcat.org/title/thinking-with-demons/oclc/35022432"
+      },
+      {
+        "text": "Oosterwijk, Sophie, and Stefanie Knöll, eds. *Mixed Metaphors: The Danse Macabre in Medieval and Early Modern Europe*. Newcastle: Cambridge Scholars, 2011.",
+        "url": "https://www.worldcat.org/title/mixed-metaphors/oclc/756482213"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Danse_des_morts_-_1.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Danse_des_morts_-_1.png"
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__danse-sabbat",
+    "title": "Danse du sabbat — Dictionnaire Infernal (1863)",
+    "work": "dict_infernal",
+    "creator": "Engraver unknown (Dictionnaire Infernal, 1863)",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "witchcraft",
+    "motifs": [
+      "witches' sabbath",
+      "sabbath dance",
+      "circle dance",
+      "demonology",
+      "Dictionnaire Infernal",
+      "nocturnal gathering",
+      "diabolism",
+      "farandole"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Danse_du_sabbat.png",
+    "summary": "**Danse du sabbat** ('The Sabbath Dance') — one of several sabbath scene illustrations in the *Dictionnaire Infernal* (1863) depicting the circular dance that was a central feature of the imagined witch sabbath. Witches dance back-to-back in a circle (facing outward, not inward — a deliberate inversion of normal dance conventions to signify the sabbath's anti-Christian character).\n\n**Historical significance of the dance motif:** The back-to-back circle dance was recorded as a defining feature of the sabbath in virtually all trial confessions and demonological treatises from the 15th century onwards. Roper's analysis (*Witch Craze*, 2004) shows how confessions across Central Europe describe identical choreography — suggesting either actual ritual practice or standardised interrogation procedures.\n\n**Visual tradition:** The DI dance illustration draws on an established iconographic tradition including Dürer's 'Witch on a Broomstick' (c.1500), Baldung Grien's 'Witches' Sabbath' (1510), and the extensive Guazzo/de Lancre illustrations. The circular dance also links to the 'farandole' tradition in Provençal folklore.",
+    "key_concepts": [
+      "sabbath dance",
+      "witches' circle",
+      "back-to-back dance",
+      "demonological illustration",
+      "witch sabbath"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Roper, Lyndal. *Witch Craze: Terror and Fantasy in Baroque Germany*. New Haven: Yale UP, 2004.",
+        "url": "https://www.worldcat.org/title/witch-craze/oclc/52706578"
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford UP, 1997.",
+        "url": "https://www.worldcat.org/title/thinking-with-demons/oclc/35022432"
+      },
+      {
+        "text": "Kors, Alan Charles, and Edward Peters, eds. *Witchcraft in Europe, 400–1700: A Documentary History*. 2nd ed. Philadelphia: UPenn Press, 2001.",
+        "url": "https://www.worldcat.org/title/witchcraft-in-europe-400-1700/oclc/44592527"
+      },
+      {
+        "text": "Bailey, Michael D. *Magic and Superstition in Europe: A Concise History from Antiquity to the Present*. Lanham: Rowman & Littlefield, 2007.",
+        "url": "https://www.worldcat.org/title/magic-and-superstition-in-europe/oclc/70167706"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Danse_du_sabbat.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Danse_du_sabbat.png"
       }
     ]
   },
@@ -49569,6 +50389,63 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__elixir-vie",
+    "title": "Élixir de vie — Dictionnaire Infernal (1863)",
+    "work": "dict_infernal",
+    "creator": "Engraver unknown (Dictionnaire Infernal, 1863)",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "alchemy",
+    "motifs": [
+      "elixir of life",
+      "alchemy",
+      "philosopher's stone",
+      "immortality potion",
+      "Dictionnaire Infernal",
+      "alchemical laboratory",
+      "transmutation",
+      "Paracelsus"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Elixir_de_vie.png",
+    "summary": "**Élixir de vie** ('Elixir of Life') — illustration from the *Dictionnaire Infernal* (1863) depicting the alchemical quest for the elixir of immortality. This image connects demonological encyclopaedism to alchemical tradition — the *Dictionnaire Infernal* treated alchemy as part of the same occult landscape as demonology and witchcraft.\n\n**Alchemical context:** The *elixir vitae* was one of the supreme goals of European alchemy alongside the Philosopher's Stone (*lapis philosophorum*). Paracelsus (1493–1541) distinguished the 'Elixir' as a medicine of universal healing from the Stone as a transmutational agent; their conflation was common in popular imagination. The Dictionnaire Infernal's entry on the elixir likely traces its history from Roger Bacon's *Opus Majus* through Paracelsian medicine.\n\n**Position in 19th-century occultism:** By 1863, the elixir had become a Romantic cultural obsession — appearing in Balzac's *La Recherche de l'Absolu* (1834) and Hawthorne's 'Dr. Heidegger's Experiment' (1837). De Plancy's encyclopaedic treatment positioned alchemy as a dangerous occult art rather than a proto-scientific practice, setting the tone for later historiography.\n\nFor further reading: Principe, Lawrence M. *The Secrets of Alchemy* (U of Chicago Press, 2013); Newman, William R., and Lawrence M. Principe. *Alchemy Tried in the Fire* (U of Chicago Press, 2002).",
+    "key_concepts": [
+      "elixir of life",
+      "alchemy",
+      "immortality",
+      "philosopher's stone",
+      "Paracelsus"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Principe, Lawrence M. *The Secrets of Alchemy*. Chicago: U of Chicago Press, 2013.",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo15506424.html"
+      },
+      {
+        "text": "Newman, William R., and Lawrence M. Principe. *Alchemy Tried in the Fire: Starkey, Boyle, and the Fate of Helmontian Chymistry*. Chicago: U of Chicago Press, 2002.",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/A/bo3640773.html"
+      },
+      {
+        "text": "Rampling, Jennifer M. *The Experimental Fire: Inventing English Alchemy, 1300–1700*. Chicago: U of Chicago Press, 2020.",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo49703936.html"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Elixir_de_vie.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Elixir_de_vie.png"
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__foras",
     "title": "Foras (Forcas) — Dictionnaire Infernal (Le Breton, 1863)",
     "work": "dict_infernal",
@@ -49623,6 +50500,64 @@
       "Ars Goetia tradition"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "dict_infernal__furcas",
+    "title": "Furcas — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "old man",
+      "cruel eyes",
+      "horse",
+      "knight of Hell",
+      "philosophy"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Illustrations_0011_50_Furcas.jpg",
+    "summary": "**Furcas** (Knight of Hell, commanding 20 legions) — Le Breton's portrait for the *Dictionnaire Infernal* (1863). As Goetia demon #50, Furcas is depicted as a cruel old man with a long beard, riding a pale horse and carrying a sharp spear — a distinctly knightly demonic figure unlike the monstrous composites used for most Goetia demons.\n\n**Powers:** Teaches philosophy, astronomy, rhetoric, logic, cheiromancy (palmistry), and pyromancy. One of the more educational demons of the Goetia, associated with transmitting classical learning through magical means.\n\n**Scholarly context:** The 'teaching demons' of the Goetia — those who bestow knowledge of arts and sciences — reflect medieval debates about the permissibility of occult learning and licit vs. illicit knowledge. Furcas sits in this tradition alongside Stolas (astronomy/herbs) and Naberius (arts and sciences).",
+    "key_concepts": [
+      "Furcas",
+      "Knight of Hell",
+      "Goetia #50",
+      "teaching demon",
+      "Le Breton engraving"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Illustrations_0011_50_Furcas.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Illustrations_0011_50_Furcas.jpg"
+      }
+    ]
   },
   {
     "id": "dict_infernal__furfur",
@@ -49849,6 +50784,64 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__ipos",
+    "title": "Ipos — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "lion head",
+      "goose feet",
+      "hare tail",
+      "angel wings",
+      "Earl of Hell"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ipos.gif",
+    "summary": "**Ipos** (Prince and Earl of Hell, commanding 36 legions) — Goetia demon #22. Le Breton depicts Ipos in the traditional chimeric form: head of a lion, body of a man or angel, goose feet, and the tail of a hare — a deliberately ridiculous composite that reflects the grotesque comedy of the lower orders of Hell's court.\n\n**Powers:** Reveals all things past, present, and future; makes men witty and bold. Ipos thus belongs to the prophetic/divinatory class of demons alongside Vassago and Agares, who also reveal hidden things.\n\n**Textual tradition:** Appears in Weyer's *Pseudomonarchia Daemonum* (1563) as 'Ayporos', and in Scot's *Discoverie of Witchcraft* (1584). The name may derive from the Greek 'hypos' (horse), explaining the horse-like composite form.",
+    "key_concepts": [
+      "Ipos",
+      "Earl of Hell",
+      "Goetia #22",
+      "prophetic demon",
+      "chimeric form"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Ipos.gif",
+        "url": "https://commons.wikimedia.org/wiki/File:Ipos.gif"
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__leonard",
     "title": "Leonard (Grand Master of Sabbaths) — Dictionnaire Infernal (Le Breton, 1863)",
     "work": "dict_infernal",
@@ -50018,6 +51011,239 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__malthas",
+    "title": "Malthas (Halphas) — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "stork form",
+      "tower builder",
+      "Earl of Hell",
+      "military demon"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Malthas.jpg",
+    "summary": "**Halphas** (also Malthas, Malthus, Malthас — Earl of Hell, commanding 26 legions) — Goetia demon #38, notably one of the only Goetia demons for whom no seal was included in the Mathers/Crowley 1904 Goetia edition. Le Breton's DI portrait depicts him as a stork or dove speaking in a hoarse voice, then building towers filled with ammunition and weapons.\n\n**Powers:** Builds towers of war and fills them with weapons and munitions; sends warriors to wherever the summoner wishes. A purely military demon, architect of fortifications.\n\n**Textual note:** The name appears in various spellings — Halphas (Scot), Malthus (Pseudomonarchia), Malthas (de Plancy) — suggesting the original demononym was phonetically unstable across manuscript traditions.",
+    "key_concepts": [
+      "Halphas",
+      "Malthas",
+      "Earl of Hell",
+      "Goetia #38",
+      "tower builder demon"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Malthas.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Malthas.jpg"
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__mammon",
+    "title": "Mammon — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "avarice",
+      "wealth demon",
+      "biblical demon",
+      "greed personification"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Mammon.jpg",
+    "summary": "**Mammon** — the demon of avarice, whose name is used in Matthew 6:24 ('You cannot serve both God and Mammon') and Luke 16:13. Le Breton's *Dictionnaire Infernal* portrait renders Mammon as a distinctive crawling, subterranean figure — crawling from underground, eyes fixed on gold — reflecting the medieval tradition of Mammon as the demon who taught humans to ransack the earth for minerals and treasure.\n\n**Theological significance:** Unlike most Goetia demons who have military ranks, Mammon represents a vice personification — the dangerous conflation of spiritual and material temptation. Peter Binsfeld's *Treatise on Confessions by Evildoers and Witches* (1589) assigned him to the deadly sin of avarice.\n\n**Cultural resonance:** Milton names Mammon in *Paradise Lost* as a fallen angel who 'had of all the Spirits / That fell, the lowest thoughts'. This literary representation directly influenced 19th-century occultists including de Plancy.",
+    "key_concepts": [
+      "Mammon",
+      "demon of avarice",
+      "biblical demon",
+      "deadly sin",
+      "treasure demon"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Mammon.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Mammon.jpg"
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__marchocias",
+    "title": "Marchosias — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "wolf form",
+      "griffin wings",
+      "serpent tail",
+      "fire breath",
+      "Marquis of Hell"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Marchocias.jpg",
+    "summary": "**Marchosias** (Marquis of Hell, commanding 30 legions) — Goetia demon #35. Le Breton's portrait renders the canonical description: a great wolf with griffin wings and serpent tail, breathing fire, before assuming human form when commanded. An unusually dramatic composite even by Goetia standards.\n\n**Powers:** Excellent fighter and willing responder to demands; answers all questions truthfully. Marchosias reportedly told Solomon he hoped to return to Heaven after 1,200 years — the only Goetia demon said to aspire to redemption.\n\n**Unique mythological position:** This claim of possible salvation within the Goetia tradition makes Marchosias a theologically interesting case for scholars of early modern demonology — the *Dictionnaire Infernal* faithfully reproduces this tradition from the 17th-century Ars Goetia.",
+    "key_concepts": [
+      "Marchosias",
+      "Marquis of Hell",
+      "Goetia #35",
+      "wolf demon",
+      "fire demon"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Marchocias.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Marchocias.jpg"
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__moloch",
+    "title": "Moloch — Dictionnaire Infernal (1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Dictionnaire Infernal",
+      "Levant deity",
+      "child sacrifice",
+      "bull-headed idol",
+      "ancient Semitic religion",
+      "biblical demon"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ill_dict_infernal_p0486_moloch.jpg",
+    "summary": "**Moloch** — one of the most notorious figures in biblical demonology, the Canaanite/Phoenician deity to whom children were reportedly sacrificed (Leviticus 18:21, 20:2–5; 2 Kings 23:10; Jeremiah 32:35). The *Dictionnaire Infernal* illustrates him as a massive bronze bull-headed figure with a furnace within — children placed in his outstretched arms slide into the fire.\n\n**Biblical and archaeological context:** Modern scholarship debates the nature of the 'Molech' cult — whether it involved actual child sacrifice or symbolic fire passage — with Day's *Molech* (1989) providing the most thorough analysis. The furnace-idol iconography common in medieval and early modern art derives primarily from Diodorus Siculus's description of Carthaginian Kronos worship (which was wrongly identified with Moloch).\n\n**Reception history:** The Le Breton DI image of Moloch-as-furnace became an iconic image of ancient religious horror, influencing Flaubert's *Salammbô* (1862) and persistent into modern political metaphors for systems that consume the young.\n\nFor further reading: Day, John. *Molech: A God of Human Sacrifice in the Old Testament* (Cambridge UP, 1989); Heider, George C. *The Cult of Molek* (Sheffield, 1985).",
+    "key_concepts": [
+      "Moloch",
+      "child sacrifice",
+      "bronze bull idol",
+      "Canaanite deity",
+      "biblical demon"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Day, John. *Molech: A God of Human Sacrifice in the Old Testament*. Cambridge: Cambridge UP, 1989.",
+        "url": "https://www.worldcat.org/title/molech/oclc/18414416"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Ill_dict_infernal_p0486_moloch.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Ill_dict_infernal_p0486_moloch.jpg"
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__naberius",
     "title": "Naberius (Naberus) — Dictionnaire Infernal (Le Breton, 1863)",
     "work": "dict_infernal",
@@ -50071,6 +51297,63 @@
       "Ars Goetia tradition"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "dict_infernal__nybbas",
+    "title": "Nybbas — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "court jester",
+      "dreams and visions",
+      "fool demon",
+      "master of visions"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Nybbas.png",
+    "summary": "**Nybbas** — the Court Buffoon of Hell and Master of Visions in the *Dictionnaire Infernal*. This demon is specific to Collin de Plancy's catalogue — not appearing in the Goetia or major Protestant demonological works — reflecting de Plancy's incorporation of French Catholic regional demonological traditions.\n\n**Role in Hell's court:** Nybbas manages the dreams and visions of men, controlling what is revealed to sleepers and prophets. As the 'court jester' of Hell, he occupies an unusual position — his mockery and comedy are themselves demonic tools for deceiving humanity.\n\n**Scholarly context:** The figure of the court jester demon reflects the carnivalesque dimension of Hell's court that appears in late medieval mystery plays and the Malleus Maleficarum's (1486) description of demonic shapeshifting and disguise. The *Dictionnaire Infernal*'s inclusion of Nybbas shows de Plancy drawing on vernacular French occult tradition.",
+    "key_concepts": [
+      "Nybbas",
+      "court jester demon",
+      "master of visions",
+      "Hell's court",
+      "dream demon"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Nybbas.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Nybbas.png"
+      }
+    ]
   },
   {
     "id": "dict_infernal__orobas",
@@ -50968,6 +52251,62 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__pruflas",
+    "title": "Pruflas — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "flame head",
+      "discord demon",
+      "prince of Hell",
+      "hawk head"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Pruflas.jpg",
+    "summary": "**Pruflas** (also Bufas — Prince and Grand Duke of Hell) — a demon prominent in the *Dictionnaire Infernal* and Johann Weyer's *De Praestigiis Daemonum* (1563), not one of the standard 72 Goetia spirits but important in 16th-century Continental demonological tradition. Le Breton depicts him with a flaming or hawk-headed form.\n\n**Powers:** Excites war, discord, and dispute; arouses hatred between princes and men; causes strifes and lies. Commands 26 legions.\n\n**Textual tradition:** Johann Weyer includes Pruflas in his expanded demon catalogues in the *Pseudomonarchia Daemonum*, making him one of the best-attested non-Goetia demons of the early modern period. De Plancy's systematic inclusion of such demons demonstrates the *Dictionnaire Infernal*'s comprehensive approach beyond the standard Ars Goetia.",
+    "key_concepts": [
+      "Pruflas",
+      "Grand Duke of Hell",
+      "discord demon",
+      "Weyer demonology"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Pruflas.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Pruflas.jpg"
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__raum",
     "title": "Raum (Raim) — Dictionnaire Infernal (Le Breton, 1863)",
     "work": "dict_infernal",
@@ -51077,6 +52416,67 @@
       "Ars Goetia tradition"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "dict_infernal__sabbat-complet",
+    "title": "Le sabbat dans tous ses détails — Dictionnaire Infernal (1863)",
+    "work": "dict_infernal",
+    "creator": "Engraver unknown (Dictionnaire Infernal, 1863)",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "witchcraft",
+    "motifs": [
+      "witches' sabbath",
+      "comprehensive sabbath",
+      "Leonard the goat",
+      "diabolism",
+      "Dictionnaire Infernal",
+      "sabbath diagram",
+      "witch gathering",
+      "nocturnal ritual"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Le_sabbat_dans_tous_ses_détails.png",
+    "summary": "**Le sabbat dans tous ses détails** ('The Sabbath in All Its Details') — the most comprehensive single sabbath illustration in the *Dictionnaire Infernal* (1863), presenting the complete demonological image of the witches' sabbath as a panoramic or diagrammatic scene incorporating all its supposed elements simultaneously.\n\n**Standard sabbath elements illustrated:** The typical DI-era sabbath scene includes: the presiding demon in goat form (Leonard, the Grand Master of Sabbaths, already in our collection); the ritual homage to Leonard; the witch dance (back-to-back); the feast; the flight on broomsticks; the copulation with demons (incubus/succubus); and the instruction of new initiates.\n\n**Demonological sources:** The sabbath narrative was synthesised from trial confessions, theological treatises (*Malleus Maleficarum*, 1486; Institoris and Sprenger), and travel accounts (de Lancre, 1612). By 1863 it was a fully crystallised cultural image — the DI systematises the visual tradition that demonologists had constructed since the 15th century.\n\nFor further reading: Briggs, Robin. *Witches and Neighbours: The Social and Cultural Context of European Witchcraft* (1996); Hutton, Ronald. *The Triumph of the Moon: A History of Modern Pagan Witchcraft* (1999).",
+    "key_concepts": [
+      "witches' sabbath",
+      "comprehensive sabbath",
+      "demonological diagram",
+      "witch gathering",
+      "sabbath iconography"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Roper, Lyndal. *Witch Craze: Terror and Fantasy in Baroque Germany*. New Haven: Yale UP, 2004.",
+        "url": "https://www.worldcat.org/title/witch-craze/oclc/52706578"
+      },
+      {
+        "text": "Clark, Stuart. *Thinking with Demons: The Idea of Witchcraft in Early Modern Europe*. Oxford: Oxford UP, 1997.",
+        "url": "https://www.worldcat.org/title/thinking-with-demons/oclc/35022432"
+      },
+      {
+        "text": "Kors, Alan Charles, and Edward Peters, eds. *Witchcraft in Europe, 400–1700: A Documentary History*. 2nd ed. Philadelphia: UPenn Press, 2001.",
+        "url": "https://www.worldcat.org/title/witchcraft-in-europe-400-1700/oclc/44592527"
+      },
+      {
+        "text": "Bailey, Michael D. *Magic and Superstition in Europe: A Concise History from Antiquity to the Present*. Lanham: Rowman & Littlefield, 2007.",
+        "url": "https://www.worldcat.org/title/magic-and-superstition-in-europe/oclc/70167706"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Le_sabbat_dans_tous_ses_d%C3%A9tails.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Le_sabbat_dans_tous_ses_détails.png"
+      }
+    ]
   },
   {
     "id": "dict_infernal__sabnock",
@@ -51352,6 +52752,64 @@
     "summary_status": "authored"
   },
   {
+    "id": "dict_infernal__uvall",
+    "title": "Uvall — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "dromedary form",
+      "Duke of Hell",
+      "love demon",
+      "past and future"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Uvall.png",
+    "summary": "**Uvall** (also Vual, Voval, Vovall — Duke of Hell, commanding 37 legions) — Goetia demon #47. Le Breton renders Uvall in the traditional form: a great dromedary (camel), who assumes human form after taking on a strange and frightful appearance, and speaks Egyptian.\n\n**Powers:** Procures the love of women; creates friendship between friends and foes; reveals things past, present, and to come. Also makes enemies into friends. One of the love-magic specialists of the Goetia.\n\n**Linguistic note:** The detail that Uvall 'speaks Egyptian' — meaning Coptic or a form of Afroasiatic language — reflects the early modern perception of Egyptian magic as the most ancient and potent, connecting Goetia practice to Hermetic traditions of Egypt that interested Renaissance scholars like Ficino and Pico della Mirandola.",
+    "key_concepts": [
+      "Uvall",
+      "Vual",
+      "Duke of Hell",
+      "Goetia #47",
+      "love demon",
+      "dromedary form"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Uvall.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Uvall.png"
+      }
+    ]
+  },
+  {
     "id": "dict_infernal__valefor",
     "title": "Valefor — Dictionnaire Infernal (Le Breton, 1863)",
     "work": "dict_infernal",
@@ -51405,6 +52863,63 @@
       "Ars Goetia tradition"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "dict_infernal__vampire-kisilova",
+    "title": "Le vampire de Kisilova — Dictionnaire Infernal (1863)",
+    "work": "dict_infernal",
+    "creator": "Engraver unknown (Dictionnaire Infernal, 1863)",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "witchcraft",
+    "motifs": [
+      "vampire",
+      "undead",
+      "Kisilova",
+      "Serbian folklore",
+      "blood-drinking",
+      "Dictionnaire Infernal",
+      "corpse resurrection",
+      "18th century vampire panic"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Le_vampire_de_Kisilova.png",
+    "summary": "**Le vampire de Kisilova** ('The Vampire of Kisilova') — illustration documenting the celebrated 1725 vampire case from Kisilova (now Kisiljevo, Serbia), then part of the Austrian Empire. This was one of the first officially investigated and documented 'vampire' incidents in Europe, sparking an intense 18th-century debate about the undead.\n\n**Historical case:** The Kisilova case involved a Serbian villager named Peter Plogojowitz who reportedly died in 1725 and then returned to kill nine other villagers within a week. Austrian officials and an imperial provisor supervised the examination of the corpse, finding it uncorrupted with fresh blood. The account was published in *Wienerisches Diarium* (1725) and contributed to Dom Calmet's *Dissertations sur les apparitions* (1746).\n\n**Significance:** The 18th-century vampire panic (encompassing the Kisilova and Medvegia cases) was the first time vampire belief entered official European consciousness through documented government reports. Calmet's theological analysis, Voltaire's satirical treatment (*Dictionnaire philosophique*, 1764), and medical discussions by Dom Antoine Augustin Calmet established the vampire as a genuine intellectual problem for the Enlightenment.\n\nFor further reading: Barber, Paul. *Vampires, Burial, and Death: Folklore and Reality* (Yale UP, 1988); Calmet, Augustin. *Treatise on Vampires and Revenants* (Desert Island Books, 1993 repr.).",
+    "key_concepts": [
+      "vampire",
+      "Kisilova case",
+      "Peter Plogojowitz",
+      "undead folklore",
+      "18th century vampire panic"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Roper, Lyndal. *Witch Craze: Terror and Fantasy in Baroque Germany*. New Haven: Yale UP, 2004.",
+        "url": "https://www.worldcat.org/title/witch-craze/oclc/52706578"
+      },
+      {
+        "text": "Barber, Paul. *Vampires, Burial, and Death: Folklore and Reality*. New Haven: Yale UP, 1988.",
+        "url": "https://www.worldcat.org/title/vampires-burial-and-death/oclc/17208735"
+      },
+      {
+        "text": "Calmet, Dom Augustin. *Dissertations sur les apparitions des anges, des démons et des esprits*. Paris, 1746.",
+        "url": "https://archive.org/details/dissertationsure00calm"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Le_vampire_de_Kisilova.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Le_vampire_de_Kisilova.png"
+      }
+    ]
   },
   {
     "id": "dict_infernal__vassago",
@@ -51516,6 +53031,121 @@
       "19th century occultism"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "dict_infernal__volac",
+    "title": "Volac — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "child form",
+      "dragon wings",
+      "serpent master",
+      "President of Hell"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Volac.png",
+    "summary": "**Volac** (also Valac, Ualac, Doolas — President of Hell, commanding 38 legions) — Goetia demon #62. Le Breton depicts Volac as a child with angel wings riding a two-headed dragon — one of the more arresting images in the series, juxtaposing innocent child iconography with demonic multiplicity.\n\n**Powers:** Provides true answers concerning hidden treasures; reveals where serpents can be seen and brings them harmlessly to the caller. Uniquely associated with snake-handling among the Goetia spirits.\n\n**Scholarly note:** The child-riding-dragon iconography reflects early modern ambivalence about youthful innocence and demonic corruption — a motif also seen in witchcraft imagery where children are depicted as particularly susceptible to diabolical influence (Roper 2004). Volac's childlike form may also encode his relative 'lowness' in Hell's hierarchy despite his rank as President.",
+    "key_concepts": [
+      "Volac",
+      "Valac",
+      "President of Hell",
+      "Goetia #62",
+      "child demon",
+      "serpent master"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Volac.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Volac.png"
+      }
+    ]
+  },
+  {
+    "id": "dict_infernal__xaphan",
+    "title": "Xaphan — Dictionnaire Infernal (Le Breton, 1863)",
+    "work": "dict_infernal",
+    "creator": "Louis Le Breton",
+    "date": "1863",
+    "place": "Paris",
+    "era": "modern",
+    "tradition": "demonology",
+    "motifs": [
+      "demon portrait",
+      "demonology",
+      "Le Breton engraving",
+      "Dictionnaire Infernal",
+      "bellows demon",
+      "fire stoker",
+      "fallen angel",
+      "inventor of hellfire"
+    ],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xaphan.png",
+    "summary": "**Xaphan** (also Zephan, Zapan) — a demon unique to the *Dictionnaire Infernal*, not appearing in the standard Goetia. Le Breton depicts him as a wingless fallen angel operating a bellows to stoke the fires of Hell, his face and body illuminated by the infernal flames.\n\n**Legend:** When the rebellious angels fell, Xaphan had proposed setting Heaven on fire before their expulsion. Thwarted, he was condemned to blow air on the furnaces of Hell for eternity. This makes him the archetypal 'bad idea' demon — his ambition perpetually frustrated into servile punishment.\n\n**Iconographic connections:** The bellows-operating demon echoes Ukobach, the hellfire stoker already in our collection, demonstrating the DI's systematic cataloguing of Hell's 'service staff' (cf. Nybbas, who manages dreams). This labour-division mythology of Hell reflects both medieval guild culture and Dante's *Inferno* tradition of specialised torments.",
+    "key_concepts": [
+      "Xaphan",
+      "bellows demon",
+      "hellfire stoker",
+      "fallen angel",
+      "inventor of fire"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863. Plates engraved by Louis Le Breton.",
+        "url": "https://archive.org/details/dictionnaireinfo00coll"
+      },
+      {
+        "text": "Mathers, S. L. MacGregor, trans., and Aleister Crowley, ed. *The Goetia: The Lesser Key of Solomon the King*. 1904; repr. York Beach: Weiser, 1995.",
+        "url": "https://archive.org/details/the-goetia-the-lesser-key-of-solomon-the-king"
+      },
+      {
+        "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+        "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+      },
+      {
+        "text": "Levack, Brian P. *The Witch-Hunt in Early Modern Europe*. 4th ed. London: Routledge, 2016.",
+        "url": "https://www.routledge.com/The-Witch-Hunt-in-Early-Modern-Europe/Levack/p/book/9781138793729"
+      },
+      {
+        "text": "Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Ithaca: Cornell UP, 1986.",
+        "url": "https://www.worldcat.org/title/mephistopheles-the-devil-in-the-modern-world/oclc/12809234"
+      },
+      {
+        "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Xaphan.png",
+        "url": "https://commons.wikimedia.org/wiki/File:Xaphan.png"
+      }
+    ]
   },
   {
     "id": "dict_infernal__zepar",
@@ -65587,6 +67217,268 @@
     ]
   },
   {
+    "id": "geheime_figuren_book2__p47-heavenly-earthly-eve",
+    "title": "The Heavenly and Earthly Eve / Star of the Kings from the Orient (Geheime Figuren Book 2, p.47)",
+    "work": "geheime_figuren_book2",
+    "creator": "Gold und Rosenkreuzer / J. D. A. Eckhardt (ed.)",
+    "date": "1788",
+    "place": "Altona",
+    "era": "early_modern",
+    "tradition": "western_alchemy",
+    "motifs": [
+      "Rosicrucian diagram",
+      "Sophia cosmogram",
+      "seven spheres",
+      "seven eagles",
+      "seven lions",
+      "seven ravens",
+      "Star of the East",
+      "Tinctura",
+      "Natura",
+      "Rosa Crucis",
+      "four elements",
+      "Gold und Rosenkreuzer",
+      "theosophical diagram"
+    ],
+    "rights": "Public domain. Internet Archive scan.",
+    "provenance_url": "https://archive.org/details/SecretSymbolsOfTheRosicruciansBook2J.D.A.Eckhardt1788",
+    "summary": "**The Heavenly and Earthly Eve, Mother of all Creatures in Heaven and on Earth / The Star of the Kings from the Orient** — the central cosmological diagram of *Geheime Figuren der Rosenkreuzer* Book 2 (Altona, 1788), page 47.\n\n**Composition:** A vast alchemical cosmogram organised around the axis of 'Oculus Divinus' (Divine Eye) / 'Virgin Sophia' / 'Oculus Naturae' (Natural Eye). The upper realm is governed by the 'Sun of Justice' (Christ) flanked by the Heavenly Eye and Natural Eye; below, the great Sophia-Earth sphere descends through seven registers: **7 Eagles / 7 Lions / 7 Ravens / 7 Spheres** — a graduated cosmological hierarchy encoding the alchemical stages of transmutation.\n\n**Inscriptions:** 'ROSA CRUCIS VENITE' (Rosy Cross, come!); 'TINCTURA COELESTIS' (Heavenly Tincture) vs 'TINCTURA PHYSICA' (Physical Tincture); 'LUMEN GRATIAE, ERGON sunt duo / Heavenly Eve, The New Birth' vs 'LUMEN NATURAE, PARERGON FRATRES. / Earthly Eve, The Old Birth'.\n\n**Alchemical-theological synthesis:** The diagram encodes the Gold und Rosenkreuzer's core doctrine that the divine tincture (lapis philosophorum) corresponds to Christ's redemption — the alchemical Great Work is a spiritual autobiography of salvation. The '7 Eagles, 7 Lions, 7 Ravens, 7 Spheres' encode the seven planetary metals and their purification through successive operations.\n\n**Context in Rosicrucian tradition:** The Geheime Figuren's cosmological diagrams are the most sophisticated visual synthesis of 18th-century Rosicrucianism, drawing on Paracelsian macrocosm/microcosm theory, Böhme's theosophy, and the Sophia tradition in Protestant mysticism. For further reading: Yates, *The Rosicrucian Enlightenment* (1972); McIntosh, *The Rosicrucians* (1997).",
+    "key_concepts": [
+      "Sophia cosmogram",
+      "Tinctura Coelestis",
+      "seven spheres",
+      "Rosa Crucis",
+      "Gold und Rosenkreuzer"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Szulakowska, Urszula. *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration*. Leiden: Brill, 2000.",
+        "url": "https://brill.com/view/title/7956"
+      },
+      {
+        "text": "Yates, Frances A. *The Rosicrucian Enlightenment*. London: Routledge & Kegan Paul, 1972.",
+        "url": "https://www.worldcat.org/title/rosicrucian-enlightenment/oclc/489688"
+      },
+      {
+        "text": "McIntosh, Christopher. *The Rosicrucians: The History, Mythology and Rituals of an Occult Order*. 3rd ed. York Beach: Weiser, 1997.",
+        "url": "https://www.worldcat.org/title/rosicrucians/oclc/37018024"
+      },
+      {
+        "text": "Principe, Lawrence M. *The Secrets of Alchemy*. Chicago: U of Chicago Press, 2013.",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo15506424.html"
+      },
+      {
+        "text": "Faivre, Antoine. *Access to Western Esotericism*. Albany: SUNY Press, 1994.",
+        "url": "https://www.worldcat.org/title/access-to-western-esotericism/oclc/29842831"
+      },
+      {
+        "text": "Godwin, Joscelyn. *The Golden Thread: The Ageless Wisdom of the Western Mystery Traditions*. Wheaton: Quest Books, 2007.",
+        "url": "https://www.worldcat.org/title/golden-thread/oclc/74916040"
+      },
+      {
+        "text": "Obrist, Barbara. *La cosmologie médiévale: Textes et images*. Florence: SISMEL, 2004.",
+        "url": "https://www.worldcat.org/title/cosmologie-medievale/oclc/60326437"
+      }
+    ]
+  },
+  {
+    "id": "geheime_figuren_book2__p56-figura-cabalistica",
+    "title": "Figura Cabalistica of the Wonderful Cipher 1.2.3.4. (Geheime Figuren Book 2, p.56)",
+    "work": "geheime_figuren_book2",
+    "creator": "Gold und Rosenkreuzer / J. D. A. Eckhardt (ed.)",
+    "date": "1788",
+    "place": "Altona",
+    "era": "early_modern",
+    "tradition": "western_alchemy",
+    "motifs": [
+      "Figura Cabalistica",
+      "fourfold cipher",
+      "alchemical diagram",
+      "four elements",
+      "fire types",
+      "Natura/Tinctura",
+      "heaven/hell circle",
+      "IGNIS/AER/AQUA/TERRA",
+      "Rosicrucian diagram",
+      "Gold und Rosenkreuzer",
+      "theosophical synthesis"
+    ],
+    "rights": "Public domain. Internet Archive scan.",
+    "provenance_url": "https://archive.org/details/SecretSymbolsOfTheRosicruciansBook2J.D.A.Eckhardt1788",
+    "summary": "**Figura Cabalistica of the Wonderful Cipher 1.2.3.4.** — page 56 of *Geheime Figuren der Rosenkreuzer* Book 2 (Altona, 1788), one of the most complex alchemical diagrams in the Rosicrucian corpus.\n\n**Upper diagram:** A complex ring system contrasting 'The Heavenly Sun with his rainbow and 4 colours — NATURA' (left) with 'The Earthly Sun with his rainbow and 4 colours — TINCTURA' (right). The inner rings contain: 'Divine / Fiery / Historical / Tinctura / Natural' sectors with alchemical symbols; the outer ring lists four types of fire — Straight Natural Fire, Supernatural Fire, Fire Against Nature, and Unnatural Fire. At centre: IGNIS, AER, AQUA, TERRA (the four elements) with alchemical symbols. Additional notations: 'Dry way' / 'Coagula' / 'Corruptio' / 'Regeneratio' / 'Wet way'.\n\n**Lower diagram:** A second circular system labelled GOD/HEAVEN/HELL with concentric rings bearing G.H. inscriptions, Hebrew letters, and directional notations (EVENING/MORNING, Equinox, Noon/Midnight, Polus Arctic/Antarctic). At centre: a hexagram/Star of David over the divine name.\n\n**Cipher 1.2.3.4.:** The title 'Wonderful Cipher' refers to the fourfold structure of creation encoded in the diagram — 4 colours, 4 elements, 4 fire types, 4 cosmological directions — reflecting the Paracelsian/Pythagorean tradition of quaternary divine architecture.\n\n**Textual framing:** Biblical citations from Romans 11:36 ('Of him and through him and to him are all things'), Acts 17:28, and Ephesians 4:6 frame the diagram within Protestant orthodox theology, typical of the Gold und Rosenkreuzer's synthesis of esoteric alchemy with Reformed Christianity.",
+    "key_concepts": [
+      "Figura Cabalistica",
+      "four elements",
+      "four fires",
+      "Natura/Tinctura",
+      "Heaven/Hell circle"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Szulakowska, Urszula. *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration*. Leiden: Brill, 2000.",
+        "url": "https://brill.com/view/title/7956"
+      },
+      {
+        "text": "Yates, Frances A. *The Rosicrucian Enlightenment*. London: Routledge & Kegan Paul, 1972.",
+        "url": "https://www.worldcat.org/title/rosicrucian-enlightenment/oclc/489688"
+      },
+      {
+        "text": "McIntosh, Christopher. *The Rosicrucians: The History, Mythology and Rituals of an Occult Order*. 3rd ed. York Beach: Weiser, 1997.",
+        "url": "https://www.worldcat.org/title/rosicrucians/oclc/37018024"
+      },
+      {
+        "text": "Principe, Lawrence M. *The Secrets of Alchemy*. Chicago: U of Chicago Press, 2013.",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo15506424.html"
+      },
+      {
+        "text": "Faivre, Antoine. *Access to Western Esotericism*. Albany: SUNY Press, 1994.",
+        "url": "https://www.worldcat.org/title/access-to-western-esotericism/oclc/29842831"
+      },
+      {
+        "text": "Godwin, Joscelyn. *The Golden Thread: The Ageless Wisdom of the Western Mystery Traditions*. Wheaton: Quest Books, 2007.",
+        "url": "https://www.worldcat.org/title/golden-thread/oclc/74916040"
+      },
+      {
+        "text": "Obrist, Barbara. *La cosmologie médiévale: Textes et images*. Florence: SISMEL, 2004.",
+        "url": "https://www.worldcat.org/title/cosmologie-medievale/oclc/60326437"
+      }
+    ]
+  },
+  {
+    "id": "geheime_figuren_book2__p57-heptamundis-mysteriis",
+    "title": "De Heptamundis Mysteriis — Seven Mysteries of the World (Geheime Figuren Book 2, p.57)",
+    "work": "geheime_figuren_book2",
+    "creator": "Gold und Rosenkreuzer / J. D. A. Eckhardt (ed.)",
+    "date": "1788",
+    "place": "Altona",
+    "era": "early_modern",
+    "tradition": "western_alchemy",
+    "motifs": [
+      "Heptamundi",
+      "seven worlds",
+      "Theoria/Practica",
+      "Rosicrucian diagram",
+      "seven mysteries",
+      "Venn diagram",
+      "Gold und Rosenkreuzer",
+      "rebirth",
+      "God and nature",
+      "hexagram",
+      "Seven Days",
+      "initiate doctrine"
+    ],
+    "rights": "Public domain. Internet Archive scan.",
+    "provenance_url": "https://archive.org/details/SecretSymbolsOfTheRosicruciansBook2J.D.A.Eckhardt1788",
+    "summary": "**De Heptamundis Mysteriis** ('Of the Seven Mysteries of the World') — page 57 of *Geheime Figuren der Rosenkreuzer* Book 2 (Altona, 1788), a landscape-format diagram presenting the Seven Worlds as overlapping Theoria and Practica realms.\n\n**Structure:** The diagram is divided into two great overlapping sphere-systems:\n- **THEORIA** (left): Multiple concentric rings with inscriptions encoding the theoretical aspects of each of the seven worlds\n- **PRACTICA** (right): Corresponding practical operations and their relationship to the divine\n- Between them: Dense inscriptions reading seven interlocking cosmic principles, hexagram symbols, and cross-references\n\n**Bottom caption:** 'the rebirth and unification with God' — the soteriological goal that unites the theoretical and practical dimensions.\n\n**Framing:** 'O Man, know God and thyself: And thou shalt not want in heaven and on earth' — an injunction summarising the entire Rosicrucian programme of self-knowledge as path to divine union.\n\n**Heptamundi tradition:** The doctrine of seven worlds (sometimes seven heavens, seven earths, seven hells) appears across multiple esoteric traditions: Jewish Merkavah mysticism, Islamic *Isra and Mi'raj* literature, Gnostic cosmology, Neoplatonic spheres, and alchemical planetary metals. The GF2 synthesis collapses these into a unified geometric schema typical of late-18th-century Rosicrucian syncretism.\n\nFor further reading see Merkur, Dan. *Gnosis: An Esoteric Tradition of Mystical Visions and Unions* (1993); Szulakowska, *The Alchemy of Light* (2000).",
+    "key_concepts": [
+      "seven worlds",
+      "Theoria/Practica",
+      "heptamundis",
+      "seven mysteries",
+      "Rosicrucian cosmology"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Szulakowska, Urszula. *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration*. Leiden: Brill, 2000.",
+        "url": "https://brill.com/view/title/7956"
+      },
+      {
+        "text": "Yates, Frances A. *The Rosicrucian Enlightenment*. London: Routledge & Kegan Paul, 1972.",
+        "url": "https://www.worldcat.org/title/rosicrucian-enlightenment/oclc/489688"
+      },
+      {
+        "text": "McIntosh, Christopher. *The Rosicrucians: The History, Mythology and Rituals of an Occult Order*. 3rd ed. York Beach: Weiser, 1997.",
+        "url": "https://www.worldcat.org/title/rosicrucians/oclc/37018024"
+      },
+      {
+        "text": "Principe, Lawrence M. *The Secrets of Alchemy*. Chicago: U of Chicago Press, 2013.",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo15506424.html"
+      },
+      {
+        "text": "Faivre, Antoine. *Access to Western Esotericism*. Albany: SUNY Press, 1994.",
+        "url": "https://www.worldcat.org/title/access-to-western-esotericism/oclc/29842831"
+      },
+      {
+        "text": "Godwin, Joscelyn. *The Golden Thread: The Ageless Wisdom of the Western Mystery Traditions*. Wheaton: Quest Books, 2007.",
+        "url": "https://www.worldcat.org/title/golden-thread/oclc/74916040"
+      },
+      {
+        "text": "Obrist, Barbara. *La cosmologie médiévale: Textes et images*. Florence: SISMEL, 2004.",
+        "url": "https://www.worldcat.org/title/cosmologie-medievale/oclc/60326437"
+      }
+    ]
+  },
+  {
+    "id": "geheime_figuren_book2__p58-primum-mobile",
+    "title": "The Uncreated and the Unfathomable — Figura Cabalistica / Primum Mobile (Geheime Figuren Book 2, p.58)",
+    "work": "geheime_figuren_book2",
+    "creator": "Gold und Rosenkreuzer / J. D. A. Eckhardt (ed.)",
+    "date": "1788",
+    "place": "Altona",
+    "era": "early_modern",
+    "tradition": "western_alchemy",
+    "motifs": [
+      "Primum Mobile",
+      "Trinity cosmogram",
+      "Figura Cabalistica",
+      "creation diagram",
+      "PRIMA MATERIA",
+      "four elements",
+      "three kingdoms",
+      "celestial sphere",
+      "Rosicrucian diagram",
+      "Gold und Rosenkreuzer",
+      "theosophical synthesis",
+      "Plus Ultra",
+      "equinox",
+      "Eternity/Chaos"
+    ],
+    "rights": "Public domain. Internet Archive scan.",
+    "provenance_url": "https://archive.org/details/SecretSymbolsOfTheRosicruciansBook2J.D.A.Eckhardt1788",
+    "summary": "**The Uncreated and the Unfathomable / Eternity / Primum Mobile — Figura Cabalistica** — page 58 of *Geheime Figuren der Rosenkreuzer* Book 2 (Altona, 1788), a two-register cosmological synthesis.\n\n**Upper register — The Trinity and Creation:** At the apex, the Trinitarian divine ('Father / Son / H.Ghost') radiates from the Tetragrammaton (divine name in Hebrew) with cherubic wings and the motto 'Omnis ab Uno' ('All from One'). Below, the created sphere descends: **PRIMA — MATERIA** flanked by hexagram/Star of Bethlehem symbols; WATER/AIR/FIRE/EARTH (four elements) form the equatorial band. Three inner kingdoms: ANIMAL / VEGETABLE / MINERAL. Central Figura Cabalistica shows **Sulph/Mercu** (Sulphur and Mercury) with 'Tinc-tur-a' (Tinctura) — the alchemical triad of Sulphur/Mercury/Salt completing the work. Caption: 'Plus TERRA Ultra' / 'MID-NIGHT' at the equator.\n\n**Lower register — Celestial Sphere:** A vast circular diagram showing the cosmos divided by ETERNITY (outer ring) and CHAOS (intermediate), with MORNING/EVENING at the equinox points and NOON/MIDNIGHT at the poles (Polus Arctic / Polus Antarctic). Multiple concentric rings carry inscriptions of astrological/elemental content. At centre: the hexagram over the divine name again.\n\n**Cosmological significance:** This is among the most ambitious synthetic diagrams in the Rosicrucian tradition, combining Trinitarian theology, Paracelsian three-principles alchemy (Salt/Sulphur/Mercury), four-element cosmology, Kabbalistic geometry (hexagram/Tetragrammaton), and Ptolemaic celestial sphere into a single image. 'Plus Ultra' ('Further Beyond') — Charles V's imperial motto, here repurposed as a Rosicrucian summons to transcend the mundane.",
+    "key_concepts": [
+      "Primum Mobile",
+      "Trinity cosmogram",
+      "Omnis ab Uno",
+      "three kingdoms",
+      "PRIMA MATERIA"
+    ],
+    "summary_status": "authored",
+    "citations": [
+      {
+        "text": "Szulakowska, Urszula. *The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration*. Leiden: Brill, 2000.",
+        "url": "https://brill.com/view/title/7956"
+      },
+      {
+        "text": "Yates, Frances A. *The Rosicrucian Enlightenment*. London: Routledge & Kegan Paul, 1972.",
+        "url": "https://www.worldcat.org/title/rosicrucian-enlightenment/oclc/489688"
+      },
+      {
+        "text": "McIntosh, Christopher. *The Rosicrucians: The History, Mythology and Rituals of an Occult Order*. 3rd ed. York Beach: Weiser, 1997.",
+        "url": "https://www.worldcat.org/title/rosicrucians/oclc/37018024"
+      },
+      {
+        "text": "Principe, Lawrence M. *The Secrets of Alchemy*. Chicago: U of Chicago Press, 2013.",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo15506424.html"
+      },
+      {
+        "text": "Faivre, Antoine. *Access to Western Esotericism*. Albany: SUNY Press, 1994.",
+        "url": "https://www.worldcat.org/title/access-to-western-esotericism/oclc/29842831"
+      },
+      {
+        "text": "Godwin, Joscelyn. *The Golden Thread: The Ageless Wisdom of the Western Mystery Traditions*. Wheaton: Quest Books, 2007.",
+        "url": "https://www.worldcat.org/title/golden-thread/oclc/74916040"
+      },
+      {
+        "text": "Obrist, Barbara. *La cosmologie médiévale: Textes et images*. Florence: SISMEL, 2004.",
+        "url": "https://www.worldcat.org/title/cosmologie-medievale/oclc/60326437"
+      }
+    ]
+  },
+  {
     "id": "geheime_figuren_wellcome__geheime-l0045259",
     "title": "Three-realm cosmological circle diagram",
     "tier": "A",
@@ -67132,120 +69024,6 @@
     ]
   },
   {
-    "id": "geomancy_ms__hundt-antropologium-L0032471",
-    "title": "Magnus Hundt, Antropologium (Wellcome L0032471)",
-    "work": "Geomancy, Chiromancy & the Renaissance Divination Arts",
-    "creator": "Magnus Hundt",
-    "date": "1501 (Wellcome copy)",
-    "place": "Leipzig, German lands",
-    "era": "renaissance",
-    "tradition": "divination",
-    "motifs": [
-      "physiognomy",
-      "chiromancy",
-      "body map",
-      "anatomy",
-      "Hundt",
-      "Antropologium",
-      "Renaissance",
-      "Wellcome"
-    ],
-    "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:M._Hundt,_Antropologium_de_hominis_dignitate_Wellcome_L0032471.jpg",
-    "summary": "A plate from Magnus Hundt's *Antropologium de hominis dignitate, natura et proprietatibus* (Leipzig, 1501), a proto-anthropological and physiognomical treatise (Wellcome Collection, L0032471).\n\n## Iconography\nThe woodcut plate illustrates human bodily structure and proportion in the style characteristic of early printed physiognomic literature — schematic figures with labelled anatomical features and possibly a body-proportion diagram. Hundt's *Antropologium* sits at the intersection of scholastic philosophy, natural history, and [[motif:physiognomy|physiognomy]].\n\n## Significance\nMagnus Hundt (1449–1519) was a Leipzig physician and philosopher whose *Antropologium* (1501) — an early use of the term — attempted a systematic account of human nature drawing on Aristotle, Galen, and Albert the Great. The work includes physiognomical material and body-diagram conventions later developed by della Porta and others. As one of the earliest printed anthropological treatises, it marks the moment when the medieval compendium tradition (body + soul + stars) begins to transform into something approaching Renaissance humanism. The Wellcome Collection's copy preserves the woodcut illustrations that were the book's primary teaching apparatus.\n\n## For artists & game designers\nAn early Renaissance body-diagram: the human figure systematically labelled as both anatomical specimen and philosophical subject — a template for an in-world occult textbook plate.",
-    "citations": [
-      {
-        "text": "M. Hundt, *Antropologium de hominis dignitate, natura et proprietatibus* (Leipzig, 1501)."
-      },
-      {
-        "text": "Wellcome Collection (CC BY 4.0), L0032471."
-      },
-      {
-        "text": "Wikimedia Commons",
-        "url": "https://commons.wikimedia.org/wiki/File:M._Hundt,_Antropologium_de_hominis_dignitate_Wellcome_L0032471.jpg"
-      },
-      {
-        "text": "Skinner, Stephen. *Geomancy in Theory and Practice: The Oracles of Raphael; Or, Geomancy*. Singapore: Golden Hoard Press, 2011."
-      },
-      {
-        "text": "Fahd, Toufic. *La Divination Arabe: Études religieuses, sociologiques et folkloriques sur le milieu natif de l'Islam*. Leiden: Brill, 1966."
-      },
-      {
-        "text": "Láng, Benedek. *Unlocked Books: Manuscripts of Learned Magic in the Medieval Libraries of Central Europe*. University Park: Pennsylvania State University Press, 2008."
-      },
-      {
-        "text": "Burnett, Charles, ed. *Magic and Divination in the Middle Ages: Texts and Techniques in the Islamic and Christian Worlds*. Aldershot: Variorum, 1996."
-      },
-      {
-        "text": "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989."
-      }
-    ],
-    "key_concepts": [
-      "physiognomy",
-      "Hundt",
-      "Antropologium",
-      "Renaissance body philosophy"
-    ],
-    "summary_status": "authored"
-  },
-  {
-    "id": "geomancy_ms__hundt-antropologium-L0032472",
-    "title": "Magnus Hundt, Antropologium (Wellcome L0032472)",
-    "work": "Geomancy, Chiromancy & the Renaissance Divination Arts",
-    "creator": "Magnus Hundt",
-    "date": "1501 (Wellcome copy)",
-    "place": "Leipzig, German lands",
-    "era": "renaissance",
-    "tradition": "divination",
-    "motifs": [
-      "physiognomy",
-      "chiromancy",
-      "body map",
-      "anatomy",
-      "Hundt",
-      "Antropologium",
-      "Renaissance",
-      "Wellcome"
-    ],
-    "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:M._Hundt,_Antropologium_de_hominis_dignitate_Wellcome_L0032472.jpg",
-    "summary": "A second plate from Magnus Hundt's *Antropologium de hominis dignitate* (Leipzig, 1501), the Wellcome Collection copy (L0032472).\n\n## Iconography\nThis companion woodcut develops the body-diagram and [[motif:physiognomy|physiognomical]] apparatus of the preceding plate — a further illustration from the same treatise, likely showing different aspects of the human figure: head and face diagrams, limb proportions, or internal organ schemes. Together the two plates reconstruct the visual content of Hundt's contribution to Renaissance body philosophy.\n\n## Significance\nThe *Antropologium*'s two Wellcome plates together show the range of the early printed body-diagram tradition, from anatomical-proportional schemes to physiognomic reading. Hundt's work predates the anatomical revolution of Vesalius (*De Humani Corporis Fabrica*, 1543) by forty years; its diagrams are still Galenic and philosophical rather than dissection-based, but they show the same impulse to systematise and illustrate the human body as a legible text. The physiognomical content — reading character from bodily features — connects Hundt directly to the divinatory tradition.\n\n## For artists & game designers\nThe companion plate: viewed together with L0032471, the two reconstruct a complete illustrated spread from one of the earliest printed 'human science' textbooks.",
-    "citations": [
-      {
-        "text": "M. Hundt, *Antropologium de hominis dignitate, natura et proprietatibus* (Leipzig, 1501)."
-      },
-      {
-        "text": "Wellcome Collection (CC BY 4.0), L0032472."
-      },
-      {
-        "text": "Wikimedia Commons",
-        "url": "https://commons.wikimedia.org/wiki/File:M._Hundt,_Antropologium_de_hominis_dignitate_Wellcome_L0032472.jpg"
-      },
-      {
-        "text": "Skinner, Stephen. *Geomancy in Theory and Practice: The Oracles of Raphael; Or, Geomancy*. Singapore: Golden Hoard Press, 2011."
-      },
-      {
-        "text": "Fahd, Toufic. *La Divination Arabe: Études religieuses, sociologiques et folkloriques sur le milieu natif de l'Islam*. Leiden: Brill, 1966."
-      },
-      {
-        "text": "Láng, Benedek. *Unlocked Books: Manuscripts of Learned Magic in the Medieval Libraries of Central Europe*. University Park: Pennsylvania State University Press, 2008."
-      },
-      {
-        "text": "Burnett, Charles, ed. *Magic and Divination in the Middle Ages: Texts and Techniques in the Islamic and Christian Worlds*. Aldershot: Variorum, 1996."
-      },
-      {
-        "text": "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989."
-      }
-    ],
-    "key_concepts": [
-      "physiognomy",
-      "Hundt",
-      "Antropologium",
-      "body diagram"
-    ],
-    "summary_status": "authored"
-  },
-  {
     "id": "geomancy_ms__hundt-antropologium-l0032471",
     "title": "Magnus Hundt, Antropologium (Wellcome L0032471)",
     "work": "Geomancy, Chiromancy & the Renaissance Divination Arts",
@@ -67905,116 +69683,6 @@
       "genre painting",
       "Romani fortune-teller",
       "17th century"
-    ],
-    "summary_status": "authored"
-  },
-  {
-    "id": "geomancy_ms__wellcome-chiromancy-L0018732",
-    "title": "Astrology, Chiromancy & Physiognomy (Wellcome MS, plate 1)",
-    "work": "Geomancy, Chiromancy & the Renaissance Divination Arts",
-    "creator": "Anonymous",
-    "date": "c. 15th–16th c.",
-    "place": "Europe",
-    "era": "renaissance",
-    "tradition": "divination",
-    "motifs": [
-      "chiromancy",
-      "palmistry",
-      "physiognomy",
-      "astrology",
-      "manuscript",
-      "hand diagram",
-      "Wellcome",
-      "combined arts"
-    ],
-    "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Astrology,_Chiromancy,_Physiognomy._Wellcome_L0018732.jpg",
-    "summary": "A manuscript page from the Wellcome Collection (L0018732) combining [[motif:chiromancy|chiromancy]], physiognomy, and astrological diagrams in a single folio.\n\n## Iconography\nThe page brings together the three great body-reading arts of the medieval and Renaissance period: palm diagrams (chiromancy), face or body illustrations (physiognomy), and astrological figures — the standard triumvirate of a learned diviner's handbook. Such compilations were common: the arts were regarded as complementary, each reading a different surface of the same astrologically-inscribed body.\n\n## Significance\nThe combination of chiromancy, physiognomy, and astrology on a single page reflects the medieval understanding of the body as a microcosm of the heavens. Every line on the palm, every contour of the face, was held to be the imprint of planetary influence at birth. Manuscripts combining all three arts were practical reference tools: the diviner who could read hand, face, and horoscope had a complete forensic picture of the client. The Wellcome Collection holds an unusually rich array of such practical medical-divinatory manuscripts.\n\n## For artists & game designers\nA multi-modal divination reference page: the conjunction of palm map, face diagram, and star chart on one folio is a compact archetype for an in-world 'occultist's notebook.'",
-    "citations": [
-      {
-        "text": "Wellcome Collection (CC BY 4.0), MS L0018732."
-      },
-      {
-        "text": "Wikimedia Commons",
-        "url": "https://commons.wikimedia.org/wiki/File:Astrology,_Chiromancy,_Physiognomy._Wellcome_L0018732.jpg"
-      },
-      {
-        "text": "Skinner, Stephen. *Geomancy in Theory and Practice: The Oracles of Raphael; Or, Geomancy*. Singapore: Golden Hoard Press, 2011."
-      },
-      {
-        "text": "Fahd, Toufic. *La Divination Arabe: Études religieuses, sociologiques et folkloriques sur le milieu natif de l'Islam*. Leiden: Brill, 1966."
-      },
-      {
-        "text": "Láng, Benedek. *Unlocked Books: Manuscripts of Learned Magic in the Medieval Libraries of Central Europe*. University Park: Pennsylvania State University Press, 2008."
-      },
-      {
-        "text": "Burnett, Charles, ed. *Magic and Divination in the Middle Ages: Texts and Techniques in the Islamic and Christian Worlds*. Aldershot: Variorum, 1996."
-      },
-      {
-        "text": "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989."
-      }
-    ],
-    "key_concepts": [
-      "chiromancy",
-      "physiognomy",
-      "astrology",
-      "body-reading arts",
-      "Wellcome Collection"
-    ],
-    "summary_status": "authored"
-  },
-  {
-    "id": "geomancy_ms__wellcome-chiromancy-L0018733",
-    "title": "Astrology, Chiromancy & Physiognomy (Wellcome MS, plate 2)",
-    "work": "Geomancy, Chiromancy & the Renaissance Divination Arts",
-    "creator": "Anonymous",
-    "date": "c. 15th–16th c.",
-    "place": "Europe",
-    "era": "renaissance",
-    "tradition": "divination",
-    "motifs": [
-      "chiromancy",
-      "palmistry",
-      "physiognomy",
-      "astrology",
-      "manuscript",
-      "hand diagram",
-      "Wellcome",
-      "body map"
-    ],
-    "rights": "CC BY 4.0. Wellcome Collection. Via Wikimedia Commons.",
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Astrology,_Chiromancy,_Physiognomy._Wellcome_L0018733.jpg",
-    "summary": "A second manuscript plate from the same Wellcome Collection source (L0018733), continuing the combined presentation of chiromancy, physiognomy, and astrology.\n\n## Iconography\nThis companion folio develops the diagrammatic apparatus further — additional palm maps, body-part assignments, or facial-feature keys. Such manuscripts typically provided multiple hands or faces labelled with different planetary attributions, allowing the reader to compare types. The scribal and visual tradition of these compilations was remarkably stable across Latin Europe.\n\n## Significance\nThe two Wellcome plates together illustrate the standard contents of a practical diviner's reference book as compiled in medieval and early modern Europe. The Wellcome Collection preserves many such manuscripts, which were typically owned by physicians, barber-surgeons, and educated laypeople with an interest in prognostic medicine. [[motif:chiromancy|Chiromancy]] and astrology were not clearly separated from medicine: the planetary mounts of the hand, for example, were used diagnostically as well as prognostically, and physiognomy (face-reading) overlapped with humoral medicine.\n\n## For artists & game designers\nThe second plate from the same notebook: read together, the pair reconstruct a complete working diviner's reference — two openings of a small handbook that was consulted in practice.",
-    "citations": [
-      {
-        "text": "Wellcome Collection (CC BY 4.0), MS L0018733."
-      },
-      {
-        "text": "Wikimedia Commons",
-        "url": "https://commons.wikimedia.org/wiki/File:Astrology,_Chiromancy,_Physiognomy._Wellcome_L0018733.jpg"
-      },
-      {
-        "text": "Skinner, Stephen. *Geomancy in Theory and Practice: The Oracles of Raphael; Or, Geomancy*. Singapore: Golden Hoard Press, 2011."
-      },
-      {
-        "text": "Fahd, Toufic. *La Divination Arabe: Études religieuses, sociologiques et folkloriques sur le milieu natif de l'Islam*. Leiden: Brill, 1966."
-      },
-      {
-        "text": "Láng, Benedek. *Unlocked Books: Manuscripts of Learned Magic in the Medieval Libraries of Central Europe*. University Park: Pennsylvania State University Press, 2008."
-      },
-      {
-        "text": "Burnett, Charles, ed. *Magic and Divination in the Middle Ages: Texts and Techniques in the Islamic and Christian Worlds*. Aldershot: Variorum, 1996."
-      },
-      {
-        "text": "Kieckhefer, Richard. *Magic in the Middle Ages*. Cambridge: Cambridge University Press, 1989."
-      }
-    ],
-    "key_concepts": [
-      "chiromancy",
-      "physiognomy",
-      "astrology",
-      "Wellcome Collection",
-      "prognostic medicine"
     ],
     "summary_status": "authored"
   },
