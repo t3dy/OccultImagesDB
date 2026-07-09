@@ -5,6 +5,20 @@ encyclopedia entries. You own exactly one domain (given in your task). Work only
 subdir and your own batch file — never touch `scripts/config.py`, `data/overrides.json`, or another
 agent's files. Project root: `C:\Dev\OCCULTIMGDB`.
 
+## Eligibility gate — applies at every step (target, download, author)
+The catalog holds **whole illustrations only**. An image is eligible ONLY if all three hold; when one
+fails, drop it — do not author it, do not pad your count with it:
+1. **A whole illustration, not book-furniture.** Reject bindings/covers, title pages, letterpress/text
+   pages, indexes, colophons, blank leaves, printer's-device pages, library-catalog clippings, and
+   loose annotation sketches. `fetch_commons` sometimes returns a title page or the wrong plate — **open
+   the downloaded file and look** before authoring; if it isn't a real illustration, delete it and retry
+   the query.
+2. **Not a redundant witness.** One entry per iconographic subject. Don't source a second copy of a plate
+   the catalog already holds just because it's a different edition. Distinct *subjects*, not duplicate
+   *copies*.
+3. **Provenance verified.** Author only from a real `.prov.json` (source_url + licence). No sidecar → not
+   ready. Never relabel a CC-BY scan as public domain.
+
 ## Your pipeline (do all of it)
 
 ### 1. Generate targets
@@ -26,8 +40,10 @@ Write a jobs file `scripts/jobs_<WORKKEY>.json` — a JSON list of:
 - Some results are flagged `[CHECK-RIGHTS]` (CC BY etc.) — keep them, but record the real license.
 
 ### 3. Author full encyclopedia entries
-For EACH successfully downloaded image (verify the file exists in `sources_web/<WORKKEY>/`), read its
-`.prov.json` for accurate license + source_url + dimensions, then author one entry. Compute the id as:
+For EACH successfully downloaded image (verify the file exists in `sources_web/<WORKKEY>/`), **first run
+the eligibility gate above on the actual file** — a download that turns out to be a title page, binding,
+or duplicate is deleted, not authored. For the survivors, read the `.prov.json` for accurate license +
+source_url + dimensions, then author one entry. Compute the id as:
 `<WORKKEY>__<stem>` where `<stem>` is the filename without extension, with every run of
 non-alphanumeric chars replaced by a single `-`, lowercased. (e.g. `bes_amulet.jpg` →
 `<WORKKEY>__bes-amulet`.)

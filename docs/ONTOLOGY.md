@@ -42,9 +42,22 @@ Everything compiles to **`db/occultimgdb.db`** (SQLite) via `scripts/build_all.p
 
 ## Controlled vocabularies
 
+> **Values are exact slugs** — lowercase, underscored, no spaces or spelling variants. A single stray
+> space silently forges a *phantom* facet bucket (e.g. `"early modern"` split 77 images off into a
+> sixth era that the Timeline then rendered as real). Author the canonical value verbatim; don't invent
+> near-variants. Lint after any authoring wave:
+> `sqlite3 db/occultimgdb.db "SELECT DISTINCT era FROM images;"` (and likewise `tradition`, `medium`,
+> `tier`) must return **only** the values listed here — anything else is a typo to fix at the source.
+
 - **`era`** (chronology, 5): `antiquity` · `medieval` · `renaissance` · `early_modern` · `modern`.
   Date the image to the **surviving artwork/object**, not the lost original (a 1597 Witch of Endor is
-  `early_modern`, even though the subject is biblical).
+  `early_modern`, even though the subject is biblical). Note the underscore: `early_modern`, never
+  `early modern`.
+- **`tier`** (eligibility outcome, 2): `illustration` — a whole illustration; the default browse — vs
+  `page_scan` — book-furniture (bindings, text/title/index pages, blanks, annotation sketches) demoted
+  out of the homepage/entity/gallery-default and revealed only by the gallery's "show scans" toggle.
+  The [style guide](STYLE_GUIDE.md) Step-0 gate decides which; `page_scan` is how a not-quite-junk page
+  is kept without polluting the artist-facing browse.
 - **`tradition`** (the esoteric current, ~12): `alchemy` · `hermetic` · `rosicrucian` · `kabbalah` ·
   `goetia_grimoire` · `astrology` · `theosophy` · `reception` · `witchcraft` · `divination`. (`reception`
   = an occult/biblical/classical subject pictured by a later, non-esoteric artist.)
