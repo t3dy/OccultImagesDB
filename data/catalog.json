@@ -1,5 +1,5 @@
 {
- "generated_records": 3514,
+ "generated_records": 3547,
  "works": [
   {
    "key": "atalanta_fugiens",
@@ -1349,7 +1349,7 @@
    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Alchemists",
    "rights": "Public domain / CC0 (per item). Via Wikimedia Commons.",
    "blurb": "Paintings and prints of the alchemist in his cluttered workshop — the human face of the Great Work. From Bruegel's ruined family and Teniers' many bearded adepts to Joseph Wright of Derby's praying alchemist amid the glowing flask, the genre weighs hope against folly, blowing the bellows over furnace and alembic in pursuit of gold and the stone.",
-   "count": 18
+   "count": 19
   },
   {
    "key": "enochian_dee",
@@ -2685,6 +2685,66 @@
    "rights": "Public domain. Internet Archive scan of 1788 Altona edition (repr.).",
    "blurb": "The second volume of the Geheime Figuren der Rosenkreuzer (Secret Figures of the Rosicrucians, Altona, 1785–1788) contains the most elaborate cosmological diagrams of the Gold und Rosenkreuzer order — combining Paracelsian alchemy, Kabbalistic geometry, and Protestant mysticism into full-page instructional plates for initiates. The 1788 volume was edited by J.D.A. Eckhardt, Printer to the King of Denmark, and later translated into English as 'Secret Symbols of the Rosicrucians.' The Geheime Figuren represents the visual curriculum of an 18th-century Rosicrucian brotherhood that claimed descent from the original Rosicrucian manifestos (Fama Fraternitatis, 1614; Confessio, 1615).",
    "count": 4
+  },
+  {
+   "key": "khunrath_amphi",
+   "title": "Amphitheatrum Sapientiae Aeternae — The Four Great Circular Engravings",
+   "creator": "Heinrich Khunrath; Hans Vredeman de Vries (architectural layout, attrib.) and others",
+   "date": "1595 / 1609",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "place": "Hamburg; Hanau",
+   "language": "Latin",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Heinrich_Khunrath",
+   "rights": "Public domain. Via Wikimedia Commons / DPLA.",
+   "blurb": "The four great circular engraved plates of Heinrich Khunrath's *Amphitheatrum Sapientiae Aeternae* (Hamburg 1595; Hanau 1609) — the most debated images in the Renaissance hermetic tradition. The 'Oratory-Laboratory' plate, showing the alchemist's curtained oratory within a luminous octagonal laboratory, became the paradigmatic image for the unity of *orare et laborare* (prayer and work) in Christian theosophy. Jung analysed it as a projection of the unconscious; Szulakowska traced its Calvinist light-geometry; Principe unpacked its practical chemical context. The other three plates elaborate a cosmological program fusing Paracelsian medicine, kabbalistic numerology, and Rosicrucian mysticism, anticipating the Rosicrucian manifestos by a generation.",
+   "count": 7
+  },
+  {
+   "key": "rosarium_supplement",
+   "title": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "creator": "various; after Arnold of Villanova (attrib.) and the Griemiller translation",
+   "date": "1550–1700 (various editions)",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "place": "Frankfurt; Strasbourg; various",
+   "language": "Latin / German",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosarium_philosophorum",
+   "rights": "Public domain. Via Wikimedia Commons / Deutsche Fotothek / DPLA.",
+   "blurb": "Supplementary plates from the *Rosarium Philosophorum* tradition — woodcuts from the Frankfurt 1550 printed edition, the Griemiller German manuscript version, and derivative copies — documenting the serial iconographic program of the twenty-figure Rosarium sequence: the Fountain of Mercury (Fig. 1), the naked King and Queen descending into the bath, their sexual conjunction (*coniunctio*), death (*nigredo*), the soul ascending and returning, and final resurrection as the crowned Rebis/Hermaphrodite. The green lion devouring the sun — one of the most reproduced alchemical images — appears here at high resolution.",
+   "count": 17
+  },
+  {
+   "key": "libavius_alchymia",
+   "title": "Alchymia — Andreas Libavius (1606)",
+   "creator": "Andreas Libavius",
+   "date": "1606",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "place": "Frankfurt",
+   "language": "Latin",
+   "provenance_url": "https://books.google.com/books?id=0WfRikJt9yQC",
+   "rights": "Public domain. Google Books scan.",
+   "blurb": "Woodcut illustrations from Andreas Libavius's *Alchymia recognita emendata et aucta* (Frankfurt, 1606) — the founding document of chemistry as a university discipline, and the first printed work to include systematic architectural plans for a purpose-built chemical laboratory (*Domus Chymica*). Its 'Apparatus Liber' (Book of Equipment) illustrates furnaces, vessels, retorts, cooling systems, filtration apparatus, and the elaborate layout of a model laboratory building, providing the earliest comprehensive visual survey of early-modern practical chemistry. Barbara Obrist cites Libavius's systematic approach as a transition from medieval alchemical secrecy to printed experimental science.",
+   "count": 6
+  },
+  {
+   "key": "musaeum_hermeticum",
+   "title": "Musaeum Hermeticum reformatum et amplificatum (1678)",
+   "creator": "various; ed. Lucas Jennis / Hermann à Sande",
+   "date": "1678",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "place": "Frankfurt",
+   "language": "Latin",
+   "provenance_url": "https://wellcomecollection.org/works/jguvzj57",
+   "rights": "CC BY 4.0 (Wellcome Collection).",
+   "blurb": "Illustration plates from the *Musaeum Hermeticum reformatum et amplificatum* (Frankfurt, 1678, printed by Hermann à Sande) — the most important anthology of alchemical texts published in the seventeenth century. Its twenty-one treatises include the *Tractatus Aureus* of Hermes, the Twelve Keys and *Azoth* of Basil Valentine, the fifteen emblems of Lambspring's *De Lapide Philosophico*, the *Gloria Mundi*, and works by George Starkey and others. The 1678 expanded edition superseded the original 1625 *Musaeum Hermeticum* compiled by Lucas Jennis, and was the standard Latin anthology of the hermetic tradition read by Newton, Boyle, and the wider *philosophia naturalis* community. These plates, held in the Wellcome Collection, are digitised as Figures 2 and 3 in the Wellcome's classification of the MH's illustrated content.",
+   "count": 2
   }
  ],
  "creators_index": {
@@ -41780,6 +41840,450 @@
     "AC conclusion"
    ],
    "figures": []
+  },
+  {
+   "id": "khunrath_amphi__khunrath-general",
+   "title": "Khunrath — Amphitheatrum Sapientiae Aeternae (General Plate)",
+   "work": "Amphitheatrum Sapientiae Aeternae — The Four Great Circular Engravings",
+   "work_key": "khunrath_amphi",
+   "short_id": "AMPC",
+   "creator": "Heinrich Khunrath",
+   "date": "1609",
+   "century": 16,
+   "place": "Hamburg; Hanau",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "khunrath",
+    "alchemical emblem",
+    "hermetic philosophy"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons / DPLA.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Heinrich_Khunrath",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\khunrath_amphi\\khunrath_general.jpg",
+   "thumb": "images/thumbs/khunrath_amphi__khunrath-general.jpg",
+   "card": "images/cards/khunrath_amphi__khunrath-general.jpg",
+   "summary": "An illustration from Heinrich Khunrath's *Amphitheatrum Sapientiae Aeternae* (Hamburg 1595 / Hanau 1609), one of the most significant hermetic texts of the Renaissance. For full scholarly context see the overrides for the four great circular plates (khunrath_amphi__amphitheatrum-plate-1 through -4).\n\nKhunrath (1560–1605) was a German physician, alchemist, and Christian theosophist whose work bridges Paracelsian medicine, kabbalistic philosophy, and Lutheran mysticism. His *Amphitheatrum* was among the most studied hermetic texts of the seventeenth century, exercising influence on the early Rosicrucians and on Robert Fludd's own cosmological programme.",
+   "summary_status": "authored",
+   "medium": "engraving",
+   "key_concepts": [
+    "christian theosophy",
+    "alchemical mysticism"
+   ],
+   "citations": [
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation. Leiden: Brill, 2006.",
+     "url": "https://brill.com/display/title/12547"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    }
+   ],
+   "figures": [
+    "Khunrath"
+   ]
+  },
+  {
+   "id": "khunrath_amphi__amphitheatrum-plate-1",
+   "title": "Oratorium-Laboratorium — The Alchemist's Chamber of Prayer and Work",
+   "work": "Amphitheatrum Sapientiae Aeternae — The Four Great Circular Engravings",
+   "work_key": "khunrath_amphi",
+   "short_id": "AMPC",
+   "creator": "Heinrich Khunrath; engravers after designs by Hans Vredeman de Vries (attrib.)",
+   "date": "1609 (Hanau edition)",
+   "century": 16,
+   "place": "Hanau",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "seq": 1,
+   "motifs": [
+    "oratory",
+    "laboratory",
+    "alchemist at prayer",
+    "octagonal room",
+    "sine oratione",
+    "prayer and chemistry",
+    "Christian theosophy",
+    "furnace and oratory"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons / DPLA.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Amphitheatrum_sapientiae_aeternae_(1609)_-_Oratory.jpg",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\khunrath_amphi\\amphitheatrum_plate_1.jpg",
+   "thumb": "images/thumbs/khunrath_amphi__amphitheatrum-plate-1.jpg",
+   "card": "images/cards/khunrath_amphi__amphitheatrum-plate-1.jpg",
+   "summary": "The most celebrated image in the Renaissance hermetic tradition: Khunrath's **Oratorium-Laboratorium** (Prayer Room and Laboratory), the first great engraved plate of the 1609 Hanau edition of the *Amphitheatrum Sapientiae Aeternae*.\n\n## Iconography\nA vast octagonal room is dominated by a **curtained tent** at centre — the oratory where the adept kneels in prayer, arms raised toward a radiant triangle of divine light inscribed with Hebrew divine names (*Ehyeh*, *Elohim*, *YHWH*). Banners and scrolls around the tent proclaim **'Sine Oratione Opus non fit Physicochymicum'** (Without prayer the physico-chemical work is not accomplished). Beyond the curtain, arrayed around the octagon, stands **the laboratory**: athanor furnace, cooling vessels, distillation equipment, a central laboratory table with books, and shelves of instruments — all suffused by the same divine light radiating from the tent. A prominent **lute** in the foreground symbolises the harmony of the cosmos that the Great Work re-enacts.\n\n## Significance\nThe image is the visual manifesto of Khunrath's Christian-theosophical alchemy. For Khunrath, the laboratory operations are not separable from prayer: the adept mediates between God and matter through both *oratio* and *laboratio*. This doctrine anticipates the Rosicrucian movement (Fama Fraternitatis, 1614) and deeply influenced later hermetic Christianity.\n\nC.G. **Jung** interpreted this plate as a projection of the collective unconscious: the luminous tent is the *lapis* (Self), the octagonal arrangement represents psychic individuation, and the darkness outside the light cone maps the unconscious. Szulakowska (2000) analyses the Calvinist geometry of light in the plate: the pyramidal emanation of divine light follows Reformed optical theology, distinguishing Khunrath's Lutheran-Calvinist milieu from Catholic hermetic imagery. Principe (2013) emphasises the plate's chemical realism — the equipment shown is accurate for the period and should not be dismissed as merely allegorical.\n\n## For the Researcher\nThe Oratorium-Laboratorium is Khunrath's answer to the question of what the alchemist does when the furnace is burning: he prays. This plate defines a whole genre of alchemist-at-prayer imagery and is cited in virtually every study of Renaissance alchemy and Christian theosophy.",
+   "summary_status": "authored",
+   "medium": "engraving",
+   "key_concepts": [
+    "orare et laborare",
+    "Christian theosophy",
+    "alchemical devotion",
+    "laboratory piety"
+   ],
+   "citations": [
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation. Leiden: Brill, 2006.",
+     "url": "https://brill.com/display/title/12547"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    },
+    {
+     "text": "Forshaw, Peter J. 'Alchemy in the Amphitheatre: Some Consideration of the Alchemical Content in the Works of Heinrich Khunrath,' in *Alchemy and Hermeticism in the History of Science*, Cambridge, 2000.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "khunrath_amphi__amphitheatrum-plate-2",
+   "title": "Amphitheatrum Sapientiae Aeternae — Second Circular Plate: The Cosmos and the Work",
+   "work": "Amphitheatrum Sapientiae Aeternae — The Four Great Circular Engravings",
+   "work_key": "khunrath_amphi",
+   "short_id": "AMPC",
+   "creator": "Heinrich Khunrath",
+   "date": "1609 (Hanau edition)",
+   "century": 16,
+   "place": "Hanau",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "seq": 2,
+   "motifs": [
+    "cosmological diagram",
+    "divine names",
+    "pentagram",
+    "alchemical stages",
+    "Hebrew inscriptions"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons / DPLA.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Heinrich_Khunrath",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\khunrath_amphi\\amphitheatrum_plate_2.jpg",
+   "thumb": "images/thumbs/khunrath_amphi__amphitheatrum-plate-2.jpg",
+   "card": "images/cards/khunrath_amphi__amphitheatrum-plate-2.jpg",
+   "summary": "The second of the four great circular engravings from Khunrath's *Amphitheatrum Sapientiae Aeternae* (Hanau 1609).\n\n## Iconography\nA **large circular composition** enclosing cosmological and theosophical content: Hebrew divine names, planetary symbols, alchemical stage markers, and inscriptions in Latin and German encoding Khunrath's hermetic philosophy. The composition is organised as a series of concentric zones — heaven, macrocosm, elemental world, microcosm — unified by the divine light of the *sol philosophorum* (philosophical sun).\n\n## Significance\nThis plate elaborates the cosmological framework within which the Oratorium-Laboratorium plate (Plate 1) is situated: the laboratory prayer is set against a backdrop of cosmic operation. Szulakowska identifies the composition as expressing **Paracelsian triplicity** (sulphur-mercury-salt) mapped onto the body of Christ — a visual theology of redemption through chemistry.\n\nJung (CW 12) analyses this plate as part of the 'individuation mandala' series: its circular symmetry maps the psychic archetype of wholeness. For Principe and Newman, this plate shows how Khunrath integrates experimental chemistry with mystical theology in a way that anticipates both Rosicrucianism and Natural Philosophy.",
+   "summary_status": "authored",
+   "medium": "engraving",
+   "key_concepts": [
+    "Paracelsian theosophy",
+    "cosmic alchemy",
+    "divine light",
+    "hermetic cosmology"
+   ],
+   "citations": [
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation. Leiden: Brill, 2006.",
+     "url": "https://brill.com/display/title/12547"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "khunrath_amphi__amphitheatrum-plate-3",
+   "title": "Amphitheatrum Sapientiae Aeternae — Third Circular Plate: The Alchemical Temple",
+   "work": "Amphitheatrum Sapientiae Aeternae — The Four Great Circular Engravings",
+   "work_key": "khunrath_amphi",
+   "short_id": "AMPC",
+   "creator": "Heinrich Khunrath",
+   "date": "1609 (Hanau edition)",
+   "century": 16,
+   "place": "Hanau",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "seq": 3,
+   "motifs": [
+    "alchemical temple",
+    "concentric circles",
+    "stages of the opus",
+    "chemical symbols",
+    "divine wisdom"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons / DPLA.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Heinrich_Khunrath",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\khunrath_amphi\\amphitheatrum_plate_3.jpg",
+   "thumb": "images/thumbs/khunrath_amphi__amphitheatrum-plate-3.jpg",
+   "card": "images/cards/khunrath_amphi__amphitheatrum-plate-3.jpg",
+   "summary": "The third great circular engraving from Khunrath's *Amphitheatrum Sapientiae Aeternae* (Hanau 1609), continuing the cosmological program of the series.\n\n## Iconography\nA **circular architectural space** — the amphitheatre of the title — with concentric zones of symbolic content: chemical symbols, alchemical stage names (nigredo, albedo, rubedo), planetary correspondences, and divine wisdom inscriptions. The composition references the classical amphitheatre as a place of philosophical demonstration, now repurposed as the theatre of the Great Work.\n\n## Significance\nThe 'amphitheatre' metaphor is Khunrath's central conceit: all of creation is a theatre of eternal divine wisdom, in which the alchemist is both actor and spectator. This plate makes visible the structural analogy between the physical operations of alchemy and the spiritual drama of human redemption. Forshaw (2000) documents how this plate was read by subsequent Rosicrucian theorists as a map of initiatory stages.\n\nFor contemporary scholarship, the plate illustrates how early-modern alchemical illustration functioned as **memory art** (Carruthers) — the circular composition with labelled zones is a mnemonic device for organizing the stages of the Work.",
+   "summary_status": "authored",
+   "medium": "engraving",
+   "key_concepts": [
+    "sapientia aeterna",
+    "Great Work stages",
+    "hermetic temple",
+    "alchemical initiation"
+   ],
+   "citations": [
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation. Leiden: Brill, 2006.",
+     "url": "https://brill.com/display/title/12547"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "khunrath_amphi__amphitheatrum-plate-4",
+   "title": "Amphitheatrum Sapientiae Aeternae — Fourth Circular Plate: Cosmic Harmony and the Stone",
+   "work": "Amphitheatrum Sapientiae Aeternae — The Four Great Circular Engravings",
+   "work_key": "khunrath_amphi",
+   "short_id": "AMPC",
+   "creator": "Heinrich Khunrath",
+   "date": "1609 (Hanau edition)",
+   "century": 16,
+   "place": "Hanau",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "seq": 4,
+   "motifs": [
+    "cosmic harmony",
+    "philosophers stone",
+    "divine wisdom",
+    "alchemical synthesis",
+    "lapis philosophorum"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons / DPLA.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Heinrich_Khunrath",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\khunrath_amphi\\amphitheatrum_plate_4.jpg",
+   "thumb": "images/thumbs/khunrath_amphi__amphitheatrum-plate-4.jpg",
+   "card": "images/cards/khunrath_amphi__amphitheatrum-plate-4.jpg",
+   "summary": "The fourth and culminating circular engraving of Khunrath's *Amphitheatrum Sapientiae Aeternae* series (Hanau 1609), representing the completion and synthesis of the alchemical-theosophical program.\n\n## Iconography\nThis plate shows the culmination of the cosmological diagram series: the **unity of the Work** is expressed through a harmonious circular composition in which divine names, alchemical symbols, and cosmological inscriptions converge on the central mystery of the *lapis philosophorum* (Philosophers' Stone) as Christ and as universal medicine.\n\n## Significance\nFor Khunrath, the Stone is not a material substance alone but a spiritual reality: *Lapis Philosophorum est Christus* (the Philosophers' Stone is Christ). This bold equation of Christ and the Stone was among the most controversial of Khunrath's claims, criticised by contemporaries and defended by later Rosicrucian and hermetic apologists. The fourth plate provides the visual culmination of this argument.\n\nJung's analysis identifies this plate as the *coincidentia oppositorum* (union of opposites) archetype: the opposition of sulphur and mercury, fixed and volatile, solar and lunar, is here resolved in the unifying symbol of the Stone-Christ. Szulakowska (2006) places this within the context of Lutheran sacramental theology and the Paracelsian *tria prima* (sulphur, mercury, salt).",
+   "summary_status": "authored",
+   "medium": "engraving",
+   "key_concepts": [
+    "lapis philosophorum",
+    "cosmic synthesis",
+    "Paracelsian tria prima",
+    "Christian alchemy"
+   ],
+   "citations": [
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation. Leiden: Brill, 2006.",
+     "url": "https://brill.com/display/title/12547"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "khunrath_amphi__fotothek-0008212",
+   "title": "Khunrath, Amphitheatrum — Illustration (Deutsche Fotothek 0008212)",
+   "work": "Amphitheatrum Sapientiae Aeternae — The Four Great Circular Engravings",
+   "work_key": "khunrath_amphi",
+   "short_id": "AMPC",
+   "creator": "Heinrich Khunrath",
+   "date": "1609 (after)",
+   "century": 16,
+   "place": "Hamburg; Hanau",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "seq": 8212,
+   "motifs": [
+    "khunrath",
+    "amphitheatrum",
+    "alchemical diagram"
+   ],
+   "rights": "Public domain. Deutsche Fotothek, SLUB Dresden (CC BY-SA).",
+   "provenance_url": "https://www.deutschefotothek.de/documents/obj/90047831",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\khunrath_amphi\\fotothek_0008212.jpg",
+   "thumb": "images/thumbs/khunrath_amphi__fotothek-0008212.jpg",
+   "card": "images/cards/khunrath_amphi__fotothek-0008212.jpg",
+   "summary": "An illustration from Heinrich Khunrath's *Amphitheatrum Sapientiae Aeternae* (Hanau 1609), digitised by the Deutsche Fotothek (SLUB Dresden) as part of their Theosophie, Alchemie und Medizin (Tg) collection.\n\n## Context\nThe Deutsche Fotothek (Saxon State and University Library, Dresden) holds one of Germany's most important photographic collections, including systematic digitisations of early-modern printed illustrations in alchemy, theosophy, and medicine. Their 'df tg' (Theosophie) series documents key images from the Khunrath *Amphitheatrum*, Rosarium Philosophorum, and related hermetic compilations.\n\nFor further context on the Amphitheatrum, see the overrides for the four major circular plates (khunrath_amphi__amphitheatrum-plate-1 through 4).",
+   "summary_status": "authored",
+   "medium": "engraving",
+   "key_concepts": [
+    "christian theosophy",
+    "hermetic alchemy"
+   ],
+   "citations": [
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation. Leiden: Brill, 2006.",
+     "url": "https://brill.com/display/title/12547"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    }
+   ],
+   "figures": [
+    "Khunrath"
+   ]
+  },
+  {
+   "id": "khunrath_amphi__fotothek-0008213",
+   "title": "Khunrath, Amphitheatrum — Illustration (Deutsche Fotothek 0008213)",
+   "work": "Amphitheatrum Sapientiae Aeternae — The Four Great Circular Engravings",
+   "work_key": "khunrath_amphi",
+   "short_id": "AMPC",
+   "creator": "Heinrich Khunrath",
+   "date": "1609 (after)",
+   "century": 16,
+   "place": "Hamburg; Hanau",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "renaissance",
+   "tradition": "hermetic",
+   "tier": "illustration",
+   "seq": 8213,
+   "motifs": [
+    "khunrath",
+    "amphitheatrum",
+    "alchemical diagram"
+   ],
+   "rights": "Public domain. Deutsche Fotothek, SLUB Dresden (CC BY-SA).",
+   "provenance_url": "https://www.deutschefotothek.de/documents/obj/90047832",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\khunrath_amphi\\fotothek_0008213.jpg",
+   "thumb": "images/thumbs/khunrath_amphi__fotothek-0008213.jpg",
+   "card": "images/cards/khunrath_amphi__fotothek-0008213.jpg",
+   "summary": "A second illustration from Heinrich Khunrath's *Amphitheatrum Sapientiae Aeternae* (Hanau 1609), from the Deutsche Fotothek (SLUB Dresden) Theosophie collection. See the circular plate overrides for the major Amphitheatrum engravings and their scholarly context.",
+   "summary_status": "authored",
+   "medium": "engraving",
+   "key_concepts": [
+    "christian theosophy",
+    "hermetic alchemy"
+   ],
+   "citations": [
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Szulakowska, Urszula. The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation. Leiden: Brill, 2006.",
+     "url": "https://brill.com/display/title/12547"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    }
+   ],
+   "figures": [
+    "Khunrath"
+   ]
   },
   {
    "id": "apuleius_isis__farnesina-loggia",
@@ -105845,6 +106349,372 @@
    "medium": "metalwork"
   },
   {
+   "id": "libavius_alchymia__libavius-p0025",
+   "title": "Libavius, *Alchymia* (Frankfurt 1606) — Early Apparatus — Furnaces and Vessels (p. 25–49)",
+   "work": "Alchymia — Andreas Libavius (1606)",
+   "work_key": "libavius_alchymia",
+   "short_id": "LIBA",
+   "creator": "Andreas Libavius",
+   "date": "1606",
+   "century": 17,
+   "place": "Frankfurt",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 25,
+   "motifs": [
+    "chemical apparatus",
+    "laboratory equipment",
+    "woodcut diagram",
+    "furnace",
+    "distillation"
+   ],
+   "rights": "Public domain. Google Books scan.",
+   "provenance_url": "https://books.google.com/books?id=0WfRikJt9yQC",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\libavius_alchymia\\libavius_p0025.jpg",
+   "thumb": "images/thumbs/libavius_alchymia__libavius-p0025.jpg",
+   "card": "images/cards/libavius_alchymia__libavius-p0025.jpg",
+   "summary": "Pages from Andreas Libavius's ***Alchymia recognita emendata et aucta*** (Frankfurt, 1606) — the founding document of systematic printed chemistry.\n\n## About the Work\nLibavius (1560–1616) was a Rostock-educated physician and schoolmaster at Coburg who wrote the *Alchymia* as a systematic textbook of what he called 'alchymia,' by which he meant all of practical chemistry. Unlike his contemporaries, he rejected hermetic allegorism in favour of **systematic empiricism**: his work is organised by apparatus type, then by chemical substance, then by operation — a structure recognisable in modern chemistry textbooks.\n\n## This Section\nThe opening pages of the Apparatus section of Libavius's *Alchymia* introduce the **furnace typology**: the various designs of athanors, reverberatory furnaces, sand-baths, and water-baths (*balneum Mariae*) that form the material infrastructure of early-modern chemistry. Each furnace type is illustrated with a systematic woodcut diagram and described in the accompanying Latin text.\n\n## Scholarly Significance\nLibavius represents the emergence of chemistry as a discipline distinct from alchemical mysticism. Debus (1977) places him in the 'chemical philosophers' tradition. Principe (2013) cites the *Alchymia* as evidence that practical chemistry and hermetic alchemy co-existed as distinct but related traditions.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "apparatus liber",
+    "domus chymica"
+   ],
+   "citations": [
+    {
+     "text": "Libavius, Andreas. Alchymia recognita emendata et aucta. Frankfurt: Johannes Saurius for Peter Kopff, 1606. [First systematic printed chemistry textbook with laboratory architecture]",
+     "url": ""
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Obrist, Barbara. 'Art et nature dans la philosophie hermético-alchimique,' in *Alchimie: Art, Histoire et Mythes*, Paris, 1995.",
+     "url": ""
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "libavius_alchymia__libavius-p0050",
+   "title": "Libavius, *Alchymia* (Frankfurt 1606) — Apparatus — Distillation and Sublimation Equipment (p. 50–74)",
+   "work": "Alchymia — Andreas Libavius (1606)",
+   "work_key": "libavius_alchymia",
+   "short_id": "LIBA",
+   "creator": "Andreas Libavius",
+   "date": "1606",
+   "century": 17,
+   "place": "Frankfurt",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 50,
+   "motifs": [
+    "chemical apparatus",
+    "laboratory equipment",
+    "woodcut diagram",
+    "furnace",
+    "distillation"
+   ],
+   "rights": "Public domain. Google Books scan.",
+   "provenance_url": "https://books.google.com/books?id=0WfRikJt9yQC",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\libavius_alchymia\\libavius_p0050.jpg",
+   "thumb": "images/thumbs/libavius_alchymia__libavius-p0050.jpg",
+   "card": "images/cards/libavius_alchymia__libavius-p0050.jpg",
+   "summary": "Pages from Andreas Libavius's ***Alchymia recognita emendata et aucta*** (Frankfurt, 1606) — the founding document of systematic printed chemistry.\n\n## About the Work\nLibavius (1560–1616) was a Rostock-educated physician and schoolmaster at Coburg who wrote the *Alchymia* as a systematic textbook of what he called 'alchymia,' by which he meant all of practical chemistry. Unlike his contemporaries, he rejected hermetic allegorism in favour of **systematic empiricism**: his work is organised by apparatus type, then by chemical substance, then by operation — a structure recognisable in modern chemistry textbooks.\n\n## This Section\nThe second batch of Apparatus illustrations from Libavius covers **distillation vessels**: alembics, pelicans, cucurbits, retorts, and Bain-Marie water-bath setups. The illustrations show both idealized instrument designs and the spatial arrangements for distillation operations — systematic coverage that was unprecedented in printed form before 1606.\n\n## Scholarly Significance\nLibavius represents the emergence of chemistry as a discipline distinct from alchemical mysticism. Debus (1977) places him in the 'chemical philosophers' tradition. Principe (2013) cites the *Alchymia* as evidence that practical chemistry and hermetic alchemy co-existed as distinct but related traditions.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "apparatus liber",
+    "domus chymica"
+   ],
+   "citations": [
+    {
+     "text": "Libavius, Andreas. Alchymia recognita emendata et aucta. Frankfurt: Johannes Saurius for Peter Kopff, 1606. [First systematic printed chemistry textbook with laboratory architecture]",
+     "url": ""
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Obrist, Barbara. 'Art et nature dans la philosophie hermético-alchimique,' in *Alchimie: Art, Histoire et Mythes*, Paris, 1995.",
+     "url": ""
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "libavius_alchymia__libavius-p0075",
+   "title": "Libavius, *Alchymia* (Frankfurt 1606) — Apparatus — Filtration, Calcination and Crystallisation (p. 75–99)",
+   "work": "Alchymia — Andreas Libavius (1606)",
+   "work_key": "libavius_alchymia",
+   "short_id": "LIBA",
+   "creator": "Andreas Libavius",
+   "date": "1606",
+   "century": 17,
+   "place": "Frankfurt",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 75,
+   "motifs": [
+    "chemical apparatus",
+    "laboratory equipment",
+    "woodcut diagram",
+    "furnace",
+    "distillation"
+   ],
+   "rights": "Public domain. Google Books scan.",
+   "provenance_url": "https://books.google.com/books?id=0WfRikJt9yQC",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\libavius_alchymia\\libavius_p0075.jpg",
+   "thumb": "images/thumbs/libavius_alchymia__libavius-p0075.jpg",
+   "card": "images/cards/libavius_alchymia__libavius-p0075.jpg",
+   "summary": "Pages from Andreas Libavius's ***Alchymia recognita emendata et aucta*** (Frankfurt, 1606) — the founding document of systematic printed chemistry.\n\n## About the Work\nLibavius (1560–1616) was a Rostock-educated physician and schoolmaster at Coburg who wrote the *Alchymia* as a systematic textbook of what he called 'alchymia,' by which he meant all of practical chemistry. Unlike his contemporaries, he rejected hermetic allegorism in favour of **systematic empiricism**: his work is organised by apparatus type, then by chemical substance, then by operation — a structure recognisable in modern chemistry textbooks.\n\n## This Section\nContinued apparatus coverage from Libavius's *Alchymia*: **filtration equipment** (funnels, filter papers, Hippocrates' sleeve), **calcination furnaces** (for reducing metals and salts to calx), and **crystallisation vessels**. The systematic approach distinguishes Libavius from purely allegorical predecessors: this is instrumental chemistry in the making.\n\n## Scholarly Significance\nLibavius represents the emergence of chemistry as a discipline distinct from alchemical mysticism. Debus (1977) places him in the 'chemical philosophers' tradition. Principe (2013) cites the *Alchymia* as evidence that practical chemistry and hermetic alchemy co-existed as distinct but related traditions.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "apparatus liber",
+    "domus chymica"
+   ],
+   "citations": [
+    {
+     "text": "Libavius, Andreas. Alchymia recognita emendata et aucta. Frankfurt: Johannes Saurius for Peter Kopff, 1606. [First systematic printed chemistry textbook with laboratory architecture]",
+     "url": ""
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Obrist, Barbara. 'Art et nature dans la philosophie hermético-alchimique,' in *Alchimie: Art, Histoire et Mythes*, Paris, 1995.",
+     "url": ""
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "libavius_alchymia__libavius-p0100",
+   "title": "Libavius, *Alchymia* (Frankfurt 1606) — The Chemical House — Laboratory Architecture (p. 100–124)",
+   "work": "Alchymia — Andreas Libavius (1606)",
+   "work_key": "libavius_alchymia",
+   "short_id": "LIBA",
+   "creator": "Andreas Libavius",
+   "date": "1606",
+   "century": 17,
+   "place": "Frankfurt",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 100,
+   "motifs": [
+    "chemical apparatus",
+    "laboratory equipment",
+    "woodcut diagram",
+    "furnace",
+    "distillation"
+   ],
+   "rights": "Public domain. Google Books scan.",
+   "provenance_url": "https://books.google.com/books?id=0WfRikJt9yQC",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\libavius_alchymia\\libavius_p0100.jpg",
+   "thumb": "images/thumbs/libavius_alchymia__libavius-p0100.jpg",
+   "card": "images/cards/libavius_alchymia__libavius-p0100.jpg",
+   "summary": "Pages from Andreas Libavius's ***Alchymia recognita emendata et aucta*** (Frankfurt, 1606) — the founding document of systematic printed chemistry.\n\n## About the Work\nLibavius (1560–1616) was a Rostock-educated physician and schoolmaster at Coburg who wrote the *Alchymia* as a systematic textbook of what he called 'alchymia,' by which he meant all of practical chemistry. Unlike his contemporaries, he rejected hermetic allegorism in favour of **systematic empiricism**: his work is organised by apparatus type, then by chemical substance, then by operation — a structure recognisable in modern chemistry textbooks.\n\n## This Section\nThe most historically important section of the Libavius *Apparatus*: the **'Domus Chymica'** (Chemical House) — the **first printed architectural plan for a purpose-built chemistry laboratory**.\n\nThe Chemical House has separate rooms for different operations: a praeparatorium for preliminary work, a conservatorium for storing reagents and products, a privata for the master chemist, a vinaria for fermentation, a fonderia for smelting, and a pharmacopoeia for dispensing medicines. The plan includes heating systems, ventilation, water supply, and storage optimised for systematic chemical operations.\n\nDebus (1977) describes the Libavius Chemical House as a turning point in the institutionalisation of chemistry: it separates the chemical laboratory from the kitchen, the apothecary, and the mine, establishing it as an independent experimental space.\n\n## Scholarly Significance\nLibavius represents the emergence of chemistry as a discipline distinct from alchemical mysticism. Debus (1977) places him in the 'chemical philosophers' tradition. Principe (2013) cites the *Alchymia* as evidence that practical chemistry and hermetic alchemy co-existed as distinct but related traditions.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "apparatus liber",
+    "domus chymica"
+   ],
+   "citations": [
+    {
+     "text": "Libavius, Andreas. Alchymia recognita emendata et aucta. Frankfurt: Johannes Saurius for Peter Kopff, 1606. [First systematic printed chemistry textbook with laboratory architecture]",
+     "url": ""
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Obrist, Barbara. 'Art et nature dans la philosophie hermético-alchimique,' in *Alchimie: Art, Histoire et Mythes*, Paris, 1995.",
+     "url": ""
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "libavius_alchymia__libavius-p0125",
+   "title": "Libavius, *Alchymia* (Frankfurt 1606) — Chemical Substances — Mineral Acids and Salts (p. 125–149)",
+   "work": "Alchymia — Andreas Libavius (1606)",
+   "work_key": "libavius_alchymia",
+   "short_id": "LIBA",
+   "creator": "Andreas Libavius",
+   "date": "1606",
+   "century": 17,
+   "place": "Frankfurt",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 125,
+   "motifs": [
+    "chemical apparatus",
+    "laboratory equipment",
+    "woodcut diagram",
+    "furnace",
+    "distillation"
+   ],
+   "rights": "Public domain. Google Books scan.",
+   "provenance_url": "https://books.google.com/books?id=0WfRikJt9yQC",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\libavius_alchymia\\libavius_p0125.jpg",
+   "thumb": "images/thumbs/libavius_alchymia__libavius-p0125.jpg",
+   "card": "images/cards/libavius_alchymia__libavius-p0125.jpg",
+   "summary": "Pages from Andreas Libavius's ***Alchymia recognita emendata et aucta*** (Frankfurt, 1606) — the founding document of systematic printed chemistry.\n\n## About the Work\nLibavius (1560–1616) was a Rostock-educated physician and schoolmaster at Coburg who wrote the *Alchymia* as a systematic textbook of what he called 'alchymia,' by which he meant all of practical chemistry. Unlike his contemporaries, he rejected hermetic allegorism in favour of **systematic empiricism**: his work is organised by apparatus type, then by chemical substance, then by operation — a structure recognisable in modern chemistry textbooks.\n\n## This Section\nPages from the second main section of Libavius's *Alchymia*: **Chemical Substances** (*Commentationum Chymia*), covering the preparation and properties of mineral acids (vitriol, aqua fortis, spirit of salt), alkali salts, and metallic preparations. While this section has fewer woodcut illustrations than the Apparatus, it forms the theoretical foundation for the practical operations described earlier.\n\n## Scholarly Significance\nLibavius represents the emergence of chemistry as a discipline distinct from alchemical mysticism. Debus (1977) places him in the 'chemical philosophers' tradition. Principe (2013) cites the *Alchymia* as evidence that practical chemistry and hermetic alchemy co-existed as distinct but related traditions.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "apparatus liber",
+    "domus chymica"
+   ],
+   "citations": [
+    {
+     "text": "Libavius, Andreas. Alchymia recognita emendata et aucta. Frankfurt: Johannes Saurius for Peter Kopff, 1606. [First systematic printed chemistry textbook with laboratory architecture]",
+     "url": ""
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Obrist, Barbara. 'Art et nature dans la philosophie hermético-alchimique,' in *Alchimie: Art, Histoire et Mythes*, Paris, 1995.",
+     "url": ""
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "libavius_alchymia__libavius-p0150",
+   "title": "Libavius, *Alchymia* (Frankfurt 1606) — Operations — Dissolution, Calcination, and Extraction (p. 150–174)",
+   "work": "Alchymia — Andreas Libavius (1606)",
+   "work_key": "libavius_alchymia",
+   "short_id": "LIBA",
+   "creator": "Andreas Libavius",
+   "date": "1606",
+   "century": 17,
+   "place": "Frankfurt",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 150,
+   "motifs": [
+    "chemical apparatus",
+    "laboratory equipment",
+    "woodcut diagram",
+    "furnace",
+    "distillation"
+   ],
+   "rights": "Public domain. Google Books scan.",
+   "provenance_url": "https://books.google.com/books?id=0WfRikJt9yQC",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\libavius_alchymia\\libavius_p0150.jpg",
+   "thumb": "images/thumbs/libavius_alchymia__libavius-p0150.jpg",
+   "card": "images/cards/libavius_alchymia__libavius-p0150.jpg",
+   "summary": "Pages from Andreas Libavius's ***Alchymia recognita emendata et aucta*** (Frankfurt, 1606) — the founding document of systematic printed chemistry.\n\n## About the Work\nLibavius (1560–1616) was a Rostock-educated physician and schoolmaster at Coburg who wrote the *Alchymia* as a systematic textbook of what he called 'alchymia,' by which he meant all of practical chemistry. Unlike his contemporaries, he rejected hermetic allegorism in favour of **systematic empiricism**: his work is organised by apparatus type, then by chemical substance, then by operation — a structure recognisable in modern chemistry textbooks.\n\n## This Section\nThe operational section of Libavius's *Alchymia*: **Chemical Operations** (*Operationes Chymicae*), covering dissolution (*solutio*), calcination (*calcinatio*), distillation (*destillatio*), sublimation (*sublimatio*), and crystallisation (*crystallisatio*) — the five foundational operations that underlie both practical pharmacy and the Great Work. Libavius systematises these in a way that makes them teachable as university-level chemistry, not craft secrets.\n\n## Scholarly Significance\nLibavius represents the emergence of chemistry as a discipline distinct from alchemical mysticism. Debus (1977) places him in the 'chemical philosophers' tradition. Principe (2013) cites the *Alchymia* as evidence that practical chemistry and hermetic alchemy co-existed as distinct but related traditions.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "apparatus liber",
+    "domus chymica"
+   ],
+   "citations": [
+    {
+     "text": "Libavius, Andreas. Alchymia recognita emendata et aucta. Frankfurt: Johannes Saurius for Peter Kopff, 1606. [First systematic printed chemistry textbook with laboratory architecture]",
+     "url": ""
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Obrist, Barbara. 'Art et nature dans la philosophie hermético-alchimique,' in *Alchimie: Art, Histoire et Mythes*, Paris, 1995.",
+     "url": ""
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
    "id": "ancient_alchemy__emerald-tablet-ms",
    "title": "The Emerald Tablet: Hieronymus Reusner Illustration",
    "work": "Ancient Hellenistic & Greco-Egyptian Alchemy",
@@ -146185,6 +147055,140 @@
    "medium": "engraving"
   },
   {
+   "id": "musaeum_hermeticum__mh-l0031115",
+   "title": "Musaeum Hermeticum (Frankfurt 1678) — Plate: Figure 2 (Wellcome L0031115)",
+   "work": "Musaeum Hermeticum reformatum et amplificatum (1678)",
+   "work_key": "musaeum_hermeticum",
+   "short_id": "MUHE",
+   "creator": "various; Musaeum Hermeticum, ed. Hermann à Sande",
+   "date": "1678",
+   "century": 17,
+   "place": "Frankfurt",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 31115,
+   "motifs": [
+    "musaeum hermeticum",
+    "alchemical plate",
+    "hermetic anthology",
+    "engraving"
+   ],
+   "rights": "CC BY 4.0 (Wellcome Collection).",
+   "provenance_url": "https://wellcomecollection.org/works/gv9349z7",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\musaeum_hermeticum\\mh_l0031115.jpg",
+   "thumb": "images/thumbs/musaeum_hermeticum__mh-l0031115.jpg",
+   "card": "images/cards/musaeum_hermeticum__mh-l0031115.jpg",
+   "summary": "An engraved plate from the **Musaeum Hermeticum reformatum et amplificatum** (Frankfurt: Hermann à Sande, 1678) — the most important anthology of alchemical texts published in the seventeenth century. This plate is identified in the Wellcome Collection as 'Figure 2' from this work (Wellcome image L0031115, work ID gv9349z7).\n\n## About the Musaeum Hermeticum\nThe 1678 Frankfurt edition expanded the original 1625 *Musaeum Hermeticum* (compiled by Lucas Jennis) into a definitive collection of twenty-one Latin alchemical treatises:\n- *Tractatus Aureus* (attributed to Hermes)\n- The Twelve Keys of Basil Valentine (12 engraved plates)\n- *Azoth sive Aureliae Occultae* (Basil Valentine)\n- *De Lapide Philosophico* (Lambspring, 15 engraved plates)\n- *Gloria Mundi* and *Viatorium spagyricum*\n- Several shorter treatises\n\nThe anthology was Newton's primary alchemical source, read by Boyle, and cited throughout the 17th-century hermetic tradition. The 1893 English translation by A.E. Waite (*The Hermetic Museum*) remained a standard reference into the 20th century.\n\n## This Plate\nIdentified by the Wellcome Collection as 'Figure 2' in their systematic classification of the MH's illustrated content. Given the MH's content, this engraving is likely from one of the major illustrated sections: the Twelve Keys, the Azoth, the Lambspring series, or a dedicatory/frontispiece image preceding the text. The 1254×1648 portrait format (Wellcome CC BY 4.0) is consistent with a full-page plate from the printed folio edition.",
+   "summary_status": "authored",
+   "medium": "engraving",
+   "key_concepts": [
+    "hermetic anthology",
+    "alchemical illustration",
+    "21 treatises"
+   ],
+   "citations": [
+    {
+     "text": "Musaeum Hermeticum reformatum et amplificatum. Frankfurt: Hermann à Sande, 1678. [Standard English translation: Waite, A.E., ed. The Hermetic Museum. London: James Elliott, 1893.]",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Linden, Stanton J., ed. The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "musaeum_hermeticum__mh-l0031116",
+   "title": "Musaeum Hermeticum (Frankfurt 1678) — Plate: Figure 3 (Wellcome L0031116)",
+   "work": "Musaeum Hermeticum reformatum et amplificatum (1678)",
+   "work_key": "musaeum_hermeticum",
+   "short_id": "MUHE",
+   "creator": "various; Musaeum Hermeticum, ed. Hermann à Sande",
+   "date": "1678",
+   "century": 17,
+   "place": "Frankfurt",
+   "region": "German lands (HRE)",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 31116,
+   "motifs": [
+    "musaeum hermeticum",
+    "alchemical plate",
+    "circular diagram",
+    "hermetic anthology"
+   ],
+   "rights": "CC BY 4.0 (Wellcome Collection).",
+   "provenance_url": "https://wellcomecollection.org/works/jguvzj57",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\musaeum_hermeticum\\mh_l0031116.jpg",
+   "thumb": "images/thumbs/musaeum_hermeticum__mh-l0031116.jpg",
+   "card": "images/cards/musaeum_hermeticum__mh-l0031116.jpg",
+   "summary": "An engraved plate from the **Musaeum Hermeticum reformatum et amplificatum** (Frankfurt: Hermann à Sande, 1678), identified in the Wellcome Collection as 'Figure 3' from this work (Wellcome image L0031116, work ID jguvzj57).\n\n## About the Musaeum Hermeticum\nSee musaeum_hermeticum__mh-l0031115 for full context of the 1678 MH and its scholarly significance.\n\n## This Plate\nIdentified as 'Figure 3' in the Wellcome Collection's classification. The near-square format (1394×1390 pixels at full resolution) is notable: in the MH, circular or square-format compositions appear in the Lambspring series, the cosmological diagrams of the *Azoth*, or certain dedicatory roundel images. The square composition could indicate a decorative initial, a chapter heading diagram, or one of the smaller emblematic plates within the collection's many short treatises.",
+   "summary_status": "authored",
+   "medium": "engraving",
+   "key_concepts": [
+    "hermetic anthology",
+    "alchemical illustration",
+    "21 treatises"
+   ],
+   "citations": [
+    {
+     "text": "Musaeum Hermeticum reformatum et amplificatum. Frankfurt: Hermann à Sande, 1678. [Standard English translation: Waite, A.E., ed. The Hermetic Museum. London: James Elliott, 1893.]",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Linden, Stanton J., ed. The Alchemy Reader: From Hermes Trismegistus to Isaac Newton. Cambridge: Cambridge University Press, 2003.",
+     "url": ""
+    },
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    }
+   ],
+   "figures": []
+  },
+  {
    "id": "mutus_liber__mutus-liber-1677-1-7f8e00ba",
    "title": "*Mutus Liber* — title plate (\"Mutus Liber, in quo tamen...\")",
    "work": "Mutus Liber (The Silent Book)",
@@ -163194,6 +164198,1069 @@
    ]
   },
   {
+   "id": "rosarium_supplement__fixation",
+   "title": "Rosarium Philosophorum — Fixation (*Fixatio*): The Binding of the Volatile",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium Philosophorum tradition",
+   "date": "16th–17th c.",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "fixation",
+    "volatile and fixed",
+    "eagle",
+    "toad",
+    "sol and luna",
+    "binding"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosarium_philosophorum",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\fixation.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__fixation.jpg",
+   "card": "images/cards/rosarium_supplement__fixation.jpg",
+   "summary": "The **Fixation** (*Fixatio* or *Coagulatio*) image from the *Rosarium Philosophorum* tradition — one of the key operational images of the alchemical series.\n\n## Iconography\nTypically shows the symbolic conflict and eventual binding of the **volatile** (eagle, bird, mercury) and the **fixed** (toad or lion, sulphur): the volatile principle is pinned down or coagulated by the fixed principle. In some versions, the image shows flames *fixing* the white albedo matter into the permanent red rubedo.\n\n## Significance\nFixation is the complement of *solutio* (dissolution): in *solve et coagula* (dissolve and coagulate), fixation is the 'coagulate' step — making the volatile principle permanent and stable. For practical chemistry, this corresponds to calcination, crystallisation, or the drying of a moist substance over heat. For the emblematic tradition, fixation marks the end of the volatile, unstable phase and the beginning of the stable, projective Stone.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "fixation",
+    "coagulation",
+    "volatile sulphur",
+    "fixed mercury",
+    "solve et coagula"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    },
+    {
+     "text": "McLean, Adam. The Rosary of the Philosophers (Rosarium Philosophorum): A Facsimile of the 1550 Frankfurt Edition. Edinburgh: Magnum Opus Hermetic Sourceworks, 1980.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__green-lion-devouring-sun",
+   "title": "The Green Lion Devouring the Sun (*Der grüne Löwe verschlingt den Sol*)",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium Philosophorum, Frankfurt 1550",
+   "date": "1550 (first printed edition)",
+   "century": 16,
+   "place": "Frankfurt",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "green lion",
+    "sun",
+    "devouring",
+    "vitriol",
+    "sulfuric acid",
+    "sol philosophorum",
+    "dissolution"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Der_gr%C3%BCne_L%C3%B6we_verschlingt_den_Sol.jpg",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\green_lion_devouring_sun.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__green-lion-devouring-sun.jpg",
+   "card": "images/cards/rosarium_supplement__green-lion-devouring-sun.jpg",
+   "summary": "The **Green Lion Devouring the Sun** (*Der grüne Löwe der Sol verschlingt*) — one of the most reproduced and analysed images in the entire alchemical tradition, from the *Rosarium Philosophorum* (Frankfurt, 1550).\n\n## Iconography\nA heraldic green lion attacks and swallows the **sun disk** (*Sol*) from below. Blood or red liquid drips from the lion's jaws and the bitten sun disk. The composition is stark and dramatic: no background, no narrative frame — just the primal act of the lion consuming the celestial body.\n\n## Interpretation\nThe Green Lion is one of the most contested symbols in alchemy. The dominant scholarly interpretations are:\n\n**Chemical (Principe, Newman)**: The green lion is **vitriol** (sulfuric acid, *oleum vitriol*) or another corrosive mineral acid. The lion 'devouring the sun' = vitriol dissolving gold — the key step of *solutio* that opens the hard metal to further transformation. The green colour aligns with the verdigris-like colour of vitriol solutions.\n\n**Cosmic-psychological (Jung)**: The lion represents raw **libidinal energy** (*vis mercurialis*), the sulphurous burning force that must be 'cooked' and sublimated. Devouring the sun (consciousness, *gold* = *consciousness* in Jungian alchemical psychology) initiates the *nigredo* — the darkening of consciousness that precedes transformation.\n\n**Astrological**: The sun is in the sign of Leo (ruled by the lion); the green colour suggests Venus, making this a conjunction of Leo-Sol with Venusian earth.\n\nObrist (1982) places this image in the broader medieval tradition of animal allegory: lions that devour and are devoured encode the cyclical logic of the opus (solve et coagula, dissolve and coagulate).\n\n## Significance in Scholarship\nThe image appears in virtually every introductory treatment of alchemical iconography and is discussed in:\n- Jung, *Psychology and Alchemy* (CW 12), as a key image of the *solve* stage\n- Szulakowska, *The Alchemy of Light* (2000), as part of the Rosarium's systematic iconographic program\n- Principe, *The Secrets of Alchemy* (2013), as evidence of the chemical substrate beneath symbolic language\n- Roob, *Alchemy & Mysticism* (1997), as frontmatter illustration\n\n## High-Resolution Note\nThis is a high-resolution digitisation (1.8MB original) of the Frankfurt 1550 woodcut, suitable for close iconographic study.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "vitriol",
+    "solutio",
+    "green lion as vitriol",
+    "dissolution of gold",
+    "nigredo"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    },
+    {
+     "text": "McLean, Adam. The Rosary of the Philosophers (Rosarium Philosophorum): A Facsimile of the 1550 Frankfurt Edition. Edinburgh: Magnum Opus Hermetic Sourceworks, 1980.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__lion-devouring-sun-large",
+   "title": "The Lion Devouring the Sun — Rosarium Philosophorum (High-Resolution Version)",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium Philosophorum tradition",
+   "date": "16th–17th c.",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "lion",
+    "sun",
+    "devouring",
+    "vitriol",
+    "dissolution"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Lion_devouring_the_sun.jpg",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\lion_devouring_sun_large.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__lion-devouring-sun-large.jpg",
+   "card": "images/cards/rosarium_supplement__lion-devouring-sun-large.jpg",
+   "summary": "A high-resolution version of the **Lion Devouring the Sun** from the *Rosarium Philosophorum* tradition. The lion is a symbol for vitriol or sulphuric acid dissolving solar gold — or, in Jungian terms, the raw *libidinal* force of the unconscious. See the entry for rosarium_supplement__green-lion-devouring-sun for the full iconographic analysis.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "solutio",
+    "vitriol",
+    "green lion",
+    "dissolution of gold"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    },
+    {
+     "text": "McLean, Adam. The Rosary of the Philosophers (Rosarium Philosophorum): A Facsimile of the 1550 Frankfurt Edition. Edinburgh: Magnum Opus Hermetic Sourceworks, 1980.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__lion-sun-moon",
+   "title": "Lion, Sun and Moon — Triple Symbol of the Opus",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium Philosophorum tradition",
+   "date": "16th–17th c.",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "lion",
+    "sun",
+    "moon",
+    "triple symbol",
+    "sol et luna",
+    "triple sulphur"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosarium_philosophorum",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\lion_sun_moon.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__lion-sun-moon.jpg",
+   "card": "images/cards/rosarium_supplement__lion-sun-moon.jpg",
+   "summary": "A compositional image from the *Rosarium Philosophorum* tradition combining the **lion** (sulphur, fixed principle), the **sun** (Sol, gold, active principle), and the **moon** (Luna, silver, receptive principle) — the three foundational symbols of alchemical cosmology.\n\nThe triad Sol-Luna-Lion represents the convergence of the tria prima (sulphur-mercury-salt) with the royal pair (King and Queen): the lion is the mediating sulphurous principle that, by 'devouring the sun,' initiates the dissolution necessary for conjunction.",
+   "summary_status": "authored",
+   "medium": "woodcut or manuscript",
+   "key_concepts": [
+    "tria prima",
+    "sol luna mercurius",
+    "alchemical trinity"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    },
+    {
+     "text": "McLean, Adam. The Rosary of the Philosophers (Rosarium Philosophorum): A Facsimile of the 1550 Frankfurt Edition. Edinburgh: Magnum Opus Hermetic Sourceworks, 1980.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__rebis-androgynous",
+   "title": "The Androgynous Rebis — King and Queen United in the Hermaphrodite (Rosarium Fig. 20)",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium Philosophorum tradition",
+   "date": "16th–17th c.",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "rebis",
+    "hermaphrodite",
+    "androgyne",
+    "king and queen",
+    "coniunctio",
+    "crowned hermaphrodite"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Androgynous_Rebis.jpg",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\rebis_androgynous.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__rebis-androgynous.jpg",
+   "card": "images/cards/rosarium_supplement__rebis-androgynous.jpg",
+   "summary": "The **Rebis** (Latin *res bina*, 'two-thing') — the androgynous figure of the crowned King-Queen hermaphrodite that represents the culmination of the alchemical *coniunctio* (conjunction) in the *Rosarium Philosophorum* tradition.\n\n## Iconography\nA **single crowned figure** combining male and female elements: the left side male (red, solar), the right side female (white, lunar). The figure stands on a globe or dragon, crowned with a triple or double crown, holding the solar and lunar emblems. Inscriptions name the figure as the completed Philosophers' Stone.\n\n## Significance\nThe Rebis is the **visual resolution of the entire Rosarium sequence**: the twenty figures of the Rosarium show Sol (King) and Luna (Queen) descend into the alchemical bath (*coniunctio*), die (*nigredo*, the corpse), are resurrected, and finally united in the single androgynous body of the Rebis.\n\nFor Jung, the Rebis is the *hierosgamos* (sacred marriage) archetype — the integration of animus and anima in psychological individuation. The crowned hermaphrodite visualises the *coincidentia oppositorum* (union of opposites) that is the goal of both the chemical and the spiritual Work.\n\nPrincipe and Newman (2004) read the Rebis more soberly: the hermaphrodite may represent the completed *lapis* (Stone) combining the 'male' principle (sulphur, fire) and 'female' principle (mercury, water) in a stable compound that can transmute base metals.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "coincidentia oppositorum",
+    "coniunctio",
+    "rebis",
+    "hermaphrodite",
+    "alchemical marriage resolution"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    },
+    {
+     "text": "McLean, Adam. The Rosary of the Philosophers (Rosarium Philosophorum): A Facsimile of the 1550 Frankfurt Edition. Edinburgh: Magnum Opus Hermetic Sourceworks, 1980.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__griemiller-sol-luna-01",
+   "title": "Sol and Luna — The Royal Marriage (Griemiller Rosarium, Version 1)",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Jan Griemiller (German translation tradition)",
+   "date": "15th–16th c. (MS tradition); after 1550 (print tradition)",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 1,
+   "motifs": [
+    "sol and luna",
+    "king and queen",
+    "marriage",
+    "coniunctio",
+    "royal pair"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosarium_philosophorum",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\griemiller_sol_luna_01.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__griemiller-sol-luna-01.jpg",
+   "card": "images/cards/rosarium_supplement__griemiller-sol-luna-01.jpg",
+   "summary": "Sol and Luna in the **coniunctio** (conjunction/royal marriage) — from the Griemiller tradition of the *Rosarium Philosophorum*.\n\n## The Griemiller Tradition\nJan Griemiller's German-language *Rosarium* manuscript tradition (15th c.) is one of the key manuscript traditions underlying the printed 1550 Frankfurt edition. The Griemiller versions often show slightly different iconographic choices from the printed woodcuts, reflecting regional manuscript conventions.\n\n## Iconography\nThe King (Sol, crowned, wearing red/gold) and the Queen (Luna, crowned, wearing white/silver) face each other or embrace — the canonical *coniunctio* scene that is at the heart of the Rosarium's twenty-figure series. The conjunction may be prefigured by doves descending, by the exchange of flowers, or by descent into the bath.",
+   "summary_status": "authored",
+   "medium": "manuscript illustration or woodcut",
+   "key_concepts": [
+    "coniunctio",
+    "royal pair",
+    "sacred marriage",
+    "alchemical allegory"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    },
+    {
+     "text": "McLean, Adam. The Rosary of the Philosophers (Rosarium Philosophorum): A Facsimile of the 1550 Frankfurt Edition. Edinburgh: Magnum Opus Hermetic Sourceworks, 1980.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__griemiller-sol-luna-02",
+   "title": "Sol and Luna — The Royal Marriage (Griemiller Rosarium, Version 2)",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Jan Griemiller (German translation tradition)",
+   "date": "15th–16th c.",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 2,
+   "motifs": [
+    "sol and luna",
+    "coniunctio",
+    "royal pair",
+    "king and queen"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosarium_philosophorum",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\griemiller_sol_luna_02.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__griemiller-sol-luna-02.jpg",
+   "card": "images/cards/rosarium_supplement__griemiller-sol-luna-02.jpg",
+   "summary": "A second variant of the Sol-Luna *coniunctio* from the Griemiller manuscript tradition of the *Rosarium Philosophorum*. See rosarium_supplement__griemiller-sol-luna-01 for the full context of the Griemiller tradition.",
+   "summary_status": "authored",
+   "medium": "manuscript illustration or woodcut",
+   "key_concepts": [
+    "coniunctio",
+    "sacred marriage"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__fig-03-fountain",
+   "title": "Rosarium Philosophorum — Figure 3: The Fountain of Mercury",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium Philosophorum, Frankfurt 1550",
+   "date": "1550",
+   "century": 16,
+   "place": "Frankfurt",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 3,
+   "motifs": [
+    "fountain",
+    "mercury",
+    "star",
+    "three jets",
+    "king and queen",
+    "solar mercury"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosarium_philosophorum",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\fig_03_fountain.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__fig-03-fountain.jpg",
+   "card": "images/cards/rosarium_supplement__fig-03-fountain.jpg",
+   "summary": "Figure 3 of the *Rosarium Philosophorum* (Frankfurt 1550): the **Fountain of Mercury** (*Fons Mercurii*), showing the tri-jetting fountain from which the alchemical work begins.\n\n## Iconography\nA stone **fountain** with three jets or spouts, from which liquid streams downward. Above the fountain a **star** (the stella matutina, morning star, or stella mercurii) shines. In some versions the King (Sol) and Queen (Luna) appear flanking the fountain. The inscriptions identify the liquid as *aqua mercurialis* — the philosophical mercury that is the starting material of the Work.\n\n## Significance\nThe Fountain establishes that the Rosarium's underlying material is not common mercury but the **philosophical mercury**: a primordial watery substance that dissolves metals spiritually as well as physically. Obrist (1982) documents this image's deep roots in the medieval *aqua permanens* tradition, where the transforming substance is a 'permanent water' that does not wet the hands but penetrates metals.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "prima materia",
+    "philosophical mercury",
+    "fountain of the work"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    },
+    {
+     "text": "McLean, Adam. The Rosary of the Philosophers (Rosarium Philosophorum): A Facsimile of the 1550 Frankfurt Edition. Edinburgh: Magnum Opus Hermetic Sourceworks, 1980.",
+     "url": ""
+    }
+   ],
+   "figures": [
+    "Mercury"
+   ]
+  },
+  {
+   "id": "rosarium_supplement__fig-10-birth",
+   "title": "Rosarium Philosophorum — Figure 10: The New Birth / Soul Descending",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium Philosophorum, Frankfurt 1550",
+   "date": "1550",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 10,
+   "motifs": [
+    "soul descending",
+    "resurrection",
+    "infant",
+    "angel",
+    "albedo"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosarium_philosophorum",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\fig_10_birth.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__fig-10-birth.jpg",
+   "card": "images/cards/rosarium_supplement__fig-10-birth.jpg",
+   "summary": "Figure 10 of the *Rosarium Philosophorum* (Frankfurt 1550), depicting the **return of the soul** to the purified matter — the albedo stage of the opus.\n\n## Iconography\nA small **soul figure** (homunculus, dove, or angelic child) descends from heaven toward the white, purified body of the King-Queen (now unified in the hermaphrodite form). This moment corresponds to the **albedo** (whitening) — the stage when the dead matter of the *nigredo* is reanimated by the returning spiritual principle.\n\n## Significance\nJung identified Figure 10 as the **epiphany of the self**: the descending soul is the 'I' returning to a transformed, purified psychic substance. For chemical interpreters, the albedo stage involves the whitening of the calcined matter through continued sublimation — the matter is literally 'brought back to life' through a new active principle.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "albedo",
+    "soul return",
+    "whitening",
+    "resurrection of the matter"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    },
+    {
+     "text": "McLean, Adam. The Rosary of the Philosophers (Rosarium Philosophorum): A Facsimile of the 1550 Frankfurt Edition. Edinburgh: Magnum Opus Hermetic Sourceworks, 1980.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__rosarium-11-fermentatio",
+   "title": "Rosarium Philosophorum — Figure 11: Fermentatio (Alternate Version)",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium Philosophorum tradition",
+   "date": "16th–17th c.",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 11,
+   "motifs": [
+    "fermentation",
+    "vegetation",
+    "dead king",
+    "growth from death"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosarium_philosophorum",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\rosarium_11_fermentatio.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__rosarium-11-fermentatio.jpg",
+   "card": "images/cards/rosarium_supplement__rosarium-11-fermentatio.jpg",
+   "summary": "An alternate version of the **Fermentation** figure (Fig. 11) from the *Rosarium Philosophorum* tradition, showing vegetative growth emerging from the unified body of the dead King-Queen. See rosarium_supplement__fig-17-fermentation for the full iconographic analysis of the fermentation stage.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "fermentation",
+    "nigredo to albedo transition",
+    "vegetative renewal"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__fig-17-fermentation",
+   "title": "Rosarium Philosophorum — Figure 17: Fermentation",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium Philosophorum, Frankfurt 1550",
+   "date": "1550",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 17,
+   "motifs": [
+    "fermentation",
+    "vegetation",
+    "corpus glorificationis",
+    "solar body"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosarium_philosophorum",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\fig_17_fermentation.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__fig-17-fermentation.jpg",
+   "card": "images/cards/rosarium_supplement__fig-17-fermentation.jpg",
+   "summary": "Figure 17 of the *Rosarium Philosophorum* (Frankfurt 1550): **Fermentation** (*Fermentatio*), showing the stage where the dead matter begins its renewal through a fermentative process.\n\n## Iconography\nThe Figure shows vegetation growing from the unified, deceased body of the King-Queen — grass or small plants sprouting from the earth that covers the corpse. This **vegetative resurrection** imagery connects alchemical theory to agrarian metaphors of seed and harvest: the matter must 'putrefy' before it can germinate.\n\n## Significance\nThe fermentation stage is where the *lapis* begins to develop the power to transmute: the Stone 'ferments' like yeast in bread, multiplying its virtue. Rampling (2020) traces the English alchemical tradition's treatment of fermentation back to Thomas Norton's *Ordinal of Alchemy* (c. 1477), which the Rosarium tradition systematised.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "fermentation",
+    "glorified body",
+    "putrefaction to renewal",
+    "opus stage"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    },
+    {
+     "text": "McLean, Adam. The Rosary of the Philosophers (Rosarium Philosophorum): A Facsimile of the 1550 Frankfurt Edition. Edinburgh: Magnum Opus Hermetic Sourceworks, 1980.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__fig-19-soul-return",
+   "title": "Rosarium Philosophorum — Figure 19: The Return of the Soul",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium Philosophorum, Frankfurt 1550",
+   "date": "1550",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 19,
+   "motifs": [
+    "soul return",
+    "resurrection",
+    "rubedo",
+    "glorification",
+    "living stone"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosarium_philosophorum",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\fig_19_soul_return.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__fig-19-soul-return.jpg",
+   "card": "images/cards/rosarium_supplement__fig-19-soul-return.jpg",
+   "summary": "Figure 19 of the *Rosarium Philosophorum* (Frankfurt 1550): the **Return and Reunion of the Soul** — one of the final stages before the appearance of the completed Philosophers' Stone.\n\n## Iconography\nThe figure shows the animated, resurrected King-Queen pair — the soul has fully returned, the body is alive and tinctured red (rubedo). The figures now stand crowned and radiant, holding solar and lunar emblems, having passed through death (nigredo) and whitening (albedo) to reach the red stage of completion.\n\n## Significance\nThe rubedo (reddening) is the final colour stage of the alchemical opus: the white stone must be further 'fixed' with fire until it becomes permanently red — the tincture that transmutes base metals to gold. Jung reads this figure as the *consolidation of the Self* after the death and rebirth of the individuation process.",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "rubedo",
+    "resurrection of matter",
+    "animated stone",
+    "completed work"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    },
+    {
+     "text": "McLean, Adam. The Rosary of the Philosophers (Rosarium Philosophorum): A Facsimile of the 1550 Frankfurt Edition. Edinburgh: Magnum Opus Hermetic Sourceworks, 1980.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__fig-20-resurrection",
+   "title": "Rosarium Philosophorum — Figure 20: The Resurrection of the Philosophers' Stone",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium Philosophorum, Frankfurt 1550",
+   "date": "1550",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 20,
+   "motifs": [
+    "resurrection",
+    "philosophers stone",
+    "crowning",
+    "glorified body",
+    "lapis"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosarium_philosophorum",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\fig_20_resurrection.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__fig-20-resurrection.jpg",
+   "card": "images/cards/rosarium_supplement__fig-20-resurrection.jpg",
+   "summary": "Figure 20 of the *Rosarium Philosophorum* (Frankfurt 1550): the **Resurrection** (*Resurrectio*) — the final figure of the twenty-part series, showing the completed Philosophers' Stone in its glorified form.\n\n## Iconography\nThe crowned, androgynous figure of the Rebis rises from the earth or a sarcophagus, fully resurrected and complete. Solar and lunar emblems are united in a single crowned body. The inscriptions proclaim the completion of the Great Work: the Lapis has been achieved.\n\n## Significance\nFigure 20 closes the Rosarium's narrative arc: from the two separate royal figures (Sol and Luna) at the beginning, through their bath, conjunction, death, and the return of the soul, to the final single crowned Rebis that is the Philosophers' Stone. The sequence maps directly onto both the Christian resurrection theology and the psychological individuation process as understood by Jung.\n\nFor Principe and Newman, Fig. 20 shows the *multiplied* and *projected* Stone: not only does it exist, but it can now transmute other metals — hence the addition of symbolic multiplication imagery (often present in Figure 20 variants).",
+   "summary_status": "authored",
+   "medium": "woodcut",
+   "key_concepts": [
+    "lapis philosophorum",
+    "resurrection",
+    "opus culmination",
+    "glorified body"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Szulakowska, Urszula. The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000.",
+     "url": "https://brill.com/display/title/7527"
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Rampling, Jennifer M. The Experimental Fire: Inventing English Alchemy, 1300–1700. Chicago: University of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo46025398.html"
+    },
+    {
+     "text": "Roob, Alexander. Alchemy & Mysticism: The Hermetic Cabinet. Cologne: Taschen, 1997.",
+     "url": ""
+    },
+    {
+     "text": "McLean, Adam. The Rosary of the Philosophers (Rosarium Philosophorum): A Facsimile of the 1550 Frankfurt Edition. Edinburgh: Magnum Opus Hermetic Sourceworks, 1980.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__fotothek-0007012",
+   "title": "Rosarium Philosophorum — Deutsche Fotothek 0007012",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium tradition",
+   "date": "16th–17th c.",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 7012,
+   "motifs": [
+    "rosarium",
+    "alchemical allegory",
+    "sol and luna"
+   ],
+   "rights": "Public domain. Deutsche Fotothek, SLUB Dresden (CC BY-SA).",
+   "provenance_url": "https://www.deutschefotothek.de/documents/obj/70151060",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\fotothek_0007012.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__fotothek-0007012.jpg",
+   "card": "images/cards/rosarium_supplement__fotothek-0007012.jpg",
+   "summary": "A plate from the *Rosarium Philosophorum* tradition, digitised by the Deutsche Fotothek (SLUB Dresden) as part of the Theosophie und Alchemie (df tg 0007xxx) series. The Deutsche Fotothek's alchemical collection provides systematic coverage of the major illustrated alchemical manuscripts and printed books held in the SLUB's collection and associated German libraries.",
+   "summary_status": "authored",
+   "medium": "woodcut or manuscript drawing",
+   "key_concepts": [
+    "rosarium tradition",
+    "coniunctio",
+    "sol and luna"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__fotothek-0007013",
+   "title": "Rosarium Philosophorum — Deutsche Fotothek 0007013",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium tradition",
+   "date": "16th–17th c.",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 7013,
+   "motifs": [
+    "rosarium",
+    "alchemical allegory",
+    "coniunctio"
+   ],
+   "rights": "Public domain. Deutsche Fotothek, SLUB Dresden (CC BY-SA).",
+   "provenance_url": "https://www.deutschefotothek.de/documents/obj/70151061",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\fotothek_0007013.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__fotothek-0007013.jpg",
+   "card": "images/cards/rosarium_supplement__fotothek-0007013.jpg",
+   "summary": "A plate from the *Rosarium Philosophorum* tradition (Deutsche Fotothek, SLUB Dresden, series df tg 0007013). See fotothek-0007012 for the general series context.",
+   "summary_status": "authored",
+   "medium": "woodcut or manuscript drawing",
+   "key_concepts": [
+    "coniunctio",
+    "rosarium tradition"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__fotothek-0007014",
+   "title": "Rosarium Philosophorum — Deutsche Fotothek 0007014",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium tradition",
+   "date": "16th–17th c.",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 7014,
+   "motifs": [
+    "rosarium",
+    "alchemical allegory"
+   ],
+   "rights": "Public domain. Deutsche Fotothek, SLUB Dresden (CC BY-SA).",
+   "provenance_url": "https://www.deutschefotothek.de/documents/obj/70151062",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\fotothek_0007014.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__fotothek-0007014.jpg",
+   "card": "images/cards/rosarium_supplement__fotothek-0007014.jpg",
+   "summary": "A plate from the *Rosarium Philosophorum* tradition (Deutsche Fotothek, SLUB Dresden, series df tg 0007014). See fotothek-0007012 for general series context.",
+   "summary_status": "authored",
+   "medium": "woodcut or manuscript drawing",
+   "key_concepts": [
+    "rosarium tradition",
+    "opus stages"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "rosarium_supplement__fotothek-0007015",
+   "title": "Rosarium Philosophorum — Deutsche Fotothek 0007015",
+   "work": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+   "work_key": "rosarium_supplement",
+   "short_id": "ROPS",
+   "creator": "unknown; Rosarium tradition",
+   "date": "16th–17th c.",
+   "century": 16,
+   "place": "Frankfurt; Strasbourg; various",
+   "region": "German lands",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 7015,
+   "motifs": [
+    "rosarium",
+    "alchemical allegory"
+   ],
+   "rights": "Public domain. Deutsche Fotothek, SLUB Dresden (CC BY-SA).",
+   "provenance_url": "https://www.deutschefotothek.de/documents/obj/70151063",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\rosarium_supplement\\fotothek_0007015.jpg",
+   "thumb": "images/thumbs/rosarium_supplement__fotothek-0007015.jpg",
+   "card": "images/cards/rosarium_supplement__fotothek-0007015.jpg",
+   "summary": "A plate from the *Rosarium Philosophorum* tradition (Deutsche Fotothek, SLUB Dresden, series df tg 0007015). See fotothek-0007012 for general series context.",
+   "summary_status": "authored",
+   "medium": "woodcut or manuscript drawing",
+   "key_concepts": [
+    "rosarium tradition",
+    "opus stages"
+   ],
+   "citations": [
+    {
+     "text": "Obrist, Barbara. Les Débuts de l'imagerie alchimique (XIVe–XVe siècles). Paris: Le Sycomore, 1982. [foundational study of medieval alchemical iconography]",
+     "url": ""
+    },
+    {
+     "text": "Jung, Carl Gustav. Psychology and Alchemy. Collected Works 12. Princeton: Princeton University Press, 1953.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    }
+   ],
+   "figures": []
+  },
+  {
    "id": "rosicrucian_hermetic__atalanta-emblem",
    "title": "Emblem from Michael Maier, *Atalanta Fugiens*",
    "work": "Rosicrucian & Hermetic Emblematic Engravings (1600–1800)",
@@ -174884,6 +176951,65 @@
    ],
    "figures": [],
    "medium": "painting"
+  },
+  {
+   "id": "alchemist_laboratory__van-der-doort-laboratory",
+   "title": "The Laboratory of the Alchemist — Paulus van der Doort (attrib., c. 1628)",
+   "work": "The Alchemist at Work: The Laboratory Genre in Painting & Print",
+   "work_key": "alchemist_laboratory",
+   "short_id": "ALAB",
+   "creator": "Paulus van der Doort (attributed)",
+   "date": "c. 1628",
+   "century": 17,
+   "place": "Low Countries",
+   "region": "Low Countries",
+   "language": "Latin",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "alchemist laboratory",
+    "furnace",
+    "alembic",
+    "bellows",
+    "scientific instruments",
+    "genre painting",
+    "dutch golden age"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Paulus_van_der_Doort_-_The_laboratory_of_the_alchemist.jpg",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\alchemist_laboratory\\van_der_doort_laboratory.jpg",
+   "thumb": "images/thumbs/alchemist_laboratory__van-der-doort-laboratory.jpg",
+   "card": "images/cards/alchemist_laboratory__van-der-doort-laboratory.jpg",
+   "summary": "A **Dutch Golden Age genre painting** attributed to Paulus van der Doort (fl. c. 1620–1640) depicting the interior of a working alchemical laboratory circa 1628.\n\n## Iconography\nThe painting shows the **interior of an alchemical workshop** in remarkable documentary detail: an athanor (tower furnace) with bellows, glass distillation vessels on the working bench, an alembic and collection flasks, books and manuscripts on the shelf, and the paraphernalia of practical chemistry. The visual language draws on the Flemish genre tradition of the scholarly interior.\n\n## Significance\nFor historians of science, the van der Doort laboratory painting is a **primary visual source for actual alchemical practice** in the Low Countries in the early seventeenth century — a counterpoint to the satirical tradition (Teniers, Bruegel) that shows the alchemist as a fool who has ruined his household. Here the laboratory is shown as a rational, orderly workspace, closer to the documentary intentions of Libavius (*Alchymia*, 1606) or the Rosicrucian reformers.\n\nThe painting is frequently reproduced in histories of chemistry (Debus, Newman, Principe) as documentary evidence of what an actual laboratory looked like. The detailed furnace equipment is consistent with Paracelsian pharmaceutical chemistry rather than strictly transmutational gold-making.",
+   "summary_status": "authored",
+   "medium": "painting",
+   "key_concepts": [
+    "laboratory genre",
+    "Dutch Golden Age science",
+    "alchemical practice",
+    "workshop interior"
+   ],
+   "citations": [
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Hankins, James and Ada Palmer. 'The Recovery of Ancient Philosophy in the Renaissance: A Brief Guide.' Villa I Tatti: Harvard University Center for Italian Renaissance Studies, 2009.",
+     "url": ""
+    }
+   ],
+   "figures": []
   },
   {
    "id": "alchemist_laboratory__wijck-alchemist",

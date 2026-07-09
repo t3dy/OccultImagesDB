@@ -1347,7 +1347,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/Category:Alchemists",
     "rights": "Public domain / CC0 (per item). Via Wikimedia Commons.",
     "blurb": "Paintings and prints of the alchemist in his cluttered workshop — the human face of the Great Work. From Bruegel's ruined family and Teniers' many bearded adepts to Joseph Wright of Derby's praying alchemist amid the glowing flask, the genre weighs hope against folly, blowing the bellows over furnace and alembic in pursuit of gold and the stone.",
-    "count": 18
+    "count": 19
   },
   {
     "key": "enochian_dee",
@@ -2683,5 +2683,65 @@
     "rights": "Public domain. Internet Archive scan of 1788 Altona edition (repr.).",
     "blurb": "The second volume of the Geheime Figuren der Rosenkreuzer (Secret Figures of the Rosicrucians, Altona, 1785–1788) contains the most elaborate cosmological diagrams of the Gold und Rosenkreuzer order — combining Paracelsian alchemy, Kabbalistic geometry, and Protestant mysticism into full-page instructional plates for initiates. The 1788 volume was edited by J.D.A. Eckhardt, Printer to the King of Denmark, and later translated into English as 'Secret Symbols of the Rosicrucians.' The Geheime Figuren represents the visual curriculum of an 18th-century Rosicrucian brotherhood that claimed descent from the original Rosicrucian manifestos (Fama Fraternitatis, 1614; Confessio, 1615).",
     "count": 4
+  },
+  {
+    "key": "khunrath_amphi",
+    "title": "Amphitheatrum Sapientiae Aeternae — The Four Great Circular Engravings",
+    "creator": "Heinrich Khunrath; Hans Vredeman de Vries (architectural layout, attrib.) and others",
+    "date": "1595 / 1609",
+    "era": "renaissance",
+    "tradition": "hermetic",
+    "tier": "illustration",
+    "place": "Hamburg; Hanau",
+    "language": "Latin",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Heinrich_Khunrath",
+    "rights": "Public domain. Via Wikimedia Commons / DPLA.",
+    "blurb": "The four great circular engraved plates of Heinrich Khunrath's *Amphitheatrum Sapientiae Aeternae* (Hamburg 1595; Hanau 1609) — the most debated images in the Renaissance hermetic tradition. The 'Oratory-Laboratory' plate, showing the alchemist's curtained oratory within a luminous octagonal laboratory, became the paradigmatic image for the unity of *orare et laborare* (prayer and work) in Christian theosophy. Jung analysed it as a projection of the unconscious; Szulakowska traced its Calvinist light-geometry; Principe unpacked its practical chemical context. The other three plates elaborate a cosmological program fusing Paracelsian medicine, kabbalistic numerology, and Rosicrucian mysticism, anticipating the Rosicrucian manifestos by a generation.",
+    "count": 7
+  },
+  {
+    "key": "rosarium_supplement",
+    "title": "Rosarium Philosophorum — Additional Plates and Variant Editions",
+    "creator": "various; after Arnold of Villanova (attrib.) and the Griemiller translation",
+    "date": "1550–1700 (various editions)",
+    "era": "early_modern",
+    "tradition": "alchemy",
+    "tier": "illustration",
+    "place": "Frankfurt; Strasbourg; various",
+    "language": "Latin / German",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Rosarium_philosophorum",
+    "rights": "Public domain. Via Wikimedia Commons / Deutsche Fotothek / DPLA.",
+    "blurb": "Supplementary plates from the *Rosarium Philosophorum* tradition — woodcuts from the Frankfurt 1550 printed edition, the Griemiller German manuscript version, and derivative copies — documenting the serial iconographic program of the twenty-figure Rosarium sequence: the Fountain of Mercury (Fig. 1), the naked King and Queen descending into the bath, their sexual conjunction (*coniunctio*), death (*nigredo*), the soul ascending and returning, and final resurrection as the crowned Rebis/Hermaphrodite. The green lion devouring the sun — one of the most reproduced alchemical images — appears here at high resolution.",
+    "count": 17
+  },
+  {
+    "key": "libavius_alchymia",
+    "title": "Alchymia — Andreas Libavius (1606)",
+    "creator": "Andreas Libavius",
+    "date": "1606",
+    "era": "early_modern",
+    "tradition": "alchemy",
+    "tier": "illustration",
+    "place": "Frankfurt",
+    "language": "Latin",
+    "provenance_url": "https://books.google.com/books?id=0WfRikJt9yQC",
+    "rights": "Public domain. Google Books scan.",
+    "blurb": "Woodcut illustrations from Andreas Libavius's *Alchymia recognita emendata et aucta* (Frankfurt, 1606) — the founding document of chemistry as a university discipline, and the first printed work to include systematic architectural plans for a purpose-built chemical laboratory (*Domus Chymica*). Its 'Apparatus Liber' (Book of Equipment) illustrates furnaces, vessels, retorts, cooling systems, filtration apparatus, and the elaborate layout of a model laboratory building, providing the earliest comprehensive visual survey of early-modern practical chemistry. Barbara Obrist cites Libavius's systematic approach as a transition from medieval alchemical secrecy to printed experimental science.",
+    "count": 6
+  },
+  {
+    "key": "musaeum_hermeticum",
+    "title": "Musaeum Hermeticum reformatum et amplificatum (1678)",
+    "creator": "various; ed. Lucas Jennis / Hermann à Sande",
+    "date": "1678",
+    "era": "early_modern",
+    "tradition": "alchemy",
+    "tier": "illustration",
+    "place": "Frankfurt",
+    "language": "Latin",
+    "provenance_url": "https://wellcomecollection.org/works/jguvzj57",
+    "rights": "CC BY 4.0 (Wellcome Collection).",
+    "blurb": "Illustration plates from the *Musaeum Hermeticum reformatum et amplificatum* (Frankfurt, 1678, printed by Hermann à Sande) — the most important anthology of alchemical texts published in the seventeenth century. Its twenty-one treatises include the *Tractatus Aureus* of Hermes, the Twelve Keys and *Azoth* of Basil Valentine, the fifteen emblems of Lambspring's *De Lapide Philosophico*, the *Gloria Mundi*, and works by George Starkey and others. The 1678 expanded edition superseded the original 1625 *Musaeum Hermeticum* compiled by Lucas Jennis, and was the standard Latin anthology of the hermetic tradition read by Newton, Boyle, and the wider *philosophia naturalis* community. These plates, held in the Wellcome Collection, are digitised as Figures 2 and 3 in the Wellcome's classification of the MH's illustrated content.",
+    "count": 2
   }
 ]
