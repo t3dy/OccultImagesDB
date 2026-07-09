@@ -1,9 +1,35 @@
 # OCCULTIMGDB — Current State
 
-**Last updated:** 2026-06-27
+**Last updated:** 2026-07-08
 **🌐 DEPLOYED LIVE: https://t3dy.github.io/OccultImagesDB/** — repo is git-tracked and pushed to
 `github.com/t3dy/OccultImagesDB`; GitHub Pages serves the repo root (root `index.html` redirects to
 `/site/`). Redeploy = commit + `git push origin main` (Pages rebuilds automatically in ~1–2 min).
+
+**V10 (2026-07-08) — 3,572 images · 184 works · 57 topics live · 3,572 authored · 25,209 citations ·
+5 clean eras · 0 missing rights/cards.** This session (took over from a concurrent window that had
+been racing edits in the same working tree):
+- **Era-vocab fix + consistency:** normalized the `"early modern"` (space) typo → `"early_modern"`
+  (77 images that had formed a phantom 6th era). HEAD's compiled `catalog.json` was already correct
+  but its *sources* (`works_extra.json`, `works.json`) still carried the typo, and `operations.json`
+  predated the `glauber_furni_novi` add — rebuilt so sources/derivatives/DB agree.
+- **Orphan triage (recurring failure mode = images downloaded to `sources_web/` but the work's source
+  in `config.py` scans `EmblemPrintShop/…`, so `build_catalog` never wires them):** earlier this
+  session the **14 Splendor Solis Wellcome plates** (v0025629–42) and **8 hi-res Khunrath page
+  upgrades** were the same bug — the concurrent window landed them in commits 621fd1c / b119ca8, so
+  they're now live (verified byte-identical to independent rebuild).
+- **Deliberately NOT cataloged** (documented dead-ends): `sources_web/basil_valentine/` (3 imgs) are a
+  book binding + a library-catalog clipping + a hand-drawn annotation sketch — not whole illustrations
+  (fail scope). `sources_web/splendor_solis/ss_*` supplements (7 imgs, e.g. severing-king woodcut,
+  grosse-waschfest miniature) are genuine but **redundant alternate-edition witnesses** of plates the
+  catalog already holds, and have **no `.prov.json`** — deferred rather than forced in without
+  verified provenance. If wanted later: build an "alternate witnesses" facet + source provenance
+  per-image (Deutsche Fotothek / Aureum Vellus edition).
+- **Cleanup:** removed ~30 untracked scratch scripts (`probe_*`/`check_*`/`setup_*`/`fix_*`) the
+  concurrent window left at repo root. NOTE: ~7 such scratch scripts were *committed* by that window
+  and remain tracked (e.g. `probe_aurora_zbz.py`, `fix_elixir_vie.py`, `setup_beu_sources.py`) — repo
+  pollution worth a follow-up `git rm`.
+- **GOTCHA (new):** two Claude sessions were editing this one working tree simultaneously — catalog
+  ID sets stayed identical but JSON reordering produced enormous phantom diffs. One driver at a time.
 
 **Status:** V9 (2026-06-29) — **2,835 catalogued · 2,562 curated illustrations (text-pages/junk hidden
 as `tier:page_scan`) · 126 works · 57 topics · ZERO placeholders (every illustration has a curatorial

@@ -215,3 +215,24 @@ relational site. All compiled via `build_all.py`.
 - Verified: new item pages render full apparatus (1382px image, sections, citations, relational links);
   modern era live on the timeline; Topics tab shows 9 live; search hits baphomet/tarot/witch/sephiroth.
   No console errors. Coverage is no longer ~95% alchemy — the occult breadth has genuinely begun.
+
+
+## [2026-07-08] V10 — era-vocab fix, orphan triage, consistency rebuild (took over from concurrent window)
+
+- **Context:** a second Claude session had been editing this same working tree concurrently (it had
+  recovered from a stall and was mid-commit). User stopped it; this session became sole driver.
+- **Era-vocab normalization:** `"early modern"` (space) -> `"early_modern"` across `works_extra.json`
+  (17) + `works.json` (17) + 1 in `overrides.json`; 77 images had formed a phantom 6th era bucket.
+  HEAD (`3c8a98c`) was internally inconsistent — its compiled `catalog.json` already had the correct
+  slug but the sources did not, and `operations.json` predated `glauber_furni_novi`. Rebuilt all
+  derivatives + DB so they agree. Committed as `9a807e0`.
+- **Orphan failure-mode confirmed + triaged:** images downloaded into `sources_web/<work>/` are NOT
+  wired unless that works `config.py` source points at the LOCAL root; several works (splendor_solis,
+  khunrath) scan `EmblemPrintShop/…` instead, so `build_catalog` silently skips the downloads. The
+  Splendor Solis Wellcome (14) + Khunrath hi-res (8) instances were landed by the concurrent window
+  (621fd1c / b119ca8) and verified live.
+- **Deferred (documented, not shipped):** `basil_valentine/` 3 imgs = binding + catalog-clipping +
+  annotation sketch (not illustrations); `splendor_solis/ss_*` 7 imgs = redundant alternate witnesses,
+  no provenance sidecars. See HANDOVER_CURRENT.md V10 block.
+- **State:** 3,572 images · 184 works · 3,572 authored · 25,209 citations · 5 clean eras · 0 missing
+  cards/thumbs/rights. Deployed via `git push origin main`.
