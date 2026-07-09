@@ -665,8 +665,8 @@
    "tagline": "The red stone cast upon base metal — and gold.",
    "blurb": "The twelfth and final gate: the red stone, the perfected Elixir, is cast upon molten base metal and transmutes it to gold. The rubedo is complete — the King returns crowned in red, the phoenix rises, the Great Work is accomplished.",
    "cover": "valentine_twelve_keys__twelfth-key",
-   "count": 90,
-   "n_sources": 19,
+   "count": 91,
+   "n_sources": 20,
    "image_ids": [
     "ancient_alchemy__ancient-glass-byzantine",
     "ancient_alchemy__farnese-atlas-naples",
@@ -757,7 +757,8 @@
     "valentine_twelve_keys__ninth-key",
     "valentine_twelve_keys__seventh-key",
     "valentine_twelve_keys__tenth-key",
-    "valentine_twelve_keys__twelfth-key"
+    "valentine_twelve_keys__twelfth-key",
+    "dict_infernal__elixir-vie"
    ]
   }
  ]
