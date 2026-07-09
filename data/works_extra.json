@@ -4542,5 +4542,62 @@
       "hermetic compilation"
     ],
     "blurb": "Illustration plates from the *Musaeum Hermeticum reformatum et amplificatum* (Frankfurt, 1678, printed by Hermann à Sande) — the most important anthology of alchemical texts published in the seventeenth century. Its twenty-one treatises include the *Tractatus Aureus* of Hermes, the Twelve Keys and *Azoth* of Basil Valentine, the fifteen emblems of Lambspring's *De Lapide Philosophico*, the *Gloria Mundi*, and works by George Starkey and others. The 1678 expanded edition superseded the original 1625 *Musaeum Hermeticum* compiled by Lucas Jennis, and was the standard Latin anthology of the hermetic tradition read by Newton, Boyle, and the wider *philosophia naturalis* community. These plates, held in the Wellcome Collection, are digitised as Figures 2 and 3 in the Wellcome's classification of the MH's illustrated content."
+  },
+  {
+    "key": "glauber_furni_novi",
+    "short_id": "GLFN",
+    "title": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+    "creator": "Johann Rudolf Glauber",
+    "date": "1648",
+    "century": 17,
+    "place": "Amsterdam",
+    "region": "Low Countries",
+    "language": "Latin / German",
+    "era": "early_modern",
+    "tradition": "alchemy",
+    "tier": "illustration",
+    "root": "BEU",
+    "image_dir": "glauber_furni_novi",
+    "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?p=0&cote=pharma_res011275x01&do=page",
+    "rights": "Public domain. Biblioteque universitaire de sante (BIUSante) Medica digital library, Paris.",
+    "motifs": [
+      "furnace",
+      "chemical apparatus",
+      "distillation",
+      "laboratory equipment",
+      "athanor",
+      "mineral chemistry",
+      "early modern chemistry"
+    ],
+    "blurb": "Pages from Johann Rudolf Glauber's *Furni Novi Philosophici* (New Philosophical Furnaces; Amsterdam, 1648-1651) ? systematically illustrated practical chemistry treatise describing innovative furnace designs and chemical operations, bridging the alchemical apparatus tradition and early modern industrial chemistry."
+  },
+  {
+    "key": "splendor_solis",
+    "short_id": "SPSO",
+    "title": "Splendor Solis (Splendour of the Sun) ? Salomon Trismosin (attrib., c. 1532)",
+    "creator": "Salomon Trismosin (attributed) / illuminator unknown",
+    "date": "c. 1532 / 1582 (Harley MS 3469)",
+    "century": 16,
+    "place": "Augsburg / Germany",
+    "region": "German lands",
+    "language": "German",
+    "era": "renaissance",
+    "tradition": "alchemy",
+    "tier": "illustration",
+    "root": "LOCAL",
+    "image_dir": "splendor_solis",
+    "provenance_url": "https://wellcomecollection.org/works?query=splendor+solis",
+    "rights": "Public domain. Via Wellcome Collection (CC BY 4.0) and Deutsche Fotothek (CC BY-SA). Individual item rights noted per image.",
+    "motifs": [
+      "splendor solis",
+      "alchemical flask",
+      "planetary series",
+      "washing festival",
+      "illuminated manuscript",
+      "opus stages",
+      "sun and moon",
+      "mercury and sulphur"
+    ],
+    "blurb": "Selected plates from the *Splendor Solis* (Splendour of the Sun), the most celebrated illuminated alchemical manuscript of the Renaissance ? attributed to Salomon Trismosin, master of Paracelsus according to legend, and existing in numerous copies from c. 1532 onward. The masterwork of German Renaissance manuscript illumination applied to alchemical allegory."
   }
 ]

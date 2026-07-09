@@ -1,5 +1,5 @@
 {
- "generated_records": 3547,
+ "generated_records": 3572,
  "works": [
   {
    "key": "atalanta_fugiens",
@@ -2745,6 +2745,21 @@
    "rights": "CC BY 4.0 (Wellcome Collection).",
    "blurb": "Illustration plates from the *Musaeum Hermeticum reformatum et amplificatum* (Frankfurt, 1678, printed by Hermann à Sande) — the most important anthology of alchemical texts published in the seventeenth century. Its twenty-one treatises include the *Tractatus Aureus* of Hermes, the Twelve Keys and *Azoth* of Basil Valentine, the fifteen emblems of Lambspring's *De Lapide Philosophico*, the *Gloria Mundi*, and works by George Starkey and others. The 1678 expanded edition superseded the original 1625 *Musaeum Hermeticum* compiled by Lucas Jennis, and was the standard Latin anthology of the hermetic tradition read by Newton, Boyle, and the wider *philosophia naturalis* community. These plates, held in the Wellcome Collection, are digitised as Figures 2 and 3 in the Wellcome's classification of the MH's illustrated content.",
    "count": 2
+  },
+  {
+   "key": "glauber_furni_novi",
+   "title": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "place": "Amsterdam",
+   "language": "Latin / German",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?p=0&cote=pharma_res011275x01&do=page",
+   "rights": "Public domain. Biblioteque universitaire de sante (BIUSante) Medica digital library, Paris.",
+   "blurb": "Pages from Johann Rudolf Glauber's *Furni Novi Philosophici* (New Philosophical Furnaces; Amsterdam, 1648-1651) ? systematically illustrated practical chemistry treatise describing innovative furnace designs and chemical operations, bridging the alchemical apparatus tradition and early modern industrial chemistry.",
+   "count": 25
   }
  ],
  "creators_index": {
@@ -130835,6 +130850,1558 @@
    ],
    "figures": [],
    "medium": "painting"
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0000",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Title Page and Frontispiece",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 0,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=0",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0000.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0000.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0000.jpg",
+   "summary": "Page 0 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nThe title page and frontispiece of Glauber's *Furni Novi Philosophici* (Amsterdam, 1648). The frontispiece presents the author's portrait and the emblematic apparatus of the new philosophy of furnaces — establishing Glauber's identity as both a practical chemist and a systematic reformer of the laboratory arts. The title announces the work as a treatise on *ars destillatoria nova* (the new art of distillation).\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0008",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Introduction and First Furnace Designs",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 8,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=8",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0008.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0008.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0008.jpg",
+   "summary": "Page 8 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nOpening pages of Glauber's treatise, introducing his philosophical principles and the first furnace designs. Glauber distinguishes his *Furni Novi* (new furnaces) from traditional athanors by their systematic design for different operations: controlled temperature regulation, efficient fuel consumption, and multi-purpose use. The first furnaces shown here handle general heating and calcination.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0016",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Furnace Type II — The Wind Furnace (*Windofen*)",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 16,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=16",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0016.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0016.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0016.jpg",
+   "summary": "Page 16 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nThe **Wind Furnace** (*Ventum Philosophicum* or *Windofen*) — one of Glauber's signature innovations. This furnace uses controlled airflow through bellows or natural draught to achieve higher and more even temperatures than the traditional athanor, enabling more precise metallurgical operations including the calcination of metals and the fusion of mineral compounds.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0024",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Furnace Type III — The Reverberatory Furnace",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 24,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=24",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0024.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0024.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0024.jpg",
+   "summary": "Page 24 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nThe **reverberatory furnace** (*Fornax Reverberatoria*), in which the flame is deflected downward from a curved ceiling to heat the material from above — enabling the heating of substances in open vessels without direct contact with flame or fuel gases. Critical for calcination, fusing, and roasting operations in Glauber's chemical system.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0032",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Sand Bath and Water Bath (*Balneum Arenae & Balneum Mariae*)",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 32,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=32",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0032.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0032.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0032.jpg",
+   "summary": "Page 32 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nThe **sand bath** (*balneum arenae*) and the **water bath** (*balneum Mariae* or Mary's bath) — two indirect heating methods for gentle, even-temperature operations. The *balneum Mariae* (attributed by tradition to Mary the Prophetess, the legendary Jewish alchemist of Alexandria) heats through boiling water, limiting temperature to 100°C and preventing scorching. The sand bath achieves intermediate temperatures between water and open flame.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0040",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Distillation in the Athanor and Per Descensum",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 40,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=40",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0040.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0040.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0040.jpg",
+   "summary": "Page 40 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nDistillation apparatus using the athanor for standard upward distillation (*per ascensum*) and downward-distillation receivers (*per descensum*) for resins and fixed oils. Glauber's innovation here is the integration of multiple receiver vessels to collect different fractions at different temperatures as the material heats progressively.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0048",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — The Chemical Furnace for Acid Production",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 48,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=48",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0048.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0048.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0048.jpg",
+   "summary": "Page 48 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nFurnaces and apparatus for the production of mineral acids — vitriol (*spiritus vitrioli*, sulfuric acid), spirit of salt (*spiritus salis*, hydrochloric acid), and aqua fortis (nitric acid). Glauber was one of the leading producers and distributors of mineral acids in 17th-century Amsterdam; his acid-furnace designs here influenced European industrial chemistry.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0056",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Retorts and Receivers for Spirit Distillation",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 56,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=56",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0056.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0056.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0056.jpg",
+   "summary": "Page 56 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nGlass retorts and their receivers for the distillation of volatile spirits: *spiritus vini* (alcohol), volatile salts, essential oils, and the pharmaceutical essences that formed the commercial basis of Glauber's extensive workshop in Amsterdam. The retort-and-receiver assembly allows for sealed distillation with minimal loss of volatile product.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0064",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — The Pelican Vessel (Circulatory Flask)",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 64,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=64",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0064.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0064.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0064.jpg",
+   "summary": "Page 64 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nThe **pelican** (*pelicanus*, also called *vase circulatoire*) — a sealed flask with two side-arms that return condensed vapour back to the bottom, enabling continuous circulation of volatile material. Named for the pelican bird believed to feed its young with its own blood (hence the self-referential loop). Used for the long-term digestion and circulation of spirits to produce highly rectified essences. Glauber's pelican designs are more efficient than traditional versions.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0072",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Sublimation Apparatus",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 72,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=72",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0072.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0072.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0072.jpg",
+   "summary": "Page 72 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nApparatus for **sublimation** (*sublimatio*) — the direct conversion of solid material to vapour and back to solid, bypassing the liquid phase. Key for purifying arsenic, sulfur, ammonium salts, and later mercury. Glauber's sealed sublimation chambers prevent loss of volatile products and allow for more controlled temperature gradients.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0080",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Philosophical Furnace with Multiple Chambers",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 80,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=80",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0080.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0080.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0080.jpg",
+   "summary": "Page 80 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nA multi-chamber **philosophical furnace** (*furnus philosophicus*) — Glauber's most ambitious apparatus design, combining zones for drying, calcination, and distillation in a single structure. This is the laboratory equivalent of an industrial chemical plant: one fuel source heats multiple processes simultaneously, reducing both fuel consumption and preparation time.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0088",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Lead Furnaces and Metallurgical Equipment",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 88,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=88",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0088.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0088.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0088.jpg",
+   "summary": "Page 88 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nFurnaces and crucibles for **metallurgical operations**: cupellation (separating silver from lead), smelting, and the production of metallic antimony and lead oxides (*minium*, *massicot*). Glauber's metallurgical apparatus bridges the alchemy of transmutation and the practical assay work needed for mining and silver-refining industries in Central Europe.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0096",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Glass Vessels: Cucurbits, Alembics and Special Forms",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 96,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=96",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0096.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0096.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0096.jpg",
+   "summary": "Page 96 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nA systematic survey of **glass chemistry vessels**: cucurbits (rounded flasks), alembics (still-heads with condensing arms), aludels (stacked sublimation vessels), Florentine receivers, and special forms for difficult operations. Glauber emphasises the importance of proper glassware quality and shape for chemical success — a practical concern in 17th-century Amsterdam where quality Bohemian glass was available.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0104",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Chemical Operations: Dissolution and Extraction",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 104,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=104",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0104.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0104.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0104.jpg",
+   "summary": "Page 104 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nTechniques and apparatus for **dissolution** (*solutio*) and **extraction** (*extractio*): the dissolution of metals and salts in mineral acids, and the extraction of medicinal virtues from vegetable and mineral matter. Glauber's solvent chemistry was unusually systematic: he categorised solvents by the type of material they dissolve, anticipating the later concept of selective solvation.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0112",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Crystallisation and Salt Recovery",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 112,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=112",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0112.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0112.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0112.jpg",
+   "summary": "Page 112 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nApparatus for **crystallisation** (*crystallisatio*) and salt recovery: evaporation pans, crystallisation dishes, and salt-purification methods. Glauber's greatest commercial innovation was his synthesis and sale of **Glauber's Salt** (*sal mirabile Glauberi*, sodium sulfate), whose production and therapeutic uses he describes here in detail.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0120",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Calcination: Conversion of Metals to Calces",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 120,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=120",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0120.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0120.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0120.jpg",
+   "summary": "Page 120 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nFurnaces and methods for **calcination** (*calcinatio*): the reduction of metals, minerals, and bones to their calces (powders) by sustained high-temperature oxidation. Calcination was both a chemical operation and an alchemical stage — the 'death' of the metal that must precede its 'resurrection' in reduction. Glauber treats it as a practical pharmaceutical and metallurgical procedure.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0128",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Pharmaceutical Chemistry: Preparations and Medicines",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 128,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=128",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0128.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0128.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0128.jpg",
+   "summary": "Page 128 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nGlauber's chemical pharmacy — the preparation of **pharmaceutical products** using his furnace system: tinctures, extracts, salt preparations, and metallic medicines in the Paracelsian tradition. Glauber's *Furni Novi* is thus not only a laboratory manual but a pharmaceutical compendium, continuing Paracelsus's project of chemical medicine (*spagyria*) on a systematic industrial scale.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0136",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Mineral Acids and Their Applications",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 136,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=136",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0136.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0136.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0136.jpg",
+   "summary": "Page 136 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nDetailed apparatus and methods for **mineral acid production** and applications: the concentration of vitriol oil, the distillation of spirit of nitre (nitric acid), and the preparation of *aqua regia* (royal water, the only acid dissolving gold). Glauber supplies Amsterdam's growing chemical trades with these acids and documents their industrial applications here.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0144",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Special Apparatus: Long-Neck Flasks and Cohobation",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 144,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=144",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0144.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0144.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0144.jpg",
+   "summary": "Page 144 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nSpecial apparatus including **long-neck flasks** for high-temperature distillations, and **cohobation** setups — the repeated distillation of a liquid back over its own residue to progressively concentrate virtue. Cohobation was a key alchemical operation for producing *quintessences* and Paracelsian arcana.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0152",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Vegetable Distillation: Essential Oils and Waters",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 152,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=152",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0152.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0152.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0152.jpg",
+   "summary": "Page 152 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nApparatus for **vegetable distillation**: the production of essential oils (by steam distillation), aromatic waters (hydrosols), and fermented spirits. Glauber's vegetable distillation section bridges alchemy and the perfumery, pharmacy, and distillery trades of Amsterdam — practical applications that subsidised his more speculative chemical work.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0160",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Advanced Mineral Chemistry: Sulphur and Antimony",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 160,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=160",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0160.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0160.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0160.jpg",
+   "summary": "Page 160 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nOperations with **sulphur** and **antimony** — two of the most important materials in both Paracelsian medicine and practical chemistry. Antimony preparations (tartar emetic, antimony glass, stibium) were among the most commercially significant products of Glauber's laboratory, and his sulphur operations for producing sulfuric acid were the foundation of his industrial chemistry.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0168",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Amalgamation and Mercury Operations",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 168,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=168",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0168.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0168.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0168.jpg",
+   "summary": "Page 168 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nApparatus for **amalgamation** and mercury chemistry: the combination of mercury with metals (especially silver and gold) for refining, and the distillation of cinnabar (mercury sulfide) to recover liquid mercury. Glauber's mercury apparatus shows both the pharmaceutical uses of mercury preparations and their role in metallurgical processing — specifically the mercury amalgamation process for silver recovery from ore.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": [
+    "Mercury"
+   ]
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0176",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Experimental Chemistry: Unusual Preparations",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 176,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=176",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0176.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0176.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0176.jpg",
+   "summary": "Page 176 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nApparatus for more unusual or advanced preparations that Glauber terms **experimentum**  — special operations including the production of the *sal volatile* (volatile salts), the extraction of phosphorescent substances, and early experiments with what would later be called phosphorus. This section shows Glauber at the experimental frontier of 17th-century chemistry.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0184",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Conclusion and Index of Operations",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 184,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=184",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0184.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0184.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0184.jpg",
+   "summary": "Page 184 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nThe concluding sections of Glauber's *Furni Novi Philosophici* vol. 1: a summary of operations, cross-references to his other works (*Opera Omnia*, *Consolatio Navigantium*, *Prosperitas Germaniae*), and the apparatus index. Glauber's work is unusual in its self-referential organisation — operations are numbered and cross-indexed so practitioners can find all mentions of a given substance or vessel.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
+  },
+  {
+   "id": "glauber_furni_novi__biusante-pharma-res011275x01-p0192",
+   "title": "Glauber, *Furni Novi Philosophici* (Amsterdam 1648) — Final Pages: Practical Notes and Printer's Colophon",
+   "work": "Furni Novi Philosophici (New Philosophical Furnaces) ? Johann Rudolf Glauber (1648)",
+   "work_key": "glauber_furni_novi",
+   "short_id": "GLFN",
+   "creator": "Johann Rudolf Glauber",
+   "date": "1648",
+   "century": 17,
+   "place": "Amsterdam",
+   "region": "Low Countries",
+   "language": "Latin / German",
+   "era": "early_modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": 192,
+   "motifs": [
+    "chemical apparatus",
+    "furnace",
+    "laboratory equipment",
+    "practical chemistry",
+    "Paracelsian medicine"
+   ],
+   "rights": "Public domain. BIUSante Medica digital library, Paris.",
+   "provenance_url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01&p=192",
+   "source_file": "C:\\Dev\\AlchemyBeatEmUp\\staging\\raw_images\\glauber_furni_novi\\BIUSante_pharma_res011275x01__p0192.jpg",
+   "thumb": "images/thumbs/glauber_furni_novi__biusante-pharma-res011275x01-p0192.jpg",
+   "card": "images/cards/glauber_furni_novi__biusante-pharma-res011275x01-p0192.jpg",
+   "summary": "Page 192 from Johann Rudolf Glauber's ***Furni Novi Philosophici*** (New Philosophical Furnaces; Amsterdam: Jan Jansson, 1648) — from the BIUSante Medica digital library digitisation (call number pharma_res011275x01).\n\n## About the Work\nJohann Rudolf Glauber (1604–1670) was the most practically productive chemist of the 17th century and a crucial figure in the transition from alchemical laboratory to industrial chemistry. Born near Carlstadt in Württemberg, he settled in Amsterdam where he ran a commercial chemical laboratory producing pharmaceutical preparations, mineral acids, and his famous *Sal Mirabile* (sodium sulfate, now 'Glauber's Salt').\n\nThe *Furni Novi Philosophici* (1648–1651), in five parts, systematically describes Glauber's furnace innovations — the apparatus designs that enabled his chemical production at scale. It is the most detailed laboratory manual of the mid-17th century and far exceeds Libavius's earlier *Alchymia* (1606) in practical specificity.\n\n## This Page\nFinal pages of the BIUSante digitisation of Glauber's *Furni Novi Philosophici* vol. 1 (Amsterdam: Jan Jansson, 1648), including practical operational notes, corrections, and the printer's colophon. The Paris BIUSante (Bibliothèque universitaire de santé) holds this copy in their Medica digital collection of historical pharmaceutical and chemical literature.\n\n## Scholarly Significance\nDebus (1977) identifies Glauber as the key transitional figure between Paracelsian spagyria and the industrial chemistry of the 18th century. Principe (2013) notes that Glauber's commercial success — he sold chemicals to customers across Europe — transformed the chemist from a philosophical adept into a market-oriented manufacturer. The BIUSante holds the Glauber *Furni Novi* in its pharmaceutical history collection as a landmark of early modern pharmaceutical chemistry.",
+   "summary_status": "authored",
+   "medium": "copperplate engraving",
+   "key_concepts": [
+    "laboratory science",
+    "early chemistry",
+    "Glauber's salt",
+    "Paracelsian spagyria",
+    "furni novi"
+   ],
+   "citations": [
+    {
+     "text": "Glauber, Johann Rudolf. Furni Novi Philosophici sive Descriptio Artis Destillatoriae Novae. Amsterdam: Jan Jansson, 1648–1651. [BIUSante Medica digitization: pharma_res011275x01]",
+     "url": "https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=pharma_res011275x01"
+    },
+    {
+     "text": "Debus, Allen G. The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries. New York: Science History Publications, 1977.",
+     "url": ""
+    },
+    {
+     "text": "Principe, Lawrence M. The Secrets of Alchemy. Chicago: University of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo14621946.html"
+    },
+    {
+     "text": "Newman, William R. Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3630835.html"
+    },
+    {
+     "text": "Leicester, Henry M. The Historical Background of Chemistry. New York: Dover, 1971.",
+     "url": ""
+    }
+   ],
+   "figures": []
   },
   {
    "id": "alchemy_emblems_more__aureum-vellus-title",
