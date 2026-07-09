@@ -1,5 +1,5 @@
 {
- "generated_records": 3499,
+ "generated_records": 3500,
  "works": [
   {
    "key": "atalanta_fugiens",
@@ -2669,7 +2669,7 @@
    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Illustrations_from_Dictionnaire_Infernal",
    "rights": "Public domain. Via Wikimedia Commons.",
    "blurb": "Jacques Collin de Plancy's *Dictionnaire Infernal* (first edition 1818, sixth and final 1863) is the most widely circulated modern encyclopedia of demons, sorcery, and occult practice. The 1826 Planches volume contained lithographic diagrams illustrating astrology, chiromancy, phrenology, comparative physiognomy, witches' sabbaths (after Teniers), talismans, and diabolic pact facsimiles. The definitive 1863 sixth edition added 69 demon portraits engraved by Louis Le Breton, which became the canonical 19th-century pictorial demonology and shaped popular and occult conceptions of demonic appearance from the Decadent movement through modern popular culture.",
-   "count": 89
+   "count": 90
   },
   {
    "key": "geheime_figuren_book2",
@@ -236044,6 +236044,75 @@
     "demonological illustration",
     "19th century occultism",
     "Ars Goetia tradition"
+   ],
+   "figures": [],
+   "medium": "engraving"
+  },
+  {
+   "id": "dict_infernal__elixir-vie",
+   "title": "Élixir de vie — Dictionnaire Infernal (1863)",
+   "work": "dict_infernal",
+   "work_key": "dict_infernal",
+   "short_id": "DINF",
+   "creator": "Engraver unknown (Dictionnaire Infernal, 1863)",
+   "date": "1863",
+   "century": 19,
+   "place": "Paris",
+   "region": "France",
+   "language": "French",
+   "era": "modern",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "elixir of life",
+    "alchemy",
+    "philosopher's stone",
+    "immortality potion",
+    "Dictionnaire Infernal",
+    "alchemical laboratory",
+    "transmutation",
+    "Paracelsus"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/File:Elixir_de_vie.png",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\dict_infernal\\elixir_vie.jpg",
+   "thumb": "images/thumbs/dict_infernal__elixir-vie.jpg",
+   "card": "images/cards/dict_infernal__elixir-vie.jpg",
+   "summary": "**Élixir de vie** ('Elixir of Life') — illustration from the *Dictionnaire Infernal* (1863) depicting the alchemical quest for the elixir of immortality. This image connects demonological encyclopaedism to alchemical tradition — the *Dictionnaire Infernal* treated alchemy as part of the same occult landscape as demonology and witchcraft.\n\n**Alchemical context:** The *elixir vitae* was one of the supreme goals of European alchemy alongside the Philosopher's Stone (*lapis philosophorum*). Paracelsus (1493–1541) distinguished the 'Elixir' as a medicine of universal healing from the Stone as a transmutational agent; their conflation was common in popular imagination. The Dictionnaire Infernal's entry on the elixir likely traces its history from Roger Bacon's *Opus Majus* through Paracelsian medicine.\n\n**Position in 19th-century occultism:** By 1863, the elixir had become a Romantic cultural obsession — appearing in Balzac's *La Recherche de l'Absolu* (1834) and Hawthorne's 'Dr. Heidegger's Experiment' (1837). De Plancy's encyclopaedic treatment positioned alchemy as a dangerous occult art rather than a proto-scientific practice, setting the tone for later historiography.\n\nFor further reading: Principe, Lawrence M. *The Secrets of Alchemy* (U of Chicago Press, 2013); Newman, William R., and Lawrence M. Principe. *Alchemy Tried in the Fire* (U of Chicago Press, 2002).",
+   "summary_status": "authored",
+   "key_concepts": [
+    "elixir of life",
+    "alchemy",
+    "immortality",
+    "philosopher's stone",
+    "Paracelsus"
+   ],
+   "citations": [
+    {
+     "text": "Collin de Plancy, Jacques Auguste Simon. *Dictionnaire Infernal*. 6th ed. Paris: Henri Plon, 1863.",
+     "url": "https://archive.org/details/dictionnaireinfo00coll"
+    },
+    {
+     "text": "Principe, Lawrence M. *The Secrets of Alchemy*. Chicago: U of Chicago Press, 2013.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo15506424.html"
+    },
+    {
+     "text": "Newman, William R., and Lawrence M. Principe. *Alchemy Tried in the Fire: Starkey, Boyle, and the Fate of Helmontian Chymistry*. Chicago: U of Chicago Press, 2002.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/A/bo3640773.html"
+    },
+    {
+     "text": "Rampling, Jennifer M. *The Experimental Fire: Inventing English Alchemy, 1300–1700*. Chicago: U of Chicago Press, 2020.",
+     "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo49703936.html"
+    },
+    {
+     "text": "Cavendish, Richard. *The Black Arts*. New York: Putnam, 1967.",
+     "url": "https://www.worldcat.org/title/black-arts/oclc/220338"
+    },
+    {
+     "text": "Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Elixir_de_vie.png",
+     "url": "https://commons.wikimedia.org/wiki/File:Elixir_de_vie.png"
+    }
    ],
    "figures": [],
    "medium": "engraving"
