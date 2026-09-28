@@ -1,0 +1,17 @@
+[
+  {"query": "Zosimos alembic Byzantine manuscript", "out": "apparatus/zosimos_alembic.jpg", "prefer": "Byzantine"},
+  {"query": "Dee Monas Hieroglyphica engraving", "out": "enochian/dee_monas.jpg", "prefer": "Monas"},
+  {"query": "tarot card trump divination 1500s", "out": "tarot/historic_tarot_trump.jpg", "prefer": "Visconti"},
+  {"query": "Kepler Harmonices Mundi cosmos diagram", "out": "cosmology/kepler_cosmos.jpg", "prefer": "Kepler"},
+  {"query": "Della Porta Natural Magic mirror", "out": "hermetic/della_porta.jpg", "prefer": "Porta"},
+  {"query": "Dürer Melencolia I Saturn engraving", "out": "astrology/durer_melancolia.jpg", "prefer": "Dürer"},
+  {"query": "Gerard Dou magician mirror alchemy", "out": "reception/dou_magician.jpg", "prefer": "Dou"},
+  {"query": "Rembrandt philosopher alchemy laboratory", "out": "reception/rembrandt_alchemist.jpg", "prefer": "Rembrandt"},
+  {"query": "Bruegel alchemist laboratory workshop", "out": "reception/bruegel_alchemist.jpg", "prefer": "Bruegel"},
+  {"query": "Codex Gigas demon devil manuscript", "out": "grimoire/codex_gigas_devil.jpg", "prefer": "Gigas"},
+  {"query": "Faustus Valdemar German chapbook woodcut", "out": "grimoire/faust_chapbook.jpg", "prefer": "Faust"},
+  {"query": "Ripley scroll dragon toad serpent emblem", "out": "alchemy_ms/ripley_dragon.jpg", "prefer": "Ripley"},
+  {"query": "Aurora Consurgens dragon coniunctio medieval", "out": "alchemy_ms/aurora_dragon.jpg", "prefer": "Aurora"},
+  {"query": "Nicolas Flamel tomb gravestone Paris", "out": "figures/flamel_tombstone.jpg", "prefer": "Flamel"},
+  {"query": "Leonardo mirror writing reversed script", "out": "figures/leonardo_mirror.jpg", "prefer": "Leonardo"}
+]

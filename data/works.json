@@ -177,7 +177,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/Category:Occultists",
     "rights": "Public domain. Via Wikimedia Commons.",
     "blurb": "Faces of the tradition — portraits of the philosophers, magi, and adepts whose names run through the works in this archive.",
-    "count": 1
+    "count": 6
   },
   {
     "key": "grimoire_plates",
@@ -192,7 +192,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/Category:Key_of_Solomon",
     "rights": "Public domain. Via Wikimedia Commons.",
     "blurb": "Plates from the ceremonial-magic tradition — protective circles, triangles of art, and spirit seals from the Keys of Solomon.",
-    "count": 2
+    "count": 4
   },
   {
     "key": "tarot",
@@ -252,7 +252,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/Category:Astrology",
     "rights": "Public domain. Via Wikimedia Commons / Rijksmuseum.",
     "blurb": "The reading of celestial influence — the Children of the Planets, the Saturnine melancholy of Dürer's masterpiece, and the geometry of the heavens.",
-    "count": 2
+    "count": 3
   },
   {
     "key": "enochian",
@@ -313,6 +313,21 @@
     "rights": "Public domain. Via Wikimedia Commons.",
     "blurb": "The 19th-century occult revival — Éliphas Lévi's Baphomet and the Theosophists' Thought-Forms — where the old tradition was reborn and made modern.",
     "count": 2
+  },
+  {
+    "key": "sacred_geometry",
+    "title": "Sacred Geometry & Cosmic Order",
+    "creator": "various (Leonardo, Kepler, Agrippa)",
+    "date": "1490–1619",
+    "era": "renaissance",
+    "tradition": "hermetic",
+    "tier": "illustration",
+    "place": "Italy / German lands",
+    "language": "Latin",
+    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Sacred_geometry",
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "blurb": "The divine geometry of the cosmos — Leonardo's Vitruvian Man, the proportions of the human body as microcosm of creation, and the platonic solids as the building blocks of the elements.",
+    "count": 24
   },
   {
     "key": "alchemy_ms",
@@ -1123,21 +1138,6 @@
     "rights": "Public domain / CC0 / CC BY-SA (per item). Via Wikimedia Commons.",
     "blurb": "The screenfold divinatory books of Postclassic Mesoamerica — the Codex Borgia group (Borgia, Vaticanus B, Cospi, Laud, Fejérváry-Mayer), the Aztec Borbonicus and Codex Ríos, and the Maya Dresden and Madrid codices — together with the gods who govern their 260-day count: Quetzalcoatl, Tezcatlipoca, the death-lord Mictlantecuhtli, the filth-eater Tlazolteotl, and the star-demon tzitzimime. These almanacs map fate, time, the four directions, and the calendar onto a ritual cosmos, crowned by the Aztec Sun Stone.",
     "count": 15
-  },
-  {
-    "key": "sacred_geometry",
-    "title": "Sacred Geometry & Number-Mysticism",
-    "creator": "various",
-    "date": "1st c. CE – early 20th c.",
-    "era": "renaissance",
-    "tradition": "hermetic",
-    "tier": "illustration",
-    "place": "Italy, German lands, France, England",
-    "language": "Latin and vernacular",
-    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Sacred_geometry",
-    "rights": "Public domain / CC BY (per item). Via Wikimedia Commons.",
-    "blurb": "Renaissance and early-modern prints and diagrams in which geometry carries cosmic and esoteric meaning: Leonardo's and Agrippa's microcosmic men in circle and square, the Platonic solids of Pacioli and Kepler, the divine proportion and golden spiral, the vesica piscis, the squaring of the circle, monochord harmonics, Dürer's constructions, and Robert Fludd's geometric cosmos.",
-    "count": 23
   },
   {
     "key": "tarot_historic",

@@ -495,6 +495,19 @@ SOURCES = [
                  "Thought-Forms — where the old tradition was reborn and made modern.",
     },
     {
+        "key": "sacred_geometry", "short_id": "SGM", "title": "Sacred Geometry & Cosmic Order",
+        "creator": "various (Leonardo, Kepler, Agrippa)", "date": "1490–1619", "century": 16,
+        "place": "Italy / German lands", "region": "Europe", "language": "Latin",
+        "era": "renaissance", "tradition": "hermetic", "tier": "illustration", "root": "LOCAL",
+        "image_dir": "sacred_geometry",
+        "provenance_url": "https://commons.wikimedia.org/wiki/Category:Sacred_geometry",
+        "rights": "Public domain. Via Wikimedia Commons.",
+        "motifs": ["vitruvian", "platonic solids", "geometry", "golden ratio", "macrocosm"],
+        "blurb": "The divine geometry of the cosmos — Leonardo's Vitruvian Man, the proportions "
+                 "of the human body as microcosm of creation, and the platonic solids as the building "
+                 "blocks of the elements.",
+    },
+    {
         "key": "alchemy_ms", "short_id": "AMS", "title": "Medieval Alchemical Manuscripts",
         "creator": "various", "date": "14th–16th c.", "century": 15,
         "place": "Latin Europe", "region": "Europe", "language": "Latin / German",
