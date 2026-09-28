@@ -1,5 +1,5 @@
 {
- "generated_records": 3581,
+ "generated_records": 3584,
  "works": [
   {
    "key": "atalanta_fugiens",
@@ -134,7 +134,7 @@
    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Chrysopoeia_of_Cleopatra",
    "rights": "Public domain (PD Mark 1.0). Via Wikimedia Commons.",
    "blurb": "The deepest stratum of the tradition — the self-devouring serpent, the oldest alchemical sign, in its earliest surviving witnesses (the Chrysopoeia of Kleopatra and the Byzantine copies that transmit it).",
-   "count": 2
+   "count": 3
   },
   {
    "key": "antiquity_apparatus",
@@ -209,7 +209,7 @@
    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Tarot",
    "rights": "Public domain. Via Wikimedia Commons.",
    "blurb": "The trump cards of the tarot across five centuries — from the painted Visconti-Sforza deck to the occult Rider-Waite-Smith — the visual backbone of Western cartomancy.",
-   "count": 3
+   "count": 4
   },
   {
    "key": "witchcraft",
@@ -254,7 +254,7 @@
    "provenance_url": "https://commons.wikimedia.org/wiki/Category:Astrology",
    "rights": "Public domain. Via Wikimedia Commons / Rijksmuseum.",
    "blurb": "The reading of celestial influence — the Children of the Planets, the Saturnine melancholy of Dürer's masterpiece, and the geometry of the heavens.",
-   "count": 3
+   "count": 4
   },
   {
    "key": "enochian",
@@ -16899,6 +16899,40 @@
      "url": ""
     }
    ],
+   "figures": [],
+   "medium": "relief"
+  },
+  {
+   "id": "antiquity_ouroboros__ouroboros-medieval",
+   "title": "The Ouroboros — Earliest Witnesses",
+   "work": "The Ouroboros — Earliest Witnesses",
+   "work_key": "antiquity_ouroboros",
+   "short_id": "OUR",
+   "creator": "various (Hellenistic–Byzantine)",
+   "date": "1st c. CE – 1478 (copies)",
+   "century": 1,
+   "place": "Egypt / Byzantium",
+   "region": "Eastern Mediterranean",
+   "language": "Greek",
+   "era": "antiquity",
+   "tradition": "alchemy",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "ouroboros",
+    "serpent",
+    "dragon",
+    "hen to pan",
+    "unity",
+    "antiquity"
+   ],
+   "rights": "Public domain (PD Mark 1.0). Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Chrysopoeia_of_Cleopatra",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\antiquity\\ouroboros_medieval.jpg",
+   "thumb": "images/thumbs/antiquity_ouroboros__ouroboros-medieval.jpg",
+   "card": "images/cards/antiquity_ouroboros__ouroboros-medieval.jpg",
+   "summary": "[PLACEHOLDER: scholarly summary needed — see overrides.json]",
+   "summary_status": "placeholder",
    "figures": [],
    "medium": "relief"
   },
@@ -43757,6 +43791,40 @@
    "figures": [
     "Dürer"
    ],
+   "medium": "engraving"
+  },
+  {
+   "id": "astrology__talisman-charm",
+   "title": "Astrology & the Stars",
+   "work": "Astrology & the Stars",
+   "work_key": "astrology",
+   "short_id": "AST",
+   "creator": "various",
+   "date": "15th–16th c.",
+   "century": 15,
+   "place": "German lands / Netherlands",
+   "region": "Europe",
+   "language": "—",
+   "era": "renaissance",
+   "tradition": "astrology",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "zodiac",
+    "planet",
+    "saturn",
+    "melancholy",
+    "planetary children",
+    "star"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons / Rijksmuseum.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Astrology",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\astrology\\talisman_charm.jpg",
+   "thumb": "images/thumbs/astrology__talisman-charm.jpg",
+   "card": "images/cards/astrology__talisman-charm.jpg",
+   "summary": "[PLACEHOLDER: scholarly summary needed — see overrides.json]",
+   "summary_status": "placeholder",
+   "figures": [],
    "medium": "engraving"
   },
   {
@@ -86973,6 +87041,39 @@
     "Simon Magus"
    ],
    "medium": "painting"
+  },
+  {
+   "id": "tarot__rws-classic-deck",
+   "title": "Tarot — A Visual History",
+   "work": "Tarot — A Visual History",
+   "work_key": "tarot",
+   "short_id": "TAR",
+   "creator": "various",
+   "date": "15th c. – 1909",
+   "century": 15,
+   "place": "Italy / France / England",
+   "region": "Europe",
+   "language": "—",
+   "era": "renaissance",
+   "tradition": "divination",
+   "tier": "illustration",
+   "seq": null,
+   "motifs": [
+    "tarot",
+    "trump",
+    "divination",
+    "cards",
+    "allegory"
+   ],
+   "rights": "Public domain. Via Wikimedia Commons.",
+   "provenance_url": "https://commons.wikimedia.org/wiki/Category:Tarot",
+   "source_file": "C:\\Dev\\OCCULTIMGDB\\sources_web\\tarot\\rws_classic_deck.jpg",
+   "thumb": "images/thumbs/tarot__rws-classic-deck.jpg",
+   "card": "images/cards/tarot__rws-classic-deck.jpg",
+   "summary": "[PLACEHOLDER: scholarly summary needed — see overrides.json]",
+   "summary_status": "placeholder",
+   "figures": [],
+   "medium": "engraving"
   },
   {
    "id": "tarot__visconti-sforza",

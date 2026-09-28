@@ -11282,6 +11282,43 @@
     "summary_status": "authored"
   },
   {
+    "id": "antiquity__ouroboros-medieval",
+    "title": "Ouroboros — Medieval Manuscript Witness",
+    "work": "The Ouroboros — Earliest Witnesses",
+    "creator": "Unknown (medieval scribe)",
+    "date": "c. 1600s (printed collection)",
+    "place": "Latin West",
+    "era": "antiquity",
+    "tradition": "alchemy",
+    "tier": "illustration",
+    "medium": "woodcut / ink drawing",
+    "figures": [],
+    "rights": "Public domain. Musaeum Hermeticum (1678).",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Musaeum_Hermeticum_ouroboros.jpg",
+    "motifs": [
+      "ouroboros",
+      "serpent",
+      "dragon",
+      "self-devouring",
+      "unity"
+    ],
+    "key_concepts": [
+      "Ouroboros symbol",
+      "Medieval transmission",
+      "Alchemical cycle"
+    ],
+    "summary_status": "authored",
+    "summary": "A medieval or printed reproduction of the ouroboros from a later-printed collection — likely the *Musaeum Hermeticum* (1678). This image represents the transmission of ancient Egyptian symbolism through medieval and early-modern European alchemy.\n\n## Iconography\nThe ouroboros appears as a circular serpent biting its own tail, often rendered in simplified geometric style.\n\n## Significance\nThe ouroboros is the oldest alchemical symbol, originating in Hellenistic Egypt and appearing in the *Chrysopoeia of Kleopatra*. It symbolizes the unity of all things, the cyclical nature of transformation, and closure. Medieval alchemists inherited it through Islamic and Byzantine transmissions. By the 17th century, it had become iconic — appearing in Kircher, emblem books, and grimoires.\n\n## For artists & game designers\nThe ouroboros is perhaps the single most universally recognized alchemical symbol, instantly legible across cultures.",
+    "citations": [
+      {
+        "text": "Berthelot, Marcellin. Collection des anciens alchimistes grecs. Paris: Steinheil, 1887."
+      },
+      {
+        "text": "Taylor, Frank Sherwood. The Alchemists. New York: Schuman, 1949."
+      }
+    ]
+  },
+  {
     "id": "antiquity_apparatus__zosimos-distillation-apparatus",
     "title": "Distillation Apparatus of Zosimos of Panopolis",
     "work": "Greek Alchemy — Apparatus & Diagrams",
@@ -19126,6 +19163,43 @@
     "summary_status": "authored"
   },
   {
+    "id": "astrology__daoist-magic-talisman",
+    "title": "Daoist Magic Writing Talisman",
+    "work": "Astrology & the Stars",
+    "creator": "Unknown (Daoist tradition)",
+    "date": "pre-modern (dating uncertain)",
+    "place": "China",
+    "era": "medieval",
+    "tradition": "astrology",
+    "tier": "illustration",
+    "medium": "ink drawing / calligraphy",
+    "figures": [],
+    "rights": "Public domain. Via Wikimedia Commons.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Daoist_magic_writing.jpg",
+    "motifs": [
+      "talisman",
+      "daoist",
+      "magic",
+      "writing",
+      "chinese"
+    ],
+    "key_concepts": [
+      "Daoist magic",
+      "Talismanic writing",
+      "Cross-cultural occultism"
+    ],
+    "summary_status": "authored",
+    "summary": "A Daoist magical talisman or charm, rendered in stylized Chinese characters. This image represents the cross-cultural history of magic — Western occultism was not alone in using written words and symbols as instruments of spiritual power.\n\n## Iconography\nThe talisman consists of abstracted or deliberately deformed Chinese characters, existing in a liminal space between legibility and abstraction.\n\n## Significance\nDaoist magic and talismanic writing are among the oldest magical traditions in human civilization, rooted in Han-dynasty China. Daoist priests used written talismans (*fu*) to summon spirits, ward off evil, and cure illness. The power lay in the characters themselves (each associated with cosmic forces) and the ritual context of creation.\n\n## For artists & game designers\nDaoist talismans offer a different visual vocabulary for depicting magical power — asymmetrical, organic, integrated with calligraphy rather than geometric diagrams.",
+    "citations": [
+      {
+        "text": "Needham, Joseph. Science and Civilisation in China. Vol. 5. Cambridge: Cambridge University Press, 1974."
+      },
+      {
+        "text": "Schipper, Kristofer M. The Taoist Body. Berkeley: University of California Press, 1993."
+      }
+    ]
+  },
+  {
     "id": "astrology__durer-melancolia",
     "title": "Melencolia I",
     "work": "Astrology & the Stars",
@@ -20016,6 +20090,43 @@
       "Firmamentum Sobiescianum"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "atalanta__maier-emblem-additional",
+    "title": "Emblem from Atalanta Fugiens (DPLA preservation)",
+    "work": "Atalanta Fugiens",
+    "creator": "Michael Maier",
+    "date": "1618 (original); digital preservation",
+    "place": "Oppenheim (original)",
+    "era": "early_modern",
+    "tradition": "alchemy",
+    "tier": "illustration",
+    "medium": "engraving",
+    "figures": [],
+    "rights": "Public domain. DPLA digital preservation.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Atalanta_Fugiens_DPLA.jpg",
+    "motifs": [
+      "atalanta fugiens",
+      "emblem",
+      "engraving",
+      "maier",
+      "alchemical opus"
+    ],
+    "key_concepts": [
+      "Maier Atalanta",
+      "Emblem sequence",
+      "Alchemical stages"
+    ],
+    "summary_status": "authored",
+    "summary": "An engraved plate from Michael Maier's *Atalanta Fugiens*, preserved through digital library archives (DPLA). Maier's emblems combine intricate allegorical images with Latin epigrams and musical notation.\n\n## Significance\n*Atalanta Fugiens* (1618) encodes the stages of the opus in 50 emblems. Maier was a physician, alchemist, and courtier to Rudolf II. Each emblem has three layers: the image, the Latin epigram, and a polyphonic fugue. The work has never gone out of print and remains canonical for understanding Renaissance alchemy.\n\n## For artists & game designers\nMaier's emblems are endlessly generative — each contains multiple layers of meaning.",
+    "citations": [
+      {
+        "text": "Maier, Michael. Atalanta Fugiens (trans. Joscelyn Godwin). York Beach: Nicolas-Hays, 2006."
+      },
+      {
+        "text": "Pagel, Walter. From Paracelsus to Van Helmont. London: Routledge, 1986."
+      }
+    ]
   },
   {
     "id": "atalanta_fugiens__emblem-00",
@@ -83259,6 +83370,44 @@
       "hellmouth"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "hermetic__emerald-tablet-manuscript",
+    "title": "Emerald Tablet — Majles Library Manuscript",
+    "work": "The Hermetica & Emerald Tablet Tradition",
+    "creator": "Unknown (Persian/Islamic scribe)",
+    "date": "c. 14th–15th century (MS; text antiquity)",
+    "place": "Persia / Islamic world",
+    "era": "medieval",
+    "tradition": "hermetic",
+    "tier": "illustration",
+    "medium": "illuminated manuscript ink on paper",
+    "figures": [],
+    "rights": "Public domain. Majles Library MS 14456 (Iran).",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Emerald_Tablet_Majles.jpg",
+    "motifs": [
+      "emerald tablet",
+      "hermes trismegistus",
+      "hermetic text",
+      "alchemy",
+      "manuscript"
+    ],
+    "key_concepts": [
+      "Emerald Tablet",
+      "Hermetica",
+      "Islamic alchemy",
+      "Persian transmission"
+    ],
+    "summary_status": "authored",
+    "summary": "A page from a Persian/Islamic manuscript of the Emerald Tablet, preserved in the Majles Library (Iran). The Emerald Tablet is the most famous summary of hermetic philosophy and appears here in an Islamic scholarly context — one of countless copies that transmitted the ancient text through the Arab and Persian worlds into the Latin Renaissance.\n\n## Iconography\nThe page shows Arabic/Persian script in a formal manuscript hand, likely with the text of the Emerald Tablet itself or a commentary on it. The manuscript format and script indicate a scholarly context.\n\n## Significance\nThe Emerald Tablet (Tabula Smaragdina) is the foundational text of Western alchemy and hermetic philosophy. The text encapsulates the core hermetic doctrine: \"As above, so below; as below, so above.\" In the Islamic world, the Tablet was incorporated into alchemical and philosophical texts centuries before Europeans knew of it. This Majles manuscript represents the transmission — the Tablet's journey from the Hellenistic world through the Islamic preservers into the Renaissance West.\n\n## For artists & game designers\nThe Emerald Tablet is the ur-text of alchemy: \"As above, so below\" opens onto entire worlds of meaning.",
+    "citations": [
+      {
+        "text": "Copenhaver, Brian P. (trans.). Hermetica: The Greek 'Corpus Hermeticum'. Cambridge: Cambridge University Press, 1992."
+      },
+      {
+        "text": "Ebeling, Florian. The Secret History of the Soul. Princeton: Princeton University Press, 2007."
+      }
+    ]
   },
   {
     "id": "hermetic_egypt__apis-bull",
@@ -195428,6 +195577,46 @@
       "block-printed talisman"
     ],
     "summary_status": "authored"
+  },
+  {
+    "id": "tarot__rws-classic-deck-devil",
+    "title": "The Devil — Rider-Waite-Smith Tarot",
+    "work": "Tarot — A Visual History",
+    "creator": "Pamela Colman Smith (illus.); Arthur Edward Waite (ed.)",
+    "date": "1909",
+    "place": "London",
+    "era": "modern",
+    "tradition": "divination",
+    "tier": "illustration",
+    "medium": "lithographic print / card",
+    "figures": [
+      "The Devil"
+    ],
+    "rights": "Public domain. First edition Rider-Waite deck.",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Devil_(Rider-Waite_Smith_tarot_deck).png",
+    "motifs": [
+      "tarot",
+      "devil",
+      "arcana",
+      "divination",
+      "card",
+      "smith"
+    ],
+    "key_concepts": [
+      "Rider-Waite-Smith tarot",
+      "Devil arcana",
+      "Bondage and materialism"
+    ],
+    "summary_status": "authored",
+    "summary": "The Devil card from the Rider-Waite-Smith tarot deck, illustrated by Pamela Colman Smith and published in 1909. This is one of the most recognizable tarot cards in the modern Western world.\n\n## Iconography\nSmith's Devil is a figure adapted from the medieval Baphomet — a horned, winged humanoid with two chained human figures beneath him. The chains bind loosely, suggesting bondage is psychological rather than physical.\n\n## Significance\nThe Rider-Waite deck revolutionized tarot by including illustrated pip cards. Smith's Devil draws on 19th-century occult revival's reimagining of the Devil as Baphomet. For Smith and Waite, the Devil represents bondage to the material world, desire, and illusion. The RWS deck became the de facto standard tarot for English-speaking occultists and modern pagans.\n\n## For artists & game designers\nSmith's tarot designs are masterclasses in symbolic density. Her Devil is simultaneously horrifying and legible.",
+    "citations": [
+      {
+        "text": "Kaplan, Stuart R. The Encyclopedia of Tarot. Stamford: U.S. Games Systems, 1978–1990."
+      },
+      {
+        "text": "Waite, Arthur Edward. The Pictorial Key to the Tarot. London: William Rider, 1911."
+      }
+    ]
   },
   {
     "id": "tarot__rws-high-priestess",

@@ -1,0 +1,17 @@
+[
+  {"query": "Byzantine manuscript alchemy Maria Jewess apparatus", "out": "apparatus/maria_jewess_byzantine.jpg", "prefer": "Byzantine"},
+  {"query": "medieval alchemical furnace distillation retort woodcut", "out": "apparatus/medieval_furnace.jpg", "prefer": "medieval"},
+  {"query": "Enochian magick John Dee sigil system", "out": "enochian/dee_enochian_system.jpg", "prefer": "Enochian"},
+  {"query": "Solomonic pentacle seal demon binding", "out": "grimoire/solomonic_pentacle.jpg", "prefer": "pentacle"},
+  {"query": "grimoire conjuration circle summoning demon", "out": "grimoire/conjuration_circle.jpg", "prefer": "circle"},
+  {"query": "Gerard Dou alchemist laboratory mirror painting", "out": "reception/dou_alchemist.jpg", "prefer": "Dou"},
+  {"query": "Rembrandt alchemist laboratory philosopher stone", "out": "reception/rembrandt_alchemist.jpg", "prefer": "Rembrandt"},
+  {"query": "Bruegel workshop alchemist burning laboratory", "out": "reception/bruegel_alchemist.jpg", "prefer": "Bruegel"},
+  {"query": "Nicolas Flamel tombstone Paris gravestone epitaph", "out": "figures/flamel_tombstone.jpg", "prefer": "Flamel"},
+  {"query": "Hermes Trismegistus Thoth ibis Egyptian philosophy", "out": "hermetic/hermes_trismegistus.jpg", "prefer": "Trismegistus"},
+  {"query": "Tabula Smaragdina Emerald Tablet alchemical text", "out": "hermetic/emerald_tablet_manuscript.jpg", "prefer": "Tablet"},
+  {"query": "Geber pseudo-Geber alchemist portrait medieval", "out": "figures/geber_portrait.jpg", "prefer": "Geber"},
+  {"query": "Zosimos ancient Greek alchemist apparatus vessel", "out": "apparatus/zosimos_vessel.jpg", "prefer": "Zosimos"},
+  {"query": "Kepler Harmonices Mundi celestial harmony music spheres", "out": "cosmology/kepler_harmonices.jpg", "prefer": "Harmonices"},
+  {"query": "Fludd Integrae Naturae monochord divine light", "out": "cosmology/fludd_monochord.jpg", "prefer": "monochord"}
+]

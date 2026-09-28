@@ -1,0 +1,17 @@
+[
+  {"query": "Flamel Hieroglyphica Nicolas stone", "out": "figures/flamel_hieroglyphic.jpg", "prefer": "Flamel"},
+  {"query": "Henry Khunrath physician engraving portrait", "out": "figures/khunrath_physician.jpg", "prefer": "portrait"},
+  {"query": "tarot Rider Waite Smith Arthur Waite", "out": "tarot/rws_classic_deck.jpg", "prefer": "Rider"},
+  {"query": "Maier Atalanta Fugiens emblem engraving", "out": "atalanta/maier_emblem_additional.jpg", "prefer": "Atalanta"},
+  {"query": "Rosarium Philosophorum woodcut coniunctio", "out": "alchemy_classics/rosarium_plate.jpg", "prefer": "Rosarium"},
+  {"query": "medieval ouroboros serpent dragon", "out": "antiquity/ouroboros_medieval.jpg", "prefer": "ouroboros"},
+  {"query": "alchemical retort distillation vessel copper", "out": "apparatus/retort_copper.jpg", "prefer": "retort"},
+  {"query": "alchemical furnace heating athanor", "out": "apparatus/athanor_furnace.jpg", "prefer": "athanor"},
+  {"query": "Sacred geometry compass divider architecture", "out": "sacred_geometry/compass_geometry.jpg", "prefer": "compass"},
+  {"query": "zodiac calendar medieval astronomy diagram", "out": "astrology/zodiac_calendar.jpg", "prefer": "zodiac"},
+  {"query": "planetary hour system day week astrology", "out": "astrology/planetary_hours.jpg", "prefer": "hours"},
+  {"query": "magic square number kamea Saturn Jupiter", "out": "astrology/magic_square_kamea.jpg", "prefer": "square"},
+  {"query": "tarot trump arcana medieval card game", "out": "tarot/arcana_trump.jpg", "prefer": "trump"},
+  {"query": "divination fortune telling card reading", "out": "divination/fortune_divination.jpg", "prefer": "fortune"},
+  {"query": "talisman amulet magical protection charm", "out": "astrology/talisman_charm.jpg", "prefer": "talisman"}
+]
