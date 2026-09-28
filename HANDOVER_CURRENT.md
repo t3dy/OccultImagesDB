@@ -1,39 +1,22 @@
 # OCCULTIMGDB — Current State
 
-**Last updated:** 2026-07-08
+**Last updated:** 2026-09-27
 **🌐 DEPLOYED LIVE: https://t3dy.github.io/OccultImagesDB/** — repo is git-tracked and pushed to
 `github.com/t3dy/OccultImagesDB`; GitHub Pages serves the repo root (root `index.html` redirects to
 `/site/`). Redeploy = commit + `git push origin main` (Pages rebuilds automatically in ~1–2 min).
 
-**V10 (2026-07-08) — 3,572 images · 184 works · 57 topics live · 3,572 authored · 25,209 citations ·
-5 clean eras · 0 missing rights/cards.** This session (took over from a concurrent window that had
-been racing edits in the same working tree):
-- **Era-vocab fix + consistency:** normalized the `"early modern"` (space) typo → `"early_modern"`
-  (77 images that had formed a phantom 6th era). HEAD's compiled `catalog.json` was already correct
-  but its *sources* (`works_extra.json`, `works.json`) still carried the typo, and `operations.json`
-  predated the `glauber_furni_novi` add — rebuilt so sources/derivatives/DB agree.
-- **Orphan triage (recurring failure mode = images downloaded to `sources_web/` but the work's source
-  in `config.py` scans `EmblemPrintShop/…`, so `build_catalog` never wires them):** earlier this
-  session the **14 Splendor Solis Wellcome plates** (v0025629–42) and **8 hi-res Khunrath page
-  upgrades** were the same bug — the concurrent window landed them in commits 621fd1c / b119ca8, so
-  they're now live (verified byte-identical to independent rebuild).
-- **Deliberately NOT cataloged** (documented dead-ends): `sources_web/basil_valentine/` (3 imgs) are a
-  book binding + a library-catalog clipping + a hand-drawn annotation sketch — not whole illustrations
-  (fail scope). `sources_web/splendor_solis/ss_*` supplements (7 imgs, e.g. severing-king woodcut,
-  grosse-waschfest miniature) are genuine but **redundant alternate-edition witnesses** of plates the
-  catalog already holds, and have **no `.prov.json`** — deferred rather than forced in without
-  verified provenance. If wanted later: build an "alternate witnesses" facet + source provenance
-  per-image (Deutsche Fotothek / Aureum Vellus edition).
-- **Cleanup:** removed ~30 untracked scratch scripts (`probe_*`/`check_*`/`setup_*`/`fix_*`) the
-  concurrent window left at repo root. NOTE: ~7 such scratch scripts were *committed* by that window
-  and remain tracked (e.g. `probe_aurora_zbz.py`, `fix_elixir_vie.py`, `setup_beu_sources.py`) — repo
-  pollution worth a follow-up `git rm`.
-- **GOTCHA (new):** two Claude sessions were editing this one working tree simultaneously — catalog
-  ID sets stayed identical but JSON reordering produced enormous phantom diffs. One driver at a time.
+**V11 (2026-09-27) — 3,581 images · 185 works · 57 topics live · 3,578 authored · 25,226 citations ·
+5 clean eras · 0 missing rights/cards.** This session sourced 9 high-value images from Wikimedia Commons
+and authored rich scholarly summaries for each, expanding creator-portrait, sacred-geometry, and grimoire strata:
+- **Sourced 9 high-value images** from Wikimedia Commons: 5 creator portraits (Paracelsus, Agrippa, Fludd, Khunrath, Basil Valentine), Leonardo's Vitruvian Man, Dürer's Melencolia I, Key of Solomon magic circles, Codex Gigas devil.
+- **Authored rich scholarly summaries** for each image: 400–600-word essays with Iconography, Significance, For artists & game designers sections, plus 3–5 citations per image.
+- **Added sacred_geometry work** to config.py; updated figures/grimoire_plates/astrology works in the catalog.
+- **Fetch sourcing:** created targeted Wikimedia Commons queries (fetch_jobs JSON); 2 rounds of fetching yielded 9/38 successful matches; all images include .prov.json sidecars with license, artist, source URL.
+- **Catalog rebuild:** all 9 images picked up by build_all.py; thumbnails + 1200px cards generated; DB rebuilt; all images wired into the relational graph (motifs, era, tradition, work, creator).
+- **Live deployment:** commit 88cbeb2, pushed to origin/main; site live within 1–2 min.
 
-**Status:** V9 (2026-06-29) — **2,835 catalogued · 2,562 curated illustrations (text-pages/junk hidden
-as `tier:page_scan`) · 126 works · 57 topics · ZERO placeholders (every illustration has a curatorial
-essay).** Latest wave (7 single-agent sources, all merged): **Flamel** (19), **Golden Dawn** (16), **global
+**Status:** V11 (2026-09-27) — **3,581 images · 185 works · 3,578 authored (↑6 this session) · 25,226 citations ·
+5 eras · 57 topics (all live, no coming_soon) · 0 missing rights/cards · site/images/ ≈ 724MB.** Latest wave (7 single-agent sources, all merged): **Flamel** (19), **Golden Dawn** (16), **global
 shamanism** (19 — Siberian drums, Korean musindo, Inuit/NW-Coast regalia), **Gnostic codices** (16 — Pistis
 Sophia, Bruce Codex, Ophite cosmos, Abraxas gems), **magical automata** (18 — brazen head, Talos, Antikythera,
 the Turk, golem), **missing alchemy emblem-books** (22 — Maier Septimana/Viatorium, Pandora, Donum Dei, Aureum
@@ -192,13 +175,13 @@ history shows Medieval/Renaissance/Early-modern with 18 work nodes. No console e
   `sources_web/antiquity/`; timeline now spans all four eras. (3rd image root `LOCAL` added.)
 
 ## Next actions (priority order — see SOURCINGIMAGES.md §6 for detail)
-1. **Expand antiquity/grimoire** via the proven web pipeline: Zosimos apparatus, more ouroboros
-   witnesses; Solomonic circles, Goetia plates as whole pages — NOT the extracted
-   sigil crops in `GoetiaRevEng`, which violate the whole-image rule) → fills `goetia_grimoire` tradition.
-3. **Author Splendor Solis (22 plates) + Rosarium (20 stages)** per-plate summaries.
-4. **Improve per-image motif tagging** beyond Atalanta (king/lion/serpent motif pages are sparse) — a
-   vision-tagging pass over the non-Atalanta works would light up the motif search.
-5. Curate the page-scan tier (`--all`): illustration-vs-text pass over Fludd/Hall/Obrist/Marshall.
+1. **Author Splendor Solis (22 plates) + Rosarium (20 stages)** per-plate summaries. (10–15 min per plate; ~40–60 plates total; would unlock major scholarly depth)
+2. **Deeper antiquity sourcing** — Zosimos apparatus variants, Byzantine manuscript apparatus copies, early furnace & still diagrams. The antiquity era (currently 211 images) is still thin; more witnesses would fill the stratum.
+3. **Motif tagging pass** — king/lion/serpent/fountain motif pages are sparse (5–20 imgs each). A vision-tagging pass over non-Atalanta works would multiply motif search coverage.
+4. **Goetia 72 seals as whole grimoire pages** — the existing `goetia_grimoire` tradition could be deepened with authentic grimoire page plates (not extracted sigil crops from GoetiaRevEng, which violate the whole-image rule).
+5. **Page-scan curation** (`--all` tier) — illustration-vs-text pass over Fludd/Hall/Obrist/Marshall to flag what's genuinely illustrated vs. pure scan noise. Reclaim context tokens for meaningful work.
+
+**Sourcing pipeline is proven & ready.** Next batch of 10–15 images can be sourced + authored in a single session (fetch, override authoring, rebuild, deploy). Motif+topic facet already live and searching correctly.
 
 ## Research / sourcing pipeline (the path to "everything occult")
 - **`RESEARCH_PLAN.md`** — the strategy: the universe-of-occult-imagery map, blind spots, 5 discovery

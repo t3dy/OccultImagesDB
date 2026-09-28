@@ -236,3 +236,60 @@ relational site. All compiled via `build_all.py`.
   no provenance sidecars. See HANDOVER_CURRENT.md V10 block.
 - **State:** 3,572 images · 184 works · 3,572 authored · 25,209 citations · 5 clean eras · 0 missing
   cards/thumbs/rights. Deployed via `git push origin main`.
+
+## [2026-09-27] V11 — Continue sourcing: 9 high-value images, creator portraits, sacred geometry, grimoire
+
+**Expanded grimoire, antiquity, and creator portrait strata via web sourcing.**
+
+### Overview
+- Sourced **9 public-domain images** from Wikimedia Commons using `fetch_commons.py`
+- Authored **6 full scholarly summaries** (400–600 words each, with iconography/significance/citations)
+- Added **1 new work**: sacred_geometry (Vitruvian Man, sacred geometry, Leonardo, Kepler)
+- Expanded existing works: figures (5 new creator portraits), grimoire_plates (2 new plates), astrology (Dürer)
+
+### Sourced images & summaries authored
+1. **figures__paracelsus-portrait** — Hirschvogel portrait, Paracelsus the physician-magus
+2. **figures__agrippa-portrait** — Portrait of Cornelius Agrippa, De Occulta Philosophia systematizer
+3. **figures__fludd-portrait** — Balthasar Moncornet engraving, Fludd's visual hermetic cosmos
+4. **figures__khunrath-portrait** — Title-page portrait from Amphitheatrum Sapientiae Aeternae
+5. **figures__valentine-basil-portrait** — Basil Valentine monk-alchemist, Twelve Keys tradition
+6. **sacred-geometry__vitruvian-man** — Leonardo da Vinci's iconic human-divine proportion diagram
+7. **astrology__durer-melancolia** — Albrecht Dürer's masterpiece, melancholy & Saturn, 1514
+8. **grimoire-plates__solomon-circles-01** — Magic circles & planetary seals from Key of Solomon, Wellcome MS
+9. **grimoire-plates__codex-gigas-devil** — Codex Gigas devil image, medieval Swedish monastery, 13th c.
+
+### Sourcing methodology
+- Created fetch_jobs JSON with 25 targeted Wikimedia Commons queries
+- Executed 2 rounds of `fetch_commons.py` fetching; 9/38 queries successful (18 no results, 11 fell back)
+- Successful queries: Solomon circles (Wellcome CC-BY), all 5 creator portraits (PD), Vitruvian Man (PD),
+  Dürer Melencolia (PD), Codex Gigas devil (CC0)
+- Downloaded images → `sources_web/{figures,grimoire,sacred_geometry,astrology}/`
+- Each image includes `.prov.json` sidecar with license, artist, source URL, dimensions
+
+### Catalog rebuild & publication
+- Added sacred_geometry work registration to `scripts/config.py` 
+- Authored summaries in `data/overrides.json` with full scholarly apparatus (Iconography, Significance, For artists & game designers, 3–5 citations each)
+- Ran `build_all.py` → catalog rebuilt, thumbnails + 1200px cards generated
+- **State:** 3,581 images · 185 works · 3,578 authored (↑6) · 25,226 citations (↑17) · 5 eras
+  - early_modern: 1,451 (↑2)
+  - renaissance: 941 (↓2, recount)
+  - modern: 618
+  - medieval: 360
+  - antiquity: 211
+- **Size:** site/images/ ≈ 724MB (was ~717MB; new images well within budget)
+- Committed as `88cbeb2`, deployed live via `git push origin main`
+
+### What worked
+- **Sourcing pipeline proven again:** fetch_commons.py → sources_web/ → config registration → override authoring → build_all.py → deployed
+- **Creator portrait faces now on entity pages:** Paracelsus/Agrippa/Fludd/Khunrath/Valentine pages can now show the historical faces
+- **Sacred geometry work fills a gap:** Vitruvian Man is canonical; Leonardo/Kepler/Platonic solids context established
+- **Grimoire deepened:** Solomon circles + Codex Gigas devil round out the ceremonial & medieval grimoire strata
+- **Motif coverage:** all 9 images tagged with 3–5 relevant motifs each; search queries now reach these figures
+
+### Next actions (reprioritized)
+1. **Splendor Solis + Rosarium plate-by-plate authoring** (22 + 20 plates, 10–15 min per plate summary)
+   - These works are already in the catalog but with generic descriptions; rich per-plate essays would unlock scholarly depth
+2. **Deeper antiquity sourcing** — Zosimos apparatus variants, Byzantine MS apparatus copies, early furnaces still need coverage
+3. **Motif tagging pass** — King/lion/serpent motif pages are sparse; a vision-pass over non-Atalanta works would increase motif search hits
+4. **Goetia 72 seals as whole grimoire pages** (not extracted sigils from GoetiaRevEng) — the existing goetia_grimoire tradition could be deepened
+5. **Page-scan curation** (--all tier) — illustration-vs-text pass over Fludd/Hall/Obrist/Marshall to flag what's genuinely illustrated vs. pure scan noise
